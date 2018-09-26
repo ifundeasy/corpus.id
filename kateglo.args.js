@@ -19,7 +19,7 @@ const lexicons = {
         {desc: 'Interjection', val: 'i'}, //kata seru: interjeksi
         {desc: 'Conjunction', val: 'k'}, //kata sambung
         {desc: 'Bounded form', val: 'bt'}, //kata dg bentuk terikat
-        {desc: 'Other', val: 'l'} //kata sebagai partikel lain
+        {desc: 'Other', val: 'l'} //kata sebagai partikel lain, seperti kata sandang
     ]
 };
 const types = {
