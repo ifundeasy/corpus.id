@@ -43,13 +43,16 @@ fs.readdirSync(rawdir).forEach(function(file, i){
         }
 
         for (let tag in tags) {
-            let fname3 = `${datadir}lexicon.${lexicons[tag.toLowerCase()]}.txt`;
-            if (!datafiles[fname3]) {
-                fs.writeFileSync(fname3, text + '\n');
-                datafiles[fname3] = 1;
-            } else {
-                fs.appendFileSync(fname3, text + '\n');
-            }
+        	let lextype = lexicons[tag.toLowerCase()];
+        	if (lextype) {
+	            let fname3 = `${datadir}lexicon.${lextype}.txt`;
+	            if (!datafiles[fname3]) {
+	                fs.writeFileSync(fname3, text + '\n');
+	                datafiles[fname3] = 1;
+	            } else {
+	                fs.appendFileSync(fname3, text + '\n');
+	            }	
+        	}
         }
 
     }
