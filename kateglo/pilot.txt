@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pilot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengemudi pesawat terbang; penerbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pilot",
+  "related": [],
+  "detailed": false
+}

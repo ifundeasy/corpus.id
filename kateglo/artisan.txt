@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli membuat barang kerajinan tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artisan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka utuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan bulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20utuh",
+  "related": [],
+  "detailed": false
+}

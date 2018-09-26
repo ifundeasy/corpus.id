@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan milik desa tempat warga desa berkumpul pada waktu mengadakan musyawarah atau pertemuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20desa",
+  "related": [],
+  "detailed": false
+}

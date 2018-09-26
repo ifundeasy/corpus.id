@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mentah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belum masak; belum waktunya untuk dipetik, diambil hasilnya dsb (seperti buah-buahan);"
+      },
+      {
+        "type": "desc",
+        "text": "belum matang; belum selesai diolah untuk dimakan (tentang makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "belum mantap benar; belum sempurna; belum putus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mentah",
+  "related": [],
+  "detailed": false
+}

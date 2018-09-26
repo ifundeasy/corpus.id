@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita atau laporan yang berasal dari polisi, biasanya tentang peristiwa yang menyangkut kejahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20polisi",
+  "related": [],
+  "detailed": false
+}

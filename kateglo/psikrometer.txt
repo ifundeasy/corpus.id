@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikrometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kelembapan udara, seperti higrometer, tetapi dengan dua termometer, satu di antaranya dibasahi supaya dapat digunakan untuk mengukur keringnya atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikrometer",
+  "related": [],
+  "detailed": false
+}

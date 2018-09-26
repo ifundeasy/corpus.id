@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abnormalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidaknormalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abnormalitas",
+  "related": [],
+  "detailed": false
+}

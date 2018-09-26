@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teban tiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dibayar sebanyak tiga kali jumlah taruhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teban%20tiga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kadang",
+  "tags": {
+    "adv": [
+      {
+        "type": "link",
+        "text": "kadang-kadang"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengadang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) keluarga; sanak saudara (ada pertalian darah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadang",
+  "related": [],
+  "detailed": false
+}

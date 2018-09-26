@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emosionalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peragaan emosi secara berlebihan;"
+      },
+      {
+        "type": "desc",
+        "text": "kecenderungan meninjau sesuatu secara emosional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emosionalisme",
+  "related": [],
+  "detailed": false
+}

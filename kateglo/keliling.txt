@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keliling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang membatasi suatu bidang;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan di sekitar sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keliling",
+  "related": [],
+  "detailed": false
+}

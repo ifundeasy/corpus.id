@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh atau karyawan yang upahnya diperhitungkan setiap hari ia bekerja (jumlah hari kerjanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja%20harian",
+  "related": [],
+  "detailed": false
+}

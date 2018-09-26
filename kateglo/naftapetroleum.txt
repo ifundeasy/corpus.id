@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nafta petroleum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "fraksi petroleum dalam selang gasolin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nafta%20petroleum",
+  "related": [],
+  "detailed": false
+}

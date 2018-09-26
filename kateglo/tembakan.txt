@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "hasil menembak;"
+      },
+      {
+        "type": "desc",
+        "text": "letusan senjata api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembakan",
+  "related": [],
+  "detailed": false
+}

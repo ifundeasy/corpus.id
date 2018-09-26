@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pukulan datar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr) suatu pukulan yang keras, tetapi bukan smes (dalam bulu tangkis, tenis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukulan%20datar",
+  "related": [],
+  "detailed": false
+}

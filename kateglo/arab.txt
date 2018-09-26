@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Arab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama bangsa di Jazirah Arab dan Timur Tengah;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa Semit yang digunakan bangsa Arab (Saudi Arabia, Suriah, Yordania, Irak, Mesir, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Arab",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air penyeimbang beban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air balas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20penyeimbang%20beban",
+  "related": [],
+  "detailed": false
+}

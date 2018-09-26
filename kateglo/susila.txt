@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susila",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik budi bahasanya; beradab; sopan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat istiadat yang baik; sopan santun; kesopanan; keadaban; kesusilaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang adab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susila",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeringan bertahap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pengeringan bahan tertentu (seperti karet, teh) yang tidak dilakukan sekaligus, melainkan secara bertahap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeringan%20bertahap",
+  "related": [],
+  "detailed": false
+}

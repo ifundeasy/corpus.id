@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelawat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang datang menjenguk (orang mati dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang datang berkunjung ke negeri (negara) lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelawat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minta nyawa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengharap (mohon) supaya tidak dibunuh;"
+      },
+      {
+        "type": "desc",
+        "text": "membawa (menyebabkan terjadinya) korban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minta%20nyawa",
+  "related": [],
+  "detailed": false
+}

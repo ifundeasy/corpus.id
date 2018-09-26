@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal tanker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal tangki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20tanker",
+  "related": [],
+  "detailed": false
+}

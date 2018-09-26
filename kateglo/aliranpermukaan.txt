@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) aliran air hujan di atas tanah sebelum masuk selokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20permukaan",
+  "related": [],
+  "detailed": false
+}

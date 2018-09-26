@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teknologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode ilmiah untuk mencapai tujuan praktis; ilmu pengetahuan terapan;"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan sarana untuk menyediakan barang-barang yang diperlukan bagi kelangsungan dan kenyamanan hidup manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teknologi",
+  "related": [],
+  "detailed": false
+}

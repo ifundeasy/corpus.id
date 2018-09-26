@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "veto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hak konstitusional penguasa (pemegang pemerintahan dsb) untuk mencegah, menyatakan, menolak, atau membatalkan keputusan;"
+      },
+      {
+        "type": "desc",
+        "text": "hak membatalkan (melarang secara mutlak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=veto",
+  "related": [],
+  "detailed": false
+}

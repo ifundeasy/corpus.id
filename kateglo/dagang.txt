@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang berhubungan dengan menjual dan membeli barang untuk memperoleh keuntungan; jual-beli; niaga;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dari negeri asing; asing;"
+      },
+      {
+        "type": "desc",
+        "text": "orang dari negeri asing; pengembara;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendagang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dagang",
+  "related": [],
+  "detailed": false
+}

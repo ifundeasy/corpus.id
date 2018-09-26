@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fertilisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pembuahan; penghamilan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemupukan; perabukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fertilisasi",
+  "related": [],
+  "detailed": false
+}

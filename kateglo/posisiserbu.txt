@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi serbu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "posisi antara garis awal dan sasaran dalam suatu serbuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20serbu",
+  "related": [],
+  "detailed": false
+}

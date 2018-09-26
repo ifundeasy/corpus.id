@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prospektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ada prospeknya; dapat (mungkin) terjadi; ada harapan (baik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prospektif",
+  "related": [],
+  "detailed": false
+}

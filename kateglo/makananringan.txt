@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang bukan berupa nasi (seperti kue-kue) sebagai makanan selingan di antara waktu-waktu makan; kudapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20ringan",
+  "related": [],
+  "detailed": false
+}

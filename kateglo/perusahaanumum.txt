@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang bertujuan mengadakan usaha-usaha produktif di bidang jasa sesuai dengan kebijakan pemerintah dalam rangka meningkatkan pendapatan nasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20umum",
+  "related": [],
+  "detailed": false
+}

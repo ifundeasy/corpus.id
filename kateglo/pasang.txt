@@ -1,0 +1,55 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua orang, laki-laki perempuan atau dua binatang, jantan betina;"
+      },
+      {
+        "type": "desc",
+        "text": "dua benda yang kembar atau yang saling melengkapi;"
+      },
+      {
+        "type": "desc",
+        "text": "dua organ tubuh yang adanya (munculnya) bersama-sama, seperti paru-paru, mata, dan telinga;"
+      },
+      {
+        "type": "desc",
+        "text": "set; perangkat;"
+      },
+      {
+        "type": "desc",
+        "text": "dua orang (pemain dsb) yang merupakan satu satuan;"
+      },
+      {
+        "type": "desc",
+        "text": "naik (tentang air laut atau sungai);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sedang baik (tentang peruntungan); untung;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sedang bangkit (menyerang) (tentang penyakit);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berpasang-pasangan"
+      },
+      {
+        "type": "link",
+        "text": "memasang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang",
+  "related": [],
+  "detailed": false
+}

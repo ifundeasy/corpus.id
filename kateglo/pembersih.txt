@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membersihkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membersihkan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka kebersihan; orang yang selalu menjaga kebersihan diri dan miliknya (lingkungannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembersih",
+  "related": [],
+  "detailed": false
+}

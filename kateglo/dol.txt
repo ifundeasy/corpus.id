@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gendang;"
+      },
+      {
+        "type": "desc",
+        "text": "tiang kapal;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) longgar atau tidak erat lagi (tentang sekrup, ulir, dsb); galir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dol",
+  "related": [],
+  "detailed": false
+}

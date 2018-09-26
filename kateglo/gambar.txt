@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan barang (orang, binatang, tumbuhan, dsb) yang dibuat dengan coretan pensil dsb pada kertas dsb; lukisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gambar",
+  "related": [],
+  "detailed": false
+}

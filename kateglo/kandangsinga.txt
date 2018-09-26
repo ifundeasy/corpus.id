@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kandang singa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berbahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat atau markas musuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandang%20singa",
+  "related": [],
+  "detailed": false
+}

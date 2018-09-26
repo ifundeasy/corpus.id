@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "numeralia partitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) numeralia yang menyatakan pecahan, misal setengah, sepertujuh, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=numeralia%20partitif",
+  "related": [],
+  "detailed": false
+}

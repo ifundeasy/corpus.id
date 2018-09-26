@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katekumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikut pelajaran agama sebelum dibaptis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katekumen",
+  "related": [],
+  "detailed": false
+}

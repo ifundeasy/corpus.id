@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serat selulosa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "segala macam serat yang tersisa setelah dipisahkan dari komponen yang bukan serat kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian utama pohon atau tumbuhan yang digunakan untuk membuat kertas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serat%20selulosa",
+  "related": [],
+  "detailed": false
+}

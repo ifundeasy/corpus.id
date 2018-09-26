@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan dasar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan untuk diolah melalui proses produksi dan menjadi bagian produk; bahan baku;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) bahan tidak berbentuk dari jaringan ikat yang terdapat di antara sel yang berfungsi sebagai semen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20dasar",
+  "related": [],
+  "detailed": false
+}

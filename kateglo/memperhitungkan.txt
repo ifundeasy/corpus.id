@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memperhitungkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengira-ngira dan menghitung-hitung berapa banyak (biaya pengeluaran dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menghitung utang-piutang (pembayarannya dsb) dihubungkan dengan urusan uang yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "mengingat akan; memasukkan dalam pertimbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "mempertimbangkan; merundingkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memperhitungkan",
+  "related": [],
+  "detailed": false
+}

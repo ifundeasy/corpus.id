@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jampuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung hantu; burung celepuk; Bubo orientalis;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjampuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jampuk",
+  "related": [],
+  "detailed": false
+}

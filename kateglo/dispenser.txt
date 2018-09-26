@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dispenser",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin penjual; mesin penyaji;"
+      },
+      {
+        "type": "desc",
+        "text": "penyemprot;"
+      },
+      {
+        "type": "desc",
+        "text": "peranti elektronik yang secara otomatis dapat memanaskan dan mendinginkan air yang siap diminum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dispenser",
+  "related": [],
+  "detailed": false
+}

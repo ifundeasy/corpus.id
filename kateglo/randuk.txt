@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "randuk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meranduk"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berjanggut dan berbulu panjang (tentang kambing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=randuk",
+  "related": [],
+  "detailed": false
+}

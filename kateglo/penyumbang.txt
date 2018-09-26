@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyumbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyumbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyumbang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lembik; lunak;"
+      },
+      {
+        "type": "desc",
+        "text": "lemah; lesu;"
+      },
+      {
+        "type": "desc",
+        "text": "murung; tidak gembira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemau",
+  "related": [],
+  "detailed": false
+}

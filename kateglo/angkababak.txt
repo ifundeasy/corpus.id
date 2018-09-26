@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka babak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) angka (biji) terakhir dalam satu babak (set);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20babak",
+  "related": [],
+  "detailed": false
+}

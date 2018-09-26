@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis tengah;"
+      },
+      {
+        "type": "desc",
+        "text": "garis pertengahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lini",
+  "related": [],
+  "detailed": false
+}

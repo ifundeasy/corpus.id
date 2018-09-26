@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegiatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aktivitas; usaha; pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuatan dan ketangkasan (dalam berusaha); kegairahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegiatan",
+  "related": [],
+  "detailed": false
+}

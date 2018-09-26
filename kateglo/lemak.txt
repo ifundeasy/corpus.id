@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat minyak yang melekat pada daging; gemuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) sedap; enak;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan tawar, Labeobarbus ocelatus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemak",
+  "related": [],
+  "detailed": false
+}

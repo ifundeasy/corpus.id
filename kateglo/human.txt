@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "human",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat manusiawi (seperti manusia yang dibedakan dari binatang, jin, malaikat);"
+      },
+      {
+        "type": "desc",
+        "text": "berperikemanusiaan (baik budi, luhur budi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=human",
+  "related": [],
+  "detailed": false
+}

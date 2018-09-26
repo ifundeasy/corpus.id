@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjumat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan salat bersama-sama di masjid pada hari Jumat dengan cara dan waktu tertentu (siang hari sekitar waktu salat zuhur); melakukan salat Jumat;"
+      },
+      {
+        "type": "desc",
+        "text": "berhimpun; berkumpul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjumat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurusan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) agak lebih kurus daripada sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurusan",
+  "related": [],
+  "detailed": false
+}

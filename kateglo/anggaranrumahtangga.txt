@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran rumah tangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) peraturan pelaksanaan anggaran dasar (bagi perusahaan, perkumpulan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20rumah%20tangga",
+  "related": [],
+  "detailed": false
+}

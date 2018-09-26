@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pusat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang letaknya di bagian tengah;"
+      },
+      {
+        "type": "desc",
+        "text": "titik yang di tengah-tengah benar (dalam bulatan bola, lingkaran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pusar;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok pangkal atau yang menjadi pumpunan (berbagai-bagai urusan, hal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang membawahkan berbagai bagian; orang yang menjadi pumpunan dari bagian-bagian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat",
+  "related": [],
+  "detailed": false
+}

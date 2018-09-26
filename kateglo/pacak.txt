@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pacak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "telah terlatih atau mahir dalam mengerjakan sesuatu; cakap;"
+      },
+      {
+        "type": "desc",
+        "text": "cocok (untuk menusuk satai yang akan dipanggang);"
+      },
+      {
+        "type": "desc",
+        "text": "tongkat (tiang, pancang) yang tajam pada ujungnya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) titik-titik air yang berhamburan; percik;"
+      },
+      {
+        "type": "link",
+        "text": "pacek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pacak",
+  "related": [],
+  "detailed": false
+}

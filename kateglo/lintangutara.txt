@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintang utara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) koordinat untuk menentukan tempat suatu titik pada suatu bulatan yang merupakan jarak lengkung dari titik tersebut dan terletak di sebelah utara garis ekuator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintang%20utara",
+  "related": [],
+  "detailed": false
+}

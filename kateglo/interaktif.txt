@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat saling melakukan aksi; antar-hubungan; saling aktif;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) berkaitan dengan dialog antara komputer dan terminal atau antara komputer dan komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interaktif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "loncatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan meloncat;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil (pendapatan) meloncat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat meloncat; tumpuan meloncat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=loncatan",
+  "related": [],
+  "detailed": false
+}

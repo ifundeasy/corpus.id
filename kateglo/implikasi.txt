@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "implikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterlibatan atau keadaan terlibat;"
+      },
+      {
+        "type": "desc",
+        "text": "yang termasuk atau tersimpul; yang disugestikan, tetapi tidak dinyatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=implikasi",
+  "related": [],
+  "detailed": false
+}

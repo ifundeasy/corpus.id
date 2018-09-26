@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humanisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran yang bertujuan menghidupkan rasa perikemanusiaan dan mencita-citakan pergaulan hidup yang lebih baik;"
+      },
+      {
+        "type": "desc",
+        "text": "paham yang menganggap manusia sebagai objek studi terpenting;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran zaman Renaissance yang menjadikan sastra klasik (dalam bahasa Latin dan Yunani) sebagai dasar seluruh peradaban manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "kemanusiaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humanisme",
+  "related": [],
+  "detailed": false
+}

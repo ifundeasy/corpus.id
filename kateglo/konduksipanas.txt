@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konduksi panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan panas lewat energi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konduksi%20panas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pola (pakaian, batik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "suri (teladan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patron",
+  "related": [],
+  "detailed": false
+}

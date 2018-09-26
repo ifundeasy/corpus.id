@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis pada peta yang menghubungkan tempat yang mem-punyai harga nilai kotor batu bara yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isokal",
+  "related": [],
+  "detailed": false
+}

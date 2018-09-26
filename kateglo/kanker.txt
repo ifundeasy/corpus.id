@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh ketidakteraturan perjalanan hormon yang mengakibatkan tumbuhnya daging pada jaringan tubuh yang normal; tumor ganas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanker",
+  "related": [],
+  "detailed": false
+}

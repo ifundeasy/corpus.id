@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya angkut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan mengangkut muatan atau penumpang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20angkut",
+  "related": [],
+  "detailed": false
+}

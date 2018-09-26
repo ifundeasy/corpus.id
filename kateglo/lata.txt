@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lata",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melata"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buruk; kotor; hina;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) selisih antara air terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lata",
+  "related": [],
+  "detailed": false
+}

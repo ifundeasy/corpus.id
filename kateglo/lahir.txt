@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lahir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar dari kandungan;"
+      },
+      {
+        "type": "desc",
+        "text": "muncul di dunia (masyarakat);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tampak dari luar;"
+      },
+      {
+        "type": "desc",
+        "text": "berupa benda yang kelihatan; keduniaan; jasmani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahir",
+  "related": [],
+  "detailed": false
+}

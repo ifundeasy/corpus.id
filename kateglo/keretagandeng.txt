@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta gandeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "trailer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20gandeng",
+  "related": [],
+  "detailed": false
+}

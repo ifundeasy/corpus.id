@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kayu bergesek dengan kayu dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "percakapan tunggal atau monolog yang dilakukan secara berirama dengan diiringi musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rap",
+  "related": [],
+  "detailed": false
+}

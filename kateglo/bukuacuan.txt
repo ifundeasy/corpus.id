@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku acuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisikan informasi (keterangan) yang dipakai sebagai panduan dalam melaksanakan sesuatu (penelitian dsb); buku rujukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20acuan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dekat (tentang hubungan famili);"
+      },
+      {
+        "type": "desc",
+        "text": "rapat dan erat (tentang persahabatan dsb); intim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karib",
+  "related": [],
+  "detailed": false
+}

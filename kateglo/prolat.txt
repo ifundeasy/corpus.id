@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prolat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "benda putar yang diperoleh apabila elips diputar mengelilingi sumbu panjangnya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk lonjong tiga dimensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prolat",
+  "related": [],
+  "detailed": false
+}

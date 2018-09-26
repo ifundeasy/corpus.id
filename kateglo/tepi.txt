@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tepi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian bidang (permukaan) yang di luar sekali; pinggir;"
+      },
+      {
+        "type": "desc",
+        "text": "birai atau sesuatu yang dipasang di pinggir baju (kain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat di pinggir laut (sungai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbatasan (kota dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian pinggir; bibir (perahu, kuali, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonprotein",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tidak mengandung protein;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonprotein",
+  "related": [],
+  "detailed": false
+}

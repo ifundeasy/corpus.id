@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "pel -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "per -- an"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pel%20--%20an",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompleks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "himpunan kesatuan; kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung beberapa unsur yang pelik, rumit, sulit, dan saling berhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem gagasan yang tertekan atau dikuasai oleh emosi sehingga dapat menimbulkan tingkah laku yang tidak wajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompleks",
+  "related": [],
+  "detailed": false
+}

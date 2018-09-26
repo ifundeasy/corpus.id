@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang sekunder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang bukan merupakan kebutuhan pokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20sekunder",
+  "related": [],
+  "detailed": false
+}

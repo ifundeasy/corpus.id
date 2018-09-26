@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muhadat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "terbatas, tidak luas;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menguraikan dengan jelas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muhadat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang dicampur dengan air (seperti boreh);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kabar yang tidak dipercayai orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20basah",
+  "related": [],
+  "detailed": false
+}

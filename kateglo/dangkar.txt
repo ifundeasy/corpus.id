@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dangkar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dangkal; tohor; cetek;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendangkar"
+      },
+      {
+        "type": "desc",
+        "text": "sangat berani; dakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dangkar",
+  "related": [],
+  "detailed": false
+}

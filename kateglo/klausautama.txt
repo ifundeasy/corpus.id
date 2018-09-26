@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20utama",
+  "related": [],
+  "detailed": false
+}

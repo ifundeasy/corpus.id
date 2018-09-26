@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karyawan tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai yang bekerja di suatu badan (perusahaan dsb) secara tetap berdasarkan surat keputusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karyawan%20tetap",
+  "related": [],
+  "detailed": false
+}

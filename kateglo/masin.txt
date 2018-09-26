@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa seperti rasa garam; asin;"
+      },
+      {
+        "type": "link",
+        "text": "mesin"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masin",
+  "related": [],
+  "detailed": false
+}

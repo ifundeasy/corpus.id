@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersekutu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berekanan (dengan); berkawanan (dengan); menggabungkan diri (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "berserikat (dengan); menggabungkan diri (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "berkomplot; bersekongkol;"
+      },
+      {
+        "type": "desc",
+        "text": "merupakan himpunan (persekutuan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersekutu",
+  "related": [],
+  "detailed": false
+}

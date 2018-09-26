@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan peluru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) yang menjadi sasaran tembakan musuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20peluru",
+  "related": [],
+  "detailed": false
+}

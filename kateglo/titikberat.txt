@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "titik berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat berat suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang terpenting (terutama) atau yang sangat dipentingkan (diutamakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20berat",
+  "related": [],
+  "detailed": false
+}

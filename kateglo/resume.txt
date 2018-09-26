@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resume",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar; ringkasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resume",
+  "related": [],
+  "detailed": false
+}

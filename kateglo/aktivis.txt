@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktivis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (terutama anggota organisasi politik, sosial, buruh, petani, pemuda, mahasiswa, wanita) yang bekerja aktif mendorong pelaksanaan sesuatu atau berbagai kegiatan dalam organisasinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) seseorang yang menggerakkan (demonstrasi dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktivis",
+  "related": [],
+  "detailed": false
+}

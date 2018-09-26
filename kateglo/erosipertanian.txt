@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "erosi pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "erosi yang disebabkan oleh peningkatan aliran permukaan, angin, penebangan hutan, pembakaran tanaman penutup tanah; penggembalaan liar, dan gangguan pada sistem drainase alamiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erosi%20pertanian",
+  "related": [],
+  "detailed": false
+}

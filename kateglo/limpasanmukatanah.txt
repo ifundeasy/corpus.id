@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limpasan muka tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limpasan yang sedang mengalir di permukaan tanah, tetapi belum sampai di sungai atau saluran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limpasan%20muka%20tanah",
+  "related": [],
+  "detailed": false
+}

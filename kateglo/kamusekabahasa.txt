@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus ekabahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kosakata suatu bahasa yang disusun secara alfabetis dengan penjelasan makna dan contoh pemakaiannya di dalam kalimat dalam bahasa yang sama; kamus yang disusun dengan menggunakan (terdiri atas) satu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20ekabahasa",
+  "related": [],
+  "detailed": false
+}

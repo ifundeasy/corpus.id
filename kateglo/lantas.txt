@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lantas",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "langsung; terus;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "lalu; kemudian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lantas",
+  "related": [],
+  "detailed": false
+}

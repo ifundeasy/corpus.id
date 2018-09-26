@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turnamen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) pertandingan (tenis dsb) yang diikuti oleh beberapa regu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turnamen",
+  "related": [],
+  "detailed": false
+}

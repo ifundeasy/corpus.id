@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya benda dsb; jumlah;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan jumlah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) satuan dalam sistem matematis yang abstrak dan dapat diunitkan, ditambah, atau dikalikan;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan (lingkungan);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) lingkungan daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "ramalan untung malang, baik buruk, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "nasib dsb yang telah tertentu; takdir;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) ide yang bersifat abstrak yang bukan simbol atau lambang, yang memberikan keterangan mengenai banyaknya anggota himpunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan",
+  "related": [],
+  "detailed": false
+}

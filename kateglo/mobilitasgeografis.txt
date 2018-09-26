@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobilitas geografis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak penduduk dari daerah yang satu ke daerah yang lain; mobilitas horizontal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobilitas%20geografis",
+  "related": [],
+  "detailed": false
+}

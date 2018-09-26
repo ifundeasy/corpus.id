@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mukim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang tetap tinggal di Mekah (lebih dari satu masa haji); penduduk tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat tinggal; kediaman;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah (dalam lingkungan suatu masjid);"
+      },
+      {
+        "type": "desc",
+        "text": "kawasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mukim",
+  "related": [],
+  "detailed": false
+}

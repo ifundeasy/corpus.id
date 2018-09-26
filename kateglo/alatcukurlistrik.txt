@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat cukur listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat cukur yang menggunakan tenaga listrik sebagai penggerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20cukur%20listrik",
+  "related": [],
+  "detailed": false
+}

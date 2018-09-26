@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prosodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) kajian tentang persajakan, yaitu mengkaji tekanan, matra, rima, irama, dan bait dalam sajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prosodi",
+  "related": [],
+  "detailed": false
+}

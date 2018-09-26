@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang asal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20usaha",
+  "related": [],
+  "detailed": false
+}

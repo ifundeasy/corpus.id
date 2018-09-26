@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "damping",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dekat; karib; rapat (tentang persaudaraan dsb);"
+      },
+      {
+        "type": "link",
+        "text": "dampeng"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=damping",
+  "related": [],
+  "detailed": false
+}

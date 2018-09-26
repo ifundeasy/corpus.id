@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lidah;"
+      },
+      {
+        "type": "desc",
+        "text": "kata-kata yang diucapkan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan kata-kata yang diucapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan mulut (bukan dengan surat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lisan",
+  "related": [],
+  "detailed": false
+}

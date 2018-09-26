@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peta yang khusus menggambarkan laut, pulau, aliran ombak, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20laut",
+  "related": [],
+  "detailed": false
+}

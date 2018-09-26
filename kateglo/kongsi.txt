@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persekutuan dagang; perseroan;"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor tuan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongsi",
+  "related": [],
+  "detailed": false
+}

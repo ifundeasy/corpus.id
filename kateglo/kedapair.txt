@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedap air",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat kemasukan atau tidak dapat dilalui air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedap%20air",
+  "related": [],
+  "detailed": false
+}

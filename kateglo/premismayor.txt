@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "premis mayor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "premis yang berisi term yang menjadi predikat kesimpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premis%20mayor",
+  "related": [],
+  "detailed": false
+}

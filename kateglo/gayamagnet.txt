@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya magnet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) besarnya gaya untuk menarik atau menolak besi dari suatu magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20magnet",
+  "related": [],
+  "detailed": false
+}

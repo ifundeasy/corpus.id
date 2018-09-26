@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penunjuk jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menunjukkan jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "rambu-rambu (tanda) yang ada di pinggir jalan sebagai bentuk jalan, arah jalan, kecepatan kendaraan yang harus dijalankan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mualim; pemandu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penunjuk%20jalan",
+  "related": [],
+  "detailed": false
+}

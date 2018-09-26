@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan muda yang baru timbul (dari tunggul, ketiak daun, buku batang induk, batang kayu yang ditebang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bakal cabang (ranting) yang baru mulai tumbuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunas",
+  "related": [],
+  "detailed": false
+}

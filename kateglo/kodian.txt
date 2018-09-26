@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kodian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menghitung; yang dijual (dikeluarkan, diproduksi) dalam jumlah besar;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) kurang baik buatannya (tentang barang dagangan); cacat;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "berkodi-kodi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kodian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masyhadat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat orang berkumpul;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan; kerapatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masyhadat",
+  "related": [],
+  "detailed": false
+}

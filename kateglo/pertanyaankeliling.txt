@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanyaan keliling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesempatan bertanya dalam rapat secara bergiliran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanyaan%20keliling",
+  "related": [],
+  "detailed": false
+}

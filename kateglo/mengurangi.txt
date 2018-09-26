@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengurangi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengambil (memotong) sebagian;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan berkurang;"
+      },
+      {
+        "type": "desc",
+        "text": "menurunkan; menjadikan kurang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengurangi",
+  "related": [],
+  "detailed": false
+}

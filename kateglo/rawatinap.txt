@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rawat inap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perawatan pasien dengan menginap (di rumah sakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawat%20inap",
+  "related": [],
+  "detailed": false
+}

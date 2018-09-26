@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tagihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menagih;"
+      },
+      {
+        "type": "desc",
+        "text": "uang dsb yang harus ditagih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tagihan",
+  "related": [],
+  "detailed": false
+}

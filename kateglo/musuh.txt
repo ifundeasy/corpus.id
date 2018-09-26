@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lawan (berkelahi, bertengkar, berperang, berjudi, bertanding, dsb); seteru;"
+      },
+      {
+        "type": "desc",
+        "text": "bandingan, imbangan, tandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang mengancam (kesehatan, keselamatan); yang merusakkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musuh",
+  "related": [],
+  "detailed": false
+}

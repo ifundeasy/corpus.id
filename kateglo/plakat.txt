@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat pengumuman (undang-undang dsb) berupa gambar ataupun tulisan yang ditempelkan di dinding, tembok, dan tempat-tempat umum untuk penyebaran yang lebih luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plakat",
+  "related": [],
+  "detailed": false
+}

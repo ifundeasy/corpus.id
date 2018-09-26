@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hiperplasia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkembangan yang tidak normal dalam unsur yang membentuk suatu bagian (misal sel-sel suatu jaringan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hiperplasia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus tingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang mempunyai dua lantai dan sekaligus dua ruang penumpang dengan sistem tingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20tingkat",
+  "related": [],
+  "detailed": false
+}

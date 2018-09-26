@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedikur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai pekerjaan merawat kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "perawatan kaki dengan merawat kuku jari-jari kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedikur",
+  "related": [],
+  "detailed": false
+}

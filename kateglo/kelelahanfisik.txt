@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelelahan fisik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kelelahan yang ditandai oleh adanya keletihan, kejenuhan, ketegangan otot, perubahan dalam kebiasaan makan dan tidur, serta secara umum tingkat energinya rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelelahan%20fisik",
+  "related": [],
+  "detailed": false
+}

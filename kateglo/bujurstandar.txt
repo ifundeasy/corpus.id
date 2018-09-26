@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bujur standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meridian yang dipakai sebagai dasar untuk menentukan waktu standar, pada umumnya dipilih setiap meridian yang jaraknya dari meridian 0o Greenwich sebesar kelipatan 15o atau 75o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bujur%20standar",
+  "related": [],
+  "detailed": false
+}

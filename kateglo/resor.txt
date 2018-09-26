@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah kuasa;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resor",
+  "related": [],
+  "detailed": false
+}

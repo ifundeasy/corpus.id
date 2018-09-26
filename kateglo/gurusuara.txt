@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guru suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) guru lagu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guru%20suara",
+  "related": [],
+  "detailed": false
+}

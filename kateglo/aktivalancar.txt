@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aktiva lancar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang kas atau aktiva lain yang dapat dinilai dengan uang, seperti bukti uang atau bukti penyertaan modal (saham, wesel, aksep, sertifikat, deposito, dsb) yang dimiliki sebagai investasi atau yang dapat diuangkan dalam jangka waktu kurang dari satu tahun (seperti tagihan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktiva%20lancar",
+  "related": [],
+  "detailed": false
+}

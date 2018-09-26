@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekoklimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklim dalam komunitas pertanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "iklim lingkungan seputar suatu individu makhluk; mikroklimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekoklimat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adhesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan melekat pada benda lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gaya atau kakas tarik-menarik antarmolekul yang tidak sejenis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) penyatuan tumbuh-tumbuhan yang biasanya merupakan kelompok yang terpisah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) jaringan tubuh yang tumbuh (melekat) menjadi satu karena radang;"
+      },
+      {
+        "type": "desc",
+        "text": "kesepakatan, sikap, atau rasa sesuai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adhesi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koreksian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang akan dikoreksi;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengoreksi; periksaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koreksian",
+  "related": [],
+  "detailed": false
+}

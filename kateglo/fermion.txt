@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fermion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) zarah seperti elektron, proton, atau neutron yang mematuhi fungsi distribusi Fermi-Dirac dalam pendistribusiannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fermion",
+  "related": [],
+  "detailed": false
+}

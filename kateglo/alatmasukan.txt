@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat masukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat untuk memasukkan data dan program ke dalam komputer, misal papan tombol, dan perangkat optik dalam temu kembali informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20masukan",
+  "related": [],
+  "detailed": false
+}

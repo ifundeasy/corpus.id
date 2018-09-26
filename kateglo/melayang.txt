@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melayang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terbang (dengan sayap tidak bergerak);"
+      },
+      {
+        "type": "desc",
+        "text": "terbang karena dihembus angin;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak menentu; tidak terarah (tentang pikiran, tembakan, perhatian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengiris; menyayat (mangga dsb) hingga setengah bulatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melayang",
+  "related": [],
+  "detailed": false
+}

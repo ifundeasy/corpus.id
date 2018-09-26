@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagul",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "membagul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagul",
+  "related": [],
+  "detailed": false
+}

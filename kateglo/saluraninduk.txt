@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) jalur pipa utama yang menghubungkan ladang minyak dengan kilang atau tempat pengapalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20induk",
+  "related": [],
+  "detailed": false
+}

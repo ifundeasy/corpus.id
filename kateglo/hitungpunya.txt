@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hitung punya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kalau dihitung-hitung betul ...;"
+      },
+      {
+        "type": "desc",
+        "text": "setelah dihitung-hitung (dipertimbangkan masak- masak) ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitung%20punya",
+  "related": [],
+  "detailed": false
+}

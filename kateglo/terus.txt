@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lurus menuju ...; langsung pada (arah ke); lantas;"
+      },
+      {
+        "type": "desc",
+        "text": "tetap berlanjut;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berhenti-henti;"
+      },
+      {
+        "type": "desc",
+        "text": "lanjut;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak putus-putus; selalu;"
+      },
+      {
+        "type": "desc",
+        "text": "tembus; menembus; melantas;"
+      },
+      {
+        "type": "desc",
+        "text": "langsung ...; lalu ...;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tulen (tidak bercampur atau tidak berlapis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terus",
+  "related": [],
+  "detailed": false
+}

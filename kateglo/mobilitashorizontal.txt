@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobilitas horizontal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobilitas geografis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobilitas%20horizontal",
+  "related": [],
+  "detailed": false
+}

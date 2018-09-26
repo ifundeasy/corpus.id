@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan, berkulit licin, berwarna hijau atau merah kecokelat-cokelatan, kaki belakang lebih panjang daripada kaki depan, pandai melompat dan berenang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) lipit-lipit pada leher dsb; gelambir;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selisih basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpang siur (tentang perahu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selisih%20basah",
+  "related": [],
+  "detailed": false
+}

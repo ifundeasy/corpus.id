@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengepak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membungkus (mengemas) barang-barang (dalam pak);"
+      },
+      {
+        "type": "desc",
+        "text": "mengusahakan sesuatu (seperti mengambil sarang burung) dengan membayar sewa (pajak) setiap tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengepak",
+  "related": [],
+  "detailed": false
+}

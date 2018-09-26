@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pilihan ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pilihan dalam beberapa alternatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pilihan%20ganda",
+  "related": [],
+  "detailed": false
+}

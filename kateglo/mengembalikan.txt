@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengembalikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan (membuat, menaruh, dsb) kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "memulangkan (pinjaman dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan (mengirimkan, membayarkan, dsb) kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "memulihkan (kepada keadaan semula);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengembalikan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonverbal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dalam bentuk percakapan; tidak dalam bentuk bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonverbal",
+  "related": [],
+  "detailed": false
+}

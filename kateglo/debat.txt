@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembahasan dan pertukaran pendapat mengenai suatu hal dengan saling memberi alasan untuk mempertahankan pendapat masing-masing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debat",
+  "related": [],
+  "detailed": false
+}

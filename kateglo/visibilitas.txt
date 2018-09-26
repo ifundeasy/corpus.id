@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "visibilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan dapat dilihat dan diamati (terutama untuk keadaan cuaca, bendanya dapat dilihat dengan jelas pada jarak jauh); kejelasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=visibilitas",
+  "related": [],
+  "detailed": false
+}

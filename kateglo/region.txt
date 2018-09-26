@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "region",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari wilayah yang luas; kawasan; daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=region",
+  "related": [],
+  "detailed": false
+}

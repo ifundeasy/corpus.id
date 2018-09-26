@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabut adveksi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "titik-titik air yang terbentuk karena gerakan udara horizontal di atas permukaan bumi yang dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabut%20adveksi",
+  "related": [],
+  "detailed": false
+}

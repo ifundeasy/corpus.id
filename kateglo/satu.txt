@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 1 (Arab) atau I (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "nama bagi lambang bilangan asli 1 (angka Arab) atau I (angka Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan pertama sebelum ke-2;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan asli terkecil sesudah 0;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satu",
+  "related": [],
+  "detailed": false
+}

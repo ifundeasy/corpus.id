@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidato pengukuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato yang diucapkan secara tradisional oleh seorang guru besar universitas pada saat diangkat secara resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidato%20pengukuhan",
+  "related": [],
+  "detailed": false
+}

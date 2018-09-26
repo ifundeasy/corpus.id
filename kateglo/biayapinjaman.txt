@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya pinjaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) biaya atas pinjaman yang diperlukan untuk membeli sekuritas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20pinjaman",
+  "related": [],
+  "detailed": false
+}

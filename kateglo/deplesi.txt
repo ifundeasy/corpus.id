@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deplesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "kerugian akibat hilangnya atau berkurangnya nilai barang modal;"
+      },
+      {
+        "type": "desc",
+        "text": "kehabisan, penipisan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Min) keausan sumber alam, terutama tambang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deplesi",
+  "related": [],
+  "detailed": false
+}

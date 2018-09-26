@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertampin taruh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengimbangi taruhan lawannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertampin%20taruh",
+  "related": [],
+  "detailed": false
+}

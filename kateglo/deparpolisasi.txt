@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deparpolisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurangan jumlah partai politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deparpolisasi",
+  "related": [],
+  "detailed": false
+}

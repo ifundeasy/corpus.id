@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pirometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur suhu tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pirometer",
+  "related": [],
+  "detailed": false
+}

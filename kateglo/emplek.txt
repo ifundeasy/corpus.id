@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emplek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warung di pinggir jalan yang menggunakan terpal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emplek",
+  "related": [],
+  "detailed": false
+}

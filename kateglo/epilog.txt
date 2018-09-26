@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epilog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian penutup pada karya sastra, yang fungsinya menyampaikan intisari cerita atau menafsirkan maksud karya itu oleh seorang aktor pada akhir cerita;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato singkat pada akhir drama yang memuat komentar tentang apa yang dilakonkan;"
+      },
+      {
+        "type": "desc",
+        "text": "peristiwa terakhir yang menyelesaikan peristiwa induk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epilog",
+  "related": [],
+  "detailed": false
+}

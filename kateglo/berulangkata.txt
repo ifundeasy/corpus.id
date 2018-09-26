@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berulang kata",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "selalu kembali mengucapkan apa-apa yang sudah dikatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berulang%20kata",
+  "related": [],
+  "detailed": false
+}

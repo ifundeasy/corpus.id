@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "parlemen darurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan perwakilan rakyat (darurat) yang dibentuk dalam keadaan luar biasa karena tidak dapat mengadakan pemilihan umum secara biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parlemen%20darurat",
+  "related": [],
+  "detailed": false
+}

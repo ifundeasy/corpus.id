@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar bangsawan Bugis;"
+      },
+      {
+        "type": "link",
+        "text": "aru-aru"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aru",
+  "related": [],
+  "detailed": false
+}

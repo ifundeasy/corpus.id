@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gerai lapor keluar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meja di terminal lapangan terbang tempat penumpang melaporkan diri setelah ia sampai di tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerai%20lapor%20keluar",
+  "related": [],
+  "detailed": false
+}

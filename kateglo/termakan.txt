@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dimakan;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dimakan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja dimakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dirusakkan; dihabiskan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dipengaruhi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terserap; masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dikenai, dilukai, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termakan",
+  "related": [],
+  "detailed": false
+}

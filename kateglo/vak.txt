@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata pelajaran; mata kuliah;"
+      },
+      {
+        "type": "desc",
+        "text": "kepandaian khusus tentang suatu hal (keterampilan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah yang mendidik murid-muridnya dalam penguasaan keterampilan khusus; kejuruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesies",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) satuan dasar klasifikasi biologi; jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesies",
+  "related": [],
+  "detailed": false
+}

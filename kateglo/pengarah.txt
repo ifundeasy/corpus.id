@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi arahan (dalam diskusi, konferensi, seminar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarah",
+  "related": [],
+  "detailed": false
+}

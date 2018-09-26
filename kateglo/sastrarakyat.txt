@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sastra rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kategori sastra yang mencakupi lagu rakyat, balada, dongeng, ketoprak, peribahasa, teka-teki, legenda (banyak yang termasuk tradisi lisan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sastra%20rakyat",
+  "related": [],
+  "detailed": false
+}

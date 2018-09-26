@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gubahan lagu (musik) untuk tiga suara atau tiga alat musik;"
+      },
+      {
+        "type": "desc",
+        "text": "tiga serangkai pemain (penyanyi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sekawan (serangkai) yang terdiri atas tiga orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trio",
+  "related": [],
+  "detailed": false
+}

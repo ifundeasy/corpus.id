@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pulp",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging buah biji;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran bahan selulosa, seperti kayu, kertas, kain bekas yang dilumatkan dan dimasukkan ke dalam air untuk membuat kertas; bubur kertas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulp",
+  "related": [],
+  "detailed": false
+}

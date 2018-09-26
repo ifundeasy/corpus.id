@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pensiun dini",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pensiun sebelum waktunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensiun%20dini",
+  "related": [],
+  "detailed": false
+}

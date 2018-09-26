@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ikhtisar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemandangan secara ringkas (yang penting-penting saja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikhtisar",
+  "related": [],
+  "detailed": false
+}

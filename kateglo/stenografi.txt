@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stenografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan cepat (berupa huruf steno);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stenografi",
+  "related": [],
+  "detailed": false
+}

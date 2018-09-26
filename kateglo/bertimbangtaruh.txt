@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertimbang taruh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyamakan harga petaruh jika petaruh itu bukan berupa uang, melainkan berupa barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertimbang%20taruh",
+  "related": [],
+  "detailed": false
+}

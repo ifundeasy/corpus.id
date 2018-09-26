@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar hadir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar yang menyatakan kehadiran seseorang pada setiap hari belajar, bekerja, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20hadir",
+  "related": [],
+  "detailed": false
+}

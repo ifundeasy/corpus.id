@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak dipilih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak untuk dipilih dalam pemilihan umum untuk menjadi anggota DPR/MPR;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20dipilih",
+  "related": [],
+  "detailed": false
+}

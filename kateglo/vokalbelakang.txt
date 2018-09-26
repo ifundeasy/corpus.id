@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal belakang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang dihasilkan dengan lidah ditarik ke arah belakang rongga mulut, misal [u];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20belakang",
+  "related": [],
+  "detailed": false
+}

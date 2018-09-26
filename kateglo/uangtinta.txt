@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tinta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang imbalan yang diberikan kepada orang yang membuatkan surat, menandatangani, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tinta",
+  "related": [],
+  "detailed": false
+}

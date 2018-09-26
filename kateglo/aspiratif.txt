@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aspiratif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat aspirasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aspiratif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerobak yang berjalan di atas rel;"
+      },
+      {
+        "type": "desc",
+        "text": "mobil pengangkut barang;"
+      },
+      {
+        "type": "desc",
+        "text": "burung yang mirip dengan burung nuri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lori",
+  "related": [],
+  "detailed": false
+}

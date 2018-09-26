@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mahasiswi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mahasiswa wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahasiswi",
+  "related": [],
+  "detailed": false
+}

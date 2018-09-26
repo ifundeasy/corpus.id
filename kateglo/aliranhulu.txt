@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran hulu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sungai di sebelah atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20hulu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrosekon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan waktu yang sama dengan sepersejuta sekon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrosekon",
+  "related": [],
+  "detailed": false
+}

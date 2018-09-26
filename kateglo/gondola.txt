@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gondola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu kecil yang dasarnya ceper dengan satu atau lebih kabin (kamar) di tengah-tengahnya dan kedua bagian ujungnya (haluan dan buritan) lancip menjulang ke atas, digunakan untuk berpesiar di jalan-jalan air di kota Venesia;"
+      },
+      {
+        "type": "desc",
+        "text": "kabin yang bergantung pada balon untuk penumpang atau alat-alat;"
+      },
+      {
+        "type": "desc",
+        "text": "kabin tempat penumpang pada kereta gantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gondola",
+  "related": [],
+  "detailed": false
+}

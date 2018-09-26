@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imsak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "saat dimulainya tidak melakukan hal-hal yang membatalkan puasa, seperti makan dan minum;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpantang dan menahan diri dari makan, minum, dan hal-hal yang mem-batalkan puasa mulai terbit fajar sidik sampai datang waktu berbuka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imsak",
+  "related": [],
+  "detailed": false
+}

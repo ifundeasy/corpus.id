@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "formal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesuai dengan peraturan yang sah; menurut adat kebiasaan yang berlaku;"
+      },
+      {
+        "type": "desc",
+        "text": "resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=formal",
+  "related": [],
+  "detailed": false
+}

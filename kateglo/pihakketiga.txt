@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pihak ketiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang lain yang tidak ikut serta, misal dalam perjanjian;"
+      },
+      {
+        "type": "desc",
+        "text": "bangsa atau negara lain dsb yang tidak berpihak dalam persengkataan (peperangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pihak%20ketiga",
+  "related": [],
+  "detailed": false
+}

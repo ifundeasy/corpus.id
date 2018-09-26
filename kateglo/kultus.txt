@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kultus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghormatan resmi dalam agama; upacara keagamaan; ibadat;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem kepercayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "penghormatan secara berlebih-lebihan kepada orang, paham, atau benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kultus",
+  "related": [],
+  "detailed": false
+}

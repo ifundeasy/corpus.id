@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beraspal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengandung aspal; ada aspalnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dilapisi aspal; sudah diaspal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beraspal",
+  "related": [],
+  "detailed": false
+}

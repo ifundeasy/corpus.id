@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skiameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) alat untuk mengukur intensitas sinar Roentgen untuk menentukan berapa lama paparan yang diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skiameter",
+  "related": [],
+  "detailed": false
+}

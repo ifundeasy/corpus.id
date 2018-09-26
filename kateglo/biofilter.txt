@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biofilter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hewan pemakan plankton dan pemakan sisa organik (seperti koral hidup, cacing tabung, sepon, dan udang) yang berfungsi sebagai filter mekanis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biofilter",
+  "related": [],
+  "detailed": false
+}

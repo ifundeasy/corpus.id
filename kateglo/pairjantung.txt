@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pair jantung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan jantung yang tidak betul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pair%20jantung",
+  "related": [],
+  "detailed": false
+}

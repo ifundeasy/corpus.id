@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ujar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan yang diucapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kalimat atau bagian kalimat yang dilisankan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujar",
+  "related": [],
+  "detailed": false
+}

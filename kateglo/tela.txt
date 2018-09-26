@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "rumah belakang yang dibangun bersambung dengan istana, yang menjadi tempat tinggal wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "dapur-dapur pada senapan model kuno; telinga bedil;"
+      },
+      {
+        "type": "link",
+        "text": "pertelaan"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terang; nyata;"
+      },
+      {
+        "type": "link",
+        "text": "ketela"
+      },
+      {
+        "type": "desc",
+        "text": "jaringan atau membran tipis yang menyerupai sarang laba-laba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tela",
+  "related": [],
+  "detailed": false
+}

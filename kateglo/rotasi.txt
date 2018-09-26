@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perputaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) cara menanam berbagai jenis tanaman pada bidang tanah yang sama secara bergilir dalam jangka waktu satu tahun atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rotasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurs",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai mata uang suatu negara yang dinyatakan dengan nilai mata uang negara yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurs",
+  "related": [],
+  "detailed": false
+}

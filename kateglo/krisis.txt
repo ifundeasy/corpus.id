@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "krisis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan yang berbahaya (dalam menderita sakit); parah sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang genting; kemelut;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan suram (tentang ekonomi, moral, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) saat yang menentukan di dalam cerita atau drama ketika situasi menjadi berbahaya dan keputusan harus diambil;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) konfrontasi yang intensif dan dahsyat yang terjadi dalam waktu singkat dan merupakan ganti peperangan dalam era nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krisis",
+  "related": [],
+  "detailed": false
+}

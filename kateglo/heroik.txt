@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heroik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat pahlawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heroik",
+  "related": [],
+  "detailed": false
+}

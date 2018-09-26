@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akomodasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang disediakan untuk memenuhi kebutuhan, misal tempat menginap atau tempat tinggal sementara bagi orang yang bepergian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penyesuaian mata untuk menerima bayangan yang jelas dari objek yang berbeda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) penyesuaian manusia dalam kesatuan sosial untuk menghindari dan meredakan interaksi ketegangan dan konflik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sos) penyesuaian sosial dalam interaksi antara pribadi dan kelompok manusia untuk meredakan pertentangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) kamar atau ruang tempat tinggal awak kapal atau penumpang kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akomodasi",
+  "related": [],
+  "detailed": false
+}

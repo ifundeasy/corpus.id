@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memori kasasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) risalah pemohon kasasi yang berisi alasan atau keberatan terhadap putusan pengadilan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memori%20kasasi",
+  "related": [],
+  "detailed": false
+}

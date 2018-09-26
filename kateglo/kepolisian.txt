@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepolisian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang bertalian dengan polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepolisian",
+  "related": [],
+  "detailed": false
+}

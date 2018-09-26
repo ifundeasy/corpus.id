@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstitusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala ketentuan dan aturan tentang ketatanegaraan (undang-undang dasar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "undang-undang dasar suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstitusi",
+  "related": [],
+  "detailed": false
+}

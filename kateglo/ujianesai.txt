@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian esai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian dengan bentuk pertanyaan yang mengharapkan jawaban secara terurai, membandingkan, baik secara lisan maupun tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20esai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlaku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "masih berjalan (sedang dikerjakan dsb); berlangsung; terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat; bertindak;"
+      },
+      {
+        "type": "desc",
+        "text": "bertindak menjadi; menjalankan tugas menjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "boleh dipakai (tentang surat, uang, dsb); sah;"
+      },
+      {
+        "type": "desc",
+        "text": "dikenakan untuk atau pada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlaku",
+  "related": [],
+  "detailed": false
+}

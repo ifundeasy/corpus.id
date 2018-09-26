@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sertifikat kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat bukti kelahiran yang dikeluarkan oleh instansi yang berwenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sertifikat%20kelahiran",
+  "related": [],
+  "detailed": false
+}

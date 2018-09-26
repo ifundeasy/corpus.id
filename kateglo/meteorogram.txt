@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meteorogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) hasil rekaman meteorograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorogram",
+  "related": [],
+  "detailed": false
+}

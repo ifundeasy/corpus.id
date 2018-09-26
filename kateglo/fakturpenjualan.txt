@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktur penjualan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktur yang dibuat oleh penjual (pengekspor) dan dikirimkan kepada pembeli (pengimpor);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktur%20penjualan",
+  "related": [],
+  "detailed": false
+}

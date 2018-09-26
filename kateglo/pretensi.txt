@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pretensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keinginan yang kurang berdasar;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan berpura-pura;"
+      },
+      {
+        "type": "desc",
+        "text": "alasan yang dibuat-buat;"
+      },
+      {
+        "type": "desc",
+        "text": "dalih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pretensi",
+  "related": [],
+  "detailed": false
+}

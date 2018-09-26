@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juadah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganan (dibuat dari ketan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "makanan untuk bekal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juadah",
+  "related": [],
+  "detailed": false
+}

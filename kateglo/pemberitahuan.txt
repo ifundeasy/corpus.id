@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemberitahuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumuman; maklumat;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memberitahukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemberitahuan",
+  "related": [],
+  "detailed": false
+}

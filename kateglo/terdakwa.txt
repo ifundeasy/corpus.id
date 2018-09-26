@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdakwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang didakwa (dituntut, dituduh) telah melakukan tindak pidana dan adanya cukup alasan untuk dilakukan pemeriksaan di muka persidangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdakwa",
+  "related": [],
+  "detailed": false
+}

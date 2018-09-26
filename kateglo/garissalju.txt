@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis salju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis (batas) ketinggian tertentu yang saljunya tidak pernah cair pada musim panas atau musim kemarau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20salju",
+  "related": [],
+  "detailed": false
+}

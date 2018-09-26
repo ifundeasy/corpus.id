@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengempar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empar",
+  "related": [],
+  "detailed": false
+}

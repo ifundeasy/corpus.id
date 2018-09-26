@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demonstrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan protes yang dikemukakan secara massal; unjuk rasa;"
+      },
+      {
+        "type": "desc",
+        "text": "peragaan atau pertunjukan tentang cara melakukan atau mengerjakan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demonstrasi",
+  "related": [],
+  "detailed": false
+}

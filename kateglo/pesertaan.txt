@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesertaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal beserta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesertaan",
+  "related": [],
+  "detailed": false
+}

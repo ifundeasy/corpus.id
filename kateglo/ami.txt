@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ami",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kebanyakan;"
+      },
+      {
+        "type": "desc",
+        "text": "pasaran; tidak baku;"
+      },
+      {
+        "type": "link",
+        "text": "umi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ami",
+  "related": [],
+  "detailed": false
+}

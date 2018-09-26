@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter gula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli kimia yang bekerja di laboratorium pabrik gula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20gula",
+  "related": [],
+  "detailed": false
+}

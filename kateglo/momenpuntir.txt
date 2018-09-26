@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "momen puntir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyebab perubahan gerakan putar yang mempercepat atau memperlambat gerak putar suatu benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=momen%20puntir",
+  "related": [],
+  "detailed": false
+}

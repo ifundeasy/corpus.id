@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dandi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "gendang kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "kecapi (alat musik);"
+      },
+      {
+        "type": "desc",
+        "text": "belang-belang kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dandi",
+  "related": [],
+  "detailed": false
+}

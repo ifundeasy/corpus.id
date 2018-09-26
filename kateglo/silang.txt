@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang berupa satu garis dipotong garis yang lain, seperti X, +;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu palang;"
+      },
+      {
+        "type": "desc",
+        "text": "salib;"
+      },
+      {
+        "type": "desc",
+        "text": "kawin campur (bukan sesuku, segolongan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membibitkan dengan mencampur (tentang tumbuh-tumbuhan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "selang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silang",
+  "related": [],
+  "detailed": false
+}

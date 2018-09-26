@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran irigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran yang merupakan sarana penghubung antara sumber air dan petak tanah pertanian atau persawahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20irigasi",
+  "related": [],
+  "detailed": false
+}

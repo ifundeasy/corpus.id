@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nyanyian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyanyi; yang dinyanyikan; lagu;"
+      },
+      {
+        "type": "desc",
+        "text": "komponen musik pendek yang terdiri atas lirik dan lagu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyanyian",
+  "related": [],
+  "detailed": false
+}

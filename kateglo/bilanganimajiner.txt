@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan imajiner",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan negatif di bawah tanda akar (seperti Y-2, Y-27);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20imajiner",
+  "related": [],
+  "detailed": false
+}

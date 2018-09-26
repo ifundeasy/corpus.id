@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cecak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang merayap, biasa hidup di rumah (pada langit-langit, di dekat lampu), makanannya binatang kecil (nyamuk dsb), sering berbunyi \"cek, cek\"; cicak; Hemidactylus frenatus;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencecak"
+      },
+      {
+        "type": "desc",
+        "text": "bintik-bintik atau belang-belang kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "berbintik-bintik atau berbelang-belang kecil (tentang bulu kucing dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cecak",
+  "related": [],
+  "detailed": false
+}

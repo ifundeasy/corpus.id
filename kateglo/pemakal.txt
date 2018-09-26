@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemakal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk memakal;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memakal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemakal",
+  "related": [],
+  "detailed": false
+}

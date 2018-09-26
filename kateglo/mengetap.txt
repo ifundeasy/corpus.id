@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengetap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuang;"
+      },
+      {
+        "type": "desc",
+        "text": "menyadap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengetap",
+  "related": [],
+  "detailed": false
+}

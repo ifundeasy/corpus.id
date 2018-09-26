@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai beberapa orang atau kelompok dan bertugas mengawasi pekerjaan mereka;"
+      },
+      {
+        "type": "desc",
+        "text": "karyawan biasa yang tugasnya sama dengan tugas karyawan yang lain dan di samping itu merangkap tugas pengawasan atas rekan-rekannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga panas yang dapat diteruskan ataupun diterima oleh satu benda ke benda lain secara hantaran (konduksi), penyinaran (radiasi), atau aliran (konveksi);"
+      },
+      {
+        "type": "desc",
+        "text": "panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalor",
+  "related": [],
+  "detailed": false
+}

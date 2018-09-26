@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang pembuluh darah dan limfa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angiologi",
+  "related": [],
+  "detailed": false
+}

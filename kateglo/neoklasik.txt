@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neoklasik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan (mengenai) penghidupan kembali atau penyesuaian dengan yang baru hal-hal yang klasik (terutama dalam kesusastraan, musik, kesenian, dan arsitektur);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran dalam ekonomi yang mencari penjelasan tentang nilai dalam manfaat, khusus nilai batas benda terhadap subjek yang menilainya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neoklasik",
+  "related": [],
+  "detailed": false
+}

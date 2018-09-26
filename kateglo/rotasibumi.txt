@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rotasi bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perputaran bumi pada porosnya dari arah barat ke timur selama sehari (24 jam) yang mengakibatkan terjadinya siang dan malam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rotasi%20bumi",
+  "related": [],
+  "detailed": false
+}

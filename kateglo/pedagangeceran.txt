@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pedagang eceran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang yang menjual dagangannya secara sedikit demi sedikit atau per satuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedagang%20eceran",
+  "related": [],
+  "detailed": false
+}

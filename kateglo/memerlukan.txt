@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memerlukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memandang perlu (penting, berguna, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mementingkan; mengutamakan; memperhatikan (tentang kepentingan sendiri, orang lain, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membutuhkan; menghajatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menggunakan (waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "menyempatkan diri (melakukan sesuatu karena dianggap perlu dengan menyampingkan hal-hal lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memerlukan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cawangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cawangan",
+  "related": [],
+  "detailed": false
+}

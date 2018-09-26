@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perut panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perut muda;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) merasa kecewa (tidak senang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perut%20panjang",
+  "related": [],
+  "detailed": false
+}

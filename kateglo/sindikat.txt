@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sindikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan beberapa perusahaan dalam suatu bidang usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "perhimpunan beberapa orang bermodal untuk mendirikan perusahaan besar;"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi yang memasok berita (gambar, artikel, dsb) kepada penerbit surat kabar, majalah, dsb pada waktu yang bersamaan dan bahan yang sama pula untuk disiarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok lembaga keuangan yang bersama-sama menjamin terjualnya seluruh sekuritas emisi baru dan menyalurkan sejumlah besar sekuritas lama;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) perkumpulan orang jahat dengan berbagai keahlian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sindikat",
+  "related": [],
+  "detailed": false
+}

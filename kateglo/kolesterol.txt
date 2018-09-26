@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolesterol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "lemak yang menyerupai alkohol, berkilau seperti mutiara, terdapat di dalam sel tubuh manusia dan hewan, terutama sel saraf dan otak, mempunyai peranan penting dalam pengangkutan lemak dan pembuatan hormon; C27H45OH;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) steroid yang banyak terdapat dalam minyak dan lemak hewan, kuning telur, jaringan saraf, empedu dan batu empedu;"
+      },
+      {
+        "type": "desc",
+        "text": "lemak yang biasa terdapat dalam darah, otak, empedu, dan batu empedu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolesterol",
+  "related": [],
+  "detailed": false
+}

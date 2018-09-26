@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "kilogram;"
+      },
+      {
+        "type": "desc",
+        "text": "kilometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang dijadwalkan untuk perangkat peralatan yang dioperasikan (seperti pengisian bahan bakar, perjalanan);"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang dijadwalkan bagi pegawai dsb untuk bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20kerja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sapaan salam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan salam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapaan%20salam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota pengurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota yang dipilih untuk mengelola perkumpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20pengurus",
+  "related": [],
+  "detailed": false
+}

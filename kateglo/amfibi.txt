@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amfibi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang berdarah dingin yang dapat hidup di air dan di darat, misal katak;"
+      },
+      {
+        "type": "desc",
+        "text": "benda yang dapat berfungsi di air dan di darat;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat yang dapat lepas landas dan mendarat, baik di darat maupun di air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amfibi",
+  "related": [],
+  "detailed": false
+}

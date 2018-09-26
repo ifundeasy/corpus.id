@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "presiden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala (lembaga, perusahaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kepala negara (bagi negara yang berbentuk republik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=presiden",
+  "related": [],
+  "detailed": false
+}

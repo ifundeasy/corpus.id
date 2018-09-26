@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkilau-kilau pandangannya, tidak dapat melihat nyata karena terlampau terang cahayanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sangat kagum (tertarik, terpesona) sehingga tidak dapat melihat kenyataan (yang sebenarnya);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyilau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silau",
+  "related": [],
+  "detailed": false
+}

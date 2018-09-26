@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya pengiriman barang (surat, barang cetakan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porto",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kasap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak halus; tidak lembut (jika diraba); kesat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) awak kapal yang bertanggung jawab atas gudang, perlengkapan, bahan kerja atau peralatan kapal dll;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan merambat jenis labu; Clerodendro villosum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sombrero",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "topi yang bertepi lebar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sombrero",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yoghurt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susu yang diproses menjadi susu asam (untuk minuman) dengan cara menularinya dengan jenis bakteri tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yoghurt",
+  "related": [],
+  "detailed": false
+}

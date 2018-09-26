@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelang rantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata rantai;"
+      },
+      {
+        "type": "desc",
+        "text": "gelang yang berbentuk seperti rantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelang%20rantai",
+  "related": [],
+  "detailed": false
+}

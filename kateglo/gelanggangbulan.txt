@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelanggang bulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkaran yang mengelilingi bulan (kandang bulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelanggang%20bulan",
+  "related": [],
+  "detailed": false
+}

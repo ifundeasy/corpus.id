@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manifes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan terbuka tentang tujuan dan pandangan seseorang atau suatu kelompok; manifesto;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar isi muatan yang diangkut kapal, yang memuat jumlah merek dan nomor barang muatan, nama pengirim, serta alamat yang dituju; konosemen; surat muatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manifes",
+  "related": [],
+  "detailed": false
+}

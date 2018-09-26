@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan yang dipasang di depan rumah atau kantor yang bertuliskan nama (orang, organisasi, lembaga, perusahaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20nama",
+  "related": [],
+  "detailed": false
+}

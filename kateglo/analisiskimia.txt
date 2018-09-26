@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan komponen kimia suatu senyawa yang dilakukan dengan pemisahan dan pengukuran atas contoh yang mewakili;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20kimia",
+  "related": [],
+  "detailed": false
+}

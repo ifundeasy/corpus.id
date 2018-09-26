@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kode atau nada huruf pada iklan untuk mempermudah kembali jika ada jawaban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20iklan",
+  "related": [],
+  "detailed": false
+}

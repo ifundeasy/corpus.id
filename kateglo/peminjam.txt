@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peminjam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang meminjam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peminjam",
+  "related": [],
+  "detailed": false
+}

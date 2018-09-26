@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hewani",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat hewan;"
+      },
+      {
+        "type": "desc",
+        "text": "terdiri atas atau dibuat dari hewan atau bagian tubuh hewan (daging, susu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hewani",
+  "related": [],
+  "detailed": false
+}

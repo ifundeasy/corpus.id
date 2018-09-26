@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jasa perpustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala fasilitas yang disediakan oleh sebuah perpustakaan untuk penggunaan buku dan penyebaran informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa%20perpustakaan",
+  "related": [],
+  "detailed": false
+}

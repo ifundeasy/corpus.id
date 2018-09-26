@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata kepala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang diterangkan dalam kamus atau ensiklopedia (biasanya dicetak dengan huruf tebal); bentuk dasar dari subentri; entri pokok; lema;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20kepala",
+  "related": [],
+  "detailed": false
+}

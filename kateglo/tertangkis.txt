@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertangkis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat ditangkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertangkis",
+  "related": [],
+  "detailed": false
+}

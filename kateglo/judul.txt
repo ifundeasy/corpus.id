@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "judul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang dipakai untuk buku atau bab dalam buku yang dapat menyiratkan secara pendek isi atau maksud buku atau bab itu;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala karangan (cerita, drama, dsb); tajuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=judul",
+  "related": [],
+  "detailed": false
+}

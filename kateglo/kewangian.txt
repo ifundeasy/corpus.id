@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kewangian",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu wangi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "keharuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kewangian",
+  "related": [],
+  "detailed": false
+}

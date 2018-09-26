@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari peringatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari untuk memperingati suatu peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20peringatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diakonia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kris) pelayanan gereja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diakonia",
+  "related": [],
+  "detailed": false
+}

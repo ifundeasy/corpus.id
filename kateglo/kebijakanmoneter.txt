@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebijakan moneter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua tindakan pemerintah, bank-bank sentral, dan otoritas publik yang lain yang mempengaruhi kuantitas kredit bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebijakan%20moneter",
+  "related": [],
+  "detailed": false
+}

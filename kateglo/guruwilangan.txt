@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guru wilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jumlah suku kata tertentu dalam setiap tembang macapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guru%20wilangan",
+  "related": [],
+  "detailed": false
+}

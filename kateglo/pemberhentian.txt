@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemberhentian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memberhentikan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berhenti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemberhentian",
+  "related": [],
+  "detailed": false
+}

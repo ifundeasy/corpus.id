@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biverbal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berupa sinonim atau padan kata (tentang definisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biverbal",
+  "related": [],
+  "detailed": false
+}

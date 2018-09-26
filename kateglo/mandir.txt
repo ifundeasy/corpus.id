@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mondar-mandir"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan bagi hakim (di Kalimantan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandir",
+  "related": [],
+  "detailed": false
+}

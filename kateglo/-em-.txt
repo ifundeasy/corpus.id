@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "-em-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "kumpulan (banyak, aneka);"
+      },
+      {
+        "type": "desc",
+        "text": "berulang-ulang atau terus-menerus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-em-",
+  "related": [],
+  "detailed": false
+}

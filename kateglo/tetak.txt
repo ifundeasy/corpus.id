@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menetak"
+      },
+      {
+        "type": "link",
+        "text": "menetak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetak",
+  "related": [],
+  "detailed": false
+}

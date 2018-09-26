@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan melakukan pemilihan (perincian);"
+      },
+      {
+        "type": "desc",
+        "text": "perincian (tentang rencana, proposal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan tentang hal-hal yang khusus (dalam perjanjian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesifikasi",
+  "related": [],
+  "detailed": false
+}

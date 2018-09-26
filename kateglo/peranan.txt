@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peranan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang dimainkan seorang pemain (dalam film, sandiwara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan yang dilakukan oleh seseorang dalam suatu peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peranan",
+  "related": [],
+  "detailed": false
+}

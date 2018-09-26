@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebagai",
+  "tags": {
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan hal yang serupa; sama; semacam (itu);"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan perbandingan; seperti; seakan-akan; seolah-olah;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "seharusnya; sepatutnya; sewajarnya; semestinya;"
+      },
+      {
+        "type": "desc",
+        "text": "jadi (menjadi);"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan status; berlaku seperti; selaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebagai",
+  "related": [],
+  "detailed": false
+}

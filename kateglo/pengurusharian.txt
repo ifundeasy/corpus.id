@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang melakukan tugas (perkumpulan, partai, dsb) sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20harian",
+  "related": [],
+  "detailed": false
+}

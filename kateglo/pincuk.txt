@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pincuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rujak buah (dengan gula, lombok, belacan, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memincuk"
+      },
+      {
+        "type": "desc",
+        "text": "wadah (rujak, gado-gado, dsb) dari daun pisang yang dilipat dan disemat dengan lidi sehingga membentuk lekukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pincuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyudut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merupakan sudut;"
+      },
+      {
+        "type": "desc",
+        "text": "menuju sudut; ke sudut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyudut",
+  "related": [],
+  "detailed": false
+}

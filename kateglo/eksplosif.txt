@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksplosif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah meledak (tentang sendawa, karbit, fosfor, gas, bensin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dapat (mudah) meletus (tentang perang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cepat marah (tentang orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksplosif",
+  "related": [],
+  "detailed": false
+}

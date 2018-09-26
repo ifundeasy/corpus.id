@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemakaian atau penggantian dengan listrik (sebelumnya tidak digunakan listrik);"
+      },
+      {
+        "type": "desc",
+        "text": "pemasangan atau pemberian tenaga listrik (pada mesin-mesin kereta api dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrifikasi",
+  "related": [],
+  "detailed": false
+}

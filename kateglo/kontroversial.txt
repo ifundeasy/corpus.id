@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontroversial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat menimbulkan perdebatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontroversial",
+  "related": [],
+  "detailed": false
+}

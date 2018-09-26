@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perbekel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai yang mengurus sawah milik lurah;"
+      },
+      {
+        "type": "desc",
+        "text": "lurah yang mengepalai desa yang kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bl) kepala desa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbekel",
+  "related": [],
+  "detailed": false
+}

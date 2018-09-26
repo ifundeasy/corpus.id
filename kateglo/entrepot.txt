@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "entrepot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat penimbunan barang yang belum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entrepot",
+  "related": [],
+  "detailed": false
+}

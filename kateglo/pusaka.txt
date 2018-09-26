@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pusaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta benda peninggalan orang yang telah meninggal; warisan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang diturunkan dari nenek moyang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusaka",
+  "related": [],
+  "detailed": false
+}

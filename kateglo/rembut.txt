@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rembut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terembut-rembut"
+      },
+      {
+        "type": "link",
+        "text": "berembut-rembut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rembut",
+  "related": [],
+  "detailed": false
+}

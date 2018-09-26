@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alveolar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian dengan atau menyerupai alveolus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bertalian dengan pembentukan bunyi dengan mendekatkan atau menempelkan ujung atau daun lidah pada pangkal gigi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi (konsonan) yang dibuat dengan cara demikian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alveolar",
+  "related": [],
+  "detailed": false
+}

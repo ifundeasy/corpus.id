@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras sosoh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang sudah dibersihkan hingga hilang selaput bijinya;"
+      },
+      {
+        "type": "desc",
+        "text": "beras yang telah dilepaskan sekam, lembaga, dan kulit arinya dengan cara menumbuk (tanpa menggunakan tenaga motor);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20sosoh",
+  "related": [],
+  "detailed": false
+}

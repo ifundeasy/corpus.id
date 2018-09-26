@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haploid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) keadaan dalam sel jaringan, atau stadium yang inti selnya hanya mempunyai satu perangkat kromosom yang tidak berpasangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haploid",
+  "related": [],
+  "detailed": false
+}

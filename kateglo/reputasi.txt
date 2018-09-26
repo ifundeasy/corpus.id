@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reputasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan dsb sebagai sebab mendapat nama baik; nama baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reputasi",
+  "related": [],
+  "detailed": false
+}

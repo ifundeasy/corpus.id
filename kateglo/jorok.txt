@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jorok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "menjorok"
+      },
+      {
+        "type": "desc",
+        "text": "kotor;"
+      },
+      {
+        "type": "desc",
+        "text": "cemar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) cabul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jorok",
+  "related": [],
+  "detailed": false
+}

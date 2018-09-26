@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fasihat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) kebaikan tutur kata (lafal dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fasihat",
+  "related": [],
+  "detailed": false
+}

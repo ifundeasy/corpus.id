@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akrilik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dgn atau terbuat dari polimer ester poliakrilat;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung asam akrilat, CH2=CHCOOH, yang bersifat merangsang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akrilik",
+  "related": [],
+  "detailed": false
+}

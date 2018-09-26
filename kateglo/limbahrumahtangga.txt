@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbah rumah tangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limbah yang berasal dari buangan kegiatan rumah tangga dan kegiatan sanitasi manusia yang rutin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah%20rumah%20tangga",
+  "related": [],
+  "detailed": false
+}

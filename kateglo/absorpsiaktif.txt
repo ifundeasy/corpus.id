@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "absorpsi aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) absorpsi air oleh tumbuhan dari dalam tanah dengan menggunakan energi metabolik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absorpsi%20aktif",
+  "related": [],
+  "detailed": false
+}

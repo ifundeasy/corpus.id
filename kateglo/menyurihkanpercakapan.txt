@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyurihkan percakapan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membelokkan percakapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyurihkan%20percakapan",
+  "related": [],
+  "detailed": false
+}

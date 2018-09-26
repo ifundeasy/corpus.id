@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan struktural",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunjangan yang diberikan kepada pegawai negeri yang menduduki jabatan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20struktural",
+  "related": [],
+  "detailed": false
+}

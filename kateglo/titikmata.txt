@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik mata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik yang menjadi pusat segenap penglihatan (pada gambar pemandangan);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menarik perhatian orang banyak; pusat perhatian (minat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20mata",
+  "related": [],
+  "detailed": false
+}

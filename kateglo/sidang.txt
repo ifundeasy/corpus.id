@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sidang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan untuk membicarakan sesuatu; rapat;"
+      },
+      {
+        "type": "desc",
+        "text": "segenap anggota dewan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "orang banyak; publik; para (untuk menyatakan banyak); sekalian;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) dewan; majelis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang",
+  "related": [],
+  "detailed": false
+}

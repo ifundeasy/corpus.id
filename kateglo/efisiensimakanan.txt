@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efisiensi makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) angka yang menunjukkan perbandingan antara pertambahan berat badan ternak dan berat ransum yang dikonsumsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efisiensi%20makanan",
+  "related": [],
+  "detailed": false
+}

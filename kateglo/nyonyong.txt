@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyonyong",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "menyonyong"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyonyong",
+  "related": [],
+  "detailed": false
+}

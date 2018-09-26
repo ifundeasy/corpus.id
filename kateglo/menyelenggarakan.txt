@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyelenggarakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengurus dan mengusahakan sesuatu (seperti memelihara, memiara, merawat);"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan atau melaksanakan (perintah, undang-undang, rencana, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menunaikan atau menyampaikan (maksud, cita-cita, harapan, tugas kewajiban, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengurus dan memperhatikan (kepentingan, usaha, perkara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengadakan, mengatur, dan mengurus (pesta, rapat, pertunjukan, pameran, perusahaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyelenggarakan",
+  "related": [],
+  "detailed": false
+}

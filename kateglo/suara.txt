@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi yang dikeluarkan dari mulut manusia (seperti pada waktu bercakap-cakap, menyanyi, tertawa, dan menangis);"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi binatang, alat perkakas, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ucapan (perkataan);"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi bahasa (bunyi ujar);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dianggap sebagai perkataan (untuk melahirkan pikiran, perasaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pernyataan (setuju atau tidak);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dukungan (dalam pemilihan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suara",
+  "related": [],
+  "detailed": false
+}

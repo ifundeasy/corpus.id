@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menteri ex officio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "menteri yang merangkap jabatan menteri lain selama belum ada menteri lain yang dianggap sesuai untuk jabatan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menteri%20ex%20officio",
+  "related": [],
+  "detailed": false
+}

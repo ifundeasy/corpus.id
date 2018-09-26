@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekening koran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan utang piutang yang secara periodik dilakukan penghitungan penyelesaian;"
+      },
+      {
+        "type": "desc",
+        "text": "rekening pribadi atau perseorangan di bank (giro);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekening%20koran",
+  "related": [],
+  "detailed": false
+}

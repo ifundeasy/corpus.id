@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tali arus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran arus (listrik, suara, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tali%20arus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "promenade",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk berjalan-jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=promenade",
+  "related": [],
+  "detailed": false
+}

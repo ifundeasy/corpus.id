@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dilakukan menurut hukum (undang-undang, peraturan) yang berlaku;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak batal (tentang keagamaan);"
+      },
+      {
+        "type": "desc",
+        "text": "berlaku; diakui kebenarannya; diakui oleh pihak resmi;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "boleh dipercaya; tidak diragukan (disangsikan); benar; asli; autentik;"
+      },
+      {
+        "type": "desc",
+        "text": "nyata dan tentu; pasti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sah",
+  "related": [],
+  "detailed": false
+}

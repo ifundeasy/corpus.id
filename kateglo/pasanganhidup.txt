@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasangan hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suami atau istri;"
+      },
+      {
+        "type": "desc",
+        "text": "jodoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasangan%20hidup",
+  "related": [],
+  "detailed": false
+}

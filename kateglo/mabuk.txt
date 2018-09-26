@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mabuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa pening atau hilang kesadaran (karena terlalu banyak minum minuman keras, makan gadung, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat di luar kesadaran; lupa diri;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sangat gemar (suka);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tergila-gila; sangat berahi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mabuk",
+  "related": [],
+  "detailed": false
+}

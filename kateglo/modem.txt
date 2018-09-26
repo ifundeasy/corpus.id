@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) alat modulator dan demodulator yang terpasang pada telepon untuk mengubah informasi digital ke dalam bentuk suara dan sebaliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modem",
+  "related": [],
+  "detailed": false
+}

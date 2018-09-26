@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempat makanan otomatis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang berisi partikel makanan yang mengeluarkan makanan dalam waktu tertentu, biasanya dijalankan oleh listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempat%20makanan%20otomatis",
+  "related": [],
+  "detailed": false
+}

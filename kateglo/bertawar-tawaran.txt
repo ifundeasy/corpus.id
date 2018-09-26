@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertawar-tawaran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertawaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertawar-tawaran",
+  "related": [],
+  "detailed": false
+}

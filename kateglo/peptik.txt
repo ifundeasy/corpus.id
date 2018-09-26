@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peptik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "borok pada lapisan selaput lendir lambung;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) mengenai pencernaan; berkaitan dengan pepsin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peptik",
+  "related": [],
+  "detailed": false
+}

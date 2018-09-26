@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demokrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "(bentuk atau sistem) pemerintahan yang seluruh rakyatnya turut serta memerintah dengan perantaraan wakilnya; pemerintahan rakyat;"
+      },
+      {
+        "type": "desc",
+        "text": "gagasan atau pandangan hidup yang mengutamakan persamaan hak dan kewajiban serta perlakuan yang sama bagi semua warga negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demokrasi",
+  "related": [],
+  "detailed": false
+}

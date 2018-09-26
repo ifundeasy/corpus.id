@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "payang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pukat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memayang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=payang",
+  "related": [],
+  "detailed": false
+}

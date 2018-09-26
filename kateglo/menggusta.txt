@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menggusta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah manggis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggusta",
+  "related": [],
+  "detailed": false
+}

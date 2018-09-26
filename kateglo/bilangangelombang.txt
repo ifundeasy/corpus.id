@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan gelombang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) besaran yang sama dengan 2 II (pi) dibagi panjang gelombang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20gelombang",
+  "related": [],
+  "detailed": false
+}

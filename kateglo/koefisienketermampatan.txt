@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien ketermampatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurangan secara nisbi volume air persatuan tambahan tekanan pada suhu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20ketermampatan",
+  "related": [],
+  "detailed": false
+}

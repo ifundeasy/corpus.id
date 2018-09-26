@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diangkut dengan kendaraan;"
+      },
+      {
+        "type": "desc",
+        "text": "isi (kapal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah listrik positif atau jumlah listrik negatif yang ada pada benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat vital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian mesin (pesawat, pabrik, dsb yang sangat penting fungsinya);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) alat kelamin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20vital",
+  "related": [],
+  "detailed": false
+}

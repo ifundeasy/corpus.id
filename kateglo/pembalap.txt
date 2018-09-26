@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembalap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang turut dalam lomba adu cepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembalap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "penuh;"
+      },
+      {
+        "type": "desc",
+        "text": "batas yang paling tinggi atau paling banyak (tentang masa kerja, gaji, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pengumpulan pendapat umum melalui media massa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pol",
+  "related": [],
+  "detailed": false
+}

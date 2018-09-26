@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencanaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mencanai;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mencanai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencanaian",
+  "related": [],
+  "detailed": false
+}

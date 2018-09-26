@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham lunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) saham yang telah dibayar lunas oleh pemegang atau pemiliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20lunas",
+  "related": [],
+  "detailed": false
+}

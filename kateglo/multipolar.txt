@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multipolar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai lebih dari satu kutub;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multipolar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cepol",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tercabut; terlepas (tentang barang yang melekat); terbantun;"
+      },
+      {
+        "type": "desc",
+        "text": "rusak (bejat);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencepol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cepol",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghindari makan, minum, dsb dengan sengaja (terutama bertalian dengan keagamaan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl) salah satu rukun Islam berupa ibadah menahan diri atau berpantang makan, minum, dan segala yang membatalkannya mulai terbit fajar sampai terbenam matahari; saum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sintar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "sintal;"
+      },
+      {
+        "type": "link",
+        "text": "burung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sintar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kode etik kedokteran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "norma dan asas yang berlaku bagi para dokter sebagai landasan dalam menjalankan profesinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kode%20etik%20kedokteran",
+  "related": [],
+  "detailed": false
+}

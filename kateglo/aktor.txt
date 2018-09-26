@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pria yang berperan sebagai pelaku dalam pementasan cerita, drama, dsb di panggung, radio, televisi, atau film;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berperan dalam suatu kejadian penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktor",
+  "related": [],
+  "detailed": false
+}

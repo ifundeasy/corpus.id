@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tajwid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara membaca Alquran dengan lafal atau ucapan yang benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tajwid",
+  "related": [],
+  "detailed": false
+}

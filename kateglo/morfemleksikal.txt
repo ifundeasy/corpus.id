@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang jumlahnya tidak terbatas dan sangat produktif (mencakupi kata penuh dan afiks derivatif);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20leksikal",
+  "related": [],
+  "detailed": false
+}

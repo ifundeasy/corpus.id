@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "higrograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "higrometer yang mampu mengadakan pengamatan kelembapan udara terus-menerus secara tercatat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrograf",
+  "related": [],
+  "detailed": false
+}

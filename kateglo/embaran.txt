@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "embaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran (maklumat, undang-undang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embaran",
+  "related": [],
+  "detailed": false
+}

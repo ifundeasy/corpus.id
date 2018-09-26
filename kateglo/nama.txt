@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyebut atau memanggil orang (tempat, barang, binatang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gelar; sebutan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemasyhuran; kebaikan (keunggulan); kehormatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama",
+  "related": [],
+  "detailed": false
+}

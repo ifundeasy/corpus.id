@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang mengakibatkan polusi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polutan",
+  "related": [],
+  "detailed": false
+}

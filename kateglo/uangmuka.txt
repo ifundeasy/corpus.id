@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang muka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan terlebih dahulu sebagai tanda jadi pembelian dsb; panjar; persekot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20muka",
+  "related": [],
+  "detailed": false
+}

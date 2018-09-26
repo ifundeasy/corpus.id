@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zikir amali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zikir yang dilisankan (dinyaringkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zikir%20amali",
+  "related": [],
+  "detailed": false
+}

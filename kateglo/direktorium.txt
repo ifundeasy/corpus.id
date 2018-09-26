@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "direktorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekelompok direktur yang memegang pimpinan bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=direktorium",
+  "related": [],
+  "detailed": false
+}

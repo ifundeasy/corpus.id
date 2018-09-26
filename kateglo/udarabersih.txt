@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang bebas dari polusi dalam bentuk padat, cair, atau gas, seperti debu dan karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20bersih",
+  "related": [],
+  "detailed": false
+}

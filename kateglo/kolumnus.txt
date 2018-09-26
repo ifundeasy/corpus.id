@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolumnus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "struktur berbentuk batang seperti badan karang;"
+      },
+      {
+        "type": "desc",
+        "text": "poros tulang belakang (vertebrata);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian sumsum punggung yang dibagi-bagi secara membujur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolumnus",
+  "related": [],
+  "detailed": false
+}

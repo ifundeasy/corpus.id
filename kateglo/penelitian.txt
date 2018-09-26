@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penelitian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan yang teliti; penyelidikan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan pengumpulan, pengolahan, analisis, dan penyajian data yang dilakukan secara sistematis dan objektif untuk memecahkan suatu persoalan atau menguji suatu hipotesis untuk mengembangkan prinsip-prinsip umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penelitian",
+  "related": [],
+  "detailed": false
+}

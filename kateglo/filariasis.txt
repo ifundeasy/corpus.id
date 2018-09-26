@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filariasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh filaria;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit kaki gajah yang disebabkan oleh filaria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filariasis",
+  "related": [],
+  "detailed": false
+}

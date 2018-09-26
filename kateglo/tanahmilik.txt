@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah milik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang menjadi hak milik seseorang (bukan tanah negara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20milik",
+  "related": [],
+  "detailed": false
+}

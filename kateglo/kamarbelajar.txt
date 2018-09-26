@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar belajar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilik tempat belajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20belajar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satu meja",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyatumejakan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satu%20meja",
+  "related": [],
+  "detailed": false
+}

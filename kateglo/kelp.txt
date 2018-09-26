@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelp",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "ganggang laut yang tumbuh di pantai yang berkarang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) abu yang diperoleh dari pembakaran berbagai jenis ganggang atau rumput laut, digunakan untuk membuat yodium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelp",
+  "related": [],
+  "detailed": false
+}

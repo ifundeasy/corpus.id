@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baca",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membaca"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baca",
+  "related": [],
+  "detailed": false
+}

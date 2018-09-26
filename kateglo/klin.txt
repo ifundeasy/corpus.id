@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "landaian ciri yang dinyatakan dengan variasi bersinambungan melalui sederhana populasi yang berjajar berdampingan;"
+      },
+      {
+        "type": "desc",
+        "text": "landaian perubahan frekuensi fenotipe dan jalan genotipe sepanjang suatu transek kisaran populasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klin",
+  "related": [],
+  "detailed": false
+}

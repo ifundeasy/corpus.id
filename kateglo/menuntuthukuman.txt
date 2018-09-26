@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menuntut hukuman",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta agar (terdakwa) dihukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menuntut%20hukuman",
+  "related": [],
+  "detailed": false
+}

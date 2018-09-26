@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurun menit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurun%20menit",
+  "related": [],
+  "detailed": false
+}

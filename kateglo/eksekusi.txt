@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksekusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "pelaksanaan putusan hakim; pelaksanaan hukuman badan peradilan, khususnya hukuman mati;"
+      },
+      {
+        "type": "desc",
+        "text": "penjualan harta orang karena berdasarkan penyitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksekusi",
+  "related": [],
+  "detailed": false
+}

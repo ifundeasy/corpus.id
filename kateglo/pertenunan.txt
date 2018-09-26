@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertenunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menenun;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal yang berkaitan dengan tenun-menenun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertenunan",
+  "related": [],
+  "detailed": false
+}

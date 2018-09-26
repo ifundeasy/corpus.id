@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomina atributif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nomina yang mewatasi nomina lain, misal hutan dalam anjing hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomina%20atributif",
+  "related": [],
+  "detailed": false
+}

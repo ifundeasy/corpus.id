@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membebaskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melepaskan dari (ikatan, tuntutan, tekanan, hukuman, kekuasaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi keleluasaan untuk bergerak (berkata, berbuat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "melepaskan dari (kekuasaan, asing); memerdekakan;"
+      },
+      {
+        "type": "desc",
+        "text": "memberhentikan (dari tugas dan jabatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membebaskan",
+  "related": [],
+  "detailed": false
+}

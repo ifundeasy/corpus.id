@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antarmuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp)"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan atau batasan umum antara dua unit atau alat;"
+      },
+      {
+        "type": "desc",
+        "text": "batasan umum antara sistem pengolahan data otomatis atau bagian suatu sistem tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antarmuka",
+  "related": [],
+  "detailed": false
+}

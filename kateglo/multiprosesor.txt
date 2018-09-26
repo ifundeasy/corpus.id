@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multiprosesor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) sistem pengolah data yang pada saat yang sama dapat mengolah lebih dari satu operasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multiprosesor",
+  "related": [],
+  "detailed": false
+}

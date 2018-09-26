@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diskusi panel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diskusi yang dilakukan oleh sekelompok orang (yang disebut panel) yang membahas suatu topik yang menjadi perhatian umum di hadapan khalayak, pendengar (siaran radio), atau penonton (siaran televisi), khalayak diberi kesempatan untuk bertanya atau memberikan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskusi%20panel",
+  "related": [],
+  "detailed": false
+}

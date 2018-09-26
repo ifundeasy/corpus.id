@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan dalam bentuk berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20berita",
+  "related": [],
+  "detailed": false
+}

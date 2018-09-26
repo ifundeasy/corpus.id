@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita tentang peristiwa yang terjadi pada suatu tempat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20lokal",
+  "related": [],
+  "detailed": false
+}

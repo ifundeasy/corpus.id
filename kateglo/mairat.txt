@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mairat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "hilang; pergi;"
+      },
+      {
+        "type": "desc",
+        "text": "mati;"
+      },
+      {
+        "type": "link",
+        "text": "mikraj"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mairat",
+  "related": [],
+  "detailed": false
+}

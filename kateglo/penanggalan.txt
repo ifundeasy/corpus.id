@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penanggalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menanggalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "hantu yang tidak berkepala (kepalanya tanggal) dan ususnya keluar;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar hari bulan; almanak; takwim; kalender;"
+      },
+      {
+        "type": "desc",
+        "text": "pembubuhan tanggal;"
+      },
+      {
+        "type": "desc",
+        "text": "tarikh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penanggalan",
+  "related": [],
+  "detailed": false
+}

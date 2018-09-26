@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan sebuah kapal, tidak termasuk tiang-tiang, tali-temali, layar, permesinan, dan peralatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20kapal",
+  "related": [],
+  "detailed": false
+}

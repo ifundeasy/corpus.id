@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disdrometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menangkap butir-butir hidrometer cair dan untuk mengamati besar serta distribusi garis tengah butir-butir itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disdrometer",
+  "related": [],
+  "detailed": false
+}

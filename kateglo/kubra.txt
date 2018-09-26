@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kubra",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gagal; batal; tidak jadi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak putus (tentang perkara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bubar (tentang perkumpulan);"
+      },
+      {
+        "type": "desc",
+        "text": "menceraikan (tentang perkawinan);"
+      },
+      {
+        "type": "link",
+        "text": "kiamat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kubra",
+  "related": [],
+  "detailed": false
+}

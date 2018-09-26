@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keefektifan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan berpengaruh; hal berkesan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemanjuran; kemujaraban (tentang obat);"
+      },
+      {
+        "type": "desc",
+        "text": "keberhasilan (tentang usaha, tindakan); kemangkusan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal mulai berlakunya (tentang undang- undang, peraturan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keefektifan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lantar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melantarkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "pelantar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lantar",
+  "related": [],
+  "detailed": false
+}

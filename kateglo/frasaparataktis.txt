@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "frasa parataktis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "frasa koordinatif yang tidak mempergunakan penghubung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frasa%20parataktis",
+  "related": [],
+  "detailed": false
+}

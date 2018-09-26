@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang bukti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) benda yang digunakan untuk meyakinkan hakim akan kesalahan terdakwa terhadap perkara pidana yang dituduhkan kepadanya; barang yang dapat dijadikan sebagai bukti dalam suatu perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20bukti",
+  "related": [],
+  "detailed": false
+}

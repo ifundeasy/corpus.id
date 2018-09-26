@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berinduk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai induk;"
+      },
+      {
+        "type": "desc",
+        "text": "berpangkal; berpokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berinduk",
+  "related": [],
+  "detailed": false
+}

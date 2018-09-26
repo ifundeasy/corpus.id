@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "catu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian (makanan, barang, dsb) yang sudah ditentukan banyaknya; ransum; jatah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catu",
+  "related": [],
+  "detailed": false
+}

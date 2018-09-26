@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desinfektan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "disinfektan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desinfektan",
+  "related": [],
+  "detailed": false
+}

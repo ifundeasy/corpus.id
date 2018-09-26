@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertemuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) bertemu; perjumpaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bertemu (berkumpul dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan (seperti rapat, konferensi);"
+      },
+      {
+        "type": "desc",
+        "text": "pergaulan;"
+      },
+      {
+        "type": "desc",
+        "text": "perjodohan; perkawinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertemuan",
+  "related": [],
+  "detailed": false
+}

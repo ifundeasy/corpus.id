@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "motif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pola; corak;"
+      },
+      {
+        "type": "desc",
+        "text": "salah satu dari antara gagasan yang dominan di dalam karya sastra, yang dapat berupa peran, citra yang berulang, atau pola pemakaian kata;"
+      },
+      {
+        "type": "desc",
+        "text": "alasan (sebab) seseorang melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=motif",
+  "related": [],
+  "detailed": false
+}

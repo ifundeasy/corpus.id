@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bom molotov",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bom bakar sederhana berisi kerosin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bom%20molotov",
+  "related": [],
+  "detailed": false
+}

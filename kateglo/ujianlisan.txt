@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian lisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan kepandaian secara lisan (tanya jawab);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20lisan",
+  "related": [],
+  "detailed": false
+}

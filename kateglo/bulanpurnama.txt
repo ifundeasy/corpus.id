@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan purnama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan bulan pada saat berada di arah yang bertentangan dengan matahari (tanggal 14 dan 15) sehingga bagian yang kena sinar dapat terlihat sepenuhnya; bulan penuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20purnama",
+  "related": [],
+  "detailed": false
+}

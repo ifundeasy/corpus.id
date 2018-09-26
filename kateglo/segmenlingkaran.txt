@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "segmen lingkaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) daerah yang dibatasi oleh busur lingkaran dan tali busurnya (garis yang memotong busur tersebut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segmen%20lingkaran",
+  "related": [],
+  "detailed": false
+}

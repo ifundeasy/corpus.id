@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gulita",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gelap; pekat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hub) penglihatan di darat yang sangat terbatas jaraknya, atau jarak penglihatan yang sama dengan nol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gulita",
+  "related": [],
+  "detailed": false
+}

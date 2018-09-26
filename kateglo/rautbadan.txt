@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "raut badan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk (sikap) badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raut%20badan",
+  "related": [],
+  "detailed": false
+}

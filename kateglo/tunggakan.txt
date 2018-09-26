@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunggakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angsuran (pajak) yang belum dibayar;"
+      },
+      {
+        "type": "desc",
+        "text": "sisa pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggakan",
+  "related": [],
+  "detailed": false
+}

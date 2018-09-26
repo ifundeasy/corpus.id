@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "utangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang diperoleh karena berutang;"
+      },
+      {
+        "type": "desc",
+        "text": "yang berutang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utangan",
+  "related": [],
+  "detailed": false
+}

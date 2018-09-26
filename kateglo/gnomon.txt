@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gnomon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron)"
+      },
+      {
+        "type": "desc",
+        "text": "instrumen kuno untuk menentukan tinggi matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang ditambahkan pada bilangan kuadrat untuk mendapatkan bilangan kuadrat yang baru;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk yang harus ditambahkan pada bentuk tertentu untuk mendapatkan bentuk yang baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gnomon",
+  "related": [],
+  "detailed": false
+}

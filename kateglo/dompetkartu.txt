@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dompet kartu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dompet yang khusus untuk tempat kartu nama dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dompet%20kartu",
+  "related": [],
+  "detailed": false
+}

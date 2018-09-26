@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat daftar G",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang hanya bisa dibeli dengan menggunakan resep dokter, misal antibiotik (biasanya ditandai dengan lingkaran warna biru tua bergaris tepi hitam dan tanda peringatan pada kemasannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20daftar%20G",
+  "related": [],
+  "detailed": false
+}

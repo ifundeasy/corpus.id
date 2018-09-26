@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "program",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rancangan mengenai asas serta usaha (dalam ketatanegaraan, perekonomian, dsb) yang akan dijalankan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) urutan perintah yang diberikan pada komputer untuk membuat fungsi atau tugas tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=program",
+  "related": [],
+  "detailed": false
+}

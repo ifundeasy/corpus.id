@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengawas modal saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pihak yang mengawasi saham agar jumlah yang beredar tidak melampaui modal dasar perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengawas%20modal%20saham",
+  "related": [],
+  "detailed": false
+}

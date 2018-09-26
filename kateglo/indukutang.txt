@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "induk utang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "utang yang asal (pokok), belum ditambah bunga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induk%20utang",
+  "related": [],
+  "detailed": false
+}

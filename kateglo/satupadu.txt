@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satu padu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bersatu padu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satu%20padu",
+  "related": [],
+  "detailed": false
+}

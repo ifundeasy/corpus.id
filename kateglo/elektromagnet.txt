@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektromagnet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "lempeng besi lunak yang dibelit dengan kawat penghantar yang terisolasi yang menjadi magnet jika kawat itu dilalui arus listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "magnet yang ditimbulkan oleh pengaruh arus listrik yang mengalir melalui suatu kumparan kawat penghantar listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektromagnet",
+  "related": [],
+  "detailed": false
+}

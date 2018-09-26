@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "variasi bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "variasi yang terdapat dalam lingkungan yang sama, terutama dalam kata yang tidak berbeda maknanya, misal perbedaan fonemis antara /u/ dan /o/;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan dapat berfungsinya dua bentuk atau lebih secara tidak berbeda dalam lingkungan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=variasi%20bebas",
+  "related": [],
+  "detailed": false
+}

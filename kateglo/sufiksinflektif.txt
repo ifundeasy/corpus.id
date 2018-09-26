@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sufiks inflektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sufiks yang ditambahkan pada akar atau dasar untuk membatasi makna gramatikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sufiks%20inflektif",
+  "related": [],
+  "detailed": false
+}

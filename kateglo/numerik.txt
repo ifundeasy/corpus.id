@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "numerik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "yang berwujud nomor (angka); yang bersifat angka atau sistem angka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=numerik",
+  "related": [],
+  "detailed": false
+}

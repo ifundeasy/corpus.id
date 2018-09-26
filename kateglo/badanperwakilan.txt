@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan perwakilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang mewakili;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20perwakilan",
+  "related": [],
+  "detailed": false
+}

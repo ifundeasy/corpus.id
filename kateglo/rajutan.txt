@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rajutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil merajut;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan pakaian yang dibuat dengan tangan atau mesin rajut;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dirajut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rajutan",
+  "related": [],
+  "detailed": false
+}

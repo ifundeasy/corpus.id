@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suam-suam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak panas (karena demam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suam-suam",
+  "related": [],
+  "detailed": false
+}

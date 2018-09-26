@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "domisili",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) tempat kediaman yang sah dari seseorang; tempat tinggal resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=domisili",
+  "related": [],
+  "detailed": false
+}

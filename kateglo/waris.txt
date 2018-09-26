@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "waris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berhak menerima harta pusaka dari orang yang telah meninggal;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "selalu mujur; untung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waris",
+  "related": [],
+  "detailed": false
+}

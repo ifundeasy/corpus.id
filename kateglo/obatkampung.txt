@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat kampung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat dari tumbuh-tumbuhan dsb yang diramu sendiri atau oleh dukun (bukan dari apotek atau dari pabrik farmasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20kampung",
+  "related": [],
+  "detailed": false
+}

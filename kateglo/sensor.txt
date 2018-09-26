@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawasan dan pemeriksaan surat-surat atau sesuatu yang akan disiarkan atau diterima (berita, majalah, buku, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang menyensor;"
+      },
+      {
+        "type": "desc",
+        "text": "elemen yang mengubah sinyal fisik menjadi sinyal elektronik yang dibutuhkan komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensor",
+  "related": [],
+  "detailed": false
+}

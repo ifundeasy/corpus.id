@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengembang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengembangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan yang melakukan kegiatan pengadaan dan pengolahan tanah serta pengadaan bangunan dan/atau sarana dan prasarana dengan maksud dijual atau disewakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengembang",
+  "related": [],
+  "detailed": false
+}

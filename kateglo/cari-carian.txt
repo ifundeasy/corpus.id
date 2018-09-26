@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cari-carian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling mencari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cari-carian",
+  "related": [],
+  "detailed": false
+}

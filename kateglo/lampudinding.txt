@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu dinding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang ditempatkan atau ditempelkan di dinding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20dinding",
+  "related": [],
+  "detailed": false
+}

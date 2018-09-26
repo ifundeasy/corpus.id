@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "au",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron) satuan jarak astronomis dalam perbintangan yang sama besar dengan jarak bumi ke matahari, yaitu 149.599.000 km;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=au",
+  "related": [],
+  "detailed": false
+}

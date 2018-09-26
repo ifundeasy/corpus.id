@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) jarak titik terhadap sumbu tegak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absis",
+  "related": [],
+  "detailed": false
+}

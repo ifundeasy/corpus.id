@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tugas karya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menugaskan pegawai sipil atau tentara yang sudah pensiun untuk bekerja kembali di tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tugas%20karya",
+  "related": [],
+  "detailed": false
+}

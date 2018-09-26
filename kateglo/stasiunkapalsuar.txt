@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun kapal suar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun sinoptik permukaan pada kapal suar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20kapal%20suar",
+  "related": [],
+  "detailed": false
+}

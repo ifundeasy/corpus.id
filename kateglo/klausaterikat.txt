@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa terikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa yang tidak dapat berdiri sendiri sebagai kalimat tunggal mandiri, menjadi bagian klausa lain atau bagian dari kalimat majemuk bertingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20terikat",
+  "related": [],
+  "detailed": false
+}

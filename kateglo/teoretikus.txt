@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teoretikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli dalam hal teori suatu ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teoretikus",
+  "related": [],
+  "detailed": false
+}

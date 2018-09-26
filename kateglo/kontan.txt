@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tunai (tentang pembayaran);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pada ketika itu juga; langsung sekaligus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontan",
+  "related": [],
+  "detailed": false
+}

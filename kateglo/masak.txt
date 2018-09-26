@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah tua dan sampai waktunya untuk dipetik, dimakan, dsb (tentang buah-buahan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah matang (empuk, jadi) dan sampai waktunya untuk di-ambil, diangkat, dsb (tentang makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sudah selesai dikerjakan (dididik dsb); sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui) bersama; sudah sempurna; sudah pada tingkatan yang terbaik (terakhir);"
+      },
+      {
+        "type": "desc",
+        "text": "matang (dalam berpikir);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) memasak;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(cak) mana boleh; masa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masak",
+  "related": [],
+  "detailed": false
+}

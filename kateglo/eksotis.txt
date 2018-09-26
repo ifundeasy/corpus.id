@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksotis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memiliki daya tarik khas karena belum banyak dikenal umum;"
+      },
+      {
+        "type": "desc",
+        "text": "diperkenalkan atau dimasukkan dari luar negeri (tentang mode, gagasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bergaya asing; luar biasa; istimewa; aneh; ganjil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksotis",
+  "related": [],
+  "detailed": false
+}

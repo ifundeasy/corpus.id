@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alih huruf",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "penggantian huruf demi huruf dari abjad yang satu ke abjad yang lain (terlepas dari lafal bunyi kata yang sebenarnya); alih aksara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alih%20huruf",
+  "related": [],
+  "detailed": false
+}

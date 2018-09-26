@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parser",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mendeteksi kesalahan sintaksis pada program komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parser",
+  "related": [],
+  "detailed": false
+}

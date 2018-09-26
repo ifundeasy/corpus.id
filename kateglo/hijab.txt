@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hijab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dinding yang membatasi sesuatu dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) dinding yang membatasi hati manusia dan Allah;"
+      },
+      {
+        "type": "desc",
+        "text": "dinding yang menghalangi seseorang dari mendapat harta waris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hijab",
+  "related": [],
+  "detailed": false
+}

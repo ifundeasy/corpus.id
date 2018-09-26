@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan serba guna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "campuran bahan makanan dari bahan nabati yang berkadar protein tinggi dengan tujuan menghasilkan makanan yang mudah dan kaya akan protein, misal saridele;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20serba%20guna",
+  "related": [],
+  "detailed": false
+}

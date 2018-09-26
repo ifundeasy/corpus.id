@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola bilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan bilangan dengan aturan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20bilangan",
+  "related": [],
+  "detailed": false
+}

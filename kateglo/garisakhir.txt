@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas akhir (dalam perlombaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20akhir",
+  "related": [],
+  "detailed": false
+}

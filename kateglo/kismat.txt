@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kismat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian; nasib;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) apa boleh buat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kismat",
+  "related": [],
+  "detailed": false
+}

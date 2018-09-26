@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sehasta",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu hasta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sehasta",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nujum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbintangan untuk meramalkan (mengetahui) nasib orang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bintang-bintang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nujum",
+  "related": [],
+  "detailed": false
+}

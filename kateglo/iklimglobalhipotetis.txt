@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim global hipotetis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklim yang ada di bumi, jika permukaan bumi rata dan terdiri atas tanah atau laut yang serba sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20global%20hipotetis",
+  "related": [],
+  "detailed": false
+}

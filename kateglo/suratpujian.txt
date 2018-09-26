@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat pujian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang menyatakan kebaikan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "surat yang mengandung pujian atas jasa orang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20pujian",
+  "related": [],
+  "detailed": false
+}

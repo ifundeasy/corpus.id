@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrohabitat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) bagian dari habitat yang besar, misal kolam dapat merupakan bagian dari suatu perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrohabitat",
+  "related": [],
+  "detailed": false
+}

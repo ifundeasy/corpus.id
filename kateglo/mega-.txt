@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "mega-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "besar; luas; mempunyai bagian yang berukuran besar;"
+      },
+      {
+        "type": "desc",
+        "text": "juta; kelipatan satu juta (106; 1.000.000);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mega-",
+  "related": [],
+  "detailed": false
+}

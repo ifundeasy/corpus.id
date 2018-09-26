@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah sari tulisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan dengan format khusus mengenai ringkasan karangan dari berbagai terbitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20sari%20tulisan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepekaan neraca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bobot minimum yang masih dapat ditimbang; selisih bobot yang masih dapat diamati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepekaan%20neraca",
+  "related": [],
+  "detailed": false
+}

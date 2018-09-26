@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bibliografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar buku atau karangan yang merupakan sumber rujukan dari sebuah tulisan atau karangan atau daftar tentang suatu subjek ilmu; daftar pustaka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sejahtera",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "aman sentosa dan makmur; selamat (terlepas dari segala macam gangguan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejahtera",
+  "related": [],
+  "detailed": false
+}

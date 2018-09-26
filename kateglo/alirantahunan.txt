@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) aliran air sepanjang tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20tahunan",
+  "related": [],
+  "detailed": false
+}

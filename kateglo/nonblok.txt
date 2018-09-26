@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonblok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bergabung dalam satu blok tertentu (tentang negara, partai politik, dsb); netral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonblok",
+  "related": [],
+  "detailed": false
+}

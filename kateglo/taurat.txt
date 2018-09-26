@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Taurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab suci yang diturunkan Allah kepada Nabi Musa a.s.;"
+      },
+      {
+        "type": "desc",
+        "text": "hukum Nabi Musa a.s. yang dianut oleh orang Yahudi;"
+      },
+      {
+        "type": "desc",
+        "text": "kitab Perjanjian Lama, terutama Pentateuch (lima buah kitab yang diturunkan kepada Nabi Musa a.s.), yaitu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Taurat",
+  "related": [],
+  "detailed": false
+}

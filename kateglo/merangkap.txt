@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merangkap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menungkup dengan telapak tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap dengan menungkupkan telapak tangan (sehingga binatang yang ditangkap tidak mati);"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap dengan kedua belah telapak tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai (mempergunakan) dua benda atau lebih sekaligus; melekatkan dua benda atau lebih menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "menduduki jabatan lain di samping jabatan tetap; melakukan lebih dari satu pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merangkap",
+  "related": [],
+  "detailed": false
+}

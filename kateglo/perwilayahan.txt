@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwilayahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berhubungan dengan wilayah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwilayahan",
+  "related": [],
+  "detailed": false
+}

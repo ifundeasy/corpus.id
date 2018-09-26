@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sifat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rupa dan keadaan yang tampak pada suatu benda; tanda lahiriah;"
+      },
+      {
+        "type": "desc",
+        "text": "peri keadaan yang menurut kodratnya ada pada sesuatu (benda, orang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ciri khas yang ada pada sesuatu (untuk membedakan dari yang lain);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar watak (dibawa sejak lahir); tabiat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sifat",
+  "related": [],
+  "detailed": false
+}

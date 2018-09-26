@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semivokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bunyi bahasa yang mempunyai ciri vokal ataupun konsonan, mempunyai sedikit geseran dan tidak muncul sebagai inti suku kata, misal [y], [r], [w];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semivokal",
+  "related": [],
+  "detailed": false
+}

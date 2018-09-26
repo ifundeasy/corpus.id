@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penanti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menanti (menunggu);"
+      },
+      {
+        "type": "desc",
+        "text": "penerima tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penanti",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maklumat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan; pengumuman;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan; mualamat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maklumat",
+  "related": [],
+  "detailed": false
+}

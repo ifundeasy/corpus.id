@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sambutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerimaan;"
+      },
+      {
+        "type": "desc",
+        "text": "balasan; reaksi; sanggahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dibeli dengan pembayaran kemudian; barang yang dibon;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dititipkan untuk dijual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambutan",
+  "related": [],
+  "detailed": false
+}

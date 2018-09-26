@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mekanika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang fisika mengenai gerak dan rihatnya benda dan penyebab gerak atau rihatnya benda itu;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang mesin-mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mekanika",
+  "related": [],
+  "detailed": false
+}

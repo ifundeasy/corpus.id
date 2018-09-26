@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menteri pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdana menteri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menteri%20pertama",
+  "related": [],
+  "detailed": false
+}

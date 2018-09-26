@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meningitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peradangan pada selaput otak dan sumsum tulang belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meningitis",
+  "related": [],
+  "detailed": false
+}

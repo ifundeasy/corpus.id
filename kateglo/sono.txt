@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sono",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "desc",
+        "text": "sana;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) tempat (dalam kata majemuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sono",
+  "related": [],
+  "detailed": false
+}

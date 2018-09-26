@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sendal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terompah; sandal;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyendal"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) ganjal; sumpal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sendal",
+  "related": [],
+  "detailed": false
+}

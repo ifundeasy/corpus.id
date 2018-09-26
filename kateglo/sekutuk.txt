@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekutuk",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu sukat; sesukat; ~ beras basah, pb tidak ada gunanya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak ayam hasil pemuliaan yang mempunyai sifat unggul (produktivitasnya tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekutuk",
+  "related": [],
+  "detailed": false
+}

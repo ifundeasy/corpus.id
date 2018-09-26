@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyiasat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memeriksa; menyelidiki; mengusut;"
+      },
+      {
+        "type": "desc",
+        "text": "mengupas (suatu masalah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengadakan muslihat (taktik);"
+      },
+      {
+        "type": "desc",
+        "text": "menanyai (untuk mengetahui sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "menyiksa; menganiaya; menghukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyiasat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkara sipil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkara (sengketa) antara seseorang dan orang lain (bukan perkara pelanggaran atau kejahatan); perkara perdata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkara%20sipil",
+  "related": [],
+  "detailed": false
+}

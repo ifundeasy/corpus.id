@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kayu bangunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kayu yang baik untuk bahan bangunan (membuat rumah dsb, seperti kayu jati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kayu%20bangunan",
+  "related": [],
+  "detailed": false
+}

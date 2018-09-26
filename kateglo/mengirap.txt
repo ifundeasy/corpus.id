@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengirap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "mengepak-ngepakkan (sayap);"
+      },
+      {
+        "type": "desc",
+        "text": "menangkis-nangkiskan (perisai) naik turun;"
+      },
+      {
+        "type": "desc",
+        "text": "lenyap; hilang;"
+      },
+      {
+        "type": "link",
+        "text": "sayap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengirap",
+  "related": [],
+  "detailed": false
+}

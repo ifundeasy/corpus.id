@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengaku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyatakan (menganggap) dirinya (pandai, kaya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membenarkan (tuduhan dsb terhadap dirinya);"
+      },
+      {
+        "type": "desc",
+        "text": "menerima dan menyatakan (bahwa dirinya salah, keliru, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menanggung (akan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyanggupi;"
+      },
+      {
+        "type": "desc",
+        "text": "menganggap (sebagai);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) selalu menceritakan diri sendiri; memegahkan diri; membanggakan diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengaku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pilihan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pilihan%20kata",
+  "related": [],
+  "detailed": false
+}

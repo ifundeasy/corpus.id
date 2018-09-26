@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alimentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeliharaan; pemberian makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alimentasi",
+  "related": [],
+  "detailed": false
+}

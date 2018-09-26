@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat permintaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat permohonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20permintaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hematologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang ilmu kedokteran mengenai sel darah, organ pembentuk darah, dan kelainan yang berhubungan dengan sel serta organ pembentuk darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hematologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersibar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai sibar;"
+      },
+      {
+        "type": "desc",
+        "text": "bertambah dengan didirikannya rumah di kanan atau di kiri rumah besar;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bercucuran; memercik-mercik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersibar",
+  "related": [],
+  "detailed": false
+}

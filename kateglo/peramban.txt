@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peramban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencari daun-daunan untuk makanan ternak;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat lunak komputer untuk mencari informasi dalam situs internet;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang meramban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peramban",
+  "related": [],
+  "detailed": false
+}

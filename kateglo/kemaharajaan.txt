@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemaharajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah kekuasaan maharaja;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal maha-raja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemaharajaan",
+  "related": [],
+  "detailed": false
+}

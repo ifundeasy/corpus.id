@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setumpu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumpu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setumpu",
+  "related": [],
+  "detailed": false
+}

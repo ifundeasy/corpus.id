@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang menerima upah berdasarkan hari masuk kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20harian",
+  "related": [],
+  "detailed": false
+}

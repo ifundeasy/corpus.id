@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membulan penuh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "seperti bulan purnama (tentang muka);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membulan%20penuh",
+  "related": [],
+  "detailed": false
+}

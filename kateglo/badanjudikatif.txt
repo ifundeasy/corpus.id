@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan judikatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan yang menentukan atau menangani masalah (bidang) hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20judikatif",
+  "related": [],
+  "detailed": false
+}

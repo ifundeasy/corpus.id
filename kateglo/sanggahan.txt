@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sanggahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat lain atas pendapat (pemrasaran dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanggahan",
+  "related": [],
+  "detailed": false
+}

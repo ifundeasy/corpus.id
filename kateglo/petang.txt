@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu sesudah tengah hari (kira-kira dari pukul tiga sampai matahari terbenam); sore;"
+      },
+      {
+        "type": "link",
+        "text": "kepetangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petang",
+  "related": [],
+  "detailed": false
+}

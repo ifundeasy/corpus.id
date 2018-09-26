@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesatuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal satu;"
+      },
+      {
+        "type": "desc",
+        "text": "keesaan; sifat tunggal;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesatuan orang yang terikat atas ciri-ciri tertentu dalam kehidupan masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesatuan",
+  "related": [],
+  "detailed": false
+}

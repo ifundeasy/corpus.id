@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga kayu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya (pajak) yang harus dibayar karena menebang hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20kayu",
+  "related": [],
+  "detailed": false
+}

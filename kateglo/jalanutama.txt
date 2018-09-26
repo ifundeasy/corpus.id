@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan besar yang menjadi pangkal dari jalan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20utama",
+  "related": [],
+  "detailed": false
+}

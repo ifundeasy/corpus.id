@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "entri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau frasa dalam kamus beserta penjelasan maknanya dengan tambahan penjelasan berupa kelas kata, lafal, etimologi, contoh pemakaian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lema;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entri",
+  "related": [],
+  "detailed": false
+}

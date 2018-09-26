@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang umum majelis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang yang diadakan pada permulaan masa jabatan keanggotaan majelis (dalam MPR);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20umum%20majelis",
+  "related": [],
+  "detailed": false
+}

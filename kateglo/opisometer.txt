@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opisometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranti untuk mengukur jarak pada peta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opisometer",
+  "related": [],
+  "detailed": false
+}

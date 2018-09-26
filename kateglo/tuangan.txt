@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dituang;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menuang;"
+      },
+      {
+        "type": "desc",
+        "text": "acuan; cetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuangan",
+  "related": [],
+  "detailed": false
+}

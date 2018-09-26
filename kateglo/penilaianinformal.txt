@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penilaian informal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seseorang yang melakukan penilaian tentang kualitas kerja dan pelayanan yang diberikan tiap karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penilaian%20informal",
+  "related": [],
+  "detailed": false
+}

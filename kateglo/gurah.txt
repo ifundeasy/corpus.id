@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gurah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bergurah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang buahnya dapat dipakai untuk menuba ikan; Sapium indicum;"
+      },
+      {
+        "type": "desc",
+        "text": "pengobatan tradisional untuk mengeluarkan lendir dari dalam tubuh dengan ramuan cairan srigunggu yang diteteskan melalui hidung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gurah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "busung perut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kumulasi air dalam perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=busung%20perut",
+  "related": [],
+  "detailed": false
+}

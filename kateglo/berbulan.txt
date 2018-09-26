@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbulan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada bulannya;"
+      },
+      {
+        "type": "desc",
+        "text": "hingga sebulan lamanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbulan",
+  "related": [],
+  "detailed": false
+}

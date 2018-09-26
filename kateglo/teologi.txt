@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan ketuhanan (mengenai sifat Allah, dasar kepercayaan kepada Allah dan agama, terutama berdasarkan pada kitab suci);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teologi",
+  "related": [],
+  "detailed": false
+}

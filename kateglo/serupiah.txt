@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serupiah",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu rupiah; seperak (100 sen);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serupiah",
+  "related": [],
+  "detailed": false
+}

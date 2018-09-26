@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tulis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertulis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tulis",
+  "related": [],
+  "detailed": false
+}

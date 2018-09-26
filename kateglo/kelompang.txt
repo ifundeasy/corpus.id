@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelompang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kosong; hampa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kulit telur (buah dsb) yang sudah kosong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelompang",
+  "related": [],
+  "detailed": false
+}

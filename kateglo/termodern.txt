@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termodern",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "paling modern;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termodern",
+  "related": [],
+  "detailed": false
+}

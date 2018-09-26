@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air tanah tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air tanah yang terdapat dalam material yang jenuh terhadap celah sehingga air itu secara permanen terikat pada dinding pori atau geraknya sangat lambat sehingga tidak tersedia sebagai air untuk dipompa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20tanah%20tetap",
+  "related": [],
+  "detailed": false
+}

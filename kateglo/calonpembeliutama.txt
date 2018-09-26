@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "calon pembeli utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) (kelompok) orang atau badan (dalam pasar) yang diperkirakan mempunyai daya beli yang paling besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=calon%20pembeli%20utama",
+  "related": [],
+  "detailed": false
+}

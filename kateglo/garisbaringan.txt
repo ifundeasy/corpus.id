@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis baringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) garis lurus yang dibuat di peta laut yang menyinggung baringan di titik baring;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20baringan",
+  "related": [],
+  "detailed": false
+}

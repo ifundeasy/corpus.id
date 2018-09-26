@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tagan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taruhan (dalam perjudian);"
+      },
+      {
+        "type": "desc",
+        "text": "uang dsb yang dimasukkan untuk modal bersama atau untuk bersama-sama mengadakan suatu kegiatan usaha;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menagan"
+      },
+      {
+        "type": "link",
+        "text": "bertagan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tagan",
+  "related": [],
+  "detailed": false
+}

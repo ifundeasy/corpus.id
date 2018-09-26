@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyempitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjadi sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan atau hal menyempitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang sempit dari suatu struktur yang menghubungkan dua bagian yang lebih besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyempitan",
+  "related": [],
+  "detailed": false
+}

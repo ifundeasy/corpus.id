@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelancar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "alat untuk melancarkan (jalannya sesuatu);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "balok penghubung tiang rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelancar",
+  "related": [],
+  "detailed": false
+}

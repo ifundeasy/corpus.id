@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "otoritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuasaan yang sah yang diberikan kepada lembaga dalam masyarakat yang memungkinkan para pejabatnya menjalankan fungsinya;"
+      },
+      {
+        "type": "desc",
+        "text": "hak untuk bertindak;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan; wewenang;"
+      },
+      {
+        "type": "desc",
+        "text": "hak melakukan tindakan atau hak membuat peraturan untuk memerintah orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=otoritas",
+  "related": [],
+  "detailed": false
+}

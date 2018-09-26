@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tapal batas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbatasan (negara, daerah);"
+      },
+      {
+        "type": "desc",
+        "text": "garis pembatas atau pemisah (antara unit administratif atau antara unit regional geografis yang berbeda, baik fisik maupun budaya);"
+      },
+      {
+        "type": "desc",
+        "text": "sempadan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapal%20batas",
+  "related": [],
+  "detailed": false
+}

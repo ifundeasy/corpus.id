@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketahuan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah diketahui; dikenali;"
+      },
+      {
+        "type": "desc",
+        "text": "diketahui; didapati;"
+      },
+      {
+        "type": "desc",
+        "text": "kelihatan; terang (bukan rahasia lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketahuan",
+  "related": [],
+  "detailed": false
+}

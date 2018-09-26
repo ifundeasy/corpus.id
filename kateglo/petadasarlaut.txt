@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta dasar laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peta yang menggambarkan topografi beberapa bagian dasar laut; peta batimetri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20dasar%20laut",
+  "related": [],
+  "detailed": false
+}

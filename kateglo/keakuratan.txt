@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keakuratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal ketelitian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keakuratan",
+  "related": [],
+  "detailed": false
+}

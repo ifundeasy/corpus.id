@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehamilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan hamil;"
+      },
+      {
+        "type": "desc",
+        "text": "hal hamil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehamilan",
+  "related": [],
+  "detailed": false
+}

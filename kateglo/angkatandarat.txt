@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan darat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angkatan bersenjata dengan alat perlengkapannya yang bertugas di bidang pertahanan dan keamanan, terutama di darat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20darat",
+  "related": [],
+  "detailed": false
+}

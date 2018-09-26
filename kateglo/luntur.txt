@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luntur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berubah atau hilang warna (tentang cat, pakaian, emas sepuhan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berubah (tentang pendirian, keyakinan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menjadi kurang atau hilang (tentang kepercayaan, cinta kasih, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) turun (tentang kemegahan, nama baik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak manjur lagi (tentang mantra, kesaktian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mudah keluar, lancar keluar (tentang buang air);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luntur",
+  "related": [],
+  "detailed": false
+}

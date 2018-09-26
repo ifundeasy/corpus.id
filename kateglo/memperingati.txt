@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memperingati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengadakan suatu kegiatan (seperti pe-rayaan, selamatan) untuk mengenangkan atau memuliakan suatu peristiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "mencatat (dalam buku catatan);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi peringatan (teguran, nasihat) supaya ingat akan kewajiban dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memperingati",
+  "related": [],
+  "detailed": false
+}

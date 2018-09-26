@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebar maksimum",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kap) lebar maksimum kapal yang diukur sampai bagian luar pelat, papan, pisang-pisang, atau perangkap tetap lainnya yang menempel pada badan kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar%20maksimum",
+  "related": [],
+  "detailed": false
+}

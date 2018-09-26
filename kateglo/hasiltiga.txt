@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil tiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak terhadap barang-barang yang dijual di pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20tiga",
+  "related": [],
+  "detailed": false
+}

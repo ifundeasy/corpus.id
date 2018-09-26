@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipodrom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kandang kuda;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pacuan kuda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipodrom",
+  "related": [],
+  "detailed": false
+}

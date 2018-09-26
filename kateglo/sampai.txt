@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencapai; datang; tiba;"
+      },
+      {
+        "type": "desc",
+        "text": "berbatas;"
+      },
+      {
+        "type": "desc",
+        "text": "terlaksana (tentang cita-cita, harapan, niat, dsb); tercapai;"
+      },
+      {
+        "type": "desc",
+        "text": "cukup;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih dari;"
+      },
+      {
+        "type": "desc",
+        "text": "hingga;"
+      },
+      {
+        "type": "desc",
+        "text": "mencapai tujuan; tamat;"
+      },
+      {
+        "type": "link",
+        "text": "menyampaikan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampai",
+  "related": [],
+  "detailed": false
+}

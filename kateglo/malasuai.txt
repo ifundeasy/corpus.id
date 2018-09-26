@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malasuai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sesuai;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidaksesuaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malasuai",
+  "related": [],
+  "detailed": false
+}

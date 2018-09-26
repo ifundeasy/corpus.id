@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyalakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan bernyala;"
+      },
+      {
+        "type": "desc",
+        "text": "menghidupkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengobarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyalakan",
+  "related": [],
+  "detailed": false
+}

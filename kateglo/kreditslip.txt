@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit slip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit berupa kupon dengan nilai pembayaran untuk penggunaan jasa angkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20slip",
+  "related": [],
+  "detailed": false
+}

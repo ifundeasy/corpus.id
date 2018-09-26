@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentet",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berentet"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentet",
+  "related": [],
+  "detailed": false
+}

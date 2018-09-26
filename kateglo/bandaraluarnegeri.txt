@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bandara luar negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bandara internasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandara%20luar%20negeri",
+  "related": [],
+  "detailed": false
+}

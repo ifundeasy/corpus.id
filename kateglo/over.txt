@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "over",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "oper;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lewat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=over",
+  "related": [],
+  "detailed": false
+}

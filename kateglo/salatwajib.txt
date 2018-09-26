@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat wajib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat fardu yang dilaksanakan lima waktu dalam sehari semalam, yaitu Subuh, Zuhur, Asar, Magrib, dan Isya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20wajib",
+  "related": [],
+  "detailed": false
+}

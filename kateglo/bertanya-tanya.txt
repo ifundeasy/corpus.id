@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanya-tanya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertanya ke mana-mana; berkali-kali bertanya (meminta keterangan dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam kebimbangan atau heran (seakan-akan bertanya di hati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanya-tanya",
+  "related": [],
+  "detailed": false
+}

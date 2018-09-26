@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tektonis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat tektonik;"
+      },
+      {
+        "type": "desc",
+        "text": "gempa bumi yang disebabkan oleh pergeseran letak lapisan batuan dalam bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tektonis",
+  "related": [],
+  "detailed": false
+}

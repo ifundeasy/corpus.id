@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengendarai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengemudikan kendaraan (kuda tunggangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "naik kendaraan (kuda tunggangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengendarai",
+  "related": [],
+  "detailed": false
+}

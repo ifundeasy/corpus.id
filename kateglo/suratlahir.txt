@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat lahir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kelahiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20lahir",
+  "related": [],
+  "detailed": false
+}

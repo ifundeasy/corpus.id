@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "frekuentatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menjelaskan kekerapan dan tindakan yang berulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frekuentatif",
+  "related": [],
+  "detailed": false
+}

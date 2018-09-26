@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aspek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda;"
+      },
+      {
+        "type": "desc",
+        "text": "sudut pandangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemunculan atau penginterpretasian gagasan, masalah, situasi, dsb sebagai pertimbangan yang dilihat dari sudut pandang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kategori gramatikal verba yang menunjukkan lama dan jenis perbuatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aspek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "muatan yang tolak-menolak; muatan yang tidak tarik-menarik dengan gaya yang besarnya ditentukan dengan hukum Coulomb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20listrik",
+  "related": [],
+  "detailed": false
+}

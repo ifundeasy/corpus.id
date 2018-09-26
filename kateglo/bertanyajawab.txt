@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanya jawab",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berdiskusi;"
+      },
+      {
+        "type": "desc",
+        "text": "berwawancara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanya%20jawab",
+  "related": [],
+  "detailed": false
+}

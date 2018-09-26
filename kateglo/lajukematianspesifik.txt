@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laju kematian spesifik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dem) jumlah proporsi dari kematian terhadap sejumlah populasi yang spesifik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laju%20kematian%20spesifik",
+  "related": [],
+  "detailed": false
+}

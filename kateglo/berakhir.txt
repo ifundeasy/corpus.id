@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berakhir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "selesai; habis;"
+      },
+      {
+        "type": "desc",
+        "text": "berkesudahan; dihabisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berakhir",
+  "related": [],
+  "detailed": false
+}

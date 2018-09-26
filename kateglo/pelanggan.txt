@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelanggan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membeli (menggunakan dsb) barang (surat kabar dsb) secara tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelanggan",
+  "related": [],
+  "detailed": false
+}

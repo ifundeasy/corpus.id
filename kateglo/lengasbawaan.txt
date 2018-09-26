@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengas bawaan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Min) kandungan air dalam batu bara yang hanya dapat disingkirkan dengan pemanasan pada 110o C, digunakan pada analisis hampiran batu bara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengas%20bawaan",
+  "related": [],
+  "detailed": false
+}

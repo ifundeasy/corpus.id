@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyampaikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengantarkan; mengirimkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi kewajiban; menunaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "mencukupkan; memadakan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengabulkan; meluluskan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyampirkan; menggantungkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyampaikan",
+  "related": [],
+  "detailed": false
+}

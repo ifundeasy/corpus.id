@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual titip",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual barang dengan cara menitipkannya kepada penjual lain (pemilik warung, toko, dsb) dan harganya baru dibayar setelah barang laku terjual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20titip",
+  "related": [],
+  "detailed": false
+}

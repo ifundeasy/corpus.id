@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polarimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menentukan jumlah penyinaran cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polarimeter",
+  "related": [],
+  "detailed": false
+}

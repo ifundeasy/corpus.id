@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "canda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkah;"
+      },
+      {
+        "type": "desc",
+        "text": "kelakar; senda gurau; seloroh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) rupa;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) tombak pendek;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "tak canda"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(ark) rupanya;"
+      },
+      {
+        "type": "link",
+        "text": "canda kemudi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=canda",
+  "related": [],
+  "detailed": false
+}

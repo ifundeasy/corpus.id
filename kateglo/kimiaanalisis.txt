@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia analisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang penentuan macam dan kadar suatu zat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20analisis",
+  "related": [],
+  "detailed": false
+}

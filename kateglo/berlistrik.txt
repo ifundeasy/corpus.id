@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlistrik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai listrik; ada listriknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlistrik",
+  "related": [],
+  "detailed": false
+}

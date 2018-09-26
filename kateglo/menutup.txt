@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menutup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan tidak terbuka (seperti mengatupkan, mengunci, merapatkan);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi bertutup (dengan) menudungi; menyelubungi dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menyekat (menyumbat, menimbun, dsb) supaya buntu; menyatakan tidak boleh dilalui atau dimasuki (tentang jalan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengurung; memasukkan ke dalam penjara;"
+      },
+      {
+        "type": "desc",
+        "text": "mencukupi (ongkos, kekurangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyudahi (rapat, pembicaraan, dsb); mengakhiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menyembunyikan; merahasiakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) melunasi (tentang utang); melengkapi (apa yang kurang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menutup",
+  "related": [],
+  "detailed": false
+}

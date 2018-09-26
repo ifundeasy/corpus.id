@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesempatan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tersedianya lowongan pekerjaan yang ditawarkan dalam pasar kerja, baik pemerintah maupun swasta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesempatan%20kerja",
+  "related": [],
+  "detailed": false
+}

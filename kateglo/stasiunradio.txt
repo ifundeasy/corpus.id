@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat memancarkan siaran melalui radio, misal stasiun RRI;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20radio",
+  "related": [],
+  "detailed": false
+}

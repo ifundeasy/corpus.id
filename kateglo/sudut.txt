@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjuru; pojok;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bangun yang dibuat oleh dua garis yang berpotongan di sekitar titik po tongnya;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang jauh-jauh dan tidak mudah dikunjungi; pelosok;"
+      },
+      {
+        "type": "desc",
+        "text": "segi (arah pandangan, pokok, atau dasar pandangan yang tentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prognosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ramalan tentang peristiwa yang akan terjadi, khususnya yang berhubungan dengan penyakit atau penyembuhan setelah operasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prognosis",
+  "related": [],
+  "detailed": false
+}

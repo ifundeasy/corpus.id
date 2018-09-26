@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran sekunder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran yang menjadi cabang saluran primer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20sekunder",
+  "related": [],
+  "detailed": false
+}

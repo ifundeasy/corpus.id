@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perantara perdagangan (antara pembeli dan penjual); orang yang menjualkan barang atau mencarikan pembeli; pialang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang atau badan hukum yang berjual beli sekuritas atau barang untuk orang lain atas dasar komisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makelar",
+  "related": [],
+  "detailed": false
+}

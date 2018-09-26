@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa inflektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang menggunakan perubahan bentuk kata (dalam bahasa fleksi) yang menunjukkan berbagai hubungan gramatikal (seperti deklinasi nomina, pronomina, adjektiva, dan konjugasi verba);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20inflektif",
+  "related": [],
+  "detailed": false
+}

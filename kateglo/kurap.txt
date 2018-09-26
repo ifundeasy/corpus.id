@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit semacam kudis yang menyebabkan gatal (ada bermacam-macam seperti -- ayam, -- anjing, -- besi);"
+      },
+      {
+        "type": "link",
+        "text": "daun kurap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurap",
+  "related": [],
+  "detailed": false
+}

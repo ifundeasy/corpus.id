@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tukang rekening",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya menagih rekening;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukang%20rekening",
+  "related": [],
+  "detailed": false
+}

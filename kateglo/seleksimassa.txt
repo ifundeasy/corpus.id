@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seleksi massa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyaringan tanaman pada satu generasi untuk dikembangbiakkan dengan mengumpulkan benih atau bijinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seleksi%20massa",
+  "related": [],
+  "detailed": false
+}

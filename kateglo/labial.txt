@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) berkaitan dengan bunyi yang terjadi karena penyempitan jarak antara bibir atas dan bibir bawah, misal [p], [b], [f], [v];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labial",
+  "related": [],
+  "detailed": false
+}

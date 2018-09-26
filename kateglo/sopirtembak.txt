@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sopir tembak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sopir pengganti apabila sopir tetap berhalangan; sopir sementara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sopir%20tembak",
+  "related": [],
+  "detailed": false
+}

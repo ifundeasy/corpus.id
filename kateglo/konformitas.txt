@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konformitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persesuaian; kecocokan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) kesesuaian sikap dan perilaku dengan nilai dan kaidah yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konformitas",
+  "related": [],
+  "detailed": false
+}

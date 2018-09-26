@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "periklanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periklanan",
+  "related": [],
+  "detailed": false
+}

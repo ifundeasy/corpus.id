@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membayar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan uang (untuk pengganti harga barang yang diterima, melunasi utang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi; menunaikan (janji, nazar, hajat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membayar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedai berupa bangunan permanen tempat menjual barang-barang (makanan kecil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toko",
+  "related": [],
+  "detailed": false
+}

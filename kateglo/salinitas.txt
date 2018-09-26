@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salinitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat kandungan garam air laut, danau, sungai dihitung dalam ‰ (perseribu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salinitas",
+  "related": [],
+  "detailed": false
+}

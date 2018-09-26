@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homogami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr)"
+      },
+      {
+        "type": "desc",
+        "text": "kecenderungan orang memilih suami atau istri dari kedudukan sosial yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) perkawinan antara dua individu yang memiliki fenotipe dan genotipe sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homogami",
+  "related": [],
+  "detailed": false
+}

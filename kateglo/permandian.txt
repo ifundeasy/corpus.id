@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permandian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mandi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) upacara mempermandikan (membaptis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permandian",
+  "related": [],
+  "detailed": false
+}

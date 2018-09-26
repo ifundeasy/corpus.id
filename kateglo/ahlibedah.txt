@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli bedah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter ahli dalam hal membedah (operasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20bedah",
+  "related": [],
+  "detailed": false
+}

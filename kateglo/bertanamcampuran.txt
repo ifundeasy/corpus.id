@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanam campuran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "penanaman dua jenis tanaman atau lebih secara bersamaan pada sebidang tanah tertentu tanpa aturan deretan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanam%20campuran",
+  "related": [],
+  "detailed": false
+}

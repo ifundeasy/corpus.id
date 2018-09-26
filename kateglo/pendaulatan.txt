@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendaulatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perebutan atau perampasan (hak, milik, kekuasaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pemecatan tidak dengan sewajarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendaulatan",
+  "related": [],
+  "detailed": false
+}

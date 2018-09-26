@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebar telinga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat baik daya pendengarannya;"
+      },
+      {
+        "type": "desc",
+        "text": "suka mendengarkan percakapan orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar%20telinga",
+  "related": [],
+  "detailed": false
+}

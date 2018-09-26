@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "voltase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) tegangan listrik diukur dalam volt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=voltase",
+  "related": [],
+  "detailed": false
+}

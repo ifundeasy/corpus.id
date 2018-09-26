@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan komik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan yang berbentuk karikatur atau komik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20komik",
+  "related": [],
+  "detailed": false
+}

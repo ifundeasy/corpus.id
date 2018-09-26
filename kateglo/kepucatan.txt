@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepucatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) pucat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak pucat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepucatan",
+  "related": [],
+  "detailed": false
+}

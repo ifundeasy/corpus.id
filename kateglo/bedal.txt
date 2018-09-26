@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bedal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pukul;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) lepas dan lari (tentang kuda dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bedal",
+  "related": [],
+  "detailed": false
+}

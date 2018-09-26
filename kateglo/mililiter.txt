@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mililiter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi 0,001 liter (disingkat ml);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mililiter",
+  "related": [],
+  "detailed": false
+}

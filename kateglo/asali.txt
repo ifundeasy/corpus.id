@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asali",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat asal;"
+      },
+      {
+        "type": "desc",
+        "text": "berasal; berbangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asali",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarif iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga iklan menurut ruang (dalam media cetak) menurut waktu (dalam media elektronik) atau menurut frekuensi pertunjukan (dalam bioskop);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif%20iklan",
+  "related": [],
+  "detailed": false
+}

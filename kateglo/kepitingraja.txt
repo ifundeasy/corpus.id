@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepiting raja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepiting jenis Krustasca, terdapat di Samudra Pasifik Utara dan diperjualbelikan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepiting tapal kuda yang terdapat di sepanjang pesisir Atlantik dan lautan di Kepulauan Indonesia, jenis Acaknid primitif kelas Merostomata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepiting%20raja",
+  "related": [],
+  "detailed": false
+}

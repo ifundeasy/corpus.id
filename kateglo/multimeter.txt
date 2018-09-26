@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ukur listrik yang mempunyai beberapa jangkauan dan dapat disetel untuk mengukur tegangan, arus, dan hambatan listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multimeter",
+  "related": [],
+  "detailed": false
+}

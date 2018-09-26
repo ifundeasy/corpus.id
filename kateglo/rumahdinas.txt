@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah dinas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah instansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20dinas",
+  "related": [],
+  "detailed": false
+}

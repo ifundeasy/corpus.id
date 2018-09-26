@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kotak surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak tempat surat di depan rumah, surat untuk penghuni rumah dapat dimasukkan ke dalam kotak tersebut, dan dapat diambil sewaktu-waktu oleh pemiliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak%20surat",
+  "related": [],
+  "detailed": false
+}

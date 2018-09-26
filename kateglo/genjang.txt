@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genjang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serong;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "empat persegi miring (paralelogram); jajaran genjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genjang",
+  "related": [],
+  "detailed": false
+}

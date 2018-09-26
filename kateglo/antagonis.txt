@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antagonis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang suka menentang (melawan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) dua macam obat atau racun yang mempunyai khasiat berlawanan sehingga dapat menghilangkan atau mengurangi khasiat masing-masing;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) tokoh dalam karya sastra yang merupakan penentang dari tokoh utama; tokoh lawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antagonis",
+  "related": [],
+  "detailed": false
+}

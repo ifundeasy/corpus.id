@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga matahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumber penggerak yang berasal dari radiasi matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20matahari",
+  "related": [],
+  "detailed": false
+}

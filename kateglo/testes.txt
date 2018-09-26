@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "testes",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "testis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=testes",
+  "related": [],
+  "detailed": false
+}

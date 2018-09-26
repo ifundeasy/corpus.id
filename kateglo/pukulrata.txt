@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pukul rata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rata-rata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukul%20rata",
+  "related": [],
+  "detailed": false
+}

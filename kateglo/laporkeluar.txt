@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapor keluar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melapor kepada pramuhotel untuk keluar meninggalkan hotel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapor%20keluar",
+  "related": [],
+  "detailed": false
+}

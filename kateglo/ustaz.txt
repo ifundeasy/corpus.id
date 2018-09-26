@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ustaz",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "guru agama atau guru besar (laki-laki);"
+      },
+      {
+        "type": "desc",
+        "text": "tuan (sebutan atau sapaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ustaz",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proletariat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan sosial yang paling rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan buruh, khususnya golongan buruh industri yang tidak mempunyai alat produksi dan hidup dari menjual tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proletariat",
+  "related": [],
+  "detailed": false
+}

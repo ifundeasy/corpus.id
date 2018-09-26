@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang syair; pengarang sajak;"
+      },
+      {
+        "type": "desc",
+        "text": "pujangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyair",
+  "related": [],
+  "detailed": false
+}

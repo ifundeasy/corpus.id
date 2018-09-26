@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koktail",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman beralkohol dibuat dari campuran berbagai bahan, biasanya diminum dengan es batu dan gula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koktail",
+  "related": [],
+  "detailed": false
+}

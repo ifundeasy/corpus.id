@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk,)"
+      },
+      {
+        "type": "link",
+        "text": "mengabit"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tukang copet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabit",
+  "related": [],
+  "detailed": false
+}

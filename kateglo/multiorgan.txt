@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multiorgan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lebih dari satu organ;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multiorgan",
+  "related": [],
+  "detailed": false
+}

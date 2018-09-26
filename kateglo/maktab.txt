@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maktab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat belajar (menulis dsb); sekolah;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor; lembaga; biro;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maktab",
+  "related": [],
+  "detailed": false
+}

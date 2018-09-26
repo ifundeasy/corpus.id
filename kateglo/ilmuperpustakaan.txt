@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu perpustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan dan keahlian mengenai administrasi perpustakaan berikut koleksinya, ekonomi perpustakaan, dan bibliografi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20perpustakaan",
+  "related": [],
+  "detailed": false
+}

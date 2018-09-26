@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mohon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "minta dengan hormat; berharap supaya mendapat sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "ampunlah (untuk menyatakan maksud menolak atau mengingkari, jadi berarti tidak mau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mohon",
+  "related": [],
+  "detailed": false
+}

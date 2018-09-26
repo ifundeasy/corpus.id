@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk yang berada dalam usia kerja, baik mereka yang sedang bekerja maupun yang sedang mencari pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20kerja",
+  "related": [],
+  "detailed": false
+}

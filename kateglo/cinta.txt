@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cinta",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka sekali; sayang benar;"
+      },
+      {
+        "type": "desc",
+        "text": "kasih sekali; terpikat (antara laki-laki dan perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "ingin sekali; berharap sekali; rindu;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) susah hati (khawatir); risau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cinta",
+  "related": [],
+  "detailed": false
+}

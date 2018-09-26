@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konduktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda atau bahan penghantar panas, arus listrik, atau suara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) pemimpin pergelaran musik dengan isyarat tangan dan tubuh untuk menyatukan ungkapan suatu karya musik; dirigen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konduktor",
+  "related": [],
+  "detailed": false
+}

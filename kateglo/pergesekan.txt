@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergesekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (dua barang yang) bergesek;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil pergeseran dua benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergesekan",
+  "related": [],
+  "detailed": false
+}

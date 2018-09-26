@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon seluler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon mandiri yang menggunakan baterai, tanpa kabel, dan menerima suara melalui sinyal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20seluler",
+  "related": [],
+  "detailed": false
+}

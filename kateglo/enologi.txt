@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang minuman anggur dan pembuatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enologi",
+  "related": [],
+  "detailed": false
+}

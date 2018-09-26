@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "desc",
+        "text": "barang untuk penutup (seperti ebek, tirai, kelir);"
+      },
+      {
+        "type": "desc",
+        "text": "nama samaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dalih; kedok dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedengan",
+  "related": [],
+  "detailed": false
+}

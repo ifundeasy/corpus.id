@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benteng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat berlindung atau bertahan (dari serangan musuh);"
+      },
+      {
+        "type": "desc",
+        "text": "dinding (tembok) untuk menahan serangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) nama salah satu buah catur yang penempatannya pada posisi awal permainan di kotak sudut paling kiri dan sudut paling kanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang dipakai untuk memperkuat atau mempertahankan kedudukan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benteng",
+  "related": [],
+  "detailed": false
+}

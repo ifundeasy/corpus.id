@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bercahaya; tidak bening (tentang kaca dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk kasar dari sesuatu yang akan dikerjakan; rancangan (gambar, tulisan, surat, dsb); konsep;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buram",
+  "related": [],
+  "detailed": false
+}

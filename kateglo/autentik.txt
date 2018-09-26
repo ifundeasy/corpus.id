@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "autentik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat dipercaya;"
+      },
+      {
+        "type": "desc",
+        "text": "asli; tulen;"
+      },
+      {
+        "type": "desc",
+        "text": "sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=autentik",
+  "related": [],
+  "detailed": false
+}

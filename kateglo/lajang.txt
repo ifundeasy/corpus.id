@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lajang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sendirian (belum kawin); bujangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melajang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lajang",
+  "related": [],
+  "detailed": false
+}

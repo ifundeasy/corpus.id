@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hantu air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hantu yang terdapat di air (sungai, danau, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hantu%20air",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bulat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk sebagai bola;"
+      },
+      {
+        "type": "desc",
+        "text": "berbentuk lingkaran; bundar (tanpa bersudut);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terpecah; utuh;"
+      },
+      {
+        "type": "desc",
+        "text": "tanpa kecuali;"
+      },
+      {
+        "type": "desc",
+        "text": "seia sekata; sepenuhnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulat",
+  "related": [],
+  "detailed": false
+}

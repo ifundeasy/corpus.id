@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) panas yang terjadi pada pembakaran sempurna dari sejumlah satuan berat atau satuan volume bahan bakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20panas",
+  "related": [],
+  "detailed": false
+}

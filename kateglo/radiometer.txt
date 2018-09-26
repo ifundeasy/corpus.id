@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menandai dan mengukur intensitas energi radiasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiometer",
+  "related": [],
+  "detailed": false
+}

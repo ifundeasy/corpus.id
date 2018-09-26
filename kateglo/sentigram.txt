@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentigram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 0,01 gram (disingkat ca); seperseratus gram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentigram",
+  "related": [],
+  "detailed": false
+}

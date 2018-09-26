@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendiagnosis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan jenis penyakit dengan cara meneliti atau memeriksa gejalanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendiagnosis",
+  "related": [],
+  "detailed": false
+}

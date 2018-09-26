@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tembung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tongkat pemukul atau penangkis (sebagai senjata berkelahi);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bertembung"
+      },
+      {
+        "type": "desc",
+        "text": "cambuk; cemeti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembung",
+  "related": [],
+  "detailed": false
+}

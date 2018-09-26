@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menengah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi ke tengah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedang; tidak besar dan tidak kecil (tentang ukuran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menengah",
+  "related": [],
+  "detailed": false
+}

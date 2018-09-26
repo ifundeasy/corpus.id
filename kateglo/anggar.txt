@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anggar",
+  "tags": {
+    "adv": [
+      {
+        "type": "link",
+        "text": "menganggar"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan (perkelahian) yang kedua belah pihak menggunakan pedang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) cabang olahraga bela diri yang menggunakan alat atau senjata (untuk menusuk, memarang, atau menusuk dan sekaligus memarang);"
+      },
+      {
+        "type": "desc",
+        "text": "tenggeran burung dalam sangkar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "teranggar-anggar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggar",
+  "related": [],
+  "detailed": false
+}

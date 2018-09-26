@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu nasabah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kartu yang harus diisi dan ditandatangani nasabah pada saat pembukaan rekening;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20nasabah",
+  "related": [],
+  "detailed": false
+}

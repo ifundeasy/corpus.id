@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengukur suhu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur suhu badan dsb; termometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengukur%20suhu",
+  "related": [],
+  "detailed": false
+}

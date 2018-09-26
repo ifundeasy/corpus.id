@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purnasarjana",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pascasarjana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purnasarjana",
+  "related": [],
+  "detailed": false
+}

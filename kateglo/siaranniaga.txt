@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran niaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "acara yang disiarkan oleh radio dan televisi untuk menawarkan produk perusahaan atau lembaga lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20niaga",
+  "related": [],
+  "detailed": false
+}

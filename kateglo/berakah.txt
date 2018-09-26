@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berakah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat pemberani (karena terlalu bangga akan diri sendiri);"
+      },
+      {
+        "type": "desc",
+        "text": "sombong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berakah",
+  "related": [],
+  "detailed": false
+}

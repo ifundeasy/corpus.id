@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergelaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan (drama, wayang, orang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergelaran",
+  "related": [],
+  "detailed": false
+}

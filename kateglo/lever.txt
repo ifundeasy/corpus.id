@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lever",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hati;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melever"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lever",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tangkas; tidak giat;"
+      },
+      {
+        "type": "desc",
+        "text": "lengah; lalai;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mudah (tidak dapat) bereaksi atau tidak dapat mengalami perubahan kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengai",
+  "related": [],
+  "detailed": false
+}

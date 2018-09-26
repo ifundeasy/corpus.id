@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "statistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan angka-angka (bilangan); perangkaan;"
+      },
+      {
+        "type": "desc",
+        "text": "data yang berupa angka yang dikumpulkan, ditabulasi, digolong-golongkan sehingga dapat memberi informasi yang berarti mengenai suatu masalah atau gejala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=statistik",
+  "related": [],
+  "detailed": false
+}

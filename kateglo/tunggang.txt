@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunggang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terjungkir; terbalik (kepala ke bawah, kaki ke atas); tertungging; tertunggit (seperti botol mulutnya ke bawah, dasarnya ke atas);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lurus ke bawah; curam;"
+      },
+      {
+        "type": "desc",
+        "text": "naik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikoseksual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan berbagai gejala seks yang timbul karena faktor psikologis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikoseksual",
+  "related": [],
+  "detailed": false
+}

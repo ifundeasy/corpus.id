@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dwiguna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manfaat ganda;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat menghasilkan dua manfaat sekaligus (misal sapi menghasilkan susu dan daging);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dwiguna",
+  "related": [],
+  "detailed": false
+}

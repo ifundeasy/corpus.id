@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "roda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang bundar (berlingkar dan biasanya berjeruji); jentera;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kegiatan (gerak) yang bersinambung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roda",
+  "related": [],
+  "detailed": false
+}

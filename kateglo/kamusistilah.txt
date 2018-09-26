@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus istilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat istilah dengan makna konsepnya dari bidang ilmu tertentu (seperti kamus hukum dan kamus kimia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20istilah",
+  "related": [],
+  "detailed": false
+}

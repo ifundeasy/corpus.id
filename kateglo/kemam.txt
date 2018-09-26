@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menahan (makanan, air, perkataan) di dalam mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "mengunyah dengan mulut terkatup (tembakau, sirih, permen);"
+      },
+      {
+        "type": "desc",
+        "text": "berkumur dan menyemprotkan air ke luar mulut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemam",
+  "related": [],
+  "detailed": false
+}

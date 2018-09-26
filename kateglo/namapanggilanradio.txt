@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama panggilan radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) nama yang terdiri atas empat huruf dari isyarat internasional yang diberikan kepada setiap kapal yang terdaftar oleh pemerintah atau negara yang memiliki kapal itu, sebagai isyarat radio untuk keperluan komunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20panggilan%20radio",
+  "related": [],
+  "detailed": false
+}

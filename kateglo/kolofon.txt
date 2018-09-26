@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) catatan penulis, umumnya pada akhir naskah atau terbitan, berisi keterangan mengenai tempat, waktu, dan penyalin naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolofon",
+  "related": [],
+  "detailed": false
+}

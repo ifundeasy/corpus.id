@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian isi buku, adakalanya dibagi atas;"
+      },
+      {
+        "type": "desc",
+        "text": "hal; masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) pintu; gapura;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bab",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senteng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek (baju, kelambu, dsb); kurang panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) kurang (uang dsb); tidak mencukupi; -- di uang, kurang uang; hidup -- , hidup serba tidak cukup;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sinting;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bl) kain (selendang) penutup dada; kain dada; kemban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senteng",
+  "related": [],
+  "detailed": false
+}

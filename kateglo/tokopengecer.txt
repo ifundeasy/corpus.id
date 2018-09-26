@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "toko pengecer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menjual barang secara eceran langsung kepada konsumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toko%20pengecer",
+  "related": [],
+  "detailed": false
+}

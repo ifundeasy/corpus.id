@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lihat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melihat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lihat",
+  "related": [],
+  "detailed": false
+}

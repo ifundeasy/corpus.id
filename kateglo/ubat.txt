@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ubat",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "hobat(an)"
+      },
+      {
+        "type": "link",
+        "text": "obat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ubat",
+  "related": [],
+  "detailed": false
+}

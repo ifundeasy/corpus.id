@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bekal-bekalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bermacam-macam bekal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bekal-bekalan",
+  "related": [],
+  "detailed": false
+}

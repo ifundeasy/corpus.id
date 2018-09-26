@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pupuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar pertanyaan tertulis mengenai masalah tertentu disertai ruang jawaban dari setiap pertanyaan; angket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuan",
+  "related": [],
+  "detailed": false
+}

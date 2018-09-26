@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malaise",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan lesu dan serba sulit (terutama dalam bidang perekonomian);"
+      },
+      {
+        "type": "desc",
+        "text": "(keadaan) perasaan kurang sehat dan lesu, yang mendahului timbulnya keadaan sakit yang lebih gawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malaise",
+  "related": [],
+  "detailed": false
+}

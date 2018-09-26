@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi bajakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "edisi yang diterbitkan tanpa izin pengarang atau penerbit asli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20bajakan",
+  "related": [],
+  "detailed": false
+}

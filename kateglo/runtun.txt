@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "runtun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meruntun"
+      },
+      {
+        "type": "link",
+        "text": "beruntun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=runtun",
+  "related": [],
+  "detailed": false
+}

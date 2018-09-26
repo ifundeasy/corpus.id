@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengertian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambaran atau pengetahuan tentang sesuatu di dalam pikiran; pemahaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) kesanggupan inteligensi untuk menangkap makna suatu situasi atau perbuatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengertian",
+  "related": [],
+  "detailed": false
+}

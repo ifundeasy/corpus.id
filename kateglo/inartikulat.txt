@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inartikulat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbuku; tidak beruas;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bersendi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inartikulat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dorsum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "punggung (bagian belakang manusia dan bagian atas hewan);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian belakang lidah sesudah daun lidah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dorsum",
+  "related": [],
+  "detailed": false
+}

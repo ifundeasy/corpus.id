@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna ekstensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna yang mencakupi semua objek yang dapat dirujuk dengan kata itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20ekstensi",
+  "related": [],
+  "detailed": false
+}

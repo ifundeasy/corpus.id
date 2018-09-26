@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "distribusi udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian udara segar dalam jumlah tertentu ke beberapa tempat kerja di dalam tambang bawah tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distribusi%20udara",
+  "related": [],
+  "detailed": false
+}

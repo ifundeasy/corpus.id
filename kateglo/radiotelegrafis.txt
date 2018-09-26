@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiotelegrafis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan radiotelegrafi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiotelegrafis",
+  "related": [],
+  "detailed": false
+}

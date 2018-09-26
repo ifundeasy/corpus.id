@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis isoklin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis pada peta yang menghubungkan titik-titik yang mempunyai inklinasi magnet yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20isoklin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu setelah matahari terbenam hingga matahari terbit;"
+      },
+      {
+        "type": "desc",
+        "text": "lilin (dipakai untuk membatik);"
+      },
+      {
+        "type": "desc",
+        "text": "massa plastis amorf yang berasal dari mineral, tumbuhan, dan hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malam",
+  "related": [],
+  "detailed": false
+}

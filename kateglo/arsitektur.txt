@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arsitektur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni dan ilmu merancang serta membuat konstruksi bangunan, jembatan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "metode dan gaya rancangan suatu konstruksi bangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arsitektur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permintaan keterangan (penjelasan dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) bertanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanya",
+  "related": [],
+  "detailed": false
+}

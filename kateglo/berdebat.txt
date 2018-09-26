@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdebat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar pikiran tentang suatu hal dengan saling memberi alasan untuk mempertahankan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdebat",
+  "related": [],
+  "detailed": false
+}

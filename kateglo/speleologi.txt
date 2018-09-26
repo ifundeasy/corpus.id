@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "speleologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengkajian ilmu tentang gua;"
+      },
+      {
+        "type": "desc",
+        "text": "penjelajahan gua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=speleologi",
+  "related": [],
+  "detailed": false
+}

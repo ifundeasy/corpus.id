@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jangkauan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak yang dapat dijangkau;"
+      },
+      {
+        "type": "desc",
+        "text": "barang apa yang dijangkau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangkauan",
+  "related": [],
+  "detailed": false
+}

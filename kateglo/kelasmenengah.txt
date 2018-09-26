@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas menengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "kelas petinju yang berat badannya di atas 71 kg, tetapi tidak lebih dari 76 kg;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok masyarakat berpenghasilan sedang (di antara kelas atas dan kelas bawah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20menengah",
+  "related": [],
+  "detailed": false
+}

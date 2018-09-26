@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "datang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tiba di tempat yang dituju;"
+      },
+      {
+        "type": "desc",
+        "text": "berasal;"
+      },
+      {
+        "type": "desc",
+        "text": "hadir; muncul;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelak kemudian; nanti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=datang",
+  "related": [],
+  "detailed": false
+}

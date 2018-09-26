@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tajuk berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat pendek atau frasa yang ditempatkan secara mencolok pada sebuah berita dengan menggunakan huruf yang menonjol; berita pokok; berita utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tajuk%20berita",
+  "related": [],
+  "detailed": false
+}

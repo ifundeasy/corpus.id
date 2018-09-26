@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bantuan luar negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantuan, baik berupa nasihat dan saran, tenaga ahli maupun dana yang diberikan oleh organisasi internasional dan/atau negara kaya kepada negara miskin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantuan%20luar%20negeri",
+  "related": [],
+  "detailed": false
+}

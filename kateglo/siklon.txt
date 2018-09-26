@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siklon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angin ribut yang berpusar dan bergerak dengan keras mengelilingi suatu pusat; angin puting beliung;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian atmosfer yang tekanannya relatif rendah jika dibandingkan dengan tekanan di sekitarnya pada permukiman yang sama; pusat tekanan rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siklon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontraksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengerutan (sehingga menjadi berkurang panjangnya); penegangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) proses atau hasil pemendekan suatu bentuk kebahasaan (seperti tidak menjadi tak);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) tarik-menarik antara atom dalam sebuah molekul;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) penegangan; pengerasan; penguncupan (tentang otot); kerunyutan (tentang parut luka);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontraksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rel gerigi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rel kereta api bergigi (terletak di antara sepasang rel yang biasa) untuk jalan yang sangat menanjak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rel%20gerigi",
+  "related": [],
+  "detailed": false
+}

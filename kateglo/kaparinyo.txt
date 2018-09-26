@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaparinyo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama lagu tradisional daerah Minangkabau dan Sumatra Selatan;"
+      },
+      {
+        "type": "desc",
+        "text": "nama lagu keroncong di kalangan masyarakat Tugu Cilincing, Jakarta Utara;"
+      },
+      {
+        "type": "desc",
+        "text": "tarian dengan koreografi campuran Mor dan Spanyol, diiringi lagu Kaparinyo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaparinyo",
+  "related": [],
+  "detailed": false
+}

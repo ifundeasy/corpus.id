@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siklus hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "putaran hidup dari lahir sampai mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siklus%20hidup",
+  "related": [],
+  "detailed": false
+}

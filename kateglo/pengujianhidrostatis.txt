@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengujian hidrostatis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) pengujian dengan tekanan air yang dilakukan pada sebuah ruang atau tangki dengan cara mengisi ruang atau tangki itu dgn air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengujian%20hidrostatis",
+  "related": [],
+  "detailed": false
+}

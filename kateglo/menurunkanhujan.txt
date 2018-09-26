@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menurunkan hujan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendatangkan hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menurunkan%20hujan",
+  "related": [],
+  "detailed": false
+}

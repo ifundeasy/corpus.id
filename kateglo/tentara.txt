@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tentara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laskar; prajurit;"
+      },
+      {
+        "type": "desc",
+        "text": "pasukan (dari orang-orang yang berkewajiban berperang);"
+      },
+      {
+        "type": "desc",
+        "text": "kesatuan alat negara yang terdiri atas orang-orang terlatih berperang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi anggota tentara nasional Indonesia (prajurit, bintara, perwira, dsb); militer;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang berhubungan (bertalian) dengan angkatan bersenjata (misal hukum --; pendeta -- );"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tentara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem partai tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hanya ada satu partai dalam suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20partai%20tunggal",
+  "related": [],
+  "detailed": false
+}

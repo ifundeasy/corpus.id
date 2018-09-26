@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggemar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menggemari (kesenian, permainan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggemar",
+  "related": [],
+  "detailed": false
+}

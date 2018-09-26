@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kooptasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilihan anggota baru dari suatu badan musyawarah oleh anggota yang telah ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kooptasi",
+  "related": [],
+  "detailed": false
+}

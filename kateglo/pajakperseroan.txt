@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak perseroan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pungutan wajib atas laba perseroan atau badan lain yang seluruh modalnya atau bagiannya terbagi atas saham-saham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20perseroan",
+  "related": [],
+  "detailed": false
+}

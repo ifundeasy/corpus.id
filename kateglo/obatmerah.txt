@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat merah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat berwarna merah yang dibuat dari yodium yang dilarutkan dalam alkohol untuk mengobati luka baru (goresan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20merah",
+  "related": [],
+  "detailed": false
+}

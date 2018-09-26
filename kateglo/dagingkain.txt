@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daging kain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang akan ditenun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daging%20kain",
+  "related": [],
+  "detailed": false
+}

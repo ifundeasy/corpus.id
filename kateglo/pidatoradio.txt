@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidato radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato yang diucapkan atau disiarkan melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidato%20radio",
+  "related": [],
+  "detailed": false
+}

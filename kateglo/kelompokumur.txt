@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelompok umur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok orang berdasarkan umur, misal anak-anak, remaja, dewasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelompok%20umur",
+  "related": [],
+  "detailed": false
+}

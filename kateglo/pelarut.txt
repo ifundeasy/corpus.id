@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelarut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat yang melarutkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelarut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diet murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) ramuan makanan ikan yang dibuat dari asam amino, asam lemak, gula sederhana, vitamin, dan mineral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diet%20murni",
+  "related": [],
+  "detailed": false
+}

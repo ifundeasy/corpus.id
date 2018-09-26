@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cakar ayam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaki ayam;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki, cak) sangat jelek (tentang tulisan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakar%20ayam",
+  "related": [],
+  "detailed": false
+}

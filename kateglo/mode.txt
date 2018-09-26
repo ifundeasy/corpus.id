@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam (cara, bentuk) yang terbaru pada suatu waktu tertentu (tentang pakaian, potongan rambut, corak hiasan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mode",
+  "related": [],
+  "detailed": false
+}

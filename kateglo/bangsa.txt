@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok masyarakat yang bersamaan asal keturunan, adat, bahasa, dan sejarahnya, serta berpemerintahan sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan manusia, binatang, atau tumbuhan yang mempunyai asal-usul dan sifat khas yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "macam; jenis;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan (keturunan) mulia (luhur);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) jenis kelamin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) kumpulan manusia yang biasanya terikat karena kesatuan bahasa dan kebudayaan dalam arti umum, dan menempati wilayah tertentu di muka bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) klasifikasi dalam biologi, sesudah kelas dan sebelum suku; ordo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangsa",
+  "related": [],
+  "detailed": false
+}

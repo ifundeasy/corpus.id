@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petunjuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu (tanda, isyarat) untuk menunjukkan, memberi tahu, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentuan yang memberi arah atau bimbingan bagaimana sesuatu harus dilakukan; nasihat;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "tuntunan; ilham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petunjuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cukup",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat memenuhi kebutuhan atau memuaskan keinginan dsb; tidak kurang;"
+      },
+      {
+        "type": "desc",
+        "text": "lengkap; genap (umur, waktu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah memadai (tidak perlu ditambah lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "lumayan; sedang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) agak kaya; berada; tidak kekurangan;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "agak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cukup",
+  "related": [],
+  "detailed": false
+}

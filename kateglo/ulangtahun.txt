@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulang tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "hari ketika suatu peristiwa penting terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulang%20tahun",
+  "related": [],
+  "detailed": false
+}

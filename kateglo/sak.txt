@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saku; kantong (baju dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "karung (dari kertas untuk semen dsb);"
+      },
+      {
+        "type": "link",
+        "text": "syak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sak",
+  "related": [],
+  "detailed": false
+}

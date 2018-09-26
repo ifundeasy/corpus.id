@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gambar bagan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang berupa garis-garis dan merupakan bagian yang penting-penting saja; sketsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gambar%20bagan",
+  "related": [],
+  "detailed": false
+}

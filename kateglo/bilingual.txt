@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilingual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mampu atau biasa memakai dua bahasa dengan baik;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan atau mengandung dua bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilingual",
+  "related": [],
+  "detailed": false
+}

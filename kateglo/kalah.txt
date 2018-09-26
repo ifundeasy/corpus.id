@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak menang atau dalam keadaan tidak menang (dalam perkelahian, perang, pertandingan, pemilihan, dsb); dapat diungguli lawan;"
+      },
+      {
+        "type": "desc",
+        "text": "kehilangan atau merugi karena tidak menang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lulus (dalam ujian);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menyamai; kurang dari; tidak sebesar; tidak sekuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalah",
+  "related": [],
+  "detailed": false
+}

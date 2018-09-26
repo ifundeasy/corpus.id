@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penguji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menguji;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menguji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penguji",
+  "related": [],
+  "detailed": false
+}

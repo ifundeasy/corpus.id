@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbendaharaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan harta benda (keuangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kekayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan barang berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbendaharaan",
+  "related": [],
+  "detailed": false
+}

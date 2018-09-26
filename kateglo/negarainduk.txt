@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang menjadi induk negara jajahannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20induk",
+  "related": [],
+  "detailed": false
+}

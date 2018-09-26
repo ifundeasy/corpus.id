@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "giro pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "giro yang dikeluarkan oleh kantor pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=giro%20pos",
+  "related": [],
+  "detailed": false
+}

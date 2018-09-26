@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "krim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala susu;"
+      },
+      {
+        "type": "desc",
+        "text": "alat kosmetik berupa salep untuk perawatan kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiosonde",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemancar radio dan peralatan ilmu cuaca lain yang diterbangkan tinggi dalam balon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiosonde",
+  "related": [],
+  "detailed": false
+}

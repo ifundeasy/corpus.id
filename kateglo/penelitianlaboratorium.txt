@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penelitian laboratorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penelitian yang dilakukan dalam keadaan tidak alamiah (di tempat-tempat khusus yang memungkinkan faktor-faktor tertentu dapat dikendalikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penelitian%20laboratorium",
+  "related": [],
+  "detailed": false
+}

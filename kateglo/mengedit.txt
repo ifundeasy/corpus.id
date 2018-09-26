@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengedit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempersiapkan naskah yang siap cetak atau siap terbit (dengan memperhatikan terutama segi ejaan, diksi, dan struktur kalimat); menyunting;"
+      },
+      {
+        "type": "desc",
+        "text": "merencanakan dan mengarahkan penerbitan (surat kabar, majalah);"
+      },
+      {
+        "type": "desc",
+        "text": "menyusun (film, pita rekaman) dengan memotong dan memadukan kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengedit",
+  "related": [],
+  "detailed": false
+}

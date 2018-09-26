@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "degung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi gong dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gamelan Sunda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=degung",
+  "related": [],
+  "detailed": false
+}

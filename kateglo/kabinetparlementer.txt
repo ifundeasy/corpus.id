@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabinet parlementer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabinet yang menterinya diajukan oleh parlemen dan bertanggung jawab kepada parlemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabinet%20parlementer",
+  "related": [],
+  "detailed": false
+}

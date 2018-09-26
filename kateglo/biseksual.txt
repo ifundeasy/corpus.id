@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biseksual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai sifat kedua jenis kelamin (laki-laki dan perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "tertarik kepada kedua jenis kelamin (baik kepada laki-laki maupun kepada perempuan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biseksual",
+  "related": [],
+  "detailed": false
+}

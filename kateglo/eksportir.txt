@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksportir",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pengekspor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksportir",
+  "related": [],
+  "detailed": false
+}

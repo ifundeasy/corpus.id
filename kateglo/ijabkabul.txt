@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ijab kabul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jual beli; kontrak-mengontrak;"
+      },
+      {
+        "type": "desc",
+        "text": "akad nikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijab%20kabul",
+  "related": [],
+  "detailed": false
+}

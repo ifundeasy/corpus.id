@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes sumatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) tes yang diberikan pada akhir caturwulan untuk mengetahui tujuan kurikuler sudah tercapai atau belum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20sumatif",
+  "related": [],
+  "detailed": false
+}

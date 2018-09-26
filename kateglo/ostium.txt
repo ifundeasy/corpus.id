@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ostium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "lubang tempat air masuk ke dalam saluran radial pada bunga karang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) lubang tempat darah masuk ke jantung;"
+      },
+      {
+        "type": "desc",
+        "text": "lubang tempat air masuk ke dalam lubang air dari insang pada kerang;"
+      },
+      {
+        "type": "desc",
+        "text": "lubang tempat air masuk ke dalam saluran radial pada bunga karang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ostium",
+  "related": [],
+  "detailed": false
+}

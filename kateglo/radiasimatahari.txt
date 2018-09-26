@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi matahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "radiasi yang asalnya dari matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20matahari",
+  "related": [],
+  "detailed": false
+}

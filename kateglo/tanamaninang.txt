@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanaman inang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman tambahan yang ditanam di sela-sela tanaman utama, berfungsi untuk mengalihkan perhatian hama dari tanaman utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanaman%20inang",
+  "related": [],
+  "detailed": false
+}

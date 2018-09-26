@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kirim-berkirim",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling berkirim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kirim-berkirim",
+  "related": [],
+  "detailed": false
+}

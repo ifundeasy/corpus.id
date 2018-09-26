@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga campak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permulaan penyakit campak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20campak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang dihasilkan dari proses fotografi;"
+      },
+      {
+        "type": "desc",
+        "text": "tukang potret; juru potret; fotografer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotograf",
+  "related": [],
+  "detailed": false
+}

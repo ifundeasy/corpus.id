@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sontak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sompek; sumbing;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "link",
+        "text": "mendadak sontak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sontak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang asal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta yang dibawa oleh suami atau istri sebagai hasil usaha masing-masing sebelum perkawinan berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20asal",
+  "related": [],
+  "detailed": false
+}

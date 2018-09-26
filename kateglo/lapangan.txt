@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat atau tanah yang luas (biasanya rata); alun-alun; medan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (gelanggang) pertandingan (bulutangkis, bola voli, bola basket);"
+      },
+      {
+        "type": "desc",
+        "text": "bidang (pekerjaan, pengetahuan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran wilayah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran berita meteorologi dari suatu daerah untuk daerah lain yang ditetapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20wilayah",
+  "related": [],
+  "detailed": false
+}

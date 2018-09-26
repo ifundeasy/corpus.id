@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa nyeri (pegal, kaku) pada sendi-sendi tulang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit tulang; encok; rematik; sengal tulang;"
+      },
+      {
+        "type": "link",
+        "text": "sengal-sengal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang dipakai untuk mengerjakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipakai untuk mencapai maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang dipakai untuk mencapai suatu maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh (manusia, binatang, tumbuh-tumbuhan) yang menjalankan fungsi sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipakai untuk menjalankan kekuasaan negara (seperti polisi, tentara);"
+      },
+      {
+        "type": "desc",
+        "text": "perlengkapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) benda budaya yang dikembangkan manusia dalam usahanya memenuhi segala macam kebutuhan hidupnya, sebagai penyambung keterbatasan organismenya;"
+      },
+      {
+        "type": "desc",
+        "text": "jamu (tamu);"
+      },
+      {
+        "type": "desc",
+        "text": "perjamuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketuaan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu tua;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tua (sudah berumur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketuaan",
+  "related": [],
+  "detailed": false
+}

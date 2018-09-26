@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semboyan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda atau alamat untuk memberitahukan sesuatu (tentang bunyi kentungan, nyala api, lambaian bendera, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau perkataan rahasia yang dipakai sebagai alamat untuk mengetahui (mengenal) kawan sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan atau kalimat pendek yang dipakai sebagai dasar tuntunan (pegangan hidup); inti sari suatu usaha dsb; slogan; moto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semboyan",
+  "related": [],
+  "detailed": false
+}

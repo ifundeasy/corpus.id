@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bernegara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai negara;"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan pemerintahan negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bernegara",
+  "related": [],
+  "detailed": false
+}

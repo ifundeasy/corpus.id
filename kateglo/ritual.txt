@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ritual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan ritus; hal ihwal ritus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ritual",
+  "related": [],
+  "detailed": false
+}

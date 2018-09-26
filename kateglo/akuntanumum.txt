@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akuntan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akuntan yang menggarap setiap jenis masalah akuntansi dalam perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuntan%20umum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "strata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan; stratum;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat masyarakat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat pendidikan setingkat di atas sarjana muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strata",
+  "related": [],
+  "detailed": false
+}

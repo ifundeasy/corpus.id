@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tamat belajar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah selesai menempuh pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tamat%20belajar",
+  "related": [],
+  "detailed": false
+}

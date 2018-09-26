@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konservatorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konservatorium",
+  "related": [],
+  "detailed": false
+}

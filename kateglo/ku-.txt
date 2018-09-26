@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ku-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "(klitik)"
+      },
+      {
+        "type": "desc",
+        "text": "dari aku;"
+      },
+      {
+        "type": "desc",
+        "text": "pelaku;"
+      },
+      {
+        "type": "desc",
+        "text": "pemilik;"
+      },
+      {
+        "type": "desc",
+        "text": "tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ku-",
+  "related": [],
+  "detailed": false
+}

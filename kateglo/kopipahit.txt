@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kopi pahit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman dari kopi yang tidak dibubuhi gula;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang tidak menyenangkan (mendapat amarah, mendapat teguran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopi%20pahit",
+  "related": [],
+  "detailed": false
+}

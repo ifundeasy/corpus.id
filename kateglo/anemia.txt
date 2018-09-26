@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) (penyakit) kekurangan kadar hemoglobin di dalam darah; kekurangan butir darah merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anemia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontak senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tembak-menembak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontak%20senjata",
+  "related": [],
+  "detailed": false
+}

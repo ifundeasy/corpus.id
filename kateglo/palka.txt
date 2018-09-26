@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "lubang pada ruang kapal (tempat menyimpan barang-barang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palka",
+  "related": [],
+  "detailed": false
+}

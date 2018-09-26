@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termuda",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "paling muda;"
+      },
+      {
+        "type": "desc",
+        "text": "bungsu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termuda",
+  "related": [],
+  "detailed": false
+}

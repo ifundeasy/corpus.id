@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bestel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mengirimkan barang (lewat stasiun dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bestel",
+  "related": [],
+  "detailed": false
+}

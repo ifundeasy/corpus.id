@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lawina serbuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) lawina yang terdiri atas salju yang gembur dan halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawina%20serbuk",
+  "related": [],
+  "detailed": false
+}

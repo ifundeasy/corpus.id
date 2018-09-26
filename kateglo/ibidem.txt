@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibidem",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(dalam karangan, buku, dsb) yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "sama dengan yang sudah disebutkan di atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibidem",
+  "related": [],
+  "detailed": false
+}

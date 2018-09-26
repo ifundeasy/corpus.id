@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem ijon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjualan hasil tanaman dalam keadaan hijau atau masih belum dipetik dari batangnya (di ladang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20ijon",
+  "related": [],
+  "detailed": false
+}

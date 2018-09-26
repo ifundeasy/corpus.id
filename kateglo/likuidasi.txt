@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "likuidasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) pembubaran perusahaan sebagai badan hukum yang meliputi pembayaran kewajiban kepada para kreditor dan pembagian harta yang tersisa kepada para pemegang saham (persero);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=likuidasi",
+  "related": [],
+  "detailed": false
+}

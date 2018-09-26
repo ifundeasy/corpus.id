@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala yang ada di langit dan di bumi (seperti bumi, bintang, kekuatan);"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan kehidupan;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang termasuk dalam satu lingkungan (golongan dsb) dan dianggap sebagai satu keutuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "segala daya (gaya, kekuatan, dsb) yang menyebabkan terjadinya dan seakan-akan mengatur segala sesuatu yang ada di dunia ini;"
+      },
+      {
+        "type": "desc",
+        "text": "yang bukan buatan manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "dunia;"
+      },
+      {
+        "type": "desc",
+        "text": "kerajaan; daerah; negeri;"
+      },
+      {
+        "type": "link",
+        "text": "mengalami"
+      },
+      {
+        "type": "desc",
+        "text": "bendera (panji-panji) sebagai tanda (pada pasukan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alam",
+  "related": [],
+  "detailed": false
+}

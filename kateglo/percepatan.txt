@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percepatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) mempercepat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) tingkat pertambahan kecepatan, biasanya dicatat dalam gravitasi (G), kecepatan jatuh di setiap benda ke bumi dalam keadaan hampa udara (sekitar 32 kaki/detik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percepatan",
+  "related": [],
+  "detailed": false
+}

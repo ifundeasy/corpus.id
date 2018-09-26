@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proksimal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dekat ke pusat;"
+      },
+      {
+        "type": "desc",
+        "text": "terletak pada arah pusat suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "terletak di dekat garis tengah badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proksimal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prinsip deskripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asas perbedaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prinsip%20deskripsi",
+  "related": [],
+  "detailed": false
+}

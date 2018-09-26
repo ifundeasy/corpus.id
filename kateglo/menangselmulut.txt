@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menangsel mulut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengisi mulut (dengan makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyumbat mulut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menangsel%20mulut",
+  "related": [],
+  "detailed": false
+}

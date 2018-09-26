@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompleksitas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kerumitan; keruwetan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompleksitas",
+  "related": [],
+  "detailed": false
+}

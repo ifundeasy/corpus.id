@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menerima dan memancarkan siaran radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20radio",
+  "related": [],
+  "detailed": false
+}

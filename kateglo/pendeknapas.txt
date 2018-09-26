@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendek napas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat berlari jauh; cepat atau mudah sesak napas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendek%20napas",
+  "related": [],
+  "detailed": false
+}

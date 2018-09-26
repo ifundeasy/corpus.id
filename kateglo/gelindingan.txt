@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelindingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang bundar yang dapat digelindingkan seperti roda;"
+      },
+      {
+        "type": "desc",
+        "text": "roda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelindingan",
+  "related": [],
+  "detailed": false
+}

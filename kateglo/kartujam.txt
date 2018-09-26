@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu jam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) formulir atau kartu untuk merekam jam kehadiran karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20jam",
+  "related": [],
+  "detailed": false
+}

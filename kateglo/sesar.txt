@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sesar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyesar"
+      },
+      {
+        "type": "link",
+        "text": "bersesaran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesar",
+  "related": [],
+  "detailed": false
+}

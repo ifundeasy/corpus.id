@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga paternal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan kekerabatan yang hanya diperhitungkan dari kerabat ayah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20paternal",
+  "related": [],
+  "detailed": false
+}

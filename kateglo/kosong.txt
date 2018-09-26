@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berisi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berpenghuni;"
+      },
+      {
+        "type": "desc",
+        "text": "hampa; berongga;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengandung arti;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bergairah;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada yang menjabatnya; terluang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada sesuatu yang berharga (penting);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada muatannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak pandai; tidak cerdas;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) nol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosong",
+  "related": [],
+  "detailed": false
+}

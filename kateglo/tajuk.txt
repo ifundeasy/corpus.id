@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tajuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mahkota; petam; jamang (perhiasan kepala);"
+      },
+      {
+        "type": "desc",
+        "text": "perhiasan kepala, seperti jumbai dari bunga buatan yang dicocokkan di rambut (kundai, tudung kepala) hingga tampak menganjur ke atas;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang dan dedaunan sebuah pohon; bagian pohon di batang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) kili-kili (sepotong kayu) yang dipasang mencuar atau menganjur di tepi perahu;"
+      },
+      {
+        "type": "desc",
+        "text": "judul, kepala surat (makalah, surat kabar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "Bio seluruh sistem dedaunan pada pohon, kecuali batang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tingkat; jenjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sd) surau; langgar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tajuk",
+  "related": [],
+  "detailed": false
+}

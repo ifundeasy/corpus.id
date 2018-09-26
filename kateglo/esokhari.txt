@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "esok hari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari setelah hari sekarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=esok%20hari",
+  "related": [],
+  "detailed": false
+}

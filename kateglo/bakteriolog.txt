@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakteriolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli bakteriologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteriolog",
+  "related": [],
+  "detailed": false
+}

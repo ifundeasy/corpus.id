@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa seperti rasa gula;"
+      },
+      {
+        "type": "desc",
+        "text": "elok; mungil (tentang gadis, benda);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat menarik hati (tentang muka, senyum, perkataan, dsb); sangat ramah dan lemah-lembut;"
+      },
+      {
+        "type": "desc",
+        "text": "indah; menyenangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manis",
+  "related": [],
+  "detailed": false
+}

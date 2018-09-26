@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "armada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rombongan (pasukan) kapal perang;"
+      },
+      {
+        "type": "desc",
+        "text": "rombongan kapal-kapal dagang;"
+      },
+      {
+        "type": "desc",
+        "text": "rombongan suatu kesatuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=armada",
+  "related": [],
+  "detailed": false
+}

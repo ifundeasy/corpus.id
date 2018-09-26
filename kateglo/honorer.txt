@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "honorer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat sebagai kehormatan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menerima honorarium (bukan gaji tetap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=honorer",
+  "related": [],
+  "detailed": false
+}

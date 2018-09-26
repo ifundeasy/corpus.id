@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "qiraah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "hal-hal yang berhubungan dengan cara pembacaan Alquran; pembacaan ayat-ayat Alquran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) bacaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=qiraah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biro perjalanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang mengurus perjalanan (penyediaan tiket, penginapan, paspor, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro%20perjalanan",
+  "related": [],
+  "detailed": false
+}

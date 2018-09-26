@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan jasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang membantu kelancaran pengaliran barang dari produsen kepada konsumen;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan yang produk usahanya berupa jasa (bukan barang), misal pariwisata, pelayanan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20jasa",
+  "related": [],
+  "detailed": false
+}

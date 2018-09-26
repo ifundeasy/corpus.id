@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama berterima",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama ilmiah yang dipakai seorang pengarang sebagai nama marga yang tepat untuk suatu takson;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20berterima",
+  "related": [],
+  "detailed": false
+}

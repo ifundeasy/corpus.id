@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masjid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah atau bangunan tempat bersembahyang orang Islam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masjid",
+  "related": [],
+  "detailed": false
+}

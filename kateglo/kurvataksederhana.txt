@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva taksederhana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) kurva yang mempunyai titik potong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20taksederhana",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "staf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm)"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok orang yang bekerja sama membantu seorang ketua dalam mengelola sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok perwira yang memimpin (mengatur dsb) tentara;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian organisasi yang tidak mempunyai hak memberikan perintah, tetapi mem-punyai hak membantu pimpinan, memberikan nasihat, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=staf",
+  "related": [],
+  "detailed": false
+}

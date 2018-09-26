@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sedarun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serentak bersama-sama (berbunyi, menjawab, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedarun",
+  "related": [],
+  "detailed": false
+}

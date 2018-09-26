@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seismolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli gempa bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seismolog",
+  "related": [],
+  "detailed": false
+}

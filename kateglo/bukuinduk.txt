@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang memuat daftar nama beserta jati diri orang yang tercatat sebagai anggota suatu organisasi, murid sekolah, warga suatu wilayah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20induk",
+  "related": [],
+  "detailed": false
+}

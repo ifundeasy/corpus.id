@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelupaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal lupa;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "terlupa; tidak teringat; ada yang dilupakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelupaan",
+  "related": [],
+  "detailed": false
+}

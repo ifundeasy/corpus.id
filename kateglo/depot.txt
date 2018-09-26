@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "depot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan barang (dagangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rumah kecil tempat berjualan es, rokok, obat, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depot",
+  "related": [],
+  "detailed": false
+}

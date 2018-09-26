@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarut",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "sarut marut"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyarut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarut",
+  "related": [],
+  "detailed": false
+}

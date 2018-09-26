@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendatakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengambil sebagai data;"
+      },
+      {
+        "type": "desc",
+        "text": "memasukkan data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendatakan",
+  "related": [],
+  "detailed": false
+}

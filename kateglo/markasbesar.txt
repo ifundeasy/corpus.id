@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "markas besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "markas yang terutama yang menjadi pusat markas-markas yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=markas%20besar",
+  "related": [],
+  "detailed": false
+}

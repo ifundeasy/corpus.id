@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah toko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah yang sekaligus untuk toko (kadang-kadang toko di lantai dasar dan tempat tinggal di lantai kedua); ruko;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20toko",
+  "related": [],
+  "detailed": false
+}

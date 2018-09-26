@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengupahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memberi upah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengupahan",
+  "related": [],
+  "detailed": false
+}

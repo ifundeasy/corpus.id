@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen kargo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "agen yang mengurus pemuatan barang yang diangkut dengan kapal laut atau pengangkut lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20kargo",
+  "related": [],
+  "detailed": false
+}

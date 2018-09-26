@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "restoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=restoran",
+  "related": [],
+  "detailed": false
+}

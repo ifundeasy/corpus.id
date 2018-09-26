@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polisi militer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota tentara yang menjalankan tugas selaku polisi untuk menjaga ketertiban atau disiplin anggota tentara yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisi%20militer",
+  "related": [],
+  "detailed": false
+}

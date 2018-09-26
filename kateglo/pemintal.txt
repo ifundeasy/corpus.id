@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemintal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memintal (tali, benang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memintal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemintal",
+  "related": [],
+  "detailed": false
+}

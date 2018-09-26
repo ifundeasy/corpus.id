@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "walang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "belalang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "walang hati"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=walang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mezosopran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara wanita yang wilayah nadanya berada di antara suara alto dan suara sopran, tidak seringan suara sopran dan tidak seberat suara alto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mezosopran",
+  "related": [],
+  "detailed": false
+}

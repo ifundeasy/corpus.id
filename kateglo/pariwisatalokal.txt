@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pariwisata lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan kepariwisataan yang ruang lingkupnya terbatas pada tempat tertentu saja, misal kepariwisataan di Pulau Bali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pariwisata%20lokal",
+  "related": [],
+  "detailed": false
+}

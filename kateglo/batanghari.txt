@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batang hari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tengah hari;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok aliran sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batang%20hari",
+  "related": [],
+  "detailed": false
+}

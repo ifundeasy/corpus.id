@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan aorta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) besarnya tekanan hidrostatik dalam pembuluh darah aorta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20aorta",
+  "related": [],
+  "detailed": false
+}

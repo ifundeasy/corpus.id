@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejadian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal jadinya; kelahiran;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "jadi; tidak urung (tidak batal); dilangsungkan (tentang jual beli);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) peristiwa dalam suatu drama yang dinyatakan dalam gerak dan dialog;"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi; sudah berlaku;"
+      },
+      {
+        "type": "desc",
+        "text": "peristiwa; sesuatu yang terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejadian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vestibula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang kecil; lobi; beranda; serambi;"
+      },
+      {
+        "type": "desc",
+        "text": "pintu sambungan antara dua gerbong (dalam kereta api) yang tertutup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) rongga yang ada di tengah-tengah labirin telinga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vestibula",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu berisi data yang diberi judul untuk mengidentifikasi data sehingga dapat dicari kembali dengan mudah kalau disimpan di antara kartu lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20data",
+  "related": [],
+  "detailed": false
+}

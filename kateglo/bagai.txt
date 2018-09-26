@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "jenis; macam;"
+      },
+      {
+        "type": "desc",
+        "text": "sama; persamaan; banding;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan perbandingan; seperti; laksana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagai",
+  "related": [],
+  "detailed": false
+}

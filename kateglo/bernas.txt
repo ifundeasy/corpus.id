@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bernas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berisi penuh (tentang butir padi, susu, bisul, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) banyak isinya (tentang pidato, petuah, ceramah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dipercaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bernas",
+  "related": [],
+  "detailed": false
+}

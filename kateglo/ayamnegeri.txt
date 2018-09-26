@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ayam negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ayam berasal dari luar negeri dan dipiara secara khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayam%20negeri",
+  "related": [],
+  "detailed": false
+}

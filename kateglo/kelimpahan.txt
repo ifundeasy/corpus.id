@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelimpahan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tertumpah banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "dikaruniai (diberi) banyak-banyak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal limpah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelimpahan",
+  "related": [],
+  "detailed": false
+}

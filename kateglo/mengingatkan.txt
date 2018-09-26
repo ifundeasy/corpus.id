@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengingatkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengingat akan;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi ingat; mem-beri nasihat (teguran dsb) supaya ingat akan kewajibannya dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan ingat (terkenang) kepada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengingatkan",
+  "related": [],
+  "detailed": false
+}

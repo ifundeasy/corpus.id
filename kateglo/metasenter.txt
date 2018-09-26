@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metasenter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) titik khayal sebuah kapal yang digunakan sebagai patokan untuk menghitung keseimbangan kapal, jika titik ini berada di atas titik berat kapal, kapal akan seimbang, apabila di bawahnya, kapal tidak seimbang dan mudah terbalik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metasenter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan transpor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang bergerak di bidang angkutan (seperti bus, truk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20transpor",
+  "related": [],
+  "detailed": false
+}

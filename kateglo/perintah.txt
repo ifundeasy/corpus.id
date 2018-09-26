@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan yang bermaksud menyuruh melakukan sesuatu; suruhan;"
+      },
+      {
+        "type": "desc",
+        "text": "aba-aba; komando;"
+      },
+      {
+        "type": "desc",
+        "text": "aturan dari pihak atas yang harus dilakukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perintah",
+  "related": [],
+  "detailed": false
+}

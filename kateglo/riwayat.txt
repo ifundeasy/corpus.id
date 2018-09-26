@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "riwayat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita yang turun-temurun;"
+      },
+      {
+        "type": "desc",
+        "text": "sejarah; tambo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=riwayat",
+  "related": [],
+  "detailed": false
+}

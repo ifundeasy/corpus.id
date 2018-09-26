@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kekok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mudah memakainya (tentang alat perkakas dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat memakai (menggunakan) dengan senang;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa canggung (kaku) karena belum biasa dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekok",
+  "related": [],
+  "detailed": false
+}

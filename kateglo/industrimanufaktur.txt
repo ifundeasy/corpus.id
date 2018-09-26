@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri manufaktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang memproduksi barang dengan menggunakan tangan atau mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20manufaktur",
+  "related": [],
+  "detailed": false
+}

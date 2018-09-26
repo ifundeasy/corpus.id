@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intensitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tingkatan atau ukuran intensnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intensitas",
+  "related": [],
+  "detailed": false
+}

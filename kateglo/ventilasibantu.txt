@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ventilasi bantu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem pengaturan perputaran atau peredaran udara dengan pemasangan kipas angin bantu untuk suatu lokasi (misal dalam tambang bawah tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilasi%20bantu",
+  "related": [],
+  "detailed": false
+}

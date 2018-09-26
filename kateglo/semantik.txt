@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semantik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang makna kata dan kalimat; pengetahuan mengenai seluk-beluk dan pergeseran arti kata;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian struktur bahasa yang berhubungan dengan makna ungkapan atau struktur makna suatu wicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semantik",
+  "related": [],
+  "detailed": false
+}

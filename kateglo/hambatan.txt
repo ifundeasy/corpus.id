@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hambatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halangan; rintangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu penghalang (pengempang jalan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hambatan",
+  "related": [],
+  "detailed": false
+}

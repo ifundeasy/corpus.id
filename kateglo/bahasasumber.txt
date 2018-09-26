@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa sumber",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang diterjemahkan ke dalam bahasa yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang dipakai sebagai pengantar dalam pengajaran bahasa asing;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang menjadi asal kata serapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20sumber",
+  "related": [],
+  "detailed": false
+}

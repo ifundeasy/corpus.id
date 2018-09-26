@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit ketergantungan obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita yang tergantung pada obat-obat terlarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20ketergantungan%20obat",
+  "related": [],
+  "detailed": false
+}

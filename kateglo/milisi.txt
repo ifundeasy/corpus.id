@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kewajiban masuk tentara untuk masa tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi prajurit karena memenuhi wajib militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milisi",
+  "related": [],
+  "detailed": false
+}

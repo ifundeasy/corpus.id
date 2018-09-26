@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teknik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan dan kepandaian membuat sesuatu yang berkenaan dengan hasil industri (bangunan, mesin);"
+      },
+      {
+        "type": "desc",
+        "text": "cara (kepandaian dsb) membuat atau melakukan sesuatu yang berhubungan dengan seni;"
+      },
+      {
+        "type": "desc",
+        "text": "metode atau sistem mengerjakan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teknik",
+  "related": [],
+  "detailed": false
+}

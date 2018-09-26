@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kosmetik wanita",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bahan atau sediaan untuk mempercantik wajah, kulit, rambut, dsb (seperti bedak, pemerah bibir) khusus untuk wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmetik%20wanita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyeri",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa sakit (seperti ditusuk-tusuk jarum atau seperti dijepit pada bagian tubuh); rasa yang menimbulkan penderitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyeri",
+  "related": [],
+  "detailed": false
+}

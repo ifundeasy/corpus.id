@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fonem suprasegmental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan bunyi yang berupa tekanan, nada, atau jeda yang fonemis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonem%20suprasegmental",
+  "related": [],
+  "detailed": false
+}

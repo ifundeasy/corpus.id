@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks persuasif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks yang fungsi utamanya mempengaruhi pendapat, perasaan, dan perbuatan pembaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20persuasif",
+  "related": [],
+  "detailed": false
+}

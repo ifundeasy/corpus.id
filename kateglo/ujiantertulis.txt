@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian tertulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan kepandaian, kemampuan, dsb secara tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20tertulis",
+  "related": [],
+  "detailed": false
+}

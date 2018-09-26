@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prevalensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang umum; kelaziman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) jumlah keseluruhan kasus penyakit yang terjadi pada suatu waktu tertentu di suatu wilayah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prevalensi",
+  "related": [],
+  "detailed": false
+}

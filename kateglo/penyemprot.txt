@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyemprot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyemprot;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyemprot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyemprot",
+  "related": [],
+  "detailed": false
+}

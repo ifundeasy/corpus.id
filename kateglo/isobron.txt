@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isobron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "garis pada peta yang menghubungkan tempat yang dapat didengar bunyi guntur pada waktu yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "garis pada peta yang menghubungkan tempat yang mempunyai jumlah bunyi guntur yang sama dalam satu periode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isobron",
+  "related": [],
+  "detailed": false
+}

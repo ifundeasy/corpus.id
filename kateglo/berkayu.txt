@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkayu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada kayunya; mengandung kayu di dalamnya;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari kayu (di hutan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkayu",
+  "related": [],
+  "detailed": false
+}

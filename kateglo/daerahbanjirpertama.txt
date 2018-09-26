@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah banjir pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pertama dilanda banjir karena paling dekat ke sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20banjir%20pertama",
+  "related": [],
+  "detailed": false
+}

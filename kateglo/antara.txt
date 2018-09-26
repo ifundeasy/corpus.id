@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak (ruang, jauh) di sela-sela dua benda;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang menyelang dua saat atau peristiwa; selang;"
+      },
+      {
+        "type": "desc",
+        "text": "di tengah dua benda (orang, tempat, batas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "di tengah-tengah dua waktu (peristiwa, bilangan, bobot);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam kelompok (himpunan, golongan);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sementara; dalam pada itu;"
+      },
+      {
+        "type": "desc",
+        "text": "tengah-tengah atau pertengahan dua waktu (peristiwa);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak jauh dari; dekat dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) lebih kurang; kira-kira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antara",
+  "related": [],
+  "detailed": false
+}

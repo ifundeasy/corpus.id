@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "detak jam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara atau bunyi \"tak, tak\" yang berasal dari jam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detak%20jam",
+  "related": [],
+  "detailed": false
+}

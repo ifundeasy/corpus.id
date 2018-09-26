@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patogen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "parasit yang mampu menimbulkan penyakit pada inangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan yang menimbulkan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patogen",
+  "related": [],
+  "detailed": false
+}

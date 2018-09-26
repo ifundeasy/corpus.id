@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "frasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) gabungan dua kata atau lebih yang bersifat nonpredikatif (misal gunung tinggi disebut frasa karena merupakan konstruksi nonpredikatif);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frasa",
+  "related": [],
+  "detailed": false
+}

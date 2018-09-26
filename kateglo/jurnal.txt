@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jurnal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(buku) catatan harian;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kabar harian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) buku yang dipakai sebagai buku perantara antara buku harian dan buku besar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) buku yang dipakai untuk mencatat transaksi berdasarkan urutan waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "majalah yang khusus memuat artikel dalam satu bidang ilmu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurnal",
+  "related": [],
+  "detailed": false
+}

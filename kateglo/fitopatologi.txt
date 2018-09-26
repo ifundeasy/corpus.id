@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fitopatologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang penyakit tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fitopatologi",
+  "related": [],
+  "detailed": false
+}

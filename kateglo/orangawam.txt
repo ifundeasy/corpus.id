@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang awam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang biasa; orang am;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bukan ahli dalam suatu bidang ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20awam",
+  "related": [],
+  "detailed": false
+}

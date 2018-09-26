@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memancing",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menangkap ikan dengan pancing; mengail;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) memberikan sesuatu untuk memikat orang lain sehingga dapat memperoleh apa yang diinginkannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengadakan provokasi supaya terjadi perkelahian (pertempuran, permusuhan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menuangi air (bensin) pada pompa supaya air (bensin) dapat keluar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengajukan pertanyaan untuk mendapatkan keterangan atau data yang diperlukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menjebak dengan umpan untuk mendapatkan keuntungan bagi pihaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memancing",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "periksaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memeriksa;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang diperiksa; ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periksaan",
+  "related": [],
+  "detailed": false
+}

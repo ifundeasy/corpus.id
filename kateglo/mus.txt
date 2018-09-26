@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan ringan yang dibuat dari agar-agar, putih telur, krim busa, perencah, dsb, biasanya dihidangkan sebagai makanan pencuci mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "masakan yang dibuat dari sayuran yang dicacah lembut atau buah-buahan yang dimasak sehingga menjadi seperti bubur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mus",
+  "related": [],
+  "detailed": false
+}

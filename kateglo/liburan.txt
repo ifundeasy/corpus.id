@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "liburan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa libur; vakansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liburan",
+  "related": [],
+  "detailed": false
+}

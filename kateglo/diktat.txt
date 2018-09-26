@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diktat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan pelajaran yang dibuat oleh siswa pada waktu mengikuti pelajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "buku pelajaran yang disusun oleh guru berupa stensilan (bukan cetakan);"
+      },
+      {
+        "type": "desc",
+        "text": "berita yang didiktekan melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diktat",
+  "related": [],
+  "detailed": false
+}

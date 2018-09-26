@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuaca berlangsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) cuaca yang sementara berlangsung ketika berita cuaca dikirimkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuaca%20berlangsung",
+  "related": [],
+  "detailed": false
+}

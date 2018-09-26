@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diatonik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian dengan tangga (skala) nada musik yang tiap oktafnya bernada delapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diatonik",
+  "related": [],
+  "detailed": false
+}

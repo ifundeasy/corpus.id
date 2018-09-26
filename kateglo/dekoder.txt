@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekoder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli sandi;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membaca sandi balik;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat tambahan untuk menangkap siaran televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekoder",
+  "related": [],
+  "detailed": false
+}

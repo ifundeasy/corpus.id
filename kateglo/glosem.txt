@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "glosem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) konsep dasar dalam teori glosematik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=glosem",
+  "related": [],
+  "detailed": false
+}

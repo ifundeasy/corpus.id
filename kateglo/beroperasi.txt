@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beroperasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan gerakan militer;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan aktivitas kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beroperasi",
+  "related": [],
+  "detailed": false
+}

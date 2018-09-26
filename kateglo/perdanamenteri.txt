@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdana menteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketua menteri; ketua kabinet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdana%20menteri",
+  "related": [],
+  "detailed": false
+}

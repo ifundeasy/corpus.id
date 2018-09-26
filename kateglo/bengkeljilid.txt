@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bengkel jilid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat penjilidan buku dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengkel%20jilid",
+  "related": [],
+  "detailed": false
+}

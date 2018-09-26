@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metronom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat mekanis (seperti pada jam) untuk mengatur tempo dengan tepat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menentukan tempo komposisi musik melalui bunyi ketukan irama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metronom",
+  "related": [],
+  "detailed": false
+}

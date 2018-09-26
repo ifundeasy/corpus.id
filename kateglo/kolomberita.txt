@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kolom berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kolom pada surat kabar yang khusus menyajikan berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolom%20berita",
+  "related": [],
+  "detailed": false
+}

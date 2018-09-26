@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "busuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rusak dan berbau tidak sedap (tentang buah, daging, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berbau tidak sedap (tentang bangkai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "buruk; jelek; tidak menyenangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penyakit yang ditandai dengan penghancuran jaringan sebagai hasil kegiatan jamur atau bakteri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=busuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "premis silogisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua premis (mayor dan minor) yang mewujudkan anteseden;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premis%20silogisme",
+  "related": [],
+  "detailed": false
+}

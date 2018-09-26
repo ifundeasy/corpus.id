@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kisi",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kisi-kisi"
+      },
+      {
+        "type": "desc",
+        "text": "jaringan garis tiga dimensi yang menghubungkan titik-titik pusat atom atau ion di dalam kristal;"
+      },
+      {
+        "type": "desc",
+        "text": "lempeng logam yang berlubang-lubang, dipakai dalam baterai sebagai penghantar dan penyangga bahan aktifnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sembarang jaringan bersistem;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) peranti optis yang bergaris-garis atau mempunyai batang yang sejajar dan terpisah oleh sela-sela sama besarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Stat) segi empat kecil pada suatu bidang dasar yang dibentuk oleh dua gugus baris tegak lurus thd sesamanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kisi",
+  "related": [],
+  "detailed": false
+}

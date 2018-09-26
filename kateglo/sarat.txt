@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penuh dan berat (karena berisi muatan atau karena banyak buahnya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu banyak dan terlalu berat;"
+      },
+      {
+        "type": "desc",
+        "text": "penuh mengandung (air, kesusahan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bunting; mengandung;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) jarak yang diukur tegak lurus dari titik paling bawah dari lunas kapal sampai ke permukaan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarat",
+  "related": [],
+  "detailed": false
+}

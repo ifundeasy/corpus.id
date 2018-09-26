@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyebar surat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghamburkan surat (misal dari pesawat terbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyebar%20surat",
+  "related": [],
+  "detailed": false
+}

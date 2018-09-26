@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pica",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lengah; lalai; meleng;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) pecah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pica",
+  "related": [],
+  "detailed": false
+}

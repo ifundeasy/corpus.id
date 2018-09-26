@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "murah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih rendah daripada harga yang dianggap berlaku di pasaran;"
+      },
+      {
+        "type": "desc",
+        "text": "suka memberi atau menolong (tentang kebaikan);"
+      },
+      {
+        "type": "desc",
+        "text": "berlebih-lebih; banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "gampang (mudah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=murah",
+  "related": [],
+  "detailed": false
+}

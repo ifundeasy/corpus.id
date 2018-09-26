@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbelakang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "paling belakang; paling akhir (tentang sesuatu yang berderet-deret dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tertinggal (dalam kebudayaan); belum maju;"
+      },
+      {
+        "type": "desc",
+        "text": "terakhir (tentang kabar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lemah atau lambat (tumbuh, berkembang) terutama tentang mental anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbelakang",
+  "related": [],
+  "detailed": false
+}

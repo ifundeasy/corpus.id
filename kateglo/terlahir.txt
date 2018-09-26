@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlahir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dilahirkan;"
+      },
+      {
+        "type": "desc",
+        "text": "lahir (tentang anak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlahir",
+  "related": [],
+  "detailed": false
+}

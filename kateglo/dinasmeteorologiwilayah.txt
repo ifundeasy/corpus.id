@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dinas meteorologi wilayah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor pusat meteorologi suatu wilayah yang langsung mengawasi stasiun meteorologi yang lain di wilayah itu, memberikan bimbingan dan pengaturan teknis, membuat prakiraan cuaca wilayah, peringatan, dll;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinas%20meteorologi%20wilayah",
+  "related": [],
+  "detailed": false
+}

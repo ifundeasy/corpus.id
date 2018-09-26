@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deltoid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk segitiga;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan muara sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deltoid",
+  "related": [],
+  "detailed": false
+}

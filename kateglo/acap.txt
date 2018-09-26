@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "acap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kerap; sering;"
+      },
+      {
+        "type": "desc",
+        "text": "segera; lekas;"
+      },
+      {
+        "type": "desc",
+        "text": "masuk dalam-dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "tergenang (oleh air); terendam (dalam air); penuh berisi air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acap",
+  "related": [],
+  "detailed": false
+}

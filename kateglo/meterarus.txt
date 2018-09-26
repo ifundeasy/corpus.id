@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meter arus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menentukan kecepatan aliran;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kekuatan arus listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meter%20arus",
+  "related": [],
+  "detailed": false
+}

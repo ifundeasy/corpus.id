@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relief",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pahatan yang menampilkan perbedaan bentuk dan gambar dari permukaan rata di sekitarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar timbul (pada candi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbedaan ketinggian pada bagian permukaan bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relief",
+  "related": [],
+  "detailed": false
+}

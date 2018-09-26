@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apostel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasul;"
+      },
+      {
+        "type": "desc",
+        "text": "pembela; pembawa ajaran baru;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan tepi (sekarang tidak dipakai lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apostel",
+  "related": [],
+  "detailed": false
+}

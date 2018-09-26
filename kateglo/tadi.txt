@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang belum lama berlalu; baru saja;"
+      },
+      {
+        "type": "desc",
+        "text": "saat yang baru saja lalu;"
+      },
+      {
+        "type": "desc",
+        "text": "yang baru lalu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tadi",
+  "related": [],
+  "detailed": false
+}

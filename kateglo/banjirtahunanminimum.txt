@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banjir tahunan minimum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "banjir tahunan yang terkecil selama periode pencatatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjir%20tahunan%20minimum",
+  "related": [],
+  "detailed": false
+}

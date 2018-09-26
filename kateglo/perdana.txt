@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perdana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "bendahara;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "pertama (kali);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdana",
+  "related": [],
+  "detailed": false
+}

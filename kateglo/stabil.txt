@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stabil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mantap; kukuh; tidak goyah (tentang bangunan, pemerintah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tetap jalannya; tenang; tidak goyang (tentang kendaraan, kapal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berubah-ubah; tetap; tidak naik turun (tentang harga barang, nilai uang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stabil",
+  "related": [],
+  "detailed": false
+}

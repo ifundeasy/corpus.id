@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trubadur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyanyi lagu-lagu cinta;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok penyair lirik yang menyanyikan sanjak, terutama sanjak cinta terhadap wanita keturunan bangsawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trubadur",
+  "related": [],
+  "detailed": false
+}

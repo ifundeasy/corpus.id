@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jawaban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sahutan; balasan; tanggapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jawaban",
+  "related": [],
+  "detailed": false
+}

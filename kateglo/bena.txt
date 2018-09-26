@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "ombak;"
+      },
+      {
+        "type": "desc",
+        "text": "air pasang; banjir;"
+      },
+      {
+        "type": "desc",
+        "text": "ombak;"
+      },
+      {
+        "type": "desc",
+        "text": "air pasang; banjir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bena",
+  "related": [],
+  "detailed": false
+}

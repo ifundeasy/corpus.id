@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedap, lezat (tentang rasa);"
+      },
+      {
+        "type": "desc",
+        "text": "sehat atau segar (tentang kondisi badan);"
+      },
+      {
+        "type": "desc",
+        "text": "nikmat atau menyenangkan (tentang perasaan, suasana, dsb); nyaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pulas; lelap (tentang tidur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enak",
+  "related": [],
+  "detailed": false
+}

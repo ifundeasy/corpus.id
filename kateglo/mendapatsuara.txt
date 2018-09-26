@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendapat suara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dipilih oleh sejumlah orang yang mempunyai hak suara dalam pengundian;"
+      },
+      {
+        "type": "desc",
+        "text": "diindahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendapat%20suara",
+  "related": [],
+  "detailed": false
+}

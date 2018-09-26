@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diisikan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dikosongkan untuk diisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isian",
+  "related": [],
+  "detailed": false
+}

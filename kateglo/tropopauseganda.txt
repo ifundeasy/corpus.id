@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tropopause ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tropopause yang terdiri atas lebih dari satu lapisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tropopause%20ganda",
+  "related": [],
+  "detailed": false
+}

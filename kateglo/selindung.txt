@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selindung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "berselindung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selindung",
+  "related": [],
+  "detailed": false
+}

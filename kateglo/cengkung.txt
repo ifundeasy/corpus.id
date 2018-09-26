@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cengkung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cekung (tentang mata, pipi, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi keras besar (seperti bunyi anjing menyalak);"
+      },
+      {
+        "type": "link",
+        "text": "bercengkung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cengkung",
+  "related": [],
+  "detailed": false
+}

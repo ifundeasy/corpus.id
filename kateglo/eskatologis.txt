@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eskatologis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai hal-hal terakhir, seperti kematian, hari kiamat, kebangkitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eskatologis",
+  "related": [],
+  "detailed": false
+}

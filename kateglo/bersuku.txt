@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersuku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaki;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai suku (bagian dsb); berbagian;"
+      },
+      {
+        "type": "desc",
+        "text": "masuk salah satu suku;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak masuk dalam salah satu suku;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak tahu adat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersuku",
+  "related": [],
+  "detailed": false
+}

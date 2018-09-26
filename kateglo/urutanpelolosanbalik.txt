@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan pelolosan balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) dua kaidah, A dan B, berurutan sehingga A akan meloloskan B bila urutan dibalik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20pelolosan%20balik",
+  "related": [],
+  "detailed": false
+}

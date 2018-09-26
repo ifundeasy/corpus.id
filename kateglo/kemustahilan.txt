@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemustahilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mustahil; sesuatu (hal) yang tidak mungkin terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemustahilan",
+  "related": [],
+  "detailed": false
+}

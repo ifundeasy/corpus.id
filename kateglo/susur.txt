@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinggir atau tepi sebelah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) sugi (tembakau);"
+      },
+      {
+        "type": "link",
+        "text": "penyusur bayar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susur",
+  "related": [],
+  "detailed": false
+}

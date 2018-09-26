@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alamat (tanda-tanda bahwa sesuatu akan terjadi);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar (kepandaian, sifat, dan pembawaan) yang dibawa sejak lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas; kesan; tanda-tanda (luka dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakat",
+  "related": [],
+  "detailed": false
+}

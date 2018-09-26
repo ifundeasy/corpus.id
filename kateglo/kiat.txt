@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kiat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkiat"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "akal (seni atau cara) melakukan; taktik;"
+      },
+      {
+        "type": "link",
+        "text": "mengiat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "infeksi nosokomial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi yang terjadi ketika penderita dirawat di rumah sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infeksi%20nosokomial",
+  "related": [],
+  "detailed": false
+}

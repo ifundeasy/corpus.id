@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aji",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berharga sekali dan dianggap bertuah (tentang benda keramat);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ternilai kehormatan dan kedudukannya sehingga orang merasa wajib mengagungkan dan menghormati;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "baginda; raja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aji",
+  "related": [],
+  "detailed": false
+}

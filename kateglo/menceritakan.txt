@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menceritakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuturkan cerita (kepada);"
+      },
+      {
+        "type": "desc",
+        "text": "memuat cerita;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatakan (memberitahukan) sesuatu kepada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menceritakan",
+  "related": [],
+  "detailed": false
+}

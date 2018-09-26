@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut lancip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut yang besarnya kurang dari 90o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20lancip",
+  "related": [],
+  "detailed": false
+}

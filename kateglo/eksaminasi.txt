@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksaminasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) proses penentuan autentik tidaknya suatu naskah dalam arti sesuai atau tidak dengan \"keinginan\" penulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksaminasi",
+  "related": [],
+  "detailed": false
+}

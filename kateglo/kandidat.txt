@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kandidat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "calon; bakal;"
+      },
+      {
+        "type": "desc",
+        "text": "pengikut (penempuh) ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandidat",
+  "related": [],
+  "detailed": false
+}

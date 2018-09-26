@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diurnal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan siang hari;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot) keadaan bunga yang mekar pada siang hari dan menutup pada malam hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) keadaan hewan yang sifatnya atau kebiasaannya aktif terutama pada siang hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diurnal",
+  "related": [],
+  "detailed": false
+}

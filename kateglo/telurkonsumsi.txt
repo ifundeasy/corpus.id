@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telur konsumsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telur yang diproduksi untuk dijual sebagai telur konsumsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telur%20konsumsi",
+  "related": [],
+  "detailed": false
+}

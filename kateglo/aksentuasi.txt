@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aksentuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian tekanan suara pada suku kata atau kata;"
+      },
+      {
+        "type": "desc",
+        "text": "pengutamaan; penitikberatan; penekanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) penempatan tekanan yang pas pada perangkat musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksentuasi",
+  "related": [],
+  "detailed": false
+}

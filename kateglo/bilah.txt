@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "belahan bambu (kayu dsb) yang tipis dan panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyerupai bilah (terutama pisau, pedang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi sesuatu yang tipis dan panjang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membilah-bilah"
+      },
+      {
+        "type": "desc",
+        "text": "bagian buldoser yang berfungsi sebagai alat gali dan dorong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilah",
+  "related": [],
+  "detailed": false
+}

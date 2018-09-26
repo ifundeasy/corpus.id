@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) badan atau lembaga yang mengumpulkan dan menyediakan bahan berita untuk media massa (pers, radio, dan televisi), baik berita nasional maupun internasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20berita",
+  "related": [],
+  "detailed": false
+}

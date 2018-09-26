@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak di tempat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) jumlah minyak bumi yang diperkirakan ada di dalam reservoar dan belum pernah diproduk-si;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20di%20tempat",
+  "related": [],
+  "detailed": false
+}

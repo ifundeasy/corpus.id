@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu permukaan laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu air laut yang terdapat pada permukaan air laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20permukaan%20laut",
+  "related": [],
+  "detailed": false
+}

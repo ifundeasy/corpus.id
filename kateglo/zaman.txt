@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu yang panjang atau pendek yang menandai sesuatu; masa;"
+      },
+      {
+        "type": "desc",
+        "text": "kala; waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zaman",
+  "related": [],
+  "detailed": false
+}

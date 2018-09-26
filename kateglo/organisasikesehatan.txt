@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi sosial yang mengoordinasi segala aktivitas untuk memecahkan berbagai masalah kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20kesehatan",
+  "related": [],
+  "detailed": false
+}

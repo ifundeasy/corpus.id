@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miring ke sebelah (tidak seimbang); sendeng; senget;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyingit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singit",
+  "related": [],
+  "detailed": false
+}

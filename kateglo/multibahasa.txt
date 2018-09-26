@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multibahasa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(mengandung) lebih dari satu bahasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan menggunakan beberapa bahasa dalam berkomunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multibahasa",
+  "related": [],
+  "detailed": false
+}

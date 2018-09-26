@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ratusan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan seratus;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) beratus-ratus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ratusan",
+  "related": [],
+  "detailed": false
+}

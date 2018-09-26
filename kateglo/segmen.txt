@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segmen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "tembereng;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) ulas (tentang limau), pangsa (tentang durian), dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) satuan rangkaian yang pada dasarnya mempunyai struktur yang sama; bagian ruas tubuh yang berbentuk cincin, seperti ruas tubuh cacing tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan; daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bahasa yang diabstraksikan dari kesatuan wicara atau teks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segmen",
+  "related": [],
+  "detailed": false
+}

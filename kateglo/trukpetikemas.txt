@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "truk peti kemas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "truk pengangkut barang dalam kemasan besar berukuran berat, dengan tonase di atas lima belas ton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=truk%20peti%20kemas",
+  "related": [],
+  "detailed": false
+}

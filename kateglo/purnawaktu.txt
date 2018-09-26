@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purnawaktu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sepenuh waktu yang ditetapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purnawaktu",
+  "related": [],
+  "detailed": false
+}

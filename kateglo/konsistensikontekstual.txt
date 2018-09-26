@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konsistensi kontekstual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kualitas terjemahan yang diperoleh dengan menerjemahkan ungkapan yang cocok untuk konteks tertentu dan bukannya untuk semua konteks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsistensi%20kontekstual",
+  "related": [],
+  "detailed": false
+}

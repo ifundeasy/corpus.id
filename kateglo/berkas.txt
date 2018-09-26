@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berkas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan (gabungan) benda seperti lidi, batang padi, kayu api, diikat menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "bendel (surat-surat);"
+      },
+      {
+        "type": "desc",
+        "text": "(Adm) lipatan kertas tebal persegi panjang untuk melindungi dan menyimpan surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkas",
+  "related": [],
+  "detailed": false
+}

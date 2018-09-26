@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nisab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah harta benda minimum yang dikenakan zakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisab",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran sentral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran radio atau televisi dari pusat (dari satu pemancar untuk direlai oleh pemancar yang lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20sentral",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sel (terdapat pada wanita) yang akan menjadi bakal anak, jika dibuahi oleh sperma;"
+      },
+      {
+        "type": "desc",
+        "text": "benda bercangkang yang mengandung zat hidup bakal anak yang dihasilkan oleh unggas (ayam, itik, burung, dsb), biasanya dimakan (direbus, diceplok, didadar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "benda kecil-kecil bercangkang, (biasanya berkelompok) mengandung bakal anak, dihasilkan oleh binatang (cecak, buaya, penyu, nyamuk, kutu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berbagai-bagai benda yang bentuknya (rupanya, sifatnya, dsb) menyerupai telur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telur",
+  "related": [],
+  "detailed": false
+}

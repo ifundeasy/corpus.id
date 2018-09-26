@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi naskah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan buku atau naskah khusus yang berisi ringkasan beberapa buku atau naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20naskah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suku cadang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat-alat (dalam peralatan teknik) yang merupakan bagian dari mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suku%20cadang",
+  "related": [],
+  "detailed": false
+}

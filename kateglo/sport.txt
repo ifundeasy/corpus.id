@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sport",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) olahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sport",
+  "related": [],
+  "detailed": false
+}

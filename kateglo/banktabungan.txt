@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank tabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang dalam pengumpulan dananya murni mengutamakan penerimaan dari simpanan dalam bentuk tabungan, sedangkan usahanya yang utama adalah membungakan dananya dalam kertas berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20tabungan",
+  "related": [],
+  "detailed": false
+}

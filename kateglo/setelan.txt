@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selengkap pakaian (celana dan baju);"
+      },
+      {
+        "type": "desc",
+        "text": "seperangkat (cangkir, kain, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pasangan; jodoh; bagian sesuatu (perkakas);"
+      },
+      {
+        "type": "desc",
+        "text": "putaran (arloji dsb); tombol (radio dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menyetel; cara menyetel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setelan",
+  "related": [],
+  "detailed": false
+}

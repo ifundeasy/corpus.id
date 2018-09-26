@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengantar kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata pengantar; kata pendahuluan; prakata; mukadimah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengantar%20kata",
+  "related": [],
+  "detailed": false
+}

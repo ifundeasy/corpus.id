@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "binokular",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu sistem penglihatan untuk dua mata;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan dua mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=binokular",
+  "related": [],
+  "detailed": false
+}

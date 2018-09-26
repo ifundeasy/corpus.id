@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun pengamatan meteorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat dilakukannya pengamatan meteorologi yang telah diakui oleh badan yang berwenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20pengamatan%20meteorologi",
+  "related": [],
+  "detailed": false
+}

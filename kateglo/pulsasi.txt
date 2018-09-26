@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pulsasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "denyutan (jantung, nadi); debaran; getaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulsasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berat jenis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Fis) perbandingan berat benda dengan berat air yang sama besar volumenya (misal berat jenis marmer 2,8 artinya marmer yang besarnya 1 dm3 beratnya 2,8 kg);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat%20jenis",
+  "related": [],
+  "detailed": false
+}

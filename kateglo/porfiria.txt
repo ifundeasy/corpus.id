@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porfiria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit metabolisme yang langka yang menyebabkan nyeri perut dan kekacauan mental;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) batuan beku terdiri atas kristal ukuran sedang atau besar yang tertata dalam matriks butiran halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porfiria",
+  "related": [],
+  "detailed": false
+}

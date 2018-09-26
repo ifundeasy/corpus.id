@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "melabang"
+      },
+      {
+        "type": "link",
+        "text": "melabang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labang",
+  "related": [],
+  "detailed": false
+}

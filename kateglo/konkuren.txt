@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konkuren",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lawan bersaing (harga dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersaingan; bersengketa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konkuren",
+  "related": [],
+  "detailed": false
+}

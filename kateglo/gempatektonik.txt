@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gempa tektonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) gempa yang berhubungan dengan (disebabkan oleh) pergeseran tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempa%20tektonik",
+  "related": [],
+  "detailed": false
+}

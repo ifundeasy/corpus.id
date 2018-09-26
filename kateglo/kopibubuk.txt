@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kopi bubuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kopi yang telah ditumbuk halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopi%20bubuk",
+  "related": [],
+  "detailed": false
+}

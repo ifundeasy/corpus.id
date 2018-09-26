@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkara belakang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tidak penting;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan nanti (lain waktu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkara%20belakang",
+  "related": [],
+  "detailed": false
+}

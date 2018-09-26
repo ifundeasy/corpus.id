@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "giat (bekerja, berusaha);"
+      },
+      {
+        "type": "desc",
+        "text": "lebih banyak penerimaan daripada pengeluaran;"
+      },
+      {
+        "type": "desc",
+        "text": "dinamis atau bertenaga (sebagai lawan statis atau lembam);"
+      },
+      {
+        "type": "desc",
+        "text": "mampu beraksi dan bereaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) mempunyai kecenderungan menyebar atau berkembang biak (tentang penyakit, sel, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktif",
+  "related": [],
+  "detailed": false
+}

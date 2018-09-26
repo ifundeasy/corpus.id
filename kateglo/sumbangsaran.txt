@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumbang saran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sumbangan berupa saran (nasihat); urun pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumbang%20saran",
+  "related": [],
+  "detailed": false
+}

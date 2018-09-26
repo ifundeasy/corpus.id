@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kartun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film yang menciptakan khayalan gerak sebagai hasil pemotretan rangkaian gambar yang melukiskan perubahan posisi;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar dengan penampilan yang lucu, berkaitan dengan keadaan yang sedang berlaku (terutama mengenai politik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjatahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan jumlah barang dsb; pembagian jumlah barang dsb (untuk suatu maksud atau untuk suatu daerah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjatahan",
+  "related": [],
+  "detailed": false
+}

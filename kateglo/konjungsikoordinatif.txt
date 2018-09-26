@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konjungsi koordinatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) konjungsi yang menggabungkan kata atau klausa yang berstatus sama, misal dan, tetapi, atau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konjungsi%20koordinatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaga daerah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga resmi yang dibentuk oleh pemerintah daerah sebagai tempat mengundangkan peraturan daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga%20daerah",
+  "related": [],
+  "detailed": false
+}

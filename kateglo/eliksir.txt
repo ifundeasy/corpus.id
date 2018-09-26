@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eliksir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat cair yang oleh para ahli zaman dahulu (abad pertengahan) diharapkan dapat mengubah logam menjadi emas dan dapat memperpanjang kehidupan tanpa batas (usia);"
+      },
+      {
+        "type": "desc",
+        "text": "obat yang serbaguna (untuk menyembuhkan segala penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "(Far) ramuan untuk menyiapkan obat secara farmasi (seperti larutan dengan gula, etanol, atau bahan lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eliksir",
+  "related": [],
+  "detailed": false
+}

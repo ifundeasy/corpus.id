@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peribadatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (cara dsb) beribadat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat beribadat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peribadatan",
+  "related": [],
+  "detailed": false
+}

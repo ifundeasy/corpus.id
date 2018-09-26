@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hotel berbintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hotel yang dalam susunan, pengaturan, dan manajemennya memenuhi standar internasional pada tingkat tertentu (hotel bintang satu, bintang dua, dst);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel%20berbintang",
+  "related": [],
+  "detailed": false
+}

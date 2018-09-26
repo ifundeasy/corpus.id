@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suporter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberikan dukungan, sokongan, dsb (dalam pertandingan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suporter",
+  "related": [],
+  "detailed": false
+}

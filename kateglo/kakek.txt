@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kakek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bapak dari ayah atau bapak dari ibu; aki; datuk;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan bagi orang laki-laki yang sudah tua sekali (sebaya kakek);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sudah tua sekali (bagi orang laki-laki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kakek",
+  "related": [],
+  "detailed": false
+}

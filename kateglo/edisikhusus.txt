@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "edisi surat kabar, majalah, atau buku yang khusus diterbitkan dalam rangka memperingati suatu peristiwa atau membicarakan suatu masalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20khusus",
+  "related": [],
+  "detailed": false
+}

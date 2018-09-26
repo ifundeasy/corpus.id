@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subsidi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantuan uang dsb kepada yayasan, perkumpulan, dsb (biasanya dari pihak pemerintah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subsidi",
+  "related": [],
+  "detailed": false
+}

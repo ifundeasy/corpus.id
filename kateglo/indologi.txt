@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang India;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indologi",
+  "related": [],
+  "detailed": false
+}

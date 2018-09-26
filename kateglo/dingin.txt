@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dingin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersuhu rendah apabila dibandingkan dengan suhu tubuh manusia; tidak panas; sejuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tawar (tentang rasa makanan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak ramah; kaku (tentang suasana dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dingin",
+  "related": [],
+  "detailed": false
+}

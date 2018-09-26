@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pihak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi (yang sebelah); bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "arah; jurusan;"
+      },
+      {
+        "type": "desc",
+        "text": "satu dari golongan (partai, orang) yang bertentangan atau berlawanan (dalam perang, permainan, politik, perjanjian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(pada -- ) dalam hal; mengenai;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang termasuk dalam satu lingkungan dan kepentingan; kalangan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang; golongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pihak",
+  "related": [],
+  "detailed": false
+}

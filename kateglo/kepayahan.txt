@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepayahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelelahan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesukaran; kesusahan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menderita lelah (sukar, susah, dsb); kehabisan tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepayahan",
+  "related": [],
+  "detailed": false
+}

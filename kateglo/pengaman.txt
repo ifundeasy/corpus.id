@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengamankan (negeri, kota);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menghindarkan atau mencegah terjadinya kecelakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaman",
+  "related": [],
+  "detailed": false
+}

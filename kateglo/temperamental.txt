@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temperamental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dipengaruhi oleh temperamen;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah sekali terganggu (tentang temperamen);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temperamental",
+  "related": [],
+  "detailed": false
+}

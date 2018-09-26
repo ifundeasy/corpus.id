@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suara rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat orang banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suara%20rakyat",
+  "related": [],
+  "detailed": false
+}

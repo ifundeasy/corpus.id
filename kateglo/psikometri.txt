@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "teori dan teknik pengukuran inteligensi dan aktivitas mental dalam psikologi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) ilmu dan pengukuran udara lembap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikometri",
+  "related": [],
+  "detailed": false
+}

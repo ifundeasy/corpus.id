@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolorimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur warna dengan cara menentukan intensitas tiga warna utama yang membentuk warna itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolorimeter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter anak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang ahli dalam penyakit anak-anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20anak",
+  "related": [],
+  "detailed": false
+}

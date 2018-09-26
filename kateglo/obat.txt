@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far)"
+      },
+      {
+        "type": "desc",
+        "text": "bahan untuk mengurangi, menghilangkan penyakit, atau menyembuhkan seseorang dari penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) bahan kimia (untuk pelbagai keperluan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mesiu; peluru;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) guna-guna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat",
+  "related": [],
+  "detailed": false
+}

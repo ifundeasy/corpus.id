@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstipasi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sembelit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstipasi",
+  "related": [],
+  "detailed": false
+}

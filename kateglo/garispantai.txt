@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis pantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang memisahkan pantai dari daratan yang mencakup teluk, tetapi memotong lurus muara sungai dan teluk sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "jalur sempit tempat bertemunya laut dan daratan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20pantai",
+  "related": [],
+  "detailed": false
+}

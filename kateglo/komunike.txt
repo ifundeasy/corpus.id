@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunike",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumuman atau pemberitahuan resmi dari pemerintah (di surat kabar dsb), biasanya dikeluarkan sesudah selesai pertemuan diplomatik atau sesudah selesai kegiatan militer tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunike",
+  "related": [],
+  "detailed": false
+}

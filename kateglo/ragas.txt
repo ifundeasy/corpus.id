@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ragas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meragas"
+      },
+      {
+        "type": "link",
+        "text": "meragas"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda bukti; tanda yang didapati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragas",
+  "related": [],
+  "detailed": false
+}

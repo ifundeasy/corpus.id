@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "satu ...;"
+      },
+      {
+        "type": "desc",
+        "text": "saban;"
+      },
+      {
+        "type": "desc",
+        "text": "sekali makan atau minum (tentang obat); dosis;"
+      },
+      {
+        "type": "desc",
+        "text": "uang kunci (untuk menyewa rumah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tiada tepermanai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tiada terbilang (banyak sekali);"
+      },
+      {
+        "type": "desc",
+        "text": "tiada ternilai (berharga sekali dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiada%20tepermanai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hamburger",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging cacah (biasanya daging sapi, tetapi kadang-kadang juga daging lain) yang dibentuk bulat, kemudian dipipihkan dan digoreng dengan mentega atau dipanggang di atas bara, biasanya dimakan sebagai isi roti bulat, diberi daun selada, saus tomat, dan bumbu lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hamburger",
+  "related": [],
+  "detailed": false
+}

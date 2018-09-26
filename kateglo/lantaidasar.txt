@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lantai dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai (pada gedung bertingkat) yang sejajar dengan permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lantai%20dasar",
+  "related": [],
+  "detailed": false
+}

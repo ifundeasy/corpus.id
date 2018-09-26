@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imigrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk negara lain ke negara tertentu untuk menetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imigrasi",
+  "related": [],
+  "detailed": false
+}

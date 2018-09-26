@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kami",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "yang berbicara bersama dengan orang lain (tidak termasuk yang diajak berbicara); yang menulis atas nama kelompok, tidak termasuk pembaca;"
+      },
+      {
+        "type": "desc",
+        "text": "yang berbicara (digunakan oleh orang besar, misal raja); yang menulis (digunakan oleh penulis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kami",
+  "related": [],
+  "detailed": false
+}

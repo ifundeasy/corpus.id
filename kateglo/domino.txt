@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "domino",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan dengan 28 kartu (kayu, tulang, dsb) yang bermata (bertitik besar), tiap kartu dibagi menjadi dua bidang, tiap bidang berisi 0—6 titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=domino",
+  "related": [],
+  "detailed": false
+}

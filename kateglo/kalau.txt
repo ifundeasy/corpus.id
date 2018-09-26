@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalau",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata penghubung untuk menandai syarat;"
+      },
+      {
+        "type": "desc",
+        "text": "seandainya;"
+      },
+      {
+        "type": "desc",
+        "text": "bagi; adapun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalau",
+  "related": [],
+  "detailed": false
+}

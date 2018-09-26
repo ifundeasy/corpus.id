@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikan buas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan pemakan ikan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikan%20buas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelulusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keguguran (melahirkan anak sebelum masanya);"
+      },
+      {
+        "type": "desc",
+        "text": "hal (keadaan) lulus (ujian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelulusan",
+  "related": [],
+  "detailed": false
+}

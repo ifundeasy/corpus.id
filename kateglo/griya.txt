@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "griya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat tinggal; rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "kompleks perumahan; permukiman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=griya",
+  "related": [],
+  "detailed": false
+}

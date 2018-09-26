@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pancit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memancit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyabat"
+      },
+      {
+        "type": "link",
+        "text": "menyabat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekurangan gizi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perihal kesehatan seseorang yang disebabkan oleh kekurangan atau ketidakseimbangan bahan yang dimakan, baik kualitas maupun kuantitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekurangan%20gizi",
+  "related": [],
+  "detailed": false
+}

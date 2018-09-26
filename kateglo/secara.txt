@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "secara",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "sebagai; selaku;"
+      },
+      {
+        "type": "desc",
+        "text": "menurut (tentang adat, kebiasaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dengan cara; dengan jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=secara",
+  "related": [],
+  "detailed": false
+}

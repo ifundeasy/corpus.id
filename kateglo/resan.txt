@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merasa tersinggung (tersindir dsb) oleh perkataan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak senang hati terhadap kelebihan orang lain; merasa cemburu (dengki, iri hati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komposisi artistik yang dibuat dari berbagai bahan (dari kain, kertas, kayu) yang ditempelkan pada permukaan gambar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) teknik penyusunan karya sastra dengan cara menempelkan bahan-bahan, seperti ungkapan asing dan kutipan, biasanya dianggap tidak berhubungan satu dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) cara menentukan naskah yang dianggap asli dengan membanding-bandingkan naskah yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolase",
+  "related": [],
+  "detailed": false
+}

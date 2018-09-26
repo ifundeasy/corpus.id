@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kahwaji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "penjual kopi;"
+      },
+      {
+        "type": "desc",
+        "text": "kedai kopi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kahwaji",
+  "related": [],
+  "detailed": false
+}

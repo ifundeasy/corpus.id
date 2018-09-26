@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meter;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur air, listrik, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteran",
+  "related": [],
+  "detailed": false
+}

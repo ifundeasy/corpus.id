@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan akademik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang merupakan bagian dari universitas, akademi, lembaga pendidikan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20akademik",
+  "related": [],
+  "detailed": false
+}

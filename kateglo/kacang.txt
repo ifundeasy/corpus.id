@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kacang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman perdu yang ditanam di sawah atau di ladang, berbuah polong (macamnya banyak sekali);"
+      },
+      {
+        "type": "link",
+        "text": "mengacang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacang",
+  "related": [],
+  "detailed": false
+}

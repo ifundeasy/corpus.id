@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurangan, pemotongan (harga dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reduksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pecahan murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan yang penyebutnya lebih besar daripada pembilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecahan%20murni",
+  "related": [],
+  "detailed": false
+}

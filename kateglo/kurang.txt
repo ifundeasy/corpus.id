@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurang",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "belum atau tidak cukup (sampai, genap, lengkap, tepat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(untuk menyatakan bilangan, ukuran, dsb yang) sedikit (satu, dua, dsb) lagi menjadi bilangan bulat;"
+      },
+      {
+        "type": "desc",
+        "text": "belum atau tidak sama dengan yang seharusnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam perbandingan menyatakan) tidak lebih dari;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berapa; sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang tidak ada (yang menyebabkan tidak lengkap, tidak genap, tidak cukup, tidak sempurna, dsb); cacat; cela;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurang",
+  "related": [],
+  "detailed": false
+}

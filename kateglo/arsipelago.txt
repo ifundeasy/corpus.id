@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arsipelago",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laut dan pulau-pulau;"
+      },
+      {
+        "type": "desc",
+        "text": "gugusan pulau; kepulauan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arsipelago",
+  "related": [],
+  "detailed": false
+}

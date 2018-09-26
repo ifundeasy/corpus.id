@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekagram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat (massa) 10 gram (disingkat dag);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekagram",
+  "related": [],
+  "detailed": false
+}

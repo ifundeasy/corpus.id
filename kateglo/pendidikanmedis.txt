@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan yang secara formal bertujuan mendidik serta mengembangkan pengetahuan yang berhubungan dengan masalah kedokteran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20medis",
+  "related": [],
+  "detailed": false
+}

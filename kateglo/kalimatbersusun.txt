@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat bersusun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat majemuk bertingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20bersusun",
+  "related": [],
+  "detailed": false
+}

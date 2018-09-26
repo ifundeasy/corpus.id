@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beton aspal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan permukaan jalan yang dibuat dari campuran kerikil berukuran tertentu dan aspal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beton%20aspal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan pemerintah yang bertugas memelihara keamanan dan ketertiban umum (menangkap orang yang melanggar undang-undang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "anggota badan pemerintah (pegawai negara yang bertugas menjaga keamanan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisi",
+  "related": [],
+  "detailed": false
+}

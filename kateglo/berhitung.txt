@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhitung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerjakan hitungan (menjumlahkan, mengurangi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berunding untuk memeriksa laba-rugi (perniagaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhitung",
+  "related": [],
+  "detailed": false
+}

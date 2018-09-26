@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "periksa; pemeriksaan yang teliti; penyelidikan;"
+      },
+      {
+        "type": "desc",
+        "text": "pertanyaan (yang bermaksud menyelidiki dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "teliti; saksama;"
+      },
+      {
+        "type": "desc",
+        "text": "kecaman; kritik; teguran; celaan;"
+      },
+      {
+        "type": "desc",
+        "text": "politik (muslihat, taktik, tindakan, kebijakan, akal) untuk mencapai suatu maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "muslihat dan cara berperang;"
+      },
+      {
+        "type": "desc",
+        "text": "cara bekerja; cara melakukan sesuatu; metode;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) siksa; aniaya; hukuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siasat",
+  "related": [],
+  "detailed": false
+}

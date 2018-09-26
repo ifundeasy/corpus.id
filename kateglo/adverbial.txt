@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adverbial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berfungsi sebagai adverbia, tetapi tidak berinfleksi seperti adverbia biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat atau berfungsi sebagai adverbia, misal frasa adverbial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adverbial",
+  "related": [],
+  "detailed": false
+}

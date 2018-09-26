@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaktur pelaksana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "redaktur yang memimpin langsung surat kabar, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur%20pelaksana",
+  "related": [],
+  "detailed": false
+}

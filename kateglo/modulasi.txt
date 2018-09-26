@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pengubahan gelombang pendukung untuk menyampaikan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "peralihan dari satu dasar nada ke dasar nada yang lain dengan melepaskan dasar nada pertama secara mutlak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modulasi",
+  "related": [],
+  "detailed": false
+}

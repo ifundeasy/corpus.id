@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psoriasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit kulit yang mengerisik, kering, mungkin di seluruh tubuh, tetapi yang terbanyak di lengan dan tungkai, terutama di siku dan lutut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psoriasis",
+  "related": [],
+  "detailed": false
+}

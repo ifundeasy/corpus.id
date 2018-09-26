@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang menguasai perusahaan- perusahaan lain, baik secara langsung maupun tidak langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20induk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "golongan darah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis darah dalam tubuh manusia yang ditentukan berdasarkan sifat-sifat khusus unsur darah itu (ada empat golongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=golongan%20darah",
+  "related": [],
+  "detailed": false
+}

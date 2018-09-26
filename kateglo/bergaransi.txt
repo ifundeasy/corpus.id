@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergaransi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berasa dalam tanggungan (penjual, agen, dsb); mempunyai garansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergaransi",
+  "related": [],
+  "detailed": false
+}

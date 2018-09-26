@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaga konsumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan yang mengadakan penelitian tentang mutu makanan, seperti jenis makanan atau bahan makanan yang bergizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga%20konsumen",
+  "related": [],
+  "detailed": false
+}

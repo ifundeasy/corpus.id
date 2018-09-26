@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan bersenjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tentara; militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20bersenjata",
+  "related": [],
+  "detailed": false
+}

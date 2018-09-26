@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sastrawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "pujangga; pengarang prosa dan puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "(orang) pandai-pandai; cerdik cendekia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sastrawan",
+  "related": [],
+  "detailed": false
+}

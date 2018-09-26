@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khatam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "cincin meterai; cincin stempel;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tamat; selesai; habis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khatam",
+  "related": [],
+  "detailed": false
+}

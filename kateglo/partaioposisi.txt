@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai oposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai politik yang tidak ikut serta dalam kabinet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20oposisi",
+  "related": [],
+  "detailed": false
+}

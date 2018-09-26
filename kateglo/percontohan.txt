@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percontohan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dijadikan contoh (seperti barang dagangan);"
+      },
+      {
+        "type": "desc",
+        "text": "benda, tempat, dsb untuk dicontoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percontohan",
+  "related": [],
+  "detailed": false
+}

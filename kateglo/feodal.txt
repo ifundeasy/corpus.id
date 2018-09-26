@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "feodal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan susunan masyarakat yang dikuasai oleh kaum bangsawan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai kaum bangsawan (tentang sikap, cara hidup, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai cara pemilikan tanah pada abad pertengahan di Eropa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=feodal",
+  "related": [],
+  "detailed": false
+}

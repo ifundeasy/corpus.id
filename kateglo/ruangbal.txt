@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang bal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) ukuran ruang muatan kapal yang diukur berdasarkan bal, dinyatakan dalam kaki kubik atau meter kubik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20bal",
+  "related": [],
+  "detailed": false
+}

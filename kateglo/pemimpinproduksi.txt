@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemimpin produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produser;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemimpin%20produksi",
+  "related": [],
+  "detailed": false
+}

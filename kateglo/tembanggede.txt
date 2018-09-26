@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembang gede",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tembang yang didasarkan pada jumlah baris, suku kata dan vokal pada akhir baris dari tembang-tembang yang berasal dari zaman permulaan Kerajaan Surakarta;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang yang didasarkan pada jumlah baris, suku kata dan vokal pada akhir baris dari tembang-tembang yang berasal dari zaman permulaan Kerajaan Surakarta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembang%20gede",
+  "related": [],
+  "detailed": false
+}

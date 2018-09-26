@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah klan;"
+      },
+      {
+        "type": "desc",
+        "text": "balok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balak",
+  "related": [],
+  "detailed": false
+}

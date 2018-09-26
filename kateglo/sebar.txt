@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sebar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bersebar"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) berasa seperti kesemutan (pada tubuh, tangan, kaki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebar",
+  "related": [],
+  "detailed": false
+}

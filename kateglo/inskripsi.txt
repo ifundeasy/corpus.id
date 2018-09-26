@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inskripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata-kata yang diukirkan pada batu monumen dsb atau dicap pada uang logam, medali, atau piala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inskripsi",
+  "related": [],
+  "detailed": false
+}

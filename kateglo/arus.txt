@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak air yang mengalir; aliran;"
+      },
+      {
+        "type": "desc",
+        "text": "gerak (aliran) sesuatu seperti air mengalir;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gerakan atau aliran udara (listrik) yang melalui suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "peredaran (barang, uang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus",
+  "related": [],
+  "detailed": false
+}

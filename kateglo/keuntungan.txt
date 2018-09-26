@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keuntungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal mendapat untung (laba);"
+      },
+      {
+        "type": "desc",
+        "text": "untung; laba;"
+      },
+      {
+        "type": "desc",
+        "text": "kemujuran; kebahagiaan;"
+      },
+      {
+        "type": "desc",
+        "text": "manfaat; faedah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keuntungan",
+  "related": [],
+  "detailed": false
+}

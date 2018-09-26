@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinjaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipinjam atau dipinjamkan (barang, uang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjaman",
+  "related": [],
+  "detailed": false
+}

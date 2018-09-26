@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ratifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengesahan suatu dokumen negara oleh parlemen, khususnya pengesahan undang-undang, perjanjian antarnegara, dan persetujuan hukum internasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ratifikasi",
+  "related": [],
+  "detailed": false
+}

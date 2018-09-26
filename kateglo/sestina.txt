@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sestina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang terdiri atas 6 bait yang masing-masing terdiri atas 6 larik, sedangkan envoinya terdiri atas 3 larik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sestina",
+  "related": [],
+  "detailed": false
+}

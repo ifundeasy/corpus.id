@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "badung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, kadang-kadang ada yang sangat besar;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nakal; bandel;"
+      },
+      {
+        "type": "desc",
+        "text": "pelat perak (emas) penutup payudara atau kemaluan perempuan;"
+      },
+      {
+        "type": "desc",
+        "text": "baju besi pelindung dada;"
+      },
+      {
+        "type": "desc",
+        "text": "benda antik peninggalan zaman kerajaan Majapahit yang berbentuk segitiga dan terbuat dari emas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) perlengkapan wayang, berfungsi sebagai sayap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badung",
+  "related": [],
+  "detailed": false
+}

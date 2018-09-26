@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memegang uang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengurus keuangan perkumpulan (perusahaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berkuasa karena mempunyai banyak uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memegang%20uang",
+  "related": [],
+  "detailed": false
+}

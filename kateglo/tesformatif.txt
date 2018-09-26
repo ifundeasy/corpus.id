@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes formatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) tes yang diberikan kepada murid setelah selesai jam pelajaran untuk mengetahui TIK (tujuan instruksional khusus) sudah tercapai atau belum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20formatif",
+  "related": [],
+  "detailed": false
+}

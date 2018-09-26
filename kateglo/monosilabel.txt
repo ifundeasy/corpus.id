@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monosilabel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang terdiri atas satu suku kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monosilabel",
+  "related": [],
+  "detailed": false
+}

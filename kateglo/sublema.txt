@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sublema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masukan kamus berikut keterangannya yang merupakan bagian yang diturunkan dari lema; subentri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sublema",
+  "related": [],
+  "detailed": false
+}

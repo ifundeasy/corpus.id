@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuju",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menuju"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dilepaskan dengan sihir (jampi, mantra, dsb) untuk membuat orang sakit atau mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuju",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air adsorpsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air yang terikat pada permukaan partikel padat oleh gaya molekul dengan emisi panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20adsorpsi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poliploid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme yang mempunyai lebih dari dua pasang (perangkat) dasar kromosom, yaitu monoploid, triploid, tetraploid, dan macam-macam aneuploid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poliploid",
+  "related": [],
+  "detailed": false
+}

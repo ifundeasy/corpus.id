@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "julat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) seberapa jauhnya (panjangnya, lamanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=julat",
+  "related": [],
+  "detailed": false
+}

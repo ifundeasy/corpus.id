@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka biasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka dengan tanda 0 (nol) sampai 9 yang digunakan untuk menyatakan suatu bilangan; angka Arab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20biasa",
+  "related": [],
+  "detailed": false
+}

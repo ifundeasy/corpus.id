@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda; alamat;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian pada saat bertunangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanda",
+  "related": [],
+  "detailed": false
+}

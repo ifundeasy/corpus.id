@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "encik;"
+      },
+      {
+        "type": "desc",
+        "text": "kecik (berarti kecil, muda);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tahi; cirit;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) rapi, bagus, dan menarik;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "jumlah besar bubuk morfin sebanyak 300 cekak;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi untuk mengusir anjing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cik",
+  "related": [],
+  "detailed": false
+}

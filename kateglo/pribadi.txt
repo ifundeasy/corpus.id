@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manusia sebagai perseorangan (diri manusia atau diri sendiri);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan manusia sebagai perseorangan; keseluruhan sifat-sifat yang merupakan watak orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pribadi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "media",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (sarana) komunikasi seperti koran, majalah, radio, televisi, film, poster, dan spanduk;"
+      },
+      {
+        "type": "desc",
+        "text": "yang terletak di antara dua pihak (orang, golongan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perantara; penghubung;"
+      },
+      {
+        "type": "desc",
+        "text": "zat hara yang mengandung protein, karbohidrat, garam, air, dsb baik berupa cairan maupun yang dipadatkan dengan menambah gelatin untuk menumbuhkan bakteri, sel, atau jaringan tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=media",
+  "related": [],
+  "detailed": false
+}

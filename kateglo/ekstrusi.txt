@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstrusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "hal keluarnya magma atau lava ke permukaan bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuatan makanan ikan yang diolah pada temperatur bertekanan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian bentuk pada logam dengan menekan agar logam mengalir dengan cepat melalui lubang dengan bentuk profil yang diinginkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstrusi",
+  "related": [],
+  "detailed": false
+}

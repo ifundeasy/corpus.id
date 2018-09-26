@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kritik teks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kritik naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kritik%20teks",
+  "related": [],
+  "detailed": false
+}

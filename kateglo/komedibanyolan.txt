@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "komedi banyolan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komedi khusus untuk membuat penonton tertawa (tanpa berisi pesan apa-apa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komedi%20banyolan",
+  "related": [],
+  "detailed": false
+}

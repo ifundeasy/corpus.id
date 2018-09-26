@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kasus nominatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kasus yang menandai nomina atau sejenisnya sebagai subjek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasus%20nominatif",
+  "related": [],
+  "detailed": false
+}

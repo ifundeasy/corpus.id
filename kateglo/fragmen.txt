@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fragmen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cuplikan atau petikan (sebuah cerita, lakon, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian atau pecahan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fragmen",
+  "related": [],
+  "detailed": false
+}

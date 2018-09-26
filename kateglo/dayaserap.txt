@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya serap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan menyerap (mengisap) benda cair;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan suatu kegiatan menyerap dana (anggaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20serap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keramaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal ramai; keadaan ramai;"
+      },
+      {
+        "type": "desc",
+        "text": "tontonan (perayaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keramaian",
+  "related": [],
+  "detailed": false
+}

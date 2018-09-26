@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sesukat",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu sukat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesukat",
+  "related": [],
+  "detailed": false
+}

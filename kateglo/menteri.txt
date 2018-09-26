@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala suatu departemen (anggota kabinet), merupakan pembantu kepala negara dalam melaksanakan urusan (pekerjaan) negara;"
+      },
+      {
+        "type": "desc",
+        "text": "gajah (dalam permainan catur);"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai tinggi (sebagai penasihat raja dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menteri",
+  "related": [],
+  "detailed": false
+}

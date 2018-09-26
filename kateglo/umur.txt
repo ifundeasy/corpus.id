@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lama waktu hidup atau ada (sejak dilahirkan atau diadakan); usia;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hidup; nyawa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur",
+  "related": [],
+  "detailed": false
+}

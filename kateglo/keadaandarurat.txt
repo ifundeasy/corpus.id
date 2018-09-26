@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keadaan darurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat keamanan yang paling buruk sehingga diperlukan pengumuman tentang ketentuan khusus yang mengatur tata kehidupan warga, seperti dalam masa perang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keadaan%20darurat",
+  "related": [],
+  "detailed": false
+}

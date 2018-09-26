@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sesal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perasaan tidak senang (susah, kecewa, dsb) karena telah berbuat kurang baik (dosa, kesalahan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesal",
+  "related": [],
+  "detailed": false
+}

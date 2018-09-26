@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lingkup",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melingkup"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) habis pergi (datang dsb) semuanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lingkup",
+  "related": [],
+  "detailed": false
+}

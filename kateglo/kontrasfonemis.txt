@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontras fonemis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) perbedaan antara bunyi-bunyi yang cukup untuk memungkinkannya membedakan kata, misal /b/ dan /p/ dalam bahasa Indonesia memperlihatkan kontras sehingga bahasawan dapat membedakan 'bak' dan 'pak';"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontras%20fonemis",
+  "related": [],
+  "detailed": false
+}

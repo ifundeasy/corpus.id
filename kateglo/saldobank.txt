@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saldo bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saldo rekening giro di bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saldo%20bank",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melangkah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengayunkan (menggerakkan) kaki (pada waktu berjalan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berangkat; berjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "melalui; mengarungi;"
+      },
+      {
+        "type": "desc",
+        "text": "bertindak; bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melangkah",
+  "related": [],
+  "detailed": false
+}

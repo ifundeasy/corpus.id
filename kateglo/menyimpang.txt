@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyimpang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membelok menempuh jalan yang lain atau jalan simpangan;"
+      },
+      {
+        "type": "desc",
+        "text": "membelok supaya jangan melanggar atau terlanggar (oleh kendaraan dsb); menghindar;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menurut apa yang sudah ditentukan; tidak sesuai dengan rencana dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menyalahi (kebiasaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyeleweng (dari hukum, kebenaran, agama, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyimpang",
+  "related": [],
+  "detailed": false
+}

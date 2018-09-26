@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "apa kabar",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "ada kabar bagaimana lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "bagaimana keadaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apa%20kabar",
+  "related": [],
+  "detailed": false
+}

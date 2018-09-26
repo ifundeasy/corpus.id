@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "legenda hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tokoh cerita yang masih hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legenda%20hidup",
+  "related": [],
+  "detailed": false
+}

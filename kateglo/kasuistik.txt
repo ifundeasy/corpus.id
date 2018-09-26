@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasuistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "perekaman dan penelitian sebab-sebab (kasus-kasus) penyakit;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian dengan kasus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasuistik",
+  "related": [],
+  "detailed": false
+}

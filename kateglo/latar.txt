@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman;"
+      },
+      {
+        "type": "desc",
+        "text": "rata; datar;"
+      },
+      {
+        "type": "desc",
+        "text": "dasar warna (pada kain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) keterangan mengenai waktu, ruang, dan suasana terjadinya lakuan dalam karya sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan atau situasi (yang menyertai ujaran atau percakapan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) dekor pemandangan yang dipakai dalam pementasan drama, seperti pengaturan tempat kejadian, perlengkapan, dan pencahayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latar",
+  "related": [],
+  "detailed": false
+}

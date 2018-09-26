@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerja lembur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan tambahan yang dilakukan di luar jam kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerja%20lembur",
+  "related": [],
+  "detailed": false
+}

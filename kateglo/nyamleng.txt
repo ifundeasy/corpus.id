@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyamleng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "menyenangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "enak; lezat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyamleng",
+  "related": [],
+  "detailed": false
+}

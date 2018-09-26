@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tesaurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku referensi berupa daftar kata dengan sinonimnya;"
+      },
+      {
+        "type": "desc",
+        "text": "buku referensi berupa informasi tentang berbagai perangkat konsep atau istilah dalam pelbagai bidang kehidupan atau pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tesaurus",
+  "related": [],
+  "detailed": false
+}

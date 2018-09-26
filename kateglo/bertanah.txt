@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai tanah; ada tanahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "berurat berakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanah",
+  "related": [],
+  "detailed": false
+}

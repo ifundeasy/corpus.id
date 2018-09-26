@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran ganti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran berikutnya setelah sasaran permulaan berhasil dihancurkan atau ternyata tidak mungkin untuk ditembaki secara efektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20ganti",
+  "related": [],
+  "detailed": false
+}

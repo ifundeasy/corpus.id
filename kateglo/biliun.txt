@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biliun",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan yang dilambangkan dengan dua belas nol (000.000.000.000) di belakang angka 1—999 (di Inggris dan Jerman);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan bilangan yang dilambangkan dengan sembilan nol (000.000.000) di belakang angka 1—999 (di Amerika Serikat dan Prancis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biliun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang pemamah biak, bertanduk, berkuku genap, berkaki empat, bertubuh besar, dipiara untuk diambil daging dan susunya; lembu;"
+      },
+      {
+        "type": "link",
+        "text": "pohon"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapi",
+  "related": [],
+  "detailed": false
+}

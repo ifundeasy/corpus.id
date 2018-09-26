@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelab",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kelab malam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelab",
+  "related": [],
+  "detailed": false
+}

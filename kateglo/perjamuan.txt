@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjamuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan makan minum; pesta; resepsi (perkawinan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jamuan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal berjamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjamuan",
+  "related": [],
+  "detailed": false
+}

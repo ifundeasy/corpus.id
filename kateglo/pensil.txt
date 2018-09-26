@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pensil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat tulis berupa kayu kecil bulat berisi arang keras;"
+      },
+      {
+        "type": "desc",
+        "text": "alat menggambar berupa ikatan bulu (rambut) diberi bertangkai; kuas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piranometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur radiasi matahari dengan menggunakan tutup tertentu; solarimeter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piranometer",
+  "related": [],
+  "detailed": false
+}

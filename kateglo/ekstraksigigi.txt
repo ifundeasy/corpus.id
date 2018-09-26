@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekstraksi gigi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencabutan gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstraksi%20gigi",
+  "related": [],
+  "detailed": false
+}

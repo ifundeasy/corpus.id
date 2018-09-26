@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taksir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kira-kira; hitungan (kasar);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mengindahkan; lalai; alpa;"
+      },
+      {
+        "type": "desc",
+        "text": "kelalaian; kealpaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksir",
+  "related": [],
+  "detailed": false
+}

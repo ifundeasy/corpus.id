@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "molotov",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "bom"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=molotov",
+  "related": [],
+  "detailed": false
+}

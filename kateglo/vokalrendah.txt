@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal rendah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang diucapkan dengan lidah dalam posisi serendah-rendahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20rendah",
+  "related": [],
+  "detailed": false
+}

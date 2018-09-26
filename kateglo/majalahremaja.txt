@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah remaja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang khusus mengenai masalah remaja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20remaja",
+  "related": [],
+  "detailed": false
+}

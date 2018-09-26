@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pandai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cepat menangkap pelajaran dan mengerti sesuatu; pintar; cerdas;"
+      },
+      {
+        "type": "desc",
+        "text": "mahir; cakap; terampil;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat; sanggup;"
+      },
+      {
+        "type": "desc",
+        "text": "berilmu;"
+      },
+      {
+        "type": "desc",
+        "text": "tukang tempa;"
+      },
+      {
+        "type": "desc",
+        "text": "juru (tukang) ramu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandai",
+  "related": [],
+  "detailed": false
+}

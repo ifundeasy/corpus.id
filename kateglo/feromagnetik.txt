@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "feromagnetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "medan magnet yang disebabkan oleh adanya besi bermagnet yang tidak bersangkut paut dengan arus listrik;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan medan magnet yang disebabkan oleh adanya besi bermagnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=feromagnetik",
+  "related": [],
+  "detailed": false
+}

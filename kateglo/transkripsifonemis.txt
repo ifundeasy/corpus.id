@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "transkripsi fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) transkripsi yang menggunakan satu lambang untuk menggambarkan satu fonem tanpa melihat perbedaan fonetisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transkripsi%20fonemis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekonomi lemah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha (dagang) dengan modal kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berpenghasilan rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonomi%20lemah",
+  "related": [],
+  "detailed": false
+}

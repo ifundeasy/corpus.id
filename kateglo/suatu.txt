@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suatu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu; hanya satu (untuk menyatakan benda yang kurang tentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suatu",
+  "related": [],
+  "detailed": false
+}

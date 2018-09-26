@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liabilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liabilitas",
+  "related": [],
+  "detailed": false
+}

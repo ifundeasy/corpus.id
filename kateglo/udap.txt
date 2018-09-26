@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "udap",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "udap-udapan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udap",
+  "related": [],
+  "detailed": false
+}

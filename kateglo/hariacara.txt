@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) hari pemeriksaan perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20acara",
+  "related": [],
+  "detailed": false
+}

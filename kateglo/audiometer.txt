@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur ketajaman pendengaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiometer",
+  "related": [],
+  "detailed": false
+}

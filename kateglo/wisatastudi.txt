@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata studi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan perjalanan wisata sambil belajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20studi",
+  "related": [],
+  "detailed": false
+}

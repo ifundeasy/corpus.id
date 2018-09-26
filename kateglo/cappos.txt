@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cap pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stempel pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cap%20pos",
+  "related": [],
+  "detailed": false
+}

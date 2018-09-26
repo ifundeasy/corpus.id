@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "keris panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "bakul yang tergantung (untuk tempat makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran dari rotan dsb yang diberi tali gantungan (untuk menempatkan bakul dsb atau untuk tempat memikulnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salang",
+  "related": [],
+  "detailed": false
+}

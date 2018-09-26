@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksponen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "angka dsb yang ditulis di sebelah kanan atas angka lain yang menunjukkan pangkat dari angka tersebut, seperti angka 2 pada 2;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menerangkan atau menafsirkan suatu teori, yang dapat mewakili dan menjadi contoh dari teori tersebut atau orang yang menganut teori tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "orang terkemuka dalam suatu gerakan atau bidang kehidupan; tokoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksponen",
+  "related": [],
+  "detailed": false
+}

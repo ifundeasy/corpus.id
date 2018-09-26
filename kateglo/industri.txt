@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "industri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan memproses atau mengolah barang dengan menggunakan sarana dan peralatan, misal mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri",
+  "related": [],
+  "detailed": false
+}

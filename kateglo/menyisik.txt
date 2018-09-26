@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyisik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuang sisiknya (tentang ikan sebelum dimasak);"
+      },
+      {
+        "type": "desc",
+        "text": "meraut (bambu, pensil, lidi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membersihkan pohon atau batang dari duri-durinya;"
+      },
+      {
+        "type": "desc",
+        "text": "memeriksa baik buruknya ayam sabung dengan menilik sisik pada kaki ayam itu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) menangkap ikan dengan menyebarkan sisik ikan ke aliran air selokan dan menunggu ikan dengan tangguk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyisik",
+  "related": [],
+  "detailed": false
+}

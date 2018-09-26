@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang antik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang kuno yang bernilai hasil karya, atau benda budaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20antik",
+  "related": [],
+  "detailed": false
+}

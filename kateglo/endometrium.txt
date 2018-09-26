@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endometrium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) selaput lendir rahim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endometrium",
+  "related": [],
+  "detailed": false
+}

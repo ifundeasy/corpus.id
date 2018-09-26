@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rontgen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat potret yang menggunakan sinar X dapat menembus bagian-bagian dalam tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) n potret (memotretkan diri) pada alat (pesawat) elektronik yang dilengkapi dengan sinar X;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rontgen",
+  "related": [],
+  "detailed": false
+}

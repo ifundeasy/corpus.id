@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "hutan;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangan",
+  "related": [],
+  "detailed": false
+}

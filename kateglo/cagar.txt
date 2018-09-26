@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cagar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dipakai sebagai tanggungan utang; barang yang digadaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "panjar; uang muka;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah perlindungan untuk melestarikan tumbuh-tumbuhan, binatang, dsb; lindungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cagar",
+  "related": [],
+  "detailed": false
+}

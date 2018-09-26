@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "roman sejarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita roman yang disusun berdasarkan peristiwa sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roman%20sejarah",
+  "related": [],
+  "detailed": false
+}

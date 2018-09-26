@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "olahraga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak badan untuk menguatkan dan menyehatkan tubuh (seperti sepak bola, berenang, lempar lembing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=olahraga",
+  "related": [],
+  "detailed": false
+}

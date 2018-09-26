@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamat",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ikamah"
+      },
+      {
+        "type": "desc",
+        "text": "kayu yang biasa digunakan untuk membuat cap (tera);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamat",
+  "related": [],
+  "detailed": false
+}

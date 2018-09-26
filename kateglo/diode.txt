@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) alat yang terdiri atas dua elemen dan digunakan sebagai pengarah arus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diode",
+  "related": [],
+  "detailed": false
+}

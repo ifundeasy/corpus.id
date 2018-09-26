@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Asyura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "Muharam;"
+      },
+      {
+        "type": "desc",
+        "text": "perayaan tanggal 10 Muharam (hari raya Hasan dan Husen);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Asyura",
+  "related": [],
+  "detailed": false
+}

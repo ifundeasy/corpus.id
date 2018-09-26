@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekor dunia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekor yang berlaku untuk peringkat dunia; hasil terbaik (tertinggi) yang pernah dicapai orang di seluruh dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekor%20dunia",
+  "related": [],
+  "detailed": false
+}

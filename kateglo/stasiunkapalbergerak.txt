@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun kapal bergerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun pengamatan meteorologi pada kapal laut yang berlayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20kapal%20bergerak",
+  "related": [],
+  "detailed": false
+}

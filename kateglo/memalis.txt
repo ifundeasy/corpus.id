@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memalis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memandang arah lain (kiri, kanan, dsb) karena malu, berkecil hati, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menggosok licin-licin;"
+      },
+      {
+        "type": "desc",
+        "text": "menyapukan (cat, cat bibir, dsb) pada;"
+      },
+      {
+        "type": "desc",
+        "text": "mencolek (dengan ujung jari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memalis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur degradatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur metabolisme yang cenderung ke arah degradasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20degradatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemakan daging",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hewan yang pakannya daging, termasuk di dalamnya hewan predator (hewan pemakan hewan lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemakan%20daging",
+  "related": [],
+  "detailed": false
+}

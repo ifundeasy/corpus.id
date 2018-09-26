@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kabar sensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar, biasanya berukuran tabloid, yang memuat berita sensasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kabar%20sensasi",
+  "related": [],
+  "detailed": false
+}

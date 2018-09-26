@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai semantis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kemampuan unsur bahasa untuk membedakan makna leksikal, misal fonem /r/ dan /l/ membedakan kata rata dan lata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20semantis",
+  "related": [],
+  "detailed": false
+}

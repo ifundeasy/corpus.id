@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memugar hutan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan hutan kembali (dengan menanami kembali dengan tanaman baru);"
+      },
+      {
+        "type": "desc",
+        "text": "membuka hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memugar%20hutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe unggul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ternak hasil seleksi yang kemampuan produksinya tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20unggul",
+  "related": [],
+  "detailed": false
+}

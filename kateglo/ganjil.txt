@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ganjil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gasal; tidak genap;"
+      },
+      {
+        "type": "desc",
+        "text": "lain daripada yang lain; tidak sebagaimana biasa; aneh; ajaib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ganjil",
+  "related": [],
+  "detailed": false
+}

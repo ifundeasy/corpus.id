@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "midi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ukuran) sedang (tidak panjang dan tidak pendek); di antara maksi dan mini;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian atau gaun yang panjangnya sampai di tengah-tengah betis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=midi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sindeton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "konstruksi yang bagian-bagiannya dihubungkan dengan konjungsi, misal karena saya melihat, saya senang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sindeton",
+  "related": [],
+  "detailed": false
+}

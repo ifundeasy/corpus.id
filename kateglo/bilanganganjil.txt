@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan ganjil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan gasal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20ganjil",
+  "related": [],
+  "detailed": false
+}

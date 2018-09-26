@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis kerang laut yang melubangi kayu atau papan yang terbenam di dalam air sehingga dapat merusak kulit kapal kayu atau perahu; Toredo navalis;"
+      },
+      {
+        "type": "link",
+        "text": "berkapang"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "kapangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapang",
+  "related": [],
+  "detailed": false
+}

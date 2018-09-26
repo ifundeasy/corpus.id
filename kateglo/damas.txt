@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "damas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "habis uang karena boros;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain sutra, linen, atau bulu yang berbunga-bunga dan berwarna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=damas",
+  "related": [],
+  "detailed": false
+}

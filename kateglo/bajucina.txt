@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju cina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju model Cina, kerahnya bulat tertutup, model seperti baju piyama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20cina",
+  "related": [],
+  "detailed": false
+}

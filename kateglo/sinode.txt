@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat (sidang) pemimpin agama Kristen;"
+      },
+      {
+        "type": "desc",
+        "text": "badan pengurus tertinggi di gereja Protestan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinode",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkotaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah (kawasan) kota;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pemukiman yang terdiri atas tempat tinggal dan tempat kerja pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkotaan",
+  "related": [],
+  "detailed": false
+}

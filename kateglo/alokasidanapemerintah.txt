@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alokasi dana pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian biaya pembangunan yang dilakukan pemerintah berdasarkan prinsip \"prioritas\" bagi bidang pembangunan yang telah ditetapkan pemerintah dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alokasi%20dana%20pemerintah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rancangan usulan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) ungkapan yang dapat dipercaya, disangsikan, disangkal, atau dibuktikan benar-tidaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proposisi",
+  "related": [],
+  "detailed": false
+}

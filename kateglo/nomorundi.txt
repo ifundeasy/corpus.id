@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor undi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor urutan berdasarkan hasil berundi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20undi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tauliah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "pelantikan atau pengangkatan menjadi wakil, wali, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pengangkatan atau pelantikan;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kepercayaan yang diserahkan oleh duta besar kepada kepala negara;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kuasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tauliah",
+  "related": [],
+  "detailed": false
+}

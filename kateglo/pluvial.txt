@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pluvial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "curah hujan tinggi yang menandai bagian kala pleistosen;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa hujan yang panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pluvial",
+  "related": [],
+  "detailed": false
+}

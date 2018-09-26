@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat dahaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) penghilang rasa dahaga (haus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20dahaga",
+  "related": [],
+  "detailed": false
+}

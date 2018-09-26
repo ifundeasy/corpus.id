@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang milik sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "barang bawaan wisatawan dsb yang biasanya tidak dikenakan ketentuan pelarangan oleh suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20pribadi",
+  "related": [],
+  "detailed": false
+}

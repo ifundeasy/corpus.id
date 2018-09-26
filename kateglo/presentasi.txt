@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "presentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian (tentang hadiah);"
+      },
+      {
+        "type": "desc",
+        "text": "pengucapan pidato (pada penerimaan suatu jabatan);"
+      },
+      {
+        "type": "desc",
+        "text": "perkenalan (tentang seseorang kepada seseorang, biasanya kedudukannya lebih tinggi);"
+      },
+      {
+        "type": "desc",
+        "text": "penyajian atau pertunjukan (tentang sandiwara, film, dsb) kepada orang-orang yang diundang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=presentasi",
+  "related": [],
+  "detailed": false
+}

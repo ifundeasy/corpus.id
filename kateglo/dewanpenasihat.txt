@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dewan penasihat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang bertugas memberikan nasihat dan saran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan%20penasihat",
+  "related": [],
+  "detailed": false
+}

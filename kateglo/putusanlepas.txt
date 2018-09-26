@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putusan lepas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) putusan berupa tidak dipidananya terdakwa karena perbuatan yang didakwakan tidak merupakan tindak pidana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putusan%20lepas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "erosi tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusakan dan pemindahan tanah sebagian atau seluruhnya, terutama di daerah yang banyak turun hujan dan banyak musim kering;"
+      },
+      {
+        "type": "desc",
+        "text": "proses perpindahan atau pergerakan tanah dari permukaan bumi karena angin atau aliran air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erosi%20tanah",
+  "related": [],
+  "detailed": false
+}

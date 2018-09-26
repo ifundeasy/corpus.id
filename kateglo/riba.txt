@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "riba",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meriba"
+      },
+      {
+        "type": "desc",
+        "text": "pelepas uang; lintah darat;"
+      },
+      {
+        "type": "desc",
+        "text": "bunga uang; rente;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=riba",
+  "related": [],
+  "detailed": false
+}

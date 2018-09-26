@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tarang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menarang"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "petarangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarang",
+  "related": [],
+  "detailed": false
+}

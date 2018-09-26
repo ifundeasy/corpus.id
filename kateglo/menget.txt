@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menget",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "senget"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menget",
+  "related": [],
+  "detailed": false
+}

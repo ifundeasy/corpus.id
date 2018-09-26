@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "harga wajar suatu harta akan laku dijual di pasar bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "harga atau penilaian harian terhadap saham di pasar modal untuk melakukan transaksi pembelian dan penjualan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20pasar",
+  "related": [],
+  "detailed": false
+}

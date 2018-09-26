@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengetip",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyentuh bola dengan jari tangan (agar tidak masuk gol);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengetip",
+  "related": [],
+  "detailed": false
+}

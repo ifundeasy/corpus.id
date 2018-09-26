@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan mata uang senilai 1/100 rupiah;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan uang senilai 1/100 dari nilai satuannya, seperti dolar Amerika, dolar Australia, ringgit Malaysia;"
+      },
+      {
+        "type": "link",
+        "text": "sein"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sen",
+  "related": [],
+  "detailed": false
+}

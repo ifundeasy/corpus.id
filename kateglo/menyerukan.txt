@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyerukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengucapkan sesuatu (kata-kata) dengan nyaring; meneriakkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memberitahukan (mengabarkan, mengumumkan, dsb) dengan suara nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "menganjurkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyerukan",
+  "related": [],
+  "detailed": false
+}

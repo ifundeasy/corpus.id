@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kualitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat baik buruknya sesuatu; kadar;"
+      },
+      {
+        "type": "desc",
+        "text": "derajat atau taraf (kepandaian, kecakapan, dsb); mutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kualitas",
+  "related": [],
+  "detailed": false
+}

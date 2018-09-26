@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem suprasegmental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang terjadi dari fonem suprasegmental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20suprasegmental",
+  "related": [],
+  "detailed": false
+}

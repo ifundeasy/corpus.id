@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "proyeksi penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) perhitungan matematis jumlah penduduk masa yang akan datang berdasarkan jumlah penduduk sekarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proyeksi%20penduduk",
+  "related": [],
+  "detailed": false
+}

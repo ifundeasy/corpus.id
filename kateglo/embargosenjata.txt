@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "embargo senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "embargo terhadap pengiriman senjata pada waktu perang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embargo%20senjata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "melodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) susunan rangkaian tiga nada atau lebih dalam musik yang terdengar berurutan secara logis serta berirama dan mengungkapkan suatu gagasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melodi",
+  "related": [],
+  "detailed": false
+}

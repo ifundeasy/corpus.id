@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pisau besar (lebih besar daripada pisau biasa, tetapi lebih pendek daripada pedang); ada bermacam-macam; golok;"
+      },
+      {
+        "type": "link",
+        "text": "parangan"
+      },
+      {
+        "type": "desc",
+        "text": "corak batik klasik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parang",
+  "related": [],
+  "detailed": false
+}

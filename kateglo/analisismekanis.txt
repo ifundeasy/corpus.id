@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis mekanis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) penguraian tanah menjadi kelompok partikel dari berbagai ukuran dengan bantuan alat-alat mekanis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20mekanis",
+  "related": [],
+  "detailed": false
+}

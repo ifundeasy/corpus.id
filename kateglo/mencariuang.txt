@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari uang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berusaha mendapatkan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari%20uang",
+  "related": [],
+  "detailed": false
+}

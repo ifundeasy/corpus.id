@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rungguh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang dsb yang diserahkan untuk tanggungan uang yang dipinjam; jaminan (biasanya dengan batas waktu, kalau utang tidak dibayar, lalu jadi gadai); cagaran;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merungguh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rungguh",
+  "related": [],
+  "detailed": false
+}

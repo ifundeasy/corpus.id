@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seruling; bangsi;"
+      },
+      {
+        "type": "desc",
+        "text": "peluit (kapal, kereta api, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyuling"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) dalam keadaan kepala di bawah dan kaki di atas (tentang sikap badan); jungkir; tunggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suling",
+  "related": [],
+  "detailed": false
+}

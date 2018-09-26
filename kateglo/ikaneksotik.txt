@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikan eksotik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang berasal dari daerah lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikan%20eksotik",
+  "related": [],
+  "detailed": false
+}

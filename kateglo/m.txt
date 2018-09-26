@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "M",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-13 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "(ditulis dengan huruf kapital) lambang bilangan 1.000 angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ditulis dengan huruf kapital bergaris atas) lambang bilangan 1.000.000 angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) Masehi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=M",
+  "related": [],
+  "detailed": false
+}

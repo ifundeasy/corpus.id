@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru ulas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengulas soal-soal politik dsb dalam surat kabar; komentator;"
+      },
+      {
+        "type": "desc",
+        "text": "penulis atau penyiar (radio, televisi) yang memberikan ulasan tentang suatu peristiwa berdasarkan pandangan dan pendapatnya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20ulas",
+  "related": [],
+  "detailed": false
+}

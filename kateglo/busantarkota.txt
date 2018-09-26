@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus antarkota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang melayani angkutan penumpang antara kota yang satu dan kota yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20antarkota",
+  "related": [],
+  "detailed": false
+}

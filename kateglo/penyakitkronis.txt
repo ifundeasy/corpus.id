@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit kronis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang timbul atau berkembang dalam jangka waktu lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20kronis",
+  "related": [],
+  "detailed": false
+}

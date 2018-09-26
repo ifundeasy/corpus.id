@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manostat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengontrol tekanan secara otomatis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manostat",
+  "related": [],
+  "detailed": false
+}

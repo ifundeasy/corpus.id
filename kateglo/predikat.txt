@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "predikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian kalimat yang menandai apa yang dikatakan oleh pembicara tentang subjek; sebutan (dalam kalimat);"
+      },
+      {
+        "type": "desc",
+        "text": "nama, gelar kehormatan, dsb (yang dikenakan pada);"
+      },
+      {
+        "type": "desc",
+        "text": "jenjang penilaian (dalam ujian dsb) yang dinyatakan secara kualitatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=predikat",
+  "related": [],
+  "detailed": false
+}

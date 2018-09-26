@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melanggar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menubruk; menabrak; menumbuk;"
+      },
+      {
+        "type": "desc",
+        "text": "menyalahi; melawan;"
+      },
+      {
+        "type": "desc",
+        "text": "melewati; melalui (secara tidak sah);"
+      },
+      {
+        "type": "desc",
+        "text": "menyerang; melanda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melanggar",
+  "related": [],
+  "detailed": false
+}

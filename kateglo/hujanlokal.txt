@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hujan yang jatuh di daerah tertentu, tidak merata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20lokal",
+  "related": [],
+  "detailed": false
+}

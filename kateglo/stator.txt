@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "rakitan bilah yang tidak bergerak dalam turbin;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang tidak bergerak dalam motor listrik atau generator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendukung hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "subjek hukum (orang yang sedang dalam beperkara seperti tertuduh dalam pengadilan pidana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendukung%20hukum",
+  "related": [],
+  "detailed": false
+}

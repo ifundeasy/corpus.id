@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pensponsoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) proses, cara, perbuatan mensponsori;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensponsoran",
+  "related": [],
+  "detailed": false
+}

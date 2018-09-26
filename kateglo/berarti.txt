@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berarti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengandung maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "berfaedah; berguna;"
+      },
+      {
+        "type": "desc",
+        "text": "sama artinya dengan; sama halnya dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berarti",
+  "related": [],
+  "detailed": false
+}

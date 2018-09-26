@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mamang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabur matanya (karena hendak pingsan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bingung; ketakutan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan terna suku Capparidaceae, daunnya dibuat asinan dan sebagai pewangi nasi, air remasan daun dipakai untuk obat masuk angin; Cleome gynandra;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) peribahasa yang mengandung nasihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamang",
+  "related": [],
+  "detailed": false
+}

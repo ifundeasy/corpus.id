@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat melihat sesuatu dengan jelas (tentang mata);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang terang (tentang pemandangan); kurang nyata (tentang lukisan); kurang jernih (tentang kaca); kurang jelas (tentang pertanyaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Met) yang tampak berkabut akibat adanya partikel yang sangat kecil dan kering yang cukup banyak terdapat di dalamnya (tentang atmosfer);"
+      },
+      {
+        "type": "desc",
+        "text": "berlari cepat-cepat; melarikan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) meninggalkan tugas (pekerjaan, keluarga, dsb) tanpa pamit; menghilang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumbang kelapa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabur",
+  "related": [],
+  "detailed": false
+}

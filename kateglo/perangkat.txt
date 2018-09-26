@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat-alat perlengkapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkat",
+  "related": [],
+  "detailed": false
+}

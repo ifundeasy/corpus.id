@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksogen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "berasal dari atau disebabkan oleh faktor-faktor luar suatu organisme;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat-zat yang ada di bagian luar tubuh, tetapi sangat mempengaruhi organisme dari tubuh itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksogen",
+  "related": [],
+  "detailed": false
+}

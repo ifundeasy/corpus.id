@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artefak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ark)"
+      },
+      {
+        "type": "desc",
+        "text": "benda-benda, seperti alat, perhiasan yang menunjukkan kecakapan kerja manusia (terutama pada zaman dahulu) yang ditemukan melalui penggalian arkeologi;"
+      },
+      {
+        "type": "desc",
+        "text": "benda (barang-barang) hasil kecerdasan manusia, seperti perkakas, senjata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artefak",
+  "related": [],
+  "detailed": false
+}

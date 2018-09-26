@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menginjeksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan obat dsb dengan jarum (sem-prot); memberi injeksi; menyuntik;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menambah (dana, modal, bantuan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menginjeksi",
+  "related": [],
+  "detailed": false
+}

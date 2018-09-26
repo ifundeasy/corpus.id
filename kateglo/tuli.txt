@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuli",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat mendengar (karena rusak pendengarannya); pekak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tuli-tuli"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuli",
+  "related": [],
+  "detailed": false
+}

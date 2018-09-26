@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terulur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(sudah) diulur(kan); dapat diulur(kan);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan menjulur (memanjang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terulur",
+  "related": [],
+  "detailed": false
+}

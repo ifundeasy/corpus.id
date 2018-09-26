@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersiasat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan siasat (penyelidikan, pemeriksaan);"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan siasat (dengan bijaksana, muslihat, taktik); bertindak atau bekerja dengan cara baik;"
+      },
+      {
+        "type": "desc",
+        "text": "bertanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersiasat",
+  "related": [],
+  "detailed": false
+}

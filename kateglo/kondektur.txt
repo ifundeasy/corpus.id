@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kondektur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memeriksa karcis atau menarik ongkos dsb (di kereta api, bus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondektur",
+  "related": [],
+  "detailed": false
+}

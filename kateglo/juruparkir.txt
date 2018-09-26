@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru parkir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya mengatur mobil yang parkir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20parkir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkantoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berkaitan dengan kantor;"
+      },
+      {
+        "type": "desc",
+        "text": "kompleks atau tempat berkantor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkantoran",
+  "related": [],
+  "detailed": false
+}

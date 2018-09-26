@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpatisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bersimpati (kepada partai politik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpatisan",
+  "related": [],
+  "detailed": false
+}

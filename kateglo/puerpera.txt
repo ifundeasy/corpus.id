@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puerpera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) periode antara kelahiran bayi dan kembalinya rahim ke ukuran normal (biasanya selama 42 hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puerpera",
+  "related": [],
+  "detailed": false
+}

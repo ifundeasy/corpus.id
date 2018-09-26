@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebekuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal beku;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan atau sifat beku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebekuan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengkung buka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) lengkung berkesinambungan, titik ujungnya tidak bertemu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkung%20buka",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrohm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) satuan resistans listrik yang sama dengan sepersejuta ohm;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrohm",
+  "related": [],
+  "detailed": false
+}

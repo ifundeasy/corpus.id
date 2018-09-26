@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "miap",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "tiap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=miap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peubah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat)"
+      },
+      {
+        "type": "desc",
+        "text": "simbol yang digunakan untuk menyatakan unsur yang tidak tentu dalam suatu himpunan;"
+      },
+      {
+        "type": "desc",
+        "text": "besaran yang bervariasi atau besaran yang dapat mengambil salah satu dari suatu himpunan nilai tertentu (dalam matematika); variabel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peubah",
+  "related": [],
+  "detailed": false
+}

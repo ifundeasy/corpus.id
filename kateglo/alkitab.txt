@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Alkitab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab suci agama Kristen, terdiri atas Perjanjian Lama dan Perjanjian Baru;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Alkitab",
+  "related": [],
+  "detailed": false
+}

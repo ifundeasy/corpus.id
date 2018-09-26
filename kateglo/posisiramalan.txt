@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi ramalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "posisi yang akan dicapai oleh sasaran yang bergerak pada saat akhir penerbangan proyektil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20ramalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stereotip",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk tetap; berbentuk klise;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "konsepsi mengenai sifat suatu golongan berdasarkan prasangka yang subjektif dan tidak tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stereotip",
+  "related": [],
+  "detailed": false
+}

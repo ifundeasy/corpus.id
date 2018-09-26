@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hilir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian sungai sebelah muara;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah sepanjang bagian muara sungai (daerah pesisir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hilir",
+  "related": [],
+  "detailed": false
+}

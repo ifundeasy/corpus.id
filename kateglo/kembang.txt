@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kembang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kembang kempis"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak maju (tentang perusahaan dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunga (dipakai juga untuk menyebut berbagai macam bunga, seperti -- bangkai; -- sepatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kembang",
+  "related": [],
+  "detailed": false
+}

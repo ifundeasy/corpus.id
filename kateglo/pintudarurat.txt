@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pintu darurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pintu khusus yang hanya dilalui dalam keadaan terpaksa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintu%20darurat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selamat berbahagia",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "semoga mendapat kebahagiaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selamat%20berbahagia",
+  "related": [],
+  "detailed": false
+}

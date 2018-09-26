@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelma",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjelma"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelma",
+  "related": [],
+  "detailed": false
+}

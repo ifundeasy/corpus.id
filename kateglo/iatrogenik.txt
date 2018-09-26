@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iatrogenik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit yang diakibatkan oleh kesalahan diagnosis atau kealpaan dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iatrogenik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aerob",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "sifat makhluk yang untuk hidup dan pertumbuhannya memerlukan oksigen bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "makhluk yang dapat hidup hanya apabila tersedia oksigen bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aerob",
+  "related": [],
+  "detailed": false
+}

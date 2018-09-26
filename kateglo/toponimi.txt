@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toponimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang onomastika yang menyelidiki nama tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "nama tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toponimi",
+  "related": [],
+  "detailed": false
+}

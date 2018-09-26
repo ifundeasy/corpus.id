@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampul; sarung; pembungkus; selongsong;"
+      },
+      {
+        "type": "desc",
+        "text": "hormat; penghormatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salut",
+  "related": [],
+  "detailed": false
+}

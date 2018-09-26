@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lakur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Metal)"
+      },
+      {
+        "type": "desc",
+        "text": "bercampur (tentang logam);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "logam campur; aloi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lakur",
+  "related": [],
+  "detailed": false
+}

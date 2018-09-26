@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ramal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "pasir;"
+      },
+      {
+        "type": "desc",
+        "text": "pasir yang dipakai untuk melihat nasib atau mengetahui apa yang akan terjadi (primbon, perhitungan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) saputangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramal",
+  "related": [],
+  "detailed": false
+}

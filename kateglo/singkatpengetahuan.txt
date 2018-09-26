@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkat pengetahuan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "picik (kurang) pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkat%20pengetahuan",
+  "related": [],
+  "detailed": false
+}

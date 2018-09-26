@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jerah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedang musim (tentang buah-buahan); sedang banyak berjangkit (tentang penyakit dsb);"
+      },
+      {
+        "type": "link",
+        "text": "jerah-jerih"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jerah",
+  "related": [],
+  "detailed": false
+}

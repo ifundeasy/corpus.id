@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "patut; layak;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai; sepadan;"
+      },
+      {
+        "type": "desc",
+        "text": "kena benar; cocok;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengherankan;"
+      },
+      {
+        "type": "desc",
+        "text": "tampak elok (bagus, cantik, tampan);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) cepat; tangkas; cekatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantas",
+  "related": [],
+  "detailed": false
+}

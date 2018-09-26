@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "padat; pejal; kimpal (tentang logam dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah bercampur dan sudah menjadi satu benar; bersatu -- , bersatu benar-benar (seia sekata, sehidup semati);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) utuh dan kuat; kompak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padu",
+  "related": [],
+  "detailed": false
+}

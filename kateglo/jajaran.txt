@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baris; deret(an);"
+      },
+      {
+        "type": "desc",
+        "text": "susunan unsur dalam bentuk baris dan kolom digunakan dalam determinan dan matriks;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) barisan; susunan kelompok dengan tugas yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "jajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jajaran",
+  "related": [],
+  "detailed": false
+}

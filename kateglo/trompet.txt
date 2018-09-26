@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trompet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik tiup;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang (lembaga, organisasi) yang menyuarakan pendapat oran lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trompet",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung sekolah;"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolahan",
+  "related": [],
+  "detailed": false
+}

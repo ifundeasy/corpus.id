@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kromatis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan warna; dapat diwarnai dengan bahan kimia; berwarna;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(Mus) menurut tangga nada yang turun dan naik setengah nada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kromatis",
+  "related": [],
+  "detailed": false
+}

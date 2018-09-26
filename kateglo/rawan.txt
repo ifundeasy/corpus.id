@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rawan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rindu bercampur sedih; pilu; terharu;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah menimbulkan gangguan keamanan atau bahaya; gawat;"
+      },
+      {
+        "type": "desc",
+        "text": "muda, lembut (tentang tulang);"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "kata penggolong bilangan yang berarti selengkap (tentang jala, jaring, kancing, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) kendaraan; takhta -- , tandu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agenda politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tema yang akan dibicarakan dalam rapat politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agenda%20politik",
+  "related": [],
+  "detailed": false
+}

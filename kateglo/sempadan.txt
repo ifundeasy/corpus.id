@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sempadan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas (negeri, daerah, sawah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tanda batas (seperti pancang, garis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sempadan",
+  "related": [],
+  "detailed": false
+}

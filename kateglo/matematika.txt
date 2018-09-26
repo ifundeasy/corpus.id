@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matematika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang bilangan, hubungan antara bilangan, dan prosedur operasional yang digunakan dalam penyelesaian masalah mengenai bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matematika",
+  "related": [],
+  "detailed": false
+}

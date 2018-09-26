@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koperasi simpan pinjam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koperasi yang khusus bertujuan melayani atau mewajibkan anggotanya untuk menabung, di samping dapat memberikan pinjaman kepada anggotanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koperasi%20simpan%20pinjam",
+  "related": [],
+  "detailed": false
+}

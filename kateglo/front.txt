@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "front",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian terdepan; garis depan;"
+      },
+      {
+        "type": "desc",
+        "text": "medan pertempuran;"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan kesatuan atau gerakan bersama dalam mencapai suatu tujuan politik atau ideologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=front",
+  "related": [],
+  "detailed": false
+}

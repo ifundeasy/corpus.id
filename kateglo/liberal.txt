@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liberal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "berpandangan bebas (luas dan terbuka);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liberal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isotermal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Fis) keadaan bersuhu tetap atau sama, baik terhadap ruang maupun waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isotermal",
+  "related": [],
+  "detailed": false
+}

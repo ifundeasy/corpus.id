@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verkoper",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai perusahaan yang bertugas berkeliling menawarkan barang hasil perusahaan itu (seperti obat-obatan dan tekstil); penjaja keliling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verkoper",
+  "related": [],
+  "detailed": false
+}

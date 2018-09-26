@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alarm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda bahaya berupa sinyal, bunyi, sinar, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "alat mekanik yang dirancang untuk memperingatkan akan adanya bahaya atau kerusakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alarm",
+  "related": [],
+  "detailed": false
+}

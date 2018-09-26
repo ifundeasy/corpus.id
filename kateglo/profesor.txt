@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profesor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkat dosen tertinggi di perguruan tinggi; guru besar; mahaguru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profesor",
+  "related": [],
+  "detailed": false
+}

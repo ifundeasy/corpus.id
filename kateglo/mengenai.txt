@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengenai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kena pada sasarannya (tujuannya dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyentuh;"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "berkenaan (berhubungan) dengan; tentang hal;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menyetubuhi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengenai",
+  "related": [],
+  "detailed": false
+}

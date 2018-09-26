@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tubuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keseluruhan jasad manusia atau binatang yang kelihatan dari bagian ujung kaki sampai ujung rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian badan yang terutama (tidak dengan anggota dan kepala);"
+      },
+      {
+        "type": "desc",
+        "text": "diri (sendiri);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang terpenting;"
+      },
+      {
+        "type": "desc",
+        "text": "pertubuhan; badan (dalam organisme);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tubuh",
+  "related": [],
+  "detailed": false
+}

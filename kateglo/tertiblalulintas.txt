@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertib lalu lintas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "aturan yang berkaitan dengan lalu lintas jalan raya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertib%20lalu%20lintas",
+  "related": [],
+  "detailed": false
+}

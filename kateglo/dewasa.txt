@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dewasa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sampai umur; akil balig (bukan kanak-kanak atau remaja lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) telah mencapai kematangan kelamin;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) matang (tentang pikiran, pandangan, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu, masa (akhir-akhir ini);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian renang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian khusus untuk berenang, biasanya terbuat dari bahan kaus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20renang",
+  "related": [],
+  "detailed": false
+}

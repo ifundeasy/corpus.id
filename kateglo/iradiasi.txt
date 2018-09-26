@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iradiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyinaran; penyorotan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iradiasi",
+  "related": [],
+  "detailed": false
+}

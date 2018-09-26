@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba faktif",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "faktif"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20faktif",
+  "related": [],
+  "detailed": false
+}

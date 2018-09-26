@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kartogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memperagakan keterangan statistik dari suatu macam uraian dengan menggunakan lambang pada suatu peta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartogram",
+  "related": [],
+  "detailed": false
+}

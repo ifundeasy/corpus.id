@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stratigrafi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "geologi yang menelaah tentang lapisan batuan;"
+      },
+      {
+        "type": "desc",
+        "text": "susunan lapisan batu-batuan dalam kulit bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stratigrafi",
+  "related": [],
+  "detailed": false
+}

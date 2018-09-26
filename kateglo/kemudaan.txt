@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemudaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal muda;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan berusia muda;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) terlalu muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemudaan",
+  "related": [],
+  "detailed": false
+}

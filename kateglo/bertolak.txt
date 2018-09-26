@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertolak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berangkat berlayar;"
+      },
+      {
+        "type": "desc",
+        "text": "berangkat; pergi meninggalkan (menghindar dari);"
+      },
+      {
+        "type": "desc",
+        "text": "berpangkal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertolak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "junjung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjunjung"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "junjungan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=junjung",
+  "related": [],
+  "detailed": false
+}

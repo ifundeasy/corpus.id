@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum positif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukum yang sedang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20positif",
+  "related": [],
+  "detailed": false
+}

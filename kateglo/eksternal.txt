@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksternal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyangkut bagian luar (tubuh, diri, mobil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "luar (negeri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksternal",
+  "related": [],
+  "detailed": false
+}

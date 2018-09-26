@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertempur"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tempuran"
+      },
+      {
+        "type": "link",
+        "text": "menempur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempur",
+  "related": [],
+  "detailed": false
+}

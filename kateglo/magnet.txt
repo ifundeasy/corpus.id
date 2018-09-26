@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magnet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setiap bahan yang dapat menarik logam besi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) daya rangsang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magnet",
+  "related": [],
+  "detailed": false
+}

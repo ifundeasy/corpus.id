@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "opium"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apium",
+  "related": [],
+  "detailed": false
+}

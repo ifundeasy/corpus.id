@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengkong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bengkok;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tukang sunat; tukang khitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengkong",
+  "related": [],
+  "detailed": false
+}

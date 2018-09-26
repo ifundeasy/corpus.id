@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kayu palang untuk menutup pintu dsb;"
+      },
+      {
+        "type": "link",
+        "text": "menyelak"
+      },
+      {
+        "type": "link",
+        "text": "menyelak"
+      },
+      {
+        "type": "link",
+        "text": "terselak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selak",
+  "related": [],
+  "detailed": false
+}

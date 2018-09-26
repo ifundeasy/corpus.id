@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pancuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang memancur;"
+      },
+      {
+        "type": "desc",
+        "text": "saluran pemancur;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat air memancur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancuran",
+  "related": [],
+  "detailed": false
+}

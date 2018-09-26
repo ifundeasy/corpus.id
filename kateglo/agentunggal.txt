@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "penyalur yang me-nyelenggarakan distribusi dan penjualan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyalur satu-satunya untuk daerah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20tunggal",
+  "related": [],
+  "detailed": false
+}

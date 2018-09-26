@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat adiktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang dapat menyebabkan ketergantungan bagi pemakainya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20adiktif",
+  "related": [],
+  "detailed": false
+}

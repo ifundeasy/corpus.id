@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyambut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menerima;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi tanggapan (balasan, jawaban, reaksi, dsb) atas;"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap; menadah;"
+      },
+      {
+        "type": "desc",
+        "text": "menyongsong (kedatangan orang, hari peringatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membalas (menangkis serangan);"
+      },
+      {
+        "type": "desc",
+        "text": "membeli dengan cara membayar kemudian; mengutang; mengebon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyambut",
+  "related": [],
+  "detailed": false
+}

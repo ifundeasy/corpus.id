@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebangkrutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) bangkrut dari perusahaan karena tidak mampu membayar utang-utangnya dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebangkrutan",
+  "related": [],
+  "detailed": false
+}

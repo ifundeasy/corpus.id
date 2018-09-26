@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) biaya yang meliputi biaya untuk memperoleh bahan, upah, dan biaya tidak langsung (seperti mengurus perizinan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20produksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "partai penentang di dewan perwakilan dsb yang menentang dan mengkritik pendapat atau kebijaksanaan politik golongan yang berkuasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pertentangan antara dua unsur bahasa untuk memperlihatkan perbedaan arti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oposisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sastra lisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil kebudayaan lisan dalam masyarakat tradisional yang isinya dapat disejajarkan dg sastra tulis dalam masyarakat modern;"
+      },
+      {
+        "type": "desc",
+        "text": "sastra yang diwariskan secara lisan, seperti pantun, nyanyian rakyat, dan cerita rakyat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sastra%20lisan",
+  "related": [],
+  "detailed": false
+}

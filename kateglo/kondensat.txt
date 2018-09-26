@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kondensat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil penyulingan berupa cairan;"
+      },
+      {
+        "type": "desc",
+        "text": "gas bumi berupa cairan yang didapat dari gas alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondensat",
+  "related": [],
+  "detailed": false
+}

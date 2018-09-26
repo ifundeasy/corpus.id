@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrokardiogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) rekaman yang mencatat impuls elektrik yang dihasilkan oleh jantung pada setiap denyut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrokardiogram",
+  "related": [],
+  "detailed": false
+}

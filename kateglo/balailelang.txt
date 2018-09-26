@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai lelang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor tempat lelang dilaksanakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20lelang",
+  "related": [],
+  "detailed": false
+}

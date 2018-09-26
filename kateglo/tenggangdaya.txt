@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenggang daya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelonggaran waktu untuk berupaya (berikhtiar dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenggang%20daya",
+  "related": [],
+  "detailed": false
+}

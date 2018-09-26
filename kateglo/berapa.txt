@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berapa",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan bilangan yang mewakili jumlah, ukuran, nilai, harga, satuan, waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "kapan; bilamana;"
+      },
+      {
+        "type": "desc",
+        "text": "berulang-ulang; berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) betapa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berapa",
+  "related": [],
+  "detailed": false
+}

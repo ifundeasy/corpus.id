@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menukik api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat api dengan batu api; mencetus api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menukik%20api",
+  "related": [],
+  "detailed": false
+}

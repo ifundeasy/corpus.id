@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerlap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bekerlapan"
+      },
+      {
+        "type": "link",
+        "text": "tekerlap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerlap",
+  "related": [],
+  "detailed": false
+}

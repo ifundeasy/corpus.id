@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengacara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembela perkara;"
+      },
+      {
+        "type": "desc",
+        "text": "pendamping tergugat (terdakwa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengacara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wenter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cat pewarna;"
+      },
+      {
+        "type": "desc",
+        "text": "serbuk pewarna (untuk pakaian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wenter",
+  "related": [],
+  "detailed": false
+}

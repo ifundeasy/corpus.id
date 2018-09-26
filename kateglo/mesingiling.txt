@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin giling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (pesawat, kendaraan, dsb) yang beroda besi berat berbentuk silinder untuk memadatkan dan meratakan jalan (tanah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menggiling beras;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mendatarkan atau membengkokkan pelat besi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20giling",
+  "related": [],
+  "detailed": false
+}

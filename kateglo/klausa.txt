@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klausa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan gramatikal yang berupa kelompok kata, sekurang-kurangnya terdiri atas subjek dan predikat dan berpotensi menjadi kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa",
+  "related": [],
+  "detailed": false
+}

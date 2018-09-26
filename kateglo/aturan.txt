@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil perbuatan mengatur; (segala sesuatu) yang sudah diatur;"
+      },
+      {
+        "type": "desc",
+        "text": "cara (ketentuan, patokan, petunjuk, perintah) yang telah ditetapkan supaya diturut;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan atau perbuatan yang harus dijalankan;"
+      },
+      {
+        "type": "desc",
+        "text": "adat sopan santun; ketertiban;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) seharusnya; menurut (kebiasaan dsb); biasanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aturan",
+  "related": [],
+  "detailed": false
+}

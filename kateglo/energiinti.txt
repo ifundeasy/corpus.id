@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi inti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) energi yang dilepaskan oleh pembelahan inti atau paduan inti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20inti",
+  "related": [],
+  "detailed": false
+}

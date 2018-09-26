@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedempung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir busuk atau menjadi hampa karena dimakan ulat (tentang buah-buahan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi barang yang jatuh ke air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedempung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelompok pemirsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) kumpulan penonton televisi yang diatur untuk penyuluhan melalui media televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelompok%20pemirsa",
+  "related": [],
+  "detailed": false
+}

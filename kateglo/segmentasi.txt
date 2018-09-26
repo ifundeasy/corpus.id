@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segmentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian dalam segmen;"
+      },
+      {
+        "type": "desc",
+        "text": "pembagian struktur sosial ke dalam unit-unit tertentu yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segmentasi",
+  "related": [],
+  "detailed": false
+}

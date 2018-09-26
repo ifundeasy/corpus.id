@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "situasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedudukan (letak sesuatu, tempat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=situasi",
+  "related": [],
+  "detailed": false
+}

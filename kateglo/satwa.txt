@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satwa",
+  "related": [],
+  "detailed": false
+}

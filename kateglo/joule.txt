@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "joule",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan tenaga, sama dengan tenaga yang dihasilkan oleh tempuhan gaya satu newton sejauh satu meter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=joule",
+  "related": [],
+  "detailed": false
+}

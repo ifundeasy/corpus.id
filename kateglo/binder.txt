@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "binder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menjilid buku, majalah, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang (pekerjaannya dsb) menjilid buku, majalah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=binder",
+  "related": [],
+  "detailed": false
+}

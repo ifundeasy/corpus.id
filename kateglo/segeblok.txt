@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "segeblok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setumpuk tebal dan banyak (tentang pakaian);"
+      },
+      {
+        "type": "desc",
+        "text": "segulung cita (bahan pakaian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "segabung uang kertas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segeblok",
+  "related": [],
+  "detailed": false
+}

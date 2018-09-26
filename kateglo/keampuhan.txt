@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keampuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan (yang luar biasa); kesaktian;"
+      },
+      {
+        "type": "desc",
+        "text": "kemanjuran (tentang obat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "daya pengaruh yang luar biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "kebanjiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keampuhan",
+  "related": [],
+  "detailed": false
+}

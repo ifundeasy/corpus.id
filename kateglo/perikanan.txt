@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perikanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang bersangkutan dengan penangkapan, pemiaraan, dan pembudidayaan ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perikanan",
+  "related": [],
+  "detailed": false
+}

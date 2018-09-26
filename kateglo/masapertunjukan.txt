@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa pertunjukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah pertunjukan atau lamanya pementasan drama dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20pertunjukan",
+  "related": [],
+  "detailed": false
+}

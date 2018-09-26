@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga kerajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh kerabat raja atau ratu yang sedang berkuasa di dalam suatu kerajaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20kerajaan",
+  "related": [],
+  "detailed": false
+}

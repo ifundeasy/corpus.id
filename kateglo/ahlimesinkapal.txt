@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli mesin kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) perwira bagian mesin kapal niaga yang tugasnya menjalankan, merawat, dan memperbaiki semua mesin di kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20mesin%20kapal",
+  "related": [],
+  "detailed": false
+}

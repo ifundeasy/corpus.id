@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpolemik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berdebat (berbantah, berbahas) melalui media massa (dalam surat kabar, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpolemik",
+  "related": [],
+  "detailed": false
+}

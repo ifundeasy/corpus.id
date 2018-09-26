@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal takbersuara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang dihasilkan dengan saluran suara ada dalam posisi vokal dan membiarkan udara mengalir dan menghasilkan aspirasi sebelum pita suara bergetar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20takbersuara",
+  "related": [],
+  "detailed": false
+}

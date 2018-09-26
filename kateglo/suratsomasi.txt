@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat somasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat teguran untuk membayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20somasi",
+  "related": [],
+  "detailed": false
+}

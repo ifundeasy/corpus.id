@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belendung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membelendung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belendung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sunatullah",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "hukum Allah yang disampaikan kepada umat manusia melalui para rasul;"
+      },
+      {
+        "type": "desc",
+        "text": "undang-undang keagamaan yang ditetapkan oleh Allah yang termaktub di dalam Alquran;"
+      },
+      {
+        "type": "desc",
+        "text": "hukum (kejadian dsb) alam yang berjalan secara tetap dan otomatis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sunatullah",
+  "related": [],
+  "detailed": false
+}

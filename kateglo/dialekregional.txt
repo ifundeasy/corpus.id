@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dialek regional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dialek yang cirinya dibatasi oleh tempat, misal dialek Melayu Manado, dialek Jawa Banyumas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialek%20regional",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemurahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal murah;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) terlalu murah;"
+      },
+      {
+        "type": "desc",
+        "text": "kebaikan; kelimpahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemurahan",
+  "related": [],
+  "detailed": false
+}

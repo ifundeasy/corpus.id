@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unsur kimia yang terkecil (setelah nuklir) yang dapat berdiri sendiri dan dapat bersenyawa dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) modern; mutakhir;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang terbuat dari plastik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atom",
+  "related": [],
+  "detailed": false
+}

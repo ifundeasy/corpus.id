@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imsakiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jadwal yang menetapkan waktu salat, termasuk imsak setiap hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imsakiah",
+  "related": [],
+  "detailed": false
+}

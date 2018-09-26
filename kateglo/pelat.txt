@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "piringan hitam (piringan gramofon);"
+      },
+      {
+        "type": "desc",
+        "text": "logam yang pipih (tipis);"
+      },
+      {
+        "type": "desc",
+        "text": "piringan hitam (piringan gramofon);"
+      },
+      {
+        "type": "desc",
+        "text": "logam yang pipih (tipis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelat",
+  "related": [],
+  "detailed": false
+}

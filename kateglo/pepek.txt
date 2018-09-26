@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pepek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taruh luar (tentang main dobolo dsb); taruhan antara dua orang (pemain dan penonton) di luar taruhan kepada bandar;"
+      },
+      {
+        "type": "desc",
+        "text": "(kas) kemaluan perempuan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "licin seperti silinder;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pepek",
+  "related": [],
+  "detailed": false
+}

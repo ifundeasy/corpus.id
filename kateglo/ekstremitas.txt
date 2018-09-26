@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstremitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peringkat yang paling ekstrem (tentang perasaan, penderitaan, kesedihan);"
+      },
+      {
+        "type": "desc",
+        "text": "hal (tindakan, perbuatan) yang melewati batas (sangat keras dsb); keekstreman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) anggota badan, seperti lengan dan tungkai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstremitas",
+  "related": [],
+  "detailed": false
+}

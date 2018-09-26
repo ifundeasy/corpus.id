@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelipatan persekutuan terkecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan terkecil atau terendah yang merupakan kelipatan dari suatu kumpulan dari bilangan yang diberikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelipatan%20persekutuan%20terkecil",
+  "related": [],
+  "detailed": false
+}

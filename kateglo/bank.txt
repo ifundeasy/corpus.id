@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan usaha di bidang keuangan yang menarik dan mengeluarkan uang dalam masyakarat, terutama memberikan kredit dan jasa dalam lalu lintas pembayaran dan peredaran uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank",
+  "related": [],
+  "detailed": false
+}

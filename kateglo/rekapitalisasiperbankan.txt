@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekapitalisasi perbankan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan struktur kapital suatu bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekapitalisasi%20perbankan",
+  "related": [],
+  "detailed": false
+}

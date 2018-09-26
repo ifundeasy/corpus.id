@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolumnis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang secara tetap menulis artikel dalam surat kabar atau majalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolumnis",
+  "related": [],
+  "detailed": false
+}

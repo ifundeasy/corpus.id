@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gejala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan, peristiwa, dsb) yang tidak biasa dan patut diperhatikan (ada kalanya menandakan akan terjadi sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang menjadi tanda-tanda akan timbulnya (terjadinya, berjangkitnya) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gejala",
+  "related": [],
+  "detailed": false
+}

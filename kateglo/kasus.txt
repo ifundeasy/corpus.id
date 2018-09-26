@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang sebenarnya dari suatu urusan atau perkara; keadaan atau kondisi khusus yang berhubungan dengan seseorang atau suatu hal; soal; perkara;"
+      },
+      {
+        "type": "desc",
+        "text": "kategori gramatikal dari nomina, frasa nominal, pronomina, atau adjektiva yang menunjukkan hubungannya dengan kata lain dalam konstruksi sintaksis;"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan antara argumen dan predikator dalam suatu proposisi (dalam teori kasus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasus",
+  "related": [],
+  "detailed": false
+}

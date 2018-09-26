@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang rata di atas suatu benda (air, laut, bumi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permukaan",
+  "related": [],
+  "detailed": false
+}

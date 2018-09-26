@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat uji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menguji (mengukur) kualitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20uji",
+  "related": [],
+  "detailed": false
+}

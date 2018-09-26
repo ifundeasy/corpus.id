@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termohigrograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menggabungkan termograf dan higrograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termohigrograf",
+  "related": [],
+  "detailed": false
+}

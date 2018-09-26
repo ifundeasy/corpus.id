@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempat parkir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat atau bangunan yang disediakan sebagai perparkiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempat%20parkir",
+  "related": [],
+  "detailed": false
+}

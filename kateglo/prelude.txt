@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prelude",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "lagu pendek yang dicipta untuk mengawali atau mengantarkan pergelaran nyanyian atau musik yang sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pendahuluan yang mengisyaratkan atau menyebabkan suatu rangkaian kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prelude",
+  "related": [],
+  "detailed": false
+}

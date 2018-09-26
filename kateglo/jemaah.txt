@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jemaah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan atau rombongan orang beribadah; -- haji;"
+      },
+      {
+        "type": "desc",
+        "text": "orang banyak; publik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemaah",
+  "related": [],
+  "detailed": false
+}

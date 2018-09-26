@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedaluwarsa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak model lagi (baju, kendaraan, dsb); tidak sesuai dengan zaman;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lewat (habis) jangka waktunya (tentang tuntutan dsb); habis tempo;"
+      },
+      {
+        "type": "desc",
+        "text": "terlewat dari batas waktu berlakunya sebagaimana yang ditetapkan (tentang makanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedaluwarsa",
+  "related": [],
+  "detailed": false
+}

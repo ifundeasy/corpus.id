@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat sunah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat yang tidak wajib dilakukan, tetapi mendapat pahala apabila dilakukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20sunah",
+  "related": [],
+  "detailed": false
+}

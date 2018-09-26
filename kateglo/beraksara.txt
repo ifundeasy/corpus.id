@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beraksara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memiliki aksara;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mampu membaca dan menulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beraksara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) relief permukaan bumi berbentuk baskom atau belanga; depresi yang berukuran besar; cekungan; lembah; lubuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basin",
+  "related": [],
+  "detailed": false
+}

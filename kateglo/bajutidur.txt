@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju yang dirancang secara khusus untuk dipakai pada waktu tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20tidur",
+  "related": [],
+  "detailed": false
+}

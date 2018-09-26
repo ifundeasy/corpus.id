@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "putra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak laki-laki raja;"
+      },
+      {
+        "type": "desc",
+        "text": "anak kandung;"
+      },
+      {
+        "type": "desc",
+        "text": "anak laki-laki;"
+      },
+      {
+        "type": "desc",
+        "text": "khusus (untuk) laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putra",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rubrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala karangan (ruangan tetap) dalam surat kabar, majalah, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) petunjuk resmi yang mengatur tata laksana liturgi, dulu dicetak merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rubrik",
+  "related": [],
+  "detailed": false
+}

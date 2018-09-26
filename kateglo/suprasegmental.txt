@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suprasegmental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan segmen ujaran atau bunyi (fonem), yaitu nada, tekanan, sendi, intonasi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(fonem yang) tidak dapat membentuk kata, tetapi membedakan makna kata (misal tekanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suprasegmental",
+  "related": [],
+  "detailed": false
+}

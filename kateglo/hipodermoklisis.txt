@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipodermoklisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infus cairan ke dalam jaringan bawah kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipodermoklisis",
+  "related": [],
+  "detailed": false
+}

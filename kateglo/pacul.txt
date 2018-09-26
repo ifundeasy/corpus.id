@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pacul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas petani berupa lempeng baja tipis dengan tangkai panjang untuk menggali, mengaduk, dan membalik tanah; cangkul;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memacul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pacul",
+  "related": [],
+  "detailed": false
+}

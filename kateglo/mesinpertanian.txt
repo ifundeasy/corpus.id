@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin yang dipakai untuk mengolah tanah pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20pertanian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam sejuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "demam karena penyakit malaria; demam dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20sejuk",
+  "related": [],
+  "detailed": false
+}

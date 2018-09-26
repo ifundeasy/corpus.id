@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seriding",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "serendeng"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut (ada bermacam-macam seperti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seriding",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agronom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakar agronomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agronom",
+  "related": [],
+  "detailed": false
+}

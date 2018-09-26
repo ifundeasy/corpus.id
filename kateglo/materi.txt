@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "materi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda; bahan; segala sesuatu yang tampak;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menjadi bahan (untuk diujikan, dipikirkan, dibicarakan, dikarangkan, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "termateri"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=materi",
+  "related": [],
+  "detailed": false
+}

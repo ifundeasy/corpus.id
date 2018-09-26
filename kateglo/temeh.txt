@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temeh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "temeh-temeh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temeh",
+  "related": [],
+  "detailed": false
+}

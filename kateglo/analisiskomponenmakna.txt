@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis komponen makna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) metode penyelidikan makna dengan memecahkan leksem atas komponen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20komponen%20makna",
+  "related": [],
+  "detailed": false
+}

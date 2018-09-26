@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bobok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tidur (untuk anak-anak);"
+      },
+      {
+        "type": "link",
+        "text": "membobok"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) daun, umbi-umbian, dsb yang dilumatkan (dengan batu penggiling dsb) dipakai sebagai obat luar dengan cara menempelkannya pada bagian yang sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobok",
+  "related": [],
+  "detailed": false
+}

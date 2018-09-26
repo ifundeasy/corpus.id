@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elegi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "syair atau nyanyian yang mengandung ratapan dan ungkapan dukacita (khususnya pada peristiwa kematian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elegi",
+  "related": [],
+  "detailed": false
+}

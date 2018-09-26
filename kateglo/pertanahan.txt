@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berhubungan dengan kepemilikan tanah milik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanahan",
+  "related": [],
+  "detailed": false
+}

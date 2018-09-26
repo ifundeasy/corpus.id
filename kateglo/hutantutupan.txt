@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan tutupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hutan larangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20tutupan",
+  "related": [],
+  "detailed": false
+}

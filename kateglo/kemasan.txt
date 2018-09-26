@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mengemas;"
+      },
+      {
+        "type": "desc",
+        "text": "bungkus pelindung barang dagangan (niaga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemasan",
+  "related": [],
+  "detailed": false
+}

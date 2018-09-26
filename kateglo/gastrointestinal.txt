@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gastrointestinal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan lambung dan usus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gastrointestinal",
+  "related": [],
+  "detailed": false
+}

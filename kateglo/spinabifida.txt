@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spina bifida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kelainan pada rangka sumsum belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spina%20bifida",
+  "related": [],
+  "detailed": false
+}

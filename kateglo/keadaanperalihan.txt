@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keadaan peralihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan dalam perubahan bentuk yang satu ke bentuk yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keadaan%20peralihan",
+  "related": [],
+  "detailed": false
+}

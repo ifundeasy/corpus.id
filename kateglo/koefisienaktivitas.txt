@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien aktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktor yang dikalikan dengan konsentrasi untuk mengubah konsentrasi itu menjadi aktivitas; koefisien keaktifan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20aktivitas",
+  "related": [],
+  "detailed": false
+}

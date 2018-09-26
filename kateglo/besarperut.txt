@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "besar perut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rakus; lahap;"
+      },
+      {
+        "type": "desc",
+        "text": "bunting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besar%20perut",
+  "related": [],
+  "detailed": false
+}

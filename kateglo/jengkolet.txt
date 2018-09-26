@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jengkolet",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjengkolet"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jengkolet",
+  "related": [],
+  "detailed": false
+}

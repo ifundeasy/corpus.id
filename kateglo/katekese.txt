@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katekese",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengajaran agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katekese",
+  "related": [],
+  "detailed": false
+}

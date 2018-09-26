@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kredo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lt)"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan kepercayaan (keyakinan);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar tuntunan hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "busung darah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit busung karena lama tidak haid (bagi wanita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=busung%20darah",
+  "related": [],
+  "detailed": false
+}

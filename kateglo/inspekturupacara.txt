@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inspektur upacara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembesar yang menginspeksi kemudian menerima laporan pelaksanaan upacara yang diucapkan oleh komandan upacara pada awal dan akhir upacara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspektur%20upacara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ejaan fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ejaan yang menggambarkan tiap fonem dalam bahasa dengan satu lambang secara konsisten, misal ejaan Suomi dan ejaan Turki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ejaan%20fonemis",
+  "related": [],
+  "detailed": false
+}

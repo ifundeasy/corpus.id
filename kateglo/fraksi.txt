@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fraksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kecil; pecahan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok dalam badan legislatif yang terdiri atas beberapa anggota yang sepaham dan sependirian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fraksi",
+  "related": [],
+  "detailed": false
+}

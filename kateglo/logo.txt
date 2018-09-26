@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf atau lambang yang mengandung makna, terdiri atas satu kata atau lebih sebagai lambang atau nama perusahaan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genting",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil (tipis, sempit) pada bagian tengah;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir putus (tentang tali dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tegang; berbahaya (tentang keadaan yang mungkin segera menimbulkan bencana perang dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tutup atap rumah yang terbuat dari tanah liat yang dicetak dan dibakar, bermacam-macam bentuknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genting",
+  "related": [],
+  "detailed": false
+}

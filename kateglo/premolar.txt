@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "premolar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geraham depan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premolar",
+  "related": [],
+  "detailed": false
+}

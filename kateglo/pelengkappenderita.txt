@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelengkap penderita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "objek langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelengkap%20penderita",
+  "related": [],
+  "detailed": false
+}

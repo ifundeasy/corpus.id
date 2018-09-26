@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gandaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beban yang dipikul; apa yang dipikul;"
+      },
+      {
+        "type": "desc",
+        "text": "kendaraan;"
+      },
+      {
+        "type": "desc",
+        "text": "iring-iringan kendaraan (dalam mengarak pengantin dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gandaran",
+  "related": [],
+  "detailed": false
+}

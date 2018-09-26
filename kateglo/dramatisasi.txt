@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dramatisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyesuaian cerita untuk pertunjukan sandiwara; pendramaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal membuat suatu peristiwa menjadi mengesankan atau mengharukan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembawaan atau pembacaan puisi atau prosa secara drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dramatisasi",
+  "related": [],
+  "detailed": false
+}

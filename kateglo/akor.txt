@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akor",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "akur"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) kombinasi tiga nada atau lebih yang bersuara sama dalam satu oktaf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akor",
+  "related": [],
+  "detailed": false
+}

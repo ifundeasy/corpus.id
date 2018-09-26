@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memanjang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "membujur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memanjang",
+  "related": [],
+  "detailed": false
+}

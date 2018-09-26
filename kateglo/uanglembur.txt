@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang lembur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang upah yang dibayarkan untuk bekerja lembur di luar jam kerja yang telah ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20lembur",
+  "related": [],
+  "detailed": false
+}

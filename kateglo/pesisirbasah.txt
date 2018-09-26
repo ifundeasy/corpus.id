@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesisir basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah antara garis pantai waktu (air) laut surut dan pantai waktu (air) laut pasang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesisir%20basah",
+  "related": [],
+  "detailed": false
+}

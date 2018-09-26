@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rawat jalan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perawatan pasien dengan cara berobat jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawat%20jalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puputan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiupan (angin);"
+      },
+      {
+        "type": "desc",
+        "text": "embusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puputan",
+  "related": [],
+  "detailed": false
+}

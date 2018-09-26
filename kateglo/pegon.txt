@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pegon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "aksara Arab yang digunakan untuk menuliskan bahasa Jawa;"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan Arab yang tidak dengan tanda-tanda bunyi (diakritik); tulisan Arab gundul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pegon",
+  "related": [],
+  "detailed": false
+}

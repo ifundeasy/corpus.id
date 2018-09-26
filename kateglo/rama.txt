@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) padri; pastor;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) panggilan untuk pastor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rama",
+  "related": [],
+  "detailed": false
+}

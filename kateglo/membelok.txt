@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membelok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbelok;"
+      },
+      {
+        "type": "desc",
+        "text": "membelenggu dengan belok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membelok",
+  "related": [],
+  "detailed": false
+}

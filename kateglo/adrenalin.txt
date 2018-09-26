@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adrenalin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "hormon yang dihasilkan kelenjar adrenal;"
+      },
+      {
+        "type": "desc",
+        "text": "hormon yang diperoleh dari kelenjar adrenal hewan atau hormon yang dibuat secara sintetis, digunakan dalam bentuk suntikan untuk menaikkan tekanan darah dan denyut jantung; epinefrina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adrenalin",
+  "related": [],
+  "detailed": false
+}

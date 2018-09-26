@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelombang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ombak besar yang bergulung-gulung (di laut);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) aliran getaran suara yang bergerak dalam eter (radio);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kelompok; golongan (pasukan, pesawat terbang, dsb) yang bergerak maju beruntun-runtun;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) gerakan (pemogokan dsb) yang beruntun-runtun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang",
+  "related": [],
+  "detailed": false
+}

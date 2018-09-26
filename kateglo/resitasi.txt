@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembacaan hafalan (pengajian) di muka umum;"
+      },
+      {
+        "type": "desc",
+        "text": "hafalan yang diucapkan oleh murid-murid di dalam kelas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resitasi",
+  "related": [],
+  "detailed": false
+}

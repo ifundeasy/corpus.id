@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu pindah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang berisi pemberitahuan akan pergantian alamat (biasanya disediakan di kantor pos);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20pindah",
+  "related": [],
+  "detailed": false
+}

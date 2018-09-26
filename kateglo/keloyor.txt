@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keloyor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk) →"
+      },
+      {
+        "type": "link",
+        "text": "mengeloyor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keloyor",
+  "related": [],
+  "detailed": false
+}

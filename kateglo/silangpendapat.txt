@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "silang pendapat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "tukar pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "bertentangan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silang%20pendapat",
+  "related": [],
+  "detailed": false
+}

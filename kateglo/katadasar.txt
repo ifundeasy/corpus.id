@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata-kata yang menjadi dasar bentukan kata yang lebih besar, misal jual menjadi dasar bentuk jualan kata jualan menjadi dasar bentukan kata berjualan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20dasar",
+  "related": [],
+  "detailed": false
+}

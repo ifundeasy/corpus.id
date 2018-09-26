@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat, gedung, ruang yang disediakan untuk pemeliharaan dan penggunaan koleksi buku dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "koleksi buku, majalah, dan bahan kepustakaan lainnya yang disimpan untuk dibaca, dipelajari, dibicarakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan",
+  "related": [],
+  "detailed": false
+}

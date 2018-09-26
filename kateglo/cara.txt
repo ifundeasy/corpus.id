@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan (aturan, sistem) melakukan (berbuat dsb) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "gaya; ragam (seperti bentuk, corak);"
+      },
+      {
+        "type": "desc",
+        "text": "adat kebiasaan; perbuatan (kelakuan) yang sudah menjadi kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa; logat (dialek);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang harus ditempuh;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha; ikhtiar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cara",
+  "related": [],
+  "detailed": false
+}

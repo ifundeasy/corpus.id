@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angin musim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angin yang datang menurut musim tiap-tiap tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angin%20musim",
+  "related": [],
+  "detailed": false
+}

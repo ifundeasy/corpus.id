@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termenung-menung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "termenung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termenung-menung",
+  "related": [],
+  "detailed": false
+}

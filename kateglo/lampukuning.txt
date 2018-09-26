@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu kuning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu lalu lintas yang berwarna kuning yang mengisyaratkan kendaraan bersiap-siap untuk berhenti (sesudah lampu hijau) atau mengurangi kecepatan (jika berkedip-kedip);"
+      },
+      {
+        "type": "desc",
+        "text": "isyarat untuk berhati-hati;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) isyarat untuk bersiap-siap untuk melakukan kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20kuning",
+  "related": [],
+  "detailed": false
+}

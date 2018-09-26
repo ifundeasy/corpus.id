@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "botak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berambut (tentang kepala orang); gundul;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbulu (tentang kepala binatang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=botak",
+  "related": [],
+  "detailed": false
+}

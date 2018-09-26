@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri pariwisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha di bidang pariwisata (seperti hotel, biro perjalanan, restoran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20pariwisata",
+  "related": [],
+  "detailed": false
+}

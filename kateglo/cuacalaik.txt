@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuaca laik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) keadaan cuaca di lapangan udara atau di sepanjang jalur penerbangan yang memungkinkan pesawat terbang dapat diizinkan terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuaca%20laik",
+  "related": [],
+  "detailed": false
+}

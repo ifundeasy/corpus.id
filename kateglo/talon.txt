@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "talon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "butir kertas berharga untuk memperoleh kupon baru (tentang saham);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=talon",
+  "related": [],
+  "detailed": false
+}

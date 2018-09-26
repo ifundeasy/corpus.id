@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teleost",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan-ikan bertulang keras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teleost",
+  "related": [],
+  "detailed": false
+}

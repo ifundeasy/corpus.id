@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berbenah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah bekas hutan yang belum digarap atau diproduksi (di Pulau Alor);"
+      },
+      {
+        "type": "desc",
+        "text": "serangga yang merusak tanaman, Nephotettix bipuntata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benah",
+  "related": [],
+  "detailed": false
+}

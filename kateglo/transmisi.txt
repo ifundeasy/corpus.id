@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transmisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman (penerusan) pesan dsb dari seseorang kepada orang (benda) lain;"
+      },
+      {
+        "type": "desc",
+        "text": "penularan, penyebaran, penjangkitan penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian kendaraan bermotor yang memindahkan atau meneruskan tenaga dari mesin ke as belakang; persneling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transmisi",
+  "related": [],
+  "detailed": false
+}

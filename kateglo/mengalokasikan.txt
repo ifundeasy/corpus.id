@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengalokasikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan banyaknya barang yang disediakan untuk suatu tempat (pembeli dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menentukan banyaknya uang (biaya) yang disediakan untuk suatu keperluan (kegiatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengalokasikan",
+  "related": [],
+  "detailed": false
+}

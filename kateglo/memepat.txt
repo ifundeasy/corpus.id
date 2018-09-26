@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memepat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memotong (mengerat) sampai rata;"
+      },
+      {
+        "type": "desc",
+        "text": "mendabung sampai rata (tentang gigi);"
+      },
+      {
+        "type": "desc",
+        "text": "memangkas sampai rata (tentang rambut);"
+      },
+      {
+        "type": "desc",
+        "text": "memaras (tentang isi sukatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memepat",
+  "related": [],
+  "detailed": false
+}

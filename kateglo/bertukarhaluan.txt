@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertukar haluan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berganti haluan (arah, tujuan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertukar%20haluan",
+  "related": [],
+  "detailed": false
+}

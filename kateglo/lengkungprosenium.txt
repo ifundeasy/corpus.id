@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengkung prosenium",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Sen) bukaan pada prosenium yang memungkinkan penonton melihat pentas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkung%20prosenium",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "influenza",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "radang selaput lendir pada rongga hidung (yang menyebabkan demam); penyakit demam yang mudah menular yang disebabkan oleh virus yang menyerang saluran pernapasan dsb; selesma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=influenza",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomina verbal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nomina yang fungsi dan maknanya berdekatan dengan verba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomina%20verbal",
+  "related": [],
+  "detailed": false
+}

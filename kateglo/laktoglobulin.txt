@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laktoglobulin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "protein globulin yang terdapat dalam susu dan mempunyai bobot molekul 35.000;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laktoglobulin",
+  "related": [],
+  "detailed": false
+}

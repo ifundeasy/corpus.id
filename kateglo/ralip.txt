@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ralip",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "meralip"
+      },
+      {
+        "type": "link",
+        "text": "galib"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ralip",
+  "related": [],
+  "detailed": false
+}

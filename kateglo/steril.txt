@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "steril",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "bersih dari kuman atau mikroorganisme lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) tidak subur; mandul; tidak dapat berkembang biak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=steril",
+  "related": [],
+  "detailed": false
+}

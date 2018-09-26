@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan;"
+      },
+      {
+        "type": "desc",
+        "text": "rajah tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "peruntungan; nasib; untung malang;"
+      },
+      {
+        "type": "desc",
+        "text": "nasib; peruntungan; untung malang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suratan",
+  "related": [],
+  "detailed": false
+}

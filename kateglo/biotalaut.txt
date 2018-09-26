@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biota laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biota yang terdapat di dalam laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biota%20laut",
+  "related": [],
+  "detailed": false
+}

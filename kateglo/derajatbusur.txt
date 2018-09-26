@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "derajat busur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "1/360 bagian dari keliling lingkaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derajat%20busur",
+  "related": [],
+  "detailed": false
+}

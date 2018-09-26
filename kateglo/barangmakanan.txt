@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20makanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piantan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "waktu tertentu yang biasanya terjadi sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "sehari semalam (24 jam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piantan",
+  "related": [],
+  "detailed": false
+}

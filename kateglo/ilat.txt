@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "kerugian; kecelakaan; kemalangan; kesakitan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sebab; lantaran;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) tidak dapat bekerja lagi karena anggota badannya rusak (karena kecelakaan, akibat peperangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilat",
+  "related": [],
+  "detailed": false
+}

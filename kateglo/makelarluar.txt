@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makelar luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makelar yang bukan anggota bursa, tetapi bekerja dengan perantara anggota bursa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makelar%20luar",
+  "related": [],
+  "detailed": false
+}

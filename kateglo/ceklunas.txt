@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek lunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cek yang telah dibayarkan dan dikembalikan oleh bank dengan dibubuhi untuk tanda penunaian sebagai pengganti kuitansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20lunas",
+  "related": [],
+  "detailed": false
+}

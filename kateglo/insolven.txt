@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insolven",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak memiliki cukup dana untuk melunasi utang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insolven",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produk instalasi gas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) cairan gas bumi yang dihasilkan oleh instalasi pemroses gas, atau oleh fasilitas lapangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produk%20instalasi%20gas",
+  "related": [],
+  "detailed": false
+}

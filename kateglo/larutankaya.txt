@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan kaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan yang mengandung logam berharga sebagai hasil pengatusan bijih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20kaya",
+  "related": [],
+  "detailed": false
+}

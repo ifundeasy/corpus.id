@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "peng-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berprofesi sebagai;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memiliki sifat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peng-",
+  "related": [],
+  "detailed": false
+}

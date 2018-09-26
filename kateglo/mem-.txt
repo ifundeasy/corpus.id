@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "mem-",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "me-"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mem-",
+  "related": [],
+  "detailed": false
+}

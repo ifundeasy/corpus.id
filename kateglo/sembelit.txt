@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sembelit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sukar atau tidak dapat buang air besar karena terdapat kotoran keras dalam usus;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantong atau pundi-pundi yang dibelitkan di pinggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sembelit",
+  "related": [],
+  "detailed": false
+}

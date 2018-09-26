@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan atau kabar tentang penawaran barang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan oleh pemegang surat wesel kepada penarik tentang adanya penolakan pembayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notifikasi",
+  "related": [],
+  "detailed": false
+}

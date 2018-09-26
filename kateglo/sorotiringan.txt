@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sorot iringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis lampu yang sinarnya mengikuti objek yang bergerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sorot%20iringan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbanding",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada bandingnya; ada imbangannya;"
+      },
+      {
+        "type": "desc",
+        "text": "sebanding; seimbang;"
+      },
+      {
+        "type": "desc",
+        "text": "dibandingkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbanding",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "goak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "goak-goak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gagak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=goak",
+  "related": [],
+  "detailed": false
+}

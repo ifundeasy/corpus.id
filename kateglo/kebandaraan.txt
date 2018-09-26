@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebandaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (mengenai) bandara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebandaraan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demokrasi politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem politik yang ditandai dengan berfungsinya lembaga legislatif, eksekutif, yudikatif yang secara relatif bersifat otonom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demokrasi%20politik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memfiat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan persetujuan (dengan membubuhkan paraf atau tanda tangan tanda setuju);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memfiat",
+  "related": [],
+  "detailed": false
+}

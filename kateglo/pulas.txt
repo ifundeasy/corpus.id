@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pulas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nyenyak (tentang tidur);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memulas"
+      },
+      {
+        "type": "link",
+        "text": "pulas mata"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulas",
+  "related": [],
+  "detailed": false
+}

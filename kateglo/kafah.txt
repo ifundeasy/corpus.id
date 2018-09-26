@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kafah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sempurna;"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kafah",
+  "related": [],
+  "detailed": false
+}

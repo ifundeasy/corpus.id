@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun takwim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun berdasarkan kalender (berawal dari 1 Januari dan berakhir pada 31 Desember);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20takwim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abdomen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh berupa rongga perut yang berisi alat pencernaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian di antara sekat rongga badan dan pinggul (perut bagian bawah);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh di belakang dada (toraks) pada antropoda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abdomen",
+  "related": [],
+  "detailed": false
+}

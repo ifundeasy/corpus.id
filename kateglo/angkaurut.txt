@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka urut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor yang berturut-turut, seperti 1, 2, 3, 4, dan 5;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20urut",
+  "related": [],
+  "detailed": false
+}

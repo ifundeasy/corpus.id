@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pindah darah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan darah ke badan orang (yang kekurangan darah); transfusi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pindah%20darah",
+  "related": [],
+  "detailed": false
+}

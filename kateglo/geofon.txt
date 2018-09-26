@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "detektor yang diletakkan atau ditancapkan di atas tanah dalam pekerjaan seismik untuk menerima getaran pada titik bumi yang ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geofon",
+  "related": [],
+  "detailed": false
+}

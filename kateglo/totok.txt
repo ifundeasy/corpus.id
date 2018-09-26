@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "totok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "asli; sejati (bukan peranakan);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) masih baru (belum berpengalaman);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kaku (belum biasa, belum lancar);"
+      },
+      {
+        "type": "link",
+        "text": "tutuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=totok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapu",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kapu-kapu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapu",
+  "related": [],
+  "detailed": false
+}

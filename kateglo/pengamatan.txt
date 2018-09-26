@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengamatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawasan terhadap perbuatan (kegiatan, keadaan) orang lain; perbuatan mengamati dengan penuh; penelitian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) kesadaran yang tertuju kepada peristiwa atau fakta tertentu sebagai metode dalam penelitian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengamatan",
+  "related": [],
+  "detailed": false
+}

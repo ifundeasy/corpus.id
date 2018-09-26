@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat kuat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk memperkuat daya kemampuan tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "obat untuk menambah daya vitalitas seksual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20kuat",
+  "related": [],
+  "detailed": false
+}

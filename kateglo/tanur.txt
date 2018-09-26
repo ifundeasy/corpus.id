@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat pembakaran (kapur, dsb); perapian; kompor;"
+      },
+      {
+        "type": "desc",
+        "text": "keran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanur",
+  "related": [],
+  "detailed": false
+}

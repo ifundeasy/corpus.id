@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "galangan kapal (untuk menggalang kapal yang akan diperbaiki dsb); limbung;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kain panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain selimut yang tebal;"
+      },
+      {
+        "type": "desc",
+        "text": "flanel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kain%20panas",
+  "related": [],
+  "detailed": false
+}

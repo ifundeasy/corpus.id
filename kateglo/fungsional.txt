@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fungsional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan jabatan;"
+      },
+      {
+        "type": "desc",
+        "text": "dilihat dari segi fungsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fungsional",
+  "related": [],
+  "detailed": false
+}

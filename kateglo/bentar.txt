@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bentar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berbentar"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ark) bangunan kuno berupa gapura atau gerbang yang tidak mempunyai atap;"
+      },
+      {
+        "type": "link",
+        "text": "sebentar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentar",
+  "related": [],
+  "detailed": false
+}

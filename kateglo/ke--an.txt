@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ke -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "(konfiks pembentuk verba) menderita; mengalami kejadian atau keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(konfiks pembentuk adjektiva) terlalu; terlampau;"
+      },
+      {
+        "type": "desc",
+        "text": "(konfiks pembentuk nomina) abstraksi yang mempunyai ciri atau sifat;"
+      },
+      {
+        "type": "desc",
+        "text": "(konfiks pembentuk nomina) tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ke%20--%20an",
+  "related": [],
+  "detailed": false
+}

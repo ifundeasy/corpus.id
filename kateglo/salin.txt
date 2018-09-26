@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ganti; tukar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang baru memijahkan telur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salin",
+  "related": [],
+  "detailed": false
+}

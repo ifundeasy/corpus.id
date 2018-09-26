@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mufakat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setuju; seia sekata; sepakat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "persetujuan; kata sepakat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pembicaraan; perundingan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berunding; berbicara dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mufakat",
+  "related": [],
+  "detailed": false
+}

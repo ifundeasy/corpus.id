@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berganti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar;"
+      },
+      {
+        "type": "desc",
+        "text": "beralih; berubah (tentang pendirian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berproses dan berubah secara alami (tentang waktu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berganti",
+  "related": [],
+  "detailed": false
+}

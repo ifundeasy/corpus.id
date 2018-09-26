@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonkonvensional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mengikuti apa yang sudah menjadi kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengikuti kesepakatan umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonkonvensional",
+  "related": [],
+  "detailed": false
+}

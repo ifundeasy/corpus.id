@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pukang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paha (lembu, kuda, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "celah kangkang (antara kedua kaki);"
+      },
+      {
+        "type": "desc",
+        "text": "sudut jangka dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukang",
+  "related": [],
+  "detailed": false
+}

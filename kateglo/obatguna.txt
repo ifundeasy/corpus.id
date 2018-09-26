@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat guna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guna-guna; pekasih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20guna",
+  "related": [],
+  "detailed": false
+}

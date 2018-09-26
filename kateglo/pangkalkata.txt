@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangkal kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata pokok;"
+      },
+      {
+        "type": "desc",
+        "text": "permulaan atau pokok pembicaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkal%20kata",
+  "related": [],
+  "detailed": false
+}

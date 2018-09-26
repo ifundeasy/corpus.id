@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termuat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah dimuat (dimasukkan, diisikan, dipasang);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dimuat (dimasukkan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termuat",
+  "related": [],
+  "detailed": false
+}

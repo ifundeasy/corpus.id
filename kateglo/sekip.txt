@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "bulan-bulan (untuk sasaran menembak);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlatih menembak; lapangan tembak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekip",
+  "related": [],
+  "detailed": false
+}

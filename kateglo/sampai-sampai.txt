@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampai-sampai",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "begitu tiba;"
+      },
+      {
+        "type": "desc",
+        "text": "bahkan; malahan;"
+      },
+      {
+        "type": "desc",
+        "text": "hingga; maka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampai-sampai",
+  "related": [],
+  "detailed": false
+}

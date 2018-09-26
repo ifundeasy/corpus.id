@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "objektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai keadaan yang sebenarnya tanpa dipengaruhi pendapat atau pandangan pribadi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) kanta (lensa) pada peralatan optis yang terletak paling dekat dengan benda yang diamati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=objektif",
+  "related": [],
+  "detailed": false
+}

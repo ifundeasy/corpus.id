@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku laris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang sangat laku terjual pada masa tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20laris",
+  "related": [],
+  "detailed": false
+}

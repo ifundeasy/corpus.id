@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insektisida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa kimia yang digunakan untuk membunuh serangga (biasanya dengan mengusapkan atau menyemprotkannya); obat pembunuh serangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insektisida",
+  "related": [],
+  "detailed": false
+}

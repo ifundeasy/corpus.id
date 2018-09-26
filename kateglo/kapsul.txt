@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapsul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembungkus kecil dari sejenis agar-agar tempat obat yang harus ditelan;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang khusus yang bertekanan udara tertentu yang digunakan oleh penerbang ruang angkasa (astronaut) dalam penerbangan ke angkasa luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapsul",
+  "related": [],
+  "detailed": false
+}

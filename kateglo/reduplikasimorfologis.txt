@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "reduplikasi morfologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengulangan morfem yang menghasilkan kata (misal rumah-rumah, mengobar-ngobarkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reduplikasi%20morfologis",
+  "related": [],
+  "detailed": false
+}

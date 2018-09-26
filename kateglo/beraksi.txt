@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beraksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "bertindak;"
+      },
+      {
+        "type": "desc",
+        "text": "bertingkah laku yang dibuat-buat;"
+      },
+      {
+        "type": "desc",
+        "text": "berlagak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beraksi",
+  "related": [],
+  "detailed": false
+}

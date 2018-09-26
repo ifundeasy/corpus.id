@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "lakur emas dan perak;"
+      },
+      {
+        "type": "desc",
+        "text": "lakur tembaga, nikel, dan zink;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrum",
+  "related": [],
+  "detailed": false
+}

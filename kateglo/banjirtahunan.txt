@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banjir tahunan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "puncak banjir harian tertinggi dalam tahun aliran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjir%20tahunan",
+  "related": [],
+  "detailed": false
+}

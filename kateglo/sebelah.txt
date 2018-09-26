@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebelah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setengah; separuh;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian (yang lain) dari suatu pasangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(di) samping; (di) sisi; (di) dekat;"
+      },
+      {
+        "type": "desc",
+        "text": "jurusan; arah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebelah",
+  "related": [],
+  "detailed": false
+}

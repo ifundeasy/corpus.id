@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sibar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain dsb yang ditambahkan atau dilapiskan di tepi baju dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah yang ditambahkan di sisi rumah besar;"
+      },
+      {
+        "type": "desc",
+        "text": "capung besar; sibur-sibur;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "bersibar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sibar",
+  "related": [],
+  "detailed": false
+}

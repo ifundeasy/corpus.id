@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyuruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyuruh;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) perbuatan (hal dsb) menyuruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyuruh",
+  "related": [],
+  "detailed": false
+}

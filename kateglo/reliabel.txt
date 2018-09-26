@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reliabel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai atau mendatangkan hasil yang sama pada setiap percobaan yang berhasil;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dipercaya; andal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reliabel",
+  "related": [],
+  "detailed": false
+}

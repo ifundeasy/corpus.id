@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepingan papan tipis-tipis, biasanya dibuat dari kayu besi atau kayu ulin, dipakai untuk atap, dinding rumah, dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyirapkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirap",
+  "related": [],
+  "detailed": false
+}

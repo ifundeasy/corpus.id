@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gelap; kelam; redup;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah tenggelam (tentang matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "lenyap; hilang;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lampau (tentang masa dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silam",
+  "related": [],
+  "detailed": false
+}

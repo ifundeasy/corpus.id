@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "-wan",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam bidang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bergerak dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memiliki barang atau sifat khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-wan",
+  "related": [],
+  "detailed": false
+}

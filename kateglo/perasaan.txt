@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perasaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil atau perbuatan merasa dengan pancaindra;"
+      },
+      {
+        "type": "desc",
+        "text": "rasa atau keadaan batin sewaktu menghadapi (merasai) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kesanggupan untuk merasa atau merasai;"
+      },
+      {
+        "type": "desc",
+        "text": "pertimbangan batin (hati) atas sesuatu; pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perasaan",
+  "related": [],
+  "detailed": false
+}

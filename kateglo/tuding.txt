@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuding",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miring arah ke bawah (tentang menikam, menembak, menunjukkan ke lereng, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meruncing tajam (lancip), tetapi merupakan sudut tumpul (tentang mata pisau, mata pahat, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunjuk; menunjuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuding",
+  "related": [],
+  "detailed": false
+}

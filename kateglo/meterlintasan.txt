@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meter lintasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kodometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meter%20lintasan",
+  "related": [],
+  "detailed": false
+}

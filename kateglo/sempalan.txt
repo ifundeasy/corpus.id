@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sempalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggalan (misal tentang penyiaran dsb suatu peristiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "pecahan (tentang suatu organisasi dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sempalan",
+  "related": [],
+  "detailed": false
+}

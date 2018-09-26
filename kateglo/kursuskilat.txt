@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kursus kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajaran atau pelatihan yang diberikan dalam waktu singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursus%20kilat",
+  "related": [],
+  "detailed": false
+}

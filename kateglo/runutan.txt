@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "runutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil merunut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=runutan",
+  "related": [],
+  "detailed": false
+}

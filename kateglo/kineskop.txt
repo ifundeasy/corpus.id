@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kineskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman film dari acara televisi;"
+      },
+      {
+        "type": "desc",
+        "text": "tabung gambar sinar katode;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memastikan refraksi (pembiasan) dengan cara okulasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kineskop",
+  "related": [],
+  "detailed": false
+}

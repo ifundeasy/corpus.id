@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang jaminan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dipakai sebagai jaminan atas transaksi yang telah disepakati sampai batas waktu yang telah ditentukan (jika transaksi tidak ditepati sesuai dengan waktu yang ditentukan, uang tersebut hilang); uang tanggungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20jaminan",
+  "related": [],
+  "detailed": false
+}

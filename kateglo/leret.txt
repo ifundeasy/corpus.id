@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banjar; jajar;"
+      },
+      {
+        "type": "desc",
+        "text": "deret; saf; baris;"
+      },
+      {
+        "type": "link",
+        "text": "meleret"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leret",
+  "related": [],
+  "detailed": false
+}

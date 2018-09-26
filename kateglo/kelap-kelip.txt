@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelap-kelip",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkelip-kelip (tentang lampu, bintang, kunang-kunang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berkedip-kedip (tentang mata);"
+      },
+      {
+        "type": "desc",
+        "text": "sekejap-sekejap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelap-kelip",
+  "related": [],
+  "detailed": false
+}

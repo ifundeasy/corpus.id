@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silinder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang berbatas bidang lengkung dan dua bulatan yang sama besar; tabung;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang berbentuk bulat torak (dalam mesin, roda arloji, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silinder",
+  "related": [],
+  "detailed": false
+}

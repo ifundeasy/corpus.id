@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rujuk silang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cara untuk mengacu ke kata entri (lema) yang dicantumkan di tempat lain (dalam kamus atau ensiklopedia) yang telah diberi definisi atau penjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang ditunjuk kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rujuk%20silang",
+  "related": [],
+  "detailed": false
+}

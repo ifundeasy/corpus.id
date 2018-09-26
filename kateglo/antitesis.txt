@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antitesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertentangan yang benar-benar;"
+      },
+      {
+        "type": "desc",
+        "text": "pengungkapan gagasan yang bertentangan dalam susunan kata yang sejajar, seperti dalam semboyan \"Merdeka atau Mati\";"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antitesis",
+  "related": [],
+  "detailed": false
+}

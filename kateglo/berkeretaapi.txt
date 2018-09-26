@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkereta api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "naik kereta api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkereta%20api",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isobarik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Fis) mempunyai tekanan sama atau tetap, baik terhadap ruang maupun waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isobarik",
+  "related": [],
+  "detailed": false
+}

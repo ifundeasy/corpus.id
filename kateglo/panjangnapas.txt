@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panjang napas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat bernapas lama-lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjang%20napas",
+  "related": [],
+  "detailed": false
+}

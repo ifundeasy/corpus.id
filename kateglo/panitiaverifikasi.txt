@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panitia verifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panitia yang bertugas meneliti dan menentukan kebenaran suatu laporan (keungan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panitia%20verifikasi",
+  "related": [],
+  "detailed": false
+}

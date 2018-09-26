@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah harta tertentu yang wajib dikeluarkan oleh orang yang beragama Islam dan diberikan kepada golongan yang berhak menerimanya (fakir miskin dsb) menurut ketentuan yang telah ditetapkan oleh syarak;"
+      },
+      {
+        "type": "desc",
+        "text": "salah satu rukun Islam yang mengatur harta yang wajib dikeluarkan kepada mustahik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zakat",
+  "related": [],
+  "detailed": false
+}

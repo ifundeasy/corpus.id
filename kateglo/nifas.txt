@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nifas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "darah yang keluar dari rahim wanita sesudah melahirkan (lamanya 40—60 hari);"
+      },
+      {
+        "type": "desc",
+        "text": "masa sejak melahirkan sampai dengan pulihnya alat-alat dan anggota badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nifas",
+  "related": [],
+  "detailed": false
+}

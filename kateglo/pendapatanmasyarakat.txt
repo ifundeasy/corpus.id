@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan masyarakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapatan bersih masyarakat ditambah dengan upah keluarga yang layak, upah tenaga luar dalam bentuk uang atau bahan, dan pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20masyarakat",
+  "related": [],
+  "detailed": false
+}

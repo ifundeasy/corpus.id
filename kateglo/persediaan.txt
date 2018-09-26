@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persediaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersedia;"
+      },
+      {
+        "type": "desc",
+        "text": "cadangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persediaan",
+  "related": [],
+  "detailed": false
+}

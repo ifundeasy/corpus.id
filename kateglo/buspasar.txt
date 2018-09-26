@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang digunakan khusus untuk melayani angkutan pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20pasar",
+  "related": [],
+  "detailed": false
+}

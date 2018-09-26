@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengguk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyengguk"
+      },
+      {
+        "type": "link",
+        "text": "sesenggukan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengguk",
+  "related": [],
+  "detailed": false
+}

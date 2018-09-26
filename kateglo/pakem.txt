@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pakem",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuat mencekam (tentang rem);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) cerita wayang yang asli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakem",
+  "related": [],
+  "detailed": false
+}

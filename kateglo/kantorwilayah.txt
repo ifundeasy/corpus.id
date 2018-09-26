@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor wilayah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perwakilan suatu departemen pada tingkat provinsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20wilayah",
+  "related": [],
+  "detailed": false
+}

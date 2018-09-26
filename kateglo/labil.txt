@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "goyah; tidak mantap; tidak kokoh (tentang bangunan, pendirian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "goyang; tidak tenang (tentang kendaraan, kapal, pesawat terbang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tetap; mudah berubah-ubah; naik turun (tentang harga barang, nilai uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak stabil; cenderung berubah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) tidak seimbang dan mudah berubah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labil",
+  "related": [],
+  "detailed": false
+}

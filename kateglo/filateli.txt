@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filateli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koleksi dan penyelidikan tentang prangko dan meterai;"
+      },
+      {
+        "type": "desc",
+        "text": "pengumpulan prangko;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filateli",
+  "related": [],
+  "detailed": false
+}

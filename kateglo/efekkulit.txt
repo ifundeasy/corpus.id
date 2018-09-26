@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek kulit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecenderungan arus bolak-balik untuk mengalir dekat permukaan penghantar, terutama pada frekuensi tinggi, sehingga menghasilkan efek kenaikan hambatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20kulit",
+  "related": [],
+  "detailed": false
+}

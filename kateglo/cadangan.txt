@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cadangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anjuran; usul;"
+      },
+      {
+        "type": "desc",
+        "text": "persediaan; serep;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) rancangan; rencana;"
+      },
+      {
+        "type": "desc",
+        "text": "penyisihan dana yang berasal dari kelebihan atau dari laba yang tidak dibagi-bagikan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cadangan",
+  "related": [],
+  "detailed": false
+}

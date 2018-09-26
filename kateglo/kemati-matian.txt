@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemati-matian",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "mati-matian;"
+      },
+      {
+        "type": "desc",
+        "text": "rupanya seperti sudah mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemati-matian",
+  "related": [],
+  "detailed": false
+}

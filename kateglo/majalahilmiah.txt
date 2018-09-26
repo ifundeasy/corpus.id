@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah ilmiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan berkala mengenai ilmu pengetahuan dan isinya khusus tentang suatu bidang ilmu (teknik, kedokteran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20ilmiah",
+  "related": [],
+  "detailed": false
+}

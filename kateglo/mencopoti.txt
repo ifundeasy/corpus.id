@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencopoti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencopot berulang-ulang;"
+      },
+      {
+        "type": "desc",
+        "text": "mencopot beberapa objek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencopoti",
+  "related": [],
+  "detailed": false
+}

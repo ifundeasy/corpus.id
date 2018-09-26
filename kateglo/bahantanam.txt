@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan tanam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bagian tumbuhan yang ditanam, berupa biji, potongan batang (setek), atau belahan rumpun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20tanam",
+  "related": [],
+  "detailed": false
+}

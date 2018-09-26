@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sendorong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "bersendorongan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sendorong",
+  "related": [],
+  "detailed": false
+}

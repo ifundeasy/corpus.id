@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pecahan berulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan persepuluh, bilangan seluruh atau sebagian selalu berulang dan tidak pernah habis dibagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecahan%20berulang",
+  "related": [],
+  "detailed": false
+}

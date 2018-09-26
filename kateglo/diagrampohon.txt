@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagram pohon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) gambaran visual penjabaran suatu satuan atas konstituen secara hierarkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagram%20pohon",
+  "related": [],
+  "detailed": false
+}

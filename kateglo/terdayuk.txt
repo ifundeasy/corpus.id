@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdayuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terliuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdayuk",
+  "related": [],
+  "detailed": false
+}

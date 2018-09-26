@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "flop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "gaya lompat tinggi dengan gerak jungkir balik di udara dan menyentak-nyentakkan kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bld) kegagalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flop",
+  "related": [],
+  "detailed": false
+}

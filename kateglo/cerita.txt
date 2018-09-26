@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cerita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tuturan yang membentangkan bagaimana terjadinya suatu hal (peristiwa, kejadian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "karangan yang menuturkan perbuatan, pengalaman, atau penderitaan orang; kejadian dsb (baik yang sungguh-sungguh terjadi maupun yang hanya rekaan belaka);"
+      },
+      {
+        "type": "desc",
+        "text": "lakon yang diwujudkan atau dipertunjukkan dalam gambar hidup (sandiwara, wayang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) omong kosong; dongengan (yang tidak benar); omongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "argumentatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memiliki (mengandung) alasan yang dapat dipakai sebagai bukti;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan yang bertujuan membuktikan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=argumentatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unilateral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara satu pihak; dilakukan (dipengaruhi dsb) oleh satu golongan saja;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai hubungan kekeluargaan yang didasarkan atas satu garis keturunan (bapak atau ibu saja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unilateral",
+  "related": [],
+  "detailed": false
+}

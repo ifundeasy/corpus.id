@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monotipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin penyusun huruf lepas dan satu per satu, bukan rangkaian huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monotipe",
+  "related": [],
+  "detailed": false
+}

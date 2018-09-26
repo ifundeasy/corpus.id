@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sayid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tuan (sebutan kepada orang Arab keturunan Nabi Muhammad saw.);"
+      },
+      {
+        "type": "desc",
+        "text": "orang Arab keturunan Nabi Muhammad saw.;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayid",
+  "related": [],
+  "detailed": false
+}

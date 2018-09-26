@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni bangunan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni tentang keindahan dalam membuat bangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20bangunan",
+  "related": [],
+  "detailed": false
+}

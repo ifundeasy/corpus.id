@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jebrol",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar (sekaligus);"
+      },
+      {
+        "type": "desc",
+        "text": "lahir (tentang anak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jebrol",
+  "related": [],
+  "detailed": false
+}

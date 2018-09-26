@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesimpulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar (dari uraian, pidato, dsb); kesudahan pendapat (pendapat terakhir yang berdasarkan pada uraian sebelumnya);"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan yang diperoleh berdasarkan metode berpikir induktif atau deduktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesimpulan",
+  "related": [],
+  "detailed": false
+}

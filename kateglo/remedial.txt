@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remedial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan perbaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menyembuhkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remedial",
+  "related": [],
+  "detailed": false
+}

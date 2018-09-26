@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muluk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "raja-raja; malik;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi (tentang cita-cita, rencana, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi; sombong (tentang perkataan, tabiat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi dan merdu (tentang suara);"
+      },
+      {
+        "type": "desc",
+        "text": "membubung tinggi (tentang burung, layang-layang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muluk",
+  "related": [],
+  "detailed": false
+}

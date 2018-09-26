@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pucat (tentang warna);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang keras (tentang bau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengangguran terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengangguran yang ditunjukkan oleh adanya jumlah penganggur yang nyata (yang mudah dilihat dan dapat dihitung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengangguran%20terbuka",
+  "related": [],
+  "detailed": false
+}

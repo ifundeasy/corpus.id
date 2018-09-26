@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gempa vulkanik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) gempa yang disebabkan oleh gunung berapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempa%20vulkanik",
+  "related": [],
+  "detailed": false
+}

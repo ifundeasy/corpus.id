@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpusing-pusing tidak tetap arah (tentang angin);"
+      },
+      {
+        "type": "desc",
+        "text": "terbang berputar-putar; terbang berguling-guling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polang",
+  "related": [],
+  "detailed": false
+}

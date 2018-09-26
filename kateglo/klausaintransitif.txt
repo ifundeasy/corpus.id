@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa intransitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa yang predikat verbanya tidak disertai objek, misal gaji sudah datang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20intransitif",
+  "related": [],
+  "detailed": false
+}

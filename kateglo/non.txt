@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "non",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "nona;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) biarawati;"
+      },
+      {
+        "type": "link",
+        "text": "kaum"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak; bukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=non",
+  "related": [],
+  "detailed": false
+}

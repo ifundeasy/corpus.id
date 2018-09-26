@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tiga satu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "penumpang mobil pribadi dsb paling sedikit berjumlah tiga orang dalam satu mobil apabila melalui jalan tertentu pada jam-jam tertentu di Jakarta (kecuali taksi dan kendaraan umum);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiga%20satu",
+  "related": [],
+  "detailed": false
+}

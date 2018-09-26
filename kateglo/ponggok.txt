@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ponggok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buntung ekor; pokeng; kuntul;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "terponggok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ponggok",
+  "related": [],
+  "detailed": false
+}

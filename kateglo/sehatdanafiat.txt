@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sehat dan afiat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sehat walalfiat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sehat%20dan%20afiat",
+  "related": [],
+  "detailed": false
+}

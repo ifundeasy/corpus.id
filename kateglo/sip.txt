@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sip",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "bebas atau terlindung dari bahaya; aman;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari kemungkinan menderita kerugian, kehilangan, kerusakan, dsb; terjamin;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari ketidakpastian;"
+      },
+      {
+        "type": "desc",
+        "text": "mantap; elok; baik; sempurna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sip",
+  "related": [],
+  "detailed": false
+}

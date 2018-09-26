@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "catatan anekdot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan tentang kejadian yang bertalian dengan masalah yang sedang menjadi pusat perhatian pengamat, terutama catatan tentang tingkah laku individu yang bersifat khas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catatan%20anekdot",
+  "related": [],
+  "detailed": false
+}

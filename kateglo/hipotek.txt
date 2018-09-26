@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit yang diberikan atas dasar jaminan berupa benda tidak bergerak;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pernyataan berutang untuk jangka panjang yang berisi ketentuan bahwa kreditor dapat memindahkan sebagian atau seluruh hak tagihannya kepada pihak ketiga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotek",
+  "related": [],
+  "detailed": false
+}

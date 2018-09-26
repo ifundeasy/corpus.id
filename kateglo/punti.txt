@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "punti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pisang raja;"
+      },
+      {
+        "type": "desc",
+        "text": "nama ikan laut; ikan punti;"
+      },
+      {
+        "type": "desc",
+        "text": "nama ular; ular punti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=punti",
+  "related": [],
+  "detailed": false
+}

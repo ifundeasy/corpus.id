@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tropis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai daerah tropik (sekitar khatulistiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "beriklim panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tropis",
+  "related": [],
+  "detailed": false
+}

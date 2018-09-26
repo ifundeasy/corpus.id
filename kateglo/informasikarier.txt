@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "informasi karier",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang karier yang perlu dipertimbangkan, seperti tuntutan karier dan kesem-patan yang tersedia atau yang ditawarkan dalam karier;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informasi%20karier",
+  "related": [],
+  "detailed": false
+}

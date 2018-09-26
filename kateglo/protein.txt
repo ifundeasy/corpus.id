@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protein",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok senyawa organik bernitrogen yang rumit dengan bobot molekul tinggi yang sangat penting bagi kehidupan; bahan organik yang susunannya sangat majemuk, yang terdiri atas beratus-ratus atau beribu-ribu asam amino, dan merupakan bahan utama pembentukan sel dan inti sel; zat putih telur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protein",
+  "related": [],
+  "detailed": false
+}

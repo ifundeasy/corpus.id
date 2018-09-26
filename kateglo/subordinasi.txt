@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subordinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedudukan bawahan (terutama dalam kemiliteran);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggabungan dua unsur gramatikal dengan cara sedemikian rupa sehingga yang satu terikat kepada yang lain; hubungan antara klausa terikat dan klausa bebas dalam sebuah kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subordinasi",
+  "related": [],
+  "detailed": false
+}

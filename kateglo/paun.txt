@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan mata uang Inggris (pound);"
+      },
+      {
+        "type": "desc",
+        "text": "uang ringgit emas (untuk perhiasan, bandul kalung, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selumu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "berselumu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selumu",
+  "related": [],
+  "detailed": false
+}

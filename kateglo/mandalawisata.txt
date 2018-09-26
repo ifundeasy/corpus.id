@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mandala wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang disediakan untuk kunjungan kepariwisataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandala%20wisata",
+  "related": [],
+  "detailed": false
+}

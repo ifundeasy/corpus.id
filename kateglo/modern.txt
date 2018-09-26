@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modern",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbaru; mutakhir;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sikap dan cara berpikir serta cara bertindak sesuai dengan tuntutan zaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modern",
+  "related": [],
+  "detailed": false
+}

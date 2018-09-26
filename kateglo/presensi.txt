@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "presensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehadiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=presensi",
+  "related": [],
+  "detailed": false
+}

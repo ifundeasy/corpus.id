@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modal kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bagian modal yang beredar dalam jangka waktu pendek, yaitu beredar dari uang menjadi persediaan barang piutang dan menjadi uang kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modal%20kerja",
+  "related": [],
+  "detailed": false
+}

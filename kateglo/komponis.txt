@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komponis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggubah lagu (musik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komponis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan alami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan ikan yang berupa jasad renik yang terdapat di dalam kolam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20alami",
+  "related": [],
+  "detailed": false
+}

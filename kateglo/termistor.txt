@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termistor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) zat yang daya hantar listriknya akan meningkat dengan naiknya suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termistor",
+  "related": [],
+  "detailed": false
+}

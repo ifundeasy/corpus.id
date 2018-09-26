@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik koordinat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik utama pada pedoman atau kompas, yaitu titik utara, selatan, timur, dan barat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20koordinat",
+  "related": [],
+  "detailed": false
+}

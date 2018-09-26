@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "raba",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jamah;"
+      },
+      {
+        "type": "desc",
+        "text": "terka; duga;"
+      },
+      {
+        "type": "link",
+        "text": "meraba"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raba",
+  "related": [],
+  "detailed": false
+}

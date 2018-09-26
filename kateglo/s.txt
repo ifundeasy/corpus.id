@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "S",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-19 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) signum (berarti tanda atau cap);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) solo (dalam musik, berarti bernyanyi atau memainkan instrumen musik seorang diri);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) soprano (dalam musik, berarti suara tertinggi; sopran);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) stere (dalam sistem metrik, berarti satu meter kubik);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) strata (dalam sistem pendidikan tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=S",
+  "related": [],
+  "detailed": false
+}

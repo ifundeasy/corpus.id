@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "institusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga; pranata;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dilem-bagakan oleh undang-undang, adat atau kebiasaan (seperti perkumpulan, paguyuban, organisasi sosial, dan kebiasaan berhalal-bihalal pada hari Lebaran);"
+      },
+      {
+        "type": "desc",
+        "text": "gedung tempat diselenggarakannya kegiatan perkumpulan atau organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=institusi",
+  "related": [],
+  "detailed": false
+}

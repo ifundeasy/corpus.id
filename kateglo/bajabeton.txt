@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baja beton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baja khusus yang digunakan untuk konstruksi beton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baja%20beton",
+  "related": [],
+  "detailed": false
+}

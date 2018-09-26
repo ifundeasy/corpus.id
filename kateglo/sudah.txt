@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sudah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "telah jadi; telah sedia; selesai;"
+      },
+      {
+        "type": "desc",
+        "text": "habis, berakhir;"
+      },
+      {
+        "type": "desc",
+        "text": "telah lalu (lampau, terjadi); terdahulu;"
+      },
+      {
+        "type": "desc",
+        "text": "telah (menyatakan perbuatan yang telah terjadi);"
+      },
+      {
+        "type": "desc",
+        "text": "cukuplah sekian saja;"
+      },
+      {
+        "type": "desc",
+        "text": "memang demikian (halnya, keadaannya, dsb); begitulah (halnya) sejak semula;"
+      },
+      {
+        "type": "desc",
+        "text": "sehabis; setelah;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berpihak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudah",
+  "related": [],
+  "detailed": false
+}

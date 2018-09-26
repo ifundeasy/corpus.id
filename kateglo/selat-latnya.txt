@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selat-latnya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "selambat-lambatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selat-latnya",
+  "related": [],
+  "detailed": false
+}

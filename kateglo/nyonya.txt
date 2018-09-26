@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyonya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan untuk wanita yang sudah bersuami;"
+      },
+      {
+        "type": "desc",
+        "text": "istri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyonya",
+  "related": [],
+  "detailed": false
+}

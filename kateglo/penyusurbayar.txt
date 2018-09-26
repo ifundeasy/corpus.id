@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyusur bayar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) pembayaran utang dengan angsuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyusur%20bayar",
+  "related": [],
+  "detailed": false
+}

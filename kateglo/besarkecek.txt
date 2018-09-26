@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "besar kecek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar cakap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besar%20kecek",
+  "related": [],
+  "detailed": false
+}

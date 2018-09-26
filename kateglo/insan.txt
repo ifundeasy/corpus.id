@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insan",
+  "related": [],
+  "detailed": false
+}

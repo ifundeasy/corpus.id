@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komuni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "sakramen dalam gereja yang diwujudkan dengan penyantapan roti dan anggur;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian misa saat diterimakannya roti dan anggur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komuni",
+  "related": [],
+  "detailed": false
+}

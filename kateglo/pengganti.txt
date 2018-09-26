@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengganti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi ganti (tentang barang); penukar; sulih;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menggantikan kedudukan atau jabatan orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengganti",
+  "related": [],
+  "detailed": false
+}

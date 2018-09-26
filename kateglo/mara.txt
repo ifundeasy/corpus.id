@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bencana; bahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "tampil ke hadapan; maju;"
+      },
+      {
+        "type": "desc",
+        "text": "datang (ke suatu tempat);"
+      },
+      {
+        "type": "desc",
+        "text": "kota mara;"
+      },
+      {
+        "type": "desc",
+        "text": "sangga mara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mara",
+  "related": [],
+  "detailed": false
+}

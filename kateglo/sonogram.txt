@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sonogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) rekaman atau gambar yang dihasilkan dari pemeriksaan ultrasonik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sonogram",
+  "related": [],
+  "detailed": false
+}

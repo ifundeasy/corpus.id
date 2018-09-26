@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampai umur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dewasa; akil balig;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lanjut usia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampai%20umur",
+  "related": [],
+  "detailed": false
+}

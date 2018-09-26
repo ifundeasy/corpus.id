@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ledung",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "meledung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ledung",
+  "related": [],
+  "detailed": false
+}

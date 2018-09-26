@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piezoelektrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) berkenaan dengan terjadinya arus listrik dalam jenis kristal tertentu apabila diberi tekanan mekanis atau sebaliknya, dan apabila kristal ini dilalui arus listrik bolak-balik, kristalnya bergetar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piezoelektrik",
+  "related": [],
+  "detailed": false
+}

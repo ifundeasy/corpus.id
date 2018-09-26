@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang tidak mengandung benda-benda asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20bersih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang melambangkan vokal, yaitu a, i, u, e, o; huruf vokal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20hidup",
+  "related": [],
+  "detailed": false
+}

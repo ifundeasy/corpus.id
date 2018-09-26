@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskualifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "larangan turut bertanding bagi seseorang atau sebuah regu karena melanggar peraturan pertandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan tidak cakap atau tidak mampu;"
+      },
+      {
+        "type": "desc",
+        "text": "pencabutan hak;"
+      },
+      {
+        "type": "desc",
+        "text": "hal tidak memenuhi syarat akibat kelainan atau cacat pada tubuhnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskualifikasi",
+  "related": [],
+  "detailed": false
+}

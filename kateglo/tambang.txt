@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lombong (cebakan, parit, lubang di dalam tanah) tempat menggali (mengambil) hasil dari dalam bumi berupa bijih logam batu bara, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sampan (perahu dsb) untuk menyeberangkan orang; tambangan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menumpang atau barang muatan (opelet, mobil, dsb); tambangan;"
+      },
+      {
+        "type": "desc",
+        "text": "ongkos menumpang bendi (perahu dsb) sewaan; tambangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kendaraan yang disewakan (bemo, taksi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tali yang besar;"
+      },
+      {
+        "type": "desc",
+        "text": "pancang (tambatan binatang);"
+      },
+      {
+        "type": "link",
+        "text": "bertambangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambang",
+  "related": [],
+  "detailed": false
+}

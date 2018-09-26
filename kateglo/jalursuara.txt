@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) jalur yang terdapat pada tepi rangkaian film bicara, menghasilkan suara jika dipasang pada proyektor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah tempat memperoleh pendidikan sebagai dasar pengetahuan untuk melanjutkan ke sekolah yang lebih tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20dasar",
+  "related": [],
+  "detailed": false
+}

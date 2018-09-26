@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepeda stasioner",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda yang bergerak di tempatnya dan khusus untuk berolahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepeda%20stasioner",
+  "related": [],
+  "detailed": false
+}

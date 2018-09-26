@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis alas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) garis yang menjadi dasar segitiga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20alas",
+  "related": [],
+  "detailed": false
+}

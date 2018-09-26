@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gastrin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) hormon saluran makanan yang pada kepekatan faal merangsang penggetahan asam lambung, tetapi pada kepekatan tinggi menekan penggetahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gastrin",
+  "related": [],
+  "detailed": false
+}

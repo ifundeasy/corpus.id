@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parentesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kata, frasa, atau kalimat penjelasan yang ditambahkan dalam kalimat lain, biasanya dipisahkan dengan diapit tanda koma, garis pemisah, atau tanda kurung dan berfungsi menjelaskan atau apositif;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda kurung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parentesis",
+  "related": [],
+  "detailed": false
+}

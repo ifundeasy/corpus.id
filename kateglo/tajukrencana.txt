@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tajuk rencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan pokok dalam surat kabar, majalah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tajuk%20rencana",
+  "related": [],
+  "detailed": false
+}

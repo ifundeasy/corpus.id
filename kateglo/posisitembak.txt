@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi tembak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "posisi yang diambil oleh proyektil untuk menembak; posisi senjata yang siap untuk ditembakkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20tembak",
+  "related": [],
+  "detailed": false
+}

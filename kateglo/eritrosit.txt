@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eritrosit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) sel darah merah mengandung hemoglobin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eritrosit",
+  "related": [],
+  "detailed": false
+}

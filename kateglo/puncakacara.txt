@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puncak acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "acara yang paling penting dan paling meriah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puncak%20acara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerangka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis besar suatu gejala atau kejadian yang akan dibuat dalam laporan lengkap dan resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "rangka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerangka",
+  "related": [],
+  "detailed": false
+}

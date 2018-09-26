@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bancar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lancar keluar (tentang air susu, air seni, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bancar",
+  "related": [],
+  "detailed": false
+}

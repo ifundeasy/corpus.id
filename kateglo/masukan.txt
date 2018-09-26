@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memasukkan; apa yang dimasukkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaruh yang membawa akibat terhadap jalannya fungsi suatu sistem politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masukan",
+  "related": [],
+  "detailed": false
+}

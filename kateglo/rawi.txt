@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang meriwayatkan hadis Nabi Muhammad saw.;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bercerita; pengarang cerita (sahibulhikayat, yang empunya cerita);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawi",
+  "related": [],
+  "detailed": false
+}

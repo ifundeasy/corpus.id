@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "massa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejumlah besar benda (zat dsb) yang dikumpulkan (disatukan) menjadi satu (atau kesatuan);"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah yang banyak sekali; sekumpulan orang yang banyak sekali (berkumpul di suatu tempat atau tersebar);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok manusia yang bersatu karena dasar atau pegangan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) ukuran kuantitatif sifat kelembaman (inersia) benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=massa",
+  "related": [],
+  "detailed": false
+}

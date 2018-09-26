@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta lereng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20lereng",
+  "related": [],
+  "detailed": false
+}

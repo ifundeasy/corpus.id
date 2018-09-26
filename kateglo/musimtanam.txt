@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musim tanam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu tertentu yang dijadikan sebagai tahap permulaan menanam (padi dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim%20tanam",
+  "related": [],
+  "detailed": false
+}

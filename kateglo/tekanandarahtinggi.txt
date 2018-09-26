@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan darah tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang tidak normal (tekanan darah terlalu tinggi); hipertensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20darah%20tinggi",
+  "related": [],
+  "detailed": false
+}

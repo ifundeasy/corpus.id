@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konklaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan para kardinal gereja Katolik yang diadakan untuk memilih Paus yang baru;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang tempat para kardinal bersidang untuk memilih Paus yang baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konklaf",
+  "related": [],
+  "detailed": false
+}

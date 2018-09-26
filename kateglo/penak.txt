@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penak",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pinak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) terasa enak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penak",
+  "related": [],
+  "detailed": false
+}

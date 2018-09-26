@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak bawang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "peserta bermain yang tidak masuk hitungan (hanya sebagai penggenap atau ikut-ikutan saja);"
+      },
+      {
+        "type": "desc",
+        "text": "anak kecil yang masih belum mengerti apa-apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20bawang",
+  "related": [],
+  "detailed": false
+}

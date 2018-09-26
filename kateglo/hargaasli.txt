@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) jumlah uang yang dikeluarkan untuk membeli barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20asli",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "binatang laut yang berbentuk tabung pendek dengan ujung tertutup yang hidup melekat pada benda lain (karang, batu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) tumor bertangkai yang melekat pada selaput lendir (pada hidung, kadang-kadang juga pada kulit, plasenta, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polip",
+  "related": [],
+  "detailed": false
+}

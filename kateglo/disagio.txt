@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disagio",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "perbedaan kurs mata uang yang mengakibatkan kerugian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disagio",
+  "related": [],
+  "detailed": false
+}

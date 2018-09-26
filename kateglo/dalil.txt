@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dalil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan yang dijadikan bukti atau alasan suatu kebenaran (terutama berdasarkan ayat Alquran);"
+      },
+      {
+        "type": "desc",
+        "text": "patokan dalam matematika dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat yang dikemukakan dan dipertahankan sebagai suatu kebenaran;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda; penunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dalil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singkat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek (tentang umur, waktu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ringkas (tentang cerita, pidato, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkat",
+  "related": [],
+  "detailed": false
+}

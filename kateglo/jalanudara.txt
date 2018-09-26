@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran, dapat berupa pipa, terowongan, atau sumuran, yang berfungsi melewatkan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20udara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monokrom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lukisan atau reproduksi berwarna tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monokrom",
+  "related": [],
+  "detailed": false
+}

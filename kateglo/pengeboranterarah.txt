@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeboran terarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeboran yang sengaja menyimpangkan arah lubang bor untuk menghindari halangan dengan membuat perpotongan tambahan atau menuju arah yang berbeda dari semula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeboran%20terarah",
+  "related": [],
+  "detailed": false
+}

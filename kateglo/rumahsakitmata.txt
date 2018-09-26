@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit mata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20mata",
+  "related": [],
+  "detailed": false
+}

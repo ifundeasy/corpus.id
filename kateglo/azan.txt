@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "azan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seruan untuk mengajak orang melakukan salat; bang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=azan",
+  "related": [],
+  "detailed": false
+}

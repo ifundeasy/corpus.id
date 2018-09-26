@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membilang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung (dengan menyebut satu per satu untuk mengetahui berapa banyaknya);"
+      },
+      {
+        "type": "desc",
+        "text": "mengingat akan; mengindahkan; mempedulikan;"
+      },
+      {
+        "type": "desc",
+        "text": "memandang sebagai; memasukkan dalam golongan (lingkungan);"
+      },
+      {
+        "type": "desc",
+        "text": "memperhitungkan nasib (untung malang, baik buruk hari, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mengatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membilang",
+  "related": [],
+  "detailed": false
+}

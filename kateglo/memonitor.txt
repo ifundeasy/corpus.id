@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memonitor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengawasi, mengamati, atau mengecek dengan cermat, terutama untuk tujuan khusus; memantau;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatur atau mengontrol kerja suatu mesin dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengecek atau mengatur volume bunyi atau suara dalam merekam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memonitor",
+  "related": [],
+  "detailed": false
+}

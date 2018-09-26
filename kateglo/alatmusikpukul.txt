@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat musik pukul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik yang dibunyikan dengan memukul atau menabuh (seperti gender, bonang, gong, tambur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20musik%20pukul",
+  "related": [],
+  "detailed": false
+}

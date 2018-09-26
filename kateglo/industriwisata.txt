@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan usaha dengan penyediaan atau penyelenggaraan fasilitas perjalanan, akomodasi, makanan, rekreasi dan hiburan, atraksi kebudayaan, serta fasilitas lain yang diperlukan wisatawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20wisata",
+  "related": [],
+  "detailed": false
+}

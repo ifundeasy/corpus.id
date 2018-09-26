@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah satu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "satu di antara yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20satu",
+  "related": [],
+  "detailed": false
+}

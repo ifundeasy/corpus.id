@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taksiran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kiraan; hitungan kasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksiran",
+  "related": [],
+  "detailed": false
+}

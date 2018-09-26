@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zuhur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu tengah hari;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu salat wajib setelah matahari tergelincir sampai menjelang petang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada waktu tengah hari sampai menjelang petang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zuhur",
+  "related": [],
+  "detailed": false
+}

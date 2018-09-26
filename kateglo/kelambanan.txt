@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelambanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal lamban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelambanan",
+  "related": [],
+  "detailed": false
+}

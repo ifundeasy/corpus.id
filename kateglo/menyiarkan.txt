@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyiarkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meratakan ke mana-mana;"
+      },
+      {
+        "type": "desc",
+        "text": "memberitahukan kepada umum (melalui radio, surat kabar, dsb); mengumumkan (berita dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyebarkan atau mempropagandakan (pendapat, paham, agama, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menerbitkan dan menjual (buku, gambar, foto, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memancarkan (cahaya, terang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengirimkan (lagu-lagu, musik, pidato, dsb) melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyiarkan",
+  "related": [],
+  "detailed": false
+}

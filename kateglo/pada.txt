@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pada",
+  "tags": {
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan yang dipakai untuk menunjukkan posisi di atas atau di dalam hubungan dengan, searti dengan di (dipakai di depan kata benda, kata ganti orang, keterangan waktu) atau ke;"
+      },
+      {
+        "type": "desc",
+        "text": "menurut ...;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cukup (tidak kurang, tetapi tidak lebih); lumayan;"
+      },
+      {
+        "type": "desc",
+        "text": "puas;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(cak) sama-sama (untuk menyatakan bahwa yang melakukan banyak);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan pola tekanan yang dipakai untuk mengukur struktur persajakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan fonologis yang terjadi dari sekelompok suku kata bertekanan dan/atau tidak bertekanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pada",
+  "related": [],
+  "detailed": false
+}

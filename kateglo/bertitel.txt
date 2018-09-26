@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertitel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai titel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertitel",
+  "related": [],
+  "detailed": false
+}

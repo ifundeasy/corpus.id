@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkepak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersayap;"
+      },
+      {
+        "type": "desc",
+        "text": "berkepak-kepak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkepak",
+  "related": [],
+  "detailed": false
+}

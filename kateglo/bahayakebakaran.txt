@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahaya kebakaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahaya api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahaya%20kebakaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cegah siar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "larangan menayangkan program acara di stasiun televisi atau radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cegah%20siar",
+  "related": [],
+  "detailed": false
+}

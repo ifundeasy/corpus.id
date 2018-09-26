@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya angkut keluar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya pengiriman barang keluar yang dibebankan pada perusahaan si pengirim;"
+      },
+      {
+        "type": "desc",
+        "text": "pos yang mencatat biaya pengiriman barang keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20angkut%20keluar",
+  "related": [],
+  "detailed": false
+}

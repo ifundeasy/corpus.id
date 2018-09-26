@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi telur per ekor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah telur yang dihasilkan oleh seekor ayam petelur sejak bertelur sampai dikeluarkan karena sudah kurang produktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20telur%20per%20ekor",
+  "related": [],
+  "detailed": false
+}

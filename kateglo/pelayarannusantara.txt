@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayaran Nusantara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayaran angkutan antarpulau di seluruh Nusantara/Indonesia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayaran%20Nusantara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "duodrama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan drama yang hanya dimainkan oleh dua orang pemain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=duodrama",
+  "related": [],
+  "detailed": false
+}

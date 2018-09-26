@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suara minor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) suara yang tidak enak didengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suara%20minor",
+  "related": [],
+  "detailed": false
+}

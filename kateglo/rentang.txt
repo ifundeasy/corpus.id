@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uluran;"
+      },
+      {
+        "type": "desc",
+        "text": "uluran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentang",
+  "related": [],
+  "detailed": false
+}

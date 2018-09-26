@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelinci percobaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelinci yang dipelihara untuk mencobakan obat-obat, bahan kimia, dsb, yang masih dalam penyelidikan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang pertama-tama dimanfaatkan sebagai percobaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelinci%20percobaan",
+  "related": [],
+  "detailed": false
+}

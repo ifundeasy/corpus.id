@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendek umur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) tidak lama hidup (masih muda sudah mati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendek%20umur",
+  "related": [],
+  "detailed": false
+}

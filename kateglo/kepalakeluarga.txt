@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertanggung jawab terhadap suatu keluarga (biasanya bapak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20keluarga",
+  "related": [],
+  "detailed": false
+}

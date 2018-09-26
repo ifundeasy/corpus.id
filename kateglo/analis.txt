@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "analis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menganalisis atau melakukan analisis;"
+      },
+      {
+        "type": "desc",
+        "text": "ahli ilmu kimia yang bekerja di laboratorium (menjalankan penyelidikan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) orang yang mencari dan mengumpulkan data untuk penilaian kekayaan atau kemampuan perusahaan demi kepentingan pemodal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analis",
+  "related": [],
+  "detailed": false
+}

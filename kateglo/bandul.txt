@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bandul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buaian (lonceng dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "benda yang digantungkan sebagai pemberat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) batang tegar atau tali yang satu ujungnya dihubungkan dengan bola atau silinder pembobot dengan massa tertentu dan ujung lainnya diikatkan pada suatu titik tetap sehingga ujung yang mempunyai pembobot dapat bergantung bebas dan berayun dengan kala (periode) tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) pembobot yang dapat berayun dari suatu sistem ayunan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pukulan yang diayunkan dari bawah ke atas (terutama dalam olahraga pencak silat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandul",
+  "related": [],
+  "detailed": false
+}

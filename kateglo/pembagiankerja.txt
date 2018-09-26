@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembagian kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem penggolongan semua pekerjaan dalam masyarakat berdasarkan jenis kelamin, usia, dan keahlian warga masyarakat yang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembagian%20kerja",
+  "related": [],
+  "detailed": false
+}

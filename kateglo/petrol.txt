@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petrol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan bakar terbuat dari campuran gas alam dan petroleum; bensin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petrol",
+  "related": [],
+  "detailed": false
+}

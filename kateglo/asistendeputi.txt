@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asisten deputi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan pembantu deputi, setaraf eselon dua di kementerian negara, badan;"
+      },
+      {
+        "type": "desc",
+        "text": "pejabat pembantu deputi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asisten%20deputi",
+  "related": [],
+  "detailed": false
+}

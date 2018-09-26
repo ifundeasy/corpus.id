@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selit",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "selit belit"
+      },
+      {
+        "type": "link",
+        "text": "selit sepit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selit",
+  "related": [],
+  "detailed": false
+}

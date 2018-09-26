@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tukar lalu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar barang dengan tidak menambah uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukar%20lalu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "museum seni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "museum tempat memamerkan berbagai barang seni rupa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=museum%20seni",
+  "related": [],
+  "detailed": false
+}

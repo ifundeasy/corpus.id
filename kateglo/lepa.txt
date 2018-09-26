@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lepa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "lepa-lepa"
+      },
+      {
+        "type": "desc",
+        "text": "campuran kapur, semen, pasir, dsb untuk melekatkan batu bata dsb;"
+      },
+      {
+        "type": "link",
+        "text": "terlepa"
+      },
+      {
+        "type": "link",
+        "text": "lepa-lepa"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepa",
+  "related": [],
+  "detailed": false
+}

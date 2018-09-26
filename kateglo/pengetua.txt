@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengetua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dipertua (pemimpin, kepala, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penghulu yang tertua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengetua",
+  "related": [],
+  "detailed": false
+}

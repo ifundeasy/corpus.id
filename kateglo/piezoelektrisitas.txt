@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piezoelektrisitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) arus listrik yang diperoleh dari efek piezoelektrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piezoelektrisitas",
+  "related": [],
+  "detailed": false
+}

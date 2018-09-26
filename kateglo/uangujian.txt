@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang ujian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dibayarkan oleh siswa atau mahasiswa untuk dapat mengikuti ujian;"
+      },
+      {
+        "type": "desc",
+        "text": "uang vakasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20ujian",
+  "related": [],
+  "detailed": false
+}

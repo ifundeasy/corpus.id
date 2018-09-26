@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peraturan pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk perundang-undangan yang dibuat atau ditetapkan oleh presiden untuk melaksanakan undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peraturan%20pemerintah",
+  "related": [],
+  "detailed": false
+}

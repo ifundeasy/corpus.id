@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemendur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memegang pimpinan pasukan; perwira tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "syahbandar; pembesar pelabuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala atau pengawas pekerja; mandor;"
+      },
+      {
+        "type": "desc",
+        "text": "pejabat pamong praja pada zaman penjajahan Belanda, tugasnya sebagai pengawas; kontrolir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemendur",
+  "related": [],
+  "detailed": false
+}

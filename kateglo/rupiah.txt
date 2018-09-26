@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rupiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan mata uang Republik Indonesia yang bernilai 100 sen;"
+      },
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      },
+      {
+        "type": "desc",
+        "text": "-- sikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rupiah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nisbah pengupasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) perbandingan antara jumlah volume lapisan penutup yang perlu disingkirkan (dalam meter kubik) untuk memperoleh satu ton bahan galian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisbah%20pengupasan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemampuan bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kemampuan seseorang menggunakan bahasa yang memadai dilihat dari sistem bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemampuan%20bahasa",
+  "related": [],
+  "detailed": false
+}

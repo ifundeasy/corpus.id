@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan tua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan susut;"
+      },
+      {
+        "type": "desc",
+        "text": "akhir-akhir bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20tua",
+  "related": [],
+  "detailed": false
+}

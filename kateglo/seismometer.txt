@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seismometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur (merekam) getaran gempa bumi tentang kekuatan, lama, arah, dan jaraknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seismometer",
+  "related": [],
+  "detailed": false
+}

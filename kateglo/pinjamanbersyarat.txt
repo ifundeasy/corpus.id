@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinjaman bersyarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinjaman kepada perusahaan untuk masa tertentu, biasanya 1—10 tahun dengan pengembaliannya secara diangsur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjaman%20bersyarat",
+  "related": [],
+  "detailed": false
+}

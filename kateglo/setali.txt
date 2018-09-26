@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setali",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "senilai 25 sen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setali",
+  "related": [],
+  "detailed": false
+}

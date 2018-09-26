@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ransum lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum budi daya perairan yang mencakupi semua hubungan gizi bagi spesies yang dipiara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ransum%20lengkap",
+  "related": [],
+  "detailed": false
+}

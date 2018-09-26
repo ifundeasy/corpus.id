@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyalak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang dpt menyalak (mengeluarkan bunyi seperti sirene);"
+      },
+      {
+        "type": "desc",
+        "text": "suka menyalak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyalak",
+  "related": [],
+  "detailed": false
+}

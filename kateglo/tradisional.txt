@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tradisional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sikap dan cara berpikir serta bertindak yang selalu berpegang teguh pada norma dan adat kebiasaan yang ada secara turun-temurun;"
+      },
+      {
+        "type": "desc",
+        "text": "menurut tradisi (adat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tradisional",
+  "related": [],
+  "detailed": false
+}

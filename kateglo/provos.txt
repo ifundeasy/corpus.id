@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "provos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan yang bertugas sebagai polisi dalam kesatuan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=provos",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejenuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kejemuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepadatan (tentang udara);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) keadaan yang menggambarkan kenaikan penyebab tanpa menimbulkan kenaikan hasil;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kekenyangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejenuhan",
+  "related": [],
+  "detailed": false
+}

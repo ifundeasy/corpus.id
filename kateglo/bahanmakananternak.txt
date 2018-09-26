@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan makanan ternak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat dimakan oleh ternak, seperti rumput, limbah pertanian, kacang hijau, dan ikan teri; pakan ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20makanan%20ternak",
+  "related": [],
+  "detailed": false
+}

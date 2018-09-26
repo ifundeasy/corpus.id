@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diktum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan (pernyataan) resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan; bagian dari ketetapan yang mengandung keputusan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) bagian yang memuat hal yang ditetapkan hakim dalam putusan pengadilan; amar putusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diktum",
+  "related": [],
+  "detailed": false
+}

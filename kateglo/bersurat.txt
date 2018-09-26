@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersurat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada tulisannya; bertulis; ditulisi;"
+      },
+      {
+        "type": "desc",
+        "text": "berkirim surat; berkirim kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersurat",
+  "related": [],
+  "detailed": false
+}

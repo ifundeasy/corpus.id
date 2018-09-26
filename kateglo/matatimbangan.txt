@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata timbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis-garis pada timbangan yang menentukan berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20timbangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang digunakan untuk menulis kata-kata, seperti a, b, k, dan p;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20kecil",
+  "related": [],
+  "detailed": false
+}

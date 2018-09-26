@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penagih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menagih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penagih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kognisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan atau proses memperoleh pengetahuan (termasuk kesadaran, perasaan, dsb) atau usaha mengenali sesuatu melalui pengalaman sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sos) proses, pengenalan, dan penafsiran lingkungan oleh seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil pemerolehan pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kognisi",
+  "related": [],
+  "detailed": false
+}

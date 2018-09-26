@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membelah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menetak dsb menjadi dua bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "memisah atas dua bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "memecah jadi dua atau banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membelah",
+  "related": [],
+  "detailed": false
+}

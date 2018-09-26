@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "premi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadiah (uang dsb) yang diberikan sebagai perangsang untuk meningkatkan prestasi kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "hadiah (dalam undian, perlombaan, pembelian);"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah uang yang harus dibayarkan pada waktu tertentu kepada asuransi sosial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premi",
+  "related": [],
+  "detailed": false
+}

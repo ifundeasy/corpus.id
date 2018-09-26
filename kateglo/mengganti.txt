@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengganti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menukar (dengan yang lain);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi ganti (tentang barang);"
+      },
+      {
+        "type": "desc",
+        "text": "mewakili;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengganti",
+  "related": [],
+  "detailed": false
+}

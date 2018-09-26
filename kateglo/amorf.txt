@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amorf",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mempunyai bentuk atau tidak jelas bentuknya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) tidak menghablur dan tidak mempunyai bentuk geometri tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) tidak memiliki susunan atom (tentang bahan mineral);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amorf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "almanak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penanggalan (daftar hari, minggu, bulan, hari-hari raya dalam setahun) yang disertai dengan data keastronomian, ramalan cuaca, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "buku berisi penanggalan dan karangan yang perlu diketahui umum, biasanya terbit tiap tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=almanak",
+  "related": [],
+  "detailed": false
+}

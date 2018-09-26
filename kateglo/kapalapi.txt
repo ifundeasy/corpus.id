@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal laut yang digerakkan oleh mesin uap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20api",
+  "related": [],
+  "detailed": false
+}

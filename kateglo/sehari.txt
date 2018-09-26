@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sehari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sehari",
+  "related": [],
+  "detailed": false
+}

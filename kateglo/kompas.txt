@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengetahui arah mata angin (biasanya berbentuk seperti jam yang berjarum besi berani yang menunjuk arah utara dan selatan);"
+      },
+      {
+        "type": "desc",
+        "text": "pedoman arah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengompas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompas",
+  "related": [],
+  "detailed": false
+}

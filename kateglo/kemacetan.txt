@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemacetan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) macet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemacetan",
+  "related": [],
+  "detailed": false
+}

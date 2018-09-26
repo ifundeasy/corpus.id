@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suku bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "sanak saudara; kerabat; keluarga;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan (orang yang sekerja, sepaham, sepangkat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) lebai; modin;"
+      },
+      {
+        "type": "desc",
+        "text": "keluarga garis matrilineal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaum",
+  "related": [],
+  "detailed": false
+}

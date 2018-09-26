@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bakteri pengikat nitrogen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakteri yang mempunyai kemampuan mengikat nitrogen bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteri%20pengikat%20nitrogen",
+  "related": [],
+  "detailed": false
+}

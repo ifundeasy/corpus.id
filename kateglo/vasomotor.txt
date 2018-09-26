@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vasomotor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) menyangkut saraf yang mengatur pelebaran atau penyempitan pembuluh darah atau peredaran darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vasomotor",
+  "related": [],
+  "detailed": false
+}

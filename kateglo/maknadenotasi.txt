@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna denotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna kata atau kelompok kata yang didasarkan atas hubungan lugas antara satuan bahasa dan wujud di luar bahasa, seperti orang, benda, tempat, sifat, proses, kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20denotasi",
+  "related": [],
+  "detailed": false
+}

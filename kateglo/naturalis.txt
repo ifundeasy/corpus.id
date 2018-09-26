@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naturalis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengadakan penyelidikan khusus mengenai binatang dan tumbuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat natural (alami); bercorak alam nyata (dalam seni);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menganut paham naturalisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naturalis",
+  "related": [],
+  "detailed": false
+}

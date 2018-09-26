@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan singkat mengenai jalannya persidangan (rapat) serta hal yang dibicarakan dan diputuskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notula",
+  "related": [],
+  "detailed": false
+}

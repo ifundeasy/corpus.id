@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersembahyang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan sembahyang (salat);"
+      },
+      {
+        "type": "desc",
+        "text": "berdoa (memohon) kepada Tuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "upacara selamatan untuk menghormati (memuliakan) para leluhur dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersembahyang",
+  "related": [],
+  "detailed": false
+}

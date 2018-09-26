@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja untuk orang lain dengan mendapat upah; pekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh",
+  "related": [],
+  "detailed": false
+}

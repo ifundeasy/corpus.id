@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sasar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang pikir; tidak beres ingatan; setengah gila;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyasar"
+      },
+      {
+        "type": "link",
+        "text": "menyasar"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "sasaran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasar",
+  "related": [],
+  "detailed": false
+}

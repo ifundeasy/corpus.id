@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "solid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuat; kukuh; berbobot;"
+      },
+      {
+        "type": "desc",
+        "text": "padat; berisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=solid",
+  "related": [],
+  "detailed": false
+}

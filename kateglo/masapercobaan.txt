@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa percobaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) tenggang waktu yang ditentukan oleh hakim, dalam waktu itu terpidana tidak boleh melanggar syarat yang ditentukan oleh hakim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20percobaan",
+  "related": [],
+  "detailed": false
+}

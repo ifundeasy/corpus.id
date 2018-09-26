@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pijat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memijat"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "pijat-pijat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pijat",
+  "related": [],
+  "detailed": false
+}

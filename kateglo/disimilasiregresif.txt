@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "disimilasi regresif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "disimilasi yang terjadi karena pengaruh bunyi yang kedua, misal kata terantar menjadi telantar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disimilasi%20regresif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat dinas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang dikirimkan oleh kantor pemerintah (bebas dari biaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20dinas",
+  "related": [],
+  "detailed": false
+}

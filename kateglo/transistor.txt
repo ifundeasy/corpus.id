@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transistor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "alat elektronik yang terbuat dari semikonduktor untuk dihubungkan dengan komponen atau alat lain, dapat digunakan sebagai penguat detektor, sakelar sinyal, isyarat listrik, atau elektromagnetik;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat radio yang menggunakan transistor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transistor",
+  "related": [],
+  "detailed": false
+}

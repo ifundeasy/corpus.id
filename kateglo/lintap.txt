@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lintap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersusun; berlapis-lapis (tentang barang yang tipis, piring, buku);"
+      },
+      {
+        "type": "desc",
+        "text": "bergugus-gugus; bergerombol (misal orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istidlal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "pembuktian;"
+      },
+      {
+        "type": "desc",
+        "text": "pencarian rujukan tekstual pada ayat-ayat Alquran atau hadis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istidlal",
+  "related": [],
+  "detailed": false
+}

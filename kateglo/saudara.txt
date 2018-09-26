@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saudara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang seibu seayah (atau hanya seibu atau seayah saja); adik atau kakak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertalian keluarga; sanak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang segolongan (sepaham, seagama, sederajat, dsb); kawan; teman;"
+      },
+      {
+        "type": "desc",
+        "text": "sapaan kepada orang yang diajak berbicara (pengganti orang kedua);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) segala sesuatu yang hampir serupa (sejenis dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tembuni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saudara",
+  "related": [],
+  "detailed": false
+}

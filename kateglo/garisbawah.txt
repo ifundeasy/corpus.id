@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garis bawah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang dibuat di bawah tulisan (huruf, kata, kalimat, dsb) untuk menyatakan bahwa kata (kalimat dsb) yang diberi garis itu penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20bawah",
+  "related": [],
+  "detailed": false
+}

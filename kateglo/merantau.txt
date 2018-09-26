@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merantau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlayar (mencari penghidupan) di sepanjang rantau (dari satu sungai ke sungai lain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pergi ke pantai (pesisir); pergi ke negeri lain (untuk mencari penghidupan, ilmu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merantau",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balas jasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "yang diberikan kepada orang atau badan yang pernah berjasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) gaji dan tunjangan yang diterima karyawan, mencakupi gaji pokok, tunjangan langsung, seperti bonus, bagian laba, pensiun, asuransi jiwa, kendaraan, perumahan, pengobatan, dan makanan, ataupun tidak langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balas%20jasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homogen",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terdiri atas jenis, macam, sifat, watak, dsb yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homogen",
+  "related": [],
+  "detailed": false
+}

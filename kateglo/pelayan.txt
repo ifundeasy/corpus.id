@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melayani;"
+      },
+      {
+        "type": "desc",
+        "text": "pembantu; pesuruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayan",
+  "related": [],
+  "detailed": false
+}

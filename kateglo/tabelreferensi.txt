@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabel referensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabel yang berfungsi sebagai sumber segala keterangan yang terperinci dan digunakan untuk penunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabel%20referensi",
+  "related": [],
+  "detailed": false
+}

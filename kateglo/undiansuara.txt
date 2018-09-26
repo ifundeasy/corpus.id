@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "undian suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemungutan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=undian%20suara",
+  "related": [],
+  "detailed": false
+}

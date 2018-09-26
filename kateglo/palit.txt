@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk menyapukan celak mata, cat alis, cat bibir, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "cairan atau bubuk yang biasa ditempelkan untuk rias muka, seperti celak mata, cat alis, dan cat bibir;"
+      },
+      {
+        "type": "link",
+        "text": "pailit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palit",
+  "related": [],
+  "detailed": false
+}

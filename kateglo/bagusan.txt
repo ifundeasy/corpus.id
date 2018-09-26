@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagusan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "lebih bagus;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk) penyakit menular seperti cacar air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagusan",
+  "related": [],
+  "detailed": false
+}

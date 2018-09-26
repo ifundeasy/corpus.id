@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metode radio karbon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode yang dipakai untuk menentukan usia fosil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metode%20radio%20karbon",
+  "related": [],
+  "detailed": false
+}

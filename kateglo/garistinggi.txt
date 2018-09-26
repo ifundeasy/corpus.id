@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "garis tegak lurus pada segitiga (yang ditarik dari titik puncak ke garis dasar);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) garis letak posisi kapal pada salah satu titik, yang didapat dari pengamatan benda angkasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20tinggi",
+  "related": [],
+  "detailed": false
+}

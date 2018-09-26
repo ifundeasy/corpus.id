@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konvergensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan menuju satu titik pertemuan; memusat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan garis di samudra yang terlihat nyata memisahkan pertemuan beberapa massa air yang berbeda suhu dan kadar garam atau salinitasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran udara di suatu daerah pada ketinggian tertentu dengan aliran udara masuk yang lebih besar daripada aliran keluar sehingga terjadi semacam penimbunan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konvergensi",
+  "related": [],
+  "detailed": false
+}

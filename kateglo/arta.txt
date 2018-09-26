@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang;"
+      },
+      {
+        "type": "desc",
+        "text": "harta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arta",
+  "related": [],
+  "detailed": false
+}

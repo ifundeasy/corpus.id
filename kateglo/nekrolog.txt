@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nekrolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penulis riwayat singkat orang yang baru saja meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nekrolog",
+  "related": [],
+  "detailed": false
+}

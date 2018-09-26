@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpasang-pasang",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "beberapa pasang (jodoh, set, perangkat);"
+      },
+      {
+        "type": "desc",
+        "text": "berdua-dua; sepasang-pasang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpasang-pasang",
+  "related": [],
+  "detailed": false
+}

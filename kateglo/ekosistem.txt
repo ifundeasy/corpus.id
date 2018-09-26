@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekosistem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keanekaragaman suatu komunitas dan lingkungannya yang berfungsi sebagai suatu satuan ekologi dalam alam;"
+      },
+      {
+        "type": "desc",
+        "text": "komunitas organik yang terdiri atas tumbuhan dan hewan, bersama habitatnya;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan khusus tempat komunitas suatu organisme hidup dan komponen organisme tidak hidup dari suatu lingkungan yang saling berinteraksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekosistem",
+  "related": [],
+  "detailed": false
+}

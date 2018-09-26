@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koleksi acuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koleksi rujukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koleksi%20acuan",
+  "related": [],
+  "detailed": false
+}

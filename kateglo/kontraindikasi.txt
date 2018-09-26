@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontraindikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petunjuk (indikasi) yang berlawanan dengan yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontraindikasi",
+  "related": [],
+  "detailed": false
+}

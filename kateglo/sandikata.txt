@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sandi kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata rahasia sebagai pengenal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandi%20kata",
+  "related": [],
+  "detailed": false
+}

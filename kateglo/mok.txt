@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejenis penyakit radang kulit kuda;"
+      },
+      {
+        "type": "desc",
+        "text": "piala dari email;"
+      },
+      {
+        "type": "desc",
+        "text": "cangkir besar dari kaleng;"
+      },
+      {
+        "type": "desc",
+        "text": "kue-kue yang dibuat dari kelapa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mok",
+  "related": [],
+  "detailed": false
+}

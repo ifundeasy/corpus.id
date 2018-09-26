@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kubik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengubik"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran volume (isi), dihitung dengan mengalikan panjang, lebar, dan tinggi, serta diberi tanda pangkat tiga; pangkat tiga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kubik",
+  "related": [],
+  "detailed": false
+}

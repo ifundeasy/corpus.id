@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabel udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) kabel yang dipasang di atas tiang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabel%20udara",
+  "related": [],
+  "detailed": false
+}

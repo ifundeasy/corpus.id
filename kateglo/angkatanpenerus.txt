@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan penerus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok orang yang akan menggantikan kelompok sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20penerus",
+  "related": [],
+  "detailed": false
+}

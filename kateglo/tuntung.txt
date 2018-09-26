@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuntung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujung (yang runcing);"
+      },
+      {
+        "type": "desc",
+        "text": "tabung kecil (untuk tempat garam dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu tinggi jika dibandingkan dengan besar tubuh atau batang; ramping; langsing (misal badan orang kurus, batang tebu yang tumbuh kerdil);"
+      },
+      {
+        "type": "link",
+        "text": "menuntung"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menuntungkan"
+      },
+      {
+        "type": "desc",
+        "text": "kura-kura yang hidup di darat, bertelur pada waktu musim kemarau, telurnya lebih besar daripada telur itik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuntung",
+  "related": [],
+  "detailed": false
+}

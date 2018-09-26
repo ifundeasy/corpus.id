@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyukai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "suka akan; suka kepada; menggemari;"
+      },
+      {
+        "type": "desc",
+        "text": "menaruh minat pada;"
+      },
+      {
+        "type": "desc",
+        "text": "menaruh kasih kepada; mencintai; menyayangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyukai",
+  "related": [],
+  "detailed": false
+}

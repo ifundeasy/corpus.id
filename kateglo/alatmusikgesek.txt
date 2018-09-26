@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat musik gesek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik yang dibunyikan dengan sentuhan gesek (seperti biola, rebab);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20musik%20gesek",
+  "related": [],
+  "detailed": false
+}

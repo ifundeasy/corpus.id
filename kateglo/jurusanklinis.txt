@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jurusan klinis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jurusan ilmu-ilmu kedokteran dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurusan%20klinis",
+  "related": [],
+  "detailed": false
+}

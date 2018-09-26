@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "materialis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikut paham (ajaran) materialisme;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mementingkan kebendaan (harta, uang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=materialis",
+  "related": [],
+  "detailed": false
+}

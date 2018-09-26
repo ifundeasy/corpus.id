@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah instansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah dinas milik jawatan (pemerintah, perusahaan) yang ditempati oleh pegawai (karyawan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20instansi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan kembar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peristiwa optik bulan yang tampak kembar terjadi akibat pemantulan gelombang tertentu oleh atmosfer pada kondisi perawanan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20kembar",
+  "related": [],
+  "detailed": false
+}

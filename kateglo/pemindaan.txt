@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemindaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memperbaiki (membetulkan, mengoreksi, mengubah);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan meminda (mencontoh, meneladan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemindaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umpan api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang mudah terbakar untuk menyalakan api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umpan%20api",
+  "related": [],
+  "detailed": false
+}

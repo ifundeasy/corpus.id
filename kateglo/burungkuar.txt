@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "burung kuar",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kuar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burung%20kuar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filtrat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "substansi yang telah melewati penyaring;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filtrat",
+  "related": [],
+  "detailed": false
+}

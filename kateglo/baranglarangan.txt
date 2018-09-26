@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang larangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang tidak boleh dimiliki oleh sembarang orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20larangan",
+  "related": [],
+  "detailed": false
+}

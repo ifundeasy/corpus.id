@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian hasil sawah yang disediakan untuk yang mengerjakan;"
+      },
+      {
+        "type": "desc",
+        "text": "uang simpanan untuk cadangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abuan",
+  "related": [],
+  "detailed": false
+}

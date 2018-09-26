@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "visa transit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "visa untuk berdiam sementara di darat (kota) bagi orang asing yang datang ke sebuah negara dengan menumpang kapal, mereka melihat-lihat kota dan akan meneruskan perjalanannya dengan kapal itu juga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=visa%20transit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pintu gerbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pintu besar tempat keluar masuk (halaman, kota, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintu%20gerbang",
+  "related": [],
+  "detailed": false
+}

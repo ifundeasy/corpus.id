@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit kantong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) tidak punya uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20kantong",
+  "related": [],
+  "detailed": false
+}

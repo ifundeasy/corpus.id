@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "surut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mundur; kembali (ke); balik (ke);"
+      },
+      {
+        "type": "desc",
+        "text": "(makin) berkurang; reda (tentang nafsu dsb); susut;"
+      },
+      {
+        "type": "desc",
+        "text": "berkurang (tentang permukaan air sesudah pasang naik); turun; susut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surut",
+  "related": [],
+  "detailed": false
+}

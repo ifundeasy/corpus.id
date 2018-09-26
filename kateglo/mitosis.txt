@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mitosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pembelahan inti sel biasa sehingga dari satu inti sel induk terjadi dua inti sel baru yang jumlah dan susunan kromosomnya sama benar (juga sama dengan kromosom induk-nya semula);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mitosis",
+  "related": [],
+  "detailed": false
+}

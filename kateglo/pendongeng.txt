@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendongeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menceritakan dongeng;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka mendongeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendongeng",
+  "related": [],
+  "detailed": false
+}

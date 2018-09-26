@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "majelis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang mengemban tugas tertentu mengenai kenegaraan dsb secara terbatas;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan (kumpulan) orang banyak; rapat; kerapatan; sidang;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan tempat bersidang;"
+      },
+      {
+        "type": "desc",
+        "text": "elok; cantik; permai;"
+      },
+      {
+        "type": "desc",
+        "text": "apik; rapi; bersih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majelis",
+  "related": [],
+  "detailed": false
+}

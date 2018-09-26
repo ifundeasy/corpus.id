@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sira",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "engkau;"
+      },
+      {
+        "type": "desc",
+        "text": "ia; beliau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sira",
+  "related": [],
+  "detailed": false
+}

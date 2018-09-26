@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multipleks",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terdiri atas banyak bagian; multipel;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan pengiriman dua berita atau lebih dengan kawat atau jaringan yang sama pada saat yang bersamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan transmisi dua sinyal atau lebih pada satu gelombang pada saat yang bersamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multipleks",
+  "related": [],
+  "detailed": false
+}

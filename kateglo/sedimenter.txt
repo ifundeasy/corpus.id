@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedimenter",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat mengendap;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) terbentuk atau terjadi karena endapan, seperti batu kaporit, batu pasir, dsb yang merupakan karang sedimenter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedimenter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interior",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dalam gedung (ruang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tatanan perabot (hiasan dsb) di dalam ruang dalam gedung dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interior",
+  "related": [],
+  "detailed": false
+}

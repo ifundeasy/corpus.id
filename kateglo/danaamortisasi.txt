@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana amortisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) dana atau sejumlah uang yang disisihkan oleh perusahaan secara periodik dan dikumpulkan untuk melunasi utang perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20amortisasi",
+  "related": [],
+  "detailed": false
+}

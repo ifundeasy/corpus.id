@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selang sehari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berturut-turut dengan berantara sehari;"
+      },
+      {
+        "type": "desc",
+        "text": "sesudah sehari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selang%20sehari",
+  "related": [],
+  "detailed": false
+}

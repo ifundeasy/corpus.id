@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superior",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atasan; pemimpin;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala biara (pembesar) rumah ibadah (wihara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superior",
+  "related": [],
+  "detailed": false
+}

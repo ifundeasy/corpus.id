@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buletin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "media cetak berupa selebaran atau majalah, berisi warta singkat atau pernyataan tertulis yang diterbitkan secara periodik oleh suatu organisasi atau lembaga untuk kelompok profesi tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "siaran kilat resmi tentang perkembangan atau hasil-hasil penyelidikan (pertandingan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buletin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengkung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bengkok (tentang keris, pisau, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sabuk panjang atau kain untuk pembebat perut, pinggang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "rambut (serabut) halus di antara pelepah pohon pada pohon kelapa (enau, nibung, dsb); ijuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengkung",
+  "related": [],
+  "detailed": false
+}

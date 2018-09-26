@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan istri",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunjangan untuk istri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20istri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "timbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "imbangan; timbalan; bandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menimbang (seperti neraca, kati);"
+      },
+      {
+        "type": "desc",
+        "text": "pendapatan menimbang;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat (tentang baik buruk dsb); putusan (yang diuraikan sebagai nasihat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "batu timbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timbangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permintaan hendak memperistri;"
+      },
+      {
+        "type": "desc",
+        "text": "lamaran (pekerjaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinangan",
+  "related": [],
+  "detailed": false
+}

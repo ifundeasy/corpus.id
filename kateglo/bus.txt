@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan bermotor angkutan umum yang besar, beroda empat atau lebih, yang dapat memuat penumpang banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi angin berembus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus",
+  "related": [],
+  "detailed": false
+}

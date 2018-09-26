@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enklave",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara atau bagian negara yang dikelilingi oleh wilayah suatu negara lain;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah (wilayah) budaya yang terdapat di dalam wilayah budaya lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enklave",
+  "related": [],
+  "detailed": false
+}

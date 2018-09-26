@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proyek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana pekerjaan dengan sasaran khusus (pengairan, pembangkit tenaga listrik, dsb) dan dengan saat penyelesaian yang tegas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proyek",
+  "related": [],
+  "detailed": false
+}

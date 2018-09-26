@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "denudasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "pengikisan lapisan atas permukaan tanah yang disebabkan oleh hujan, angin, dan salju sehingga kesuburan tanah menjadi hilang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hut) reduksi permukaan tanah karena fenomena alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denudasi",
+  "related": [],
+  "detailed": false
+}

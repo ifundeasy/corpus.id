@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cat batik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan pewarna kain batik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cat%20batik",
+  "related": [],
+  "detailed": false
+}

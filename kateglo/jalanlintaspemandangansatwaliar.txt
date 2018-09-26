@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan lintas pemandangan satwa liar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarana jalan bagi para pengunjung kawasan konservasi untuk dapat menyaksikan atraksi satwa liar yang ada di dalam kawasan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20lintas%20pemandangan%20satwa%20liar",
+  "related": [],
+  "detailed": false
+}

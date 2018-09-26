@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesadaran politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesadaran dan pengetahuan orang mengenai kekuatan politik dalam masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesadaran%20politik",
+  "related": [],
+  "detailed": false
+}

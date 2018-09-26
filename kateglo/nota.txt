@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat peringatan (penunjukan, catatan);"
+      },
+      {
+        "type": "desc",
+        "text": "surat keterangan resmi (dari duta kepada pemerintah suatu negara atau sebaliknya);"
+      },
+      {
+        "type": "desc",
+        "text": "surat penjelasan resmi dari jawatan (pemerintah, pemerintah daerah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tanda jual beli secara kontan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota",
+  "related": [],
+  "detailed": false
+}

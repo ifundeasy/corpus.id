@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa reses",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa tidak adanya kegiatan sidang (tentang DPR);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20reses",
+  "related": [],
+  "detailed": false
+}

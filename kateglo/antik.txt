@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuno, tetapi tetap bernilai sebagai hasil karya seni atau benda budaya (tentang barang-barang);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) perilaku, sifat, penampilan, dsb yang tidak seperti biasanya (tentang orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antik",
+  "related": [],
+  "detailed": false
+}

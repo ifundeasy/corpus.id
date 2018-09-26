@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uluran tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tangan yang diulurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pemberian bantuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uluran%20tangan",
+  "related": [],
+  "detailed": false
+}

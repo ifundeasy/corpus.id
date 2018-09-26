@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah ibadat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat beribadat (masjid, gereja, kuil, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20ibadat",
+  "related": [],
+  "detailed": false
+}

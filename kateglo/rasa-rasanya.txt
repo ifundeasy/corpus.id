@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rasa-rasanya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sekiranya; kira-kira;"
+      },
+      {
+        "type": "desc",
+        "text": "seolah-olah (untuk menyatakan bimbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasa-rasanya",
+  "related": [],
+  "detailed": false
+}

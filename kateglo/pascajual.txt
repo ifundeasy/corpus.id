@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pascajual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu setelah pelaksanaan penjualan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pascajual",
+  "related": [],
+  "detailed": false
+}

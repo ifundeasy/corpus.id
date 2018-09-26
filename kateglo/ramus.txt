@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ramus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tebal dan panjang (kumis, janggut);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) struktur yang lebih kecil daripada sesuatu yang lebih besar atau cabang kecil dari pembuluh darah atau saraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramus",
+  "related": [],
+  "detailed": false
+}

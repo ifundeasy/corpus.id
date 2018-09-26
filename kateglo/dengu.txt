@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dengu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berdengu"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dungu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dengu",
+  "related": [],
+  "detailed": false
+}

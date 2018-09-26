@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan alu-alu;"
+      },
+      {
+        "type": "link",
+        "text": "tenuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senuk",
+  "related": [],
+  "detailed": false
+}

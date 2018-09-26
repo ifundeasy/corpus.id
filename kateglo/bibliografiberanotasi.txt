@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi beranotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi dengan keterangan singkat pada tiap karangan, buku, atau karya yang judulnya terdaftar di dalamnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20beranotasi",
+  "related": [],
+  "detailed": false
+}

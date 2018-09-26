@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metastasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan dari suatu keadaan (wujud, bentuk, dsb) kepada keadaan (wujud, bentuk, dsb) yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) perpindahan penyakit dari bagian tubuh yang satu ke bagian tubuh yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metastasis",
+  "related": [],
+  "detailed": false
+}

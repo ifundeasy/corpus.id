@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinjaman lunak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pinjaman dengan syarat ringan, baik mengenai jangka waktu, bunga, maupun jaminannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjaman%20lunak",
+  "related": [],
+  "detailed": false
+}

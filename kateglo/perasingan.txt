@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perasingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang menyendiri (jauh dari tempat lain);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat mengasingkan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat orang yang diasingkan; tempat mengasingkan orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perasingan",
+  "related": [],
+  "detailed": false
+}

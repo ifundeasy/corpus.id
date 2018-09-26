@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "runtas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "meruntas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=runtas",
+  "related": [],
+  "detailed": false
+}

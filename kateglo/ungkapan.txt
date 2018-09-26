@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ungkapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa-apa yang diungkapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kelompok kata atau gabungan kata yang menyatakan makna khusus (makna unsur-unsurnya sering kali menjadi kabur);"
+      },
+      {
+        "type": "desc",
+        "text": "gerak mata (tangan dsb), perubahan air muka yang menyatakan perasaan hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ungkapan",
+  "related": [],
+  "detailed": false
+}

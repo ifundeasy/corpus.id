@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyunting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menyiapkan naskah siap cetak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertugas merencanakan dan mengarahkan penerbitan media (massa) cetak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menyusun dan merakit film atau pita rekaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyunting",
+  "related": [],
+  "detailed": false
+}

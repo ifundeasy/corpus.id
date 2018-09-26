@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengas total",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Min) hasil penjumlahan lengas bawaan dan lengas bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengas%20total",
+  "related": [],
+  "detailed": false
+}

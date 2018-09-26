@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "entri pokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk kata yang menjadi masukan kamus yang merupakan bentuk dasar dari bentuk kata subentri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entri%20pokok",
+  "related": [],
+  "detailed": false
+}

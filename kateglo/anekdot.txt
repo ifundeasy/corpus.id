@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anekdot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita singkat yang menarik karena lucu dan mengesankan, biasanya mengenai orang penting atau terkenal dan berdasarkan kejadian yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anekdot",
+  "related": [],
+  "detailed": false
+}

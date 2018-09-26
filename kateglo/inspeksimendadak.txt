@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inspeksi mendadak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "inspeksi yang dilakukan secara tiba-tiba tanpa pemberitahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspeksi%20mendadak",
+  "related": [],
+  "detailed": false
+}

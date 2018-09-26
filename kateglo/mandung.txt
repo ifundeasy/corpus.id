@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "ayam;"
+      },
+      {
+        "type": "desc",
+        "text": "ayam jantan;"
+      },
+      {
+        "type": "link",
+        "text": "kemenyan mandung jati"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuka tanah (di Madura);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandung",
+  "related": [],
+  "detailed": false
+}

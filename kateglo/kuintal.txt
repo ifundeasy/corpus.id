@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuintal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 100 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuintal",
+  "related": [],
+  "detailed": false
+}

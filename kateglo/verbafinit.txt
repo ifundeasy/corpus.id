@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba finit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk verba yang dibatasi oleh kala dan dalam beberapa bahasa menunjukkan kesesuaian dengan persona dan jumlah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20finit",
+  "related": [],
+  "detailed": false
+}

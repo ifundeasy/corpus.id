@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mayoritas mutlak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) jumlah suara terbanyak pemilih yang meyakinkan yang dapat dikumpulkan dalam pemungutan suara untuk menentukan kemenangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mayoritas%20mutlak",
+  "related": [],
+  "detailed": false
+}

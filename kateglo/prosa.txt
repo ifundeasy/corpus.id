@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prosa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) karangan bebas (tidak terikat oleh kaidah yang terdapat dalam puisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prosa",
+  "related": [],
+  "detailed": false
+}

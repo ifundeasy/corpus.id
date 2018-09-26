@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "auto-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=auto-",
+  "related": [],
+  "detailed": false
+}

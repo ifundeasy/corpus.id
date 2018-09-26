@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepatu bola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepatu untuk bermain sepak bola;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepatu%20bola",
+  "related": [],
+  "detailed": false
+}

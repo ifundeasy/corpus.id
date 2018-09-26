@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hierarki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urutan tingkatan atau jenjang jabatan (pangkat kedudukan);"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi dengan tingkat wewenang dari yang paling bawah sampai yang paling atas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) deretan tataran biologis, seperti famili, genus, spesies;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) kumpulan pembesar gereja yang diatur menurut pangkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hierarki",
+  "related": [],
+  "detailed": false
+}

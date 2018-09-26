@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morbiditas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) tingkat yang sakit dan yang sehat dalam suatu populasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morbiditas",
+  "related": [],
+  "detailed": false
+}

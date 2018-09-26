@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal perambuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal khusus untuk memasang dan merawat rambu-rambu laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20perambuan",
+  "related": [],
+  "detailed": false
+}

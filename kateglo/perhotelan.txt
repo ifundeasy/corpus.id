@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhotelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urusan yang berkenaan dengan hotel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhotelan",
+  "related": [],
+  "detailed": false
+}

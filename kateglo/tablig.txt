@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tablig",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyiaran ajaran agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "penyampaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tablig",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isomer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) satu dari sepasang senyawa atau lebih yang mempunyai rumus sama, tetapi sifatnya berlainan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isomer",
+  "related": [],
+  "detailed": false
+}

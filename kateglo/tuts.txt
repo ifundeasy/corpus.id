@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuts",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tombol pada papan penjarian mesin tik atau mesin susun foto, jika ditekan menghasilkan penampakan huruf pada kertas atau pada layar;"
+      },
+      {
+        "type": "desc",
+        "text": "bilah-bilah pada piano atau organ yang bila ditekan mengeluarkan bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuts",
+  "related": [],
+  "detailed": false
+}

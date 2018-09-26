@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pengisap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin untuk mengisap (air, debu, kotoran, udara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) organ tubuh atau tumbuhan yang berfungsi mengisap zat makanan, oksigen, nitrogen, mineral, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pengisap",
+  "related": [],
+  "detailed": false
+}

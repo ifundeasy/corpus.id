@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ramalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil meramal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramalan",
+  "related": [],
+  "detailed": false
+}

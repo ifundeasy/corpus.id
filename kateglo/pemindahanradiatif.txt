@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemindahan radiatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan energi oleh radiasi melalui atmosfer bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemindahan%20radiatif",
+  "related": [],
+  "detailed": false
+}

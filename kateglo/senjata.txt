@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk berkelahi atau berperang (keris, senapan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu (surat, kop surat, cap, memo, dsb) yang dipakai untuk memperoleh suatu maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda bunyi pada tulisan Arab (fatah, kasrah, damah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata",
+  "related": [],
+  "detailed": false
+}

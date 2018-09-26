@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita peringatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang mengingatkan akan adanya sesuatu yang akan terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20peringatan",
+  "related": [],
+  "detailed": false
+}

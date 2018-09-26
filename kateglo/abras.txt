@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengidap penyakit kusta;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kusta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abras",
+  "related": [],
+  "detailed": false
+}

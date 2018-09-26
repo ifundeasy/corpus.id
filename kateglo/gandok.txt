@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gandok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan (tempat tinggal) yang menempel di samping kiri atau kanan rumah utama;"
+      },
+      {
+        "type": "desc",
+        "text": "teras depan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gandok",
+  "related": [],
+  "detailed": false
+}

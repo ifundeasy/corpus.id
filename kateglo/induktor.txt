@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "induktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranti listrik berbentuk kumparan yang digunakan pada rangkaian listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induktor",
+  "related": [],
+  "detailed": false
+}

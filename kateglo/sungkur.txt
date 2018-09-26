@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sungkur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyungkur"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mn) sekop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sungkur",
+  "related": [],
+  "detailed": false
+}

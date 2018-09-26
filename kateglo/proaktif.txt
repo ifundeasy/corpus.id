@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proaktif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah jemu (karena sudah kerap kali makan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "merasa jijik sampai hendak muntah;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa bosan atau jijik mendengar atau melihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koroner",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuluh nadi tajuk jantung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) petugas yang melakukan pemeriksaan mayat dalam hal kematian mendadak akibat kekerasan atau akibat hal-hal yang tidak dapat dijelaskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koroner",
+  "related": [],
+  "detailed": false
+}

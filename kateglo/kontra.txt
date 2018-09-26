@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontra",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan tidak setuju; dalam keadaan menentang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentang (pendapat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontra",
+  "related": [],
+  "detailed": false
+}

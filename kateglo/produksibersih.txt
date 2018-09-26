@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) produksi total dikurangi jumlah ikan yang ditanam (dalam ukuran berat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20bersih",
+  "related": [],
+  "detailed": false
+}

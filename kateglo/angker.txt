@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angker",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampak seram dan tidak semua orang dapat menjamahnya karena dianggap berhantu;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tampak menyeramkan (menakutkan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangkar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angker",
+  "related": [],
+  "detailed": false
+}

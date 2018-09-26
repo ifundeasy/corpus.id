@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarian cepat (dari negeri Bohemia) dengan tempo 2/4;"
+      },
+      {
+        "type": "desc",
+        "text": "musik tarian polka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polka",
+  "related": [],
+  "detailed": false
+}

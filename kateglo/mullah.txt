@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mullah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "tokoh agama; ulama;"
+      },
+      {
+        "type": "desc",
+        "text": "sarjana; cendekiawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mullah",
+  "related": [],
+  "detailed": false
+}

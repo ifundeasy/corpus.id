@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat esensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat umum tanpa merek dagang, biasanya dikonsumsikan untuk unit pelayanan kesehatan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20esensial",
+  "related": [],
+  "detailed": false
+}

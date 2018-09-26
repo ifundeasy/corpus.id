@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prosodis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan prosodi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prosodis",
+  "related": [],
+  "detailed": false
+}

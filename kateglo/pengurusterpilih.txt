@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus terpilih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang ditunjuk berdasarkan pemilihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20terpilih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka penentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20akhir",
+  "related": [],
+  "detailed": false
+}

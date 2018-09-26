@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil terbaik (tercepat, tertinggi) dalam keolahragaan;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah terbanyak;"
+      },
+      {
+        "type": "desc",
+        "text": "terbaik (tertinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekor",
+  "related": [],
+  "detailed": false
+}

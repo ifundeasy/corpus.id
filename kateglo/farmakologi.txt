@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmakologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang interaksi antara obat, sistem, dan proses hidup untuk kepentingan diagnosis, pencegahan, perawatan, dan pengobatan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmakologi",
+  "related": [],
+  "detailed": false
+}

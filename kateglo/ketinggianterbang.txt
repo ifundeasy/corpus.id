@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketinggian terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tinggi permukaan dengan tekanan atmosfer yang tetap terhadap angka tekanan tertentu (1013,2mb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketinggian%20terbang",
+  "related": [],
+  "detailed": false
+}

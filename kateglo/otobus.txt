@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "otobus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil besar angkutan umum yang dapat memuat banyak penumpang; bus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=otobus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kembali",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "balik ke tempat atau ke keadaan semula;"
+      },
+      {
+        "type": "desc",
+        "text": "lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "sekali lagi; berulang lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kembali",
+  "related": [],
+  "detailed": false
+}

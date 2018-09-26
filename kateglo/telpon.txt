@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telpon",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "telepon"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telpon",
+  "related": [],
+  "detailed": false
+}

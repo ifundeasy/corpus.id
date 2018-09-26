@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kriminalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang bersifat kriminal; perbuatan yang melanggar hukum pidana; kejahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriminalitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teledrama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "drama jarak jauh yang dapat ditonton melalui layar televisi atau didengar melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teledrama",
+  "related": [],
+  "detailed": false
+}

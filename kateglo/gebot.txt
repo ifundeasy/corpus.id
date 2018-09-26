@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gebot",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggebot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gebot",
+  "related": [],
+  "detailed": false
+}

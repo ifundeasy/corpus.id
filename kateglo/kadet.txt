@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kadet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajar sekolah calon perwira, taruna;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pencopet;"
+      },
+      {
+        "type": "desc",
+        "text": "roti tawar kecil-kecil berdempetan, bagian atasnya tidak berkilap, tetapi bertepung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadet",
+  "related": [],
+  "detailed": false
+}

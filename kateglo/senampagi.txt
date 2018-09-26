@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senam pagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senam dengan gerakan tertentu, dilaksanakan pada pagi hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senam%20pagi",
+  "related": [],
+  "detailed": false
+}

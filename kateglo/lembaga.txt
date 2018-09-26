@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal mula (yang akan menjadi sesuatu); bakal (binatang, manusia, atau tumbuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk (rupa, wujud) yang asli;"
+      },
+      {
+        "type": "desc",
+        "text": "acuan; ikatan (tentang mata cincin dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "badan (organisasi) yang tujuannya melakukan suatu penyelidikan keilmuan atau melakukan suatu usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) kepala suku (di Negeri Sembilan);"
+      },
+      {
+        "type": "desc",
+        "text": "pola perilaku manusia yang mapan, terdiri atas interaksi sosial berstruktur dalam suatu kerangka nilai yang relevan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga",
+  "related": [],
+  "detailed": false
+}

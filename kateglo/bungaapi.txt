@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyala api yang beterbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "percikan api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20api",
+  "related": [],
+  "detailed": false
+}

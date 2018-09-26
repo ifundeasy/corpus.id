@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) varian fonem berdasarkan posisi di dalam kata, misal fonem pertama pada kita dan kata secara fonetis berbeda, tetapi masing-masing adalah alofon dari fonem /k/;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alofon",
+  "related": [],
+  "detailed": false
+}

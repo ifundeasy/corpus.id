@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pabean",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "instansi (jawatan, kantor) yang mengawasi, memungut, dan mengurus bea masuk (impor) dan bea keluar (ekspor), baik melalui darat, laut, maupun melalui udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pabean",
+  "related": [],
+  "detailed": false
+}

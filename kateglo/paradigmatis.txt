@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paradigmatis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan hubungan unsur bahasa dalam tingkat tertentu dengan unsur lain di luar tingkat itu yang dapat dipertukarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan paradigma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paradigmatis",
+  "related": [],
+  "detailed": false
+}

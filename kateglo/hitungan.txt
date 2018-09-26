@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hitungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapatan (hasil) menghitung;"
+      },
+      {
+        "type": "desc",
+        "text": "soal (bilangan dsb) yang harus dihitung;"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitungan",
+  "related": [],
+  "detailed": false
+}

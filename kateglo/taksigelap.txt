@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taksi gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taksi yang beroperasi tanpa izin resmi (secara gelap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksi%20gelap",
+  "related": [],
+  "detailed": false
+}

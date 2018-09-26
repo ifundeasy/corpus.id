@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belandung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu longgar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung pelatuk; burung belatuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belandung",
+  "related": [],
+  "detailed": false
+}

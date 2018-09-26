@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meramban",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari daun-daunan yang muda untuk makanan kambing dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari daun-daunan yang muda untuk sayuran;"
+      },
+      {
+        "type": "desc",
+        "text": "membaca dan meninjau dengan cepat berkas dalam komputer atau situs di internet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meramban",
+  "related": [],
+  "detailed": false
+}

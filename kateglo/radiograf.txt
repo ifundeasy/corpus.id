@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambaran benda yang diambil dengan menggunakan sinar X atau gama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiograf",
+  "related": [],
+  "detailed": false
+}

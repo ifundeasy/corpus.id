@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "babak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian besar dalam suatu drama atau lakon (terdiri atas beberapa adegan);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari suatu keseluruhan proses, kejadian, atau peristiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) bagian permainan yang waktunya tertentu; ronde;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) lecet (tentang kulit);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membabak"
+      },
+      {
+        "type": "link",
+        "text": "babakan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=babak",
+  "related": [],
+  "detailed": false
+}

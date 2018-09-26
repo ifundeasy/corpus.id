@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu kuning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "kartu yang dikeluarkan wasit sebagai tanda peringatan terhadap pemain atau pelatih (sepak bola atau voli) karena pelanggaran yang dilakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tanda peringatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20kuning",
+  "related": [],
+  "detailed": false
+}

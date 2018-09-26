@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telegram yang dikirimkan melalui radio; berita melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiogram",
+  "related": [],
+  "detailed": false
+}

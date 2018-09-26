@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai kanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai yang berhaluan sedang, tidak agresif, atau keras (umumnya berdasar asas keagamaan, kebangsaan, atau tradisi yang sudah mapan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20kanan",
+  "related": [],
+  "detailed": false
+}

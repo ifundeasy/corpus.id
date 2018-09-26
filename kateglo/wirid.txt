@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wirid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "kutipan-kutipan Alquran yang ditetapkan untuk dibaca;"
+      },
+      {
+        "type": "desc",
+        "text": "zikir yang diucapkan sesudah salat;"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran (ilmu keagamaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wirid",
+  "related": [],
+  "detailed": false
+}

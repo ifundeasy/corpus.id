@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah menengah pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah umum selepas sekolah dasar, sebelum sekolah menengah umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20menengah%20pertama",
+  "related": [],
+  "detailed": false
+}

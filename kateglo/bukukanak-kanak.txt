@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku kanak-kanak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang ditulis khusus sebagai bacaan anak-anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20kanak-kanak",
+  "related": [],
+  "detailed": false
+}

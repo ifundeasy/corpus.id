@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbintangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang bintang;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu ramalan (perhitungan nasib orang dsb) berdasarkan rasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbintangan",
+  "related": [],
+  "detailed": false
+}

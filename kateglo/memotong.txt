@@ -1,0 +1,61 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memotong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutuskan dengan barang tajam; mengerat; memenggal;"
+      },
+      {
+        "type": "desc",
+        "text": "mengiris (tentang roti, daging, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyembelih;"
+      },
+      {
+        "type": "desc",
+        "text": "menebang (tentang kayu, pohon, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memangkas (tentang rambut);"
+      },
+      {
+        "type": "desc",
+        "text": "menggunting sesuai dengan ukuran (tentang bahan pakaian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menuai (tentang padi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengurangi (tentang upah, gaji, pendapatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memendekkan (tentang kata, kalimat, nama dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memintas (tentang jalan, perjalanan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyelang atau memenggal (tentang perkataan orang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memepat (tentang kuku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memotong",
+  "related": [],
+  "detailed": false
+}

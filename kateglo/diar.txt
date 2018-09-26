@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "memperdiarkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dosis ambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dosis minuman yang menimbulkan gangguan (pada tubuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosis%20ambang",
+  "related": [],
+  "detailed": false
+}

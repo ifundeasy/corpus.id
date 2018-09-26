@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedimen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "benda padat berupa serbuk yang terpisah dari cairan dan mengendap di dasar bejana;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) benda padat yang diendapkan oleh air atau es;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedimen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit terbimbing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit yang penggunaannya diawasi dan dibimbing oleh pihak pemberi kredit (misal kredit Bimas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20terbimbing",
+  "related": [],
+  "detailed": false
+}

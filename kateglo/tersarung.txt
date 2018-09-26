@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersarung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan menyarung;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah disarungkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersarung",
+  "related": [],
+  "detailed": false
+}

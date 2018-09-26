@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piston",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "pengisap dalam mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "kelep atau katup dari kuningan (pada instrumen tiup) untuk mengatur bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piston",
+  "related": [],
+  "detailed": false
+}

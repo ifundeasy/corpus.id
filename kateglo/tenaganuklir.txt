@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenaga nuklir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumber penggerak yang berasal dari nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20nuklir",
+  "related": [],
+  "detailed": false
+}

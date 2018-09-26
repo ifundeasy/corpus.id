@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "portofolio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tas untuk surat-surat; sampul kulit;"
+      },
+      {
+        "type": "desc",
+        "text": "dompet;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pimpinan departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=portofolio",
+  "related": [],
+  "detailed": false
+}

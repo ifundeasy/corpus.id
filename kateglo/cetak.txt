@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cap (terutama yang dipakai untuk membuat buku dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "acuan (untuk membuat batu bata, kue, dsb); cetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak",
+  "related": [],
+  "detailed": false
+}

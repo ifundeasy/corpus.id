@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leveransir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau perusahaan yang bertugas menyediakan bahan-bahan keperluan, dapat berupa bahan makanan, bangunan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leveransir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "menyentak"
+      },
+      {
+        "type": "link",
+        "text": "menyentak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentak",
+  "related": [],
+  "detailed": false
+}

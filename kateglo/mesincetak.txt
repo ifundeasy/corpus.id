@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin untuk mencetak buku, majalah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20cetak",
+  "related": [],
+  "detailed": false
+}

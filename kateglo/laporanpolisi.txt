@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan kejadian atau peristiwa yang terdapat di kantor polisi yang dapat digunakan oleh pewarta polisi untuk diberitakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20polisi",
+  "related": [],
+  "detailed": false
+}

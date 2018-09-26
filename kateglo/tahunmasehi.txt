@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun Masehi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun (kalender) yang perhitungannya dimulai sejak lahirnya Isa Almasih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20Masehi",
+  "related": [],
+  "detailed": false
+}

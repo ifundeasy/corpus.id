@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "truk kontainer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "truk peti kemas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=truk%20kontainer",
+  "related": [],
+  "detailed": false
+}

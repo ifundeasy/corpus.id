@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mendapat kuasa dari pemerintah (dalam hal ini Departemen Kehakiman) untuk mengesahkan dan menyaksikan berbagai surat perjanjian, surat wasiat, akta, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notaris",
+  "related": [],
+  "detailed": false
+}

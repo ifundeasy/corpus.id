@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga sosial yang bergerak di bidang pengusahaan jaminan pelayanan kesehatan dan mengatur hak dan kewajiban peserta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20kesehatan",
+  "related": [],
+  "detailed": false
+}

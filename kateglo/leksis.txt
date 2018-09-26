@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "telaah leksikon;"
+      },
+      {
+        "type": "desc",
+        "text": "leksikologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksis",
+  "related": [],
+  "detailed": false
+}

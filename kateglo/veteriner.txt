@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "veteriner",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai penyakit hewan (kedokteran hewan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=veteriner",
+  "related": [],
+  "detailed": false
+}

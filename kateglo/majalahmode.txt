@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah mode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan (berkala) yang berisikan mode dan dilampiri lembaran yang berisi pola pakaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20mode",
+  "related": [],
+  "detailed": false
+}

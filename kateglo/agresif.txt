@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agresif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat atau bernafsu menyerang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) cenderung (ingin) menyerang sesuatu yang dipandang sebagai hal atau situasi yang mengecewakan, menghalangi, atau menghambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agresif",
+  "related": [],
+  "detailed": false
+}

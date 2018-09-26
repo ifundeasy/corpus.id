@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senyampang",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "kebetulan; selagi;"
+      },
+      {
+        "type": "desc",
+        "text": "mujurlah; untunglah;"
+      },
+      {
+        "type": "desc",
+        "text": "kalau-kalau; sekiranya;"
+      },
+      {
+        "type": "desc",
+        "text": "mentang-mentang;"
+      },
+      {
+        "type": "desc",
+        "text": "jika; sekiranya; kalau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senyampang",
+  "related": [],
+  "detailed": false
+}

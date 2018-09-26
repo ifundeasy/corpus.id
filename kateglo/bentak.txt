@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bentak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membentak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek silang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cek yang pada halaman mukanya diberi dua garis sejajar menyerong yang ditarik dari sisi kiri bawah ke sisi kanan atas, tanpa memuat keterangan apa pun (silang umum atau memuat nama bank silang khusus) yang tertulis di antara kedua garis itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20silang",
+  "related": [],
+  "detailed": false
+}

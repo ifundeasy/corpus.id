@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang yang dihadiri oleh semua anggota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20lengkap",
+  "related": [],
+  "detailed": false
+}

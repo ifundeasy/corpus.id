@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota tersiar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota perserikatan sekerja dsb yang langsung di bawah pengurus besar (bukan anggota cabang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20tersiar",
+  "related": [],
+  "detailed": false
+}

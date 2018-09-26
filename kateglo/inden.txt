@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembelian barang dengan cara memesan dan membayar lebih dahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inden",
+  "related": [],
+  "detailed": false
+}

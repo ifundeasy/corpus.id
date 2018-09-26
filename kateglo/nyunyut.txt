@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyunyut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyunyut"
+      },
+      {
+        "type": "link",
+        "text": "menyunyut"
+      },
+      {
+        "type": "link",
+        "text": "menyunyut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyunyut",
+  "related": [],
+  "detailed": false
+}

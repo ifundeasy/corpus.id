@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retroaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Huk) bersifat berlaku surut terhitung tanggal diundangkannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retroaktif",
+  "related": [],
+  "detailed": false
+}

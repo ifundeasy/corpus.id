@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengebon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengambil atau meminjam barang atau uang yang akan dikembalikan atau dibayar kemudian dengan menyerahkan surat berisi keterangan pengambilan atau peminjaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) mengambil atau meminjam pemain (sepak bola dsb) dari perkumpulan lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mengambil (meminjam) terdakwa (tersangka) untuk dimintai keterangan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengebon",
+  "related": [],
+  "detailed": false
+}

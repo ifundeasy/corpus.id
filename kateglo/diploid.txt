@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diploid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio) sifat (keadaan) yang ditandai dengan dua perangkat kromosom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diploid",
+  "related": [],
+  "detailed": false
+}

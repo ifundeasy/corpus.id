@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian sipil harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian khusus bagi pegawai, karyawan, biasanya dipakai pada upacara atau hari-hari tertentu (seperti Senin dan Kamis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20sipil%20harian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumuman pemerintah (melalui radio dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20pemerintah",
+  "related": [],
+  "detailed": false
+}

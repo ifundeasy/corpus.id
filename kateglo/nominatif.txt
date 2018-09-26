@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nominatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kasus yang menandai nomina atau yang sejenisnya sebagai pokok kalimat (subjek);"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk kata benda yang timbul sebagai subjek; bagian kata benda dari suatu predikat atau sebagai keterangan pada bagian kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nominatif",
+  "related": [],
+  "detailed": false
+}

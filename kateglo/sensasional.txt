@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensasional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat merangsang perasaan (emosi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menggemparkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensasional",
+  "related": [],
+  "detailed": false
+}

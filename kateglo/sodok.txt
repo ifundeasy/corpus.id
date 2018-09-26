@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sodok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekop; tajak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyodok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sodok",
+  "related": [],
+  "detailed": false
+}

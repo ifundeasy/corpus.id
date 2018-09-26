@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektromagnetisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "medan magnet yang ditimbulkan oleh aliran listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang pengaruh timbal balik antara listrik dan magnet;"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan gejala antara listrik dan magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektromagnetisme",
+  "related": [],
+  "detailed": false
+}

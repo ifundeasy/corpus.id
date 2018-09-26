@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepangkatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urusan atau perihal pangkat (tingkatan, derajat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepangkatan",
+  "related": [],
+  "detailed": false
+}

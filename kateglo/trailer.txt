@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trailer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan pengangkut barang berat (besar), biasanya panjang dan beroda banyak (lebih dari empat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trailer",
+  "related": [],
+  "detailed": false
+}

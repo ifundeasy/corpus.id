@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesahihan pengukur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketepatan pengukuran yang dimiliki oleh alat ukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesahihan%20pengukur",
+  "related": [],
+  "detailed": false
+}

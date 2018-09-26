@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lebih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lewat dari semestinya (tentang ukuran, banyaknya, besarnya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ber)sisa; ada sisanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam perbandingan menyatakan) sangat (daripada);"
+      },
+      {
+        "type": "desc",
+        "text": "kira-kira sekian bertambah sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "bertambah; semakin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebih",
+  "related": [],
+  "detailed": false
+}

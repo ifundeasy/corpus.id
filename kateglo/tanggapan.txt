@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sambutan terhadap ucapan (kritik, komentar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang diterima oleh pancaindra; bayangan dalam angan-angan;"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan (tontonan) yang (biasa) ditanggap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggapan",
+  "related": [],
+  "detailed": false
+}

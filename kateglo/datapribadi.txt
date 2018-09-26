@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "data pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "data yang berkenaan dengan ciri seseorang, misal nama, umur, jenis kelamin, pendidikan, pekerjaan, alamat, dan kedudukan dalam keluarga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data%20pribadi",
+  "related": [],
+  "detailed": false
+}

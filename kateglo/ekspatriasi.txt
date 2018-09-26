@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspatriasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan seseorang untuk melepaskan kesetiaan terhadap negaranya;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan meninggalkan tanah air untuk berdiam selamanya di negara lain;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuangan yang dilakukan oleh negara atas warganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspatriasi",
+  "related": [],
+  "detailed": false
+}

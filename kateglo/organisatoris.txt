@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organisatoris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat ahli dalam mengorganisasi;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan (secara tertib) organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisatoris",
+  "related": [],
+  "detailed": false
+}

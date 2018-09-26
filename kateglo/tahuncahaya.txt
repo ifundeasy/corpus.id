@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun cahaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran dalam astronomi, di antaranya 1 detik cahaya atau 300.000 km;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20cahaya",
+  "related": [],
+  "detailed": false
+}

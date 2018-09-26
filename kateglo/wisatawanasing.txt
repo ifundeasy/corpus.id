@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisatawan asing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wisatawan yang berasal dari luar negeri; wisatawan mancanegara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisatawan%20asing",
+  "related": [],
+  "detailed": false
+}

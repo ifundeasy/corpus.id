@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semantis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berhungan dengan ilmu tentang makna dalam bahasa; menurut atau mengenai semantik;"
+      },
+      {
+        "type": "desc",
+        "text": "menyangkut makna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semantis",
+  "related": [],
+  "detailed": false
+}

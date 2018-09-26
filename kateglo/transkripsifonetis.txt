@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "transkripsi fonetis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) transkripsi yang berusaha menggambarkan semua bunyi secara sangat teliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transkripsi%20fonetis",
+  "related": [],
+  "detailed": false
+}

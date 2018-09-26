@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pub",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat hiburan khusus untuk mendengarkan musik sambil minum-minum yang dibuka pada waktu malam (sampai larut malam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pub",
+  "related": [],
+  "detailed": false
+}

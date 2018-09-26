@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis pada tepi; bilah papan (pada tembok dsb); bingkai (gambat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "daftar (nama dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lis",
+  "related": [],
+  "detailed": false
+}

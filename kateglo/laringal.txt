@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laringal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan laring;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bunyi bahasa yang dihasilkan dalam laring, antara lain, bunyi hamzah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laringal",
+  "related": [],
+  "detailed": false
+}

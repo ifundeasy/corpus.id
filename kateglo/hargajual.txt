@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga jual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga pada waktu menjual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20jual",
+  "related": [],
+  "detailed": false
+}

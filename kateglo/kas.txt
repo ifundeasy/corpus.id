@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membayar dan menerima uang;"
+      },
+      {
+        "type": "desc",
+        "text": "keluar masuknya uang;"
+      },
+      {
+        "type": "desc",
+        "text": "peti kayu untuk mengirimkan barang;"
+      },
+      {
+        "type": "desc",
+        "text": "bak (wadah) tempat mesin arloji beserta tutupnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kas",
+  "related": [],
+  "detailed": false
+}

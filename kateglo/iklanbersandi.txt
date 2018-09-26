@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan bersandi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan yang disertai tanda khusus (sandi) yang harus dikutip oleh penanggap iklan agar sumber pertanyaan atau jawabannya mudah diketahui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20bersandi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanaman papan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman yang menghasilkan bahan untuk bangunan, termasuk perabot rumah tangga (misal pohon jati, meranti, kayu kamper, kayu besi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanaman%20papan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "blower",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pompa udara bertenaga listrik yang udaranya dihasilkan melalui kipas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blower",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengatur kolom pada mesin tulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabulator",
+  "related": [],
+  "detailed": false
+}

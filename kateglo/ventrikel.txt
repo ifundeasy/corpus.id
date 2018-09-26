@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ventrikel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "rongga kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "rongga pada otak;"
+      },
+      {
+        "type": "desc",
+        "text": "bilik utama jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventrikel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "majalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan berkala yang isinya meliputi berbagai liputan jurnalistik, pandangan tentang topik aktual yang patut diketahui pembaca, dan menurut waktu penerbitannya dibedakan atas majalah bulanan, tengah bulanan, mingguan, dsb dan menurut pengkhususan isinya dibedakan atas majalah berita, wanita, remaja, olahraga, sastra, ilmu pengetahuan tertentu, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah",
+  "related": [],
+  "detailed": false
+}

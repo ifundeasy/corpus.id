@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satelit komunikasi aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) satelit yang mempunyai sumber tenaga sendiri yang dirancang memancarkan kembali sinyal komunikasi radio ke bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satelit%20komunikasi%20aktif",
+  "related": [],
+  "detailed": false
+}

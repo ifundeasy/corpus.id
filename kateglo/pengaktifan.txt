@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaktifan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjadikan aktif;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) pengubahbentukan enzim yang tidak aktif menjadi enzim aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaktifan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumber daya mineral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekayaan mineral yang ada di alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber%20daya%20mineral",
+  "related": [],
+  "detailed": false
+}

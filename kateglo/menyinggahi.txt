@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyinggahi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "singgah di;"
+      },
+      {
+        "type": "desc",
+        "text": "berhenti di suatu tempat untuk menjemput (mengambil dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) mengambil barang titipan (barang yang sedang diperbaiki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyinggahi",
+  "related": [],
+  "detailed": false
+}

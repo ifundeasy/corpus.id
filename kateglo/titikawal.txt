@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat dimulainya pertandingan (lari, balap mobil), pekerjaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20awal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berinfleksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalami proses infleksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berinfleksi",
+  "related": [],
+  "detailed": false
+}

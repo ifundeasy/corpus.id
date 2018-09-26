@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terminal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhentian penghabisan (bis, kereta api, dsb); stasiun;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk berkomunikasi dengan komputer, terdiri atas panel yang dilengkapi layar video atau suatu mekanisme pencetak, seperti mesin tik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terminal",
+  "related": [],
+  "detailed": false
+}

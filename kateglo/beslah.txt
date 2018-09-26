@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beslah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "membeslah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beslah",
+  "related": [],
+  "detailed": false
+}

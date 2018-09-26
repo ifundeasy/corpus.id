@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khotbah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato (terutama yang menguraikan ajaran agama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khotbah",
+  "related": [],
+  "detailed": false
+}

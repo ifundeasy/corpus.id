@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naskah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan yang masih ditulis dengan tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan seseorang yang belum diterbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan-bahan berita yang siap untuk diset;"
+      },
+      {
+        "type": "desc",
+        "text": "rancangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naskah",
+  "related": [],
+  "detailed": false
+}

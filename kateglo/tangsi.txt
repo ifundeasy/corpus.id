@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tangsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asrama (tentara, polisi); barak;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) penjara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tangsi",
+  "related": [],
+  "detailed": false
+}

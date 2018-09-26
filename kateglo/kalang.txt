@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyangga (bantal, ganjal, dsb); penunjang;"
+      },
+      {
+        "type": "link",
+        "text": "kalangan"
+      },
+      {
+        "type": "desc",
+        "text": "ikan lele yang lebih pipih dan berwarna kekuning-kuningan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bingung tidak keruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalang",
+  "related": [],
+  "detailed": false
+}

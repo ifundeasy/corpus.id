@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ber -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "(konfiks verba)"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan kegiatan, mengalami peristiwa, dan menyatakan pelaku atau pengalam yang lebih dari satu, serta perbuatan atau proses yang berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan atau peristiwa yang terjadi secara timbal balik;"
+      },
+      {
+        "type": "desc",
+        "text": "berelasi satu sama lain;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa memilki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ber%20--%20an",
+  "related": [],
+  "detailed": false
+}

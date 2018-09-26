@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "publikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumuman;"
+      },
+      {
+        "type": "desc",
+        "text": "penerbitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=publikasi",
+  "related": [],
+  "detailed": false
+}

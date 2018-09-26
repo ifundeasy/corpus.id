@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dakwaan primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) dakwaan utama dalam suatu tuntutan peradilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dakwaan%20primer",
+  "related": [],
+  "detailed": false
+}

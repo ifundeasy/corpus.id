@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerak roti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan roti yang keras (pada lapisan luar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerak%20roti",
+  "related": [],
+  "detailed": false
+}

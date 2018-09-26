@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simulfiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) afiks yang tidak berbentuk suku kata dan yang ditambahkan atau dileburkan pada dasar; misal {n} pada ngopi (pangkalnya kopi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simulfiks",
+  "related": [],
+  "detailed": false
+}

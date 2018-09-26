@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lisensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(surat) izin untuk mengangkut barang dagangan, usaha, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pajak yang harus dibayarkan untuk memperoleh surat izin, terutama tentang ekspor-impor;"
+      },
+      {
+        "type": "desc",
+        "text": "izin menggunakan oktroi pihak lain dalam hukum tentang milik industri, dapat diberikan oleh si pemegang oktroi atau berdasarkan ketetapan Dewan Oktroi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lisensi",
+  "related": [],
+  "detailed": false
+}

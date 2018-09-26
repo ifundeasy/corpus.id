@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adonan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adukan tepung, santan, susu, dll (sebagai bahan pembuat kue);"
+      },
+      {
+        "type": "desc",
+        "text": "adukan semen dengan pasir dsb untuk pelekat batu bata atau penghalus dinding batu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adonan",
+  "related": [],
+  "detailed": false
+}

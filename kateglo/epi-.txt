@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "epi-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "di atas; sebelah atas;"
+      },
+      {
+        "type": "desc",
+        "text": "pada permulaan; di permulaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epi-",
+  "related": [],
+  "detailed": false
+}

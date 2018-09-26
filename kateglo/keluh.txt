@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keluh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ungkapan yang keluar karena perasaan susah (karena menderita sesuatu yang berat, kesakitan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluh",
+  "related": [],
+  "detailed": false
+}

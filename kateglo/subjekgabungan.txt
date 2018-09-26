@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "subjek gabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "frasa nominal yang terdiri atas lebih dari satu nomina atau pronomina yang digabungkan dengan konjungsi atau intonasi yang berfungsi sebagai subjek dalam klausa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subjek%20gabungan",
+  "related": [],
+  "detailed": false
+}

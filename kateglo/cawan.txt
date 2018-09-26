@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cangkir yang tidak bertelinga;"
+      },
+      {
+        "type": "desc",
+        "text": "mangkuk untuk makan nasi dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lapik cangkir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cawan",
+  "related": [],
+  "detailed": false
+}

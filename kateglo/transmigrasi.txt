@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transmigrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk dari satu daerah (pulau) yang berpenduduk padat ke daerah (pulau) lain yang berpenduduk jarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transmigrasi",
+  "related": [],
+  "detailed": false
+}

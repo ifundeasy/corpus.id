@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotetis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan hipotesis;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berdasarkan suatu pengetahuan; dugaan; sangkaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotetis",
+  "related": [],
+  "detailed": false
+}

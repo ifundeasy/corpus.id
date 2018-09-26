@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembeli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membeli;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembeli",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergundalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal gundal;"
+      },
+      {
+        "type": "desc",
+        "text": "cara perbudakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergundalan",
+  "related": [],
+  "detailed": false
+}

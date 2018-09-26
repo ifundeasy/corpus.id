@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "defleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyimpangan arah, misal penyimpangan arah angin yang disebabkan oleh rotasi bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hilangnya infleksi, misal bila dua akhiran kasus bergabung menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) terjadinya pergantian morfem inflektif oleh unsur lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=defleksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alim ulama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "orang-orang pandai dalam pengetahuan agama Islam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alim%20ulama",
+  "related": [],
+  "detailed": false
+}

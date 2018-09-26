@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pangkal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permulaan atau bagian yang dianggap sebagai dasar (terutama tentang benda yang panjang seperti pohon, tongkat, tiang);"
+      },
+      {
+        "type": "desc",
+        "text": "awal; permulaan; asal; sebab utama;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok; bagian (isi) yang utama;"
+      },
+      {
+        "type": "desc",
+        "text": "modal; kapital;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) morfem, kata, atau frasa yang bergabung dengan afiks, misal olah pada mengolah, atau tani pada bertani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkal",
+  "related": [],
+  "detailed": false
+}

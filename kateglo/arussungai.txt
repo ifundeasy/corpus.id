@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus sungai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) arus yang terdapat pada aliran air sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20sungai",
+  "related": [],
+  "detailed": false
+}

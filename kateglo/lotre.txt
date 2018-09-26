@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lotre",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "undian; menang -- ,;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat uang (barang dsb) dari undian;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mendapat untung besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lotre",
+  "related": [],
+  "detailed": false
+}

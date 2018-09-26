@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kendaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang digunakan untuk dikendarai atau dinaiki (seperti kuda, kereta, mobil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendaraan",
+  "related": [],
+  "detailed": false
+}

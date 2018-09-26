@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "total",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyeluruh; sepenuh-penuhnya; semesta;"
+      },
+      {
+        "type": "desc",
+        "text": "sama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=total",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita inti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20utama",
+  "related": [],
+  "detailed": false
+}

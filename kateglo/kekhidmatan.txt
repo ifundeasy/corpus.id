@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekhidmatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suasana (keadaan) hormat atau takzim;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal khidmat; perihal setia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekhidmatan",
+  "related": [],
+  "detailed": false
+}

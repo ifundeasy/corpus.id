@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filharmoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orkes simfoni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filharmoni",
+  "related": [],
+  "detailed": false
+}

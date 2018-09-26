@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panitia pelaksana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panitia yang bertugas melaksanakan kegiatan (terjun langsung ke lapangan kegiatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panitia%20pelaksana",
+  "related": [],
+  "detailed": false
+}

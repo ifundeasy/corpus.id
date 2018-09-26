@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan untuk orang perempuan yang belum atau sudah kawin;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan untuk orang perempuan yang usianya lebih tua daripada orang yang memanggil;"
+      },
+      {
+        "type": "desc",
+        "text": "gundik orang asing (terutama orang Eropa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyai",
+  "related": [],
+  "detailed": false
+}

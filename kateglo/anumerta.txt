@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anumerta",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setelah meninggal;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghargaan (gelar, pangkat, dsb) yang diberikan kepada anggota angkatan bersenjata yang dianggap berjasa kepada negara, sesudah orangnya meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anumerta",
+  "related": [],
+  "detailed": false
+}

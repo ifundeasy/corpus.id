@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katalina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis pesawat terbang yang dapat mendarat di air, bermotor dua, dan bersayap tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalina",
+  "related": [],
+  "detailed": false
+}

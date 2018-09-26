@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vitamin B",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "vitamin yang larut dalam air, terdapat dalam biji-bijian seperti padi, jagung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vitamin%20B",
+  "related": [],
+  "detailed": false
+}

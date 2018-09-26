@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memulangkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membawa (mengirimkan dsb) pulang (ke tempat asalnya, ke rumah, dsb) mengembalikan;"
+      },
+      {
+        "type": "desc",
+        "text": "memulihkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerahkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatakan bahwa (yang membuat, melakukan, dsb) itu ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memulangkan",
+  "related": [],
+  "detailed": false
+}

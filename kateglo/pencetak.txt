@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya mencetak buku dsb; tukang cetak;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan (orang) yang mencetak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat dsb untuk mencetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencetak",
+  "related": [],
+  "detailed": false
+}

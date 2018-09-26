@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prof",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "profesor; panggilan terhadap profesor;"
+      },
+      {
+        "type": "desc",
+        "text": "profesional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prof",
+  "related": [],
+  "detailed": false
+}

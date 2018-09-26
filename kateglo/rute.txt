@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rute",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak atau arah yang harus diturut (ditempuh, dilalui);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang ditempuh (dilalui);"
+      },
+      {
+        "type": "desc",
+        "text": "jalur angkutan yang menghubungkan dua tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rute",
+  "related": [],
+  "detailed": false
+}

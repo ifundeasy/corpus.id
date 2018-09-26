@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendiskualifikasikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "melarang seseorang turut bertanding karena melanggar peraturan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan tidak cakap atau tidak mampu;"
+      },
+      {
+        "type": "desc",
+        "text": "mencabut hak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendiskualifikasikan",
+  "related": [],
+  "detailed": false
+}

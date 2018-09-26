@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertunaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penunaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertunaian",
+  "related": [],
+  "detailed": false
+}

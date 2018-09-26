@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hitungan angka-angka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "soal berhitung dengan bilangan saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitungan%20angka-angka",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kardiak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian dengan jantung;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan bagian atas perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kardiak",
+  "related": [],
+  "detailed": false
+}

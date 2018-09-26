@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghasilan kotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh penghasilan yang belum dikurangi biaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghasilan%20kotor",
+  "related": [],
+  "detailed": false
+}

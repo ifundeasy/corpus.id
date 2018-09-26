@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik lebur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat suhu tempat suatu bahan (zat) padat mencair di bawah tekanan normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20lebur",
+  "related": [],
+  "detailed": false
+}

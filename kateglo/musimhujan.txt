@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musim hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "periode dalam tahun yang ditandai dengan jumlah curah hujan yang besar, yang berbeda secara mencolok dari jumlah curah hujan dalam periode berikutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim%20hujan",
+  "related": [],
+  "detailed": false
+}

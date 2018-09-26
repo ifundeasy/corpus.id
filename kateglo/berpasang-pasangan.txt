@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpasang-pasangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpasang;"
+      },
+      {
+        "type": "desc",
+        "text": "tembak-menembak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpasang-pasangan",
+  "related": [],
+  "detailed": false
+}

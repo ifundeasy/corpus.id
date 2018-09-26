@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai pari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai yang tertera di atas sekuritas; nilai nominal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20pari",
+  "related": [],
+  "detailed": false
+}

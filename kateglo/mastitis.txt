@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mastitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) radang pada kelenjar air susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mastitis",
+  "related": [],
+  "detailed": false
+}

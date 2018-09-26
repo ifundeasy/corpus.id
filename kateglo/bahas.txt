@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membahas"
+      },
+      {
+        "type": "desc",
+        "text": "selidik; periksa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahas",
+  "related": [],
+  "detailed": false
+}

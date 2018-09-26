@@ -1,0 +1,57 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menebus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar dengan uang untuk mengambil kembali barang yang tergadai;"
+      },
+      {
+        "type": "desc",
+        "text": "membayar dengan uang dsb untuk membebaskan (tawanan, sandera, budak belian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membeli kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "menguangkan wesel (cek) ke bank;"
+      },
+      {
+        "type": "desc",
+        "text": "mengambil barang pembagian (distribusi dsb) dengan bon (kupon dsb) dan dengan membayarnya dengan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "memperbaiki kesalahan (dosa dsb) dengan berbuat jasa, kebaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "memulihkan kekalahan (kerugian); memulihkan kehormatan (nama baik); menghapus (malu);"
+      },
+      {
+        "type": "desc",
+        "text": "membalas (jasa, kebaikan, karunia) yang sudah diterima;"
+      },
+      {
+        "type": "desc",
+        "text": "menepati atau menunaikan (janji, perkataan, cita-cita, nazar) yang telah terucapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyelamatkan (jiwa, hidup) orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "memperoleh sesuatu dengan pengorbanan (jiwa, harta, benda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menebus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis isogonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis pada peta yang ditarik melalui semua tempat yang mempunyai deklinasi kompas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20isogonik",
+  "related": [],
+  "detailed": false
+}

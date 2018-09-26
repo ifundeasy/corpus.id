@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkat lunak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat program, prosedur, dan dokumen yang berkaitan dengan suatu sistem (misal sistem komputer);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari alat (komputer dsb) yang berfungsi sebagai penunjang alat utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkat%20lunak",
+  "related": [],
+  "detailed": false
+}

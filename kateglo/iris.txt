@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "selaput bola mata yang ada di belakang kornea mata, membentuk batas pupil yang memberikan warna khusus; selaput pelangi;"
+      },
+      {
+        "type": "desc",
+        "text": "penggal kecil; kerat; potong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iris",
+  "related": [],
+  "detailed": false
+}

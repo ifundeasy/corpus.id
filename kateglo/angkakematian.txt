@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka kematian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) bilangan yang menunjukkan banyaknya ternak mati pada suatu periode tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20kematian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tawanan sipil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk yang ditawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawanan%20sipil",
+  "related": [],
+  "detailed": false
+}

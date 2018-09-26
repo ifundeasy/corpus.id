@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata buru",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kegiatan wisata yang memanfaatkan satwa sebagai objek kegiatan berburu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20buru",
+  "related": [],
+  "detailed": false
+}

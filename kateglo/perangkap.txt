@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menangkap binatang (seperti kandang atau sangkar yang dapat menutup sendiri apabila binatang sudah masuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkap",
+  "related": [],
+  "detailed": false
+}

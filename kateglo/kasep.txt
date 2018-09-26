@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasep",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kasip"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Sd) tampan (untuk laki-laki); cakap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasep",
+  "related": [],
+  "detailed": false
+}

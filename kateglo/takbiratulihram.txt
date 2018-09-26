@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takbiratulihram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) takbir yang diucapkan pada awal salat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takbiratulihram",
+  "related": [],
+  "detailed": false
+}

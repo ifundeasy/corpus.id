@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produk sampingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produk sertaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produk%20sampingan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "waktu tiga hari lagi dari sekarang; tulat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersuji (bersulam) timbul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkat",
+  "related": [],
+  "detailed": false
+}

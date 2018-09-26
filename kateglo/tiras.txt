@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potongan atau guntingan benang (kain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "benang pada tepi kain dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "oplah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiras",
+  "related": [],
+  "detailed": false
+}

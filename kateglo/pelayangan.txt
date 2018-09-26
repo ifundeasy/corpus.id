@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu tambang yang digunakan di sungai untuk menyeberangkan orang atau barang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyeberangkan orang atau barang dengan perahu tambang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayangan",
+  "related": [],
+  "detailed": false
+}

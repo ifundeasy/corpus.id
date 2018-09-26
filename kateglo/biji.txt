@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "isi buah (yang apabila ditanam dapat tumbuh);"
+      },
+      {
+        "type": "desc",
+        "text": "butir buah yang kecil-kecil (seperti butir padi dan jagung);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi bermacam-macam benda sebagai pengganti butir, buah, batang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "angka yang menunjukkan hasil belajar (kepandaian); nilai; ponten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biji",
+  "related": [],
+  "detailed": false
+}

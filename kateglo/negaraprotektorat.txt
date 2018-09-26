@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara protektorat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang berada di bawah pengawasan Dewan Keamanan PBB atau di bawah pengawasan negara lain (biasanya ditunjuk oleh PBB);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20protektorat",
+  "related": [],
+  "detailed": false
+}

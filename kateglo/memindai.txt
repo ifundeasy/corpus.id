@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memindai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat dengan cermat dan lama; memandangi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) memeriksa dengan alat pengindraan (seperti fitometer atau sinar radiasi) untuk mendapatkan informasi; melewatkan berkas elektron atau (sesuatu) lalu mengubahnya menjadi variasi sifat-sifat elektron (misal vilatase) yang membawa informasi secara elektronis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memindai",
+  "related": [],
+  "detailed": false
+}

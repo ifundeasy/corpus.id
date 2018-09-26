@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan anak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tambahan gaji sebagai bantuan untuk anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20anak",
+  "related": [],
+  "detailed": false
+}

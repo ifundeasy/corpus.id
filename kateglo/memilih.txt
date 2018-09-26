@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memilih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan (mengambil dsb) sesuatu yang dianggap sesuai dengan kesukaan (selera dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mencari atau memisah-misahkan mana yang baik (besar, kecil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menunjuk (orang, calon, dsb) dengan memberikan suaranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memilih",
+  "related": [],
+  "detailed": false
+}

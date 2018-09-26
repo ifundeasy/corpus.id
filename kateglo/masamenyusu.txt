@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa menyusu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) waktu selama anak menyusu pada induk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20menyusu",
+  "related": [],
+  "detailed": false
+}

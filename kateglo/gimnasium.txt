@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gimnasium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruangan besar untuk olahraga;"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah menengah yang muridnya dipersiapkan untuk masuk perguruan tinggi (sistem pendidikan di Eropa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gimnasium",
+  "related": [],
+  "detailed": false
+}

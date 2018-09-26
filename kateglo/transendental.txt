@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transendental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menonjolkan hal-hal yang bersifat kerohanian;"
+      },
+      {
+        "type": "desc",
+        "text": "sukar dipahami;"
+      },
+      {
+        "type": "desc",
+        "text": "gaib;"
+      },
+      {
+        "type": "desc",
+        "text": "abstrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transendental",
+  "related": [],
+  "detailed": false
+}

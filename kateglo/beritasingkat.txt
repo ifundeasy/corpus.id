@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita singkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita secara singkat tentang peristiwa yang sedang terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20singkat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nilai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga (dalam arti taksiran harga);"
+      },
+      {
+        "type": "desc",
+        "text": "harga uang (dibandingkan dengan harga uang yang lain);"
+      },
+      {
+        "type": "desc",
+        "text": "angka kepandaian; biji; ponten;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak sedikitnya isi; kadar; mutu;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat-sifat (hal-hal) yang penting atau berguna bagi kemanusiaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyempurnakan manusia sesuai dengan hakikatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai",
+  "related": [],
+  "detailed": false
+}

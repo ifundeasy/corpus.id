@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang sudah resmi dan sah berdasarkan pemilihan dan pengangkatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20tetap",
+  "related": [],
+  "detailed": false
+}

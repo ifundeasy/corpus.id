@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia farmasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang susunan, pembuatan, dan pengujian obat-obatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20farmasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penangkap ikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nelayan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penangkap%20ikan",
+  "related": [],
+  "detailed": false
+}

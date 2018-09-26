@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan-bulanan; yang disasarkan; hasil menyasar;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menjadi tujuan (yang dikritik, dimarahi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) bagian tubuh di atas garis khayal pada pusar sampai batas telinga, tidak termasuk lengan atau bahu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlatih (belajar, menembak, mengaji, bersilat, dsb); gelanggang;"
+      },
+      {
+        "type": "desc",
+        "text": "sasarannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran",
+  "related": [],
+  "detailed": false
+}

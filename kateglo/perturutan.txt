@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perturutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) berturut-turut;"
+      },
+      {
+        "type": "desc",
+        "text": "kelanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perturutan",
+  "related": [],
+  "detailed": false
+}

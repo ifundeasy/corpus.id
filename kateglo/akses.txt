@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akses",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) pencapaian berkas di disket untuk penulisan atau pembacaan data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akses",
+  "related": [],
+  "detailed": false
+}

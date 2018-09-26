@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "statistika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang cara mengumpulkan, menabulasi, menggolong-golongkan, menganalisis, dan mencari kete-rangan yang berarti dari data yang berupa angka;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan yang berhubungan dengan pengumpulan data, penyelidikan dan kesimpulannya berdasarkan bukti, berupa catatan bilangan (angka-angka);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=statistika",
+  "related": [],
+  "detailed": false
+}

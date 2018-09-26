@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angin laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angin yang bertiup dari arah laut ke darat yang terjadi pada siang hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angin%20laut",
+  "related": [],
+  "detailed": false
+}

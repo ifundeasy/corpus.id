@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gudang api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gudang tempat menyimpan barang-barang kimia yang mudah terbakar (meledak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gudang%20api",
+  "related": [],
+  "detailed": false
+}

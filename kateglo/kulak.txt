@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kulak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sukatan (satuan ukuran) beras dsb (empat cupak);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw) membeli barang dalam jumlah besar untuk dijual kembali;"
+      },
+      {
+        "type": "link",
+        "text": "kulak-kulak tangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kulak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puasa apit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "puasa pada hari kelahiran ditambah sehari sebelum dan sehari sesudahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puasa%20apit",
+  "related": [],
+  "detailed": false
+}

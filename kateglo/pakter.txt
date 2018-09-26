@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pakter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengepak (tanah, sawah, dsb); penyewa tanah, sawah, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "warung kecil; kedai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakter",
+  "related": [],
+  "detailed": false
+}

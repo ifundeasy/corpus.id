@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kodifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "himpunan berbagai peraturan menjadi undang-undang; hal penyusunan kitab perundang-undangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) penggolongan hukum dan undang-undang berdasarkan asas-asas tertentu dalam buku undang-undang yang baku;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pencatatan norma yang telah dihasilkan oleh pembakuan dalam bentuk buku tata bahasa, seperti pedoman lafal, pedoman ejaan, pedoman pembentukan istilah, atau kamus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) pemberian nomor atau lambang pada perkiraan pos, jurnal, faktur, atau dokumen lain yang berfungsi sebagai alat untuk membedakan pos yang satu dengan lainnya yang termasuk satu golongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kodifikasi",
+  "related": [],
+  "detailed": false
+}

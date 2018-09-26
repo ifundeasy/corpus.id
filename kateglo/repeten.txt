@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repeten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) angka atau kelompok angka yang selalu berulang dalam pecahan perpuluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repeten",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang industri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang terpakai habis dalam produksi atau yang menjadi bagian dari produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20industri",
+  "related": [],
+  "detailed": false
+}

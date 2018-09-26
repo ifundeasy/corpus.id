@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membalas salam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjawab salam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membalas%20salam",
+  "related": [],
+  "detailed": false
+}

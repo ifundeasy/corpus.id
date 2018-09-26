@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantilever",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "tembok yang menganjur ke luar sebagai penahan balkon;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) konstruksi batang (balok) yang salah satu ujungnya dijepit dan ujung lainnya bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "penopang; penyangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantilever",
+  "related": [],
+  "detailed": false
+}

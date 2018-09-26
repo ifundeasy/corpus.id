@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dragon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "jenis nomor dalam pertandingan mendayung;"
+      },
+      {
+        "type": "desc",
+        "text": "naga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dragon",
+  "related": [],
+  "detailed": false
+}

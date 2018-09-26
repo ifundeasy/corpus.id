@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bandar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selokan aliran air (ke sawah dsb); selokan; parit;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlabuh (kapal, perahu, dsb); pelabuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "kota pelabuhan; kota perdagangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemain yang menjadi lawan pemain-pemain lain sekaligus (dalam permainan dadu, rolet, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menyelenggarakan perjudian; bandar judi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengendalikan suatu aksi (gerakan) dengan sembunyi-sembunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang membiayai suatu gerakan yang kurang baik;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bermodal dalam perdagangan dsb; tengkulak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandar",
+  "related": [],
+  "detailed": false
+}

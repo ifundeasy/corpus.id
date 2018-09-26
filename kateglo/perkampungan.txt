@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkampungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok rumah yang merupakan kampung;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berkampung (berkumpul);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok kampung;"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok; sekumpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkampungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kadar disosiasi",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "bagian dari jumlah seluruh molekul yang pecah pada waktu disosiasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadar%20disosiasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdebatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "soal yang diperdebatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perbantahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdebatan",
+  "related": [],
+  "detailed": false
+}

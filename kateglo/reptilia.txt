@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reptilia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang melata yang merupakan salah satu kelas vertebrata, terdiri atas beberapa bangsa, misal kura-kura, penyu, kadal, ular, buaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reptilia",
+  "related": [],
+  "detailed": false
+}

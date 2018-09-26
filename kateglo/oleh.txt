@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oleh",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata penghubung untuk menandai pelaku;"
+      },
+      {
+        "type": "desc",
+        "text": "sebab; karena;"
+      },
+      {
+        "type": "desc",
+        "text": "akibat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) (ke)pada (yang menyatakan hubungan keluarga);"
+      },
+      {
+        "type": "desc",
+        "text": "bagi (untuk);"
+      },
+      {
+        "type": "desc",
+        "text": "dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oleh",
+  "related": [],
+  "detailed": false
+}

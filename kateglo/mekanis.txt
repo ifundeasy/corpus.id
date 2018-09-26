@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mekanis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "otomatis menurut kerja mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan (berkenaan) dengan mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mekanis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menagih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta (memperingatkan, mendesak) supaya membayar (utang, pajak, iuran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menuntut atau menggugat supaya melaksanakan janji (pernyataan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) objek hukum yang harus diterima kreditor dari debitur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menagih",
+  "related": [],
+  "detailed": false
+}

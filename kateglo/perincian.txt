@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perincian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uraian yang berisi bagian yang kecil-kecil satu demi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memerinci;"
+      },
+      {
+        "type": "desc",
+        "text": "cara, perbuatan, proses memerinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perincian",
+  "related": [],
+  "detailed": false
+}

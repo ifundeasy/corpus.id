@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jabatan fungsional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan yang ditinjau dari fungsinya dalam satuan organisasi (seperti dokter ahli, dosen, juru ukur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jabatan%20fungsional",
+  "related": [],
+  "detailed": false
+}

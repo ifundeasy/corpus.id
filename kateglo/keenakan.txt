@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keenakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesenangan; kenyamanan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu merasa enak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) menjadi terbiasa (biasanya hal-hal yang kurang baik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keenakan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) binatang lunak yang hidup di air (laut) keluarga tiram, berinsang pipih, cangkangnya terdiri atas sepasang katup yang dihubungkan dengan engsel hingga dapat dibuka atau ditutup, bermacam-macam jenisnya;"
+      },
+      {
+        "type": "link",
+        "text": "kerang-kerangan"
+      }
+    ],
+    "a": [
+      {
+        "type": "link",
+        "text": "kerang-kerung"
+      },
+      {
+        "type": "link",
+        "text": "kerang-keruk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerang",
+  "related": [],
+  "detailed": false
+}

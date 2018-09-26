@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat (pada tangga atau sesuatu yang bersusun seperti mahkota);"
+      },
+      {
+        "type": "desc",
+        "text": "lantai yang ketinggian (pada pancapersada);"
+      },
+      {
+        "type": "desc",
+        "text": "lenggek (rumah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan dalam jabatan kepegawaian (ketentaraan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan atau derajat kebangsawanan dalam masyarakat; martabat;"
+      },
+      {
+        "type": "desc",
+        "text": "kelas (di sekolah, gedung pertunjukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) eksponen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkat",
+  "related": [],
+  "detailed": false
+}

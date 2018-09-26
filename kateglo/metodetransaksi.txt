@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metode transaksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode pembukuan yang lebih banyak memperlihatkan pendapatan selama masa jual beli terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metode%20transaksi",
+  "related": [],
+  "detailed": false
+}

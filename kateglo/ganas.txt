@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ganas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "galak dan suka menyerang (melawan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mudah menular (tentang penyakit dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ganas",
+  "related": [],
+  "detailed": false
+}

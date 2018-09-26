@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinestesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perasaan yang sangat kompleks yang ditimbulkan oleh rangsangan dalam otot, urat, dan pergelangan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat mempunyai daya menyadari gerakan otot; berkemampuan psikomotorik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinestesis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang tidak dapat ditawar lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20mati",
+  "related": [],
+  "detailed": false
+}

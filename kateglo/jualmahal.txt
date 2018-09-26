@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual mahal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak mau segera mengiakan (agar tidak dianggap murahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20mahal",
+  "related": [],
+  "detailed": false
+}

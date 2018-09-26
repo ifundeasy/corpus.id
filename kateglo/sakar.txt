@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gula;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) zat gula dalam darah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) neraka;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) samun; rompak; rampas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakar",
+  "related": [],
+  "detailed": false
+}

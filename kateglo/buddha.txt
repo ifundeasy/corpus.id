@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Buddha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "agama yang diajarkan oleh Sidharta Gautama;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang telah mencapai kesempurnaan Buddhisme;"
+      },
+      {
+        "type": "desc",
+        "text": "penjelmaan Sidharta Gautama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Buddha",
+  "related": [],
+  "detailed": false
+}

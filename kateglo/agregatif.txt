@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agregatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat agregasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agregatif",
+  "related": [],
+  "detailed": false
+}

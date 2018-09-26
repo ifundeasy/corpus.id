@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polisiklis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan banyak masa peredaran atau putaran;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat lebih dari satu unsur siklus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisiklis",
+  "related": [],
+  "detailed": false
+}

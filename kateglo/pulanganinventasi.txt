@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pulangan inventasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) perbandingan antara pendapatan dan inventasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulangan%20inventasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seperempat jam",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "lima belas menit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seperempat%20jam",
+  "related": [],
+  "detailed": false
+}

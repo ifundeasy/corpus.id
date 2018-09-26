@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "blangko",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kosong (belum diisi);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak memberikan suara (dalam pemungutan suara);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat isian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blangko",
+  "related": [],
+  "detailed": false
+}

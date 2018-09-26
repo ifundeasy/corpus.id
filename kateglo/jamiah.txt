@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jamiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "universitas; institut;"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan; perhimpunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jamiah",
+  "related": [],
+  "detailed": false
+}

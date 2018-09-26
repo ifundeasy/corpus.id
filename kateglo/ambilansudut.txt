@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ambilan sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ambilan gambar bukan dari depan, tetapi dari sudut samping kiri atau kanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambilan%20sudut",
+  "related": [],
+  "detailed": false
+}

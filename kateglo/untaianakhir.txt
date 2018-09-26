@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "untaian akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) untaian beberapa formatif yang dihasilkan oleh kaidah struktur frasa yang kemudian dioperasikan oleh kaidah transformasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=untaian%20akhir",
+  "related": [],
+  "detailed": false
+}

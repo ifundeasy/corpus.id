@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "solar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan bakar minyak untuk mesin diesel, lebih kental daripada minyak tanah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=solar",
+  "related": [],
+  "detailed": false
+}

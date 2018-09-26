@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit larat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit sifilis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20larat",
+  "related": [],
+  "detailed": false
+}

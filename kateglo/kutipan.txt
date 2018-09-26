@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kutipan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pungutan; petikan; nukilan; sitat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pengambilalihan satu kalimat atau lebih dari karya tulisan lain untuk tujuan ilustrasi atau memperkokoh argumen dalam tulisan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutipan",
+  "related": [],
+  "detailed": false
+}

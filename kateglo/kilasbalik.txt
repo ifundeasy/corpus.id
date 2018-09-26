@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kilas balik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pandangan kembali atas kejadian sebelumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) sorot balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilas%20balik",
+  "related": [],
+  "detailed": false
+}

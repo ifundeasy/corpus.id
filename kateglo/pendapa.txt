@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pendapa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pedapa"
+      },
+      {
+        "type": "desc",
+        "text": "rumah bagian muka;"
+      },
+      {
+        "type": "desc",
+        "text": "balai (ruang) besar tempat berapat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapa",
+  "related": [],
+  "detailed": false
+}

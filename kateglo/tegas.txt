@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tegas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jelas dan terang benar; nyata;"
+      },
+      {
+        "type": "desc",
+        "text": "tentu dan pasti (tidak ragu-ragu lagi, tidak samar-samar);"
+      },
+      {
+        "type": "desc",
+        "text": "tandas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tegas",
+  "related": [],
+  "detailed": false
+}

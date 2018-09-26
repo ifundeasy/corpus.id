@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelaikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal laik;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan laik; kelayakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelaikan",
+  "related": [],
+  "detailed": false
+}

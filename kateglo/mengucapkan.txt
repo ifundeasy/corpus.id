@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengucapkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan ucapan (kata);"
+      },
+      {
+        "type": "desc",
+        "text": "melisankan; melafalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengucapkan",
+  "related": [],
+  "detailed": false
+}

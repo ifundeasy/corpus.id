@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruku",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ruku-ruku"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi burung tekukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruku",
+  "related": [],
+  "detailed": false
+}

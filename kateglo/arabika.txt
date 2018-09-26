@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arabika",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kopi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arabika",
+  "related": [],
+  "detailed": false
+}

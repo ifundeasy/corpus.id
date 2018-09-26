@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumur taruhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumur eksplorasi yang dibor di daerah yang belum terbukti mengandung minyak dan gas bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumur%20taruhan",
+  "related": [],
+  "detailed": false
+}

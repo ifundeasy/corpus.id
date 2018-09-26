@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salung api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk meniup api (dari bambu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salung%20api",
+  "related": [],
+  "detailed": false
+}

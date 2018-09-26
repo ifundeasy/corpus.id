@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan resmi tentang suatu pokok yang dimaksudkan untuk dibacakan di muka umum dalam suatu persidangan dan yang sering disusun untuk diterbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "karya tulis pelajar atau mahasiswa sebagai laporan hasil pelaksanaan tugas sekolah atau perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makalah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar lesu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan pasar yang memperlihatkan sangat sedikitnya penawaran dan permintaan sekuritas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20lesu",
+  "related": [],
+  "detailed": false
+}

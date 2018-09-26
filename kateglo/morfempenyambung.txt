@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem penyambung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unsur yang diletakkan antara dua morfem lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20penyambung",
+  "related": [],
+  "detailed": false
+}

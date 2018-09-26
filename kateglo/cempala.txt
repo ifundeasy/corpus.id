@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cempala",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "lancang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) kayu (alat) pemukul kotak wayang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cempala",
+  "related": [],
+  "detailed": false
+}

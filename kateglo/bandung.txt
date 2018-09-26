@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bandung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang dirangkaikan (dua buah); pasang;"
+      },
+      {
+        "type": "link",
+        "text": "membandungi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eulogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan atau tulisan yang memuji atau menghormati seseorang, terutama yang sudah meninggal dunia;"
+      },
+      {
+        "type": "desc",
+        "text": "penghargaan atau pujian yang tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eulogi",
+  "related": [],
+  "detailed": false
+}

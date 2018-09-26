@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang lebih rendah; kaki gunung, hilir, tanah dekat pantai dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "sawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baruh",
+  "related": [],
+  "detailed": false
+}

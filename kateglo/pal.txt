@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tonggak batu sebagai tanda jarak, antara satu tonggak dan tonggak yang lain berjarak 1,5 km;"
+      },
+      {
+        "type": "link",
+        "text": "berpal-pal"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) faal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pal",
+  "related": [],
+  "detailed": false
+}

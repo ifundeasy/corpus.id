@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bidang studi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengelompokan sejumlah mata pelajaran yang sejenis atau memiliki ciri yang sama (mata pelajaran yang telah berkorelasi satu dengan yang lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidang%20studi",
+  "related": [],
+  "detailed": false
+}

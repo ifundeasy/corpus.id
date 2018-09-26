@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor perkenalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor atau produk suatu terbitan pers yang dikirimkan secara cuma-cuma kepada perseorangan atau badan-badan, pada saat penerbitan dimulai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20perkenalan",
+  "related": [],
+  "detailed": false
+}

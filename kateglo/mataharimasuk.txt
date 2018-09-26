@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "matahari masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebelah barat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat matahari terbenam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matahari%20masuk",
+  "related": [],
+  "detailed": false
+}

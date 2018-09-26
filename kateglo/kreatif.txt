@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kreatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memiliki daya cipta; memiliki kemampuan untuk menciptakan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat (mengandung) daya cipta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kreatif",
+  "related": [],
+  "detailed": false
+}

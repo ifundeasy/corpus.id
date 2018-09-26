@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bobot jenis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) bobot suatu zat per satuan volumenya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobot%20jenis",
+  "related": [],
+  "detailed": false
+}

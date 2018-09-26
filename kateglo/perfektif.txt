@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perfektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) menandai aspek verba yang menggambarkan perbuatan selesai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perfektif",
+  "related": [],
+  "detailed": false
+}

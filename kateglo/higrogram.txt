@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "higrogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) rekaman yang dibuat oleh higrograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrogram",
+  "related": [],
+  "detailed": false
+}

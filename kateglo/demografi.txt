@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang susunan, jumlah, dan perkembangan penduduk; ilmu yang memberikan uraian atau gambaran statistik mengenai suatu bangsa dilihat dari sudut sosial politik; ilmu kependudukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demografi",
+  "related": [],
+  "detailed": false
+}

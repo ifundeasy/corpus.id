@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "album",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku tempat menyimpan kumpulan foto (potret), prangko, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan piringan hitam, kaset lagu-lagu, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan lagu dalam rekaman kaset;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang berisi antologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=album",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang timah yang terkecil zaman dahulu, harganya sepersepuluh duit;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak berharga; sedikit sekali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kas) mampus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abus",
+  "related": [],
+  "detailed": false
+}

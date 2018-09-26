@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelinci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang mamalia yang mengunggis, mempunyai telinga panjang dan ekor pendek, rupanya seperti marmot besar; Oryctolagus cuniculus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelinci",
+  "related": [],
+  "detailed": false
+}

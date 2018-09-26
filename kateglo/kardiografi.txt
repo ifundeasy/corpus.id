@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kardiografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pencatatan aktivitas jantung dengan suatu alat;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang bersangkutan dengan kardiograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kardiografi",
+  "related": [],
+  "detailed": false
+}

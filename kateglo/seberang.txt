@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seberang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi di sebelah sana (sungai, jalan, laut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang berhadapan dengan tempat kita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seberang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apabila",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "jika; kalau;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(kl) kata untuk menanyakan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apabila",
+  "related": [],
+  "detailed": false
+}

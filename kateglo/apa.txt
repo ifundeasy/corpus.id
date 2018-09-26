@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apa",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan nama (jenis, sifat) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk pengganti sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan pertalian kekeluargaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengganti sesuatu yang kurang terang; pengganti barang sesuatu;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(hor) untuk menghaluskan permintaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) untuk mendahului kalimat tanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) atau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apa",
+  "related": [],
+  "detailed": false
+}

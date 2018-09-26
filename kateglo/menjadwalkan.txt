@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjadwalkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menetapkan jadwal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjadwalkan",
+  "related": [],
+  "detailed": false
+}

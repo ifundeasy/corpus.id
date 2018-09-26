@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan air tawar berbentuk pipih, bersisik halus, berwarna keperak-perakan, kerap kali dijadikan ikan kering atau ikan asin, suku Anabantidae;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa kelat seperti rasa salak mentah;"
+      },
+      {
+        "type": "link",
+        "text": "kayu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepat",
+  "related": [],
+  "detailed": false
+}

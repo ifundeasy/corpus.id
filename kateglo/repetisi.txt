@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repetisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ulangan (pelajaran);"
+      },
+      {
+        "type": "desc",
+        "text": "latihan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) gaya bahasa yang menggunakan kata kunci yang terdapat di awal kalimat untuk mencapai efek tertentu dalam penyampaian makna ulangan (sandiwara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repetisi",
+  "related": [],
+  "detailed": false
+}

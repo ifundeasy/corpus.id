@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat siaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat selebaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20siaran",
+  "related": [],
+  "detailed": false
+}

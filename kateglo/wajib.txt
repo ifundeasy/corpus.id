@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wajib",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "harus dilakukan; tidak boleh tidak dilaksanakan (ditinggalkan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah semestinya; harus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wajib",
+  "related": [],
+  "detailed": false
+}

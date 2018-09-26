@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "blokir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memblokir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blokir",
+  "related": [],
+  "detailed": false
+}

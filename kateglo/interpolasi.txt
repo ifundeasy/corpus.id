@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interpolasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "penyisipan kata, kalimat, dsb dalam buku atau naskah;"
+      },
+      {
+        "type": "desc",
+        "text": "pengalihan pola (pikir, pandangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interpolasi",
+  "related": [],
+  "detailed": false
+}

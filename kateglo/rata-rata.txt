@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rata-rata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama banyak di seluruh tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "disamakan saja tanpa memperhatikan perbedaan yang ada; pukul rata;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir sama; berimbang jumlahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(angka, jumlah, dsb) diperoleh dari jumlah keseluruhan unsur dibagi banyaknya unsur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rata-rata",
+  "related": [],
+  "detailed": false
+}

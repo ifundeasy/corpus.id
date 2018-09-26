@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lempung pasiran",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bahan tanah yang mengandung 35% atau lebih lempung 45% atau lebih pasir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lempung%20pasiran",
+  "related": [],
+  "detailed": false
+}

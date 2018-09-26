@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sehat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik seluruh badan serta bagian-bagiannya (bebas dari sakit); waras;"
+      },
+      {
+        "type": "desc",
+        "text": "(yang) mendatangkan kebaikan pada badan;"
+      },
+      {
+        "type": "desc",
+        "text": "sembuh dari sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) baik dan normal (tentang pikiran);"
+      },
+      {
+        "type": "desc",
+        "text": "boleh dipercaya atau masuk akal (tentang pendapat, usul, alasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan dengan baik atau sebagaimana mestinya (tentang keadaan keuangan, ekonomi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dijalankan dengan hati-hati dan baik-baik (tentang politik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sehat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang reaksi kekebalan dalam serum atau tentang kerja berbagai serum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serologi",
+  "related": [],
+  "detailed": false
+}

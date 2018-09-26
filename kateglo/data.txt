@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan yang benar dan nyata;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan atau bahan nyata yang dapat dijadikan dasar kajian (analisis atau kesimpulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data",
+  "related": [],
+  "detailed": false
+}

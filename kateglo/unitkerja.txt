@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unit kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan (regu) kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unit%20kerja",
+  "related": [],
+  "detailed": false
+}

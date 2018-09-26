@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien kebocoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri tetap lapisan penekan yang bocor yang merupakan bocoran tegak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20kebocoran",
+  "related": [],
+  "detailed": false
+}

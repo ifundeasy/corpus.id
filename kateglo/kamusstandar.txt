@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus baku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20standar",
+  "related": [],
+  "detailed": false
+}

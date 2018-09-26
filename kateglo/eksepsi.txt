@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengecualian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) tangkisan atau pembelaan yang tidak menyinggung isi surat tuduhan (gugatan), tetapi berisi permohonan agar pengadilan menolak perkara yang diajukan oleh penggugat karena tidak memenuhi persyaratan hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksepsi",
+  "related": [],
+  "detailed": false
+}

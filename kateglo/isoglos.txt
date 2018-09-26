@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isoglos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) garis pada peta bahasa yang menghubungkan daerah yang mewakili kelompok penutur yang menggunakan unsur bahasa (fonologi, gramatikal, dan leksikal) yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isoglos",
+  "related": [],
+  "detailed": false
+}

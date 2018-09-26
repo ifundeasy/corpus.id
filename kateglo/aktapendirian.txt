@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akta pendirian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan tertulis oleh notaris atau pejabat yang berwenang, yang memuat anggaran dasar perusahaan yang didirikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akta%20pendirian",
+  "related": [],
+  "detailed": false
+}

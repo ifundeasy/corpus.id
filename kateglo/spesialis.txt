@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesialis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam suatu cabang ilmu atau keterampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesialis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergizi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengandung gizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergizi",
+  "related": [],
+  "detailed": false
+}

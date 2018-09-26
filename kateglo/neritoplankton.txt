@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neritoplankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "plankton yang terdapat pada air dangkal sepanjang pesisir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neritoplankton",
+  "related": [],
+  "detailed": false
+}

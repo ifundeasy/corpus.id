@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang kala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang bila;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20kala",
+  "related": [],
+  "detailed": false
+}

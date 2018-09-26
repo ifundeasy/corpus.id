@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "data lapangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan data yang diperoleh dengan cara melakukan pengukuran langsung (tidak menggunakan satelit);"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan data yang diperoleh dengan cara melakukan pengukuran langsung di lapangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data%20lapangan",
+  "related": [],
+  "detailed": false
+}

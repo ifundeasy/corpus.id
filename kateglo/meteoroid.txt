@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meteoroid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astr) benda langit padat ukuran kecil di angkasa luar antarplanit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteoroid",
+  "related": [],
+  "detailed": false
+}

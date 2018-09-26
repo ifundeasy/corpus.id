@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "misal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menggambarkan sebagian dari suatu keseluruhan; contoh; perumpamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dianggap bukan sungguh-sungguh (tentang peristiwa dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misal",
+  "related": [],
+  "detailed": false
+}

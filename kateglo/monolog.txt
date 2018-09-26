@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicaraan yang dilakukan dengan diri sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) adegan sandiwara dengan pelaku tunggal yang membawakan percakapan seorang diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monolog",
+  "related": [],
+  "detailed": false
+}

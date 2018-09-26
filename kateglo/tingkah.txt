@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tingkah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ulah (perbuatan) yang aneh-aneh atau yang tidak sewajarnya; lagak; canda;"
+      },
+      {
+        "type": "desc",
+        "text": "perangai; kelakuan;"
+      },
+      {
+        "type": "desc",
+        "text": "gendang;"
+      },
+      {
+        "type": "desc",
+        "text": "pukulan gendang dsb yang mengiringi lagu, bunyi-bunyian atau tari;"
+      },
+      {
+        "type": "desc",
+        "text": "nyanyi (sorak, tepuk tangan, dsb) yang berselang-selangan atau bersambutan dengan bunyi-bunyian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tingkah",
+  "related": [],
+  "detailed": false
+}

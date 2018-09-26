@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem gramatikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang jumlahnya terbatas dan berfungsi sebagai penghubung di antara morfem leksikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20gramatikal",
+  "related": [],
+  "detailed": false
+}

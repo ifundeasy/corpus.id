@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengucap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan ucapan (perkataan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengucap",
+  "related": [],
+  "detailed": false
+}

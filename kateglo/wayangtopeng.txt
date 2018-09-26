@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wayang topeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan wayang dengan para pelakunya memakai topeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wayang%20topeng",
+  "related": [],
+  "detailed": false
+}

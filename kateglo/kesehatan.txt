@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan (hal) sehat; kebaikan keadaan (badan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesehatan",
+  "related": [],
+  "detailed": false
+}

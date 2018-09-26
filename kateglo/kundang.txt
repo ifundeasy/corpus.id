@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kundang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "mengundang"
+      },
+      {
+        "type": "link",
+        "text": "kundangan"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "kundangan"
+      },
+      {
+        "type": "desc",
+        "text": "pohon yang daun dan buahnya dibuat lalap, kayunya dapat dijadikan perkakas rumah, Boueamaerophylla;"
+      },
+      {
+        "type": "desc",
+        "text": "daun kundangan;"
+      },
+      {
+        "type": "desc",
+        "text": "buah kundangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu kundangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kundang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persembunyian;"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang yang disembunyikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surukan",
+  "related": [],
+  "detailed": false
+}

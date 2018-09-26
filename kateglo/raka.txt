@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "raka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "kakak laki-laki;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan kepada mahasiswa senior pada masa perploncoan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "retak hampir patah atau hampir pecah (piring, kayu, titian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raka",
+  "related": [],
+  "detailed": false
+}

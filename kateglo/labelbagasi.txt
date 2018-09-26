@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "label bagasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "label yang dipasang pada setiap barang penumpang sebagai tanda bukti bahwa barang itu milik penumpang dengan tujuan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=label%20bagasi",
+  "related": [],
+  "detailed": false
+}

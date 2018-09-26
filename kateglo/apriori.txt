@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apriori",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berpraanggapan sebelum mengetahui (melihat, menyelidiki, dsb) keadaan yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apriori",
+  "related": [],
+  "detailed": false
+}

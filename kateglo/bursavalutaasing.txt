@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa valuta asing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bursa yang khusus memperjualbelikan valuta asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20valuta%20asing",
+  "related": [],
+  "detailed": false
+}

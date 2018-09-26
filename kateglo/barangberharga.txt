@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang berharga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang tinggi nilainya dan mahal harganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20berharga",
+  "related": [],
+  "detailed": false
+}

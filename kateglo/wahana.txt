@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wahana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan; alat pengangkut;"
+      },
+      {
+        "type": "desc",
+        "text": "alat atau sarana untuk mencapai suatu tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "tafsir mimpi; alamat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wahana",
+  "related": [],
+  "detailed": false
+}

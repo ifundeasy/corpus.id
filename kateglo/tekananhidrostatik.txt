@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan hidrostatik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan di dalam zat cair oleh zat cair itu terhadap dinding tempatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20hidrostatik",
+  "related": [],
+  "detailed": false
+}

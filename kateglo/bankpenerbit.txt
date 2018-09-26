@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank penerbit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang mengeluarkan uang atas permintaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bank yang mengeluarkan warkat niaga yang diberikan kepada yang berhak dan setiap saat dapat diuangkan atau diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20penerbit",
+  "related": [],
+  "detailed": false
+}

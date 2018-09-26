@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emporium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat perdagangan; pusat perbelanjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "gudang besar yang berisi berbagai barang dagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emporium",
+  "related": [],
+  "detailed": false
+}

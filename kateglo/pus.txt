@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pus",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk memanggil kucing;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru untuk mengusir kucing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pus",
+  "related": [],
+  "detailed": false
+}

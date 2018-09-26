@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periferal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mengenai pokoknya; kurang penting; perifer;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) peranti komputer yang dihubungkan dengan kompresor, seperti monitor tampilan, panel kunci ketik, pencetak, penggerak disket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periferal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partisipan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ikut berperan serta dalam suatu kegiatan (pertemuan, konferensi, seminar, dsb); pemeran serta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partisipan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seniman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai bakat seni dan berhasil menciptakan dan menggelarkan karya seni (pelukis, penyair, penyanyi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seniman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengketa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyebabkan perbedaan pendapat; pertengkaran; perbantahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pertikaian; perselisihan;"
+      },
+      {
+        "type": "desc",
+        "text": "perkara (dalam pengadilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengketa",
+  "related": [],
+  "detailed": false
+}

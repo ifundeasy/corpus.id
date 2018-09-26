@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metrum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran irama yang ditentukan oleh jumlah dan panjang tekanan suku kata dalam setiap baris;"
+      },
+      {
+        "type": "desc",
+        "text": "pergantian naik turun suara secara teratur, dengan pembagian suku kata yang ditentukan oleh golongan sintaksis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metrum",
+  "related": [],
+  "detailed": false
+}

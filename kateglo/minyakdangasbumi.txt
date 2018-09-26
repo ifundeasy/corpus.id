@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak dan gas bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) minyak yang secara alami terdapat dalam batuan petroleum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20dan%20gas%20bumi",
+  "related": [],
+  "detailed": false
+}

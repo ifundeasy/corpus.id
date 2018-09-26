@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sodetan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyodet;"
+      },
+      {
+        "type": "desc",
+        "text": "terusan buatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sodetan",
+  "related": [],
+  "detailed": false
+}

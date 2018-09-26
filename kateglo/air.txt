@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cairan jernih tidak berwarna, tidak berasa, dan tidak berbau yang terdapat dan diperlukan dalam kehidupan manusia, hewan, dan tumbuhan yang secara kimiawi mengandung hidrogen dan oksigen;"
+      },
+      {
+        "type": "desc",
+        "text": "benda cair yang biasa terdapat di sumur, sungai, danau yang mendidih pada suhu 100o C;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air",
+  "related": [],
+  "detailed": false
+}

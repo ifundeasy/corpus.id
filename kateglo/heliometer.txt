@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heliometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat astronomi untuk mengukur garis tengah matahari, menurut ukuran garis lengkung pengukur matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heliometer",
+  "related": [],
+  "detailed": false
+}

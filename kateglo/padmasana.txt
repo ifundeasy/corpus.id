@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padmasana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "takhta; singgasana; kursi kerajaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan dalam pura (Bali) untuk tempat bersembahyang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) tempat duduk yang berupa bunga teratai;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) sikap duduk dengan cara menyilangkan kedua kaki di atas paha (bersila);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padmasana",
+  "related": [],
+  "detailed": false
+}

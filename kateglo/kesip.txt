@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kesip",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berbiji (tentang buah);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk) kedip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesip",
+  "related": [],
+  "detailed": false
+}

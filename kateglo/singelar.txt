@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) pemain tunggal, misal dalam bulu tangkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singelar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mil laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan jarak sebesar 1 detik busur derajat lintang (1/60 menit) sama dengan 1.852 m atau 6.076 kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mil%20laut",
+  "related": [],
+  "detailed": false
+}

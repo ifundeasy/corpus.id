@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat edaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang diedarkan; sirkuler;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20edaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerbit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang dsb yang menerbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan dsb yang menerbitkan (buku, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerbit",
+  "related": [],
+  "detailed": false
+}

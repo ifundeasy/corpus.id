@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geragau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeragau"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis udang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geragau",
+  "related": [],
+  "detailed": false
+}

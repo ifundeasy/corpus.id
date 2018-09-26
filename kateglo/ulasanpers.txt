@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulasan pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran yang berisi komentar atas tajuk-tajuk surat kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulasan%20pers",
+  "related": [],
+  "detailed": false
+}

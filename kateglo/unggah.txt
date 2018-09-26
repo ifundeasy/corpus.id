@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unggah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengunggah"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "unggah ungguh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unggah",
+  "related": [],
+  "detailed": false
+}

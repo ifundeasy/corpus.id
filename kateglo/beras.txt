@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "padi yang telah terkelupas kulitnya (yang menjadi nasi setelah ditanak);"
+      },
+      {
+        "type": "desc",
+        "text": "biji-bijian; butir-butiran (seperti jagung, kopi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras",
+  "related": [],
+  "detailed": false
+}

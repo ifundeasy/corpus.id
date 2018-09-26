@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbukitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang berbukit-bukit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) daerah berbukit-bukit dengan relief yang besar yang ketinggiannya kurang dari 600 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbukitan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makruf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan baik; jasa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkenal; masyhur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makruf",
+  "related": [],
+  "detailed": false
+}

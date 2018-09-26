@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jangkung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tinggi atau panjang (tentang tubuh, badan);"
+      },
+      {
+        "type": "desc",
+        "text": "berkaki panjang (tentang burung, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi sekali (tentang gedung, bangunan, dsb); bertingkat (banyak);"
+      },
+      {
+        "type": "link",
+        "text": "jangkungan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangkung",
+  "related": [],
+  "detailed": false
+}

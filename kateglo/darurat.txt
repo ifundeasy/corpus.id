@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "darurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan sukar (sulit) yang tidak tersangka-sangka (dalam bahaya, kelaparan, dsb) yang memerlukan penanggulangan segera;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan terpaksa;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan sementara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=darurat",
+  "related": [],
+  "detailed": false
+}

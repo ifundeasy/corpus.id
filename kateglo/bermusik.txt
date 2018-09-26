@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermusik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bermain musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermusik",
+  "related": [],
+  "detailed": false
+}

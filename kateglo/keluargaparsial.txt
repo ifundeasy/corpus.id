@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga parsial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluarga yang hanya terdiri atas suami dan istri tanpa anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20parsial",
+  "related": [],
+  "detailed": false
+}

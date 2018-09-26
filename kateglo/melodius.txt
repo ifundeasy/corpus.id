@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "melodius",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan irama;"
+      },
+      {
+        "type": "desc",
+        "text": "enak didengar karena berirama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melodius",
+  "related": [],
+  "detailed": false
+}

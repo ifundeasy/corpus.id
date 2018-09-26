@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gadis besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gadis yang sudah sampai umur (18 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gadis%20besar",
+  "related": [],
+  "detailed": false
+}

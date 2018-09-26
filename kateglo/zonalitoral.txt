@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zona litoral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pantai yang dangkal, biasanya sampai batas kedalaman sekitar 365 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zona%20litoral",
+  "related": [],
+  "detailed": false
+}

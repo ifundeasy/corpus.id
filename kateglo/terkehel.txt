@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkehel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkeluk (tidak lurus lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "tergeliat (tentang tulang, kaki, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpang dari jalan yang lurus (tentang perahu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkehel",
+  "related": [],
+  "detailed": false
+}

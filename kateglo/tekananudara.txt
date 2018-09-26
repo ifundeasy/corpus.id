@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat udara di atas suatu satuan areal, diukur dengan barometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20udara",
+  "related": [],
+  "detailed": false
+}

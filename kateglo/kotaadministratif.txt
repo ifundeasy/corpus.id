@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kota administratif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kota yang berfungsi sebagai pusat pemerintahan wilayah atau daerah tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah yang dikepalai seorang wali kota, yang bertanggung jawab kepada kepala wilayah kabupaten yang bersangkutan, dan tidak memiliki DPRD sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kota%20administratif",
+  "related": [],
+  "detailed": false
+}

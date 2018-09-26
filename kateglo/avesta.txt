@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Avesta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama kitab suci agama Zoroaster;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa kuno Iranika yang digunakan sebagai bahasa suci agama Zoroaster;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Avesta",
+  "related": [],
+  "detailed": false
+}

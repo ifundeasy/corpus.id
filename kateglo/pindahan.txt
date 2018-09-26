@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pindahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memindah(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipindahkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pindah tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pindahan",
+  "related": [],
+  "detailed": false
+}

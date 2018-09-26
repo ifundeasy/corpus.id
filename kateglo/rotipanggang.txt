@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "roti panggang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "irisan roti tawar yang dipanggang sebelum disantap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roti%20panggang",
+  "related": [],
+  "detailed": false
+}

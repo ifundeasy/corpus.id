@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) perusahaan yang sekurang-kurangnya 51% dari modal dalam negeri yang ditanam di dalamnya dimiliki oleh negara dan/atau swasta nasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20nasional",
+  "related": [],
+  "detailed": false
+}

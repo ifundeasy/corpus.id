@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "osteoporosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tulang yang menjadi keropos dan lapuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=osteoporosis",
+  "related": [],
+  "detailed": false
+}

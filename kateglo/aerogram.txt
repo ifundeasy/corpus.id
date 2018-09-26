@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aerogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warkat pos khusus untuk pengiriman dengan pos udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aerogram",
+  "related": [],
+  "detailed": false
+}

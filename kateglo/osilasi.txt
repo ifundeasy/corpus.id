@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "osilasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan (goyangan) ke kiri dan ke kanan atau ke atas dan ke bawah atau ke depan dan ke belakang; ayunan; getaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) setiap peristiwa yang berubah secara berkala atau bolak-balik antara dua nilai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=osilasi",
+  "related": [],
+  "detailed": false
+}

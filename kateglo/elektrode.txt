@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua kutub (anode, katode) dari baterai listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "lempeng logam atau kawat untuk mengalirkan arus listrik dalam elektrolit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrode",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik tumpu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik tempat berpijak;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat tertentu untuk berdiri (tentang titik awal perlombaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20tumpu",
+  "related": [],
+  "detailed": false
+}

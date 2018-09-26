@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imprimatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) pemberian izin dari pejabat gereja untuk mencetak dan menerbitkan suatu buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imprimatur",
+  "related": [],
+  "detailed": false
+}

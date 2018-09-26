@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "esai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan prosa yang membahas suatu masalah secara sepintas lalu dari sudut pandang pribadi penulisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=esai",
+  "related": [],
+  "detailed": false
+}

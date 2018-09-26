@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaos",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kaus"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan kacau-balau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaos",
+  "related": [],
+  "detailed": false
+}

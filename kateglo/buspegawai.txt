@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus pegawai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang digunakan khusus untuk mengangkut pegawai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20pegawai",
+  "related": [],
+  "detailed": false
+}

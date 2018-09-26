@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reliabilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "perihal sesuatu yang bersifat reliabel (bersifat andal);"
+      },
+      {
+        "type": "desc",
+        "text": "ketelitian dan ketepatan teknik pengukuran; keterandalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reliabilitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak terbit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Graf) hak seorang penulis atas penerbitan karya tulisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20terbit",
+  "related": [],
+  "detailed": false
+}

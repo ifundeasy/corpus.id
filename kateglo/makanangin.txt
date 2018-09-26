@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan angin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan-jalan untuk mencari hawa bersih;"
+      },
+      {
+        "type": "desc",
+        "text": "diam, duduk-duduk, dsb sekadar menghabiskan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20angin",
+  "related": [],
+  "detailed": false
+}

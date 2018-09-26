@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selesai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah jadi (tentang sesuatu yang dibuat); habis dikerjakan;"
+      },
+      {
+        "type": "desc",
+        "text": "habis; tamat; berakhir;"
+      },
+      {
+        "type": "desc",
+        "text": "beres (terbayar, lunas, impas);"
+      },
+      {
+        "type": "desc",
+        "text": "putus (tentang perkara, harga, perundingan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "teratur rapi; tidak kusut (tentang rambut); jelas lagi baik (tentang perkataan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selesai",
+  "related": [],
+  "detailed": false
+}

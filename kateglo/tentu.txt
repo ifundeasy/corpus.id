@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tentu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pasti; tidak berubah lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "terang; positif; tegas;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "niscaya; mesti; tidak boleh tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tentu",
+  "related": [],
+  "detailed": false
+}

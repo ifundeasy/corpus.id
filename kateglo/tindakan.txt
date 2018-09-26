@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tindakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dilakukan; perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan yang dilaksanakan untuk mengatasi sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tindakan",
+  "related": [],
+  "detailed": false
+}

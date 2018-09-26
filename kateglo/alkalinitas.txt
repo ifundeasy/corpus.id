@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alkalinitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah konsentrasi ion karbonat dan bikarbonat terlarut, biasanya dinyatakan dengan miliekuivalen per liter kemampuan air untuk menetralkan asam kuat;"
+      },
+      {
+        "type": "desc",
+        "text": "kualitas sifat basa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alkalinitas",
+  "related": [],
+  "detailed": false
+}

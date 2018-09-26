@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sang",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata yang dipakai di depan nama orang, binatang, atau benda yang dianggap hidup atau dimuliakan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata yang dipakai di depan nama benda untuk berolok-olok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sang",
+  "related": [],
+  "detailed": false
+}

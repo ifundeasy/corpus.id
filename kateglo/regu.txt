@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rombongan (kelompok) orang bekerja;"
+      },
+      {
+        "type": "desc",
+        "text": "kesatuan tentara yang terkecil (12 atau 14 orang);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan pemain dalam satu cabang olahraga (seperti kesebelasan dalam sepak bola);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) golongan jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regu",
+  "related": [],
+  "detailed": false
+}

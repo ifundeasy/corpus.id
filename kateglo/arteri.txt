@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pembuluh darah yang mengalirkan darah dari jantung ke seluruh bagian badan; nadi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tempat penyaluran transportasi atau komunikasi yang utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arteri",
+  "related": [],
+  "detailed": false
+}

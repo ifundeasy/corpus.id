@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencatut umur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengatakan (mencantumkan) umur yang tidak sebenarnya, seperti umur 40 tahun dikatakan 30 tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencatut%20umur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "famili",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaum keluarga; kerabat; sanak saudara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) pengelompokan makhluk hidup yang mempunyai sifat atau ciri-ciri yang bersamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=famili",
+  "related": [],
+  "detailed": false
+}

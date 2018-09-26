@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "babon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "induk ayam;"
+      },
+      {
+        "type": "desc",
+        "text": "induk;"
+      },
+      {
+        "type": "desc",
+        "text": "(Filol) naskah asli; naskah sumber;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=babon",
+  "related": [],
+  "detailed": false
+}

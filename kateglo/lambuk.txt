@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lambuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gembur (tentang tanah);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "celana longgar langgam Aceh yang dibuat dari sutra;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) perahu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lambuk",
+  "related": [],
+  "detailed": false
+}

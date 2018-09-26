@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerepes",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengerepes"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tipis dan gepeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerepes",
+  "related": [],
+  "detailed": false
+}

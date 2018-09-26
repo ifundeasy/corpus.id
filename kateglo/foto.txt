@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "foto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potret;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) gambaran; bayangan; pantulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=foto",
+  "related": [],
+  "detailed": false
+}

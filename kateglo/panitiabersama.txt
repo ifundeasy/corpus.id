@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panitia bersama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panitia yang anggotanya berupa gabungan anggota organisasi yang berlainan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panitia%20bersama",
+  "related": [],
+  "detailed": false
+}

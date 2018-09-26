@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "busung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gembung atau menjadi besar berisi cairan (tentang perut);"
+      },
+      {
+        "type": "desc",
+        "text": "gembung karena penuh berisi (tentang susu, dada, saku, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang membukit; timbunan pasir di muara dsb; gosong;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk) daun kelapa yang masih muda; janur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=busung",
+  "related": [],
+  "detailed": false
+}

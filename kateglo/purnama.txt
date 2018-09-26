@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purnama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "saat bulan bundar benar (tanggal 14 dan 15 bulan Kamariah);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan (30 atau 31 hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purnama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga umpan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga produk atau jasa yang sangat rendah yang ditawarkan untuk menarik pelanggan beralih ke produk atau jasa lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20umpan",
+  "related": [],
+  "detailed": false
+}

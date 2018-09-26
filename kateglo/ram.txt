@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi deram;"
+      },
+      {
+        "type": "desc",
+        "text": "pemidangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kawat yang dijalin berkotak-kotak (sebagai penutup jendela, ventilasi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) jendela;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ram",
+  "related": [],
+  "detailed": false
+}

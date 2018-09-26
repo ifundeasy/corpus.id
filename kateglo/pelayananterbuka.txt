@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayanan terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) penyelenggaraan pelayanan peminjaman buku dengan cara memperbolehkan para peminjam masuk ke ruangan koleksi dan memilih sendiri buku yang dikehendaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayanan%20terbuka",
+  "related": [],
+  "detailed": false
+}

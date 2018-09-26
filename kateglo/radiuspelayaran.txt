@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radius pelayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) jarak paling jauh yang dapat dicapai oleh kapal tanpa mengisi atau menambah bahan bakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radius%20pelayaran",
+  "related": [],
+  "detailed": false
+}

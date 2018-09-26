@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran jauh (3,75 mil);"
+      },
+      {
+        "type": "desc",
+        "text": "perbatasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persangga",
+  "related": [],
+  "detailed": false
+}

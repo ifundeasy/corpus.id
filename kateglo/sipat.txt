@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sipat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arah;"
+      },
+      {
+        "type": "link",
+        "text": "sipat kuping"
+      },
+      {
+        "type": "desc",
+        "text": "celak;"
+      },
+      {
+        "type": "desc",
+        "text": "lihat daun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sipat",
+  "related": [],
+  "detailed": false
+}

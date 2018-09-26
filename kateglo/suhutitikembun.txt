@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu titik embun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suhu udara pada keadaan tekanan uap air jenuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20titik%20embun",
+  "related": [],
+  "detailed": false
+}

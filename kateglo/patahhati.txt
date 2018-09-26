@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "patah hati",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "cabar hati; hilang keberanian;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang kemauan; tidak mau berusaha (berkumpul) lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "kecewa karena putus percintaan; kecewa karena harapannya gagal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patah%20hati",
+  "related": [],
+  "detailed": false
+}

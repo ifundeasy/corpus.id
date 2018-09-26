@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar tunggu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat menunggu (di stasiun, tempat praktik dokter, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20tunggu",
+  "related": [],
+  "detailed": false
+}

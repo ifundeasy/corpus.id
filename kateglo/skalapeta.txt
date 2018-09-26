@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "skala peta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbandingan antara jarak di dalam peta dengan jarak sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala%20peta",
+  "related": [],
+  "detailed": false
+}

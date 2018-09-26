@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaman suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang berfungsi meredam suara sehingga suara tidak terdengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaman%20suara",
+  "related": [],
+  "detailed": false
+}

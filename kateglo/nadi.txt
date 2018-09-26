@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuluh darah di pergelangan tangan (terasa berdenyut kalau ditekan); urat nadi;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuluh darah besar; aorta; batang nadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nadi",
+  "related": [],
+  "detailed": false
+}

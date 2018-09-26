@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kelihatan diam tidak bergerak-gerak atau tidak berombak (tentang air, laut);"
+      },
+      {
+        "type": "desc",
+        "text": "diam tidak berubah-ubah (diam tidak bergerak-gerak);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak gelisah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenang",
+  "related": [],
+  "detailed": false
+}

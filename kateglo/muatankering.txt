@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) segala jenis muatan yang kering (bukan muatan curah, cair, beku, dan gas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20kering",
+  "related": [],
+  "detailed": false
+}

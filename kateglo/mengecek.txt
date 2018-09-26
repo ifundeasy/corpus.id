@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengecek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencocokkan kembali benar tidaknya (tentang perhitungan, daftar angka, berita, dsb); memeriksa;"
+      },
+      {
+        "type": "desc",
+        "text": "bercakap-cakap (mengobrol) yang tidak keruan; beromong kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "membujuk (menipu) dengan kata-kata manis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengecek",
+  "related": [],
+  "detailed": false
+}

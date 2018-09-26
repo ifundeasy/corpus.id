@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nenek laki-laki; kakek; datuk;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menghimpun tenaga listrik (dipakai pada mesin mobil dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) penghasil dan penyimpan daya listrik hasil reaksi kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) peranti untuk mengubah tenaga listrik menjadi tenaga kimia atau sebaliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aki",
+  "related": [],
+  "detailed": false
+}

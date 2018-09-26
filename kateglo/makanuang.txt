@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan uang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "menerima suap sebagai pelicin jalannya suatu urusan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan uang (kantor dsb) secara tidak sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20uang",
+  "related": [],
+  "detailed": false
+}

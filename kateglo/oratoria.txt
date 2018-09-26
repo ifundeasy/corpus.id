@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oratoria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni bicara dengan fasih dan efektif di depan umum;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato di depan umum yang menggugah emosi pendengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oratoria",
+  "related": [],
+  "detailed": false
+}

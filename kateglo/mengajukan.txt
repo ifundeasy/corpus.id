@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengajukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengemukakan (usul, permintaan, sanggahan, protes, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membawa ke depan; menampilkan (pasukan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengajukan",
+  "related": [],
+  "detailed": false
+}

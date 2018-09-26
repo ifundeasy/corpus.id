@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wanita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perempuan dewasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wanita",
+  "related": [],
+  "detailed": false
+}

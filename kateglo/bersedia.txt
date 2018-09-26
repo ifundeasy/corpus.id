@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersedia",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersiap; bersedia-sedia;"
+      },
+      {
+        "type": "desc",
+        "text": "ada (siap untuk dipakai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersedia",
+  "related": [],
+  "detailed": false
+}

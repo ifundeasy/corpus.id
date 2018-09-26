@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "catatan kaki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan yang dicantumkan pada margin bawah pada halaman buku (biasanya dicetak dengan huruf yang lebih kecil daripada huruf di dalam teks guna menambahkan rujukan uraian di dalam naskah pokok);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catatan%20kaki",
+  "related": [],
+  "detailed": false
+}

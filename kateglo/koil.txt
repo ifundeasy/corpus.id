@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) gulungan kawat yang mengatur arus tegangan listrik yang berasal dari sumbernya (seperti aki, magnet);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koil",
+  "related": [],
+  "detailed": false
+}

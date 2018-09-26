@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan arus data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) gambar urutan operasi yang dijalankan dalam mengolah data dan menunjukkan data yang diolah setiap tahap, biasanya menggambarkan seluruh sistem olah data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20arus%20data",
+  "related": [],
+  "detailed": false
+}

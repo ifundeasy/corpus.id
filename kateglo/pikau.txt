@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pikau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berpikauan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung puyuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikau",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vegetarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang (karena alasan keagamaan atau kesehatan) tidak makan daging, tetapi makan sayuran dan hasil tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vegetarian",
+  "related": [],
+  "detailed": false
+}

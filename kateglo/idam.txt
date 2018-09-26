@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "idam",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "idam-idam"
+      },
+      {
+        "type": "link",
+        "text": "mengidam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=idam",
+  "related": [],
+  "detailed": false
+}

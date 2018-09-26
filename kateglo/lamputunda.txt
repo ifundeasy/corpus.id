@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu tunda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) satu dari dua atau tiga lampu navigasi berwarna putih yang dipasang terpisah dalam jarak enam kaki dan harus dipajang oleh kapal berpenggerak mekanis pada waktu menarik kapal lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20tunda",
+  "related": [],
+  "detailed": false
+}

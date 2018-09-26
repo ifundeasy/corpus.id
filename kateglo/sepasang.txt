@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepasang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu pasang (sejodoh, selengkap, sesetel);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sepadan (dengan); cocok (dengan), sesuai (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "merupakan pasangan atau selengkap (seperangkat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepasang",
+  "related": [],
+  "detailed": false
+}

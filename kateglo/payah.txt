@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "payah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lelah; penat;"
+      },
+      {
+        "type": "desc",
+        "text": "sukar; susah;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam kesulitan (kesukaran, bahaya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat atau berat (tentang sakit);"
+      },
+      {
+        "type": "desc",
+        "text": "usah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=payah",
+  "related": [],
+  "detailed": false
+}

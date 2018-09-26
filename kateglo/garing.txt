@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garing",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keras dan kering (seperti roti biskuit); kering;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan air tawar yang badannya bulat panjang dan sisiknya besar-besar; ikan semah;"
+      },
+      {
+        "type": "desc",
+        "text": "keranjang (terbuat dari rotan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garing",
+  "related": [],
+  "detailed": false
+}

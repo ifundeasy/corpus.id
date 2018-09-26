@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membulan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyerupai bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) meninggi ke angkasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membulan",
+  "related": [],
+  "detailed": false
+}

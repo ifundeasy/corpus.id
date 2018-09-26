@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat pembaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang dimuat dalam surat kabar dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20pembaca",
+  "related": [],
+  "detailed": false
+}

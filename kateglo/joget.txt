@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "joget",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tari (sebarang tarian);"
+      },
+      {
+        "type": "desc",
+        "text": "tarian dan lagu Melayu yang agak rancak iramanya;"
+      },
+      {
+        "type": "desc",
+        "text": "tandak; ronggeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=joget",
+  "related": [],
+  "detailed": false
+}

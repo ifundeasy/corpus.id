@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberikan suara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "turut memilih atau menentukan (dalam pemungutan suara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberikan%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magister",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar akademis pada tingkat strata dua sebelum gelar doktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magister",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang modal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) barang yang digunakan untuk menghasilkan sesuatu (seperti mesin) atau modal usaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20modal",
+  "related": [],
+  "detailed": false
+}

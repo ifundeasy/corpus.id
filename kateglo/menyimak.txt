@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyimak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendengarkan (memperhatikan) baik-baik apa yang diucapkan atau dibaca orang;"
+      },
+      {
+        "type": "desc",
+        "text": "meninjau (memeriksa, mempelajari) dengan teliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyimak",
+  "related": [],
+  "detailed": false
+}

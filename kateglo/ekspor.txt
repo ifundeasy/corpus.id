@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman barang dagangan ke luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seterusnya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "selanjutnya;"
+      },
+      {
+        "type": "desc",
+        "text": "lalu ...; lantas ...;"
+      },
+      {
+        "type": "desc",
+        "text": "lain-lainnya;"
+      },
+      {
+        "type": "desc",
+        "text": "tetap selama-lamanya;"
+      },
+      {
+        "type": "desc",
+        "text": "dan berikutnya;"
+      },
+      {
+        "type": "desc",
+        "text": "mulai sekarang ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seterusnya",
+  "related": [],
+  "detailed": false
+}

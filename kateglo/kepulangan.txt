@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepulangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepulangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran terbatas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem penyiaran dalam jangkauan yang terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20terbatas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunggakan perkara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkara yang belum disidangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggakan%20perkara",
+  "related": [],
+  "detailed": false
+}

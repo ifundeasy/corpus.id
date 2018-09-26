@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "letak;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokasi",
+  "related": [],
+  "detailed": false
+}

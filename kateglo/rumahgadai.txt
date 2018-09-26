@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah gadai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor tempat menggadaikan barang-barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20gadai",
+  "related": [],
+  "detailed": false
+}

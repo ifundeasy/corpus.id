@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "valensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkat; derajat;"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga gabungan reaksi atau interaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) bilangan yang menyatakan kesanggupan bersenyawa suatu unsur dengan unsur lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) derajat penarikan hati perseorangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan sintaksis antara verba dan unsur di sekitarnya, mencakupi ketransitifan dan penguasaan verba atas argumen di sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=valensi",
+  "related": [],
+  "detailed": false
+}

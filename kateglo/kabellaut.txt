@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabel laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabel yang dibenamkan ke dasar laut untuk berbagai keperluan, misal kabel telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabel%20laut",
+  "related": [],
+  "detailed": false
+}

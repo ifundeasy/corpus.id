@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan kendaraan (mobil, sepeda, dsb) di jalan umum dan biasanya tunduk pada peraturan lalu lintas dalam menetapkan kecepatan rata-rata;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan (berkendaraan) berbanyak di jalan-jalan untuk menunjukkan kekuatan massa, unjuk rasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reli",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reekspor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman kembali barang-barang yang diimpor dari suatu negara (atau diekspor oleh negara itu) ke negara lain lagi dan/atau negara asal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reekspor",
+  "related": [],
+  "detailed": false
+}

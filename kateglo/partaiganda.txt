@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggolongan pemain dalam olahraga (bulu tangkis, tenis) yang dimainkan secara dua lawan dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20ganda",
+  "related": [],
+  "detailed": false
+}

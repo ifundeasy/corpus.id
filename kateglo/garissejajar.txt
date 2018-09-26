@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis sejajar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis-garis pada satu bidang (permukaan) yang jarak antaranya sama sehingga tidak berpotongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20sejajar",
+  "related": [],
+  "detailed": false
+}

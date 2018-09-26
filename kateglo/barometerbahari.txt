@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barometer bahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barometer air raksa yang dirancang khusus untuk dipasang di kapal laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometer%20bahari",
+  "related": [],
+  "detailed": false
+}

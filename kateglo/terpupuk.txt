@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpupuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dipupuk;"
+      },
+      {
+        "type": "desc",
+        "text": "terpelihara;"
+      },
+      {
+        "type": "desc",
+        "text": "terbina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpupuk",
+  "related": [],
+  "detailed": false
+}

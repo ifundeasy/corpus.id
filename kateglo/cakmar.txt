@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cakmar",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "cokmar"
+      },
+      {
+        "type": "link",
+        "text": "camar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakmar",
+  "related": [],
+  "detailed": false
+}

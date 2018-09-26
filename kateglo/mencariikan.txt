@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari ikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi menangkap ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari%20ikan",
+  "related": [],
+  "detailed": false
+}

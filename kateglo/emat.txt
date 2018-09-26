@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emat",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan bahwa raja atau perdana menteri dalam permainan catur terancam bahaya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) ukuran (baju, celana, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emat",
+  "related": [],
+  "detailed": false
+}

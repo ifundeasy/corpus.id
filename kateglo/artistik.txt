@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artistik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai nilai seni; bersifat seni;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai bakat dalam kesenian; mempunyai rasa seni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artistik",
+  "related": [],
+  "detailed": false
+}

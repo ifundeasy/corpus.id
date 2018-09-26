@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlihat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat dilihat; kelihatan; tampak;"
+      },
+      {
+        "type": "desc",
+        "text": "tiba-tiba atau tidak sengaja dapat dilihat;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dilihat (diketahui);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlihat",
+  "related": [],
+  "detailed": false
+}

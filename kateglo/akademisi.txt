@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akademisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berpendidikan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "anggota akademi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akademisi",
+  "related": [],
+  "detailed": false
+}

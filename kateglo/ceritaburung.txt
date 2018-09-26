@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita burung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabar (perkataan dsb) yang bukan-bukan (belum tentu dapat dipercaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20burung",
+  "related": [],
+  "detailed": false
+}

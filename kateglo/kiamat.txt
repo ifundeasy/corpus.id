@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kiamat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari kebangkitan sesudah mati (orang yang telah meninggal dihidupkan kembali untuk diadili perbuatannya);"
+      },
+      {
+        "type": "desc",
+        "text": "hari akhir zaman (dunia seisinya rusak binasa dan lenyap);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berakhir; tidak akan muncul lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) celaka sekali; bencana besar; rusak binasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiamat",
+  "related": [],
+  "detailed": false
+}

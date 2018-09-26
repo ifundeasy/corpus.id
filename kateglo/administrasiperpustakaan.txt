@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "administrasi perpustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan pelengkap yang berkaitan dengan rencana memajukan dan mengembangkan perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=administrasi%20perpustakaan",
+  "related": [],
+  "detailed": false
+}

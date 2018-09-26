@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teman (sekerja);"
+      },
+      {
+        "type": "desc",
+        "text": "kawan sepersekutuan; samasama anggota perseroan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) tempat orang berjual beli bermacam-macam barang dagangan (seperti hasil bumi, timah, kerajinan tangan); pekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meander",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "kelokan sungai yang terdapat di sepanjang alirannya sebagai akibat pengikisan dan pengendapan;"
+      },
+      {
+        "type": "desc",
+        "text": "ragam hias berupa garis tepi dengan lengkungan siku-siku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meander",
+  "related": [],
+  "detailed": false
+}

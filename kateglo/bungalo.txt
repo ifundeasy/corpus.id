@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bungalo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah peristirahatan di luar kota (di daerah pegunungan atau di pantai), ada yang dibangun secara permanen, ada juga yang tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bungalo",
+  "related": [],
+  "detailed": false
+}

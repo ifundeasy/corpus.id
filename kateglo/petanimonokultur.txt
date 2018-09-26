@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petani monokultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petani yang hanya menanam satu jenis tanaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petani%20monokultur",
+  "related": [],
+  "detailed": false
+}

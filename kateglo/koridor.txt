@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koridor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lorong dalam rumah; lorong yang menghubungkan gedung yang satu dengan gedung yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah (jalan) sempit yang menghubungkan daerah terkurung;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang menghubungkan dua bagian negara;"
+      },
+      {
+        "type": "desc",
+        "text": "jalur lalu lintas yang dimiliki suatu negara yang memintas negara lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koridor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan dengan menandai angka yang telah terletak dalam kolom ataupun baris yang telah disebut oleh penarik angka, biasanya sambil dinyanyikan, dan pemain dinyatakan menang apabila semua angka yang terletak pada salah satu garis telah tertandai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kim",
+  "related": [],
+  "detailed": false
+}

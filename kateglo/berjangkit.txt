@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjangkit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menular; mengenai yang lain (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "berpindah dan merambat (tentang api);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjangkit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "massa udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "atmosfer yang homogen dan luas, kadang-kadang meliputi ratusan kilometer dengan karakteristik suhu dan kelembapan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=massa%20udara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tukai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "menukai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukai",
+  "related": [],
+  "detailed": false
+}

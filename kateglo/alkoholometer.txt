@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alkoholometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far) radas untuk mengukur kandungan alkohol, (etanol) dalam suatu cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alkoholometer",
+  "related": [],
+  "detailed": false
+}

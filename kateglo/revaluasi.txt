@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "revaluasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilaian kembali (tentang harga atau nilai mata uang); pemberian nilai baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=revaluasi",
+  "related": [],
+  "detailed": false
+}

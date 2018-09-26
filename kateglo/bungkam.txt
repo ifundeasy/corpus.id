@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bungkam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tertutup (tentang mulut);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bersuara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bungkam",
+  "related": [],
+  "detailed": false
+}

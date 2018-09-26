@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlibur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalami libur;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi (bersenang-senang, bersantai-santai, dsb) menghabiskan waktu libur; bervakansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlibur",
+  "related": [],
+  "detailed": false
+}

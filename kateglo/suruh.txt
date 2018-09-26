@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah (supaya melakukan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "sirih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suruh",
+  "related": [],
+  "detailed": false
+}

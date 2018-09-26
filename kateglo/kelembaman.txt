@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelembaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelambanan; kemalasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sifat materi yang menentang atau menghambat perubahan momentum atau keadaan gerak benda bersangkutan; inersia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sifat materi yang menentang atau menghambat perubahan keadaan gerak benda materi itu; inersia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelembaman",
+  "related": [],
+  "detailed": false
+}

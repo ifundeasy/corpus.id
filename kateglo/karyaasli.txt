@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karya asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil ciptaan yang bukan saduran, salinan, atau terjemahan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil ciptaan yang bukan tiruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karya%20asli",
+  "related": [],
+  "detailed": false
+}

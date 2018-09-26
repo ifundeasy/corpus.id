@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anemia gizi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anemia yang disebabkan oleh kekurangan zat gizi tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anemia%20gizi",
+  "related": [],
+  "detailed": false
+}

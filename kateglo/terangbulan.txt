@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terang bulan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cahaya bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak gelap pada malam hari karena ada cahaya bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terang%20bulan",
+  "related": [],
+  "detailed": false
+}

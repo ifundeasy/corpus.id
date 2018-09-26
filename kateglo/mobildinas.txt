@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil dinas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil milik instansi (perusahaan dsb) dan digunakan untuk keperluan melaksanakan pekerjaan instansi, perusahaaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20dinas",
+  "related": [],
+  "detailed": false
+}

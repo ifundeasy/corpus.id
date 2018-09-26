@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahlil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "pengucapan kalimat tauhid l? il?ha illallah 'tidak ada Tuhan selain Allah' secara berulang-ulang;"
+      },
+      {
+        "type": "desc",
+        "text": "nyanyian pujian;"
+      },
+      {
+        "type": "desc",
+        "text": "pengesahan perkawinan antara suami dan istri yang telah menjatuhkan talak tiga kali dengan perantaraan muhalil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahlil",
+  "related": [],
+  "detailed": false
+}

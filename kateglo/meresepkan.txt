@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meresepkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat resep;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meresepkan",
+  "related": [],
+  "detailed": false
+}

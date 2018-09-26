@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taksasi pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses atau penetapan jumlah pajak yang harus dibayar oleh wajib pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksasi%20pajak",
+  "related": [],
+  "detailed": false
+}

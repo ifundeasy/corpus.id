@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kiasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertimbangan tentang suatu hal dengan perbandingan atau persamaan dengan hal yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "perumpamaan; ibarat;"
+      },
+      {
+        "type": "desc",
+        "text": "arti kata yang bukan sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "lambang;"
+      },
+      {
+        "type": "desc",
+        "text": "sindiran;"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran (dari suatu cerita dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiasan",
+  "related": [],
+  "detailed": false
+}

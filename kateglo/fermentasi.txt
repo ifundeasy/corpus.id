@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fermentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peragian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) penguraian metabolik senyawa organik oleh mikroorganisme yang menghasilkan energi yang pada umumnya berlangsung dengan kondisi anaerobik dan dengan pembebasan gas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fermentasi",
+  "related": [],
+  "detailed": false
+}

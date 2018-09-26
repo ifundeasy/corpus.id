@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekonomi pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ekonomi yang berdasarkan produksi hasil aktivitas bercocok tanam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonomi%20pertanian",
+  "related": [],
+  "detailed": false
+}

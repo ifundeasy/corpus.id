@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "otologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang penyakit telinga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=otologi",
+  "related": [],
+  "detailed": false
+}

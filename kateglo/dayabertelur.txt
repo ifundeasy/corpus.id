@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya bertelur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan menghasilkan telur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20bertelur",
+  "related": [],
+  "detailed": false
+}

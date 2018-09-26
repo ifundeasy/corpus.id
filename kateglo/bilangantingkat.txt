@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan tingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang menunjukkan tingkatan atau urutan, seperti pertama atau kesatu, kedua, ketiga; bilangan ordinal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20tingkat",
+  "related": [],
+  "detailed": false
+}

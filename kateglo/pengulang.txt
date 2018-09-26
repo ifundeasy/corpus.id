@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengulang(i);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang membantu memberi pelajaran kepada mahasiswa di luar kuliah; repetitor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengulang",
+  "related": [],
+  "detailed": false
+}

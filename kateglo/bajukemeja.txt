@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju kemeja",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kemeja"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20kemeja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengurus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengatur segala-galanya (tentang suatu urusan atau hal dan bertanggung jawab mengenai hal itu);"
+      },
+      {
+        "type": "desc",
+        "text": "mengatur menjadi baik; menata; merapikan; mengemasi; membenahi; membereskan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyelenggarakan (perayaan, pertemuan, dsb); memelihara dan menjaga (kebun, rumah tangga, dsb); merawat (kendaraan dsb); menjaga baik-baik;"
+      },
+      {
+        "type": "desc",
+        "text": "mengusahakan (perdagangan, perusahaan, dsb); mengelola; memimpin dan mengatur (sekolah, perkumpulan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengusut atau menyelidiki suatu hal; menyelesaikan (persoalan, perkara, perselisihan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengurus",
+  "related": [],
+  "detailed": false
+}

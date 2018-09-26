@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangsa pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah penjualan produk atau komoditas suatu penjualan dibandingkan dengan penjualan produk atau komoditas itu dalam industri atau penghasil secara keseluruhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangsa%20pasar",
+  "related": [],
+  "detailed": false
+}

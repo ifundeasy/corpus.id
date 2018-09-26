@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ciak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi seperti bunyi anak burung;"
+      },
+      {
+        "type": "desc",
+        "text": "burung kecil sebangsa pipit;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Cn) makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ciak",
+  "related": [],
+  "detailed": false
+}

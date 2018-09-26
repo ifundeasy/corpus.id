@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tengah tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "enam bulan sekali (tentang penerbitan berkala);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengah%20tahunan",
+  "related": [],
+  "detailed": false
+}

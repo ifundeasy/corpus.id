@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Bibel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab suci agama Kristen; Alkitab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Bibel",
+  "related": [],
+  "detailed": false
+}

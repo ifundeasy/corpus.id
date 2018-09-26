@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghadiri",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengunjungi (pertemuan, rapat);"
+      },
+      {
+        "type": "desc",
+        "text": "mengikuti (ceramah, upacara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghadiri",
+  "related": [],
+  "detailed": false
+}

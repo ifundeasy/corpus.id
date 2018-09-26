@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "duplo",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rangkap dua (tentang surat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=duplo",
+  "related": [],
+  "detailed": false
+}

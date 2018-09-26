@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang linguistik tentang morfem dan kombinasinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) ilmu pengetahuan tentang bentuk luar dan susunan makhluk hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) struktur luar dari batu-batuan dalam hubungan dengan perkembangan ciri topografis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfologi",
+  "related": [],
+  "detailed": false
+}

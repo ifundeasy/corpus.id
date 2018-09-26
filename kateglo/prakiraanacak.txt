@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan acak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakiraan cuaca yang didasarkan pada pilihan secara acak tentang keadaan sejumlah kejadian meteorologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan%20acak",
+  "related": [],
+  "detailed": false
+}

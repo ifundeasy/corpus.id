@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bendung terendam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bendung yang apabila digunakan, permukaan air hilirnya sama atau lebih tinggi daripada puncak bendung tersebut, besar debit airnya dipengaruhi oleh tinggi air hilir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendung%20terendam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memprogram",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat program;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memprogram",
+  "related": [],
+  "detailed": false
+}

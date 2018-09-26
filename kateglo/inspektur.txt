@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inspektur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pejabat pemerintah yang bertugas melakukan pemeriksaan; pemeriksa; penilik; pengawas (pendidikan, pajak, perburuhan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "nama pangkat dalam kepolisian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspektur",
+  "related": [],
+  "detailed": false
+}

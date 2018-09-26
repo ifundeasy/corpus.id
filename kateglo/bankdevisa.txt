@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank devisa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang mengatur peredaran devisa, alat pembayaran luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20devisa",
+  "related": [],
+  "detailed": false
+}

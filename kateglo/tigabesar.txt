@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tiga besar",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "tiga pihak (negara, pemain, dsb) yang terbesar (terkuat, terunggul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiga%20besar",
+  "related": [],
+  "detailed": false
+}

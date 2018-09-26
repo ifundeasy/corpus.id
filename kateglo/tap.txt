@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tuang;"
+      },
+      {
+        "type": "desc",
+        "text": "sadap;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumbat untuk menutup lubang dalam tong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "regangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "hasil meregang; tegangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) proses menambah ketegangan emosional atau proyeksi vokal suatu adegan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regangan",
+  "related": [],
+  "detailed": false
+}

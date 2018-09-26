@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gravitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "kekuatan (gaya) tarik bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "proses gaya tarik bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "gaya berat suatu benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gravitasi",
+  "related": [],
+  "detailed": false
+}

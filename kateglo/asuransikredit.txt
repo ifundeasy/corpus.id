@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi kredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaminan pembayaran kredit oleh pihak ketiga (C) kepada pemberi kredit (A) apabila penerima kredit (B) tidak melunasi utangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20kredit",
+  "related": [],
+  "detailed": false
+}

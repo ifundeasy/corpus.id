@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumpah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan yang diucapkan secara resmi dengan bersaksi kepada Tuhan atau kepada sesuatu yang dianggap suci (untuk menguatkan kebenaran dan kesungguhannya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan disertai tekad melakukan sesuatu untuk menguatkan kebenarannya atau berani menderita sesuatu kalau pernyataan itu tidak benar;"
+      },
+      {
+        "type": "desc",
+        "text": "janji atau ikrar yang teguh (akan menunaikan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "kata-kata yang buruk (makian dsb); kutuk; tulah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumpah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarikhkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membubuhkan tarikh (hari, bulan, dan tahun);"
+      },
+      {
+        "type": "desc",
+        "text": "mencatat tarikhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "menuliskan dalam riwayat (sejarah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarikhkan",
+  "related": [],
+  "detailed": false
+}

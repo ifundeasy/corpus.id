@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asistensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan mengasisteni (membantu seseorang dalam tugas profesionalnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asistensi",
+  "related": [],
+  "detailed": false
+}

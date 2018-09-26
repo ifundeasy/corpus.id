@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melingkar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merupakan lingkar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggulung berlingkar-lingkar (tentang kawat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membelit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melingkar",
+  "related": [],
+  "detailed": false
+}

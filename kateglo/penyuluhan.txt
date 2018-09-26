@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyuluhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyuluh;"
+      },
+      {
+        "type": "desc",
+        "text": "penerangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pengintaian; penyelidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyuluhan",
+  "related": [],
+  "detailed": false
+}

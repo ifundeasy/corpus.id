@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persalinan perasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persalinan yang dibantu dengan alat, perkakas (tidak spontan atau tidak sewajarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persalinan%20perasat",
+  "related": [],
+  "detailed": false
+}

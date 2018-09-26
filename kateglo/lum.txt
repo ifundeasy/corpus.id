@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lum",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "masak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lum",
+  "related": [],
+  "detailed": false
+}

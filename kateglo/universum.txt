@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "universum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alam semesta; jagat raya;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang sifatnya semesta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=universum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyumbang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menjadi sumbang;"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan sesuatu kepada orang yang sedang mengadakan pesta dsb sebagai sokongan;"
+      },
+      {
+        "type": "desc",
+        "text": "turut membantu (menyokong) dengan tenaga, pikiran, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyumbang",
+  "related": [],
+  "detailed": false
+}

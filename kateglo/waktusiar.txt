@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu siar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) waktu yang digunakan oleh sebuah siaran komersial atau nonkomersial di radio atau televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20siar",
+  "related": [],
+  "detailed": false
+}

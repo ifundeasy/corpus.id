@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pop",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "populer;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) boneka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pop",
+  "related": [],
+  "detailed": false
+}

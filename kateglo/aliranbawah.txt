@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran bawah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hid) aliran air tanah di bawah dan sepanjang sungai permukaan (terutama di lembah aluvium);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20bawah",
+  "related": [],
+  "detailed": false
+}

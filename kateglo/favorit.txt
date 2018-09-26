@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "favorit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang diharapkan (dijagokan, diunggulkan) untuk menjadi juara;"
+      },
+      {
+        "type": "desc",
+        "text": "kesayangan; kegemaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=favorit",
+  "related": [],
+  "detailed": false
+}

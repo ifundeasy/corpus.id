@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berlari; perihal melarikan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "pengungsi;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelarian",
+  "related": [],
+  "detailed": false
+}

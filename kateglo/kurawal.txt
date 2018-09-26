@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurawal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda {...} untuk mengumpulkan beberapa kelompok yang telah diberi tanda kurung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurawal",
+  "related": [],
+  "detailed": false
+}

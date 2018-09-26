@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "V",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-22 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "(dengan huruf kapital) lambang bilangan 5 angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagai lambang bilangan 5000 angka Romawi, dengan huruf kapital yang diberi garis di atasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(dengan huruf kapital) lambang vanadium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=V",
+  "related": [],
+  "detailed": false
+}

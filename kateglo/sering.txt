@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sering",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "erat dan keras pilinannya (tentang tali, benang);"
+      },
+      {
+        "type": "desc",
+        "text": "kedap dan kaku (tentang tenunan, anyaman);"
+      },
+      {
+        "type": "desc",
+        "text": "kuat dan kaku (tentang kertas);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kerap; acap;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) ramping; langsing;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyering"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sering",
+  "related": [],
+  "detailed": false
+}

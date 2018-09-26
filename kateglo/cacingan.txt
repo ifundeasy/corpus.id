@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cacingan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita sakit karena banyak cacing di dalam perut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh cacing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacingan",
+  "related": [],
+  "detailed": false
+}

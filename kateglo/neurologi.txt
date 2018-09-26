@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neurologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) ilmu tentang urat saraf, terutama tentang penyakit urat saraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neurologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moderato",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mus) tenang, sedang dalam tempo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moderato",
+  "related": [],
+  "detailed": false
+}

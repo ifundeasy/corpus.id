@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gadang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "besar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bergadang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayakan (beras dsb) yang besar; badang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gadang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal; sifat; keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "cara berbuat; laku;"
+      },
+      {
+        "type": "desc",
+        "text": "kejadian; peristiwa; hal yang terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) kata; curah hujan yang lebat dan mendadak;"
+      },
+      {
+        "type": "desc",
+        "text": "roh (jin) perempuan yang elok rupanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peri",
+  "related": [],
+  "detailed": false
+}

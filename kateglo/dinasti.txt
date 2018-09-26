@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dinasti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keturunan raja-raja yang memerintah, semuanya berasal dari satu keluarga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinasti",
+  "related": [],
+  "detailed": false
+}

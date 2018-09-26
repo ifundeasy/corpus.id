@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pihak lawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan (partai, orang-orang) yang menjadi lawan kita atau bertentangan dengan kita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pihak%20lawan",
+  "related": [],
+  "detailed": false
+}

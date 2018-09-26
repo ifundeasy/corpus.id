@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lezat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "enak (tentang rasa makanan atau minuman); sedap;"
+      },
+      {
+        "type": "desc",
+        "text": "nikmat (dalam arti seksual);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lezat",
+  "related": [],
+  "detailed": false
+}

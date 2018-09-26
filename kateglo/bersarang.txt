@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersarang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat sarang;"
+      },
+      {
+        "type": "desc",
+        "text": "bertempat (berkediaman, bersembunyi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai (tentang pukulan dsb); masuk (tentang tikaman, peluru, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) masuk ke dalam gawang (gol);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersarang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdaging",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai daging; berisi daging;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) gemuk; kaya;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah kurus benar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sudah jatuh miskin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdaging",
+  "related": [],
+  "detailed": false
+}

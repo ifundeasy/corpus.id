@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penambangan bawah tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara menambang yang dilakukan di bawah permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penambangan%20bawah%20tanah",
+  "related": [],
+  "detailed": false
+}

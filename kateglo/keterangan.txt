@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uraian dsb untuk menerangkan sesuatu; penjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menjadi petunjuk, seperti bukti, tanda; segala sesuatu yang sudah diketahui atau yang menyebabkan tahu; segala alasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kata atau kelompok kata yang menerangkan (menentukan) kata atau bagian kalimat yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterangan",
+  "related": [],
+  "detailed": false
+}

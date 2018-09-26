@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susah payah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat sukar (susah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susah%20payah",
+  "related": [],
+  "detailed": false
+}

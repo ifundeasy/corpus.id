@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "durasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lamanya sesuatu berlangsung; rentang waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) lamanya suatu bunyi diartikulasikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=durasi",
+  "related": [],
+  "detailed": false
+}

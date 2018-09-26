@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sakelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghubung dan pemutus aliran listrik (untuk menghidupkan atau mematikan lampu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakelar",
+  "related": [],
+  "detailed": false
+}

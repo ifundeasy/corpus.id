@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam berganti hari",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit demam yang tidak terus-menerus, sehari demam sehari tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20berganti%20hari",
+  "related": [],
+  "detailed": false
+}

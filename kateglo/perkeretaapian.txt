@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkeretaapian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berkaitan dengan masalah kereta api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkeretaapian",
+  "related": [],
+  "detailed": false
+}

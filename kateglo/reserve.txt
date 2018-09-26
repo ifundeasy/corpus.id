@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reserve",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "cadangan; serap;"
+      },
+      {
+        "type": "desc",
+        "text": "syarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reserve",
+  "related": [],
+  "detailed": false
+}

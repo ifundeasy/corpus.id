@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dedak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serbuk halus dari kulit padi (untuk makanan ayam, itik, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "berdedak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dedak",
+  "related": [],
+  "detailed": false
+}

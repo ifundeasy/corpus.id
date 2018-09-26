@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bukan",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "berlainan dengan sebenarnya; sebenarnya tidak (dipakai untuk menyangkal);"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk mengukuhkan isi atau maksud suatu pernyataan yang digunakan sesudah pernyataan itu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) lancung; gadungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukan",
+  "related": [],
+  "detailed": false
+}

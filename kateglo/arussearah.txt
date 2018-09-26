@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus searah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) arus listrik yang jalannya searah, dari kutub yang satu ke kutub yang lain (seperti arus listrik pada aki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20searah",
+  "related": [],
+  "detailed": false
+}

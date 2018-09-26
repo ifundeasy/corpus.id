@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "utama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbaik; nomor satu; amat baik; lebih baik dari yang lain-lain;"
+      },
+      {
+        "type": "desc",
+        "text": "terpenting; pokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utama",
+  "related": [],
+  "detailed": false
+}

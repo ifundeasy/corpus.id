@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "undangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan, cara) mengundang; panggilan (supaya datang);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang diundang;"
+      },
+      {
+        "type": "desc",
+        "text": "surat untuk mengundang; surat undangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) dewan yang berkuasa membuat undang-undang; badan legislatif dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=undangan",
+  "related": [],
+  "detailed": false
+}

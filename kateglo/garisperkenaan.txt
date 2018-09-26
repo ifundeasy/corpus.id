@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis perkenaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan dua garis sehingga berhimpitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20perkenaan",
+  "related": [],
+  "detailed": false
+}

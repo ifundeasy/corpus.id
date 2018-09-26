@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "titis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik (air dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menitis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titis",
+  "related": [],
+  "detailed": false
+}

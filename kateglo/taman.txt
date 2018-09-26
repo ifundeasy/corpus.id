@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebun yang ditanami dengan bunga-bunga dsb (tempat bersenang-senang);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (yang menyenangkan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat duduk pengantin perempuan (yang dihiasi dengan bunga-bunga dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) rajin; betah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman",
+  "related": [],
+  "detailed": false
+}

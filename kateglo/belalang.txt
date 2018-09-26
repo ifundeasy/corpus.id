@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belalang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serangga yang bersayap dua lapis dan mempunyai sepasang kaki belakang yang panjang, makanannya rumput-rumputan atau daun-daunan (jenisnya banyak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "membelalang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belalang",
+  "related": [],
+  "detailed": false
+}

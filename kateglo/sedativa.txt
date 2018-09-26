@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedativa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sedatif"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedativa",
+  "related": [],
+  "detailed": false
+}

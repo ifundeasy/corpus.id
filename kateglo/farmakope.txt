@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmakope",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far) buku standar obat yang dikeluarkan oleh badan resmi pemerintah yang menguraikan bahan obat-obatan, bahan kimia dalam obat dan sifatnya, khasiat obat dan dosis yang dilazimkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmakope",
+  "related": [],
+  "detailed": false
+}

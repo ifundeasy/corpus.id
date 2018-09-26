@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan yang menyatakan boleh berjalan (masuk) ke daerah lain atau ke tempat terlarang, misal pelabuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "kena benar; tepat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lebih tidak kurang (tentang jumlah);"
+      },
+      {
+        "type": "desc",
+        "text": "cocok; tidak longgar; tidak sempit (tentang pakaian);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) opas; sapaan kepada opas;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan pintas sempit di daerah pegunungan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mal) lulus (dalam ujian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pas",
+  "related": [],
+  "detailed": false
+}

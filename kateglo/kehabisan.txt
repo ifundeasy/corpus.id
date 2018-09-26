@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehabisan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah habis (terpakai atau terjual);"
+      },
+      {
+        "type": "desc",
+        "text": "kehilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehabisan",
+  "related": [],
+  "detailed": false
+}

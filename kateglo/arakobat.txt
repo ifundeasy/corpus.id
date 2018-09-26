@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arak obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arak yang biasa diminum untuk obat penat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arak%20obat",
+  "related": [],
+  "detailed": false
+}

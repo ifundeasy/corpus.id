@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guru sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guru yang mengajar di sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guru%20sekolah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu domino",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang bertanda bulatan-bulatan yang menunjukkan nilai angka kartu, untuk bermain domino;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20domino",
+  "related": [],
+  "detailed": false
+}

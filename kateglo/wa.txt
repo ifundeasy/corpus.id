@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wa",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "dan (dalam beberapa ungkapan Arab);"
+      },
+      {
+        "type": "desc",
+        "text": "demi (diucapkan untuk bersumpah dalam ungkapan Arab);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wa",
+  "related": [],
+  "detailed": false
+}

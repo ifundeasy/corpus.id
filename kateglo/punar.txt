@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "punar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hidangan ketan kuning;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuning;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=punar",
+  "related": [],
+  "detailed": false
+}

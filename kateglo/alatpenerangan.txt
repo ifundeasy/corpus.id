@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat penerangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipakai untuk menerangi (seperti lampu, listrik);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang dipakai untuk memberi petunjuk atau penjelasan (seperti film, radio, televisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20penerangan",
+  "related": [],
+  "detailed": false
+}

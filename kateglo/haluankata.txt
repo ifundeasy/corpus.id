@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "haluan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(uraian dsb) yang tertera di muka karangan (buku dsb); kata pendahuluan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haluan%20kata",
+  "related": [],
+  "detailed": false
+}

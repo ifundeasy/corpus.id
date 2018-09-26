@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rosario",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) tasbih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rosario",
+  "related": [],
+  "detailed": false
+}

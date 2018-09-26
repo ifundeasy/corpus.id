@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku seri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang terdiri atas beberapa jilid yang memuat cerita bersambung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20seri",
+  "related": [],
+  "detailed": false
+}

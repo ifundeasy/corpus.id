@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang hubungan cuaca dan pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20pertanian",
+  "related": [],
+  "detailed": false
+}

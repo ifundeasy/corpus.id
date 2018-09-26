@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama julukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang ditambahkan pada nama asli; nama yang dipakai untuk mengganti nama asli (biasanya berkaitan dengan ciri-ciri tubuh atau watak khas pemilik nama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20julukan",
+  "related": [],
+  "detailed": false
+}

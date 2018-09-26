@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penasaran",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkeras hendak berbuat sesuatu (karena kecewa);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat menghendaki; sangat ingin hendak mengetahui (mendapat dsb) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak puas;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat marah (karena dihina, tidak sampai maksudnya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penasaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontrolir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawas;"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai pemerintah Hindia Belanda yang kedudukannya di bawah asisten residen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontrolir",
+  "related": [],
+  "detailed": false
+}

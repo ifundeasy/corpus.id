@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelelahan emosional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kelelahan yang diekspresikan dalam bentuk perasaan frustasi, putus asa, merasa terjebak, tidak berdaya, tertekan dan merasa sedih atau apatis terhadap pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelelahan%20emosional",
+  "related": [],
+  "detailed": false
+}

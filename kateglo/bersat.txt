@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bersat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "salah masuk (seperti makanan masuk ke liang napas atau ke hidung);"
+      },
+      {
+        "type": "desc",
+        "text": "tersesat; salah jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersat",
+  "related": [],
+  "detailed": false
+}

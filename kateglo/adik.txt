@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saudara kandung yang lebih muda (laki-laki atau perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "kerabat yang lebih muda (dari pertalian kekeluargaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adik",
+  "related": [],
+  "detailed": false
+}

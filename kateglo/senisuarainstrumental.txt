@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni suara instrumental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni suara yang diperdengarkan melalui alat-alat, seperti alat tiup, alat gesek, dan alat pukul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20suara%20instrumental",
+  "related": [],
+  "detailed": false
+}

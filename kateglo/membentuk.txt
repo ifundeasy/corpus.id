@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membentuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melengkung; berkeluk;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat melengkung; mengelukkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan (membuat) sesuatu dengan bentuk tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "mendirikan (perkumpulan, partai, kerajaan, negara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menggalang (persahabatan, persekutuan, persatuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membimbing; mengarahkan (pendapat, pendidikan, watak, pikiran);"
+      },
+      {
+        "type": "desc",
+        "text": "menyusun (kabinet, pengurus, panitia, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membentuk",
+  "related": [],
+  "detailed": false
+}

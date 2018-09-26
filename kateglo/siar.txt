@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyiarkan"
+      },
+      {
+        "type": "link",
+        "text": "bersiar"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "siar bakar"
+      },
+      {
+        "type": "desc",
+        "text": "penyambung atau perekat antara batu bata yang satu dengan batu bata yang lain;"
+      },
+      {
+        "type": "link",
+        "text": "daun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "divestasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelepasan; pembebasan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengurangan modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=divestasi",
+  "related": [],
+  "detailed": false
+}

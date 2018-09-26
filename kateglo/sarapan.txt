@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan pagi hari; makanan pada pagi hari;"
+      },
+      {
+        "type": "desc",
+        "text": "alas, lapik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deputi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang diangkat sebagai wakil atau pengganti dengan kuasa jabatan untuk bertindak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang kedua dalam organisasi yang mengambil alih pimpinan jika atasannya tidak di tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deputi",
+  "related": [],
+  "detailed": false
+}

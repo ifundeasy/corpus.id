@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geladak tonase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geladak yang diukur untuk mendapatkan tonase kapal, yang pada kapal mempunyai geladak lebih dari satu berada di geladak kedua dari lunas kapal, sedangkan pada kapal lain berada di tempat paling atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak%20tonase",
+  "related": [],
+  "detailed": false
+}

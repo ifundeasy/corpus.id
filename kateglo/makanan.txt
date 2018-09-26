@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang dapat dimakan (seperti penganan, lauk-pauk, kue);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) segala bahan yang kita makan atau masuk ke dalam tubuh yang membentuk atau mengganti jaringan tubuh, memberikan tenaga, atau mengatur semua proses dalam tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "rezeki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan",
+  "related": [],
+  "detailed": false
+}

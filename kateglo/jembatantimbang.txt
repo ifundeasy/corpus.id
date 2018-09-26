@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jembatan timbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "timbangan yang dipakai untuk menimbang muatan kendaraan angkutan (dengan mewajibkan kendaraan tersebut lewat di atas timbangan itu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jembatan%20timbang",
+  "related": [],
+  "detailed": false
+}

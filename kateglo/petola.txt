@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petola",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kain"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan menjalar, buahnya seperti mentimun, tetapi pahit rasanya, daun dan buahnya dapat dibuat sayur; Luffacylindrica;"
+      },
+      {
+        "type": "desc",
+        "text": "daun petola;"
+      },
+      {
+        "type": "desc",
+        "text": "buah petola;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petola",
+  "related": [],
+  "detailed": false
+}

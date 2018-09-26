@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisatawan nusantara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wisatawan yang berasal dari negeri sendiri; wisatawan dalam negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisatawan%20nusantara",
+  "related": [],
+  "detailed": false
+}

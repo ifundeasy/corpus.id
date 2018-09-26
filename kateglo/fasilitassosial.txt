@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fasilitas sosial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "fasilitas yang disediakan oleh pemerintah atau swasta untuk masyarakat, seperti sekolah, klinik, dan tempat ibadah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fasilitas%20sosial",
+  "related": [],
+  "detailed": false
+}

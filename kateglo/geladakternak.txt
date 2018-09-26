@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geladak ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geladak kapal yang digunakan untuk menempatkan muatan ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak%20ternak",
+  "related": [],
+  "detailed": false
+}

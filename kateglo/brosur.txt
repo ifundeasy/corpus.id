@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "brosur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan informasi tertulis mengenai suatu masalah yang disusun secara bersistem;"
+      },
+      {
+        "type": "desc",
+        "text": "cetakan yang hanya terdiri atas beberapa halaman dan dilipat tanpa dijilid;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) selebaran cetakan yang berisi keterangan singkat, tetapi lengkap (tentang perusahaan atau organisasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=brosur",
+  "related": [],
+  "detailed": false
+}

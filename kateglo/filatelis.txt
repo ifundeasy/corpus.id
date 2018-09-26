@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filatelis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam filateli;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang gemar membuat koleksi dan menyelidiki prangko;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filatelis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istimewa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "khas (untuk tujuan dsb yang tentu); khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "lain daripada yang lain; luar biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "terutama; lebih-lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istimewa",
+  "related": [],
+  "detailed": false
+}

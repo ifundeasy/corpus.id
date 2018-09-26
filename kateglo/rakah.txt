@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rakah",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "merakah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rakah",
+  "related": [],
+  "detailed": false
+}

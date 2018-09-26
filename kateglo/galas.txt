@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tongkat yang ditaruh di bahu untuk menyandang (membawa) barang-barang; pikulan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang (beban) yang disandang dengan tongkat atau dipikul;"
+      },
+      {
+        "type": "desc",
+        "text": "barang dagangan yang dijajakan dengan dipikul atau disandang dengan tongkat di bahu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galas",
+  "related": [],
+  "detailed": false
+}

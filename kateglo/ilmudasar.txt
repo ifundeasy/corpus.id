@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang asas-asas hal yang diteliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20dasar",
+  "related": [],
+  "detailed": false
+}

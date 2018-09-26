@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang kendali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) ruangan dalam kamar mesin yang dilengkapi dengan berbagai peralatan kendali dan pengukur (seperti pengukur tekanan, suhu, arus listrik, dan voltase);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20kendali",
+  "related": [],
+  "detailed": false
+}

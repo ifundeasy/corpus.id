@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tindak pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan pidana (perbuatan kejahatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tindak%20pidana",
+  "related": [],
+  "detailed": false
+}

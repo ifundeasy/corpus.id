@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rawit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil; cabai -- , cabai kecil (yang pedas);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merawit"
+      },
+      {
+        "type": "link",
+        "text": "kerawitan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawit",
+  "related": [],
+  "detailed": false
+}

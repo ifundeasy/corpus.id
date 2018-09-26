@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diplomasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urusan atau penyelenggaraan perhubungan resmi antara satu negara dan negara yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan kepentingan sebuah negara dengan perantaraan wakil-wakilnya di negeri lain;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan dan kecakapan dalam hal perhubungan antara negara dan negara;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kecakapan menggunakan pilihan kata yang tepat bagi keuntungan pihak yang bersangkutan (dalam perundingan, menjawab pertanyaan, mengemukakan pendapat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diplomasi",
+  "related": [],
+  "detailed": false
+}

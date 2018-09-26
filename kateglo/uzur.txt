@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uzur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halangan (yang menyebabkan orang tidak dapat pergi, bekerja, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhalangan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung (hamil);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lemah badan (karena tua); sakit-sakitan; berpenyakitan;"
+      },
+      {
+        "type": "desc",
+        "text": "(sudah) sangat tua; rusak sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) haid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uzur",
+  "related": [],
+  "detailed": false
+}

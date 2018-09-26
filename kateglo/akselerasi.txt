@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akselerasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses mempercepat;"
+      },
+      {
+        "type": "desc",
+        "text": "peningkatan kecepatan; percepatan;"
+      },
+      {
+        "type": "desc",
+        "text": "laju perubahan kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akselerasi",
+  "related": [],
+  "detailed": false
+}

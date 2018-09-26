@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "variabel terikat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gejala yang muncul atau berubah dalam pola yang teratur dan biasa diamati atau karena berubahnya variabel lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=variabel%20terikat",
+  "related": [],
+  "detailed": false
+}

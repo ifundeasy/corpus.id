@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(turun) hujan yang disertai angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20angin",
+  "related": [],
+  "detailed": false
+}

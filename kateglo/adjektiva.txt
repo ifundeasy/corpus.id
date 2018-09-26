@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adjektiva",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang menerangkan nomina (kata benda) dan secara umum dapat bergabung dengan kata lebih dan sangat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adjektiva",
+  "related": [],
+  "detailed": false
+}

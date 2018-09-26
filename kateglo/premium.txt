@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "premium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadiah (kepada pembeli, pelanggan, dsb); premi;"
+      },
+      {
+        "type": "desc",
+        "text": "bayaran (kepada asuransi); premi;"
+      },
+      {
+        "type": "desc",
+        "text": "yang bermutu (berkualitas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premium",
+  "related": [],
+  "detailed": false
+}

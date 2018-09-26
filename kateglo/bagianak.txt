@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagi anak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian anak (anak pertama ikut ibunya, anak kedua dan seterusnya menjadi anggota kekerabatan ayahnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagi%20anak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berutang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai utang (kepada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berutang",
+  "related": [],
+  "detailed": false
+}

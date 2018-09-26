@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(alat) penyekat; penahan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan isolasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insulator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana penyusutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) uang yang berasal dari penyusutan yang disisihkan untuk tujuan penyusutan harta tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20penyusutan",
+  "related": [],
+  "detailed": false
+}

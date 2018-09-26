@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabel naskah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabel yang biasanya berdasarkan rujukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabel%20naskah",
+  "related": [],
+  "detailed": false
+}

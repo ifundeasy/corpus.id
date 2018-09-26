@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berusaha mendapatkan (menemukan, memperoleh);"
+      },
+      {
+        "type": "desc",
+        "text": "berusaha mendapat nafkah (rezeki);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) memilih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "izin mengemudi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "izin untuk menjalankan kendaraan bermotor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=izin%20mengemudi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "helat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipu muslihat; tipu daya;"
+      },
+      {
+        "type": "desc",
+        "text": "akal;"
+      },
+      {
+        "type": "desc",
+        "text": "dalih; alasan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "asing; lain; bukan keluarga;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang datang menghadiri suatu pesta perkawinan dsb; tamu;"
+      },
+      {
+        "type": "desc",
+        "text": "pesta perkawinan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=helat",
+  "related": [],
+  "detailed": false
+}

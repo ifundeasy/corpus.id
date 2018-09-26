@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "narablog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menulis blog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=narablog",
+  "related": [],
+  "detailed": false
+}

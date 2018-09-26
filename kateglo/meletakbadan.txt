@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meletak badan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merebahkan badan untuk beristirahat;"
+      },
+      {
+        "type": "desc",
+        "text": "merebahkan badan untuk beristirahat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meletak%20badan",
+  "related": [],
+  "detailed": false
+}

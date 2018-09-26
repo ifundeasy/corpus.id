@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petrologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) ilmu tentang asal muasal, sejarah terjadinya bentuk, komposisi kimia, dan klasifikasi batuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petrologi",
+  "related": [],
+  "detailed": false
+}

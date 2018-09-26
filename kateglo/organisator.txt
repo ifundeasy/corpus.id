@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organisator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengorganisasi; penyusun dan pengatur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat tanda bukti berisi pernyataan (keterangan, pengakuan, keputusan, dsb) tentang peristiwa hukum yang dibuat menurut peraturan yang berlaku, disaksikan dan disahkan oleh pejabat resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akta",
+  "related": [],
+  "detailed": false
+}

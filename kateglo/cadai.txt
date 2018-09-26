@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cadai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencadai"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain basahan mandi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cadai",
+  "related": [],
+  "detailed": false
+}

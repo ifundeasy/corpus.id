@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inspektur peternakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala dinas peternakan di tingkat provinsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspektur%20peternakan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rancah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah berpaya-paya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berpaya-paya;"
+      },
+      {
+        "type": "link",
+        "text": "perancah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rancah",
+  "related": [],
+  "detailed": false
+}

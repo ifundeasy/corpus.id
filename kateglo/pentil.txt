@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pentil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat terbuat dari karet tempat memasukkan udara (gas) ke dalam ban (bola dsb) dan menahan udara (gas) yang sudah masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "puting susu;"
+      },
+      {
+        "type": "desc",
+        "text": "cembul kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "buah yang masih muda sekali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sentil; jentik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pentil",
+  "related": [],
+  "detailed": false
+}

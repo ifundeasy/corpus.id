@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kolom rangkaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian ruas tulang belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolom%20rangkaian",
+  "related": [],
+  "detailed": false
+}

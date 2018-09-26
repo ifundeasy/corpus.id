@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk pemerintahan yang dikepalai oleh raja;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda-tanda kebesaran raja;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) martabat (kedudukan) raja;"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah kekuasaan seorang raja;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat sebagai raja;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl) menjadi raja; naik takhta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerajaan",
+  "related": [],
+  "detailed": false
+}

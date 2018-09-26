@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kencang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tegang; tidak kendur;"
+      },
+      {
+        "type": "desc",
+        "text": "laju; cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "erat-erat; erat dan kuat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "kencang-kencung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kencang",
+  "related": [],
+  "detailed": false
+}

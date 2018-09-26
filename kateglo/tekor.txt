@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tekor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "kurang (tentang pembayaran, anggaran belanja, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rugi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat majemuk bertingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kalimat yang terjadi dari dua klausa atau lebih yang dipadukan menjadi satu, yang hubungan antarklausanya subordinatif; kalimat kompleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20majemuk%20bertingkat",
+  "related": [],
+  "detailed": false
+}

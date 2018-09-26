@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tafsir harfiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tafsir kata demi kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tafsir%20harfiah",
+  "related": [],
+  "detailed": false
+}

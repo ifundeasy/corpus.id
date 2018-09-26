@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebentar malam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nanti malam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebentar%20malam",
+  "related": [],
+  "detailed": false
+}

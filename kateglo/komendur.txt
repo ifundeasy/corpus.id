@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komendur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala pasukan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembesar pelabuhan; syahbandar;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala daerah (kontrolir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komendur",
+  "related": [],
+  "detailed": false
+}

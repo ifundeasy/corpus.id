@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produksi hasil penyulingan minyak bumi mulai dari fraksi pelumas yang paling ringan sampai yang paling berat (proses);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20berat",
+  "related": [],
+  "detailed": false
+}

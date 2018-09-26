@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geladak penumpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geladak kapal untuk menempatkan muatan penumpang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak%20penumpang",
+  "related": [],
+  "detailed": false
+}

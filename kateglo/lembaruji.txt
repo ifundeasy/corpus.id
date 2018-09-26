@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembar uji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) bagian modul yang berisi soal yang harus dijawab oleh para siswa setelah mereka menyelesaikan lembar kegiatan siswa dan lembar kerja siswa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembar%20uji",
+  "related": [],
+  "detailed": false
+}

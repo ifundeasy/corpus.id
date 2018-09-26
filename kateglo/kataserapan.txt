@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata serapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang diserap dari bahasa lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20serapan",
+  "related": [],
+  "detailed": false
+}

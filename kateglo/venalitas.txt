@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "venalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan, kualitas, hal menjadi venal;"
+      },
+      {
+        "type": "desc",
+        "text": "kemauan untuk disuap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=venalitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "apa saja",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "sekalian yang belum diketahui;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apa%20saja",
+  "related": [],
+  "detailed": false
+}

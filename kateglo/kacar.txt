@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kacar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kail untuk menangkap cumi-cumi dsb (biasanya tidak memakai kawat tajam, melainkan memakai bulu dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengacar"
+      },
+      {
+        "type": "desc",
+        "text": "siput darat yang beracun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacar",
+  "related": [],
+  "detailed": false
+}

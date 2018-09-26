@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pulang hari",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kembali lagi pada hari yang semula (sesudah enam hari seperti hari Kamis sampai hari Kamis lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "pulang pada hari itu juga, tidak menginap (tentang bepergian ke suatu tempat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulang%20hari",
+  "related": [],
+  "detailed": false
+}

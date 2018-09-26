@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mobil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak untuk menghidupkan mesinnya; oto; otomobil;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah bergerak (berpindah) atau digerakkan (dipindah-pindahkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil",
+  "related": [],
+  "detailed": false
+}

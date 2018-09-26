@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diapositif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "gambar fotografi positif di atas alas bening, digunakan sebagai bias yang diproyeksikan;"
+      },
+      {
+        "type": "desc",
+        "text": "transparansi kecil yang dicetak dari negatif hasil pemotretan udara untuk keperluan kontur peta relief;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil cetakan yang dasarnya berwarna pekat, gambar atau teksnya putih; dias;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diapositif",
+  "related": [],
+  "detailed": false
+}

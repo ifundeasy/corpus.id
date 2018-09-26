@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epitet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata sifat, kata benda, atau frasa yang biasa digunakan untuk meremehkan/menghina orang atau benda;"
+      },
+      {
+        "type": "desc",
+        "text": "deskripsi nama atau judul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epitet",
+  "related": [],
+  "detailed": false
+}

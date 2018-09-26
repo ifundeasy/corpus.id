@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun iklim khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun iklim yang mengamati unsur cuaca tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20iklim%20khusus",
+  "related": [],
+  "detailed": false
+}

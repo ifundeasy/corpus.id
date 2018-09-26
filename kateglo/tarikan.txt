@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menarik;"
+      },
+      {
+        "type": "desc",
+        "text": "mata pencaharian dari menarik (mengemudikan) beca, mobil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "apa-apa yang ditarik;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuatan gerak pada langkah pertama (tentang sepeda motor, mobil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarikan",
+  "related": [],
+  "detailed": false
+}

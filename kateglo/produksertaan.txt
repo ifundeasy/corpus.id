@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produk sertaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dibuat dalam jumlah kecil di samping produk utama; produk sampingan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil tambahan yang diperoleh dari olahan bahan produk utama dan merupakan produk tersendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produk%20sertaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mengsong",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "mengsol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengsong",
+  "related": [],
+  "detailed": false
+}

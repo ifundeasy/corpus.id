@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "qari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembaca Alquran (laki-laki);"
+      },
+      {
+        "type": "desc",
+        "text": "orang (laki-laki) yang mahir dalam seni baca Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=qari",
+  "related": [],
+  "detailed": false
+}

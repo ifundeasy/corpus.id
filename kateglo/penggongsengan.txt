@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggongsengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menggongseng (makanan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menggongseng (makanan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggongsengan",
+  "related": [],
+  "detailed": false
+}

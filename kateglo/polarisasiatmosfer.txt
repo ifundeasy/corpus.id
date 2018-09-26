@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polarisasi atmosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) polarisasi cahaya matahari karena pembiasan atmosfer bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polarisasi%20atmosfer",
+  "related": [],
+  "detailed": false
+}

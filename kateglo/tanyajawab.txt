@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanya jawab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "soal jawab; diskusi; wawancara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanya%20jawab",
+  "related": [],
+  "detailed": false
+}

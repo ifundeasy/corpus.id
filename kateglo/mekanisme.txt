@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mekanisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan mesin; alat-alat dari mesin; hal kerja mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "cara kerja suatu organisasi (perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hal saling bekerja seperti mesin (kalau yang satu bergerak, yang lain turut bergerak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mekanisme",
+  "related": [],
+  "detailed": false
+}

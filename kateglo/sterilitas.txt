@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sterilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak terdapatnya kemampuan untuk berkembang biak secara kawin;"
+      },
+      {
+        "type": "desc",
+        "text": "kemandulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sterilitas",
+  "related": [],
+  "detailed": false
+}

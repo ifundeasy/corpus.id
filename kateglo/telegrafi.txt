@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telegrafi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman pesan atau isyarat dengan menggunakan huruf atau angka (biasanya dalam bentuk sandi Morse) melalui media elektronik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telegrafi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "maklumat presiden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) pengumuman yang dikeluarkan oleh presiden, misal maklumat tanggal 29 Juni 1959 tentang pengambilan kembali kekuasaan pemerintahan oleh presiden dari tangan kabinet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maklumat%20presiden",
+  "related": [],
+  "detailed": false
+}

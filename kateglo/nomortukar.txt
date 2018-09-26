@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor tukar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar dan majalah yang diterima secara cuma-cuma berdasarkan prinsip saling tukar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20tukar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "di tengah-tengah sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "dianggap sebagai pusat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat; sentra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentral",
+  "related": [],
+  "detailed": false
+}

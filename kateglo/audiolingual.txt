@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiolingual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan latihan mendengar dan berbicara (dalam pengajaran bahasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiolingual",
+  "related": [],
+  "detailed": false
+}

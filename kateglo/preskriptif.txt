@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "preskriptif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat memberi petunjuk atau ketentuan;"
+      },
+      {
+        "type": "desc",
+        "text": "bergantung pada atau menurut ketentuan resmi yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=preskriptif",
+  "related": [],
+  "detailed": false
+}

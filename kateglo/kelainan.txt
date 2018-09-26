@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelainan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbedaan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) yang menyalahi (atau menyimpang dari kebiasaan); penyimpangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelainan",
+  "related": [],
+  "detailed": false
+}

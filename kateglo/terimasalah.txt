@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terima salah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengaku bahwa sudah bersalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terima%20salah",
+  "related": [],
+  "detailed": false
+}

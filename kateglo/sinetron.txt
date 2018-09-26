@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinetron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film yang dibuat khusus untuk penayangan di media elektronik, seperti televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinetron",
+  "related": [],
+  "detailed": false
+}

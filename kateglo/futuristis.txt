@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "futuristis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terarah, tertuju ke masa depan;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan futur, futurisme, atau futurologi;"
+      },
+      {
+        "type": "desc",
+        "text": "modern sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=futuristis",
+  "related": [],
+  "detailed": false
+}

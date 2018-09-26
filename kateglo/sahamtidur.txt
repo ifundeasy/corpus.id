@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) saham yang tidak laku di bursa efek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20tidur",
+  "related": [],
+  "detailed": false
+}

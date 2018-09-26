@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghapus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghapus tulisan pada papan tulis dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghapus",
+  "related": [],
+  "detailed": false
+}

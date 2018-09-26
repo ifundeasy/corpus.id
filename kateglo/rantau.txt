@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rantau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pantai sepanjang teluk (sungai); pesisir (lawan darat);"
+      },
+      {
+        "type": "desc",
+        "text": "daerah (negeri) di luar daerah (negeri) sendiri atau daerah (negeri) di luar kampung halaman; negeri asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rantau",
+  "related": [],
+  "detailed": false
+}

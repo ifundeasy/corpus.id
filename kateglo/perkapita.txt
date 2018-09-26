@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "per kapita",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "rata-rata setiap orang;"
+      },
+      {
+        "type": "desc",
+        "text": "rata-rata setiap orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=per%20kapita",
+  "related": [],
+  "detailed": false
+}

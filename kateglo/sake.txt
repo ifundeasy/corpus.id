@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sake",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arak Jepang, dibuat dari beras yang beragi, biasanya disajikan panas-panas;"
+      },
+      {
+        "type": "desc",
+        "text": "zat cair aromatik, berwarna kuning, rasanya enak dan disenangi, kadar etanol 13—14% dan kadar gula 0,9%;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sake",
+  "related": [],
+  "detailed": false
+}

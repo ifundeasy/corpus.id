@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemotretan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuatan (pengambilan) potret (gambar);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membuat gambar (potret);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemotretan",
+  "related": [],
+  "detailed": false
+}

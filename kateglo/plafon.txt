@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plafon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "langit-langit rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) batas tertinggi (biaya, kredit, dsb) yang disediakan; pagu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plafon",
+  "related": [],
+  "detailed": false
+}

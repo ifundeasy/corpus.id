@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sonata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komposisi musik untuk instrumen tunggal (seperti piano) atau ganda (seperti piano dan biola);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sonata",
+  "related": [],
+  "detailed": false
+}

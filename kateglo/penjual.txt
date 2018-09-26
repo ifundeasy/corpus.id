@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menjual (baju, sayur, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjual",
+  "related": [],
+  "detailed": false
+}

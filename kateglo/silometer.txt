@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hidm) alat otomatis untuk mengukur ketinggian dasar awan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silometer",
+  "related": [],
+  "detailed": false
+}

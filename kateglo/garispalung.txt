@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis palung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis khayal dalam palung tekanan yang mempunyai kelengkungan isobar, siklonal, atau kontur yang maksimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20palung",
+  "related": [],
+  "detailed": false
+}

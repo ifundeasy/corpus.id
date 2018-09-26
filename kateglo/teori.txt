@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat yang didasarkan pada penelitian dan penemuan, didukung oleh data dan argumentasi;"
+      },
+      {
+        "type": "desc",
+        "text": "penyelidikan eksperimental yang mampu menghasilkan fakta berdasarkan ilmu pasti, logika, metodologi, argumentasi;"
+      },
+      {
+        "type": "desc",
+        "text": "asas dan hukum umum yang menjadi dasar suatu kesenian atau ilmu pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat, cara, dan aturan untuk melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teori",
+  "related": [],
+  "detailed": false
+}

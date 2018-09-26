@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vaksin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) bibit penyakit (misal cacar) yang sudah dilemahkan, digunakan untuk vaksinasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vaksin",
+  "related": [],
+  "detailed": false
+}

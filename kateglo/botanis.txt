@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "botanis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat botani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=botanis",
+  "related": [],
+  "detailed": false
+}

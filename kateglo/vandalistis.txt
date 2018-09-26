@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vandalistis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat merusak dan menghancurkan hasil karya seni dan barang-barang berharga lainnya (lukisan, patung, dsb); bersifat vandal;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat merusak dan menghancurkan secara kasar dan ganas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vandalistis",
+  "related": [],
+  "detailed": false
+}

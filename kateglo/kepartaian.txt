@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepartaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (tentang) partai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepartaian",
+  "related": [],
+  "detailed": false
+}

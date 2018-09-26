@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teraspal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah diaspal;"
+      },
+      {
+        "type": "desc",
+        "text": "terkena pengaspalan (tidak sengaja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teraspal",
+  "related": [],
+  "detailed": false
+}

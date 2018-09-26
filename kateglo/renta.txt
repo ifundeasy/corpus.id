@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "link",
+        "text": "merenta-renta"
+      },
+      {
+        "type": "link",
+        "text": "merenta-renta"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renta",
+  "related": [],
+  "detailed": false
+}

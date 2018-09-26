@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerjaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang apa yang dilakukan (diperbuat, dikerjakan, dsb); tugas kewajiban; hasil bekerja; perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pencaharian; yang dijadikan pokok penghidupan; sesuatu yang dilakukan untuk mendapat nafkah;"
+      },
+      {
+        "type": "desc",
+        "text": "hal bekerjanya sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerjaan",
+  "related": [],
+  "detailed": false
+}

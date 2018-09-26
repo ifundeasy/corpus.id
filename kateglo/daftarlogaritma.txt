@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar logaritma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) daftar eksponen pangkat bilangan yang harus dipakai untuk memangkatkan bilangan dasar supaya beroleh bilangan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20logaritma",
+  "related": [],
+  "detailed": false
+}

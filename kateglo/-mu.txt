@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "-mu",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "(klitik) →"
+      },
+      {
+        "type": "link",
+        "text": "kamu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-mu",
+  "related": [],
+  "detailed": false
+}

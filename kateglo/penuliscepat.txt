@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penulis cepat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menulis dengan huruf steno;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penulis%20cepat",
+  "related": [],
+  "detailed": false
+}

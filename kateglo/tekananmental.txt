@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan mental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan emosi seseorang pada saat mengalami tekanan berbagai hal sehingga dapat menimbulkan gangguan jiwa, biasanya tercermin pada perilaku yang menyimpang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20mental",
+  "related": [],
+  "detailed": false
+}

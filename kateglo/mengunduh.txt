@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengunduh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "memanen (buah);"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) mengopi berkas dari dari layanan informasi daring atau dari komputer lain ke komputer yang digunakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengunduh",
+  "related": [],
+  "detailed": false
+}

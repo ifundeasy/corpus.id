@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kang",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(Jw, kp)"
+      },
+      {
+        "type": "desc",
+        "text": "kakang; kakak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat air yang besar (untuk mandi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kang",
+  "related": [],
+  "detailed": false
+}

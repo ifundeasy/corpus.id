@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monokromator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mendapatkan satu jenis panjang gelombang dari cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monokromator",
+  "related": [],
+  "detailed": false
+}

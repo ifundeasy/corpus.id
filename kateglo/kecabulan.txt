@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecabulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat-sifat cabul;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (perihal) cabul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecabulan",
+  "related": [],
+  "detailed": false
+}

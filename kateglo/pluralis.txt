@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pluralis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kategori jumlah yang menunjukkan lebih dari satu atau lebih dari dua dalam bahan yang mempunyai dualis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pluralis",
+  "related": [],
+  "detailed": false
+}

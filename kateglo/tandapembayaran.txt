@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda pembayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuitansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20pembayaran",
+  "related": [],
+  "detailed": false
+}

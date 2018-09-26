@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana pelunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) dana amortisasi yang ditujukan untuk melunasi pinjaman obligasi sekaligus setelah beberapa waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20pelunas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerima",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "orang yang menerima;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menerima;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah menangkap (pelajaran dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mudah menyerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerima",
+  "related": [],
+  "detailed": false
+}

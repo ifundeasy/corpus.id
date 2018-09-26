@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sejumlah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebanyak; banyaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa (yang tidak dinyatakan secara pasti);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam jumlah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejumlah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alkalometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "penetapan alkaloid;"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan alkaloid untuk tujuan pengobatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alkalometri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komoditas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang dagangan utama; benda niaga;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan mentah yang dapat digolongkan menurut mutunya sesuai dengan standar perdagangan internasional, misal gandum, karet, kopi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komoditas",
+  "related": [],
+  "detailed": false
+}

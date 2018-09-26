@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadatan udara lengas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat udara lengas per satuan volume;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadatan%20udara%20lengas",
+  "related": [],
+  "detailed": false
+}

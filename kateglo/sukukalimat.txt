@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suku kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kalimat, seperti subjek, predikat, dan sebutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suku%20kalimat",
+  "related": [],
+  "detailed": false
+}

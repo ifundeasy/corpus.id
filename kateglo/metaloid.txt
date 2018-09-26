@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metaloid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bukan logam;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur yang dapat bercampur dengan logam untuk membentuk campuran logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metaloid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silir",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sejuk karena ada angin yang bertiup perlahan-lahan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "silir bawang"
+      },
+      {
+        "type": "link",
+        "text": "kemeja"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laba bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selisih antara jumlah keseluruhan pendapatan dan jumlah keseluruhan biaya dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laba%20bersih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekapitalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan penting tentang sifat, jenis, dan jumlah modal saham yang beredar atau jumlah agio saham yang disetor dalam suatu perseroan terbatas, termasuk penyerapan defisit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekapitalisasi",
+  "related": [],
+  "detailed": false
+}

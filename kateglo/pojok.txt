@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pojok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat di antara dua garis atau dua sisi (ujung, permukaan, dsb) bertemu; sudut; penjuru;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang jauh atau yang tidak mudah kelihatan (didatangi, dihubungi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lajur di sudut surat kabar tempat karangan pendek, berisikan hal-hal yang humoris, tetapi mengandung kritik atau sindiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pojok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga luas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan kerabat yang terdiri atas beberapa orang, yang berasal dari kerabat dekat suami istri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20luas",
+  "related": [],
+  "detailed": false
+}

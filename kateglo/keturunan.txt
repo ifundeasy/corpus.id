@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keturunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak cucu; generasi; angkatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemasukan (orang halus dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hal turun;"
+      },
+      {
+        "type": "desc",
+        "text": "menderita atau mendapat sesuatu (penyakit dsb) yang menurun dari generasi sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keturunan",
+  "related": [],
+  "detailed": false
+}

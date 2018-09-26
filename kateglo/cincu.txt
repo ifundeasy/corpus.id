@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cincu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wakil pemilik perusahaan kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "nakhoda kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cincu",
+  "related": [],
+  "detailed": false
+}

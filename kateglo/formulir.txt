@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "formulir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembar isian; surat isian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=formulir",
+  "related": [],
+  "detailed": false
+}

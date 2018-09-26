@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba intransitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang tidak menggunakan objek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20intransitif",
+  "related": [],
+  "detailed": false
+}

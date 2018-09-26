@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu maksimum harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu tertinggi yang terjadi dalam waktu sehari atau selama 24 jam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20maksimum%20harian",
+  "related": [],
+  "detailed": false
+}

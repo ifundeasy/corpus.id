@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rejang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhitungan baik buruk untuk tiap hari bulan, biasanya dilambangkan dengan binatang (seperti tanggal 1 dilambangkan dengan kuda); perhitungan nujum;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merejang"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan yang cepat (tentang lompat, lari); lejang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rejang",
+  "related": [],
+  "detailed": false
+}

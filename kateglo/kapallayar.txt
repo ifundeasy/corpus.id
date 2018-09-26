@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal layar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang dijalankan dengan layar (biasanya untuk pelayaran pantai atau perlombaan mengarungi selat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20layar",
+  "related": [],
+  "detailed": false
+}

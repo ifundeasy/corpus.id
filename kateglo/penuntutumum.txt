@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penuntut umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaksa yang menuntut perkara yang disidangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penuntut%20umum",
+  "related": [],
+  "detailed": false
+}

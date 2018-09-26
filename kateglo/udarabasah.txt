@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang merupakan campuran udara kering dengan uap air (udara dengan kelembapan sangat besar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20basah",
+  "related": [],
+  "detailed": false
+}

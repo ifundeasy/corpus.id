@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dendaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mendenda;"
+      },
+      {
+        "type": "desc",
+        "text": "uang pendapatan mendenda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dendaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang besar batangnya, daunnya kecil-kecil, buahnya berpolong-polong, dan masam rasanya; Tamarindus indica;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang dapat memberikan proton;"
+      },
+      {
+        "type": "desc",
+        "text": "zat yang dapat membentuk ikatan kovalen dengan menerima sepasangan elektron;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "masam seperti rasa cuka (buah mangga muda dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak cerah; cemberut; masam;"
+      },
+      {
+        "type": "desc",
+        "text": "buah asam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asam",
+  "related": [],
+  "detailed": false
+}

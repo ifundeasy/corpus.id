@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit sesak napas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit asma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20sesak%20napas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuti panjang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cuti selama 3 bulan yang diberikan kepada pegawai atau karyawan setiap 6 tahun sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dirumahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuti%20panjang",
+  "related": [],
+  "detailed": false
+}

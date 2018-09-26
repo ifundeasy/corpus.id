@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oktal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(tentang bilangan pada sistem bilangan) berdasar delapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oktal",
+  "related": [],
+  "detailed": false
+}

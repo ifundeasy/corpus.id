@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memperlengkapi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi beralat perkakas (senjata dsb); memberi perlengkapan;"
+      },
+      {
+        "type": "desc",
+        "text": "menambah (sesuatu) supaya lengkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memperlengkapi",
+  "related": [],
+  "detailed": false
+}

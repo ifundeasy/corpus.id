@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "om",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "seruan (doa) kepada dewa (dalam agama Hindu dan Buddha); pembukaan mantra;"
+      },
+      {
+        "type": "desc",
+        "text": "kakak atau adik laki-laki ayah atau ibu;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada orang laki-laki yang agak tua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=om",
+  "related": [],
+  "detailed": false
+}

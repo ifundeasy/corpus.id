@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolone",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barisan tentara yang diatur sebagai lajur (makin ke belakang makin melebar);"
+      },
+      {
+        "type": "desc",
+        "text": "sekumpulan (barisan) binatang yang jumlahnya banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolone",
+  "related": [],
+  "detailed": false
+}

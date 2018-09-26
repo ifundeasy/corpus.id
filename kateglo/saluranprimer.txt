@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran pertama yang keluar dari bendungan atau dari waduk air untuk mengalirkan air ke sawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20primer",
+  "related": [],
+  "detailed": false
+}

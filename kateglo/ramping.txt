@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ramping",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil panjang (lurus); langsing; lampai;"
+      },
+      {
+        "type": "link",
+        "text": "meramping"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramping",
+  "related": [],
+  "detailed": false
+}

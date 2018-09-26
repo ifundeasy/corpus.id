@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adalah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "identik dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "sama maknanya dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "termasuk dalam kelompok atau golongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adalah",
+  "related": [],
+  "detailed": false
+}

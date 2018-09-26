@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikhtisar laba rugi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) ikhtisar yang berisi perincian pendapatan dan biaya dalam rangka perhitungan laba atau rugi untuk jangka tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikhtisar%20laba%20rugi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buntut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(bagian) yang di belakang sekali; ekor;"
+      },
+      {
+        "type": "desc",
+        "text": "kesudahan; akibat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) permainan judi yang menebak angka-angka akhir dari suatu undian resmi; judi buntut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buntut",
+  "related": [],
+  "detailed": false
+}

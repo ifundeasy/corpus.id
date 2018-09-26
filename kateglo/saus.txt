@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuah yang kental berisi bumbu bahan tertentu (tomat, cabai, dsb) untuk pasangan kue atau lauk; kuah penyedap makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang cair yang mengandung zat harum untuk menyedapkan rasa tembakau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saus",
+  "related": [],
+  "detailed": false
+}

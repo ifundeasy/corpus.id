@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sambut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terima;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspose",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan (pengungkapan, penyingkapan) secara formal tentang suatu kenyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyingkapan (pengungkapan) sesuatu yang dapat mengurangi kepercayaan atau martabat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspose",
+  "related": [],
+  "detailed": false
+}

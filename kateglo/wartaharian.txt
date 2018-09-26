@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warta harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar yang terbit setiap hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warta%20harian",
+  "related": [],
+  "detailed": false
+}

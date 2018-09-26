@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "izin usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "izin untuk melakukan kegiatan di bidang niaga dengan tujuan mencari untung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=izin%20usaha",
+  "related": [],
+  "detailed": false
+}

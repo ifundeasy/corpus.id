@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kohor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikut;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kohor",
+  "related": [],
+  "detailed": false
+}

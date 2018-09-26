@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karyawan lepas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai yang bekerja berdasarkan kontrak kerja (dalam waktu tertentu); karyawan tidak tetap; pegawai harian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karyawan%20lepas",
+  "related": [],
+  "detailed": false
+}

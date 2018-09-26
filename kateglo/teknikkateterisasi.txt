@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teknik kateterisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) cara pengobatan dengan menggunakan kateter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teknik%20kateterisasi",
+  "related": [],
+  "detailed": false
+}

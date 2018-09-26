@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "term",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "istilah;"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau frasa yang menjadi subjek atau predikat dari sebuah proposisi;"
+      },
+      {
+        "type": "desc",
+        "text": "periode waktu awal dan akhir;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tahun akademik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=term",
+  "related": [],
+  "detailed": false
+}

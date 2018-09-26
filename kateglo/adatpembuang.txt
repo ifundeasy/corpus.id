@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adat pembuang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "denda adat yang harus dibayar pada waktu terjadi perceraian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adat%20pembuang",
+  "related": [],
+  "detailed": false
+}

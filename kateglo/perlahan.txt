@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perlahan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lambat-lambat; tidak tergesa-gesa; tidak cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "lembut; tidak nyaring;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlahan",
+  "related": [],
+  "detailed": false
+}

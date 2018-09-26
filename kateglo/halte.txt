@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halte",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhentian kereta api, trem, atau bus (biasanya mempunyai ruang tunggu yang beratap, tetapi lebih kecil daripada stasiun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halte",
+  "related": [],
+  "detailed": false
+}

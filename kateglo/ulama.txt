@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam hal atau dalam pengetahuan agama Islam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulama",
+  "related": [],
+  "detailed": false
+}

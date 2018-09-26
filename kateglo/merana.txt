@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "merana",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lama menderita sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu sakit-sakit; makin lama makin kurus;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu menderita sedih (susah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merana",
+  "related": [],
+  "detailed": false
+}

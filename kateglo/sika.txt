@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sika",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "baju"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sika",
+  "related": [],
+  "detailed": false
+}

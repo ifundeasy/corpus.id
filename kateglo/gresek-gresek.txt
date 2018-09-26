@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gresek-gresek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari-cari sisa-sisa hasil panen di sawah atau di ladang;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari-cari apa saja yang dapat ditemukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gresek-gresek",
+  "related": [],
+  "detailed": false
+}

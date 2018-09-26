@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leukoplakia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penebalan lapisan tanduk selaput lendir mulut, terdapat pada lidah atau pipi bagian dalam yang batasnya tidak teratur, berwarna abu-abu dan banyak dijumpai pada orang lanjut usia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukoplakia",
+  "related": [],
+  "detailed": false
+}

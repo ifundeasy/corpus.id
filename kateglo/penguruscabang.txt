@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus cabang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang berada pada cabang organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20cabang",
+  "related": [],
+  "detailed": false
+}

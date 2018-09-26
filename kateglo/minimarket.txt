@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minimarket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar swalayan kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minimarket",
+  "related": [],
+  "detailed": false
+}

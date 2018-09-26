@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fluktuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "gejala yang menunjukkan turun-naiknya harga; keadaan turun-naik harga dsb; perubahan (harga tersebut) karena pengaruh permintaan dan penawaran;"
+      },
+      {
+        "type": "desc",
+        "text": "ketidaktetapan; kegoncangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fluktuasi",
+  "related": [],
+  "detailed": false
+}

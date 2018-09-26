@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "auditor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengaudit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=auditor",
+  "related": [],
+  "detailed": false
+}

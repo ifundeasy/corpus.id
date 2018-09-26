@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang bersekat (tertutup) dinding yang menjadi bagian rumah atau bangunan (biasanya disekat atau dibatasi empat dinding); bilik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar",
+  "related": [],
+  "detailed": false
+}

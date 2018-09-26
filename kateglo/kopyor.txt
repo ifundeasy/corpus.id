@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kopyor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lunak dan hancur (tentang bagian daging kelapa);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelapa yang dagingnya lunak dan hancur;"
+      },
+      {
+        "type": "desc",
+        "text": "rusak karena bagian-bagiannya bercampur (tentang telur);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bingung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopyor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stemma",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "stema"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stemma",
+  "related": [],
+  "detailed": false
+}

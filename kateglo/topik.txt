@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "topik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok pembicaraan dalam diskusi, ceramah, karangan, dsb; bahan diskusi;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang menarik perhatian umum pada waktu akhir-akhir ini; bahan pembicaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=topik",
+  "related": [],
+  "detailed": false
+}

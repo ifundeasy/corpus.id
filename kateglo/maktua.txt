@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mak tua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama panggilan kekerabatan untuk kakak perempuan ibu atau kakak perempuan bapak;"
+      },
+      {
+        "type": "desc",
+        "text": "bini yang tua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mak%20tua",
+  "related": [],
+  "detailed": false
+}

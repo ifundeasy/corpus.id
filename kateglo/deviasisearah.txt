@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deviasi searah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyimpangan sikap kedua bola mata ke satu arah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deviasi%20searah",
+  "related": [],
+  "detailed": false
+}

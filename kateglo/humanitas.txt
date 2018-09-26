@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humanitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kodrat manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "perikemanusiaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humanitas",
+  "related": [],
+  "detailed": false
+}

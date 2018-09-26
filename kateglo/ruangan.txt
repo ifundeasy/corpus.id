@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang lega; kamar (besar); bilik (dalam rumah); kelas (tempat belajar); tempat dalam kapal (perahu); tempat muatan; palka;"
+      },
+      {
+        "type": "desc",
+        "text": "lajur; kolom surat kabar;"
+      },
+      {
+        "type": "desc",
+        "text": "lapangan; lingkungan; kalangan;"
+      },
+      {
+        "type": "desc",
+        "text": "rubrik dalam koran (majalah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruangan",
+  "related": [],
+  "detailed": false
+}

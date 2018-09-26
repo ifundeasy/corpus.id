@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lambung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perut;"
+      },
+      {
+        "type": "desc",
+        "text": "perut besar;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian rusuk atau samping (badan, kapal, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "melompat tinggi (bola, perahu yang dipukul ombak, dsb); naik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lambung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "layanan wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan yang bertujuan memberikan kemudahan, kenyamanan, atau keselamatan kepada pengunjung selama tinggal dan dalam setiap acara kunjungannya di kawasan pelestarian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layanan%20wisata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil tambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang didapat dari pertambangan (seperti batu bara, besi, minyak tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20tambang",
+  "related": [],
+  "detailed": false
+}

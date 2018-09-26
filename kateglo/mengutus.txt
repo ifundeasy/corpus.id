@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengutus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyuruh orang pergi (ke) ...;"
+      },
+      {
+        "type": "desc",
+        "text": "mengirimkan orang sebagai wakil (suruhan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengutus",
+  "related": [],
+  "detailed": false
+}

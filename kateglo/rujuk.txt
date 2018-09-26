@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rujuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kembalinya suami kepada istrinya yang ditalak, talak satu atau talak dua, ketika istri masih dalam masa idah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kembali bersatu (bersahabat dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "rujuk silang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rujuk",
+  "related": [],
+  "detailed": false
+}

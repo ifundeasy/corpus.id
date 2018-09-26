@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedinasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pekerjaan (tugas, kewajiban) dinas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedinasan",
+  "related": [],
+  "detailed": false
+}

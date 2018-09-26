@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerajinan tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan tangan (bukan mesin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerajinan%20tangan",
+  "related": [],
+  "detailed": false
+}

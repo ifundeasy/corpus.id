@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar pelaku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen) daftar yang menunjukkan nama dan jabatan serta hubungan kekerabatan para pelaku dalam naskah drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20pelaku",
+  "related": [],
+  "detailed": false
+}

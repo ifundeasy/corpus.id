@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kontan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang tunai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kontan",
+  "related": [],
+  "detailed": false
+}

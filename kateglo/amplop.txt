@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amplop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampul surat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) uang sogok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amplop",
+  "related": [],
+  "detailed": false
+}

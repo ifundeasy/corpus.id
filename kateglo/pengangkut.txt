@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengangkut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengangkut;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (kapal, mobil, dsb) untuk mengangkut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengangkut",
+  "related": [],
+  "detailed": false
+}

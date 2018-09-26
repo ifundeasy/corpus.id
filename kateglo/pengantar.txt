@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengantar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengantar(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengantar(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "pembimbing;"
+      },
+      {
+        "type": "desc",
+        "text": "pandangan umum secara ringkas sebagai pendahuluan (mengenai isi buku, ceramah, dsb); kata pendahuluan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengantar",
+  "related": [],
+  "detailed": false
+}

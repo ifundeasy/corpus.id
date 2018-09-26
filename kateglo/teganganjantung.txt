@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tegangan jantung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat kontraksi dari otot jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tegangan%20jantung",
+  "related": [],
+  "detailed": false
+}

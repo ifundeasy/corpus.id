@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah keagamaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang khususnya berisi masalah keagamaan, pendidikan budi pekerti, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20keagamaan",
+  "related": [],
+  "detailed": false
+}

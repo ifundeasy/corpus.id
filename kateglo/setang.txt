@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegangan dan kemudi kendaraan (pada sepeda dsb) yang bentuknya bermacam-macam (seperti tanduk, lingkaran);"
+      },
+      {
+        "type": "desc",
+        "text": "alat pada mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setang",
+  "related": [],
+  "detailed": false
+}

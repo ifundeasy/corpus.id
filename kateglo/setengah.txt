@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setengah",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "seperdua; separuh;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagian; sejumlah;"
+      },
+      {
+        "type": "desc",
+        "text": "belum sempurna;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) agak gila; kurang waras (pikiran, otak, akal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setengah",
+  "related": [],
+  "detailed": false
+}

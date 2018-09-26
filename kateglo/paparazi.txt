@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paparazi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(It) juru foto bayaran yang memburu para selebriti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paparazi",
+  "related": [],
+  "detailed": false
+}

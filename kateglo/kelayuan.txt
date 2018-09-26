@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelayuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal layu;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan layu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelayuan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lompong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kosong; hampa;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bodoh;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "lompong sagu"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) talas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lompong",
+  "related": [],
+  "detailed": false
+}

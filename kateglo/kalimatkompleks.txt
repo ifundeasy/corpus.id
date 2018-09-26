@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat kompleks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat majemuk bertingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20kompleks",
+  "related": [],
+  "detailed": false
+}

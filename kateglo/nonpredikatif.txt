@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonpredikatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) tidak berkaitan dengan predikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonpredikatif",
+  "related": [],
+  "detailed": false
+}

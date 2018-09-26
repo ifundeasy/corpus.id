@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat ringan yang sifatnya seperti udara (dalam suhu biasa tidak menjadi cair);"
+      },
+      {
+        "type": "desc",
+        "text": "uap dari bensin (bensol dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) tingkat wujud zat yang molekul-molekulnya bergerak bebas sehingga seluruh massa cenderung mengembang dan menempati seluruh volume wadahnya; gas lamban; gas mulia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka kematian kasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) bilangan yang menunjukkan jumlah kematian per 1.000 orang penduduk dalam satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20kematian%20kasar",
+  "related": [],
+  "detailed": false
+}

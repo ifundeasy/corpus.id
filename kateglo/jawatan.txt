@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari departemen atau pemerintah daerah yang mengurus (menyelenggarakan) suatu tugas atau pekerjaan yang luas lingkungannya;"
+      },
+      {
+        "type": "desc",
+        "text": "dinas;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda pangkat atau kebesaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jawatan",
+  "related": [],
+  "detailed": false
+}

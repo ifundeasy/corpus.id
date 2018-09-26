@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sontok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "pendek; singkat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyontok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sontok",
+  "related": [],
+  "detailed": false
+}

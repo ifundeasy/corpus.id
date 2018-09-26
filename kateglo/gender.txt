@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gender",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis kelamin;"
+      },
+      {
+        "type": "desc",
+        "text": "gamelan Jawa yang dibuat dari bilah-bilah logam berjumlah empat belas buah dengan penggema dari bambu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gender",
+  "related": [],
+  "detailed": false
+}

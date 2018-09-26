@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat minum-minum (biasanya minuman keras, seperti anggur, bir, wiski);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran tekanan udara 106 dyne per cm2 = 0,987 atmosfer = 14,5 pon per inci;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) satuan tekanan yang besarnya sama dengan 105 Pascal (Pa) atau 105 Newton (N) per meter persegi atau kira-kira 0,987 atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "struktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara sesuatu disusun atau dibangun; susunan; bangunan;"
+      },
+      {
+        "type": "desc",
+        "text": "yang disusun dengan pola tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaturan unsur atau bagian suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentuan unsur-unsur dari suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pengaturan pola dalam bahasa secara sintagmatis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=struktur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinoptis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ringkas; singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinoptis",
+  "related": [],
+  "detailed": false
+}

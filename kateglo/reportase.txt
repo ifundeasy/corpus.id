@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reportase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitaan; pelaporan;"
+      },
+      {
+        "type": "desc",
+        "text": "laporan kejadian (berdasarkan pengamatan atau sumber tulisan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reportase",
+  "related": [],
+  "detailed": false
+}

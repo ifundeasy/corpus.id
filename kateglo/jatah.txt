@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jatah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah atau banyaknya barang dsb yang telah ditentukan (untuk suatu maksud atau untuk suatu daerah);"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah atau banyaknya orang yang telah ditentukan (untuk imigrasi, pergi haji, dsb); kuota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jatah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsekutif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berurutan tanpa rumpang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsekutif",
+  "related": [],
+  "detailed": false
+}

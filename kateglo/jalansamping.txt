@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan samping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan di samping rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan kecil yang searah dengan jalan yang besar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perbuatan tidak menurut cara yang benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20samping",
+  "related": [],
+  "detailed": false
+}

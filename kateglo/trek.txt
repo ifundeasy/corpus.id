@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan orang dsb dari daerah atau negeri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pemindahan bola dari pemain sayap ke tengah untuk diteruskan ke gawang lawan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) jalur atau jalan yang dipakai untuk arena balap;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) jalur pada disk dan disket tempat informasi direkam; lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trek",
+  "related": [],
+  "detailed": false
+}

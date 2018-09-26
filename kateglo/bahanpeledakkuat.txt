@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan peledak kuat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Tek) bahan peledak dengan kecepatan rambat gelombang tinggi, yang untuk meledakkannya diperlukan pemakaian detonator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20peledak%20kuat",
+  "related": [],
+  "detailed": false
+}

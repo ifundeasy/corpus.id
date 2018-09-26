@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monitor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memantau;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memantau (seperti alat penerima yang digunakan untuk melihat gambar yang diambil oleh kamera televisi, alat untuk mengamati kondisi atau fungsi biologis, alat yang memantau kerja suatu sistem, terutama sistem komputer, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat semprot air dengan tekanan 4—7 atmosfer yang digunakan pada tambang timah aluvial untuk menambang biji timah;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang dirancang untuk mengobservasi, mengawasi, mengontrol, atau memverifikasi operasi suatu sistem;"
+      },
+      {
+        "type": "desc",
+        "text": "pengawasan dan tindakan memverifikasi kebenaran operasi suatu program selama pelaksanaannya berdasarkan rutin diagnostik yang digunakan dari waktu ke waktu untuk menjawab pertanyaan tentang program tersebut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "pantau; cek secara cermat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monitor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "soal jawab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanya jawab (ada yang bertanya dan yang harus menjawab, dalam ruang surat kabar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perdebatan; perbahasan; perbantahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=soal%20jawab",
+  "related": [],
+  "detailed": false
+}

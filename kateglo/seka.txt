@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seka",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berseka"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bl) organisasi masyarakat desa yang dibentuk untuk tujuan tertentu, baik waktu singkat maupun lama, misal perkumpulan kesenian legong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seka",
+  "related": [],
+  "detailed": false
+}

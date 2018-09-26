@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesimen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari kelompok atau bagian dari keseluruhan;"
+      },
+      {
+        "type": "desc",
+        "text": "contoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesimen",
+  "related": [],
+  "detailed": false
+}

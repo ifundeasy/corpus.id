@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "larap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "laku; laris;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melarapkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jodoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larap",
+  "related": [],
+  "detailed": false
+}

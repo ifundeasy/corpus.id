@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan jangka pendek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakiraan cuaca yang jangka waktu berlakunya kurang dari dua hari;"
+      },
+      {
+        "type": "desc",
+        "text": "prakiraan cuaca setiap beberapa jam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan%20jangka%20pendek",
+  "related": [],
+  "detailed": false
+}

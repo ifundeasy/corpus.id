@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reglementer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan reglemen; menurut aturan (peraturan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reglementer",
+  "related": [],
+  "detailed": false
+}

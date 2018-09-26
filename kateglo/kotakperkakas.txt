@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kotak perkakas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak yang berisi seperangkat perkakas untuk menukang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak%20perkakas",
+  "related": [],
+  "detailed": false
+}

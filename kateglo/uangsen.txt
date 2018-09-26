@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang sen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang senilai 1/100 rupiah (pada zaman Hindia Belanda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20sen",
+  "related": [],
+  "detailed": false
+}

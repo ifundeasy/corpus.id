@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengimpor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan barang dagangan dsb dari luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengimpor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal perpelancongan; kepariwisataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turisme",
+  "related": [],
+  "detailed": false
+}

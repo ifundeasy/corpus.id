@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belam",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membelam"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "belam api"
+      },
+      {
+        "type": "desc",
+        "text": "palang atau kancing pintu (pagar dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "terbelam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belam",
+  "related": [],
+  "detailed": false
+}

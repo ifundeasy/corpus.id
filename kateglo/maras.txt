@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ketakutan; sangat khawatir;"
+      },
+      {
+        "type": "desc",
+        "text": "perundingan antara dua keluarga mengenai perkawinan anak-anaknya (di daerah Batak);"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk perkawinan endogami (di Pulau Buru);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuka tanah (di daerah Minahasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maras",
+  "related": [],
+  "detailed": false
+}

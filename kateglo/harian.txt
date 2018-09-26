@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setiap hari;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kabar atau koran yang terbit tiap hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jalang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dipelihara orang (tentang binatang); liar;"
+      },
+      {
+        "type": "desc",
+        "text": "nakal (tentang perbuatan yang melanggar susila);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjalang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalang",
+  "related": [],
+  "detailed": false
+}

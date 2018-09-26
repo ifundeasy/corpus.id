@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dusun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kampung; desa; dukuh;"
+      },
+      {
+        "type": "link",
+        "text": "dusun pengasihan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dusun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesempitan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terdesak sehingga tidak dapat bergerak lagi; tersudut; terpepet;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepicikan; kekurangan (uang, waktu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesempitan",
+  "related": [],
+  "detailed": false
+}

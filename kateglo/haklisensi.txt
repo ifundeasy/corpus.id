@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak lisensi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak menerbitkan edisi buku yang sifatnya berbeda dari edisi asli (misal buku terjemahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20lisensi",
+  "related": [],
+  "detailed": false
+}

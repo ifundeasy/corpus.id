@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vaksinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penanaman bibit penyakit (misal cacar) yang sudah dilemahkan ke dalam tubuh manusia atau binatang (dengan cara menggoreskan atau menusukkan jarum) agar orang atau binatang itu menjadi kebal terhadap penyakit tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vaksinasi",
+  "related": [],
+  "detailed": false
+}

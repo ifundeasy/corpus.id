@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remunerasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan sebagai balas jasa untuk pekerjaan yang dilakukan; imbalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remunerasi",
+  "related": [],
+  "detailed": false
+}

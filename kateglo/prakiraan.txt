@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang diprakirakan; hasil memprakirakan; perhitungan sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan",
+  "related": [],
+  "detailed": false
+}

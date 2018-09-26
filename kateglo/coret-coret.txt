@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "coret-coret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis-garis yang tidak keruan (pada kertas dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) gambar yang dibuat dari garis-garis saja (yang dibuat dengan cepat dan hanya garis besarnya saja, seperti untuk buram, sketsa);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) gambar ejekan (karikatur);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tulisan yang buruk (asal ditulis saja);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) karangan yang asal ditulis saja (tidak ada isinya dan rendah mutunya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=coret-coret",
+  "related": [],
+  "detailed": false
+}

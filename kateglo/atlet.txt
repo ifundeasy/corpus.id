@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atlet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "olahragawan, terutama yang mengikuti perlombaan atau pertandingan (kekuatan, ketangkasan, dan kecepatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atlet",
+  "related": [],
+  "detailed": false
+}

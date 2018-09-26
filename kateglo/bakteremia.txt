@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakteremia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan yang menunjukkan adanya bakteri hidup di dalam darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteremia",
+  "related": [],
+  "detailed": false
+}

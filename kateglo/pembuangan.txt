@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membuang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membuang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menghukum buang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuangan",
+  "related": [],
+  "detailed": false
+}

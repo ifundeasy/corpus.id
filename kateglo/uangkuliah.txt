@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kuliah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan oleh (calon) mahasiswa sebagai biaya pendidikan di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kuliah",
+  "related": [],
+  "detailed": false
+}

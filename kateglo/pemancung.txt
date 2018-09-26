@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemancung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memancung (pedang, parang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memancung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemancung",
+  "related": [],
+  "detailed": false
+}

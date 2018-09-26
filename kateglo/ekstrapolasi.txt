@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstrapolasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perluasan data di luar data yang tersedia, tetapi tetap mengikuti pola kecenderungan data yang tersedia itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstrapolasi",
+  "related": [],
+  "detailed": false
+}

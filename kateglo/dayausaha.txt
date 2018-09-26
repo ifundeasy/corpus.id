@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan seseorang memulai suatu aktivitas baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20usaha",
+  "related": [],
+  "detailed": false
+}

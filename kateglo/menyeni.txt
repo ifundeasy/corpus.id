@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyeni",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "halus; lembut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berseni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyeni",
+  "related": [],
+  "detailed": false
+}

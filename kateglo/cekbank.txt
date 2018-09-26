@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cek yang ditarik oleh suatu bank atas bank yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20bank",
+  "related": [],
+  "detailed": false
+}

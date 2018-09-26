@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "testimoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaran hukum Musa yang berisi sepuluh Perintah Tuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) bukti yang diberikan saksi di pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengakuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=testimoni",
+  "related": [],
+  "detailed": false
+}

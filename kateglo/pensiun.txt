@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pensiun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak bekerja lagi karena masa tugasnya sudah selesai;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang tunjangan yang diterima tiap-tiap bulan oleh karyawan sesudah ia berhenti bekerja atau oleh istri (suami) dan anak-anaknya yang belum dewasa kalau ia meninggal dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensiun",
+  "related": [],
+  "detailed": false
+}

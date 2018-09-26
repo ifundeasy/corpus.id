@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air payau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang tidak sedap rasanya akibat kelebihan kadar klorida;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran antara air laut dan air tawar, biasanya mempunyai kadar garam kurang dari 30 per mil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20payau",
+  "related": [],
+  "detailed": false
+}

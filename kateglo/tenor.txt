@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis suara tertinggi untuk orang laki-laki;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai suara tenor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenor",
+  "related": [],
+  "detailed": false
+}

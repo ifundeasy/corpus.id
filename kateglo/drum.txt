@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "drum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tong besi (untuk tempat minyak dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "genderang; tambur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=drum",
+  "related": [],
+  "detailed": false
+}

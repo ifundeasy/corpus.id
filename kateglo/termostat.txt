@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termostat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengatur suhu secara otomatis yang bekerja karena perubahan suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termostat",
+  "related": [],
+  "detailed": false
+}

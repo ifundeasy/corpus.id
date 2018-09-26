@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partisipatoris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan memberi kesempatan berpartisipasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partisipatoris",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pikap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan bermotor beroda empat, lebih kecil dari truk, memiliki bak bertutup, digunakan untuk mengangkut barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikap",
+  "related": [],
+  "detailed": false
+}

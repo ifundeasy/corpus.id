@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berat hati",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang suka (enggan) melakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sampai hati (tidak tega) melakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "cenderung (hati) kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "keras sangkaan (dugaan)nya (thd sesuatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat%20hati",
+  "related": [],
+  "detailed": false
+}

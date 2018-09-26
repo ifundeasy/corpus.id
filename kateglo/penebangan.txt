@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penebangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menebang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menebang kayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penebangan",
+  "related": [],
+  "detailed": false
+}

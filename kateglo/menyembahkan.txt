@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyembahkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan (mengunjukkan dsb) dengan hormat;"
+      },
+      {
+        "type": "desc",
+        "text": "menghidangkan (mempertunjukkan) film dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menyampaikan (permohonan, surat, pemberitahuan, dsb) dengan hormat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyembahkan",
+  "related": [],
+  "detailed": false
+}

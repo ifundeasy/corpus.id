@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabriolet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil penumpang yang tendanya dapat dibuka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabriolet",
+  "related": [],
+  "detailed": false
+}

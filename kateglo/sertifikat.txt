@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sertifikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda atau surat keterangan (pernyataan) tertulis atau tercetak dari orang yang berwenang yang dapat digunakan sebagai bukti pemilikan atau suatu kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sertifikat",
+  "related": [],
+  "detailed": false
+}

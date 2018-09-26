@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anonim",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tanpa nama; tidak beridentitas; awanama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sos) tidak ada penandatangannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anonim",
+  "related": [],
+  "detailed": false
+}

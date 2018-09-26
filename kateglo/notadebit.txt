@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nota debit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan tentang perubahan kewajiban membayar nota kredit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota%20debit",
+  "related": [],
+  "detailed": false
+}

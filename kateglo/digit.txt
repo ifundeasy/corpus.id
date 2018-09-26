@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "digit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "letak angka pada bilangan;"
+      },
+      {
+        "type": "desc",
+        "text": "angka Arab dari 0—9; setiap angka yang terdapat dalam deret angka yang tidak merujuk kepada sistem desimal, misal nomor telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=digit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bendung segitiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bendung yang berpuncak tajam yang terkontraksi dengan sisi yang membentuk sudut dengan puncaknya di sebelah bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendung%20segitiga",
+  "related": [],
+  "detailed": false
+}

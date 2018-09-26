@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lemparan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil melempar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemparan",
+  "related": [],
+  "detailed": false
+}

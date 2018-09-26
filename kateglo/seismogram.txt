@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seismogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "grafik getaran gempa bumi yang direkam oleh seismometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seismogram",
+  "related": [],
+  "detailed": false
+}

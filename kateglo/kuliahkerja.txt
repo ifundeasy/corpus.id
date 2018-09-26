@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuliah kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "belajar sambil praktik (di laboratorium dsb) dengan bimbingan dosen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuliah%20kerja",
+  "related": [],
+  "detailed": false
+}

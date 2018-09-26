@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah khas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan berkala yang isinya khusus mengenai bidang profesi tertentu, misal ilmu hukum, ilmu sosial, fotografi, filateli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20khas",
+  "related": [],
+  "detailed": false
+}

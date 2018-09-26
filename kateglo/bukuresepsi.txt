@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku resepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku untuk mencatat nama-nama tamu yang datang berkunjung; buku tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20resepsi",
+  "related": [],
+  "detailed": false
+}

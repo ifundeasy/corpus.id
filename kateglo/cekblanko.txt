@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek blanko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) formulir cek yang telah ditandatangani oleh penarik tanpa dicantumkan jumlah uang yang harus dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20blanko",
+  "related": [],
+  "detailed": false
+}

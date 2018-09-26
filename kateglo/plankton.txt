@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme laut (tumbuhan dan hewan) yang sangat halus, kebanyakan mikroskopis, melayang di dalam air laut, dan merupakan makanan utama ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plankton",
+  "related": [],
+  "detailed": false
+}

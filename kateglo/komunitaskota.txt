@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "komunitas kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr) komunitas yang bersifat kekota-kotaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunitas%20kota",
+  "related": [],
+  "detailed": false
+}

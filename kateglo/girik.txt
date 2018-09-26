@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "girik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kupon; surat kecil (sebagai keterangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kartu giliran (untuk jaga, ronda, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) gobek;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pajak hasil bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pemilikan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=girik",
+  "related": [],
+  "detailed": false
+}

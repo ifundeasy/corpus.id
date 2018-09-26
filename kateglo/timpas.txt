@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "timpas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "surut yang serendah-rendahnya (tentang air dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kering (tentang sungai, telaga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) licin; tandas; habis (tentang uang, tenaga, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "bertimpas-timpas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timpas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masjid jami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masjid utama (untuk salat beramai-ramai pada hari Jumat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masjid%20jami",
+  "related": [],
+  "detailed": false
+}

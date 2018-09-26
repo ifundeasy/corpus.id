@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "probabilitas kelahiran menurut umur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) kemungkinan bagi seorang wanita yang pada awal tahun berada pada umur tertentu akan melahirkan anak pada tahun itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=probabilitas%20kelahiran%20menurut%20umur",
+  "related": [],
+  "detailed": false
+}

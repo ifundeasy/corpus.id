@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "datu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "raja; ratu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) orang yang pandai tentang ramuan-ramuan obat; dukun;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang keramat; orang yang telah meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=datu",
+  "related": [],
+  "detailed": false
+}

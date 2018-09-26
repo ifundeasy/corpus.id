@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pita absorbsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk pita yang terdapat pada spektrum karena adanya absorbsi untuk panjang gelombang tertentu; pita serap masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pita%20absorbsi",
+  "related": [],
+  "detailed": false
+}

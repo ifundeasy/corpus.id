@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenotarisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang bersangkutan dengan notaris atau pekerjaan notaris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenotarisan",
+  "related": [],
+  "detailed": false
+}

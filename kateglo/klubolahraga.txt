@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klub olahraga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan yang menyelenggarakan kegiatan dalam bidang olahraga bagi para anggotanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klub%20olahraga",
+  "related": [],
+  "detailed": false
+}

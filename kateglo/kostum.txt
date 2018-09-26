@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kostum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian khusus (dapat pula merupakan pakaian seragam) bagi perseorangan, regu olahraga, rombongan, kesatuan, dsb dalam upacara, pertunjukan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kostum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pause",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "istirahat; jeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pause",
+  "related": [],
+  "detailed": false
+}

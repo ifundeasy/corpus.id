@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat pleno",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat lengkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20pleno",
+  "related": [],
+  "detailed": false
+}

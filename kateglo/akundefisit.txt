@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun defisit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) akun buku besar untuk suatu kekurangan kerugian atau akun laba ditahan dengan suatu saldo debet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20defisit",
+  "related": [],
+  "detailed": false
+}

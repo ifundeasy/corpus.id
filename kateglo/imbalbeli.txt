@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "imbal beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "interaksi antara penjual dan pembeli dengan jalan saling mem-beli produk dengan jumlah yang imbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imbal%20beli",
+  "related": [],
+  "detailed": false
+}

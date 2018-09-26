@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polis asuransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kontrak tertulis antara maskapai asuransi dan pihak yang dijamin yang memuat persyaratan dan ketentuan perjanjian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polis%20asuransi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apokrifa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang diragukan keasliannya; tidak dapat dipercaya (tentang asal usul naskah);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) bagian-bagian Alkitab yang diakui Gereja Katolik, tetapi tidak diakui oleh Gereja Protestan dan Yahudi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apokrifa",
+  "related": [],
+  "detailed": false
+}

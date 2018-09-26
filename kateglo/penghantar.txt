@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghantar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerus; penyalur (arus listrik);"
+      },
+      {
+        "type": "desc",
+        "text": "zat padat yang menghantarkan panas atau listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "kawat yang menyalurkan tenaga listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "penyalur barang; penyalur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghantar",
+  "related": [],
+  "detailed": false
+}

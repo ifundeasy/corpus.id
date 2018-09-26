@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gendong",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggendong"
+      },
+      {
+        "type": "link",
+        "text": "menggendong"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gendong",
+  "related": [],
+  "detailed": false
+}

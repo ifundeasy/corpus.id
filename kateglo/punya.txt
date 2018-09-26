@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "punya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menaruh (dalam arti memiliki);"
+      },
+      {
+        "type": "desc",
+        "text": "memiliki;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "milik; yang dimiliki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=punya",
+  "related": [],
+  "detailed": false
+}

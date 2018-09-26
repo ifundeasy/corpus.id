@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita sepekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majalah mingguan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20sepekan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelarut tambahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat cair yang digunakan sebagai tambahan atau sebagai pengganti sebagian pelarut utama agar diperoleh efek yang diinginkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelarut%20tambahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "person",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pribadi; perseorangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=person",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nafi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penolakan; penampikan; pengingkaran;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sifat negatif;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak mau; tidak menurut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nafi",
+  "related": [],
+  "detailed": false
+}

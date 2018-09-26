@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nota siap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) nota dari nakhoda kapal kepada agen atau pencarter kapal di pelabuhan, yang menyatakan kapal sudah tiba di pelabuhan dan siap membongkar atau memuat muatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota%20siap",
+  "related": [],
+  "detailed": false
+}

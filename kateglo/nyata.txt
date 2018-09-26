@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terang (kelihatan, kedengaran, dsb); jelas sekali; kentara;"
+      },
+      {
+        "type": "desc",
+        "text": "benar-benar ada; ada buktinya; berwujud;"
+      },
+      {
+        "type": "desc",
+        "text": "terbukti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyata",
+  "related": [],
+  "detailed": false
+}

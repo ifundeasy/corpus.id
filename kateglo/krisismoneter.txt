@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "krisis moneter",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "krisis yang berhubungan dengan uang atau keuangan suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krisis%20moneter",
+  "related": [],
+  "detailed": false
+}

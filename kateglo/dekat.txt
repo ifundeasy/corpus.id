@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek, tidak jauh (jarak atau antaranya);"
+      },
+      {
+        "type": "desc",
+        "text": "hampir;"
+      },
+      {
+        "type": "desc",
+        "text": "berhampiran (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "akrab; rapat (tentang hubungan persahabatan, persaudaraan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjelang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekat",
+  "related": [],
+  "detailed": false
+}

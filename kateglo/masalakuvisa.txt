@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa laku visa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "izin yang diberikan kepada pemilik visa untuk tinggal di suatu negara dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20laku%20visa",
+  "related": [],
+  "detailed": false
+}

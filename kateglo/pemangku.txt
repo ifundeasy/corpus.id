@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemangku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memangku;"
+      },
+      {
+        "type": "desc",
+        "text": "pengelola; penyelenggara (pemerintahan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mewakili (raja dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemangku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dibahas;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil membahas;"
+      },
+      {
+        "type": "desc",
+        "text": "hal (cara) membahas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zakat profesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zakat yang diberikan oleh setiap orang Islam, yang menyangkut imbalan profesi yang diterima, seperti gaji dan honorarium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zakat%20profesi",
+  "related": [],
+  "detailed": false
+}

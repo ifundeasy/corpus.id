@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegiatan bursa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kegiatan perdagangan atau transaksi sekuritas pada hari-hari bursa di suatu bursa sekuritas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegiatan%20bursa",
+  "related": [],
+  "detailed": false
+}

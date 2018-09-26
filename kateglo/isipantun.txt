@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isi pantun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larik ketiga dan keempat sebuah pantun yang mengandung inti maksudnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isi%20pantun",
+  "related": [],
+  "detailed": false
+}

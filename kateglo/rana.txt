@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "peperangan;"
+      },
+      {
+        "type": "desc",
+        "text": "medan perang;"
+      },
+      {
+        "type": "link",
+        "text": "ratna"
+      },
+      {
+        "type": "desc",
+        "text": "suka berperang;"
+      },
+      {
+        "type": "desc",
+        "text": "riang;"
+      },
+      {
+        "type": "desc",
+        "text": "berani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rana",
+  "related": [],
+  "detailed": false
+}

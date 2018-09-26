@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarana pelayanan medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarana yang menyediakan pelayanan yang bersifat klinis, dalam bidang diagnostik, dan/atau rawat inap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarana%20pelayanan%20medis",
+  "related": [],
+  "detailed": false
+}

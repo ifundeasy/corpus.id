@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun akademi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu untuk belajar atau kuliah untuk seluruh tingkat di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20akademi",
+  "related": [],
+  "detailed": false
+}

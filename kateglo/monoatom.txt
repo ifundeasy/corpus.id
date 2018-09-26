@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monoatom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) atom yang hanya mengandung satu atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monoatom",
+  "related": [],
+  "detailed": false
+}

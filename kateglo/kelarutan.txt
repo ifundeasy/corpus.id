@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelarutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal larut; yang berciri atau bersifat (dapat) larut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelarutan",
+  "related": [],
+  "detailed": false
+}

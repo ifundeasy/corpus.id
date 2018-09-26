@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "andam",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "andam surai"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "andam karam"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengandam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=andam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolonisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat perpindahan penduduk di daerah koloni;"
+      },
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk ke daerah koloni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolonisasi",
+  "related": [],
+  "detailed": false
+}

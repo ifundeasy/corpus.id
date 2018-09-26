@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hampa tangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak membawa apa-apa (pulang dengan tangan kosong);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak berhasil; tidak mendapat apa-apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hampa%20tangan",
+  "related": [],
+  "detailed": false
+}

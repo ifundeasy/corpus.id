@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar pelajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar yang harus diikuti murid dalam proses belajar mengajar di kelas setiap hari selama seminggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20pelajaran",
+  "related": [],
+  "detailed": false
+}

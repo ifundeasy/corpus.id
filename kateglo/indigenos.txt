@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indigenos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pribumi; asli;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ikn) ikan asli yang terdapat di suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indigenos",
+  "related": [],
+  "detailed": false
+}

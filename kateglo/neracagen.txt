@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "neraca gen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) jumlah pengaruh kombinasi semua gen yang berintegrasi untuk menghasilkan tabiat fenotipe tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neraca%20gen",
+  "related": [],
+  "detailed": false
+}

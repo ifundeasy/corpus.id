@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "madrasah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah atau perguruan (biasanya yang berdasarkan agama Islam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=madrasah",
+  "related": [],
+  "detailed": false
+}

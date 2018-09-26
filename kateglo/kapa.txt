@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf ke-10 abjad Yunani;"
+      },
+      {
+        "type": "link",
+        "text": "kapa-kapa"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapa",
+  "related": [],
+  "detailed": false
+}

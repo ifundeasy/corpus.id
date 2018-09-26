@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertoko",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjualan barang-barang di toko (seperti berjualan kain, barang kelontong);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai toko;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertoko",
+  "related": [],
+  "detailed": false
+}

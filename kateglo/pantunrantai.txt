@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pantun rantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pantun berkait;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantun%20rantai",
+  "related": [],
+  "detailed": false
+}

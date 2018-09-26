@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modus interogatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modus yang menyatakan pertanyaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modus%20interogatif",
+  "related": [],
+  "detailed": false
+}

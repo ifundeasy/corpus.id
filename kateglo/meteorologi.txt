@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meteorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang ciri-ciri fisika dan kimia atmosfer (untuk meramalkan keadaan cuaca);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengasuh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjaga (merawat dan mendidik) anak kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) membimbing (membantu, melatih, dsb) supaya dapat berdiri sendiri (tentang orang atau negeri);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) memimpin (mengepalai, menyelenggarakan) suatu badan kelembagaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengasuh",
+  "related": [],
+  "detailed": false
+}

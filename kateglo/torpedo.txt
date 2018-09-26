@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "torpedo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata peledak berbentuk cerutu besar diluncurkan dari kapal, kapal selam, atau pesawat terbang untuk menenggelamkan kapal lain;"
+      },
+      {
+        "type": "desc",
+        "text": "kapal perang (selam) kecil yang bertugas menembakkan torpedo;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) naf sepeda yang dipakai untuk mengerem (pedalnya ditekan ke arah belakang);"
+      },
+      {
+        "type": "desc",
+        "text": "ikan pari yang dapat mengeluarkan arus listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=torpedo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siber",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem komputer dan informasi;"
+      },
+      {
+        "type": "desc",
+        "text": "dunia maya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan internet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siber",
+  "related": [],
+  "detailed": false
+}

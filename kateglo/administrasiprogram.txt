@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "administrasi program",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beraneka tugas administrasi yang sangat diperlukan untuk memelihara program asuransi, misal program pensiun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=administrasi%20program",
+  "related": [],
+  "detailed": false
+}

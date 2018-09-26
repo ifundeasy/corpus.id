@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendorong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menolak dari bagian belakang atau bagian depan; menyorong;"
+      },
+      {
+        "type": "desc",
+        "text": "menganjur (ke depan); bergerak dengan kuat ke arah depan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mendesak atau memaksa supaya berbuat sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendorong",
+  "related": [],
+  "detailed": false
+}

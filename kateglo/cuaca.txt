@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan udara (tentang temperatur, cahaya matahari kelembapan, kecepatan angin, dsb) pada satu tempat tertentu dengan jangka waktu terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuaca",
+  "related": [],
+  "detailed": false
+}

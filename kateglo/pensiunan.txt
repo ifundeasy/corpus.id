@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pensiunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karyawan yang sudah pensiun;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menerima pensiun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensiunan",
+  "related": [],
+  "detailed": false
+}

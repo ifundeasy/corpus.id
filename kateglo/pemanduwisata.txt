@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandu wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya mendampingi wisatawan dengan mengatur perjalanan dan memberi penjelasan tentang tempat yang dikunjungi; orang yang bertugas memandu wisatawan; pramuwisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandu%20wisata",
+  "related": [],
+  "detailed": false
+}

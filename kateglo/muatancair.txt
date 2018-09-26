@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan cair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) segala cairan yang dapat diangkut dalam bentuk curah (tidak terbungkus dalam kemasan seperti kotak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20cair",
+  "related": [],
+  "detailed": false
+}

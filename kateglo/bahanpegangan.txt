@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pegangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat dipakai sebagai tuntunan atau pedoman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pegangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berminyak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengandung minyak;"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan minyak;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai minyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berminyak",
+  "related": [],
+  "detailed": false
+}

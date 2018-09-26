@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala karangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau gabungan kata atau frasa yang tercantum di atas sebuah karangan (artikel) yang menyatakan suatu hal yang dibicarakan dalam karangan; judul (karangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20karangan",
+  "related": [],
+  "detailed": false
+}

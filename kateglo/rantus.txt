@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rantus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "putus; rantas;"
+      },
+      {
+        "type": "desc",
+        "text": "terjangkit penyakit; tertulari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rantus",
+  "related": [],
+  "detailed": false
+}

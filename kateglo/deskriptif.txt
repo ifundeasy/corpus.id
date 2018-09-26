@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deskriptif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat deskripsi; bersifat menggambarkan apa adanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deskriptif",
+  "related": [],
+  "detailed": false
+}

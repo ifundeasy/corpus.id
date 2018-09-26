@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toilet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranti untuk berhias, seperti bedak, cermin, dan sikat rambut; kamar -- , kamar rias; meja -- , meja rias (dengan cermin besar);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat cuci tangan dan muka;"
+      },
+      {
+        "type": "desc",
+        "text": "kamar kecil (kakus); kertas -- , (gulungan) kertas yang dipakai di kamar kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toilet",
+  "related": [],
+  "detailed": false
+}

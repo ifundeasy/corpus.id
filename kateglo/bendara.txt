@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bendara",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "bendahara"
+      },
+      {
+        "type": "desc",
+        "text": "pengelola harta benda (kakayaan) negara atau raja;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai semua karyawan yang melayani tamu atau merapikan meja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) sebutan bagi bangsawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendara",
+  "related": [],
+  "detailed": false
+}

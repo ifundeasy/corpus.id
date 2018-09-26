@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "skala angin Beaufort",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) klasifikasi serta daftar kekuatan angin yang memuat nama, kekuatan, serta kecepatan angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala%20angin%20Beaufort",
+  "related": [],
+  "detailed": false
+}

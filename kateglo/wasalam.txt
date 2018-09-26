@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wasalam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "selamatlah; sejahteralah;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(dalam penutup surat) hormat dan takzim dari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wasalam",
+  "related": [],
+  "detailed": false
+}

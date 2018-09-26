@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepak bola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) permainan beregu di lapangan, menggunakan bola sepak dari dua kelompok yang berlawanan yang masing-masing terdiri atas sebelas pemain, berlangsung selama 2 x 45 menit, kemenangan ditentukan oleh selisih gol yang masuk ke gawang lawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepak%20bola",
+  "related": [],
+  "detailed": false
+}

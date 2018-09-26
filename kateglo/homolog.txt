@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homolog",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama asal-usulnya (tentang kromosom);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa yang merupakan deretan yang dibentuk dengan penambahan gugus yang tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homolog",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dramaturg",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli seni drama;"
+      },
+      {
+        "type": "desc",
+        "text": "pengarang naskah drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dramaturg",
+  "related": [],
+  "detailed": false
+}

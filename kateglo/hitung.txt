@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hitung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membilang (menjumlahkan, mengurangi, membagi, memperbanyakkan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitung",
+  "related": [],
+  "detailed": false
+}

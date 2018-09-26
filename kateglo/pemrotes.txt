@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemrotes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memprotes;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemrotes",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksara Jawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aksara Arab yang dipakai untuk menuliskan bahasa Melayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara%20Jawi",
+  "related": [],
+  "detailed": false
+}

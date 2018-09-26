@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksoftalmus",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "eksoftalmos"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksoftalmus",
+  "related": [],
+  "detailed": false
+}

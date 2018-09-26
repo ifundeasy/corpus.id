@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intelek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "daya atau proses pemikiran yang lebih tinggi yang berkenaan dengan pengetahuan; daya akal budi; kecerdasan berpikir;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terpelajar; cendekia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intelek",
+  "related": [],
+  "detailed": false
+}

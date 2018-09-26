@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas membuat notula (catatan rapat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notulis",
+  "related": [],
+  "detailed": false
+}

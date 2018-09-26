@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "harta;"
+      },
+      {
+        "type": "desc",
+        "text": "harta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reta",
+  "related": [],
+  "detailed": false
+}

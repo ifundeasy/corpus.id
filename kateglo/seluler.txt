@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seluler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "berbentuk sel;"
+      },
+      {
+        "type": "desc",
+        "text": "berbentuk sel;"
+      },
+      {
+        "type": "desc",
+        "text": "dibagi dalam sel-sel atau bilik-bilik;"
+      },
+      {
+        "type": "desc",
+        "text": "dibagi dalam sel-sel atau bilik-bilik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seluler",
+  "related": [],
+  "detailed": false
+}

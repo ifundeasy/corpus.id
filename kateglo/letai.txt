@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "letai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "letah-letai"
+      },
+      {
+        "type": "link",
+        "text": "letah-letai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=letai",
+  "related": [],
+  "detailed": false
+}

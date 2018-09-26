@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klorin aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) bagian klorin dalam senyawa yang tersedia untuk melakukan kerja yang berguna dalam klorinasi air bagi pabrik dan dalam pemucatan pulpa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klorin%20aktif",
+  "related": [],
+  "detailed": false
+}

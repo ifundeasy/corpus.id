@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kosakata;"
+      },
+      {
+        "type": "desc",
+        "text": "kamus yang sederhana;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar istilah dalam suatu bidang disusun menurut abjad dan dilengkapi dengan keterangannya;"
+      },
+      {
+        "type": "desc",
+        "text": "komponen bahasa yang memuat semua informasi tentang makna dan pemakaian kata dalam bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "kekayaan kata yang dimiliki suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikon",
+  "related": [],
+  "detailed": false
+}

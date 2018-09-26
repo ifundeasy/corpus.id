@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rugi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(terjual) kurang dari harga beli atau modalnya; tidak mendapat laba;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang dari modal (karena menjual lebih rendah daripada harga pokok);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mendapat faedah (manfaat); tidak beroleh sesuatu yang berguna;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang kurang baik (tidak menguntungkan); mudarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rugi",
+  "related": [],
+  "detailed": false
+}

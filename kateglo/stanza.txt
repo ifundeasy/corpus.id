@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stanza",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) kumpulan larik sajak yang menjadi satuan struktur sajak, ditentukan oleh jumlah larik, pola matra, atau rima; bait;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stanza",
+  "related": [],
+  "detailed": false
+}

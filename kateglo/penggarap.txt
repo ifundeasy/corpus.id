@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggarap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerja (orang yang menggarap tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggarap",
+  "related": [],
+  "detailed": false
+}

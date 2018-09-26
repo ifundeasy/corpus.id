@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vakum",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampa udara;"
+      },
+      {
+        "type": "desc",
+        "text": "kosong (tidak ada petugasnya, pejabatnya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vakum",
+  "related": [],
+  "detailed": false
+}

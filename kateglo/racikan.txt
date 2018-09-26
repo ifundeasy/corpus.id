@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "racikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil meracik;"
+      },
+      {
+        "type": "desc",
+        "text": "irisan tipis;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil meracik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=racikan",
+  "related": [],
+  "detailed": false
+}

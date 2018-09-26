@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian dengan ginjal dan daerah sekeliling ginjal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renal",
+  "related": [],
+  "detailed": false
+}

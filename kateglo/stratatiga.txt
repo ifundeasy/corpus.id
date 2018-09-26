@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "strata tiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat pendidikan tertinggi di perguruan tinggi selama tiga sampai lima tahun setelah S2;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strata%20tiga",
+  "related": [],
+  "detailed": false
+}

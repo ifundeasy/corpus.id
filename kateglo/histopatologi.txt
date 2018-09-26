@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "histopatologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang patologi yang berkaitan dengan sifat perubahan jaringan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=histopatologi",
+  "related": [],
+  "detailed": false
+}

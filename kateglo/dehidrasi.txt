@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dehidrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "proses membuang molekul air dari hablur atau senyawa atau reaksi kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "kehilangan cairan tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dehidrasi",
+  "related": [],
+  "detailed": false
+}

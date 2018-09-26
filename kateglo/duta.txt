@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "duta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang diutus oleh pemerintah (raja dsb) untuk melakukan tugas khusus, biasanya ke luar negeri; utusan; misi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mewakili suatu negara di negara lain untuk mengurus kepentingan negara yang diwakilinya, membantu dan melindungi warga negaranya yang tinggal di negara itu, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=duta",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rajah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suratan (gambaran, tanda, dsb) yang dipakai sebagai azimat (untuk penolak penyakit dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "garis pada tapak tangan; guratan tangan; retak tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "coreng-coreng (cacahan) pada tubuh yang dibuat dengan barang tajam; tato;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merajah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rajah",
+  "related": [],
+  "detailed": false
+}

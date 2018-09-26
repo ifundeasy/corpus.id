@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi massa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan yang anggotanya adalah orang-orang yang mempunyai profesi yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20massa",
+  "related": [],
+  "detailed": false
+}

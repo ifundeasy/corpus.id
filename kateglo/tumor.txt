@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tumor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pembengkakan jaringan tubuh karena ketidaknormalan kondisi;"
+      },
+      {
+        "type": "desc",
+        "text": "bengkak sebagai akibat dari radang; tumbuh ganda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tumor",
+  "related": [],
+  "detailed": false
+}

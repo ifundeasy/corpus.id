@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superblok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ing)"
+      },
+      {
+        "type": "desc",
+        "text": "deretan beberapa gedung bertingkat dalam suatu kawasan atau area;"
+      },
+      {
+        "type": "desc",
+        "text": "blok hunian atau blok komersial yang sangat besar yang tertutup untuk lalu lintas, tersedia jalan untuk pejalan kaki, jalan masuk, dan jalur hijau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superblok",
+  "related": [],
+  "detailed": false
+}

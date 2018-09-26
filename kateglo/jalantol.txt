@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan tol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan bebas hambatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20tol",
+  "related": [],
+  "detailed": false
+}

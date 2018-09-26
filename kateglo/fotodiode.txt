@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotodiode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) diode semikonduktor yang konduktivitasnya bertambah bila disinari cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotodiode",
+  "related": [],
+  "detailed": false
+}

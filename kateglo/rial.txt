@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "nama mata uang pada zaman dulu;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) uang;"
+      },
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 0,5 tail atau 20 g;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rial",
+  "related": [],
+  "detailed": false
+}

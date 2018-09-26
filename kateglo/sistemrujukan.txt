@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem yang memungkinkan pengalihan tanggung jawab satu kasus dari pusat pelayanan ke pusat pelayanan lain yang berbeda kemampuannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20rujukan",
+  "related": [],
+  "detailed": false
+}

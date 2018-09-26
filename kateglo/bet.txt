@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemukul bola dalam permainan pingpong;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang ditumbuhi oleh belukar yang letaknya dekat tanah yang sedang dikerjakan (di Bali, Lombok);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bet",
+  "related": [],
+  "detailed": false
+}

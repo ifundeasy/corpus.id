@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neologisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata bentukan baru atau makna baru untuk kata lama yang dipakai dalam bahasa yang memberi ciri pribadi atau demi pengembangan kosakata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neologisme",
+  "related": [],
+  "detailed": false
+}

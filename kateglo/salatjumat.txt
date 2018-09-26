@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat Jumat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat berjamaah dua rakaat pada hari Jumat didahului dengan khotbah, hukumnya wajib bagi laki-laki, waktunya sama dengan salat Zuhur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20Jumat",
+  "related": [],
+  "detailed": false
+}

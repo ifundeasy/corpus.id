@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dugaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil dari perbuatan menduga;"
+      },
+      {
+        "type": "desc",
+        "text": "sangkaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dugaan",
+  "related": [],
+  "detailed": false
+}

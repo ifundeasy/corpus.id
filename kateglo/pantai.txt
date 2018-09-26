@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tepi laut; pesisir;"
+      },
+      {
+        "type": "desc",
+        "text": "perbatasan daratan dengan laut atau massa air lainnya dan bagian yang dapat pengaruh dari air tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah pasang surut di pantai antara pasang tertinggi dan surut terendah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "landai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantai",
+  "related": [],
+  "detailed": false
+}

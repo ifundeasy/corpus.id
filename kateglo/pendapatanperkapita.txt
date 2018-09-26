@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan per kapita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pendapatan nasional dibagi jumlah penduduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20per%20kapita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perumahan rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah-rumah yang disediakan bagi golongan masyarakat yang berpenghasilan rendah sampai golongan masyarakat yang berpenghasilan sedang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perumahan%20rakyat",
+  "related": [],
+  "detailed": false
+}

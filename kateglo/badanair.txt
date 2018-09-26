@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) kumpulan air yang besarnya antara lain bergantung pada relief permukaan bumi, kesarangan batuan pembendungnya, curah hujan, suhu, dsb, misal sungai, rawa, danau, laut, dan samudra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20air",
+  "related": [],
+  "detailed": false
+}

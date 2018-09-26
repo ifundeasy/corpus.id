@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semester",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tengah tahun (enam bulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semester",
+  "related": [],
+  "detailed": false
+}

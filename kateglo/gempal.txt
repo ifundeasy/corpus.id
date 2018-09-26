@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gempal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "padat berisi; sintal;"
+      },
+      {
+        "type": "link",
+        "text": "gumpal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempal",
+  "related": [],
+  "detailed": false
+}

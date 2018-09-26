@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uniseks",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dikaitkan dengan jenis kelamin tertentu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang tidak membedakan jenis kelamin tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uniseks",
+  "related": [],
+  "detailed": false
+}

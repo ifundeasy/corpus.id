@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang atau benda yang dibuang karena tidak terpakai lagi dsb; kotoran seperti daun, kertas;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampah",
+  "related": [],
+  "detailed": false
+}

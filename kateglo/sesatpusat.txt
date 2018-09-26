@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sesat pusat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bingung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesat%20pusat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persenyawaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "perihal yang berhubungan dengan bersenyawa; percampuran dua zat dsb yang sudah berpadu benar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggabungan dua kata yang mewujudkan satu kesatuan makna (majemuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persenyawaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "borongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjualan (pembelian, lelang, dsb) secara keseluruhan (tidak satu-satu atau ketengan);"
+      },
+      {
+        "type": "desc",
+        "text": "pekerjaan dsb yang diborongkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=borongan",
+  "related": [],
+  "detailed": false
+}

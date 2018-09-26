@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengawasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilikan dan penjagaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Adm) penilikan dan pengarahan kebijakan jalannya perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengawasan",
+  "related": [],
+  "detailed": false
+}

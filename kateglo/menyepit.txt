@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyepit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjepit dengan sepit;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan alat jepit (tang, pinset, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjepit atau menekan di antara kaki atau lengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyepit",
+  "related": [],
+  "detailed": false
+}

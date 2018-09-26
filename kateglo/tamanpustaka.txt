@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taman pustaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan; bibliotek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman%20pustaka",
+  "related": [],
+  "detailed": false
+}

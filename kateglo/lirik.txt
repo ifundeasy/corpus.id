@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lirik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melirik"
+      },
+      {
+        "type": "link",
+        "text": "melirik"
+      },
+      {
+        "type": "desc",
+        "text": "karya sastra (puisi) yang berisi curahan perasaan pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "susunan kata sebuah nyanyian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lirik",
+  "related": [],
+  "detailed": false
+}

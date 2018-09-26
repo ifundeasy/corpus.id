@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dobel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "rangkap dua;"
+      },
+      {
+        "type": "desc",
+        "text": "lipat dua;"
+      },
+      {
+        "type": "desc",
+        "text": "dua sekaligus;"
+      },
+      {
+        "type": "desc",
+        "text": "kembar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) bermain berpasangan; bermain ganda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dobel",
+  "related": [],
+  "detailed": false
+}

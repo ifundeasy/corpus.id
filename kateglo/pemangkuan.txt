@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemangkuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memangku;"
+      },
+      {
+        "type": "desc",
+        "text": "pengelolaan (negeri, tanah, hutan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemangkuan",
+  "related": [],
+  "detailed": false
+}

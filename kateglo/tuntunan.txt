@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuntunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bimbingan;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk; pedoman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuntunan",
+  "related": [],
+  "detailed": false
+}

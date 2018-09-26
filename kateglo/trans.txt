@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan seseorang terputus hubungannya dengan sekelilingnya;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak sadar (karena kerasukan dsb) sehingga mampu berbuat sesuatu yang tidak masuk akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trans",
+  "related": [],
+  "detailed": false
+}

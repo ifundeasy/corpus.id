@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat ukur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang bergambar tanah pekarangan dan rumah serta ukurannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20ukur",
+  "related": [],
+  "detailed": false
+}

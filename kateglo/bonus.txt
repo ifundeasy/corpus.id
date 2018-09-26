@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bonus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah tambahan di luar gaji atau upah sebagai hadiah atau perangsang; gaji, upah ekstra yang dibayarkan kepada karyawan; gratifikasi; insentif;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman atau artikel tambahan (pada majalah, koran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bonus",
+  "related": [],
+  "detailed": false
+}

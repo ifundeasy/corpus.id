@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran tenis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lapangan tempat bermain tenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20tenis",
+  "related": [],
+  "detailed": false
+}

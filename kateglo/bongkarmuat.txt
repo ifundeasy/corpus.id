@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bongkar muat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan dan memasukkan muatan dari atau ke kapal (kereta, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bongkar%20muat",
+  "related": [],
+  "detailed": false
+}

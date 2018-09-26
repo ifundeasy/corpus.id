@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wilayah kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang menjadi kekuasaan dalam menjalankan tugas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wilayah%20kerja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "linear",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk garis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=linear",
+  "related": [],
+  "detailed": false
+}

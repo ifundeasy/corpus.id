@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nasi liwet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nasi yang ditanak saja (tanpa dikukus);"
+      },
+      {
+        "type": "desc",
+        "text": "nasi yang dimasak (direbus) dengan santan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasi%20liwet",
+  "related": [],
+  "detailed": false
+}

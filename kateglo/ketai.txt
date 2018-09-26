@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketai",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "berketai-ketai"
+      },
+      {
+        "type": "desc",
+        "text": "paling kalah (tentang bermain kartu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketai",
+  "related": [],
+  "detailed": false
+}

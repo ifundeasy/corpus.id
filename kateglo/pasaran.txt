@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah (lingkungan) tempat suatu barang dagangan diperjualbelikan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "resmi di pasar, misal tentang harga;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang baik mutunya (tentang barang dagangan);"
+      },
+      {
+        "type": "desc",
+        "text": "dipakai dalam komunikasi tidak resmi (tentang bahasa yang kurang baik);"
+      },
+      {
+        "type": "desc",
+        "text": "jangka waktu yang lamanya lima hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasaran",
+  "related": [],
+  "detailed": false
+}

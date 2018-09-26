@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka desimal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan desimal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20desimal",
+  "related": [],
+  "detailed": false
+}

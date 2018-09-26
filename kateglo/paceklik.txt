@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paceklik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musim kekurangan bahan makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "masa sepi (tentang perdagangan, kegiatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "masa sulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paceklik",
+  "related": [],
+  "detailed": false
+}

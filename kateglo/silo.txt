@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan hasil pertanian (biji-bijian) dalam jumlah besar, terbuat dari papan kayu atau logam (seperti besi pelat, seng) dengan bentuk dan konstruksi khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan di bawah tanah tempat peluru kendali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanda",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada tandanya; ada cirinya; ada mereknya dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah (bercincin) kawin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanda",
+  "related": [],
+  "detailed": false
+}

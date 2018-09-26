@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode pelatihan yang meragakan sesuatu dalam bentuk tiruan yang mirip dengan keadaan yang sesungguhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "penggambaran suatu sistem atau proses dengan peragaan berupa model statistik atau pemeranan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simulasi",
+  "related": [],
+  "detailed": false
+}

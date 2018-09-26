@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karavan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta bertutup yang berfungsi sebagai tempat tinggal (bagi pengembara atau orang yang berlibur);"
+      },
+      {
+        "type": "desc",
+        "text": "rombongan orang (haji, peziarah, pedagang) yang melakukan perjalanan bersama demi keselamatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karavan",
+  "related": [],
+  "detailed": false
+}

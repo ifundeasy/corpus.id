@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akreditasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengakuan terhadap lembaga pendidikan yang diberikan oleh badan yang berwenang setelah dinilai bahwa lembaga itu memenuhi syarat kebakuan atau kriteria tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "pengakuan oleh suatu jawatan tentang adanya wewenang seseorang untuk melaksanakan atau menjalankan tugasnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akreditasi",
+  "related": [],
+  "detailed": false
+}

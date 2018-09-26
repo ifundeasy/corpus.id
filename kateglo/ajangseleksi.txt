@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ajang seleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk menyeleksi (pemain dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ajang%20seleksi",
+  "related": [],
+  "detailed": false
+}

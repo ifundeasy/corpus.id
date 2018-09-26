@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) bagian kromosom yang menjadi lokasi sifat-sifat keturunan; faktor keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gen",
+  "related": [],
+  "detailed": false
+}

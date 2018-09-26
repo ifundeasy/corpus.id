@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legislasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuatan undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legislasi",
+  "related": [],
+  "detailed": false
+}

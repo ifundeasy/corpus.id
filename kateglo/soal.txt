@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "soal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang menuntut jawaban dsb (pertanyaan dalam hitungan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang harus dipecahkan; masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "hal; perkara; urusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=soal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anyang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan (kerang mentah, daging, dsb) dengan rempah-rempah dan garam atau buah-buahan mentah dengan lada dan garam;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menganyang hati"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anyang",
+  "related": [],
+  "detailed": false
+}

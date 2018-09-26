@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "motor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin yang menjadi tenaga penggerak;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sepeda motor;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang memegang peranan penting atas jalannya organisasi dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=motor",
+  "related": [],
+  "detailed": false
+}

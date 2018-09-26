@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persekot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang muka; (uang) panjar;"
+      },
+      {
+        "type": "desc",
+        "text": "pembayaran tunai di muka atas penyerahan barang atau jasa yang harus dipertanggungjawabkan penerima pada suatu tanggal kemudian;"
+      },
+      {
+        "type": "desc",
+        "text": "pembayaran atas suatu kontrak sebelum berakhir;"
+      },
+      {
+        "type": "desc",
+        "text": "pembayaran upah, gaji, atau komisi sebelum waktunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persekot",
+  "related": [],
+  "detailed": false
+}

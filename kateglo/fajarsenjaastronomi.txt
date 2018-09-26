@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fajar senja astronomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "fajar pada waktu pagi hari yang dimulai sejak pusat bulatan matahari berada pada posisi 18o di bawah ufuk sampai pada saat matahari terbit;"
+      },
+      {
+        "type": "desc",
+        "text": "fajar pada waktu senja hari yang dimulai sejak matahari terbenam sampai pusat bulatan matahari berada pada 18o di bawah ufuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fajar%20senja%20astronomi",
+  "related": [],
+  "detailed": false
+}

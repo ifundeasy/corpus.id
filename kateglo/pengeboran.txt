@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeboran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengebor;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat mengebor tanah (untuk mendapatkan sumber air, gas, atau minyak, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeboran",
+  "related": [],
+  "detailed": false
+}

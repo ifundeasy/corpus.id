@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana asuransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dana yang diciptakan untuk mengganti kerugian seseorang yang menanggung risiko sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20asuransi",
+  "related": [],
+  "detailed": false
+}

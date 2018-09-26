@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diskonto harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) pengurangan harga berdasarkan volume barang yang dibeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskonto%20harga",
+  "related": [],
+  "detailed": false
+}

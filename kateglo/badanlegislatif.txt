@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan legislatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (dewan) yang berkuasa membuat undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20legislatif",
+  "related": [],
+  "detailed": false
+}

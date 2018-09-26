@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal penolong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal dengan perlengkapan khusus untuk menarik (menolong) kapal kandas atau kapal yang berada dalam keadaan darurat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20penolong",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lalu lintas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(berjalan) bolak-balik; hilir mudik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal perjalanan di jalan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perhubungan antara sebuah tempat dengan tempat yang lain (dengan jalan pelayaran, kereta api, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lalu%20lintas",
+  "related": [],
+  "detailed": false
+}

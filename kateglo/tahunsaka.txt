@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun Saka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun (kalender) menurut perhitungan tahun Jawa yang kalau dipindahkan ke tahun Masehi ditambah 78 tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20Saka",
+  "related": [],
+  "detailed": false
+}

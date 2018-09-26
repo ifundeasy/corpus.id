@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lasat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "payah (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "semakin menjadi-jadi (tentang tangis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lasat",
+  "related": [],
+  "detailed": false
+}

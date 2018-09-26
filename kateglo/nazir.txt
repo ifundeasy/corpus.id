@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nazir",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "nadir"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyampai berita duka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nazir",
+  "related": [],
+  "detailed": false
+}

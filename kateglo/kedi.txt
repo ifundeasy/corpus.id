@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laki-laki yang bertingkah laku seperti perempuan; perempuan yang bertingkah laku seperti laki-laki; banci;"
+      },
+      {
+        "type": "desc",
+        "text": "perempuan yang tidak pernah datang bulan (haid, menstruasi);"
+      },
+      {
+        "type": "desc",
+        "text": "lemah syahwat; impoten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedi",
+  "related": [],
+  "detailed": false
+}

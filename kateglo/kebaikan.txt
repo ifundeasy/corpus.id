@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebaikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat baik; perbuatan baik;"
+      },
+      {
+        "type": "desc",
+        "text": "kegunaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat manusia yang dianggap baik menurut sistem norma dan pandangan umum yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebaikan",
+  "related": [],
+  "detailed": false
+}

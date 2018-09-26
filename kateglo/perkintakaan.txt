@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkintakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arsip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkintakaan",
+  "related": [],
+  "detailed": false
+}

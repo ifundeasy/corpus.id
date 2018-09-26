@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suhu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran kuantitatif terhadap temperatur; panas dan dingin, diukur dengan termometer;"
+      },
+      {
+        "type": "desc",
+        "text": "guru dalam dunia persilatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu",
+  "related": [],
+  "detailed": false
+}

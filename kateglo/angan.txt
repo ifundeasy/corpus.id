@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pikiran; ingatan;"
+      },
+      {
+        "type": "desc",
+        "text": "maksud; niat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angan",
+  "related": [],
+  "detailed": false
+}

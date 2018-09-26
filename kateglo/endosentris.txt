@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endosentris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "dikatakan tentang ungkapan yang maknanya berasal dari makna-makna konstituennya (dalam semantik);"
+      },
+      {
+        "type": "desc",
+        "text": "berfungsi secara sintaktis dengan cara yang sama dengan pemadunya yang mana saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endosentris",
+  "related": [],
+  "detailed": false
+}

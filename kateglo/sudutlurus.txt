@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut lurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) sudut dengan kedua sisinya terletak pada garis lurus yang sama, tetapi terentang ke arah yang berlawanan dari titik sudutnya; sudut yang besarnya 180o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20lurus",
+  "related": [],
+  "detailed": false
+}

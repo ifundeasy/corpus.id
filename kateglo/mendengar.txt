@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendengar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat menangkap suara (bunyi) dengan telinga; tidak tuli;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat kabar;"
+      },
+      {
+        "type": "desc",
+        "text": "telah mendengarkan (dalam resolusi, keputusan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menurut; mengindahkan; mendengarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendengar",
+  "related": [],
+  "detailed": false
+}

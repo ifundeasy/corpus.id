@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ijmal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ringkasan; ikhtisar;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(secara) umum, tidak terinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijmal",
+  "related": [],
+  "detailed": false
+}

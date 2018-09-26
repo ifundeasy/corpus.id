@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang telah dibuat; hasil pekerjaan; sepatu ini - luar negeri;"
+      },
+      {
+        "type": "desc",
+        "text": "cara membuat;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dikerjakan; pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dibuat dari bahan atau bahan kimia menjadi bahan baru, bukan asli dari alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buatan",
+  "related": [],
+  "detailed": false
+}

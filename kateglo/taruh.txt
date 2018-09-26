@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(uang) taruhan;"
+      },
+      {
+        "type": "desc",
+        "text": "cagar; tanggungan (utang dsb); sandera;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menaruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taruh",
+  "related": [],
+  "detailed": false
+}

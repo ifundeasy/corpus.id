@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verbal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara lisan (bukan tertulis);"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat khayalan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bersifat verba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verbal",
+  "related": [],
+  "detailed": false
+}

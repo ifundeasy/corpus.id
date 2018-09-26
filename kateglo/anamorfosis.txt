@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anamorfosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan bentuk evolusi bertahap;"
+      },
+      {
+        "type": "desc",
+        "text": "distorsi tumbuhan yang tidak normal;"
+      },
+      {
+        "type": "desc",
+        "text": "pembentukan bayangan yang terdistorsi, tetapi dari sudut pandangan tertentu bayangan itu akan tampak normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anamorfosis",
+  "related": [],
+  "detailed": false
+}

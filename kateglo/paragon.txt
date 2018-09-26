@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paragon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "intan dengan bobot lebih dari 100 karat;"
+      },
+      {
+        "type": "desc",
+        "text": "orang atau benda dengan kualitas sangat tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paragon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lingkungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah (kawasan dsb) yang termasuk di dalamnya;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian wilayah dalam kelurahan yang merupakan lingkungan kerja pelaksanaan pemerintahan desa;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan; kalangan;"
+      },
+      {
+        "type": "desc",
+        "text": "semua yang mempengaruhi pertumbuhan manusia atau hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lingkungan",
+  "related": [],
+  "detailed": false
+}

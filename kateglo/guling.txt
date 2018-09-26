@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "guling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantal yang bentuknya bulat panjang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berguling"
+      },
+      {
+        "type": "desc",
+        "text": "masakan (berupa kambing dsb) yang dipanggang sepenuhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gerak benda pada suatu permukaan secara translasi dan rotasi sekaligus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guling",
+  "related": [],
+  "detailed": false
+}

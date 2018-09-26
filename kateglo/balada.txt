@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) sajak sederhana yang mengisahkan cerita rakyat yang mengharukan, kadang-kadang dinyanyikan, kadang-kadang berupa dialog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balada",
+  "related": [],
+  "detailed": false
+}

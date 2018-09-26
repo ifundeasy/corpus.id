@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perserikatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan; ikatan; perhimpunan;"
+      },
+      {
+        "type": "desc",
+        "text": "perseroan; kongsi;"
+      },
+      {
+        "type": "desc",
+        "text": "persekutuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perserikatan",
+  "related": [],
+  "detailed": false
+}

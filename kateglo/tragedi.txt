@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tragedi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sandiwara sedih (pelaku utamanya menderita kesengsaraan lahir dan batin yang luar biasa atau sampai meninggal);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) peristiwa yang menyedihkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tragedi",
+  "related": [],
+  "detailed": false
+}

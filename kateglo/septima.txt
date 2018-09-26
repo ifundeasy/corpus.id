@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "septima",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang terdiri atas tujuh baris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=septima",
+  "related": [],
+  "detailed": false
+}

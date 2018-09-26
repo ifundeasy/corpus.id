@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nomenklatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penamaan yang dipakai dalam bidang atau ilmu tertentu; tata nama;"
+      },
+      {
+        "type": "desc",
+        "text": "pembentukan (sering kali atas dasar kesepakatan internasional) tata susunan dan aturan pemberian nama objek studi bagi cabang ilmu pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomenklatur",
+  "related": [],
+  "detailed": false
+}

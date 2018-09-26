@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lempung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ringan (lunak) dan mudah patah (tentang kayu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lemah sekali; tidak berguna sedikit pun;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah pekat; tanah liat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) partikel tanah yang garis tengahnya 0,005 mm;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) batuan berwarna, terutama terdiri atas butir halus silikat alumina berair sebagai hasil pelapukan batuan felspar dan batuan silikat alumina lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lempung",
+  "related": [],
+  "detailed": false
+}

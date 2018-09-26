@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kawin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat nikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kawin",
+  "related": [],
+  "detailed": false
+}

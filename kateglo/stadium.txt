@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stadium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkatan dalam daur hidup atau perkembangan suatu proses;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan masa (penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stadium",
+  "related": [],
+  "detailed": false
+}

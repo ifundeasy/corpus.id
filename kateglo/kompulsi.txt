@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompulsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dorongan;"
+      },
+      {
+        "type": "desc",
+        "text": "paksaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompulsi",
+  "related": [],
+  "detailed": false
+}

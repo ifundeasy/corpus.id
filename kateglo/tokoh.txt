@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tokoh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rupa (wujud dan keadaan); macam atau jenis;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk badan; perawakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang terkemuka dan kenamaan (dalam bidang politik, kebudayaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) pemegang peran (peran utama) dalam roman atau drama;"
+      },
+      {
+        "type": "desc",
+        "text": "tipu; kecoh; kena -- , tertipu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tokoh",
+  "related": [],
+  "detailed": false
+}

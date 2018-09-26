@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "azimut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "besarnya sudut yang diapit oleh garis yang ditentukan dengan garis Utara-Selatan (dihitung menurut perputaran jarum jam mulai dari titik utara dengan limit 0o—360o);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=azimut",
+  "related": [],
+  "detailed": false
+}

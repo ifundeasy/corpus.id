@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jarum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat jahit yang terbuat dari logam, bentuknya bulat panjang, kecil, berujung runcing (ada yang bertakuk, berkait, atau melengkung pada bagian ujungnya), terdapat lubang tembus pada bagian pangkal tempat memasukkan benang;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang panjang (untuk mencocok, menyuntik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang berfungsi sebagai penunjuk pada arloji (kompas dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarum",
+  "related": [],
+  "detailed": false
+}

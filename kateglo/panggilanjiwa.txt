@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panggilan jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panggilan%20jiwa",
+  "related": [],
+  "detailed": false
+}

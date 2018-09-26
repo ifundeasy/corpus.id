@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "curah hujan efektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka yang menunjukkan besar curah hujan (dalam milimeter) setelah dikurangi evaporasi untuk tiap minggu atau bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curah%20hujan%20efektif",
+  "related": [],
+  "detailed": false
+}

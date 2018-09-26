@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asumsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dugaan yang diterima sebagai dasar;"
+      },
+      {
+        "type": "desc",
+        "text": "landasan berpikir karena dianggap benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asumsi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 0,01 m (disingkan cm);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentimeter",
+  "related": [],
+  "detailed": false
+}

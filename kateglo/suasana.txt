@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suasana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hawa; udara;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan sekitar sesuatu atau dalam lingkungan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan suatu peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suasana",
+  "related": [],
+  "detailed": false
+}

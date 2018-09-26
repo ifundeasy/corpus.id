@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiga",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 3 (Arab) atau III (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-3 sesudah ke-2 dan sebelum ke-4;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 2 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiga",
+  "related": [],
+  "detailed": false
+}

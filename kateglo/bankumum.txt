@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang dalam pengumpulan dananya mengutamakan penerimaan simpanan dalam bentuk giro dan deposito serta dalam usahanya mengutamakan pemberian kredit jangka pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20umum",
+  "related": [],
+  "detailed": false
+}

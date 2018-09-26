@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transmutasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggunaan kata dalam kalimat dengan kategori yang berbeda tanpa mengubah bentuknya, seperti kata untung dalam untung dia cepat datang dan dia bekerja tanpa memikirkan untung rugi;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) proses nuklir yang mengubah suatu inti menjadi inti unsur lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transmutasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis silang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang saling memotong satu dengan lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20silang",
+  "related": [],
+  "detailed": false
+}

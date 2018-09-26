@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intrakurikuler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan siswa di seko-lah atau mahasiswa di kampus yang sesuai atau sejalan dengan komponen kurikulum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intrakurikuler",
+  "related": [],
+  "detailed": false
+}

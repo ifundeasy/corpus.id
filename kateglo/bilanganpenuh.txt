@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan penuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan bulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20penuh",
+  "related": [],
+  "detailed": false
+}

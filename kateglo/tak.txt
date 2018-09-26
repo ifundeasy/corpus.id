@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tak",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi tempurung diadu;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis mesin (motor bakar) dilihat dari jumlah perputaran untuk setiap perubahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tak",
+  "related": [],
+  "detailed": false
+}

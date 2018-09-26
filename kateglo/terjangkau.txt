@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terjangkau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tercapai; terambil;"
+      },
+      {
+        "type": "desc",
+        "text": "terbeli; terbayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terjangkau",
+  "related": [],
+  "detailed": false
+}

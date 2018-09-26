@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ranting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian cabang yang kecil-kecil; cabang dari cabang;"
+      },
+      {
+        "type": "desc",
+        "text": "anak cabang dari perkumpulan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang sekunder pada pembuluh darah atau pembuluh saraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ranting",
+  "related": [],
+  "detailed": false
+}

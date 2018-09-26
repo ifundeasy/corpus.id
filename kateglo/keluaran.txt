@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dikeluarkan (dihasilkan, diterbitkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang berasal dari;"
+      },
+      {
+        "type": "desc",
+        "text": "yang telah keluar (tamat, berhenti) dari (sekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang ada di luar (yang tidak turut campur dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) orang di luar kalangan istana;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) hasil kegiatan produksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) laju produksi barang yang dihasilkan pabrik, mesin, atau satuan produksi yang lain dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluaran",
+  "related": [],
+  "detailed": false
+}

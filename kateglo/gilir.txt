@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gilir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bergilir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gilir",
+  "related": [],
+  "detailed": false
+}

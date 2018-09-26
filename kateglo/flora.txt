@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "flora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keseluruhan kehidupan jenis tumbuh-tumbuhan suatu habitat, daerah, atau strata geologi tertentu; alam tumbuh-tumbuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "karya atau terbitan yang memuat daftar dan penelaahan jenis tumbuh-tumbuhan suatu habitat, daerah, atau strata geologi tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flora",
+  "related": [],
+  "detailed": false
+}

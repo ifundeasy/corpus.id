@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menguraikan persenyawaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memisahkan unsur-unsur dalam persenyawaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menguraikan%20persenyawaan",
+  "related": [],
+  "detailed": false
+}

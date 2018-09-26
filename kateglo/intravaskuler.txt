@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intravaskuler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) dalam pembuluh darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intravaskuler",
+  "related": [],
+  "detailed": false
+}

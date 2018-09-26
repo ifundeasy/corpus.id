@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lago",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suami dari saudara perempuan;"
+      },
+      {
+        "type": "desc",
+        "text": "suami dari sepupu istri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lago",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelacak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (anjing dsb) yang melacak (mencari jejak);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) dokumen yang dikirim ke pelabuhan yang disinggahi kapal untuk mencari muatan yang tertinggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelacak",
+  "related": [],
+  "detailed": false
+}

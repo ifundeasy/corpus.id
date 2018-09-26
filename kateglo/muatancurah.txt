@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan curah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) muatan homogen yang diangkut dalam bentuk curah di dalam ruang muatan dan dalam keadaan tidak terbungkus dalam kemasan seperti kotak, peti, dan karung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20curah",
+  "related": [],
+  "detailed": false
+}

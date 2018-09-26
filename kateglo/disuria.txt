@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disuria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) rasa nyeri saat berkemih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disuria",
+  "related": [],
+  "detailed": false
+}

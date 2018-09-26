@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dasar; asas; hakikat;"
+      },
+      {
+        "type": "desc",
+        "text": "dasar bukti (keterangan) yang dipakai untuk menguatkan pendapat (sangkalan, perkiraan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang menjadi pendorong (untuk berbuat);"
+      },
+      {
+        "type": "desc",
+        "text": "yang membenarkan perlakuan tindak pidana dan menghilangkan kesalahan terdakwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alasan",
+  "related": [],
+  "detailed": false
+}

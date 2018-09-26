@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlantas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "termasuk (terlangsung) ke dalam dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlantas",
+  "related": [],
+  "detailed": false
+}

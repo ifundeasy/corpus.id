@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jenis kelamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat (keadaan) jantan atau betina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenis%20kelamin",
+  "related": [],
+  "detailed": false
+}

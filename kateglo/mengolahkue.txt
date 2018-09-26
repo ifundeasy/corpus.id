@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengolah kue",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "memasak kue (membuat kue);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengolah%20kue",
+  "related": [],
+  "detailed": false
+}

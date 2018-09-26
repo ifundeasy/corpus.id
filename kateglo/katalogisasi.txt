@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katalogisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkatalogan; pendaftaran buku, lukisan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalogisasi",
+  "related": [],
+  "detailed": false
+}

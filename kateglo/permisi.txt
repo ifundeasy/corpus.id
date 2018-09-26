@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "permisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "izin; perkenan;"
+      },
+      {
+        "type": "desc",
+        "text": "(minta) maaf;"
+      },
+      {
+        "type": "desc",
+        "text": "minta izin;"
+      },
+      {
+        "type": "desc",
+        "text": "minta (mohon) diri;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak masuk bekerja (dengan izin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permisi",
+  "related": [],
+  "detailed": false
+}

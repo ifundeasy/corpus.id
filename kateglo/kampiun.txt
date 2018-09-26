@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kampiun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemenang terakhir dalam perlombaan atau pertandingan; juara;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) pandai sekali; lihai; baik sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kampiun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik ongkos",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta uang ongkos dari penumpang;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak makan (memerlukan) ongkos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20ongkos",
+  "related": [],
+  "detailed": false
+}

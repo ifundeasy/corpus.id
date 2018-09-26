@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran sisa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) banyaknya air yang mengalir ke dalam suatu lembah atau daerah tertentu, dikurangi jumlah yang mengalir dari lembah atau daerah tertentu itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20sisa",
+  "related": [],
+  "detailed": false
+}

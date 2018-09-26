@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "para-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "berlawanan dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sama atau tidak menyerupai;"
+      },
+      {
+        "type": "desc",
+        "text": "di sebelah; di samping; dekat dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "di seberang; di atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=para-",
+  "related": [],
+  "detailed": false
+}

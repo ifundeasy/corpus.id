@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bekas atau kesan dari sesuatu yang diucapkan; bekas yang dituliskan (seperti garis-garis atau gambar berwarna pada kain, garis-garis berwarna pada kain tenun, huruf, tanda, yang diterakan pada kopor, cetakan stensil);"
+      },
+      {
+        "type": "desc",
+        "text": "sulam (suji) dengan warna yang lain (dengan benang emas);"
+      },
+      {
+        "type": "desc",
+        "text": "alur-alur bunyi (suara) pada piringan hitam;"
+      },
+      {
+        "type": "desc",
+        "text": "alur-alur (magnetik) pada piringan (atau pita kaset) yang dapat menghasilkan bunyi dan/atau gambar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekam",
+  "related": [],
+  "detailed": false
+}

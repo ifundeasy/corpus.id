@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usia sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usia yang dianggap cocok bagi anak secara fisik dan mental untuk masuk sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usia%20sekolah",
+  "related": [],
+  "detailed": false
+}

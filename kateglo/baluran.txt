@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baluran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat (minyak dsb) yang dibalurkan (dioleskan, dilumurkan);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil membalur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baluran",
+  "related": [],
+  "detailed": false
+}

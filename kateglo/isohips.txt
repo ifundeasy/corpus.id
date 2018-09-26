@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isohips",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis pada peta yang menghubungkan tempat yang sama tinggi di atas permukaan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isohips",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bobot atom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) perbandingan massa atom unsur terhadap massa atom isotop karbon -12 yang diberi harga 12 (eksek);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobot%20atom",
+  "related": [],
+  "detailed": false
+}

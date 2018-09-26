@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabaret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan hiburan berupa nyanyian, tarian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (kafetaria, restoran) yang menjual minuman, seperti anggur, minuman keras, dan dihibur oleh penyanyi dan penari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabaret",
+  "related": [],
+  "detailed": false
+}

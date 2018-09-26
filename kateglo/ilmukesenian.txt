@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu kesenian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai seluk-beluk seni secara umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20kesenian",
+  "related": [],
+  "detailed": false
+}

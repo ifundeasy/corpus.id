@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaran pagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan pagi (surat kabar yang terbit pada pagi hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaran%20pagi",
+  "related": [],
+  "detailed": false
+}

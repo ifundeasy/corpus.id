@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang pinjaman dengan bunga yang tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang diperoleh dengan mudah atau dengan jalan yang tidak sah;"
+      },
+      {
+        "type": "desc",
+        "text": "cak uang yang banyak tersedia dalam peredaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20panas",
+  "related": [],
+  "detailed": false
+}

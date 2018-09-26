@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinred",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan darah (tentang orang dalam kelompok kekerabatan yang batas-batasnya kabur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinred",
+  "related": [],
+  "detailed": false
+}

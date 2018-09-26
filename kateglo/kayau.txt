@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kayau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengayau"
+      },
+      {
+        "type": "link",
+        "text": "berkayau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kayau",
+  "related": [],
+  "detailed": false
+}

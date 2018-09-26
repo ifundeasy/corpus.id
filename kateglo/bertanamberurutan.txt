@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanam berurutan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "penanaman tanaman segera setelah tanaman terdahulu dipanen pada sebidang tanah yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanam%20berurutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asal usul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal keturunan; silsilah; susur galur;"
+      },
+      {
+        "type": "desc",
+        "text": "cerita (secara urut dari awal sampai terjadinya suatu peristiwa); riwayat;"
+      },
+      {
+        "type": "desc",
+        "text": "yang menjadi sebab-sebabnya (tentang suatu peristiwa atau kejadian); sebab mulanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asal%20usul",
+  "related": [],
+  "detailed": false
+}

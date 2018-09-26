@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergambar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dihiasi dengan gambar; ada gambarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "berpotret (diambil gambarnya dengan alat potret);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergambar",
+  "related": [],
+  "detailed": false
+}

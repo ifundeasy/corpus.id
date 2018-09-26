@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus pusat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang berada di pusat organisasi; pengurus besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20pusat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan yang dapat ditentukan antara unsur sekelompok kata dalam suatu medan makna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20leksikal",
+  "related": [],
+  "detailed": false
+}

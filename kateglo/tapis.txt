@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dibuat dari kain dsb untuk memisahkan benda cair dari benda padat pencemar atau endapan untuk memisahkan benda padat yang berbeda ukurannya; penyaring;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gesit; tangkas (dalam bersilat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kain tenunan bersulamkan benang emas untuk upacara adat di Lampung, biasanya dipakai oleh wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapis",
+  "related": [],
+  "detailed": false
+}

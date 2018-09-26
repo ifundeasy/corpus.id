@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "latihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil berlatih;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pelatihan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pendidikan untuk memperoleh kemahiran atau kecakapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berlatih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latihan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vegetaris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan tidak makan daging, tetapi hanya makan sayuran atau hasil tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vegetaris",
+  "related": [],
+  "detailed": false
+}

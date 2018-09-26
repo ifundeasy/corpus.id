@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dogma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok ajaran (tentang kepercayaan dsb) yang harus diterima sebagai hal yang benar dan baik, tidak boleh dibantah dan diragukan;"
+      },
+      {
+        "type": "desc",
+        "text": "keyakinan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dogma",
+  "related": [],
+  "detailed": false
+}

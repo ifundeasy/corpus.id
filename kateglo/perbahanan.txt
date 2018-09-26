@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal penyiapan bahan rapat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbahanan",
+  "related": [],
+  "detailed": false
+}

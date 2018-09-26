@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mejan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "maesan"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit berak berdarah dan bercampur lendir; disentri;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat meletus atau meledak (tentang senjata, petasan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mejan",
+  "related": [],
+  "detailed": false
+}

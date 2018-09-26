@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) bilangan yang menunjukkan banyaknya bayi lahir dari tiap seribu penduduk dalam jangka satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20kelahiran",
+  "related": [],
+  "detailed": false
+}

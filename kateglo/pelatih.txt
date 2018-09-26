@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelatih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melatih (olahraga dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelatih",
+  "related": [],
+  "detailed": false
+}

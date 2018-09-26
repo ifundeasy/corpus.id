@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "overpopulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah penduduk yang melebihi ukuran normal dan yang tidak sesuai dengan luas daerah; kelebihan penduduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=overpopulasi",
+  "related": [],
+  "detailed": false
+}

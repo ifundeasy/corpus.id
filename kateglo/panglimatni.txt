@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panglima TNI",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemimpin angkatan bersenjata, meliputi angkatan darat, angkatan laut, dan angkatan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panglima%20TNI",
+  "related": [],
+  "detailed": false
+}

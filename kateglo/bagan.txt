@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "pangkalan;"
+      },
+      {
+        "type": "desc",
+        "text": "kerangka rumah yang baru didirikan seperti tiang, rusuk, kuda-kuda, bubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "tiang dan kayu palang pada para-para penjemur ikan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar rancangan; skema;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) alat peraga grafik untuk menyajikan data agar mempermudah penafsiran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) gambaran secara analisis dan statistik tentang proses yang terjadi dalam alam, teknologi, dan masyarakat manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan",
+  "related": [],
+  "detailed": false
+}

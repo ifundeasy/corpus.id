@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi embusan angin bertiup;"
+      },
+      {
+        "type": "link",
+        "text": "dabus"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat atau tidak kena (tentang jala ikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debus",
+  "related": [],
+  "detailed": false
+}

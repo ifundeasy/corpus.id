@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kupil",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengupil"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kupil",
+  "related": [],
+  "detailed": false
+}

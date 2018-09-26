@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita khas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang berisi masalah khusus, misal perkosaan atau pelacuran yang disajikan dengan cara tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20khas",
+  "related": [],
+  "detailed": false
+}

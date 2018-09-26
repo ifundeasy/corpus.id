@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subjektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai atau menurut pandangan (perasaan) sendiri, tidak langsung mengenai pokok atau halnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subjektif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan pewarna (berupa barang cair, cairan yang kental, atau tepung);"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) bahan cair kental yang dibuat dari bahan pigmen dan zat pengikat, dapat diberi zat pewarna (untuk mewarnai suatu permukaan kayu, logam yang berfungsi sebagai lapisan pelindung atau dekorasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cat",
+  "related": [],
+  "detailed": false
+}

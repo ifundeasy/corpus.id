@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "didikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mendidik;"
+      },
+      {
+        "type": "desc",
+        "text": "anak atau hewan yang dididik;"
+      },
+      {
+        "type": "desc",
+        "text": "cara mendidik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=didikan",
+  "related": [],
+  "detailed": false
+}

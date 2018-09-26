@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsumtif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat konsumsi (hanya memakai, tidak menghasilkan sendiri);"
+      },
+      {
+        "type": "desc",
+        "text": "bergantung pada hasil produksi pihak lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumtif",
+  "related": [],
+  "detailed": false
+}

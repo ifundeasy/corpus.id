@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telepon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat dengan listrik dan kawat, untuk bercakap-cakap antara dua orang yang berjauhan tempatnya; pesawat telepon;"
+      },
+      {
+        "type": "desc",
+        "text": "percakapan yang disampaikan dengan pesawat telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon",
+  "related": [],
+  "detailed": false
+}

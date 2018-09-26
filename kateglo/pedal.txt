@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedal",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "empedal"
+      },
+      {
+        "type": "link",
+        "text": "empedal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedal",
+  "related": [],
+  "detailed": false
+}

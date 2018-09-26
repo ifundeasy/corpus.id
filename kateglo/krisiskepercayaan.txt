@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "krisis kepercayaan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hilangnya kepercayaan masyarakat pada suatu hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krisis%20kepercayaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belongsong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampul pembungkus (dari daun, kain, timah, dsb); kelongsong;"
+      },
+      {
+        "type": "desc",
+        "text": "kain tenun, terdiri atas sebagian dari sutra dan sebagian lagi dari kapas, buatan Palembang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belongsong",
+  "related": [],
+  "detailed": false
+}

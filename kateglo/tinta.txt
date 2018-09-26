@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tinta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang cair yang berwarna (hitam, merah, dsb) untuk menulis; dawat; mangsi;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan berwarna yang mengandung lemak yang dioleskan pada gambar cetak untuk mengalihkan gambar cetak itu pada kertas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinta",
+  "related": [],
+  "detailed": false
+}

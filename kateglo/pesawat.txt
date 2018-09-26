@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pesawat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat perkakas; mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "kapal terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "tali (rotan, kulit, dsb) untuk menjalankan jentera, roda, perangkap, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat",
+  "related": [],
+  "detailed": false
+}

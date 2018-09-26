@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian dsb yang dibuat secara massal yang dijual dalam keadaan jadi, tidak diukur menurut pesanan, tetapi menurut ukuran yang sudah ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfeksi",
+  "related": [],
+  "detailed": false
+}

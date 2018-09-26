@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warga negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk sebuah negara atau bangsa berdasarkan keturunan, tempat kelahiran, dsb yang mempunyai kewajiban dan hak penuh sebagai seorang warga dari negara itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warga%20negara",
+  "related": [],
+  "detailed": false
+}

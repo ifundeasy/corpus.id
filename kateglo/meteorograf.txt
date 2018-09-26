@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meteorograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang terdiri atas beberapa alat otomatis untuk merekam unsur meteorologi yang disatukan sehingga dapat merekam beberapa unsur meteorologi sekali-gus dalam waktu dan pias yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorograf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antitank",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat dapat melumpuhkan tank dalam peperangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antitank",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ventilasi alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perputaran udara (misal tambang bawah tanah) sebagai akibat adanya perbedaan suhu pada dua titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilasi%20alam",
+  "related": [],
+  "detailed": false
+}

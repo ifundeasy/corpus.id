@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "guram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suram; muram; tidak bercahaya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kutu pada ayam yang sedang mengeram dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kecil dan tidak bermutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guram",
+  "related": [],
+  "detailed": false
+}

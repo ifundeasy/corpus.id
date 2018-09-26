@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "para",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata penyerta yang menyatakan, pengacuan ke kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "karet; getah (perca);"
+      },
+      {
+        "type": "link",
+        "text": "para-para"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) parasut;"
+      },
+      {
+        "type": "desc",
+        "text": "prajurit dalam kesatuan angkatan udara;"
+      },
+      {
+        "type": "desc",
+        "text": "kesatuan angkatan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=para",
+  "related": [],
+  "detailed": false
+}

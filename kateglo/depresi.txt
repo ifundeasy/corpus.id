@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "depresi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan perniagaan yang sukar dan lesu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) gangguan jiwa pada seseorang yang ditandai dengan perasaan yang merosot (seperti muram, sedih, perasaan tertekan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) daerah merosot atau tenggelam akibat terbentuknya antiklin dan sinklin pada waktu yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Met) daerah yang bertekanan rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depresi",
+  "related": [],
+  "detailed": false
+}

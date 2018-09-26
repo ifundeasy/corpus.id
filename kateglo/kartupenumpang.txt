@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu penumpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang diberikan kepada calon penumpang yang melaporkan diri, untuk memasuki ruang pesawat karena pada kartu itu tercantum nomor kursi yang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20penumpang",
+  "related": [],
+  "detailed": false
+}

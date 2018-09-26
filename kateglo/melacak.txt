@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melacak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "banyak terdapat di mana-mana (tentang barang dagangan dsb); banyak sekali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari atau menuruti jejak; memeriksa dengan teliti; menyelidiki; mengusut;"
+      },
+      {
+        "type": "desc",
+        "text": "melincir (tidak menyangkut, tentang sauh dsb); larat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melacak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fertil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) subur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fertil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melilit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membelit;"
+      },
+      {
+        "type": "desc",
+        "text": "membalut; menyebat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa mulas (tentang perut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melilit",
+  "related": [],
+  "detailed": false
+}

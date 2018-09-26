@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lentang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melentang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi keras seperti bunyi kaleng dipukul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lentang",
+  "related": [],
+  "detailed": false
+}

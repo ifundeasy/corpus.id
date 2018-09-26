@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin pembangkit listrik yang menggunakan bahan bakar solar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genset",
+  "related": [],
+  "detailed": false
+}

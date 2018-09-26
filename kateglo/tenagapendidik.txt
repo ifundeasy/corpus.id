@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga pendidik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga kependidikan yang bertugas sebagai pembimbing, pengajar, dan/atau pelatih peserta didik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20pendidik",
+  "related": [],
+  "detailed": false
+}

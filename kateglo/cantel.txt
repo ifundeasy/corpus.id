@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cantel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sorgum;"
+      },
+      {
+        "type": "link",
+        "text": "mencantelkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cantel",
+  "related": [],
+  "detailed": false
+}

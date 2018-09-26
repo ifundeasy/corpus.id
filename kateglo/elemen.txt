@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat sederhana (tunggal) yang dianggap sebagai komposisi bahan alam semesta (seperti udara, tanah, air, api);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian (yang penting, yang dibutuhkan) dari keseluruhan yang lebih besar; unsur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pembangkit tenaga listrik secara kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) zat yang tidak dapat diuraikan menjadi zat yang lebih sederhana (yang tidak kompleks);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) zat yang terdiri atas atom yang semuanya memiliki bilangan atom yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) bagian dari sebuah tabung elektron, sebuah peranti semikonduktor, atau dari sebuah susunan antena yang langsung berhubungan dengan penampilan sifat listriknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elemen",
+  "related": [],
+  "detailed": false
+}

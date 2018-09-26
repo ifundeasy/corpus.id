@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bronkitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang cabang tenggorok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bronkitis",
+  "related": [],
+  "detailed": false
+}

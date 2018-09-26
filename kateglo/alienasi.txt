@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alienasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan merasa terasing (terisolasi);"
+      },
+      {
+        "type": "desc",
+        "text": "penarikan diri atau pengasingan diri dari kelompok atau masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "pemindahan hak milik dan pangkat kepada orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alienasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multiplikator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan untuk mengalikan bilangan lain; alat untuk mengalikan (memperbanyak) jumlah bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multiplikator",
+  "related": [],
+  "detailed": false
+}

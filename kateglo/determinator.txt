@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "determinator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) partikel yang ada di lingkungan nomina (di depan atau di belakang) dan membatasi maknanya, misal si, itu, -nya, dan -mu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=determinator",
+  "related": [],
+  "detailed": false
+}

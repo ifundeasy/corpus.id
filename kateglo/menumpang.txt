@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menumpang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada (terletak, tertaruh) di atas sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "naik (kereta, kapal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ikut serta (bepergian dsb); turut tinggal (bermalam dsb) di rumah orang; membonceng (kereta, mobil, dsb); turut (makan, membaca, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "minta supaya diizinkan (berjalan, bertanya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menumpang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sirkulasi kolateral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran darah tambahan yang secara normal telah ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirkulasi%20kolateral",
+  "related": [],
+  "detailed": false
+}

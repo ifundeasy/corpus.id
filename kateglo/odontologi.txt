@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "odontologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kajian mengenai gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=odontologi",
+  "related": [],
+  "detailed": false
+}

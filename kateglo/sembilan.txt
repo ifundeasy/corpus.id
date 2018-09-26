@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sembilan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 9 (Arab) atau IX (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-9 sesudah ke-8 dan sebelum ke-10;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 8 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sembilan",
+  "related": [],
+  "detailed": false
+}

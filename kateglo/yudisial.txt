@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yudisial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan yudisium;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan lembaga hukum atau lembaga yudikatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yudisial",
+  "related": [],
+  "detailed": false
+}

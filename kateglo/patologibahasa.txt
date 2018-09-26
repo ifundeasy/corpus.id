@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "patologi bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyelidikan mengenai cacat dan gangguan yang menghambat kemampuan berkomunikasi verbal orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patologi%20bahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaktur olahraga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota redaksi yang ditugasi mengurus berita-berita olahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur%20olahraga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelatak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cerewet; banyak mulut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggelatak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelatak",
+  "related": [],
+  "detailed": false
+}

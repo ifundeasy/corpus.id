@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adiktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kecanduan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menimbulkan ketergantungan pada pemakainya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adiktif",
+  "related": [],
+  "detailed": false
+}

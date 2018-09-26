@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porositas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) keadaan menjadi berpori sehingga cairan atau gas dapat lalu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porositas",
+  "related": [],
+  "detailed": false
+}

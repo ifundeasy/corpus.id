@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghasil tersier",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hewan pemakan hewan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghasil%20tersier",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengiklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (perusahaan dsb) yang mengiklankan; orang (perusahaan dsb) yang memasang iklan;"
+      },
+      {
+        "type": "desc",
+        "text": "(bagian) perusahaan yang mengurus iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengiklan",
+  "related": [],
+  "detailed": false
+}

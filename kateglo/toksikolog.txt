@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toksikolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli ilmu racun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toksikolog",
+  "related": [],
+  "detailed": false
+}

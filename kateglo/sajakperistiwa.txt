@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak peristiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang digubah berkenaan dengan peristiwa, kejadian khusus atau perayaan, sifatnya ringan atau serius;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20peristiwa",
+  "related": [],
+  "detailed": false
+}

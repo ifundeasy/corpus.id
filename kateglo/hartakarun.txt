@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta karun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta benda yang tidak diketahui pemiliknya;"
+      },
+      {
+        "type": "desc",
+        "text": "harta benda yang didapat dengan tidak sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20karun",
+  "related": [],
+  "detailed": false
+}

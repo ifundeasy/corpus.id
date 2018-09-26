@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proteid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "protein;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proteid",
+  "related": [],
+  "detailed": false
+}

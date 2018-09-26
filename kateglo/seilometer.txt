@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seilometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) alat berupa lampu sorot untuk melihat ketinggian dasar awan pada waktu malam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seilometer",
+  "related": [],
+  "detailed": false
+}

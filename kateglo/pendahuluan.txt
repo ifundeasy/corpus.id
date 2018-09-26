@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendahuluan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang mula-mula dilakukan; permulaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembukaan atau kata pengantar dari sebuah pidato (buku, karangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendahuluan",
+  "related": [],
+  "detailed": false
+}

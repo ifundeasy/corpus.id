@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikofarmakologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang kerja obat pada pelbagai fungsi psikologis dan status kejiwaan;"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan obat-obatan untuk mengubah fungsi psikologis dan status kejiwaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikofarmakologi",
+  "related": [],
+  "detailed": false
+}

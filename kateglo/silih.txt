@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling;"
+      },
+      {
+        "type": "desc",
+        "text": "ganti; tukar;"
+      },
+      {
+        "type": "desc",
+        "text": "konstituen yang tidak ditentukan atau tidak terdapat dalam struktur dasar, diperlukan untuk menjelaskan suatu derivasi;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur tidak bermakna yang mempunyai fungsi sintaksis, tetapi tidak mempunyai fungsi semantis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silih",
+  "related": [],
+  "detailed": false
+}

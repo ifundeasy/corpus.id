@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persinggahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berhenti (beristirahat) sebentar ketika dalam perjalanan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlabuh (bagi kapal dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persinggahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "afiks tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) afiks yang hasil penerapannya tidak dapat dibubuhi afiks lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afiks%20tertutup",
+  "related": [],
+  "detailed": false
+}

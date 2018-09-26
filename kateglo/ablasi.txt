@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ablasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal terlepasnya sesuatu dari sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penghilangan dengan jalan pembedahan jaringan atau organ tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pemindahan bahan yang telah lapuk dari batuan induknya oleh arus air;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pengikisan oleh tiupan angin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hid) penggabungan (sublimasi, peleburan, penguapan, dsb) yang memindahkan salju atau es dari permukaan gletser atau medan salju; kikisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ablasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang mesin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) ruang di kapal untuk menempatkan mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20mesin",
+  "related": [],
+  "detailed": false
+}

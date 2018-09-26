@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alur kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "riak air di belakang kapal yang sedang melaju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alur%20kapal",
+  "related": [],
+  "detailed": false
+}

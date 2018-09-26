@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geret",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeret"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geret",
+  "related": [],
+  "detailed": false
+}

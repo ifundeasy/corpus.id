@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cita rasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa seperti rasa lezat, sedap;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) derajat penerimaan ternak terhadap bahan makanan atau ransum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cita%20rasa",
+  "related": [],
+  "detailed": false
+}

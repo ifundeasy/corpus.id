@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelipatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan hasil perbanyakan bilangan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelipatan",
+  "related": [],
+  "detailed": false
+}

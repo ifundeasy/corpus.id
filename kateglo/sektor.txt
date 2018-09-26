@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkungan suatu usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian daerah pertempuran (penjagaan atau pertahanan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) tembereng tajam (bagian bulatan yang berbatas dua garis lurus yang ditarik dari keliling ke titik pusat bulatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sektor",
+  "related": [],
+  "detailed": false
+}

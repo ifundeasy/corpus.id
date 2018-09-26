@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legitimasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan yang mengesahkan atau membenarkan bahwa pemegang keterangan adalah betul-betul orang yang dimaksud; kesahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan yang sah (menurut undang-undang atau sesuai dengan undang-undang); pengesahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legitimasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergeseran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pergesekan;"
+      },
+      {
+        "type": "desc",
+        "text": "peralihan; perpindahan; pergantian;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perselisihan; percekcokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergeseran",
+  "related": [],
+  "detailed": false
+}

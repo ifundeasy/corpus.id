@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "belajar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berusaha memperoleh kepandaian atau ilmu;"
+      },
+      {
+        "type": "desc",
+        "text": "berlatih;"
+      },
+      {
+        "type": "desc",
+        "text": "berubah tingkah laku atau tanggapan yang disebabkan oleh pengalaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belajar",
+  "related": [],
+  "detailed": false
+}

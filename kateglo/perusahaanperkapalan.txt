@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan perkapalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang membuat (memperbaiki, menyewakan, dsb) kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20perkapalan",
+  "related": [],
+  "detailed": false
+}

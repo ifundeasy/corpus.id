@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuluh darah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urat tempat darah mengalir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuluh%20darah",
+  "related": [],
+  "detailed": false
+}

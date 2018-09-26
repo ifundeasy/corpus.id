@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangsa kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian utama dari kegiatan kerja yang selanjutnya terbagi ke dalam elemen kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangsa%20kerja",
+  "related": [],
+  "detailed": false
+}

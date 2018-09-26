@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teleprinter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat untuk mengubah isyarat yang dikirim melalui untai komunikasi dalam bentuk tulisan yang dipakai dalam teleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teleprinter",
+  "related": [],
+  "detailed": false
+}

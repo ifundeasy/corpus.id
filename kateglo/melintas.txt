@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melintas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlalu dengan cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "menempuh jalan yang tersingkat; memintas;"
+      },
+      {
+        "type": "desc",
+        "text": "menyeberang (jalan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tampak (terbayang, teringat, dsb) sekejap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melintas",
+  "related": [],
+  "detailed": false
+}

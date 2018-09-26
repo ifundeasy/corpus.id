@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) gaya yang arahnya menuju pusat bumi yang menyebabkan benda jatuh mendapat percepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20berat",
+  "related": [],
+  "detailed": false
+}

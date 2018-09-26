@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang serupa air yang terdapat di dalam cairan tubuh (seperti dalam darah, limfa) yang menjadi kental;"
+      },
+      {
+        "type": "desc",
+        "text": "air darah binatang (atau zat cair yang diambil dari darah binatang) yang telah dibuat kebal terhadap suatu penyakit (untuk menolak penyakit menular);"
+      },
+      {
+        "type": "desc",
+        "text": "cairan darah yang terpisah setelah darah membeku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serum",
+  "related": [],
+  "detailed": false
+}

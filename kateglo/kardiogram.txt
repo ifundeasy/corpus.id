@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kardiogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) garis grafik denyut jantung yang dituliskan oleh pesawat listrik atau alat pencatat denyut jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kardiogram",
+  "related": [],
+  "detailed": false
+}

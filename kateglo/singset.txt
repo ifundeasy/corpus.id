@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singset",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "erat;"
+      },
+      {
+        "type": "desc",
+        "text": "langsing (tentang badan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singset",
+  "related": [],
+  "detailed": false
+}

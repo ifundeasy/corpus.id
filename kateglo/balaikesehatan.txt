@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klinik (rumah tempat berobat); balai pengobatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20kesehatan",
+  "related": [],
+  "detailed": false
+}

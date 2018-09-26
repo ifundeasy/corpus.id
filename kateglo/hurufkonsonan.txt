@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf konsonan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang digunakan untuk melambangkan fonem konsonan, yaitu b, c, d, dst; huruf mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20konsonan",
+  "related": [],
+  "detailed": false
+}

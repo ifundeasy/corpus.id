@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkedai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuka kedai; berdagang kecil-kecilan;"
+      },
+      {
+        "type": "desc",
+        "text": "berbelanja di kedai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkedai",
+  "related": [],
+  "detailed": false
+}

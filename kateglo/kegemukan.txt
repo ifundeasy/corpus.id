@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegemukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal gemuk; keadaan gemuk;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Psi) terlalu gemuk karena makan berlebihan sebagai reaksi terhadap frustrasi psikis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegemukan",
+  "related": [],
+  "detailed": false
+}

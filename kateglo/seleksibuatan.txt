@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seleksi buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seleksi yang dilakukan oleh manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seleksi%20buatan",
+  "related": [],
+  "detailed": false
+}

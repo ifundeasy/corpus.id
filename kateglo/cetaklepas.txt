@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak lepas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "artikel yang terbit dalam majalah dan dicetak ulang khusus untuk keperluan pengarang tanpa menghilangkan nomor terbitan yang memuat artikel itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20lepas",
+  "related": [],
+  "detailed": false
+}

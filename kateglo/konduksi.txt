@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hantaran dari bagian benda ke bagian benda lainnya atau dari satu benda ke benda lain tanpa perpindahan partikel atau zat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konduksi",
+  "related": [],
+  "detailed": false
+}

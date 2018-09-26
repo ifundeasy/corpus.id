@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (arah, titik) di antara dua tepi (batas);"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang bukan pinggiran; pusat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat atau wilayah yang jauh dari tepi;"
+      },
+      {
+        "type": "desc",
+        "text": "sela-sela; antara (orang banyak, kumpulan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "paruh; perdua;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sedang;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "ketika; sementara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengah",
+  "related": [],
+  "detailed": false
+}

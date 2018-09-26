@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu inversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kondisi suhu yang berlawanan dengan suhu biasa, yakni penurunan suhu apabila makin naik ke daerah pegunungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20inversi",
+  "related": [],
+  "detailed": false
+}

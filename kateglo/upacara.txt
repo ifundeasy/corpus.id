@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "upacara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda-tanda kebesaran (seperti payung kerajaan);"
+      },
+      {
+        "type": "desc",
+        "text": "peralatan (menurut adat-istiadat); rangkaian tindakan atau perbuatan yang terikat pada aturan tertentu menurut adat atau agama;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan atau perayaan yang dilakukan atau diadakan sehubungan dengan peristiwa penting (seperti pelantikan pejabat, pembukaan gedung baru);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upacara",
+  "related": [],
+  "detailed": false
+}

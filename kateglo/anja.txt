@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anja",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "beranja-anja"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) tali besar untuk menaikkan atau menurunkan layar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anja",
+  "related": [],
+  "detailed": false
+}

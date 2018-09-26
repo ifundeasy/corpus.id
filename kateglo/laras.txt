@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(tinggi rendah) nada (suara, bunyi musik, dsb); tala;"
+      },
+      {
+        "type": "desc",
+        "text": "kesesuaian; kesamaan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bulat panjang dan lurus (seperti batang pohon, bambu);"
+      },
+      {
+        "type": "desc",
+        "text": "pembuluh senapan (bedil) tempat lewat peluru;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk senapan;"
+      },
+      {
+        "type": "desc",
+        "text": "distrik di Minangkabau;"
+      },
+      {
+        "type": "desc",
+        "text": "dasar pemerintahan menurut adat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) gugur; luruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laras",
+  "related": [],
+  "detailed": false
+}

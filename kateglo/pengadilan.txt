@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan atau majelis yang mengadili perkara; mahkamah;"
+      },
+      {
+        "type": "desc",
+        "text": "proses mengadili;"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan hakim;"
+      },
+      {
+        "type": "desc",
+        "text": "sidang hakim ketika mengadili perkara;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah (bangunan) tempat mengadili perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadilan",
+  "related": [],
+  "detailed": false
+}

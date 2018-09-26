@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notabene",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(tanda peringatan, disingkat pada bagian akhir surat dsb yang berarti) perhatian; catatan tambahan;"
+      },
+      {
+        "type": "desc",
+        "text": "sekaligus juga ...; di samping ... juga ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notabene",
+  "related": [],
+  "detailed": false
+}

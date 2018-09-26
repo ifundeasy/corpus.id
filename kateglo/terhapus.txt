@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terhapus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah dihapus(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dihapuskan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak teringat lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terhapus",
+  "related": [],
+  "detailed": false
+}

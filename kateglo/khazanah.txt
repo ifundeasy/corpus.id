@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khazanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang milik; harta benda; kekayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan barang; perbendaharaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyimpan harta benda (kitab-kitab, barang berharga, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khazanah",
+  "related": [],
+  "detailed": false
+}

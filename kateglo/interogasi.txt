@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interogasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanyaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeriksaan terhadap seseorang melalui pertanyaan lisan yang bersistem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interogasi",
+  "related": [],
+  "detailed": false
+}

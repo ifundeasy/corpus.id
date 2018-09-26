@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf Latin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf menurut abjad Latin;"
+      },
+      {
+        "type": "desc",
+        "text": "huruf yang biasa digunakan dalam tulisan tangan yang ditulis berangkai-rangkai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20Latin",
+  "related": [],
+  "detailed": false
+}

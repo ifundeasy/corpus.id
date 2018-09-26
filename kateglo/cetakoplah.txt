@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak oplah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) pencetakan sejumlah pesanan yang telah ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20oplah",
+  "related": [],
+  "detailed": false
+}

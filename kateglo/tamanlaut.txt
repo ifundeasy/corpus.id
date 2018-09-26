@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taman laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taman (daerah) di dalam laut yang penuh dengan kerang, rumah binatang, koral berwarna-warni, dan beraneka ragam ikan;"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah lautan yang memiliki ciri khas berupa keindahan alam, bermanfaat bagi kepentingan pariwisata, rekreasi, dan pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman%20laut",
+  "related": [],
+  "detailed": false
+}

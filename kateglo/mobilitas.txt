@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mobilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesiapsiagaan untuk bergerak;"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan berpindah-pindah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) gerak perubahan yang terjadi di antara warga masyarakat, baik secara fisik maupun secara sosial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobilitas",
+  "related": [],
+  "detailed": false
+}

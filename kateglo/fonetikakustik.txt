@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fonetik akustik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang fonetik yang menyelidiki ciri-ciri fisik dari bunyi bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonetik%20akustik",
+  "related": [],
+  "detailed": false
+}

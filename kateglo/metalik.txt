@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metalik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan metal;"
+      },
+      {
+        "type": "desc",
+        "text": "terbuat atau mengandung metal;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat memantulkan cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metalik",
+  "related": [],
+  "detailed": false
+}

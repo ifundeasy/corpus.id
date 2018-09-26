@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekentalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal, keadaan (yang bersifat) kental;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlalu kental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekentalan",
+  "related": [],
+  "detailed": false
+}

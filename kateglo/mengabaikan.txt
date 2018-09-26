@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengabaikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memandang rendah (hina, mudah);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengindahkan (perintah, nasihat);"
+      },
+      {
+        "type": "desc",
+        "text": "melalaikan (kewajiban, tugas, pekerjaan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menggunakan baik-baik; menyia-nyiakan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak memedulikan (kritik, celaan);"
+      },
+      {
+        "type": "desc",
+        "text": "membiarkan telantar (terbengkalai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak memegang teguh (adat istiadat, aturan, janji);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengabaikan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan tenaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapatan petani dikurangi bunga modal sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20tenaga",
+  "related": [],
+  "detailed": false
+}

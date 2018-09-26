@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persamaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mempersamakan (tingginya, tingkatnya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan; perumpamaannya; ibarat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang sama atau yang serupa dengan yang lain; persesuaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persamaan",
+  "related": [],
+  "detailed": false
+}

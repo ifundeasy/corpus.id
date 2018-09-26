@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan transit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan tempat barang perdagangan dikumpulkan dari daerah sekelilingnya untuk kemudian diekspor bersama-sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20transit",
+  "related": [],
+  "detailed": false
+}

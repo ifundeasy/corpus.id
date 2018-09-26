@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percabangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpang; persimpangan (tentang jalan, sungai);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal cabang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat tumbuhnya cabang (pada pohon);"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) pembagian menjadi struktur yang lebih halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percabangan",
+  "related": [],
+  "detailed": false
+}

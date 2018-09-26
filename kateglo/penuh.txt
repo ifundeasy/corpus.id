@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah berisi seluruhnya (tidak ada yang terluang lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak memuat;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak kurang dari jumlah yang seharusnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lengkap; sempurna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penuh",
+  "related": [],
+  "detailed": false
+}

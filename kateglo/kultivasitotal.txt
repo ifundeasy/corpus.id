@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kultivasi total",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengolahan lahan pertanian dengan membongkar lahan secara menyeluruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kultivasi%20total",
+  "related": [],
+  "detailed": false
+}

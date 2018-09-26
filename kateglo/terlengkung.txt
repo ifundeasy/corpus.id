@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlengkung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dilengkungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dilengkungkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlengkung",
+  "related": [],
+  "detailed": false
+}

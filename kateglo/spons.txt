@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spons",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunga karang;"
+      },
+      {
+        "type": "desc",
+        "text": "benda serupa bunga karang (dari karet busa dsb) yang dapat mengisap air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spons",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siklus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "putaran waktu yang di dalamnya terdapat rangkaian kejadian yang berulang-ulang secara tetap dan teratur; daur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siklus",
+  "related": [],
+  "detailed": false
+}

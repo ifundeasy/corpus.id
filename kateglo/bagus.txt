@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik sekali; elok;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "bagusan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagus",
+  "related": [],
+  "detailed": false
+}

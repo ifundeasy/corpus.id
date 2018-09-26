@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak air yang mengalir; aliran air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20air",
+  "related": [],
+  "detailed": false
+}

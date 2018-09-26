@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian ujung lengan baju yang berupa bagian tambahan (biasanya dibuat kaku);"
+      },
+      {
+        "type": "desc",
+        "text": "kancing (dari logam dsb) pada lengan baju tambahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manset",
+  "related": [],
+  "detailed": false
+}

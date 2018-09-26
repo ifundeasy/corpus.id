@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lempung debuan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kelas tekstur tanah yang mengandung sejumlah besar debu, sedikit lempung, dan sedikit pasir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lempung%20debuan",
+  "related": [],
+  "detailed": false
+}

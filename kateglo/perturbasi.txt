@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perturbasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyimpangan planet atau benda angkasa lainnya dari orbit karena adanya gravitasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perturbasi",
+  "related": [],
+  "detailed": false
+}

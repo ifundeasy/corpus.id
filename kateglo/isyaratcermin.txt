@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isyarat cermin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) isyarat yang dikirimkan pada waktu siang hari dengan meng-gunakan pantulan cahaya matahari melalui cermin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isyarat%20cermin",
+  "related": [],
+  "detailed": false
+}

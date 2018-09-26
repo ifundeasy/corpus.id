@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras merah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang bernilai gizi tinggi dan berwarna merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20merah",
+  "related": [],
+  "detailed": false
+}

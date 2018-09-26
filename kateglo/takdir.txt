@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takdir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketetapan Tuhan; ketentuan Tuhan; nasib;"
+      },
+      {
+        "type": "desc",
+        "text": "jika; seandainya;"
+      },
+      {
+        "type": "desc",
+        "text": "kalau ... pun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takdir",
+  "related": [],
+  "detailed": false
+}

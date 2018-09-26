@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpidana",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dikenai hukuman;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dikenai hukuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpidana",
+  "related": [],
+  "detailed": false
+}

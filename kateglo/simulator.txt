@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "program yang berfungsi untuk menyimulasikan suatu peralatan, tetapi kerjanya agak lambat daripada keadaan yang sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk melakukan simulasi; alat yang dapat menyimulasikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simulator",
+  "related": [],
+  "detailed": false
+}

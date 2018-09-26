@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "subjek psikologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "topik suatu kalimat, misal orang itu dalam kalimat orang itu rumahnya jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subjek%20psikologis",
+  "related": [],
+  "detailed": false
+}

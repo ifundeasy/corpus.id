@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyunting",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyiapkan naskah siap cetak atau siap terbit dengan memperhatikan segi sistematika penyajian, isi, dan bahasa (menyangkut ejaan, diksi, dan struktur kalimat); mengedit;"
+      },
+      {
+        "type": "desc",
+        "text": "merencanakan dan mengarahkan penerbitan (surat kabar, majalah);"
+      },
+      {
+        "type": "desc",
+        "text": "menyusun atau merakit (film, pita rekaman) dengan cara memotong-motong dan memasang kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyunting",
+  "related": [],
+  "detailed": false
+}

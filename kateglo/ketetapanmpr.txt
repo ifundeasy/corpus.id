@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketetapan MPR",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan MPR yang mempunyai kekuatan hukum ke luar dan ke dalam MPR;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketetapan%20MPR",
+  "related": [],
+  "detailed": false
+}

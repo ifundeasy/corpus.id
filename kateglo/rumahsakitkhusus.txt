@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang memberikan layanan pemeriksaan, pengobatan, dan perawatan satu macam penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20khusus",
+  "related": [],
+  "detailed": false
+}

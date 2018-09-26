@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rupee",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rupee",
+  "related": [],
+  "detailed": false
+}

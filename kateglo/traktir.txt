@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "traktir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mentraktir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=traktir",
+  "related": [],
+  "detailed": false
+}

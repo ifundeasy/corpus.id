@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "putih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna dasar yang serupa dengan warna kapas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna kapas;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) murni; suci; tidak ternoda;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pucat (tentang wajah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putih",
+  "related": [],
+  "detailed": false
+}

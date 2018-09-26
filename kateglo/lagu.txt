@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lagu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam suara yang berirama (dalam bercakap, bernyanyi, membaca, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "nyanyian;"
+      },
+      {
+        "type": "desc",
+        "text": "ragam nyanyi (musik, gamelan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tingkah laku; cara; lagak;"
+      },
+      {
+        "type": "link",
+        "text": "berlagu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagu",
+  "related": [],
+  "detailed": false
+}

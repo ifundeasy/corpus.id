@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sek",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "tembakau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sek",
+  "related": [],
+  "detailed": false
+}

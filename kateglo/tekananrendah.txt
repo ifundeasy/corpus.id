@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan rendah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hidm) daerah dengan tekanan udara yang rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20rendah",
+  "related": [],
+  "detailed": false
+}

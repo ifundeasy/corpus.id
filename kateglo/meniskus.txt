@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meniskus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "tulang rawan cekung dalam sendi, misal sendi lutut;"
+      },
+      {
+        "type": "desc",
+        "text": "permukaan lengkung suatu zat cair di dalam tabung atau bejana yang dapat cembung atau cekung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meniskus",
+  "related": [],
+  "detailed": false
+}

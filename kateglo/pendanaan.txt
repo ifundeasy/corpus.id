@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendanaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyediaan dana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendanaan",
+  "related": [],
+  "detailed": false
+}

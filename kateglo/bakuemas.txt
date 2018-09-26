@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baku emas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilaian berdasarkan nilai harga emas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baku%20emas",
+  "related": [],
+  "detailed": false
+}

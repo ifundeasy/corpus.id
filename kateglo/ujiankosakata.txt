@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian kosakata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang diadakan untuk memeriksa apakah peserta sudah menguasai arti sejumlah kata dan dapat menggunakannya dengan tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20kosakata",
+  "related": [],
+  "detailed": false
+}

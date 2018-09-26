@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syukur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa terima kasih kepada Allah;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "untunglah (pernyataan lega, senang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syukur",
+  "related": [],
+  "detailed": false
+}

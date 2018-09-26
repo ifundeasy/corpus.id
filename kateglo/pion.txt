@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) partikel elementer yang berusia pendek;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perintis; pelopor;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang suruhan; bawahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pion",
+  "related": [],
+  "detailed": false
+}

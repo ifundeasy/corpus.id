@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modul dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modul yang merupakan urutan studi yang harus diikuti siswa, kecuali mereka yang mempunyai ketidakmampuan belajar yang khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modul%20dasar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pas naik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang membenarkan seseorang boleh menaiki pesawat terbang, termuat tulisan nama penumpang, maskapai penerbangan, nomor pesawat, tempat tujuan, tanggal dan jam keberangkatan, nomor tempat duduk, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pas%20naik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotokonduktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) pertambahan konduktivitas (keterhantaran) listrik pada banyak zat padat nonmetal apabila disinari cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotokonduktivitas",
+  "related": [],
+  "detailed": false
+}

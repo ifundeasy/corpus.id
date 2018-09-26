@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dokumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang tertulis atau tercetak yang dapat dipakai sebagai bukti keterangan (seperti akta kelahiran, surat nikah, surat perjanjian);"
+      },
+      {
+        "type": "desc",
+        "text": "barang cetakan atau naskah karangan yang dikirim melalui pos;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman suara, gambar dalam film, dsb yang dapat dijadikan bukti keterangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokumen",
+  "related": [],
+  "detailed": false
+}

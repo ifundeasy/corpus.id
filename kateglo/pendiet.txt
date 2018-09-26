@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendiet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berdiet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendiet",
+  "related": [],
+  "detailed": false
+}

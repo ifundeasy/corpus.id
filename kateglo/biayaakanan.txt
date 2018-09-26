@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya akanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) mata neraca untuk utang yang telah bertambah secara berkala yang akan dibayar pada waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20akanan",
+  "related": [],
+  "detailed": false
+}

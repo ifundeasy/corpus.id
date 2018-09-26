@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pejabat penerangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menyampaikan penerangan tentang lembaga yang menugaskannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pejabat%20penerangan",
+  "related": [],
+  "detailed": false
+}

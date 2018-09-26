@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat cacing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat pembunuh cacing di dalam perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20cacing",
+  "related": [],
+  "detailed": false
+}

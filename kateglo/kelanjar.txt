@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelanjar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "berkelanjaran"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengelanjar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelanjar",
+  "related": [],
+  "detailed": false
+}

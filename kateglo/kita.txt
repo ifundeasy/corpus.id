@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kita",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "pronomina persona pertama jamak, yang berbicara bersama dengan orang lain termasuk yang diajak bicara;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) saya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kita",
+  "related": [],
+  "detailed": false
+}

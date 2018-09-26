@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesiagaan mental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesiapan mental untuk memberi respons segera terhadap rangsangan yang datang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesiagaan%20mental",
+  "related": [],
+  "detailed": false
+}

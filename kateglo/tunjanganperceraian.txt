@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan perceraian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunjangan yang wajib diberikan oleh bekas suami kepada bekas istrinya berdasarkan ketentuan hukum yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20perceraian",
+  "related": [],
+  "detailed": false
+}

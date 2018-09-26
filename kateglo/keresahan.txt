@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keresahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal resah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita resah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keresahan",
+  "related": [],
+  "detailed": false
+}

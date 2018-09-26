@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pupuk kandang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pupuk yang berasal dari kotoran hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuk%20kandang",
+  "related": [],
+  "detailed": false
+}

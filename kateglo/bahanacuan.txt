@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan acuan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan rujukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20acuan",
+  "related": [],
+  "detailed": false
+}

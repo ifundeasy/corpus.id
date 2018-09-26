@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ionosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan atmosfer bumi, pada ke-tinggian l00 km di atas lapisan stratosfer, mengandung ion dan elektron bebas yang dihasilkan oleh radiasi matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) lapisan atmosfer bumi yang tingginya mulai dari 50—1.000 km yang merupakan lapisan yang terdiri atas ion-ion;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ionosfer",
+  "related": [],
+  "detailed": false
+}

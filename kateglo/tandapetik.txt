@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda petik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (\"...\") yang mengapit petikan langsung yang menyatakan kutipan berasal dari pembicaraan, naskah, atau bahan tertulis lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20petik",
+  "related": [],
+  "detailed": false
+}

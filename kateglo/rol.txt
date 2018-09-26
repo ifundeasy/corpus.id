@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranan;"
+      },
+      {
+        "type": "desc",
+        "text": "gulungan (film);"
+      },
+      {
+        "type": "desc",
+        "text": "kayu, besi, dsb yang bulat torak bangunnya untuk pelindis, penggaris, pengimpit;"
+      },
+      {
+        "type": "desc",
+        "text": "penggulung rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengecat tembok dengan cara menggelindingkannya supaya rata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rol",
+  "related": [],
+  "detailed": false
+}

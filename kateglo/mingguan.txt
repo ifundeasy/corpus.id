@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mingguan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiap minggu; sekali seminggu;"
+      },
+      {
+        "type": "desc",
+        "text": "majalah atau surat kabar yang terbit sekali seminggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mingguan",
+  "related": [],
+  "detailed": false
+}

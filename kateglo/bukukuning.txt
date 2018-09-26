@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku kuning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang ditulis tidak berdasarkan kenyataan dengan tujuan mengikat pembaca melalui cerita sensasional;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang berisikan ajaran Islam yang ditulis dalam bahasa Arab Klasik dengan huruf Arab gundul (tanpa tanda baca), diajarkan di pesantren;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20kuning",
+  "related": [],
+  "detailed": false
+}

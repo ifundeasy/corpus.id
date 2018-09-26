@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkeadaan senang (girang);"
+      },
+      {
+        "type": "desc",
+        "text": "girang hati; senang hati;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mau; sudi; rela;"
+      },
+      {
+        "type": "desc",
+        "text": "senang; gemar;"
+      },
+      {
+        "type": "desc",
+        "text": "menaruh simpati; setuju;"
+      },
+      {
+        "type": "desc",
+        "text": "menaruh kasih; kasih sayang; cinta;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mudah sekali ...; kerap kali ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suka",
+  "related": [],
+  "detailed": false
+}

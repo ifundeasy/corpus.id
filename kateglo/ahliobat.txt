@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam hal obat-obatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20obat",
+  "related": [],
+  "detailed": false
+}

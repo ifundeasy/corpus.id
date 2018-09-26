@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang membekas dalam ingatan; kesan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesan dalam ingatan (pikiran); ingatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenangan",
+  "related": [],
+  "detailed": false
+}

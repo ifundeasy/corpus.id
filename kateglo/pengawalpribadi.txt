@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengawal pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawal khusus seseorang (seperti presiden, pejabat tinggi negara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengawal%20pribadi",
+  "related": [],
+  "detailed": false
+}

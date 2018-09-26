@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nondepartemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tidak termasuk dalam salah satu departemen; yang (di) luar departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nondepartemen",
+  "related": [],
+  "detailed": false
+}

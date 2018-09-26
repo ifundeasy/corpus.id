@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "struktur frase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pengaturan unsur kalimat untuk membentuk satuan yang lebih besar, misal frasa nominal ditambah frasa verbal untuk membentuk kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=struktur%20frase",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "colek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sentuhan dengan ujung jari dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "penggolong penyebutan sesuatu yang sedikit sekali (sebanyak yang diambil dengan ujung jari);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencolek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=colek",
+  "related": [],
+  "detailed": false
+}

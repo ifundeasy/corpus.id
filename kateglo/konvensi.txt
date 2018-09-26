@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konvensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permufakatan atau kesepakatan (terutama mengenai adat, tradisi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perjanjian antarnegara, para penguasa pemerintahan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "konferensi tokoh masyarakat atau partai politik dengan tujuan khusus (memilih calon untuk pemilihan anggota DPR dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konvensi",
+  "related": [],
+  "detailed": false
+}

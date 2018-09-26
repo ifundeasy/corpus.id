@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jila",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "terjila"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jila",
+  "related": [],
+  "detailed": false
+}

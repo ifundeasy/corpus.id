@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ladang ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) usaha produksi ternak (biasanya termasuk binatang pemamah biak) yang mengandalkan padang penggembalaan sebagai sumber bahan makanan hijauan, pada umumnya meliputi areal penggembalaan yang sangat luas dan lengkap dengan kandang, pagar, tandon air, dan prasarana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ladang%20ternak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kijai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon, kayunya dibuat bahan bangunan rumah dsb; Santiria griffithii;"
+      },
+      {
+        "type": "desc",
+        "text": "pohon yang dapat menghasilkan karet;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu kijai;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "terkijai-kijai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kijai",
+  "related": [],
+  "detailed": false
+}

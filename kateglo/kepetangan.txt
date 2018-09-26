@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepetangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kena petang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu petang;"
+      },
+      {
+        "type": "desc",
+        "text": "pandai mengenakan tipu muslihat; cerdik; licik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata-mata; spion;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepetangan",
+  "related": [],
+  "detailed": false
+}

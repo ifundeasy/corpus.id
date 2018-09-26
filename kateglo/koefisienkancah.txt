@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien kancah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nisbah uapan suatu badan air yang berat terhadap uapan yang diukur dalam kancah penguap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20kancah",
+  "related": [],
+  "detailed": false
+}

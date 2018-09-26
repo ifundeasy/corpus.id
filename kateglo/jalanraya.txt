@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan raya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan besar dan lebar, biasanya beraspal, dapat dilalui kendaraan besar (truk, bus) dari dua arah berlawanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20raya",
+  "related": [],
+  "detailed": false
+}

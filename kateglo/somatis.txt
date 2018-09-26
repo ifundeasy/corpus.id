@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "somatis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai jasad; berkaitan dengan fisik (badan kasar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=somatis",
+  "related": [],
+  "detailed": false
+}

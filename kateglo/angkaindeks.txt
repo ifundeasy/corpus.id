@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka indeks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) bilangan yang menunjukkan perbedaan suatu hal pada suatu waktu sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20indeks",
+  "related": [],
+  "detailed": false
+}

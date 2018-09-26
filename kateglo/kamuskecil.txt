@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kosakata dalam jumlah yang terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20kecil",
+  "related": [],
+  "detailed": false
+}

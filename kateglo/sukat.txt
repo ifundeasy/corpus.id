@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sukat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "takaran yang isinya empat gantang;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran (panjang, luas, isi); sukatan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(kl) asalkan; kalau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sukat",
+  "related": [],
+  "detailed": false
+}

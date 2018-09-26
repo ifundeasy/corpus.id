@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisatawan domestik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wisatawan nusantara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisatawan%20domestik",
+  "related": [],
+  "detailed": false
+}

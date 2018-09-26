@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konselor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota (staf) perwakilan di luar negeri, kedudukannya di bawah duta besar dan bertindak sebagai pembantu utama (pemangku) kepala perwakilan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang melayani konseling; penasihat; penyuluh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konselor",
+  "related": [],
+  "detailed": false
+}

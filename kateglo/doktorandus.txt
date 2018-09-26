@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "doktorandus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar akademis untuk pria yang telah lulus ujian sarjana di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=doktorandus",
+  "related": [],
+  "detailed": false
+}

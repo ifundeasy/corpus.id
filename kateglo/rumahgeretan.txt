@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah geretan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak geretan;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah kecil yang sangat sederhana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20geretan",
+  "related": [],
+  "detailed": false
+}

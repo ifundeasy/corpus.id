@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal latih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang digunakan untuk melatih calon perwira dan awak kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20latih",
+  "related": [],
+  "detailed": false
+}

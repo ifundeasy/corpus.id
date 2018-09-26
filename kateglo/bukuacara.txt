@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisi daftar acara suatu kongres, seminar, atau rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20acara",
+  "related": [],
+  "detailed": false
+}

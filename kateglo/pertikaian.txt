@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertikaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perselisihan; perbedaan; selisih;"
+      },
+      {
+        "type": "desc",
+        "text": "pertentangan (paham dsb); pertengkaran; percekcokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertikaian",
+  "related": [],
+  "detailed": false
+}

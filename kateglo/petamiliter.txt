@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta militer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua jenis peta yang menyajikan data dan informasi yang digunakan untuk keperluan atau tujuan militer (pertahanan dan keamanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20militer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak besar; tidak halus;"
+      },
+      {
+        "type": "desc",
+        "text": "bertingkah laku tidak lemah lembut;"
+      },
+      {
+        "type": "desc",
+        "text": "kasap; kesat; tidak halus waktu diraba;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak baik buatannya; gabas;"
+      },
+      {
+        "type": "desc",
+        "text": "hanya dalam garis-garis besarnya (tidak dengan saksama, tidak dengan perincian yang teliti, hanya perkara yang besar-besar);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat diraba (dilihat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mentah; belum dibersihkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasar",
+  "related": [],
+  "detailed": false
+}

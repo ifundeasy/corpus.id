@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf harakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf vokal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20harakat",
+  "related": [],
+  "detailed": false
+}

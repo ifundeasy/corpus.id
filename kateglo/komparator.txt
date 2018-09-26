@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komparator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk membandingkan ukuran panjang, umumnya dibuat dari sebuah teleskop atau mikroskop yang digerakkan naik turun pada sebuah skala;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membuat perbandingan antara dua sinar atau warna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komparator",
+  "related": [],
+  "detailed": false
+}

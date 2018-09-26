@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan turun atau tergelantung ke bawah seperti kelambu, tali, jangkar, tirai, atau layar panggung;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) penggolong benda bagi tirai;"
+      },
+      {
+        "type": "link",
+        "text": "labuhan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labuh",
+  "related": [],
+  "detailed": false
+}

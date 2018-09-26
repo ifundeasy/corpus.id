@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multimedia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai jenis sarana;"
+      },
+      {
+        "type": "desc",
+        "text": "penyediaan informasi pada komputer yang menggunakan suara, grafika, animasi, dan teks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multimedia",
+  "related": [],
+  "detailed": false
+}

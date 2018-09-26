@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partner",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (badan usaha dsb) dari dua pihak yang berbeda yang bekerja sama karena saling membutuhkan atau melengkapi (dalam suatu kegiatan, usaha dagang, dsb); mitra; pasangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pasangan main (dalam olahraga, menari, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partner",
+  "related": [],
+  "detailed": false
+}

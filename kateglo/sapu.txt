@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sapu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat rumah tangga dibuat dari ijuk (lidi, sabut, dsb) yang diikat menjadi berkas, diberi bertangkai pendek atau panjang untuk membersihkan debu, sampah, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "penghapus; apa saja yang dipakai untuk menghapus (membersihkan, menyeka, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "sapu-sapu"
+      },
+      {
+        "type": "link",
+        "text": "menyapu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapu",
+  "related": [],
+  "detailed": false
+}

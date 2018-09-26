@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superinfeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "terinfeksinya kembali inang oleh jenis parasit yang sebelumnya sudah pernah menyerangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi ulang oleh virus yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superinfeksi",
+  "related": [],
+  "detailed": false
+}

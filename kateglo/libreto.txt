@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "libreto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "naskah (teks) opera, operet, atau gubahan musik;"
+      },
+      {
+        "type": "desc",
+        "text": "buku libreto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=libreto",
+  "related": [],
+  "detailed": false
+}

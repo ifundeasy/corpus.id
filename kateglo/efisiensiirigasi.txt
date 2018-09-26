@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efisiensi irigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persentase air irigasi yang digunakan untuk tanaman pada tanah, petak, atau proyek yang menggunakan air, yang dilimpahkan dari sumber persediaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efisiensi%20irigasi",
+  "related": [],
+  "detailed": false
+}

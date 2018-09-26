@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengklasifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengklasifikasi;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengklasifikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengklasifikasi",
+  "related": [],
+  "detailed": false
+}

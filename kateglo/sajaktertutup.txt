@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang disusun berdasarkan bunyi dan sajak yang sama terdapat pada suku kata terakhir yang diakhiri oleh bunyi konsonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20tertutup",
+  "related": [],
+  "detailed": false
+}

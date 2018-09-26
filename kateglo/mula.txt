@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal; awal; pokok asal;"
+      },
+      {
+        "type": "desc",
+        "text": "yang paling awal; yang dahulu sekali; waktu (tempat, keadaan, dsb) yang menjadi pangkal;"
+      },
+      {
+        "type": "desc",
+        "text": "lantaran; sebab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mula",
+  "related": [],
+  "detailed": false
+}

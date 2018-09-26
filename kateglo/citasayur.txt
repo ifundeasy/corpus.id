@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cita sayur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cita yang kurang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cita%20sayur",
+  "related": [],
+  "detailed": false
+}

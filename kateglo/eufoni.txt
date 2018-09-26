@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eufoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kombinasi bunyi yang dianggap enak didengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eufoni",
+  "related": [],
+  "detailed": false
+}

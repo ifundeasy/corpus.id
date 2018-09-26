@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menerima",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyambut; mengambil (mendapat, menampung, dsb) sesuatu yang diberikan, dikirimkan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengesahkan; membenarkan; menyetujui (usul, anjuran, dsb); meluluskan atau mengabulkan (permintaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat atau menderita sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "menganggap (sebagai);"
+      },
+      {
+        "type": "desc",
+        "text": "mengizinkan (masuk menjadi anggota, murid, pegawai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mau menjabat (pangkat) dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menerima",
+  "related": [],
+  "detailed": false
+}

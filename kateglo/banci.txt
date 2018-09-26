@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banci",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berjenis laki-laki dan juga tidak berjenis perempuan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "laki-laki yang bertingkah laku dan berpakaian sebagai perempuan; wadam; waria;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mal) cacah jiwa; perhitungan penduduk; sensus;"
+      },
+      {
+        "type": "desc",
+        "text": "patil besar untuk menarah kayu dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banci",
+  "related": [],
+  "detailed": false
+}

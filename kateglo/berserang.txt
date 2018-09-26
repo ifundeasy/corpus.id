@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berserang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertambah;"
+      },
+      {
+        "type": "desc",
+        "text": "bertambah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berserang",
+  "related": [],
+  "detailed": false
+}

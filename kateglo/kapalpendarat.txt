@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal pendarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang haluannya dapat dikandaskan di tepi pantai untuk menurunkan pasukan, kendaraan, dll;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20pendarat",
+  "related": [],
+  "detailed": false
+}

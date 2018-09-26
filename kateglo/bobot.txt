@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bobot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "berat seekor ternak pada suatu keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "timbangan; arti penting;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) nilai; mutu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) derajat warna hitam pada huruf cetak (mulai dari yang sangat tipis warna hitamnya sampai dengan yang hitam sekali);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola kurikulum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk pengorganisasian program kegiatan atau program belajar yang hendak disajikan kepada murid oleh lembaga pendidikan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20kurikulum",
+  "related": [],
+  "detailed": false
+}

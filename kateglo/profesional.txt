@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profesional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan profesi;"
+      },
+      {
+        "type": "desc",
+        "text": "memerlukan kepandaian khusus untuk menjalankannya;"
+      },
+      {
+        "type": "desc",
+        "text": "mengharuskan adanya pembayaran untuk melakukannya (lawan amatir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profesional",
+  "related": [],
+  "detailed": false
+}

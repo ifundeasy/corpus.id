@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun tempat pengamatan curah hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20hujan",
+  "related": [],
+  "detailed": false
+}

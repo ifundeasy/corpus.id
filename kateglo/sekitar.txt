@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekitar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(daerah) sekeliling;"
+      },
+      {
+        "type": "desc",
+        "text": "berkisar pada; mengenai;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lebih kurang; kira-kira (untuk bilangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekitar",
+  "related": [],
+  "detailed": false
+}

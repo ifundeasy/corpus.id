@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "real estat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "properti berupa tanah dan bangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=real%20estat",
+  "related": [],
+  "detailed": false
+}

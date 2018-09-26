@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Sinterklas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tokoh suci (dalam agama Kristen) yang konon sangat sayang dan selalu memberi hadiah kepada anak-anak pada hari-hari penting (terutama pada ulang tahunnya tanggal 6 Desember);"
+      },
+      {
+        "type": "desc",
+        "text": "perayaan memperingati hari ulang tahun Sinterklas, tanggal 6 Desember;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Sinterklas",
+  "related": [],
+  "detailed": false
+}

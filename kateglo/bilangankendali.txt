@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan kendali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan untuk diberikan kepada suatu rekaman dan dapat dimanfaatkan untuk menemukan kembali rekaman tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20kendali",
+  "related": [],
+  "detailed": false
+}

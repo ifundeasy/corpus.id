@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apologia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengakuan kesalahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) pembelaan agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apologia",
+  "related": [],
+  "detailed": false
+}

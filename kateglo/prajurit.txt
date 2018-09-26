@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prajurit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota angkatan darat dan udara (tidak memandang pangkat);"
+      },
+      {
+        "type": "desc",
+        "text": "golongan pangkat paling rendah dalam angkatan darat dan udara, mencakupi prajurit kepala, prajurit satu, dan prajurit dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prajurit",
+  "related": [],
+  "detailed": false
+}

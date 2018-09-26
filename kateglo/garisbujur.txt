@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis bujur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis khayal yang ditarik dari kutub utara ke kutub selatan (untuk memudahkan lokasi suatu tempat yang ditentukan dari garis meridian nol Greenwich); meridian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20bujur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cabak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung yang rupanya seperti burung layang-layang, biasa keluar pada malam hari;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "koyak yang lebar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cabak",
+  "related": [],
+  "detailed": false
+}

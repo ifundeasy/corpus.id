@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelapak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "berjelapak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelapak",
+  "related": [],
+  "detailed": false
+}

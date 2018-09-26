@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisioterapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pengobatan terhadap penderita yang mengalami kelumpuhan atau gangguan otot dengan tujuan melatih otot tubuh agar dapat berfungsi secara normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisioterapi",
+  "related": [],
+  "detailed": false
+}

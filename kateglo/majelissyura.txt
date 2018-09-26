@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majelis syura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan penasihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majelis%20syura",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan Sura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan Muharam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20Sura",
+  "related": [],
+  "detailed": false
+}

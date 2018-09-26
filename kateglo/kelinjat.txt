@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelinjat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terkelinjat-kelinjat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelinjat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pediatri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu kedokteran tentang kesehatan anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pediatri",
+  "related": [],
+  "detailed": false
+}

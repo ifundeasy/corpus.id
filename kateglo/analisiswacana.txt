@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis wacana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) metode menguraikan wacana atas bagian-bagian yang berfungsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20wacana",
+  "related": [],
+  "detailed": false
+}

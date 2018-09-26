@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tekik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menekik"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bengkarung; kadal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekik",
+  "related": [],
+  "detailed": false
+}

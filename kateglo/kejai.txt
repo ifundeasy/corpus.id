@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kejai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon karet;"
+      },
+      {
+        "type": "desc",
+        "text": "getah karet;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berkejai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejai",
+  "related": [],
+  "detailed": false
+}

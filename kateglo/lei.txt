@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lei",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan batu tulis;"
+      },
+      {
+        "type": "desc",
+        "text": "batu tulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lei",
+  "related": [],
+  "detailed": false
+}

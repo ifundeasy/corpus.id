@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan puasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan Ramadan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20puasa",
+  "related": [],
+  "detailed": false
+}

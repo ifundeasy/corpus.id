@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlaris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "laris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlaris",
+  "related": [],
+  "detailed": false
+}

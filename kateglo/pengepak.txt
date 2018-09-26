@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengepak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengepak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengepak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengepak",
+  "related": [],
+  "detailed": false
+}

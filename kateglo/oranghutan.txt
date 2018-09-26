@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang hutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang tinggal di hutan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang utan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20hutan",
+  "related": [],
+  "detailed": false
+}

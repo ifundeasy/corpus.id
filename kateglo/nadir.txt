@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nadir",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jarang ada; jarang didapat; luar biasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik yang paling rendah dari bulatan cakrawala (bola langit) yang terletak tepat di bawah kaki pengamat; titik kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "perahu (di Malaka);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) pengawas; inspektur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nadir",
+  "related": [],
+  "detailed": false
+}

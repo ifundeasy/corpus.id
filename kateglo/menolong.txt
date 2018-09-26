@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menolong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membantu untuk meringankan beban (penderitaan, kesukaran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membantu supaya dapat melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "melepaskan diri dari (bahaya, bencana, dsb); menyelamatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat meringankan (penderitaan dsb); dapat menyembuhkan (penyakit dsb); dapat melepaskan dari (bahaya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menolong",
+  "related": [],
+  "detailed": false
+}

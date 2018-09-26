@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "citra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "rupa; gambar; gambaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) gambaran yang dimiliki orang banyak mengenai pribadi, perusahaan, organisasi, atau produk;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) kesan mental atau bayangan visual yang ditimbulkan oleh sebuah kata, frasa, atau kalimat, dan merupakan unsur dasar yang khas dalam karya prosa dan puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hut) data atau informasi dari potret udara untuk bahan evaluasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=citra",
+  "related": [],
+  "detailed": false
+}

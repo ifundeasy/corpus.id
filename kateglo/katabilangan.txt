@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata bilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "numeralia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20bilangan",
+  "related": [],
+  "detailed": false
+}

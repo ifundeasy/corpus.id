@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrokimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) cabang ilmu kimia tentang proses terjadinya perubahan energi kimia menjadi energi listrik dan sebaliknya, serta penggunaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrokimia",
+  "related": [],
+  "detailed": false
+}

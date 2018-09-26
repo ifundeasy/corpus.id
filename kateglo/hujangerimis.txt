@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan gerimis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hujan kecil-kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20gerimis",
+  "related": [],
+  "detailed": false
+}

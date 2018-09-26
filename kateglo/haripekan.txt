@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari pekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari ketika di pasar ada (banyak) kegiatan jual beli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20pekan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bintang film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bintang%20film",
+  "related": [],
+  "detailed": false
+}

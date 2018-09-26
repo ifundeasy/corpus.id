@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epigraf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prasasti;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) kalimat atau bagian kalimat pada bagian awal karya sastra yang menggambarkan tema;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epigraf",
+  "related": [],
+  "detailed": false
+}

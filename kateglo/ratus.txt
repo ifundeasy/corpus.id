@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ratus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan kelipatan seratus yang dilambangkan dengan dua nol (00) di belakang angka 1—9;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "meratus"
+      },
+      {
+        "type": "desc",
+        "text": "dupa yang berbau harum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ratus",
+  "related": [],
+  "detailed": false
+}

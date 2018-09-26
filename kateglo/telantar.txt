@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telantar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terhantar; terletak tidak terpelihara;"
+      },
+      {
+        "type": "desc",
+        "text": "serba tidak kecukupan (tentang kehidupan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terpelihara; tidak terawat; tidak terurus;"
+      },
+      {
+        "type": "desc",
+        "text": "terbengkalai; tidak terselesaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telantar",
+  "related": [],
+  "detailed": false
+}

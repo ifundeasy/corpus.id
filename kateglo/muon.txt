@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) partikel dasar bermuatan positif atau negatif yang mempunyai massa 206,77 x massa elektron;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muon",
+  "related": [],
+  "detailed": false
+}

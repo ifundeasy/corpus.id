@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pemarah lagi bengis; galak; ganas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) kuat (hebat, gemar) sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "terik (tentang panas matahari);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggarang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garang",
+  "related": [],
+  "detailed": false
+}

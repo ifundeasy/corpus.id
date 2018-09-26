@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusa sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) hasil kali momen lembam suatu benda terhadap sumbu putaran, dengan kecepatan sudut sekeliling sumbu itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusa%20sudut",
+  "related": [],
+  "detailed": false
+}

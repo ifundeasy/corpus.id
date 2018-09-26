@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyerang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyerang (menyerbu); agresor;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menyerang (menyerbu); agresor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyerang",
+  "related": [],
+  "detailed": false
+}

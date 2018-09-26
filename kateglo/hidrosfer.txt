@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hidrosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permukaan bumi yang tertutup air, kira-kira 70% (samudra, laut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "uap air atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidrosfer",
+  "related": [],
+  "detailed": false
+}

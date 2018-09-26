@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebanyak",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "sama banyaknya dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "sejumlah; jumlahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebanyak",
+  "related": [],
+  "detailed": false
+}

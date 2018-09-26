@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih dari ukuran sedang; lawan dari kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi dan gemuk;"
+      },
+      {
+        "type": "desc",
+        "text": "luas; tidak sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "lebar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hebat; mulia; berkuasa;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak; tidak sedikit (tentang jumlah);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi dewasa;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih dewasa daripada sebelumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "penting (berguna) sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besar",
+  "related": [],
+  "detailed": false
+}

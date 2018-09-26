@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turistik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat turisme; berhubungan dengan turisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turistik",
+  "related": [],
+  "detailed": false
+}

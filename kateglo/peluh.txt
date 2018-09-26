@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peluh",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "peloh"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang keluar dari lubang pada kulit (pori); keringat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peluh",
+  "related": [],
+  "detailed": false
+}

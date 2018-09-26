@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) kurva yang bukan merupakan garis lurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20tertutup",
+  "related": [],
+  "detailed": false
+}

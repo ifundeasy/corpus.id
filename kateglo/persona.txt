@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persona",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang; pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) orang atau benda yang berperanan dalam pembicaraan (persona I, pembicara; persona II, orang yang diajak bicara; persona III, orang yang dibicarakan);"
+      },
+      {
+        "type": "desc",
+        "text": "topeng, wajah, ciri khas seseorang, identik dengan pribadinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persona",
+  "related": [],
+  "detailed": false
+}

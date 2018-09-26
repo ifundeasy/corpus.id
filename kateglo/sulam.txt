@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sulam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bordir; suji; tekat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyulam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sulam",
+  "related": [],
+  "detailed": false
+}

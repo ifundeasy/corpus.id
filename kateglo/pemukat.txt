@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemukat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nelayan yang menggunakan pukat;"
+      },
+      {
+        "type": "desc",
+        "text": "perahu mayang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemukat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kejam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak menaruh belas kasihan; bengis; zalim;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat kikir;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tertutup rapat (tentang mata); pejam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejam",
+  "related": [],
+  "detailed": false
+}

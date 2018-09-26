@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks ekspresif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks yang mengungkapkan perasaan dan pertimbangan dalam diri pengarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20ekspresif",
+  "related": [],
+  "detailed": false
+}

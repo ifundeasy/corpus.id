@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertelepon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada (mempunyai) pesawat telepon;"
+      },
+      {
+        "type": "desc",
+        "text": "sedang berbicara dengan perantaraan pesawat telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertelepon",
+  "related": [],
+  "detailed": false
+}

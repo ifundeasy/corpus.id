@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poliklinik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balai pengobatan umum (tidak untuk perawatan atau pasien menginap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poliklinik",
+  "related": [],
+  "detailed": false
+}

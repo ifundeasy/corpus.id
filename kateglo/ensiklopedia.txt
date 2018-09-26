@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ensiklopedia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku (atau serangkaian buku) yang menghimpun keterangan atau uraian tentang berbagai hal dalam bidang seni dan ilmu pengetahuan, yang disusun menurut abjad atau menurut lingkungan ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ensiklopedia",
+  "related": [],
+  "detailed": false
+}

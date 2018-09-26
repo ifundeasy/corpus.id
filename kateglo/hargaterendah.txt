@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga terendah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga termurah untuk suatu barang atau jasa, biasanya ditetapkan oleh pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20terendah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melengah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "meleng; tidak awas-awas; lalai;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempersenang; menghibur;"
+      },
+      {
+        "type": "desc",
+        "text": "mengasuh anak supaya jangan menangis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melengah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pesong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serong; mencong;"
+      },
+      {
+        "type": "desc",
+        "text": "putar (ke kanan atau ke kiri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesong",
+  "related": [],
+  "detailed": false
+}

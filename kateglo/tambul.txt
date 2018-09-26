@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tambul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kue yang dihidangkan sebagai teman minuman;"
+      },
+      {
+        "type": "desc",
+        "text": "minuman untuk dihidangkan (untuk menyegarkan badan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bertambul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambul",
+  "related": [],
+  "detailed": false
+}

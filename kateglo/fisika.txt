@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang zat dan energi (seperti panas, cahaya, dan bunyi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisika",
+  "related": [],
+  "detailed": false
+}

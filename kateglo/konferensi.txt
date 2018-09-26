@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konferensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat atau pertemuan untuk berunding atau bertukar pendapat mengenai suatu masalah yang dihadapi bersama; permusyawaratan; muktamar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konferensi",
+  "related": [],
+  "detailed": false
+}

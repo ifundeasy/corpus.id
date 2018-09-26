@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku referensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku rujukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20referensi",
+  "related": [],
+  "detailed": false
+}

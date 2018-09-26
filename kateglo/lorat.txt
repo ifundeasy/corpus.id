@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lorat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam kebingungan (kesulitan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rewel (susah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lorat",
+  "related": [],
+  "detailed": false
+}

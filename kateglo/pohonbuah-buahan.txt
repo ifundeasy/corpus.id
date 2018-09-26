@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pohon buah-buahan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pohon buah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pohon%20buah-buahan",
+  "related": [],
+  "detailed": false
+}

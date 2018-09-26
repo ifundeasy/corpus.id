@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "praseminar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan pendahuluan untuk mempersiapkan seminar yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=praseminar",
+  "related": [],
+  "detailed": false
+}

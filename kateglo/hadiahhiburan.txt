@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hadiah hiburan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadiah yang diberikan kepada peserta perlombaan dsb yang tidak menang, tetapi hampir memenuhi persyaratan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadiah%20hiburan",
+  "related": [],
+  "detailed": false
+}

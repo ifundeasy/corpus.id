@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbekalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang bekal atau persediaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbekalan",
+  "related": [],
+  "detailed": false
+}

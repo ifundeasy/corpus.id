@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "birama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "ayunan gerak kelompok beberapa pulsa yang pulsa pertamanya mendapat aksen kuat secara berulang dan teratur;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan kelompok ketukan tetap yang dimulai dengan ketukan kuat sampai ketukan kuat berikutnya; metrum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=birama",
+  "related": [],
+  "detailed": false
+}

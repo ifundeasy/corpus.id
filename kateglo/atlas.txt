@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atlas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisi peta bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis sutra yang halus dan berkilat pada satu sisi; satin; antelas;"
+      },
+      {
+        "type": "desc",
+        "text": "ruas tulang leher yang teratas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atlas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isi kampung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk kampung (negeri, pulau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isi%20kampung",
+  "related": [],
+  "detailed": false
+}

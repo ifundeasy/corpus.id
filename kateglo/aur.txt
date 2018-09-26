@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buluh; bambu;"
+      },
+      {
+        "type": "link",
+        "text": "mengaur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aur",
+  "related": [],
+  "detailed": false
+}

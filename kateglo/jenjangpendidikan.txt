@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jenjang pendidikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahap dalam pendidikan yang berkelanjutan yang ditetapkan berdasarkan tingkat perkembangan para peserta didik, keluasan bahan pengajaran, dan tujuan pendidikan yang dicantumkan dalam kurikulum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenjang%20pendidikan",
+  "related": [],
+  "detailed": false
+}

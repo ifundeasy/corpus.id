@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perubahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) berubah; peralihan; pertukaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) perbaikan aktiva tetap yang tidak menambah jumlah jasanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perubahan",
+  "related": [],
+  "detailed": false
+}

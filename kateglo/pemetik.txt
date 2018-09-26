@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memetik (tentang buah, bunga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memetik (dawai pada alat musik);"
+      },
+      {
+        "type": "desc",
+        "text": "cembul (lampu listrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemetik",
+  "related": [],
+  "detailed": false
+}

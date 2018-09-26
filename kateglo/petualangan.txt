@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petualangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bertualang;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan menekad (menyeleweng);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petualangan",
+  "related": [],
+  "detailed": false
+}

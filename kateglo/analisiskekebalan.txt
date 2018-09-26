@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis kekebalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) analisis yang menggunakan reaksi antigen-antibodi untuk menerangkan zat-zat biokimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20kekebalan",
+  "related": [],
+  "detailed": false
+}

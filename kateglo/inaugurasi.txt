@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inaugurasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengukuhan resmi dalam jabatan atau kedudukan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembukaan resmi (gedung dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pelantikan resmi (mahasiswa baru);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inaugurasi",
+  "related": [],
+  "detailed": false
+}

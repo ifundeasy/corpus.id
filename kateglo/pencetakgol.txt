@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencetak gol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) pemain (misal sepak bola) yang mencetak gol atau memasukkan bola ke dalam gawang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencetak%20gol",
+  "related": [],
+  "detailed": false
+}

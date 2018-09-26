@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik aries",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salah satu dari titik perpotongan ekliptika dengan khatulistiwa langit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20aries",
+  "related": [],
+  "detailed": false
+}

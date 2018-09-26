@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konyol",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sopan; kurang ajar;"
+      },
+      {
+        "type": "desc",
+        "text": "agak gila; kurang akal;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berguna; sia-sia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konyol",
+  "related": [],
+  "detailed": false
+}

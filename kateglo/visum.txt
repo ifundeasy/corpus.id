@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "visum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda pernyataan atau keterangan telah mengetahui atau menyetujui;"
+      },
+      {
+        "type": "desc",
+        "text": "visa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=visum",
+  "related": [],
+  "detailed": false
+}

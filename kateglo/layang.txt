@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "layang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "layang gantung"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melayang"
+      },
+      {
+        "type": "link",
+        "text": "pelayangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layang",
+  "related": [],
+  "detailed": false
+}

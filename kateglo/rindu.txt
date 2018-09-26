@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rindu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat ingin dan berharap benar terhadap sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "memiliki keinginan yang kuat untuk bertemu (hendak pulang ke kampung halaman);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rindu",
+  "related": [],
+  "detailed": false
+}

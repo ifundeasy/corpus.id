@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kias",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbandingan (persamaan); ibarat; contoh yang telah ada (terjadi);"
+      },
+      {
+        "type": "desc",
+        "text": "sindiran;"
+      },
+      {
+        "type": "desc",
+        "text": "contoh (model) yang telah ada; analogi;"
+      },
+      {
+        "type": "desc",
+        "text": "alasan (hukum) yang berdasarkan perbandingan atau persamaan dengan hal yang telah terjadi (dalam hukum Islam);"
+      },
+      {
+        "type": "desc",
+        "text": "kepandaian mengobati dsb dengan jampi-jampi; ilmu kias, ilmu sihir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kias",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petualang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertualang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berusaha memperoleh sesuatu dengan cara menekat (tidak jujur dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka mencari pengalaman yang sulit-sulit, berbahaya, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petualang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eklips",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron) penutupan sebagian atau seluruh sinar matahari apabila dilihat dari bumi (apabila bulan berada pada garis antara matahari dan bumi) atau penutupan sebagian atau seluruh pantulan sinar bulan dilihat dari bumi (apabila bumi berada di antara matahari dan bulan); gerhana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eklips",
+  "related": [],
+  "detailed": false
+}

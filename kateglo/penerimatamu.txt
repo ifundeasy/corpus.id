@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerima tamu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menerima dan melayani tamu pada waktu pertama kali tamu masuk hotel; menerima pemesanan kamar, baik langsung maupun tidak langsung, seperti melalui telepon, telegram, atau alat komunikasi lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerima%20tamu",
+  "related": [],
+  "detailed": false
+}

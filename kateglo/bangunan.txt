@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bangunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang didirikan; sesuatu yang dibangun (seperti rumah, gedung, menara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangunan",
+  "related": [],
+  "detailed": false
+}

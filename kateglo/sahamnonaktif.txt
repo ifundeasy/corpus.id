@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham nonaktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) saham yang jarang diperjualbelikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20nonaktif",
+  "related": [],
+  "detailed": false
+}

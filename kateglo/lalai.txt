@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lalai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dsb); lengah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak ingat karena asyik melakukan sesuatu; terlupa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) tali di kapal (perahu) sebagai pemutar kayu palang tempat menggantungkan layar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lalai",
+  "related": [],
+  "detailed": false
+}

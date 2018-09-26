@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hasib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "ahli berhitung; ahli pemeriksaan pembukuan;"
+      },
+      {
+        "type": "desc",
+        "text": "maha penghisab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasib",
+  "related": [],
+  "detailed": false
+}

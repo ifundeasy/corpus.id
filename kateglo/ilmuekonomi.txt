@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu ekonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang produksi, distribusi, dan konsumsi barang, serta berbagai masalah yang bersangkutan dengan itu, seperti tenaga kerja, pembiayaan, dan keuangan;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang kegiatan sosial manusia dalam memenuhi kebutuhan hidupnya yang diperoleh dari lingkungannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20ekonomi",
+  "related": [],
+  "detailed": false
+}

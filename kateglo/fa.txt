@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf ke-20 abjad Arab;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) nada ke-4 pada urutan tangga nada diatonik, dilambangkan dengan angka 4;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fa",
+  "related": [],
+  "detailed": false
+}

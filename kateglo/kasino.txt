@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasino",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung atau kamar yang digunakan untuk berdansa, berjudi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah peranginan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasino",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kiliran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengilir;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengilir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiliran",
+  "related": [],
+  "detailed": false
+}

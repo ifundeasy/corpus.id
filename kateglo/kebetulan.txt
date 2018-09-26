@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebetulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tidak dengan sengaja terjadi (bertemu, tertangkap, dsb);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tepat atau kena benar (dengan tidak sengaja);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang terjadi secara tidak terduga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebetulan",
+  "related": [],
+  "detailed": false
+}

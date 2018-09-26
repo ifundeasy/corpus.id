@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "redaksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (pada persuratkabaran) yang memilih dan menyusun tulisan yang akan dimasukkan ke dalam surat kabar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cara dan gaya menyusun kata dalam kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaksi",
+  "related": [],
+  "detailed": false
+}

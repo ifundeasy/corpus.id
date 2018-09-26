@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lega",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lapang; luas; tidak sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sesak; kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "berasa senang (tenteram); tidak gelisah (khawatir) lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "senggang; tidak sibuk;"
+      },
+      {
+        "type": "desc",
+        "text": "-- hati;"
+      },
+      {
+        "type": "desc",
+        "text": "-- pikiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lega",
+  "related": [],
+  "detailed": false
+}

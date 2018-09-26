@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yoga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem filsafat Hindu yang bertujuan mengheningkan pikiran, bertafakur, dan menguasai diri;"
+      },
+      {
+        "type": "desc",
+        "text": "senam gerak badan dengan latihan pernapasan, pikiran, dsb untuk kesehatan rohani dan jasmani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yoga",
+  "related": [],
+  "detailed": false
+}

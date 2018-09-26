@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gradien",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecepatan perubahan suatu variabel dengan mengikuti koordinat ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gradien",
+  "related": [],
+  "detailed": false
+}

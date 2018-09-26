@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "depresi tropis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "depresi yang berasal dari daerah tropis;"
+      },
+      {
+        "type": "desc",
+        "text": "gangguan tropis yang kecepatan anginnya lebih rendah dari 34 knot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depresi%20tropis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "triatlon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lomba yang terdiri atas serangkaian cabang olahraga, yaitu renang, balap sepeda, dan lari yang dilakukan secara berkesinambungan dalam satu kesatuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=triatlon",
+  "related": [],
+  "detailed": false
+}

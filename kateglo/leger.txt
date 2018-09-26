@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leger",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik)"
+      },
+      {
+        "type": "desc",
+        "text": "(buku) daftar nilai asli siswa (sebelum dipindahkan ke dalam buku laporan pendidikan);"
+      },
+      {
+        "type": "desc",
+        "text": "balok penyangga lantai;"
+      },
+      {
+        "type": "desc",
+        "text": "pipa air; tempat air; tong (anggur dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leger",
+  "related": [],
+  "detailed": false
+}

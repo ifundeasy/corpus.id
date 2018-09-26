@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "layar lebar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "layar di gedung bioskop untuk memproyeksikan film, ukuran lebarnya lebih besar daripada tingginya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) layar yang lebih besar daripada layar biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layar%20lebar",
+  "related": [],
+  "detailed": false
+}

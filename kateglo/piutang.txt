@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piutang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dipinjamkan (yang dapat ditagih dari seseorang); utang-piutang, uang yang dipinjam dari orang lain dan yang dipinjamkan kepada orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "tagihan uang perusahaan kepada para pelanggan yang diharapkan akan dilunasi dalam waktu paling lama satu tahun sejak tanggal keluarnya tagihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piutang",
+  "related": [],
+  "detailed": false
+}

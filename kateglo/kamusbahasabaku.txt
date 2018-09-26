@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus bahasa baku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kosakata ragam bahasa baku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20bahasa%20baku",
+  "related": [],
+  "detailed": false
+}

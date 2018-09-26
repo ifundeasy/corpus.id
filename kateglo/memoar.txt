@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "memoar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kenang-kenangan sejarah atau catatan peristiwa masa lampau menyerupai autobiografi yang ditulis dengan menekankan pendapat, kesan, dan tanggapan pencerita atas peristiwa yang dialami dan tentang tokoh yang berhubungan dengannya;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan atau rekaman tentang pengalaman hidup seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memoar",
+  "related": [],
+  "detailed": false
+}

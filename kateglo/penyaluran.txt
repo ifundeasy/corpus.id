@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyaluran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "n proses, cara, perbuatan menyalurkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyaluran",
+  "related": [],
+  "detailed": false
+}

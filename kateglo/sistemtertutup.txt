@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) pengendalian air dalam sistem akuakultur secara terus-menerus selama masa pemeliharaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20tertutup",
+  "related": [],
+  "detailed": false
+}

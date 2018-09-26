@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan (huruf) pada surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20surat",
+  "related": [],
+  "detailed": false
+}

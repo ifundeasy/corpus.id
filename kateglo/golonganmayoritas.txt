@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "golongan mayoritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan masyarakat yang terbanyak jumlahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=golongan%20mayoritas",
+  "related": [],
+  "detailed": false
+}

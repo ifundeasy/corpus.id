@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan eksekutif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan pelaksana undang-undang yang menjalankan roda pemerintahan (sehari-hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20eksekutif",
+  "related": [],
+  "detailed": false
+}

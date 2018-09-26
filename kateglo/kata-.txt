@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "kata-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "turun; menurun;"
+      },
+      {
+        "type": "desc",
+        "text": "bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata-",
+  "related": [],
+  "detailed": false
+}

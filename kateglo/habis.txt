@@ -1,0 +1,51 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "habis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak ada yang tinggal lagi (karena sudah digunakan, dibagikan, dimakan, dsb); tidak bersisa;"
+      },
+      {
+        "type": "desc",
+        "text": "selesai;"
+      },
+      {
+        "type": "desc",
+        "text": "tamat;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah sampai pada batas waktu yang ditentukan;"
+      },
+      {
+        "type": "desc",
+        "text": "keluar biaya;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sesudah; setelah;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kalau begitu (tidak begitu); maka;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=habis",
+  "related": [],
+  "detailed": false
+}

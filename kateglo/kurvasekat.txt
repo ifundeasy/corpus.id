@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva sekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) kurva yang melukiskan kemungkinan partikel berberat jenis tertentu masuk ke dalam produk buangan pada suatu pencucian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20sekat",
+  "related": [],
+  "detailed": false
+}

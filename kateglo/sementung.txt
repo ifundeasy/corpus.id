@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sementung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "bebal; dungu;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak cekatan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan semak, tingginya kira-kira 3 m, buahnya sebesar buah kecapi dan berbulu halus, daunnya selebar daun ketapang dan kesat; Alsodeia lonccolata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sementung",
+  "related": [],
+  "detailed": false
+}

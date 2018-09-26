@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rimbun",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdaun dan bercabang banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "lebat atau tebal (tentang rambut kepala);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak layarnya (tentang perahu);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak pakaian (dan perhiasan) yang dipakai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rimbun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lansir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "langsir"
+      },
+      {
+        "type": "link",
+        "text": "melansir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lansir",
+  "related": [],
+  "detailed": false
+}

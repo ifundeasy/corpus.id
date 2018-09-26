@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buntak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek gemuk;"
+      },
+      {
+        "type": "desc",
+        "text": "bundar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buntak",
+  "related": [],
+  "detailed": false
+}

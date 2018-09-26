@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ohm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan hambatan listrik sebagai tahanan antara dua ujung yang dilalui arus listrik, jika padanya diberikan tegangan satu volt dan menimbulkan arus listrik satu ampere;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ohm",
+  "related": [],
+  "detailed": false
+}

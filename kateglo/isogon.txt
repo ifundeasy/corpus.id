@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isogon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "garis pada peta yang menghubungkan tempat yang mempunyai arah angin yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bangun yang sudutnya sama besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isogon",
+  "related": [],
+  "detailed": false
+}

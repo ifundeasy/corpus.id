@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "astronautika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelajahan ke angkasa di luar atmosfer bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang penjelajahan ke angkasa luar dengan kendaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=astronautika",
+  "related": [],
+  "detailed": false
+}

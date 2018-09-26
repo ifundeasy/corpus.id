@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periodik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menurut periode tertentu; muncul atau terjadi dalam selang waktu yang tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periodik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengamalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengamalkan, melaksanakan; pelaksanaan; penerapan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menunaikan (kewajiban, tugas);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyampaikan (cita-cita, gagasan);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyumbangkan atau mendermakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengamalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan bakar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan atau barang yang dipakai untuk menimbulkan api (panas), seperti minyak, batu bara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20bakar",
+  "related": [],
+  "detailed": false
+}

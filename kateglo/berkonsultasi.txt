@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkonsultasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar pikiran atau meminta pertimbangan dalam memutuskan sesuatu (tentang usaha dagang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meminta nasihat (tentang kesehatan, pendidikan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkonsultasi",
+  "related": [],
+  "detailed": false
+}

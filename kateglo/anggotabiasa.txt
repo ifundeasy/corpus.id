@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota biasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota perkumpulan yang bukan pengurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20biasa",
+  "related": [],
+  "detailed": false
+}

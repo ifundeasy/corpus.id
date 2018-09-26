@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (baik atau buruk);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan baik yang mendatangkan pahala (menurut ajaran agama Islam);"
+      },
+      {
+        "type": "desc",
+        "text": "yang dilakukan dengan tujuan untuk berbuat kebaikan terhadap masyarakat atau sesama manusia (memberi derma, mengumpulkan dana untuk membantu korban bencana alam, penyandang cacat, orang jompo, anak yatim piatu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amal",
+  "related": [],
+  "detailed": false
+}

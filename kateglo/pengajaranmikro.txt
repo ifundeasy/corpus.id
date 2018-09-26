@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengajaran mikro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik pelatihan mengajar yang jumlah muridnya dibatasi, misal 5—10 orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengajaran%20mikro",
+  "related": [],
+  "detailed": false
+}

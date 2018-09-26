@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrolisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) penguraian senyawa berbentuk larutan, lelehan, atau cairan biasa oleh arus listrik yang mengalir melalui senyawa tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrolisis",
+  "related": [],
+  "detailed": false
+}

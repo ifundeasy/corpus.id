@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sofitel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hotel untuk masyarakat kelas mewah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sofitel",
+  "related": [],
+  "detailed": false
+}

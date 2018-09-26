@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "multi-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "banyak; lebih dari satu; lebih dari dua;"
+      },
+      {
+        "type": "desc",
+        "text": "berlipat ganda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multi-",
+  "related": [],
+  "detailed": false
+}

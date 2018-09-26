@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdeteksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat dideteksi; selesai dideteksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdeteksi",
+  "related": [],
+  "detailed": false
+}

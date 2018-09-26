@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sernak",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "menyernak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sernak",
+  "related": [],
+  "detailed": false
+}

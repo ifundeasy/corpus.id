@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga sedarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sanak saudara yang ada hubungan keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20sedarah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usul balasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usul yang dikemukakan sebagai jawaban yang telah dikemukakan oleh pihak lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usul%20balasan",
+  "related": [],
+  "detailed": false
+}

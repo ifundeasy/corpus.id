@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertumbuhan penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bertambah atau berkurangnya jumlah penduduk di suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertumbuhan%20penduduk",
+  "related": [],
+  "detailed": false
+}

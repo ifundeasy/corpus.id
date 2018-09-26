@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ramai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "riuh rendah (tentang suara, bunyi);"
+      },
+      {
+        "type": "desc",
+        "text": "riang gembira; meriah;"
+      },
+      {
+        "type": "desc",
+        "text": "serba giat; sibuk (tentang pasar, perdagangan);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak (penduduk, orang);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak kendaraan berlalu-lalang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramai",
+  "related": [],
+  "detailed": false
+}

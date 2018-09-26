@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang antara dua garis tegak pada lembar kertas atau halaman buku; lajur;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian vertikal pada halaman cetak yang dipisahkan oleh garis tebal atau ruang kosong (seperti dalam surat kabar);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian khusus yang utama dalam surat kabar atau majalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) tiang (pilar) penyangga (biasanya dari beton yang bertulang besi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolom",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memecat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melepaskan (dari jabatan); memberhentikan (dari keanggotaan perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan (dari sekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membebaskan dari pekerjaan (jabatan dsb untuk sementara waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "mengabaikan; tidak mengindahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memecat",
+  "related": [],
+  "detailed": false
+}

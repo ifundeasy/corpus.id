@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengikuti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menurutkan (sesuatu yang berjalan di depan, yang telah ada); mengiringi; menyertai;"
+      },
+      {
+        "type": "desc",
+        "text": "turut belajar atau mendengarkan (dalam kursus, kuliah, latihan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memperhatikan (mendengarkan, melihat, membaca, dsb) baik-baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengikuti",
+  "related": [],
+  "detailed": false
+}

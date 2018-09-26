@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis balik sartan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis balik utara (23,30o sebelah utara khatulistiwa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20balik%20sartan",
+  "related": [],
+  "detailed": false
+}

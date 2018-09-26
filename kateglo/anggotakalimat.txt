@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau kelompok kata yang menjadi bagian kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20kalimat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran udara di atas laring yang terdiri atas rongga faring, rongga mulut, dan rongga hidung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20suara",
+  "related": [],
+  "detailed": false
+}

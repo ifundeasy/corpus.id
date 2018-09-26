@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "transkripsi kasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) transkripsi fonetis yang menandai perbedaan fonetis yang penting (fungsional) saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transkripsi%20kasar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enigma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teka-teki; tidak jelas (tentang ucapan); misterius;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enigma",
+  "related": [],
+  "detailed": false
+}

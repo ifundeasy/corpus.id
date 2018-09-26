@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bazar kue",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bazar yang hanya menjual kue untuk tujuan amal; pasar amal kue;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bazar%20kue",
+  "related": [],
+  "detailed": false
+}

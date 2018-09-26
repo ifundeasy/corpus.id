@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menskors",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memecat atau menghentikan untuk sementara waktu (dari jabatan, keanggotaan suatu perkumpulan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menunda atau menghentikan untuk sementara (rapat, sidang pengadilan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menskors",
+  "related": [],
+  "detailed": false
+}

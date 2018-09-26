@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percontoh senarai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) percontoh yang diseleksi dengan mengambil masukan dari daftar barang yang membentuk populasi yang diamati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percontoh%20senarai",
+  "related": [],
+  "detailed": false
+}

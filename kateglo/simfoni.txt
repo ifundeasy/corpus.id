@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simfoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik yang ditulis untuk orkes lengkap (biasanya terdiri atas empat bagian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simfoni",
+  "related": [],
+  "detailed": false
+}

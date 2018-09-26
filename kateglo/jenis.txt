@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jenis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang mempunyai ciri (sifat, keturunan, dsb) yang khusus; macam;"
+      },
+      {
+        "type": "desc",
+        "text": "mutu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) satuan dasar klasifikasi biologi, terdiri atas gabungan populasi yang diperkirakan dapat saling mengawini dengan bebas dan dapat dikenal cirinya secara morfologi, misal jenis sekerabat digabungkan dalam satu marga, setiap jenis tumbuhan mewakili nama yang terdiri atas dua kata, yakni nama marga dan penunjuk jenisnya, seperti Artocarpus altissima, Artocarpus communis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) klasifikasi kata yang kadang-kadang bersangkutan dengan kelamin, kadang-kadang tidak; gender;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenis",
+  "related": [],
+  "detailed": false
+}

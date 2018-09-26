@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amendemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usul perubahan undang-undang yang dibicarakan dalam Dewan Perwakilan Rakyat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "penambahan pada bagian yang sudah ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amendemen",
+  "related": [],
+  "detailed": false
+}

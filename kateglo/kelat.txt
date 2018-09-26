@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tali penarik layar perahu;"
+      },
+      {
+        "type": "desc",
+        "text": "tali untuk menarik pohon yang ditebang supaya roboh;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sepat (berasa seperti rasa pinang, salak mentah, pisang mentah);"
+      },
+      {
+        "type": "desc",
+        "text": "pohon yang keras kayunya; (banyak macamnya seperti -- api, -- kuning, -- merah); Eugenia;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu kelat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) lekat;"
+      },
+      {
+        "type": "link",
+        "text": "kelat bahu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelat",
+  "related": [],
+  "detailed": false
+}

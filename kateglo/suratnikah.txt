@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat nikah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang berisi penjelasan bahwa seorang perempuan dan seorang laki-laki kawin dengan sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20nikah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turnamen terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "turnamen yang terbuka bagi siapa saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turnamen%20terbuka",
+  "related": [],
+  "detailed": false
+}

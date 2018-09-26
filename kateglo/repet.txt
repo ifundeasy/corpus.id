@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repet",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merepet"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repet",
+  "related": [],
+  "detailed": false
+}

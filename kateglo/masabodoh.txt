@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masa bodoh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kata afektif untuk menyatakan tidak senang hati; terserahlah; sesukamulah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak peduli apa-apa; tidak memperhatikan sama sekali; acuh tak acuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20bodoh",
+  "related": [],
+  "detailed": false
+}

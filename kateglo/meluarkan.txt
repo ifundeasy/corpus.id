@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meluarkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak memasukkan ke dalam bilangan (golongan dsb); mengecualikan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meluarkan",
+  "related": [],
+  "detailed": false
+}

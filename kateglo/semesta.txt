@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semesta",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "seluruh; segenap; semuanya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(berlaku untuk) seluruh dunia; universal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semesta",
+  "related": [],
+  "detailed": false
+}

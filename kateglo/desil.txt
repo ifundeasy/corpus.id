@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) nilai yang menandai batas interval dari sebaran frekuensi yang berderet dalam sepuluh bagian sebaran yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desil",
+  "related": [],
+  "detailed": false
+}

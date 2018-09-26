@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "patah siku",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "sudut siku-siku;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat menolak permintaan orang (karena sudah berutang budi dsb); tidak dapat melawan (membantah dsb) lagi; tidak berdaya lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patah%20siku",
+  "related": [],
+  "detailed": false
+}

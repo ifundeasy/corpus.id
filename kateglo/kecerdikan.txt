@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecerdikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepandaian;"
+      },
+      {
+        "type": "desc",
+        "text": "kelicikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecerdikan",
+  "related": [],
+  "detailed": false
+}

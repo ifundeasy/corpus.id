@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koligasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan antara kategori gramatikal dari unsur leksikal di dalam struktur sintaktis;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok unsur leksikal yang berkategori gramatikal sama dalam struktur sintaktis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koligasi",
+  "related": [],
+  "detailed": false
+}

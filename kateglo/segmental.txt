@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segmental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) bersangkutan dengan segmen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segmental",
+  "related": [],
+  "detailed": false
+}

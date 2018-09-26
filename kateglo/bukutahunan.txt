@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang dikeluarkan setiap tahun yang memuat karangan mengenai semua peristiwa dan perkembangan yang terjadi selama satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20tahunan",
+  "related": [],
+  "detailed": false
+}

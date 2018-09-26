@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "antara; sela (waktu, peristiwa, ruang, dsb); lat;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang mengantarai; selangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) pinjam;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tempat di samping tangga yang masuk ke serambi (tempat membasuh kaki dan meletakkan terompah dsb sebelum masuk ke dalam rumah);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sementara; pada waktu; sedang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selang",
+  "related": [],
+  "detailed": false
+}

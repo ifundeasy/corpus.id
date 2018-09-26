@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meterai upah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meterai tanda pembayaran pajak upah yang ditempelkan pada daftar upah pekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meterai%20upah",
+  "related": [],
+  "detailed": false
+}

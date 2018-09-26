@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil membagi;"
+      },
+      {
+        "type": "desc",
+        "text": "perolehan atau penerimaan (dari barang yang diberi); yang diperuntukkan;"
+      },
+      {
+        "type": "desc",
+        "text": "jatah;"
+      },
+      {
+        "type": "desc",
+        "text": "penggal (buku, cerita, dsb); jilid;"
+      },
+      {
+        "type": "desc",
+        "text": "sepenggal dari sesuatu yang utuh;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu (benda, alat, dsb) yang menjadi pelengkap;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang dari suatu pekerjaan (jawatan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "nasib (untung, malang); peruntungan;"
+      },
+      {
+        "type": "desc",
+        "text": "pecahan dari kesatuan (seperti dari dewan, panitia) yang bertugas mengurus sesuatu; seksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian",
+  "related": [],
+  "detailed": false
+}

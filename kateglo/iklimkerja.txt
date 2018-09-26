@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suasana kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20kerja",
+  "related": [],
+  "detailed": false
+}

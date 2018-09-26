@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agrokimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan kimia untuk pertanian, misal insektisida;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agrokimia",
+  "related": [],
+  "detailed": false
+}

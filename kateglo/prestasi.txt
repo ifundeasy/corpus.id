@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prestasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil yang telah dicapai (dari yang telah dilakukan, dikerjakan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prestasi",
+  "related": [],
+  "detailed": false
+}

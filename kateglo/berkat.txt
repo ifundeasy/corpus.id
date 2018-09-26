@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karunia Tuhan yang membawa kebaikan dalam hidup manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "doa restu dan pengaruh baik (yang mendatangkan selamat dan bahagia) dari orang yang dihormati atau dianggap suci (keramat), seperti orang tua, guru, pemuka agama;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan dsb yang dibawa pulang sehabis kenduri;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) mendatangkan kebaikan; bermanfaat; berkah;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "karena; akibat dari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkat",
+  "related": [],
+  "detailed": false
+}

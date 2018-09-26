@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pos ekspres",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pos kilat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pos%20ekspres",
+  "related": [],
+  "detailed": false
+}

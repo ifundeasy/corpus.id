@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memantak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endotermal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "endotermis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endotermal",
+  "related": [],
+  "detailed": false
+}

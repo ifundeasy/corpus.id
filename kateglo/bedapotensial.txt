@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beda potensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) selisih tegangan listrik antara dua titik yang ditinjau, biasanya dilambangkan dengan V;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beda%20potensial",
+  "related": [],
+  "detailed": false
+}

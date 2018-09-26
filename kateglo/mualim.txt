@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mualim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(orang) ahli agama; guru agama;"
+      },
+      {
+        "type": "desc",
+        "text": "penunjuk jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "perwira kapal berijazah pelayaran niaga nautika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mualim",
+  "related": [],
+  "detailed": false
+}

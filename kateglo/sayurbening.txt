@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sayur bening",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayur yang tidak memakai asam dan tidak bersantan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayur%20bening",
+  "related": [],
+  "detailed": false
+}

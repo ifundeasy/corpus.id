@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alur bawahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) alur kedua atau tambahan yang disisipkan di sela-sela bagian alur utama sebagai variasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alur%20bawahan",
+  "related": [],
+  "detailed": false
+}

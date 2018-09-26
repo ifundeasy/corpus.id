@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "folklor lisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "folklor yang diciptakan, disebarluaskan, dan diwariskan dalam bentuk lisan (bahasa rakyat, teka-teki, puisi rakyat, cerita prosa rakyat, dan nyanyian rakyat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=folklor%20lisan",
+  "related": [],
+  "detailed": false
+}

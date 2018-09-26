@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kandidiasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi yang disebabkan oleh jamur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandidiasis",
+  "related": [],
+  "detailed": false
+}

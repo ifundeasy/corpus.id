@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perasaan seperti ketika dikitik-kitik (digelitik);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hendak tertawa karena lucu dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa dan terasa adanya kelucuan;"
+      },
+      {
+        "type": "desc",
+        "text": "agak jengkel;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "merasa ngilu atau nyeri seperti mendengar orang mengikir gergaji dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ginjal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geli",
+  "related": [],
+  "detailed": false
+}

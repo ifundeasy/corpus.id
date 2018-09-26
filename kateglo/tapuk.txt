@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapuk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menapuk"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedok, topeng (pertunjukan);"
+      },
+      {
+        "type": "desc",
+        "text": "bersama-sama mulai; mulai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapuk",
+  "related": [],
+  "detailed": false
+}

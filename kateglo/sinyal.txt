@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinyal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda isyarat (lampu merah, bunyi, larangan parkir, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tiang dsb yang menjadi (atau berisi) tanda isyarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinyal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu; babak; tahap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termin",
+  "related": [],
+  "detailed": false
+}

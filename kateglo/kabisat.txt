@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabisat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun yang jumlah harinya 366 hari (dalam tahun itu, jumlah hari dalam bulan Februari adalah 29 hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabisat",
+  "related": [],
+  "detailed": false
+}

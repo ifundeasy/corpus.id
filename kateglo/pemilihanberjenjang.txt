@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemilihan berjenjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilihan (anggota DPR) tidak langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemilihan%20berjenjang",
+  "related": [],
+  "detailed": false
+}

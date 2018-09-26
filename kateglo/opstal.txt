@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opstal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "(bangunan dsb) yang didirikan di atas tanah tanpa hak kepemilikan tanahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang dibangun, ditempatkan, atau ditanam pada sebidang tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opstal",
+  "related": [],
+  "detailed": false
+}

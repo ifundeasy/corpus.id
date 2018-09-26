@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sauna",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mandi uap cara Finlandia;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (ruang) mandi uap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sauna",
+  "related": [],
+  "detailed": false
+}

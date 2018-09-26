@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang giral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) alat pembayar (penukar) dalam bentuk surat-surat berharga (seperti cek);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20giral",
+  "related": [],
+  "detailed": false
+}

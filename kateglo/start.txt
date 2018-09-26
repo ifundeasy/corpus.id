@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "start",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memulai (melakukan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "berangkat (melakukan suatu perjalanan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) sikap permulaan pada waktu akan melakukan jalan atau lari (terutama dalam perlombaan) dengan kaki atau tangan tidak boleh menyentuh garis batas (harus berada di belakang garis batas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=start",
+  "related": [],
+  "detailed": false
+}

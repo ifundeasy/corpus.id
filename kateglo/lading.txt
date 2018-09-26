@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lading",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "parang yang pendek dan agak lebar di tengah-tengah, matanya yang tajam lengkung ke luar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bld) muatan kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) abu panas gunung api yang dibawa angin yang membahayakan kehidupan yang dilaluinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lading",
+  "related": [],
+  "detailed": false
+}

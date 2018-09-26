@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kubur;"
+      },
+      {
+        "type": "desc",
+        "text": "pekuburan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) tempat tinggal; kediaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tas) jalan panjang yang berisi tingkatan yang harus ditempuh oleh seorang sufi, yang penuh dengan berbagai kesulitan dan memerlukan usaha yang sungguh-sungguh sehingga tercapai keadaan yang tetap menjadi milik pribadi orang sufi;"
+      },
+      {
+        "type": "link",
+        "text": "makam Ibrahim"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan mulia (tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makam",
+  "related": [],
+  "detailed": false
+}

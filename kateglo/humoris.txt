@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humoris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai rasa humor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humoris",
+  "related": [],
+  "detailed": false
+}

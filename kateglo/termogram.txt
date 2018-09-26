@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "grafik suhu hasil rekaman yang dilaksanakan oleh termograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termogram",
+  "related": [],
+  "detailed": false
+}

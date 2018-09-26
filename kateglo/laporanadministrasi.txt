@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan administrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian bahan atau keterangan secara objektif dan berdasarkan kenyataan di bidang personel, material, keuangan, dan tata kantor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20administrasi",
+  "related": [],
+  "detailed": false
+}

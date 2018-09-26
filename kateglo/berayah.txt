@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berayah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai ayah (bapak);"
+      },
+      {
+        "type": "desc",
+        "text": "menyebut (menganggap) ayah (kepada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berayah",
+  "related": [],
+  "detailed": false
+}

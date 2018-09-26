@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pujaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu atau orang yang dipuja(-puja);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipakai untuk memuja;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memuja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pujaan",
+  "related": [],
+  "detailed": false
+}

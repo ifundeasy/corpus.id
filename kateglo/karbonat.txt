@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karbonat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mineral hasil senyawa antara karbon (C), oksigen (O2), dan unsur lainnya, misal kalsit yang terdapat di dalam batuan gamping berupa stalaktit dan stalagmit (Ca.CO3);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) garam yang mengandung ion CO32-;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karbonat",
+  "related": [],
+  "detailed": false
+}

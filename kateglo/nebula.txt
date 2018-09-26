@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nebula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekelompok bintang di langit yang tampak sebagai kabut atau gas pijar bercahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "awan di angkasa luar (dari bumi kelihatan seperti bintang yang bersinar redup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nebula",
+  "related": [],
+  "detailed": false
+}

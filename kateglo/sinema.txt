@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung tempat pertunjukan film; bioskop;"
+      },
+      {
+        "type": "desc",
+        "text": "film; gambar hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinema",
+  "related": [],
+  "detailed": false
+}

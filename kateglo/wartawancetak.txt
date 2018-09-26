@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wartawan cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wartawan pencari berita untuk media cetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wartawan%20cetak",
+  "related": [],
+  "detailed": false
+}

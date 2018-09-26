@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas analitik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ark) kelas sekumpulan artefak yang diklasifikasi menjadi beberapa kelompok dan masing-masing kelompok memiliki atribut untuk bahan perbandingan dengan kelompok lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20analitik",
+  "related": [],
+  "detailed": false
+}

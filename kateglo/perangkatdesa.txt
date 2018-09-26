@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkat desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat kelengkapan pemerintah desa yang terdiri atas sekretariat desa dan kepala dusun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkat%20desa",
+  "related": [],
+  "detailed": false
+}

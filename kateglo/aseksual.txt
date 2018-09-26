@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aseksual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tanpa kelamin atau memiliki organ kelamin yang kurang fungsinya;"
+      },
+      {
+        "type": "desc",
+        "text": "tanpa hubungan kelamin;"
+      },
+      {
+        "type": "desc",
+        "text": "diproduksi tanpa melalui kegiatan seksual atau berkembang secara berlainan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aseksual",
+  "related": [],
+  "detailed": false
+}

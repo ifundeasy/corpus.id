@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "target",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran (batas ketentuan dsb) yang telah ditetapkan untuk dicapai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=target",
+  "related": [],
+  "detailed": false
+}

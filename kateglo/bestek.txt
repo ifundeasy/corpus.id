@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bestek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana pembuatan bangunan (gedung dsb) dengan segala perinciannya (gambar, biaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bestek",
+  "related": [],
+  "detailed": false
+}

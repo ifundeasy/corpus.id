@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "langit tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan langit yang bertutup awan paling banyak 95/100 bagian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langit%20tertutup",
+  "related": [],
+  "detailed": false
+}

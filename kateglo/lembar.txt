@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "benang; tali;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi benda yang lebar dan tipis (tentang papan, kertas, seng, dsb); helai;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi benda yang panjang (seperti rambut, tali, dsb); utas; helai;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembar",
+  "related": [],
+  "detailed": false
+}

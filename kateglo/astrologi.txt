@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "astrologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu perbintangan yang dipakai untuk meramal dan mengetahui nasib orang; nujum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=astrologi",
+  "related": [],
+  "detailed": false
+}

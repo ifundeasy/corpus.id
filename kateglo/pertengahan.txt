@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertengahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (titik, waktu, dsb) yang di tengah di antara ujung dan tepi (awal dan akhir dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sedang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rata-rata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertengahan",
+  "related": [],
+  "detailed": false
+}

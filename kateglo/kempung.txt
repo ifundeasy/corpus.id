@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kempot (tentang pipi);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian perut sebelah bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "gelembung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempung",
+  "related": [],
+  "detailed": false
+}

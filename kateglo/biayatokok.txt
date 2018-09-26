@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya tokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tambahan pembayaran karcis kereta api dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20tokok",
+  "related": [],
+  "detailed": false
+}

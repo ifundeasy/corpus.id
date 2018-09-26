@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haiku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) puisi Jepang yang biasanya menggunakan ilusi dan perbandingan, terdiri atas 17 suku kata yang terbagi menjadi 3 larik, larik pertama 5 suku, larik kedua 7 suku, dan larik ketiga 5 suku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haiku",
+  "related": [],
+  "detailed": false
+}

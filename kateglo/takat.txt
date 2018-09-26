@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takat",
+  "tags": {
+    "l": [
+      {
+        "type": "link",
+        "text": "setakat"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) tahan menderita sakit (tidak mudah atau tidak lekas mati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takat",
+  "related": [],
+  "detailed": false
+}

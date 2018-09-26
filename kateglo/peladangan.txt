@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peladangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petani yang hidup dari bercocok tanam dengan cara berpindah-pindah dari satu ladang ke ladang yang baru sebagai mata pencaharian hidupnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem bercocok tanam berpindah-pindah dari satu bidang tanah (ladang) ke bidang tanah yang lain, biasanya dibuka dengan menebang dan membakar sebagian hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peladangan",
+  "related": [],
+  "detailed": false
+}

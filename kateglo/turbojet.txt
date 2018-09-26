@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turbojet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin pesawat terbang yang menggunakan turbin yang digerakkan oleh energi pancaran gas (jet);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turbojet",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari permukaan pintu (dinding, langit-langit, dsb) berupa papan tipis dsb, biasanya berbentuk persegi panjang, dipasang di dalam bingkai, terletak lebih rendah atau lebih tinggi daripada permukaan sekitarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "potongan bahan dari jenis atau warna yang berbeda yang disisipkan pada pakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaran tipis (dari papan atau logam) tempat melekatkan alat (peranti) pengontrol;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) papan peraga untuk pameran, berbentuk persegi panjang, terbuat dari papan lapis, logam, atau bahan lain, digunakan untuk menempelkan foto, gambar, teks yang dipamerkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pembicara yang dipilih untuk berbicara dalam diskusi dan menjawab pertanyaan di depan hadirin (penonton, pendengar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panel",
+  "related": [],
+  "detailed": false
+}

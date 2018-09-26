@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persentase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari keutuhan yang dinyatakan dengan persen;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang diperkirakan;"
+      },
+      {
+        "type": "desc",
+        "text": "angka persen (perseratus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persentase",
+  "related": [],
+  "detailed": false
+}

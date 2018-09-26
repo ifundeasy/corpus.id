@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemes",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "lemas"
+      },
+      {
+        "type": "link",
+        "text": "kecap lemes"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemes",
+  "related": [],
+  "detailed": false
+}

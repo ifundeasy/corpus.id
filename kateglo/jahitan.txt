@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jahitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara menjahit;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menjahit;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dijahit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jahitan",
+  "related": [],
+  "detailed": false
+}

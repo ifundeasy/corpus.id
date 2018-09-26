@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angkel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "uang kontrak yang diberikan kepada orang yang masuk serdadu (pada zaman penjajahan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) menandatangani kontrak lagi (setelah kontrak berakhir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkel",
+  "related": [],
+  "detailed": false
+}

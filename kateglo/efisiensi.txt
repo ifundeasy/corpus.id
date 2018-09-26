@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "efisiensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketepatan cara (usaha, kerja) dalam menjalankan sesuatu (dengan tidak membuang waktu, tenaga, biaya); kedayagunaan; ketepatgunaan; kesangkilan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan menjalankan tugas dengan baik dan tepat (dengan tidak membuang waktu, tenaga, biaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efisiensi",
+  "related": [],
+  "detailed": false
+}

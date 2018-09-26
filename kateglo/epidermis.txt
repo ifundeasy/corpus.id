@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epidermis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan luar kulit untuk pelindung, tidak peka, dan tidak berpembuluh darah; kulit ari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) lapisan sel paling luar pada hewan atau tumbuhan, pada tumbuh-tumbuhan tebalnya hanya satu lapis, sedangkan pada binatang tebalnya beberapa lapis kecuali pada invertebrata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epidermis",
+  "related": [],
+  "detailed": false
+}

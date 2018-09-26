@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekalian",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sekali jalan; sambil (melakukan dsb);"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "semuanya (tidak ada kecualinya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekalian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apikal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan ujung lidah;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi atau fonem yang terjadi karena penyempitan antara ujung lidah dan gigi atas atau alveolum, misal bunyi pertama pada datang, lari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apikal",
+  "related": [],
+  "detailed": false
+}

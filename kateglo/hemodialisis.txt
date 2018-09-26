@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemodialisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencucian darah dengan maksud mengeluarkan bahan tertentu dari darah dengan menggunakan alat yang dinamakan ginjal buatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemodialisis",
+  "related": [],
+  "detailed": false
+}

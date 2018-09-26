@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyetik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjengkal;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat setik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyetik",
+  "related": [],
+  "detailed": false
+}

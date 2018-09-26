@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dan",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "penghubung satuan bahasa (kata, frasa, klausa, dan kalimat) yang setara, yang termasuk tipe yang sama serta memiliki fungsi yang tidak berbeda;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) kelas atau tingkatan (I, II, III, IV, dsb) untuk yudo, karate, kempo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dan",
+  "related": [],
+  "detailed": false
+}

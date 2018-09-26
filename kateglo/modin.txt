@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "juru azan; muazin;"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai masjid;"
+      },
+      {
+        "type": "desc",
+        "text": "lebai di kampung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modin",
+  "related": [],
+  "detailed": false
+}

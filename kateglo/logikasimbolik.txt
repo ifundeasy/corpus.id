@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "logika simbolik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "logika matematik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logika%20simbolik",
+  "related": [],
+  "detailed": false
+}

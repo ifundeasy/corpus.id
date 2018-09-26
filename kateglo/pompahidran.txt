@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pompa hidran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pompa untuk mengeluarkan air dari dalam tanah; pompa air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pompa%20hidran",
+  "related": [],
+  "detailed": false
+}

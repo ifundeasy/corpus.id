@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampul",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengampul"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tempat obat suntik dari kaca berbentuk tabung kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat air dan anggur yang dipakai pada waktu misa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampul",
+  "related": [],
+  "detailed": false
+}

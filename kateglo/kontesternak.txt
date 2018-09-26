@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontes ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kontes yang diselenggarakan untuk menentukan ternak yang terbaik ditinjau dari bentuk tubuh dan kemampuan produksinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontes%20ternak",
+  "related": [],
+  "detailed": false
+}

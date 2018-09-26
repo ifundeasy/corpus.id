@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pandai hidup",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pandai mengatasi masalah kehidupan sehari-hari sehingga tidak kekurangan, tidak berutang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pandai menempatkan diri dalam pergaulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandai%20hidup",
+  "related": [],
+  "detailed": false
+}

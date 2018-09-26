@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "izin terbit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) izin dari pemerintah yang diperlukan untuk menerbitkan surat kabar atau terbitan lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=izin%20terbit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpajakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpajakan",
+  "related": [],
+  "detailed": false
+}

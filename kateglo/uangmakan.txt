@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang makan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang untuk biaya makan (dalam melakukan pekerjaan, tugas, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20makan",
+  "related": [],
+  "detailed": false
+}

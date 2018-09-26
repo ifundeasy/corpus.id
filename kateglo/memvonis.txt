@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memvonis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjatuhkan putusan di pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menuduh melakukan perbuatan melanggar hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memvonis",
+  "related": [],
+  "detailed": false
+}

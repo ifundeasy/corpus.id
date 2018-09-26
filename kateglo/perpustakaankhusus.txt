@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan atau pusat informasi yang dibiayai oleh perseorangan, badan korporasi, perhimpunan, badan pemerintah, kelompok lain;"
+      },
+      {
+        "type": "desc",
+        "text": "koleksi khusus atau terpisah dalam suatu perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20khusus",
+  "related": [],
+  "detailed": false
+}

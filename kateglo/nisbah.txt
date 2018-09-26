@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nisbah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhubungan keluarga;"
+      },
+      {
+        "type": "desc",
+        "text": "nama yang menyatakan seketurunan;"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan antara aspek kegiatan yang dapat dinyatakan dengan angka, misal perbandingan antara laba dan penjualan; rasio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisbah",
+  "related": [],
+  "detailed": false
+}

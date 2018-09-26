@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bioskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan yang diperlihatkan dengan gambar (film) yang disorot sehingga dapat bergerak (berbicara); film;"
+      },
+      {
+        "type": "desc",
+        "text": "gedung pertunjukan film cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bioskop",
+  "related": [],
+  "detailed": false
+}

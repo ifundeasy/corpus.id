@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan haji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan Zulhijah; bulan kedua belas tahun Hijriah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20haji",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak ke atas atau ke tempat yang lebih tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "timbul (tentang matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "mendaki; menanjak; memanjat;"
+      },
+      {
+        "type": "desc",
+        "text": "masuk rumah (melalui tangga); masuk ke kendaraan (angkutan, tumpangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengendarai; menunggang; menumpang (kapal, pesawat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bertambah tinggi (mahal, besar, banyak, dsb); meningkat;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi ke;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naik",
+  "related": [],
+  "detailed": false
+}

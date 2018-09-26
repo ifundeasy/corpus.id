@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "disiplin ilmiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara pendekatan yang mengikuti ketentuan yang pasti dan konsisten untuk memperoleh pengertian dasar yang menjadi sasaran studi;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disiplin%20ilmiah",
+  "related": [],
+  "detailed": false
+}

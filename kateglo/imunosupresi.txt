@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imunosupresi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penekanan reaksi imun; usaha pencegahan atau pengurangan reaksi imun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imunosupresi",
+  "related": [],
+  "detailed": false
+}

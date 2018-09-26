@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kudis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit yang gatal dan menular;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit kulit yang menular, terutama pada ternak (domba dan sapi), disebabkan oleh sejenis tungau yang hidup di dalam kulit, dapat menular pada manusia; Sarcoptes scabiei;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kudis",
+  "related": [],
+  "detailed": false
+}

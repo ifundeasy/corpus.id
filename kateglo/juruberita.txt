@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas (di radio, televisi) yang menyiarkan berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20berita",
+  "related": [],
+  "detailed": false
+}

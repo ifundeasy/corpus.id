@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "audit balas jasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tinjauan berkala oleh konsultan atas gaji, upah, dan tunjangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audit%20balas%20jasa",
+  "related": [],
+  "detailed": false
+}

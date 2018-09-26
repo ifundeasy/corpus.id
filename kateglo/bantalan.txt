@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bantalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang menyerupai bantal (seperti balok ganjal rel kereta api, bantal kecil tempat jarum, peniti);"
+      },
+      {
+        "type": "desc",
+        "text": "alat atau tempat yang digunakan untuk menumpu poros benda, berputar sedemikian rupa hingga perputaran poros itu berjalan lancar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantalan",
+  "related": [],
+  "detailed": false
+}

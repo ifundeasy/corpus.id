@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "informatika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang pengumpulan, klasifikasi, pe-nyimpanan, pengeluaran, dan penyebaran pengetahuan yang direkam;"
+      },
+      {
+        "type": "desc",
+        "text": "hal-hal yang berkaitan dengan informasi; usaha dalam bidang informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informatika",
+  "related": [],
+  "detailed": false
+}

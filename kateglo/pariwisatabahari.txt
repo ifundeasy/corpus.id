@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pariwisata bahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pariwisata yang objeknya adalah laut dan isinya (berperahu, berselancar, menyelam, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pariwisata%20bahari",
+  "related": [],
+  "detailed": false
+}

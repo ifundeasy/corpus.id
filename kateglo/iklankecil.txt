@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan yang dikelompokkan menurut klasifikasi tertentu dan umumnya hanya seluas satu kolom (biasanya tidak menggunakan gambar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20kecil",
+  "related": [],
+  "detailed": false
+}

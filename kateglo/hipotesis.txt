@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dianggap benar untuk alasan atau pengutaraan pendapat (teori, proposisi, dsb) meskipun kebenarannya masih harus dibuktikan; anggapan dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis",
+  "related": [],
+  "detailed": false
+}

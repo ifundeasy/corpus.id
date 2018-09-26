@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pancung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "punca (ujung, penjuru) kain dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersegi runcing;"
+      },
+      {
+        "type": "link",
+        "text": "memancung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan kantor di atas juru tulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan pengumpanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) dua kaidah, A dan B berurutan sehingga kaidah A menghasilkan segmen yang menjadi masukan atau penentu kaidah B;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20pengumpanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis bagi sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) garis lurus yang membagi sudut yang diketahui menjadi dua sudut yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20bagi%20sudut",
+  "related": [],
+  "detailed": false
+}

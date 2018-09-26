@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran panjang, sama dengan 0,688 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elo",
+  "related": [],
+  "detailed": false
+}

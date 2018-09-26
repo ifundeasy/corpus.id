@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gadis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak perempuan yang sudah akil balig; anak dara;"
+      },
+      {
+        "type": "desc",
+        "text": "anak perempuan yang belum kawin; perawan;"
+      },
+      {
+        "type": "desc",
+        "text": "binatang yang belum beranak atau bertelur; dara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gadis",
+  "related": [],
+  "detailed": false
+}

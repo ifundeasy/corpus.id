@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "usul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal; asal mula; dasar;"
+      },
+      {
+        "type": "desc",
+        "text": "yang asli; yang sejati;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sifat asal; kelakuan; tabiat; asal -- , ( -- asal) silsilah; urutan keturunan; asal mula; bangsawan -- , bangsawan karena asal keturunan;"
+      },
+      {
+        "type": "desc",
+        "text": "anjuran (pendapat dsb) yang dikemukakan untuk dipertimbangkan atau untuk diterima;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "selidik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usul",
+  "related": [],
+  "detailed": false
+}

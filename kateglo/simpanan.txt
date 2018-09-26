@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "simpanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang disimpan (uang, barang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyimpan; persimpanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpanan",
+  "related": [],
+  "detailed": false
+}

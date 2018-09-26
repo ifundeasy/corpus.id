@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "denyut nadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "detak nadi yang dapat dirasakan dengan meraba pergelangan tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denyut%20nadi",
+  "related": [],
+  "detailed": false
+}

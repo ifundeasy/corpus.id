@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "religius",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat religi; bersifat keagamaan; yang bersangkut-paut dengan religi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=religius",
+  "related": [],
+  "detailed": false
+}

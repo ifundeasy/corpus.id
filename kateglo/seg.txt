@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seg",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seg",
+  "related": [],
+  "detailed": false
+}

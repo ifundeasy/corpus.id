@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta api listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta api yang dijalankan atau digerakkan oleh tenaga listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20api%20listrik",
+  "related": [],
+  "detailed": false
+}

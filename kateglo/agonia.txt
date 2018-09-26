@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agonia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penderitaan berat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sekarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agonia",
+  "related": [],
+  "detailed": false
+}

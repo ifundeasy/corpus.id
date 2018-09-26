@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepusat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memiliki satu pusat bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai satu titik yang terdapat tepat di tengah-tengah; konsentrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepusat",
+  "related": [],
+  "detailed": false
+}

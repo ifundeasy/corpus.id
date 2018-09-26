@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usaha bersama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha gabungan antara pengusaha asing dan pengusaha nasional;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan bersama antara dua pengusaha atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usaha%20bersama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telemeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menentukan jarak dari suatu titik ke titik lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telemeter",
+  "related": [],
+  "detailed": false
+}

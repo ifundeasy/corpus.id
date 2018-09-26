@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kumis kucing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan, bunganya menyerupai kumis kucing, daunnya direbus untuk obat penyakit ginjal; Orthosiphon grandiflorus;"
+      },
+      {
+        "type": "desc",
+        "text": "bunga kumis kucing;"
+      },
+      {
+        "type": "desc",
+        "text": "daun kumis kucing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumis%20kucing",
+  "related": [],
+  "detailed": false
+}

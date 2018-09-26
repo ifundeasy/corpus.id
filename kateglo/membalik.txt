@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membalik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbalik kembali arahnya (berputar arah);"
+      },
+      {
+        "type": "desc",
+        "text": "berubah letaknya (menelungkup menjadi menelentang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memutar ke arah yang berlawanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membalik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "motivator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (perangsang) yang menyebabkan timbulnya motivasi pada orang lain untuk melaksanakan sesuatu; pendorong; penggerak;"
+      },
+      {
+        "type": "desc",
+        "text": "petugas yang ditunjuk untuk memberikan penerangan dan motivasi kepada calon akseptor keluarga berencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=motivator",
+  "related": [],
+  "detailed": false
+}

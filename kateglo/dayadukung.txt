@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya dukung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah maksimum populasi yang mendukung kelangsungan kehidupan di alam;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ikn) jumlah maksimum ikan yang hidup di suatu perairan selama masa tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20dukung",
+  "related": [],
+  "detailed": false
+}

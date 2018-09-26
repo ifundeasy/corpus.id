@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedudukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kediaman;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pegawai (pengurus perkumpulan dsb) tinggal untuk melakukan pekerjaan atau jabatannya;"
+      },
+      {
+        "type": "desc",
+        "text": "letak atau tempat suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan atau martabat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang sebenarnya (tentang perkara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "status (keadaan atau tingkatan orang, badan atau negara, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedudukan",
+  "related": [],
+  "detailed": false
+}

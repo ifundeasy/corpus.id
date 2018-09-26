@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aras tenaga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Fis) setiap nilai tenaga yang diizinkan untuk suatu sistem fisis yang dapat berkaitan dengan lebih dari satu keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aras%20tenaga",
+  "related": [],
+  "detailed": false
+}

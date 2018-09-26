@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petisiwan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengajukan petisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petisiwan",
+  "related": [],
+  "detailed": false
+}

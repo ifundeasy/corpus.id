@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sistemis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertalian atau berhubungan dengan suatu sistem atau susunan yang teratur;"
+      },
+      {
+        "type": "desc",
+        "text": "terdiri atas beberapa subsistem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistemis",
+  "related": [],
+  "detailed": false
+}

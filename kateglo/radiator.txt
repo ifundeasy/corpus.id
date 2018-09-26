@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pendingin mesin (mobil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiator",
+  "related": [],
+  "detailed": false
+}

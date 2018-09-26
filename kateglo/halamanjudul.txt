@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "halaman judul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) halaman yang berisi judul buku, nama pengarang atau penerjemah, nama penerbit, merek dagang penerbit, dan tahun terbit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halaman%20judul",
+  "related": [],
+  "detailed": false
+}

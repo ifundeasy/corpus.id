@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesan petaruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesan yang ada sangsinya (apabila dilanggar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesan%20petaruh",
+  "related": [],
+  "detailed": false
+}

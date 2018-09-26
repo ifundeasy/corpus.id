@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "B",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-2 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda ke-2 dalam urutan (mutu, nilai, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=B",
+  "related": [],
+  "detailed": false
+}

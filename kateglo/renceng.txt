@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renceng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang lampai (kurus tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berjantung betis (tentang kaki);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "serenceng"
+      },
+      {
+        "type": "link",
+        "text": "renceng mulut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renceng",
+  "related": [],
+  "detailed": false
+}

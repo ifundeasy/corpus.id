@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarang penyakit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang menjadi sumber penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarang%20penyakit",
+  "related": [],
+  "detailed": false
+}

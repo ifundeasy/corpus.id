@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "den",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw, kp)"
+      },
+      {
+        "type": "desc",
+        "text": "raden (kata sapaan untuk seorang pemuda yang dianggap lebih muda derajatnya);"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(Mk) saya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=den",
+  "related": [],
+  "detailed": false
+}

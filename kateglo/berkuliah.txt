@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkuliah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menerima kuliah;"
+      },
+      {
+        "type": "desc",
+        "text": "menuntut pelajaran di perguruan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) memberi kuliah; mengajar (di perguruan tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkuliah",
+  "related": [],
+  "detailed": false
+}

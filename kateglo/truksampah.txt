@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "truk sampah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "truk yang khusus mengangkut sampah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=truk%20sampah",
+  "related": [],
+  "detailed": false
+}

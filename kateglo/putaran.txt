@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan berputar; pusingan; kitaran; kisaran;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memutar (seperti tombol pada pesawat radio, lampu listrik, roda pada mesin jahit, kunci pada arloji);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang diputar (dipindahkan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putaran",
+  "related": [],
+  "detailed": false
+}

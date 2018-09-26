@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agenda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku catatan yang bertanggal untuk satu tahun;"
+      },
+      {
+        "type": "desc",
+        "text": "acara (yang akan dibicarakan dalam rapat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agenda",
+  "related": [],
+  "detailed": false
+}

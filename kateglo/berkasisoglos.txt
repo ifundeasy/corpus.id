@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkas isoglos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) gabungan isoglos yang menjadi penanda batas dialek atau bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkas%20isoglos",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual lepas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual (tanah) secara kontan tanpa syarat apa pun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20lepas",
+  "related": [],
+  "detailed": false
+}

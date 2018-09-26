@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpakaian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengenakan pakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "berdandan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpakaian",
+  "related": [],
+  "detailed": false
+}

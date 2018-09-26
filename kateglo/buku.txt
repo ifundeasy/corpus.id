@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembar kertas yang berjilid, berisi tulisan atau kosong; kitab;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pertemuan dua ruas (jari, buluh, tebu);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang keras pada pertemuan dua ruas (buluh, tebu);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong benda berupa bongkahan atau gumpalan kecil (seperti garam, gula, tanah, sabun);"
+      },
+      {
+        "type": "desc",
+        "text": "tampang (lempeng);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku",
+  "related": [],
+  "detailed": false
+}

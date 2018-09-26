@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang khusus merawat orang yang sakit jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20jiwa",
+  "related": [],
+  "detailed": false
+}

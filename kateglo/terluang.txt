@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terluang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka (tentang tempat, jabatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lowong (tentang jabatan, pekerjaan);"
+      },
+      {
+        "type": "desc",
+        "text": "senggang atau tidak sibuk (tentang waktu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terluang",
+  "related": [],
+  "detailed": false
+}

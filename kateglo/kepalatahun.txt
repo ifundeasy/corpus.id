@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permulaan tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20tahun",
+  "related": [],
+  "detailed": false
+}

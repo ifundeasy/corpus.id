@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata nama abstrak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomina abstrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20nama%20abstrak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang tua dari menantu (baik menantu laki-laki maupun perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan keluarga antara dua orang tua yang terjadi karena anak mereka kawin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besan",
+  "related": [],
+  "detailed": false
+}

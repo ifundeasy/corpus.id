@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memegang kas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengurus (menyimpan dan membukukan) uang perkumpulan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memegang%20kas",
+  "related": [],
+  "detailed": false
+}

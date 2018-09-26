@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menutuli",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi titik (noktah) pada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menutuli",
+  "related": [],
+  "detailed": false
+}

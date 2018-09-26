@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengembusan napas ke luar;"
+      },
+      {
+        "type": "desc",
+        "text": "penghabisan;"
+      },
+      {
+        "type": "desc",
+        "text": "masa jatuh tempo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspirasi",
+  "related": [],
+  "detailed": false
+}

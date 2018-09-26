@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pitometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk mengukur kecepatan dan jarak yang ditempuh kapal, didasarkan pada kecepatan aliran air di sekitar kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pitometer",
+  "related": [],
+  "detailed": false
+}

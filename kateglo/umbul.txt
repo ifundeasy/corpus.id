@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umbul",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "umbul-umbul"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) lekas menjadi besar; subur;"
+      },
+      {
+        "type": "desc",
+        "text": "sumber air (minum);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umbul",
+  "related": [],
+  "detailed": false
+}

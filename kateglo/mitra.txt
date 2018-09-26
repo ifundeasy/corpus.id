@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mitra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teman; sahabat;"
+      },
+      {
+        "type": "desc",
+        "text": "kawan kerja; pasangan kerja; rekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mitra",
+  "related": [],
+  "detailed": false
+}

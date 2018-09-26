@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kastel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah (benteng) yang dikelilingi parit;"
+      },
+      {
+        "type": "desc",
+        "text": "istana yang sekaligus dijadikan benteng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kastel",
+  "related": [],
+  "detailed": false
+}

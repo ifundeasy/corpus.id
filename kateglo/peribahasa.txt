@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peribahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok kata atau kalimat yang tetap susunannya, biasanya mengiaskan maksud tertentu (dalam peribahasa termasuk juga bidal, ungkapan, perumpamaan);"
+      },
+      {
+        "type": "desc",
+        "text": "ungkapan atau kalimat ringkas padat, berisi perbandingan, perumpamaan, nasihat, prinsip hidup atau aturan tingkah laku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peribahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek halo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "kecenderungan menilai terlalu tinggi seseorang berdasarkan prestasi tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "kesalahan yang terjadi pada saat mengadakan pencatatan hasil pengamatan yang disebabkan oleh adanya sesuatu yang mempengaruhi pencatat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20halo",
+  "related": [],
+  "detailed": false
+}

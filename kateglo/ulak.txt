@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulak",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ulak-ulak"
+      },
+      {
+        "type": "link",
+        "text": "ulak-ulak"
+      },
+      {
+        "type": "link",
+        "text": "ulek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulak",
+  "related": [],
+  "detailed": false
+}

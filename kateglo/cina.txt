@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Cina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebuah negeri di Asia; Tiongkok;"
+      },
+      {
+        "type": "desc",
+        "text": "bangsa yang tinggal di Tiongkok; Tionghoa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Cina",
+  "related": [],
+  "detailed": false
+}

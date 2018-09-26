@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semalam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu malam;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "malam kemarin; malam sebelum hari ini; malam tadi;"
+      },
+      {
+        "type": "desc",
+        "text": "sepanjang malam;"
+      },
+      {
+        "type": "desc",
+        "text": "hari sebelum hari ini; kemarin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semalam",
+  "related": [],
+  "detailed": false
+}

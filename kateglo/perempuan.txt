@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perempuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (manusia) yang mempunyai puki, dapat menstruasi, hamil, melahirkan anak, dan menyusui; wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "istri; bini;"
+      },
+      {
+        "type": "desc",
+        "text": "betina (khusus untuk hewan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perempuan",
+  "related": [],
+  "detailed": false
+}

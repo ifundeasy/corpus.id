@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teknokrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemerintahan yang dijalankan oleh teknokrat;"
+      },
+      {
+        "type": "desc",
+        "text": "pengelolaan kehidupan masyarakat yang dilakukan oleh teknisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teknokrasi",
+  "related": [],
+  "detailed": false
+}

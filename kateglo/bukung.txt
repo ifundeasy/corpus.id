@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bukung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "berambut pendek (tentang perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "tukung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukung",
+  "related": [],
+  "detailed": false
+}

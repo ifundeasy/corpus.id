@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berubah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi lain (berbeda) dari semula;"
+      },
+      {
+        "type": "desc",
+        "text": "bertukar (beralih, berganti) menjadi sesuatu yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "berganti (tentang arah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berubah",
+  "related": [],
+  "detailed": false
+}

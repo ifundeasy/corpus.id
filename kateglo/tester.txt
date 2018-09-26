@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tester",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengetes; pengetes;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengetes;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tester",
+  "related": [],
+  "detailed": false
+}

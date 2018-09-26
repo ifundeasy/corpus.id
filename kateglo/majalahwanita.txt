@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah wanita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan khusus mengenai dunia wanita, dari masalah mode, resep makanan, kekeluargaan, dsb, biasanya dilengkapi dengan foto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20wanita",
+  "related": [],
+  "detailed": false
+}

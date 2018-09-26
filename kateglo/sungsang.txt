@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sungsang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbalik (yang di atas menjadi di bawah, yang di depan menjadi di belakang, kepala di bawah kaki di atas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kaki di bawah, kepala di atas (tentang kedudukan bayi yang hendak lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "lihat kembang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sungsang",
+  "related": [],
+  "detailed": false
+}

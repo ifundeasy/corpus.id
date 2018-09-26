@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang keadaan dan sifat makhluk hidup (manusia, binatang, tumbuh-tumbuhan); ilmu hayat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biologi",
+  "related": [],
+  "detailed": false
+}

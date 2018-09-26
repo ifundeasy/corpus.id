@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hormat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menghargai (takzim, khidmat, sopan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan yang menandakan rasa khidmat atau takzim (seperti menyembah, menunduk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hormat",
+  "related": [],
+  "detailed": false
+}

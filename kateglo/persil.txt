@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persil",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tepersil"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebidang tanah dengan ukuran tertentu (untuk perkebunan atau perumahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persil",
+  "related": [],
+  "detailed": false
+}

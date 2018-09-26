@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersajak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai persamaan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "berbentuk puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "membacakan lirik; membacakan puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "mengarang puisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersajak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memasakkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasak untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat supaya masak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memasakkan",
+  "related": [],
+  "detailed": false
+}

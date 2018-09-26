@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengecek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang gemar mengecek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengecek",
+  "related": [],
+  "detailed": false
+}

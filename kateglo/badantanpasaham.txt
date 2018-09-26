@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan tanpa saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) badan (hukum) yang tidak memberikan saham kepada anggota atau pesertanya, termasuk perkumpulan keagamaan dan perusahaan asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20tanpa%20saham",
+  "related": [],
+  "detailed": false
+}

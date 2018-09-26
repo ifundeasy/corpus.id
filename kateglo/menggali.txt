@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggali",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyingkirkan atau mengambil sesuatu (tanah, pasir, dsb) dengan alat (cangkul, tangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membuat lubang dengan cara menyingkirkan tanah dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengambil (mengeluarkan) sesuatu dari dalam tanah dengan membuat lubang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggali",
+  "related": [],
+  "detailed": false
+}

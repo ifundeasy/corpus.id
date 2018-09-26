@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etape",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak (antara dua tempat); perhentian;"
+      },
+      {
+        "type": "desc",
+        "text": "tahap; fase;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etape",
+  "related": [],
+  "detailed": false
+}

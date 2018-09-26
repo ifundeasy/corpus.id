@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengendara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengendarai (kuda, mobil, dsb); pengemudi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengendara",
+  "related": [],
+  "detailed": false
+}

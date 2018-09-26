@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kotak pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak di kantor pos yang disewakan kepada pelanggan, kuncinya dipegang oleh orang yang berlangganan surat untuk pelanggan dapat dimasukkan ke dalam kotak tersebut dan dapat diambil sewaktu-waktu oleh pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak%20pos",
+  "related": [],
+  "detailed": false
+}

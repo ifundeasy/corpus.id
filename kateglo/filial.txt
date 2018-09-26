@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian perusahaan yang berkedudukan tersendiri (terutama tentang perusahaan perbankan dan pertokoan); anak perusahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang (perusahaan, sekolah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filial",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkesempatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai waktu (peluang, keluasan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkesempatan",
+  "related": [],
+  "detailed": false
+}

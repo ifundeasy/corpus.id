@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maraton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan lari jarak jauh (10 km atau lebih);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) terus-menerus (tanpa berhenti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maraton",
+  "related": [],
+  "detailed": false
+}

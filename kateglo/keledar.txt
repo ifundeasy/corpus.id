@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keledar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "berkeledar"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sabuk (tali pinggang) yang dipakai untuk keselamatan (di dalam mobil dsb); sabuk pengaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keledar",
+  "related": [],
+  "detailed": false
+}

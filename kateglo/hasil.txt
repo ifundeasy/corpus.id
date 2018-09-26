@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hasil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diadakan (dibuat, dijadikan, dsb) oleh usaha (tanam-tanaman, sawah, tanah, ladang, hutan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pendapatan; perolehan; buah;"
+      },
+      {
+        "type": "desc",
+        "text": "akibat; kesudahan (dari pertandingan, ujian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pajak; sewa tanah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berhasil; mendapat hasil; tidak gagal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil",
+  "related": [],
+  "detailed": false
+}

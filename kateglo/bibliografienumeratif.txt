@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi enumeratif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar karya rekaman yang susunannya dibatasi oleh penyusunnya, dapat berupa susunan geografi, kronologi, atau subjek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20enumeratif",
+  "related": [],
+  "detailed": false
+}

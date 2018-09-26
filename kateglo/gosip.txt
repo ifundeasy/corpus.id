@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gosip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obrolan tentang orang-orang lain; cerita negatif tentang seseorang; pergunjingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gosip",
+  "related": [],
+  "detailed": false
+}

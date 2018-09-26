@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elipsoid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) benda tiga dimensi yang diperoleh bila sebuah elips diputar mengelilingi salah satu sumbunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elipsoid",
+  "related": [],
+  "detailed": false
+}

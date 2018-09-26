@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geosinkronis",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "geostasioner"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geosinkronis",
+  "related": [],
+  "detailed": false
+}

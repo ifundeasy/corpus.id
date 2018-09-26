@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "burung cakik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung tuku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burung%20cakik",
+  "related": [],
+  "detailed": false
+}

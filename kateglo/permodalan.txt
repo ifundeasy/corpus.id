@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permodalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk-beluk modal; mengenai modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permodalan",
+  "related": [],
+  "detailed": false
+}

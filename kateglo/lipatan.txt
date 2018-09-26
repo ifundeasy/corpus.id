@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lipatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil melipat; barang yang dilipat atau berlipat-lipat;"
+      },
+      {
+        "type": "desc",
+        "text": "kerutan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) peristiwa terjadinya pergeseran pada permukaan bumi yang menjadikan permukaan bumi melekuk atau melipat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lipatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan lingkar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang melingkari kota (menghindari pusat kota) untuk mengurangi kemacetan lalu lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20lingkar",
+  "related": [],
+  "detailed": false
+}

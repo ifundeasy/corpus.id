@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahwa",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata penghubung untuk menyatakan isi atau uraian bagian kalimat yang di depan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penghubung untuk mendahului anak kalimat yang menjadi pokok kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahwa",
+  "related": [],
+  "detailed": false
+}

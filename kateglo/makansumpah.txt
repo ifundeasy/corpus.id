@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan sumpah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "sudah bersumpah;"
+      },
+      {
+        "type": "desc",
+        "text": "dimakan sumpah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20sumpah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patrilineal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai hubungan keturunan melalui garis kerabat pria saja, bapak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patrilineal",
+  "related": [],
+  "detailed": false
+}

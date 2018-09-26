@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi termonuklir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "radiasi (pancaran sinar panas) dari ledakan nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20termonuklir",
+  "related": [],
+  "detailed": false
+}

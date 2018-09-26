@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipovitaminosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gejala penyakit yang disebabkan oleh kekurangan salah satu vitamin, biasanya vitamin yang dapat larut dalam lemak atau air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipovitaminosis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva tahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) kurva yang menunjukkan hubungan antara tahanan dan kecepatan sebuah kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20tahanan",
+  "related": [],
+  "detailed": false
+}

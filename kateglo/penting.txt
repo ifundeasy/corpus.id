@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penting",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "utama; pokok;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat berharga (berguna);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai posisi yang menentukan (dalam pemerintahan, perusahaan, dsb seperti pejabat atau direktur);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi \"ting\", seperti bunyi gitar dipetik, uang logam dilemparkan;"
+      },
+      {
+        "type": "link",
+        "text": "berpentingan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penting",
+  "related": [],
+  "detailed": false
+}

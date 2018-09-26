@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peluncuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan (tempat) untuk meluncur;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan meluncurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "peresmian beredarnya (buku, film, kaset, dsb) yang baru terbit, dipasarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peluncuran",
+  "related": [],
+  "detailed": false
+}

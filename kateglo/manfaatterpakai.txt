@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manfaat terpakai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bagian manfaat aktiva tetap yang telah hilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manfaat%20terpakai",
+  "related": [],
+  "detailed": false
+}

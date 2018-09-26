@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kriptografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "penyelidikan tentang kode rahasia;"
+      },
+      {
+        "type": "desc",
+        "text": "teknik yang mengubah data menjadi berbeda dari aslinya dengan menggunakan algoritme matematika sehingga orang yang tidak mengetahui kuncinya tidak akan dapat membongkar data tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriptografi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dokter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lulusan pendidikan kedokteran yang ahli dalam hal penyakit dan pengobatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter",
+  "related": [],
+  "detailed": false
+}

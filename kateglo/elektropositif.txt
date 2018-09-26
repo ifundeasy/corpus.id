@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektropositif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(El) berkaitan dengan muatan positif listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektropositif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senggugut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang diderita kaum wanita pada waktu haid, sesudah bersalin, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) rasa nyeri haid; dysmenorrhoea;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senggugut",
+  "related": [],
+  "detailed": false
+}

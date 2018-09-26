@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektroteknik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang penggunaan tenaga listrik pada berbagai-bagai alat (mesin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektroteknik",
+  "related": [],
+  "detailed": false
+}

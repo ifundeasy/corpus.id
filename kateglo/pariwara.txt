@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pariwara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan yang berupa berita (bukan gambar atau poster); reklame;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan, misal dalam koran; pengumuman;"
+      },
+      {
+        "type": "desc",
+        "text": "pengiring; pengikut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pariwara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memuja",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghormati dewa-dewa dsb dengan membakar dupa, membaca mantra, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "memuja-muja;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan sesuatu dengan mantra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memuja",
+  "related": [],
+  "detailed": false
+}

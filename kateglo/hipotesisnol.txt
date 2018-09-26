@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis nol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan sementara mengenai hubungan yang sama atau sebanding antara variabel yang digunakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20nol",
+  "related": [],
+  "detailed": false
+}

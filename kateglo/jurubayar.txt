@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru bayar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya membayarkan gaji, honorarium, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20bayar",
+  "related": [],
+  "detailed": false
+}

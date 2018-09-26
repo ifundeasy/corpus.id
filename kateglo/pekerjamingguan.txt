@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja mingguan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh atau karyawan yang upahnya dibayar seminggu sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja%20mingguan",
+  "related": [],
+  "detailed": false
+}

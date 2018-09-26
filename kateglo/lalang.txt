@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lalang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alang-alang;"
+      },
+      {
+        "type": "link",
+        "text": "langlang"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) endapan permukaan yang dihasilkan oleh arus air atau arus udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lalang",
+  "related": [],
+  "detailed": false
+}

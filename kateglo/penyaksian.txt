@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyaksian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyaksikan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian kesaksian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyaksian",
+  "related": [],
+  "detailed": false
+}

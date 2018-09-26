@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya administrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang dikeluarkan untuk pengurusan surat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) biaya untuk pendaftaran sekuritas yang dikenakan pada emiten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20administrasi",
+  "related": [],
+  "detailed": false
+}

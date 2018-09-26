@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ranggung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkangkang (tentang kaki);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "meranggung"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabus pelampung pancing;"
+      },
+      {
+        "type": "desc",
+        "text": "burung bangau yang jinak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ranggung",
+  "related": [],
+  "detailed": false
+}

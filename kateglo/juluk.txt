@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juluk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjuluk"
+      },
+      {
+        "type": "link",
+        "text": "menjuluki"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juluk",
+  "related": [],
+  "detailed": false
+}

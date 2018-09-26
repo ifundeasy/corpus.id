@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek rumah kaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "efek sinar radiasi gelombang pendek yang dapat menembus atap serta dinding rumah kaca, tetapi tidak tertembus oleh sinar radiasi gelombang panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20rumah%20kaca",
+  "related": [],
+  "detailed": false
+}

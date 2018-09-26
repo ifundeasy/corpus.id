@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan pakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "tali (dari kulit, kain, rotan, dsb) yang dipakai untuk membawa sesuatu dengan disampirkan di bahu atau disilangkan di dada;"
+      },
+      {
+        "type": "desc",
+        "text": "selendang; selempang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandang",
+  "related": [],
+  "detailed": false
+}

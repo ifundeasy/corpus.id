@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan penelitian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan berdasarkan penelitian ilmiah terhadap suatu gejala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20penelitian",
+  "related": [],
+  "detailed": false
+}

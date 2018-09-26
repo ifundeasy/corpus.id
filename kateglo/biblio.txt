@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biblio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan bibliografi dan/atau yang ditempatkan di balik halaman judul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biblio",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jatah; jumlah yang ditentukan;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah tertinggi dari barang yang mendapat izin impor (ekspor) ke pasaran internasional, negara lain, dsb dalam jumlah dan periode tertentu; jatah;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah tertinggi orang yang boleh masuk (keluar) ke (dari) suatu negara (seperti ketika menunaikan ibadah haji);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuota",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai-bagai senjata untuk berperang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20senjata",
+  "related": [],
+  "detailed": false
+}

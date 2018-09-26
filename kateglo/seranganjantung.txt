@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serangan jantung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terputusnya aliran darah ke otot-otot yang menjadi lumpuh dan jantung berhenti memompa;"
+      },
+      {
+        "type": "desc",
+        "text": "terputusnya aliran darah ke otot-otot yang menjadi lumpuh dan jantung berhenti memompa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serangan%20jantung",
+  "related": [],
+  "detailed": false
+}

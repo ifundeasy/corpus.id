@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peking",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memeking"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung pipit;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat gamelan berupa bilah-bilah besi kecil dengan bernada tinggi yang menjadi bagian dari perangkat gamelan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peking",
+  "related": [],
+  "detailed": false
+}

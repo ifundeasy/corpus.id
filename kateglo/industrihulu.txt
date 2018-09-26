@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri hulu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang memproduksi bahan baku dan bahan penolong (besi, baja lembaran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20hulu",
+  "related": [],
+  "detailed": false
+}

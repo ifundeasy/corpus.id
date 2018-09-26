@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat suntik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas untuk menyuntik (semacam pompa kecil berujungkan jarum suntik untuk memasukkan obat ke dalam tubuh pasien);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20suntik",
+  "related": [],
+  "detailed": false
+}

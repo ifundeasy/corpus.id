@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anafora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pengulangan bunyi, kata, atau struktur sintaktis pada larik-larik atau kalimat-kalimat yang berturutan untuk memperoleh efek tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "hal atau fungsi merujuk kembali pada sesuatu yang telah disebutkan sebelumnya dalam wacana (yang disebut anteseden) dengan substitusi, misal nya dalam Pak Karta rumahnya terbakar, kata nya menunjuk kepada Pak Karta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anafora",
+  "related": [],
+  "detailed": false
+}

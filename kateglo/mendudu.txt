@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendudu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan (berenang, berlari, dsb) mengikuti dari belakang;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan (berlari, berenang, dsb) terus saja tanpa menoleh ke kiri kanan;"
+      },
+      {
+        "type": "desc",
+        "text": "terpaksa menurut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendudu",
+  "related": [],
+  "detailed": false
+}

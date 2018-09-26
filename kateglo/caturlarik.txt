@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "caturlarik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "bait atau sajak yang terdiri atas empat larik, biasanya berpola rima a-b-a-b;"
+      },
+      {
+        "type": "desc",
+        "text": "salah satu dari kedua bait dalam oktaf soneta yang terdiri atas empat baris; kuatren;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=caturlarik",
+  "related": [],
+  "detailed": false
+}

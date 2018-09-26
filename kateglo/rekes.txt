@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(surat) permohonan;"
+      },
+      {
+        "type": "desc",
+        "text": "(surat) lamaran pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekes",
+  "related": [],
+  "detailed": false
+}

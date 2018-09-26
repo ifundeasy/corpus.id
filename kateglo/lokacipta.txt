@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokacipta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruangan tempat seorang seniman atau seniwati mengerjakan ciptaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokacipta",
+  "related": [],
+  "detailed": false
+}

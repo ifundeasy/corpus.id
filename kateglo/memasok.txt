@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memasok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar pajak;"
+      },
+      {
+        "type": "desc",
+        "text": "mengadakan persediaan; menyuplai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memasok",
+  "related": [],
+  "detailed": false
+}

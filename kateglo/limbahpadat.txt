@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbah padat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang tidak berguna, tidak diinginkan atau dibuang dengan kandungan cairan yang tidak cukup untuk bebas mengalir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah%20padat",
+  "related": [],
+  "detailed": false
+}

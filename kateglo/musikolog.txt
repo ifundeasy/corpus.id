@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musikolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musikolog",
+  "related": [],
+  "detailed": false
+}

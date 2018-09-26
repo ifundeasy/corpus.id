@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "register",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "buku catatan atau daftar (nama dsb) yang disusun secara bersistem dan menurut abjad );"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) pengaturan acuan atau pelat cetak demikian rupa sehingga yang satu akan tetap berada pada letak atau posisi yang benar terhadap yang lain, misal pada cetak warna;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) rangkaian listrik untuk menyimpan data dalam bentuk sandi biner;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=register",
+  "related": [],
+  "detailed": false
+}

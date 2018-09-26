@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keputraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat tinggal anak-anak laki-laki raja di keraton;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kelahiran tentang anak raja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keputraan",
+  "related": [],
+  "detailed": false
+}

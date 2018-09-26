@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beralamat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada alamatnya (adresnya);"
+      },
+      {
+        "type": "desc",
+        "text": "ditujukan (kepada);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi tanda (akan terjadi sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "bersasaran; bertujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beralamat",
+  "related": [],
+  "detailed": false
+}

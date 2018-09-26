@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angin lalu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang bersifat sementara;"
+      },
+      {
+        "type": "desc",
+        "text": "kabar yang belum pasti (hanya kata orang);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang tidak perlu didengar (diperhatikan); sesuatu yang remeh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angin%20lalu",
+  "related": [],
+  "detailed": false
+}

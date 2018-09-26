@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "itu",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata penunjuk bagi benda (waktu, hal) yang jauh dari pembicara;"
+      },
+      {
+        "type": "desc",
+        "text": "demikian itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=itu",
+  "related": [],
+  "detailed": false
+}

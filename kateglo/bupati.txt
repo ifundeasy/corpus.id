@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bupati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(jabatan, sebutan) kepala daerah kabupaten (daerah tingkat II);"
+      },
+      {
+        "type": "desc",
+        "text": "(jabatan, sebutan) pegawai istana yang tertinggi (di Yogyakarta dan Surakarta);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bupati",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta wujud",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekayaan perusahaan berupa barang dan uang, misal pabrik, sediaan, dan piutang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20wujud",
+  "related": [],
+  "detailed": false
+}

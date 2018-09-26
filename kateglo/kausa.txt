@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kausa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebab yang menimbulkan suatu kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kausa",
+  "related": [],
+  "detailed": false
+}

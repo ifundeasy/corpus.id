@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kendaraan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan yang dapat disewa oleh orang banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendaraan%20umum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang khusus dibuat untuk jalur pengangkutan menuju suatu lokasi atau tempat kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan (lubang) yang menghubungkan tambang bawah tanah dengan permukaan, merupakan jalan pengangkutan ataupun jalan aliran udara (ventilasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20masuk",
+  "related": [],
+  "detailed": false
+}

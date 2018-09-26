@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "larang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melarang"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) jarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larang",
+  "related": [],
+  "detailed": false
+}

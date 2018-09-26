@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktor fisik (lintang tempat, ketinggian tempat, distribusi daratan dan lautan, topografi, dan arus laut) yang mempengaruhi iklim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20iklim",
+  "related": [],
+  "detailed": false
+}

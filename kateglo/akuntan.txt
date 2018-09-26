@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akuntan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man)"
+      },
+      {
+        "type": "desc",
+        "text": "ahli dalam bidang akuntansi yang bertugas menyusun, membimbing, mengawasi, menginspeksi, dan memperbaiki tata buku serta administrasi perusahaan atau instansi pemerintah;"
+      },
+      {
+        "type": "desc",
+        "text": "gelar akademis bagi lulusan perguruan tinggi jurusan akuntansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuntan",
+  "related": [],
+  "detailed": false
+}

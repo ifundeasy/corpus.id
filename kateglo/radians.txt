@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radians",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah tenaga cahaya yang dipancarkan tiap satuan waktu per satuan sudut ruang dan per satuan luas benda pemancar cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radians",
+  "related": [],
+  "detailed": false
+}

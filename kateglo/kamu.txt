@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamu",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata ganti yang diajak bicara; yang disapa (dalam ragam akrab atau kasar);"
+      },
+      {
+        "type": "desc",
+        "text": "sebagai penunjuk pemilik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamu",
+  "related": [],
+  "detailed": false
+}

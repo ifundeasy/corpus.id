@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "editor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengedit naskah tulisan atau karangan yang akan diterbitkan dalam majalah, surat kabar, dsb; penyunting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=editor",
+  "related": [],
+  "detailed": false
+}

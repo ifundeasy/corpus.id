@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petrodolar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cadangan moneter yang berlimpah dalam bentuk dolar sebagai hasil penjualan minyak ke luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petrodolar",
+  "related": [],
+  "detailed": false
+}

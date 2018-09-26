@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "janji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan yang menyatakan kesediaan dan kesanggupan untuk berbuat (seperti hendak memberi, menolong, datang, bertemu);"
+      },
+      {
+        "type": "desc",
+        "text": "persetujuan antara dua pihak (masing-masing menyatakan kesediaan dan kesanggupan untuk berbuat atau tidak berbuat sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "syarat; ketentuan (yang harus dipenuhi);"
+      },
+      {
+        "type": "desc",
+        "text": "penundaan waktu (membayar dsb); penangguhan;"
+      },
+      {
+        "type": "desc",
+        "text": "batas waktu (hidup); ajal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=janji",
+  "related": [],
+  "detailed": false
+}

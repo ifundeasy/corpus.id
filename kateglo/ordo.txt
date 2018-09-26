@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ordo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "perserikatan keagamaan yang diakui oleh Paus dan yang anggotanya hidup sesuai dengan aturan dan hukum gereja; orde;"
+      },
+      {
+        "type": "desc",
+        "text": "tarekat biarawan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) klasifikasi dalam biologi yang lebih rendah daripada kelas dan lebih tinggi daripada famili;"
+      },
+      {
+        "type": "desc",
+        "text": "burung pemakan biji-bijian, famili Plocedere dari jenis burung berkicau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ordo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah budaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan secara berkala yang isinya khusus mengenai masalah kebudayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20budaya",
+  "related": [],
+  "detailed": false
+}

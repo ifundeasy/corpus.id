@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesultanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawasan (daerah) yang diperintah oleh sultan; kerajaan;"
+      },
+      {
+        "type": "desc",
+        "text": "istana sultan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesultanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "talu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertalu-talu"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) permainan pendahuluan dari gamelan (sebelum pertunjukan wayang dimulai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=talu",
+  "related": [],
+  "detailed": false
+}

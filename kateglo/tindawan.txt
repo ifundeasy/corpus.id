@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tindawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "cendawan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tindawan",
+  "related": [],
+  "detailed": false
+}

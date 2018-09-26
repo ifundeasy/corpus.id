@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sindir-menyindir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling (berganti-ganti) menyindir;"
+      },
+      {
+        "type": "desc",
+        "text": "hal menyindir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sindir-menyindir",
+  "related": [],
+  "detailed": false
+}

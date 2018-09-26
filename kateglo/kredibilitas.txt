@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kredibilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal dapat dipercaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredibilitas",
+  "related": [],
+  "detailed": false
+}

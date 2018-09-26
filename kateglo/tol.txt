@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak untuk memasuki jalan tertentu (misal jalan bebas hambatan, jalan layang);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang mengenakan bea bagi pemakainya;"
+      },
+      {
+        "type": "desc",
+        "text": "bea masuk kendaraan dan barang impor lain;"
+      },
+      {
+        "type": "desc",
+        "text": "pintu cukai; gerbang cukai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tol",
+  "related": [],
+  "detailed": false
+}

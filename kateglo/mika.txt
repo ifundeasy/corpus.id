@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mika",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "engkau; kamu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "mineral yang menyerupai kaca yang (secara kimiawi) kompleks, digunakan untuk isolasi listrik; batu cermin; abrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mika",
+  "related": [],
+  "detailed": false
+}

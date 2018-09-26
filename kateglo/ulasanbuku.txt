@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulasan buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertimbangan mutu buku yang dalam pembicaraannya lebih ditekankan pada penilaian ilmiah dengan mengemukakan argumentasi yang cendekia; resensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulasan%20buku",
+  "related": [],
+  "detailed": false
+}

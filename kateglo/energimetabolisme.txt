@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi metabolisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah energi yang didapat dari bahan makanan dan digunakan untuk metabolisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20metabolisme",
+  "related": [],
+  "detailed": false
+}

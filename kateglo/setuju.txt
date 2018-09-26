@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setuju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setujuan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sepakat; semupakat; sependapat (tidak bertentangan, tidak berselisih);"
+      },
+      {
+        "type": "desc",
+        "text": "merasa senang atau tertarik hati; suka; berkenan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) cocok; serasi; sesuai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setuju",
+  "related": [],
+  "detailed": false
+}

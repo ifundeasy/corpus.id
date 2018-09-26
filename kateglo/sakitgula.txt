@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit gula",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit kencing manis; diabetes;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20gula",
+  "related": [],
+  "detailed": false
+}

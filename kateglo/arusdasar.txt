@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) aliran atmosfer secara teoretis yang dibuat dengan tidak memperhitungkan pengaruh pelbagai gangguan atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20dasar",
+  "related": [],
+  "detailed": false
+}

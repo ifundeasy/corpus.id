@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laktasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeluaran susu dari kelenjar susu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) masa ternak (sapi, kerbau, kambing) sedang berproduksi susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laktasi",
+  "related": [],
+  "detailed": false
+}

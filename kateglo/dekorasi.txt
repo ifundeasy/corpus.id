@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekorasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setiap bagian dari perlengkapan dekor panggung teater;"
+      },
+      {
+        "type": "desc",
+        "text": "hiasan atau perhiasan sementara dari ruangan, gedung, jalan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekorasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan morfofonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) perubahan dalam pola tekanan yang membedakan frasa dengan kompositum dalam bahasa Inggris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20morfofonemis",
+  "related": [],
+  "detailed": false
+}

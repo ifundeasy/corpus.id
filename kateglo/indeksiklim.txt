@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "indeks iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) bilangan yang menunjukkan sifat iklim sebagai fungsi unsur iklim pokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks%20iklim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "revisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peninjauan (pemeriksaan) kembali untuk perbaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=revisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sat kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sat berukuran lima gantang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sat%20kecil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepanitiaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal panitia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepanitiaan",
+  "related": [],
+  "detailed": false
+}

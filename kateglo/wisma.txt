@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wisma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan untuk tempat tinggal, kantor, dsb; gerha;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan rumah; kompleks perumahan; permukiman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisma",
+  "related": [],
+  "detailed": false
+}

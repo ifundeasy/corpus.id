@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alergi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan reaksi tubuh terhadap kuman-kuman penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan sangat peka terhadap penyebab tertentu (zat, makanan, serbuk, keadaan udara, asap, dsb) yang dalam kadar tertentu tidak membahayakan untuk sebagian besar orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alergi",
+  "related": [],
+  "detailed": false
+}

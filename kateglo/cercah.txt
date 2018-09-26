@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cercah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sinar yang dapat ditangkap mata;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencercah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cercah",
+  "related": [],
+  "detailed": false
+}

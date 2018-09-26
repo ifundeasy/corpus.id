@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isotrop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daya perkembangan yang sama ke semua arah;"
+      },
+      {
+        "type": "desc",
+        "text": "daya bias yang tidak berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isotrop",
+  "related": [],
+  "detailed": false
+}

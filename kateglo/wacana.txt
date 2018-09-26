@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wacana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komunikasi verbal; percakapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) keseluruhan tutur yang merupakan suatu kesatuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bahasa terlengkap yang direalisasikan dalam bentuk karangan atau laporan utuh, seperti novel, buku, artikel, pidato, atau khotbah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kemampuan atau prosedur berpikir secara sistematis; kemampuan atau proses memberikan pertimbangan berdasarkan akal sehat;"
+      },
+      {
+        "type": "desc",
+        "text": "pertukaran ide secara verbal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wacana",
+  "related": [],
+  "detailed": false
+}

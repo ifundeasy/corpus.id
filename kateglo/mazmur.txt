@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mazmur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan nyanyian keagamaan dan puji-pujian dari kitab Zabur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mazmur",
+  "related": [],
+  "detailed": false
+}

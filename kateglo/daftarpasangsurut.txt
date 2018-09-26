@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar pasang surut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) daftar yang berisi prakiraan ketinggian air pasang surut di kota-kota pelabuhan serta cara penggunaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20pasang%20surut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda;"
+      },
+      {
+        "type": "desc",
+        "text": "pensil (potlot) cina; mopit;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berhenti untuk memperbaiki kerusakan mobil atau motor (dalam arena balap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pit",
+  "related": [],
+  "detailed": false
+}

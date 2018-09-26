@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermoral",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai pertimbangan baik buruk; berakhlak baik;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai dengan moral (adat sopan santun dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermoral",
+  "related": [],
+  "detailed": false
+}

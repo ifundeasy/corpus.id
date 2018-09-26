@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedua",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "nomor dua;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok yang terdiri atas dua (orang dan barang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedua",
+  "related": [],
+  "detailed": false
+}

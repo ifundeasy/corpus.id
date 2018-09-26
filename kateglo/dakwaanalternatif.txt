@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dakwaan alternatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) dakwaan lebih dari satu, jika dakwaan yang pertama tidak terbukti, dakwaan yang lain tidak perlu dibuktikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dakwaan%20alternatif",
+  "related": [],
+  "detailed": false
+}

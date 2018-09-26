@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agar-agar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ganggang laut yang dapat dimakan; Eucheuma spinosum;"
+      },
+      {
+        "type": "desc",
+        "text": "penganan yang dibuat dari ganggang laut tersebut (agar-agar);"
+      },
+      {
+        "type": "desc",
+        "text": "zat berlendir yang dihasilkan oleh Eucheuma spinosum atau ganggang laut tertentu lainnya (banyak digunakan sebagai medium biakan bakteri dan jamur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agar-agar",
+  "related": [],
+  "detailed": false
+}

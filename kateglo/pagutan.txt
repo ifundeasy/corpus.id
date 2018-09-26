@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pagutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memagut;"
+      },
+      {
+        "type": "desc",
+        "text": "mangsa yang dipagut;"
+      },
+      {
+        "type": "desc",
+        "text": "pelukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pagutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jumbo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gajah raksasa (dalam cerita anak-anak);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) besar sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jumbo",
+  "related": [],
+  "detailed": false
+}

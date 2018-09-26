@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlarang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak diperbolehkan (diperkenankan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlarang",
+  "related": [],
+  "detailed": false
+}

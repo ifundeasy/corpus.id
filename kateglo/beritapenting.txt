@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita penting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang perlu segera disampaikan kepada yang berkepentingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20penting",
+  "related": [],
+  "detailed": false
+}

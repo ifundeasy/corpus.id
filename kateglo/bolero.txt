@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bolero",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarian khas Spanyol;"
+      },
+      {
+        "type": "desc",
+        "text": "irama musik pengiring tarian bolero;"
+      },
+      {
+        "type": "desc",
+        "text": "jaket pendek untuk wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bolero",
+  "related": [],
+  "detailed": false
+}

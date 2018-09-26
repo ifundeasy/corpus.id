@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembar fakta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokumen yang berisi fakta penting tentang pokok tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembar%20fakta",
+  "related": [],
+  "detailed": false
+}

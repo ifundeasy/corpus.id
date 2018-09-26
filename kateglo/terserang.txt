@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terserang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terkena (menderita) serangan; terserbu;"
+      },
+      {
+        "type": "desc",
+        "text": "menderita; dilanda (banjir, badai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kejangkitan (tentang penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terserang",
+  "related": [],
+  "detailed": false
+}

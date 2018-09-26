@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "naikkan; tinggikan;"
+      },
+      {
+        "type": "desc",
+        "text": "ambil; bawa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "yang diambil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkat",
+  "related": [],
+  "detailed": false
+}

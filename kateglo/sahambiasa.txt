@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham biasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) saham tanpa hak istimewa, misal atas dividen, penentuan pengurus, dan sisa harta perusahaan dalam hal terjadinya likuidasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20biasa",
+  "related": [],
+  "detailed": false
+}

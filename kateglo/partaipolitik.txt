@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan yang didirikan untuk mewujudkan ideologi politik tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20politik",
+  "related": [],
+  "detailed": false
+}

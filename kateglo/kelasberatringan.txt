@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas berat ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) kelas petinju yang berat badannya di atas 75 kg, tetapi tidak lebih dari 81 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20berat%20ringan",
+  "related": [],
+  "detailed": false
+}

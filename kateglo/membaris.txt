@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membaris",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan berbaris;"
+      },
+      {
+        "type": "desc",
+        "text": "merupakan baris (banjar, jajar, deret);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membaris",
+  "related": [],
+  "detailed": false
+}

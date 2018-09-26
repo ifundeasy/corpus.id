@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "topi (songkok) yang bagian depannya memakai tutup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pet",
+  "related": [],
+  "detailed": false
+}

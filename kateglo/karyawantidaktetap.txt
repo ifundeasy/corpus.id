@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karyawan tidak tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karyawan lepas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karyawan%20tidak%20tetap",
+  "related": [],
+  "detailed": false
+}

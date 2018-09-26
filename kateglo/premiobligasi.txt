@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "premi obligasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "premi yang diperoleh karena harga obligasi pada waktu dijual lebih tinggi daripada harga nominalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premi%20obligasi",
+  "related": [],
+  "detailed": false
+}

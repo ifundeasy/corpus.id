@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konstituen akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) komponen yang dihasilkan dalam tahap akhir dari analisis konstituen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstituen%20akhir",
+  "related": [],
+  "detailed": false
+}

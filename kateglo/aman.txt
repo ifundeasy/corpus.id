@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aman",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bebas dari bahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari gangguan (pencuri, hama, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terlindung atau tersembunyi; tidak dapat diambil orang;"
+      },
+      {
+        "type": "desc",
+        "text": "pasti; tidak meragukan; tidak mengandung risiko;"
+      },
+      {
+        "type": "desc",
+        "text": "tenteram; tidak merasa takut atau khawatir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aman",
+  "related": [],
+  "detailed": false
+}

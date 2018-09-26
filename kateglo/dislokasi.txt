@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dislokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan atau pemindahan lokasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) perenggangan persendian pada patah tulang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pergeseran lapisan tanah karena gerakan tektonis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) pemindahan atau penyebaran kesatuan militer dari suatu pangkalan atau pertahanan ke daerah lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pemindahan unsur kalimat ke awal (sebagai topik) atau ke akhir kalimat (sebagai penegasan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dislokasi",
+  "related": [],
+  "detailed": false
+}

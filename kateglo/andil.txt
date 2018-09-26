@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "andil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian modal dalam perusahaan; saham; sero;"
+      },
+      {
+        "type": "desc",
+        "text": "jasa, usaha, atau bantuan (berupa uang, tenaga, dsb) yang diberikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=andil",
+  "related": [],
+  "detailed": false
+}

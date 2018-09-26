@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota tentara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang masuk dalam angkatan bersenjata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20tentara",
+  "related": [],
+  "detailed": false
+}

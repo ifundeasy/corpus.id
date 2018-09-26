@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghitungan debu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelat pengukur jumlah partikel debu yang ada di udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghitungan%20debu",
+  "related": [],
+  "detailed": false
+}

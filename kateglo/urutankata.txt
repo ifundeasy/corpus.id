@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) penempatan kata dalam deretan tertentu menurut norma suatu bahasa, baik dalam tingkat kalimat dan klausa, maupun dalam tingkat frasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20kata",
+  "related": [],
+  "detailed": false
+}

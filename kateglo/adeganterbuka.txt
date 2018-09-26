@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adegan terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen) adegan yang diubah bentuknya dengan disaksikan langsung oleh penonton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adegan%20terbuka",
+  "related": [],
+  "detailed": false
+}

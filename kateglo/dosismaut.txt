@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dosis maut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dosis minuman yang menyebabkan kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosis%20maut",
+  "related": [],
+  "detailed": false
+}

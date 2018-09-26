@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilustrator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melukis gambar hias untuk majalah, buku, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilustrator",
+  "related": [],
+  "detailed": false
+}

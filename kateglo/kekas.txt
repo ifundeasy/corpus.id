@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kekas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "mengekas"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Plb) sebidang tanah di antara ladang baru dan ladang yang telah ditanami;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekas",
+  "related": [],
+  "detailed": false
+}

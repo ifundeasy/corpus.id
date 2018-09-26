@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanaman industri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman perkebunan yang dapat dibagi menjadi beberapa kelompok, seperti kelompok penghasil lemak (misal kelapa, kelapa sawit), kelompok penghasil bahan penyegar (misal kopi, teh, cokelat), kelompok penghasil rempah-rempah (misal lada, pala, kayu manis), dan kelompok penghasil serat (misal kapas, rami);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanaman%20industri",
+  "related": [],
+  "detailed": false
+}

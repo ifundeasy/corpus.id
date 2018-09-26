@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi radar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang penjalaran gelombang radar di dalam atmosfer dan kegunaan peralatan radar dalam meteorologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20radar",
+  "related": [],
+  "detailed": false
+}

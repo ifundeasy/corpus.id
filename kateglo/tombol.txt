@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tombol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (knop) pada mesin dsb, yang gerak tekan atau gerak tariknya dapat menjalankan, menghentikan, atau mengubah gerak pada mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "tonjolan pada kulit (orang, binatang, kayu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tombol",
+  "related": [],
+  "detailed": false
+}

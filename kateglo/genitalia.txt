@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genitalia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "alat kelamin; kemaluan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat kelamin reproduktif, seperti rahim, indung telur, dan vagina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genitalia",
+  "related": [],
+  "detailed": false
+}

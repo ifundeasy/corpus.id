@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeretelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal memereteli;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, perbuatan, cara memereteli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeretelan",
+  "related": [],
+  "detailed": false
+}

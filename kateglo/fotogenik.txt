@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotogenik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memiliki wajah dan sikap tubuh yang menghasilkan potret yang menyenangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotogenik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memotong-motong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerat-ngerat (tentang sesuatu yang berupa batang);"
+      },
+      {
+        "type": "desc",
+        "text": "memenggal-menggal (tentang kalimat atau pengucapan kalimat);"
+      },
+      {
+        "type": "desc",
+        "text": "mengucapkan sepotong-sepotong (tentang perkataan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memotong-motong",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ortopedis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara ortopedi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ortopedis",
+  "related": [],
+  "detailed": false
+}

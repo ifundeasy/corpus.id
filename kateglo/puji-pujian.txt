@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puji-pujian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan memuji-muji kebaikan (keunggulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian permulaan surat yang mengandung pujian kepada orang yang dikirimi surat itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puji-pujian",
+  "related": [],
+  "detailed": false
+}

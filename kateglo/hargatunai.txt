@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga tunai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang dibebankan jika pembayaran diselesaikan dalam waktu yang ditentukan, yaitu lazimnya dalam 30 hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20tunai",
+  "related": [],
+  "detailed": false
+}

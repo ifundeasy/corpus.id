@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi seperti bunyi bibir yang dimoncongkan lalu ditarik kembali (sehingga berbunyi \"cup\");"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengecup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecup",
+  "related": [],
+  "detailed": false
+}

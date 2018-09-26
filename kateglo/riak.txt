@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "riak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan mengombak di permukaan air; ombak kecil; gerakan air yang merupakan lingkaran (seperti bila kita menjatuhkan batu ke air);"
+      },
+      {
+        "type": "desc",
+        "text": "getaran (udara);"
+      },
+      {
+        "type": "desc",
+        "text": "gelagat; gerak-gerik yang menjadi alamat bahwa ada sesuatu yang terkandung di dalam hati;"
+      },
+      {
+        "type": "desc",
+        "text": "lendir yang keluar dari tenggorok pada saat terserang batuk; dahak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=riak",
+  "related": [],
+  "detailed": false
+}

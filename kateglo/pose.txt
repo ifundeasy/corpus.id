@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pose",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaya atau sikap yang ditampilkan ketika dipotret atau dilukis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pose",
+  "related": [],
+  "detailed": false
+}

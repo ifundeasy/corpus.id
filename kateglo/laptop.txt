@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laptop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komputer pribadi yang agak kecil, yang dapat dibawa-bawa dan dapat ditempatkan di pangkuan pengguna, terdiri atas satu perangkat yang mencakupi papan tombol, layar tampilan, mikroprosesor, biasanya dilengkapi dengan baterai yang dapat diisi ulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laptop",
+  "related": [],
+  "detailed": false
+}

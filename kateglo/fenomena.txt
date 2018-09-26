@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fenomena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang dapat disaksikan dengan pancaindra dan dapat diterangkan serta dinilai secara ilmiah (seperti fenomena alam); gejala;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang luar biasa; keajaiban;"
+      },
+      {
+        "type": "desc",
+        "text": "fakta; kenyataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fenomena",
+  "related": [],
+  "detailed": false
+}

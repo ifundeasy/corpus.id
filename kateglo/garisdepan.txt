@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis depan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pertahanan yang langsung berhadapan dengan musuh (dalam pertempuran);"
+      },
+      {
+        "type": "desc",
+        "text": "barisan yang di depan sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20depan",
+  "related": [],
+  "detailed": false
+}

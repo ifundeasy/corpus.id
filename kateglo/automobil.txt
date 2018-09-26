@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "automobil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan yang dapat bergerak sendiri, beroda tiga atau lebih, digerakkan oleh mesin atau motor, dan biasanya berbahan bakar bensin; mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=automobil",
+  "related": [],
+  "detailed": false
+}

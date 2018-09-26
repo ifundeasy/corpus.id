@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cairan gas bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) cairan yang didapat dari gas alam (seperti kondensat, gas minyak cair, bensin alam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cairan%20gas%20bumi",
+  "related": [],
+  "detailed": false
+}

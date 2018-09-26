@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrobiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang seluk-beluk mikrobe (bakteri, virus, protozoa, dsb) secara umum, baik yang bersifat parasit maupun yang penting bagi industri, pertanian, kesehatan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrobiologi",
+  "related": [],
+  "detailed": false
+}

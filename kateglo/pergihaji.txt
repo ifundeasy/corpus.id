@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergi haji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi menunaikan ibadah haji; naik haji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergi%20haji",
+  "related": [],
+  "detailed": false
+}

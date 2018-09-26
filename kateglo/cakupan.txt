@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cakupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mencakup (menyauk);"
+      },
+      {
+        "type": "desc",
+        "text": "jangkauan;"
+      },
+      {
+        "type": "desc",
+        "text": "sebanyak tangan menyauk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakupan",
+  "related": [],
+  "detailed": false
+}

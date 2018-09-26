@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikatan dinas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjanjian antara seseorang (pelajar dsb) dan instansi yang memberinya bantuan beasiswa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikatan%20dinas",
+  "related": [],
+  "detailed": false
+}

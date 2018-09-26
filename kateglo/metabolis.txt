@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metabolis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat atau berhubungan dengan metabolisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metabolis",
+  "related": [],
+  "detailed": false
+}

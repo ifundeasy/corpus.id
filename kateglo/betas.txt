@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "betas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sobek atau retas (tentang barang tenunan, kelim, jahitan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "retak lalu pecah atau belah (tentang telur dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=betas",
+  "related": [],
+  "detailed": false
+}

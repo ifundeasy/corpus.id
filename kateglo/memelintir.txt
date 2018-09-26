@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memelintir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutar hingga terpilin;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memutar (tentang tendangan bola, pukulan kok, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memilin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memelintir",
+  "related": [],
+  "detailed": false
+}

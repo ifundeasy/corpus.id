@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sambatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertolongan; bantuan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal tolong-menolong;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menolong (membantu) untuk mengerjakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "keluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seukur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sepadan; sesuai (dengan); seimbang;"
+      },
+      {
+        "type": "desc",
+        "text": "sama;"
+      },
+      {
+        "type": "desc",
+        "text": "sepatutnya; selayaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "seia sekata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seukur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efisiensi skala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produksi efisiensi yang disebabkan oleh operasi usaha di atas tingkat aktivitas minimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efisiensi%20skala",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "veteran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bekas prajurit (pasukan perang, pejuang);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang sudah banyak pengalaman (dalam suatu pekerjaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=veteran",
+  "related": [],
+  "detailed": false
+}

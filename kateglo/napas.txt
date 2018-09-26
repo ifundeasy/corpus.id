@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "napas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang diisap melalui hidung atau mulut dan dikeluarkan kembali dari paru-paru;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuning kemerah-merahan (tentang warna bulu, terutama kuda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=napas",
+  "related": [],
+  "detailed": false
+}

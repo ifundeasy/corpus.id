@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang minum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang lelah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20minum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isolator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyekat atau pengisolasi (tentang arus listrik);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) bahan atau alat yang mempunyai hambatan elektrik atau panas (bahang) yang sangat tinggi sehingga dapat dipakai untuk menyekat listrik atau panas dari benda lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isolator",
+  "related": [],
+  "detailed": false
+}

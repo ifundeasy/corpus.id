@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dirawat; hasil merawat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) perawatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawatan",
+  "related": [],
+  "detailed": false
+}

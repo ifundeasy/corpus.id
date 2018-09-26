@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwakilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu tentang wakil;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan atau tempat wakil-wakil;"
+      },
+      {
+        "type": "desc",
+        "text": "(kantor, urusan, dsb) wakil suatu negara sebelum ada duta;"
+      },
+      {
+        "type": "desc",
+        "text": "(tempat atau kantor) wakil usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "seseorang atau kelompok yang mempunyai kemampuan atau kewajiban bicara dan bertindak atas nama kelompok yang lebih besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwakilan",
+  "related": [],
+  "detailed": false
+}

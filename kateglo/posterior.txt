@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "posterior",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terletak di belakang; lebih kemudian dari;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) bagian yang letaknya lebih dekat ke bagian akhir tubuh atau bentuk (struktur) suatu benda, seperti pada hewan adalah bagian belakang tubuh, pada manusia adalah punggung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posterior",
+  "related": [],
+  "detailed": false
+}

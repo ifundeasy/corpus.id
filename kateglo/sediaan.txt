@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sediaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyediakan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang sudah ada (sedia);"
+      },
+      {
+        "type": "desc",
+        "text": "persenyawaan yang telah siap melalui proses kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sediaan",
+  "related": [],
+  "detailed": false
+}

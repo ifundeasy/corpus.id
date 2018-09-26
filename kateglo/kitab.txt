@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kitab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku;"
+      },
+      {
+        "type": "desc",
+        "text": "wahyu Tuhan yang dibukukan; kitab suci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitab",
+  "related": [],
+  "detailed": false
+}

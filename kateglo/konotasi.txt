@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tautan pikiran yang menimbulkan nilai rasa pada seseorang ketika berhadapan dengan sebuah kata; makna yang ditambahkan pada makna denotasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konotasi",
+  "related": [],
+  "detailed": false
+}

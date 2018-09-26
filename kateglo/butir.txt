@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "butir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang kecil-kecil seperti beras, intan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi barang yang bulat-bulat atau kecil-kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "3;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=butir",
+  "related": [],
+  "detailed": false
+}

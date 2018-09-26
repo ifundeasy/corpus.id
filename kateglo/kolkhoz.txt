@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolkhoz",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah pertanian (di Rusia) yang merupakan milik kolektif rakyat yang diawasi pemerintah;"
+      },
+      {
+        "type": "desc",
+        "text": "koperasi produksi yang dimiliki secara bersama-sama (di Rusia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolkhoz",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "durhaka;"
+      },
+      {
+        "type": "link",
+        "text": "berkabilan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabil",
+  "related": [],
+  "detailed": false
+}

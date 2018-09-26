@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ustazah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ustaz wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ustazah",
+  "related": [],
+  "detailed": false
+}

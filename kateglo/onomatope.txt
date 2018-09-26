@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "onomatope",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata tiruan bunyi, misal \"kokok\" merupakan tiruan bunyi ayam, \"cicit\" merupakan tiruan bunyi tikus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=onomatope",
+  "related": [],
+  "detailed": false
+}

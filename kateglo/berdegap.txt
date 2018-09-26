@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdegap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "degap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdegap",
+  "related": [],
+  "detailed": false
+}

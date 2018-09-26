@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "budak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak; kanak-kanak;"
+      },
+      {
+        "type": "desc",
+        "text": "hamba; jongos; orang gajian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=budak",
+  "related": [],
+  "detailed": false
+}

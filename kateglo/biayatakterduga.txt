@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya tak terduga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya cadangan yang disediakan untuk pengeluaran yang di luar perencanaan (tidak diperkirakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20tak%20terduga",
+  "related": [],
+  "detailed": false
+}

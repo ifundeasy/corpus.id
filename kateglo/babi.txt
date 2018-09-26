@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "babi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang menyusui yang bermoncong panjang, berkulit tebal, dan berbulu kasar;"
+      },
+      {
+        "type": "desc",
+        "text": "(kas) umpatan yang sangat kasar;"
+      },
+      {
+        "type": "desc",
+        "text": "nama kartu kecil (kartu ceki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=babi",
+  "related": [],
+  "detailed": false
+}

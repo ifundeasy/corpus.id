@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya pegas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan melenting (menganjal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20pegas",
+  "related": [],
+  "detailed": false
+}

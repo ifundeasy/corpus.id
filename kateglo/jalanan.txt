@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "jalan; lorong;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan sepanjang jalan (tanpa tempat yang tentu); bermutu rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalanan",
+  "related": [],
+  "detailed": false
+}

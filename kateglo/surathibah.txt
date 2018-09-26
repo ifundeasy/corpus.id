@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat hibah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat tentang pemindahan hak milik, baik benda bergerak maupun benda tidak bergerak (ketika pemiliknya masih hidup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20hibah",
+  "related": [],
+  "detailed": false
+}

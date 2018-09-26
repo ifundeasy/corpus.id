@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan yang berlapis-lapis atau berlenggek-lenggek seperti lenggek rumah, tumpuan pada tangga (jenjang);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi rendah martabat (kedudukan, jabatan, kemajuan, peradaban, dsb); pangkat; derajat; taraf; kelas;"
+      },
+      {
+        "type": "desc",
+        "text": "batas waktu (masa); sempadan suatu peristiwa (proses, kejadian, dsb); babak(an); tahap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tingkat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu baris;"
+      },
+      {
+        "type": "desc",
+        "text": "sederajat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebaris",
+  "related": [],
+  "detailed": false
+}

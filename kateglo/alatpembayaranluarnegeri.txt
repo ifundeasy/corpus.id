@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pembayaran luar negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) surat-surat berharga (efek, sekuritas, uang luar negeri) yang digunakan untuk bayar-membayar di luar negeri; devisa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pembayaran%20luar%20negeri",
+  "related": [],
+  "detailed": false
+}

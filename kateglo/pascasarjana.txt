@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pascasarjana",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan tingkat pendidikan atau pengetahuan sesudah sarjana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pascasarjana",
+  "related": [],
+  "detailed": false
+}

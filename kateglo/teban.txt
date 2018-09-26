@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) taruhan yang dipasang pada permainan judi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teban",
+  "related": [],
+  "detailed": false
+}

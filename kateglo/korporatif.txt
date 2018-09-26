@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korporatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "korporat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korporatif",
+  "related": [],
+  "detailed": false
+}

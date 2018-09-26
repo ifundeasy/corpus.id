@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pahit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa tidak sedap seperti rasa empedu;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak menyenangkan hati; menyusahkan hati; menyedihkan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman keras; jenewer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pahit",
+  "related": [],
+  "detailed": false
+}

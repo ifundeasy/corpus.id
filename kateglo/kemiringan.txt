@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemiringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) miring;"
+      },
+      {
+        "type": "desc",
+        "text": "sudut yang terbentuk oleh perpotongan antara bidang lapisan batuan dengan bidang datar yang dihitung berdasarkan bidang vertikal dengan menggunakan kilometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemiringan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunasosial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mempunyai rasa rosial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunasosial",
+  "related": [],
+  "detailed": false
+}

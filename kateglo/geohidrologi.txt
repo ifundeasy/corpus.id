@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geohidrologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang berbagai aliran air dalam tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang cara-cara pemanfaatan air yang terdapat di bawah permukaan tanah serta akibatnya pada jentera hidrologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geohidrologi",
+  "related": [],
+  "detailed": false
+}

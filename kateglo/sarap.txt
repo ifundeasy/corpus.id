@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan sesuatu pada pagi hari (sebagai alas perut agar terhindar dari sakit perut yang kosong); makan pagi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampah daun-daun kering dsb; kotoran yang halus-halus (seperti debu);"
+      },
+      {
+        "type": "link",
+        "text": "menyarap"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit kulit pada anak-anak, terutama pada bayi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarap",
+  "related": [],
+  "detailed": false
+}

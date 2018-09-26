@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karbonan tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) karbonan yang digunakan dalam proses produksi yang sifatnya tidak habis dipakai dalam satu periode produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karbonan%20tetap",
+  "related": [],
+  "detailed": false
+}

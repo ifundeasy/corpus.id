@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit sosial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang timbul dan berjangkit karena adanya interaksi dalam masyarakat (misal penyakit kelamin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20sosial",
+  "related": [],
+  "detailed": false
+}

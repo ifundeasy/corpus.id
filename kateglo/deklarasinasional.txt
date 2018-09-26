@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deklarasi nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deklarasi yang diumumkan secara nasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklarasi%20nasional",
+  "related": [],
+  "detailed": false
+}

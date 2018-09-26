@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batuan sedimen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batuan endapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batuan%20sedimen",
+  "related": [],
+  "detailed": false
+}

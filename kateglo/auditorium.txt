@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "auditorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan atau ruangan besar yang digunakan untuk mengadakan pertemuan umum, pertunjukan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=auditorium",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terserap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terisap;"
+      },
+      {
+        "type": "desc",
+        "text": "tersedot;"
+      },
+      {
+        "type": "desc",
+        "text": "terisap;"
+      },
+      {
+        "type": "desc",
+        "text": "tersedot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terserap",
+  "related": [],
+  "detailed": false
+}

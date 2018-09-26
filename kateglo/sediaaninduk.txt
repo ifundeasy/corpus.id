@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sediaan induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekelompok induk ternak yang dipelihara dan disiapkan untuk dikembangbiakkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sediaan%20induk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geognosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) pengkajian struktur bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geognosi",
+  "related": [],
+  "detailed": false
+}

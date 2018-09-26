@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eskadron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari resimen kavaleri, terdiri atas dua atau empat peleton;"
+      },
+      {
+        "type": "desc",
+        "text": "sejumlah kapal terbang atau pesawat terbang militer yang membentuk suatu kesatuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eskadron",
+  "related": [],
+  "detailed": false
+}

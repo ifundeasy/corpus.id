@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dividen saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) dividen dalam bentuk saham dari salah satu golongan saham sendiri pada perusahaan yang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dividen%20saham",
+  "related": [],
+  "detailed": false
+}

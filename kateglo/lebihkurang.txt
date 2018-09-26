@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebih kurang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kira-kira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebih%20kurang",
+  "related": [],
+  "detailed": false
+}

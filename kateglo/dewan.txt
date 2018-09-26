@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dewan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majelis atau badan yang terdiri atas beberapa orang anggota yang pekerjaannya memberi nasihat, memutuskan suatu hal, dsb dengan jalan berunding;"
+      },
+      {
+        "type": "desc",
+        "text": "mahkamah (tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan",
+  "related": [],
+  "detailed": false
+}

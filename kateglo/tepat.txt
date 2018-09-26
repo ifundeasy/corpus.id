@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tepat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "betul atau lurus (arah, jurusan); berbetulan benar;"
+      },
+      {
+        "type": "desc",
+        "text": "kena benar (pada sasaran, tujuan, maksud, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada selisih sedikit pun; tidak kurang dan tidak lebih; persis;"
+      },
+      {
+        "type": "desc",
+        "text": "betul atau cocok (tentang dugaan, ramalan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jitu (tentang tindakan, aturan, kritik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "betul atau mengena tentang perkataan, jawaban, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepat",
+  "related": [],
+  "detailed": false
+}

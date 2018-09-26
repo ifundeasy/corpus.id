@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan kehormatan, kebangsawanan, atau kesarjanaan yang biasanya ditambahkan pada nama orang seperti raden, tengku, doktor, sarjana ekonomi;"
+      },
+      {
+        "type": "desc",
+        "text": "nama tambahan sesudah nikah atau setelah tua (sebagai kehormatan);"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan (julukan) yang berhubungan dengan keadaan atau tabiat orang; sebutan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "gelar wicara"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelar",
+  "related": [],
+  "detailed": false
+}

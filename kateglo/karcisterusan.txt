@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karcis terusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karcis yang berlaku untuk mengikuti atau menyaksikan acara (pertandingan, pertunjukan, dsb) yang satu kemudian dilanjutkan dengan acara-acara yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karcis%20terusan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "video",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang memancarkan gambar pada pesawat televisi;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman gambar hidup atau program televisi untuk ditayangkan lewat pesawat televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=video",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarung (bantal, tilam, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kain sampul;"
+      },
+      {
+        "type": "desc",
+        "text": "selubung; kulit (buah);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian buah-buahan (jeruk, durian, dsb) yang berbentuk ruang atau petak-petak (mudah dilepas atau dibuka dari bulatan buahnya); pangsa;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengulas"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) sambungan;"
+      },
+      {
+        "type": "link",
+        "text": "mengulas-ulas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulas",
+  "related": [],
+  "detailed": false
+}

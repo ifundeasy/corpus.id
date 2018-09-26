@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "yang mana",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata tanya yang digunakan untuk menanyakan pilihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yang%20mana",
+  "related": [],
+  "detailed": false
+}

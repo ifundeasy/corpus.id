@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selapan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "delapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sd) sembilan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) tiga puluh lima hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selapan",
+  "related": [],
+  "detailed": false
+}

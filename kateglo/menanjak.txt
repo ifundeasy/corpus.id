@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanjak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menganjur ke atas;"
+      },
+      {
+        "type": "desc",
+        "text": "mendaki; memanjat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "naik agak miring (tentang jalan);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi lebih tinggi (tentang karier dsb); meningkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanjak",
+  "related": [],
+  "detailed": false
+}

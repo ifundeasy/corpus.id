@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sempurna",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "utuh dan lengkap segalanya (tidak bercacat dan bercela);"
+      },
+      {
+        "type": "desc",
+        "text": "lengkap; komplet;"
+      },
+      {
+        "type": "desc",
+        "text": "selesai dengan sebaik-baiknya; teratur dengan sangat baiknya;"
+      },
+      {
+        "type": "desc",
+        "text": "baik sekali; terbaik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sempurna",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikhtisar pengenal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ringkasan atau garis besar isi suatu karangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikhtisar%20pengenal",
+  "related": [],
+  "detailed": false
+}

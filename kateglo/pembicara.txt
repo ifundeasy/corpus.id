@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembicara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berbicara (berpidato dsb) dalam rapat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "penasihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembicara",
+  "related": [],
+  "detailed": false
+}

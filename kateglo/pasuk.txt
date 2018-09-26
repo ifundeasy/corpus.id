@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasuk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berpasuk-pasuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sama naskah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Graf) instruksi untuk mengeset naskah dengan huruf yang sesuai dengan yang tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sama%20naskah",
+  "related": [],
+  "detailed": false
+}

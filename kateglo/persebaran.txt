@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persebaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal bersebar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) tersebarnya barang dan jasa oleh penjual melalui aktivitas pemasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persebaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empos",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "embus; tiup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empos",
+  "related": [],
+  "detailed": false
+}

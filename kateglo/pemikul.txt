@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemikul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memikul;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memikul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemikul",
+  "related": [],
+  "detailed": false
+}

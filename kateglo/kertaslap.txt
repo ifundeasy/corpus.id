@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas lap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas untuk mengelap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20lap",
+  "related": [],
+  "detailed": false
+}

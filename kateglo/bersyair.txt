@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersyair",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sedang mengarang syair;"
+      },
+      {
+        "type": "desc",
+        "text": "membacakan (melagukan) syair; deklamasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersyair",
+  "related": [],
+  "detailed": false
+}

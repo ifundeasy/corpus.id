@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korve",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerja paksa (diharuskan oleh penguasa, yang diupah sedikit sekali atau tidak sama sekali); kerja rodi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) tugas tambahan (misal membersihkan senjata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korve",
+  "related": [],
+  "detailed": false
+}

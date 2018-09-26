@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf ke-3 abjad Yunani;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sinar gama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) derajat kekontrasan film dalam fotografi;"
+      },
+      {
+        "type": "desc",
+        "text": "mikrogram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gama",
+  "related": [],
+  "detailed": false
+}

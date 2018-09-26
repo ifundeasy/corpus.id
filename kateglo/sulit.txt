@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sulit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sukar sekali; susah (diselesaikan, dikerjakan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "susah dicari; jarang terdapat;"
+      },
+      {
+        "type": "desc",
+        "text": "dirahasiakan (sukar diketahui dsb); tersembunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "gelap (rahasia, tidak terang-terangan);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan yang sukar (genting, gawat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sulit",
+  "related": [],
+  "detailed": false
+}

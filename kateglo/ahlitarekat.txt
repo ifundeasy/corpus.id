@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli tarekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli suluk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20tarekat",
+  "related": [],
+  "detailed": false
+}

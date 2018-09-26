@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tobat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sadar dan menyesal akan dosa (perbuatan yang salah atau jahat) dan berniat akan memperbaiki tingkah laku dan perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali kepada agama (jalan, hal) yang benar;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak sanggup lagi;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "menyatakan rasa heran, kesal, atau sebal;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) jera (tidak akan berbuat lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tobat",
+  "related": [],
+  "detailed": false
+}

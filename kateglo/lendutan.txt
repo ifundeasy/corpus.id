@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lendutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lekukan ke bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) garis vertikal antara titik terendah dengan garis datar penghubung ujung balok yang melengkung akibat dibebani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lendutan",
+  "related": [],
+  "detailed": false
+}

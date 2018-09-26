@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rasial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan (bersifat) ciri-ciri fisik ras, bangsa, suku bangsa, dsb (seperti warna kulit, rambut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berdasarkan prasangka terhadap ras tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasial",
+  "related": [],
+  "detailed": false
+}

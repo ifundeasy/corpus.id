@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koordinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mengatur suatu organisasi atau kegiatan sehingga peraturan dan tindakan yang akan dilaksanakan tidak saling bertentangan atau simpang siur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggabungan satuan gramatikal yang sederajat dengan konjungsi koordinatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koordinasi",
+  "related": [],
+  "detailed": false
+}

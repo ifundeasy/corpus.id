@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesejukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan dsb) sejuk;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kena sejuk (masuk angin); menjadi terlalu sejuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesejukan",
+  "related": [],
+  "detailed": false
+}

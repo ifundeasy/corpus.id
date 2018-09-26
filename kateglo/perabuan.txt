@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perabuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat abu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyimpan abu mayat yang telah dibakar;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membakar mayat; krematorium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perabuan",
+  "related": [],
+  "detailed": false
+}

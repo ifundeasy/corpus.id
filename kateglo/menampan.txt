@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menampan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mematut-matutkan (diri, pakaian, hiasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengatur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menampan",
+  "related": [],
+  "detailed": false
+}

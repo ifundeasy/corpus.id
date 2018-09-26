@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulayat",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "wilayah"
+      },
+      {
+        "type": "link",
+        "text": "hak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulayat",
+  "related": [],
+  "detailed": false
+}

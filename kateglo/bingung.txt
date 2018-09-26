@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bingung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hilang akal (tidak tahu yang harus dilakukan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tahu arah (mana barat mana timur dsb); tidak tahu jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "gugup tidak keruan;"
+      },
+      {
+        "type": "desc",
+        "text": "bodoh; tolol;"
+      },
+      {
+        "type": "desc",
+        "text": "(merasa) kurang jelas (tentang sesuatu); kurang mengerti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bingung",
+  "related": [],
+  "detailed": false
+}

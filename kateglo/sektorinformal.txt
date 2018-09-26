@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sektor informal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkungan usaha tidak resmi; lapangan pekerjaan yang diciptakan dan diusahakan sendiri oleh pencari kerja (seperti wiraswasta);"
+      },
+      {
+        "type": "desc",
+        "text": "unit usaha kecil yang melakukan kegiatan produksi dan/atau distribusi barang dan jasa untuk menciptakan lapangan kerja dan penghasilan bagi mereka yang terlibat unit tersebut bekerja dengan keterbatasan, baik modal, fisik, tenaga, maupun keahlian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sektor%20informal",
+  "related": [],
+  "detailed": false
+}

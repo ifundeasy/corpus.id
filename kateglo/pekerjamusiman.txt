@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja musiman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerja yang bekerja hanya pada musim-musim tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja%20musiman",
+  "related": [],
+  "detailed": false
+}

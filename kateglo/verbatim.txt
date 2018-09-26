@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verbatim",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kata demi kata; menurut apa yang tertuang dalam tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verbatim",
+  "related": [],
+  "detailed": false
+}

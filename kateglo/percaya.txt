@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "percaya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengakui atau yakin bahwa sesuatu memang benar atau nyata;"
+      },
+      {
+        "type": "desc",
+        "text": "menganggap atau yakin bahwa sesuatu itu benar-benar ada;"
+      },
+      {
+        "type": "desc",
+        "text": "menganggap atau yakin bahwa seseorang itu jujur (tidak jahat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yakin benar atau memastikan akan kemampuan atau kelebihan seseorang atau sesuatu (bahwa akan dapat memenuhi harapannya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percaya",
+  "related": [],
+  "detailed": false
+}

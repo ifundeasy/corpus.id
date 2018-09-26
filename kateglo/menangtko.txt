@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menang TKO",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr) menang karena wasit menganggap lawan tidak dapat mengimbangi perlawanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menang%20TKO",
+  "related": [],
+  "detailed": false
+}

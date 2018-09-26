@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serampang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tombak yang ujungnya bercabang tiga untuk senjata atau untuk menangkap ikan;"
+      },
+      {
+        "type": "link",
+        "text": "terserampang"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyerampang"
+      },
+      {
+        "type": "desc",
+        "text": "nama sebuah tari nasional dan lagunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serampang",
+  "related": [],
+  "detailed": false
+}

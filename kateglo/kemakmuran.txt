@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemakmuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan makmur;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan kehidupan negara yang rakyatnya mendapat kebahagiaan jasmani dan rohani akibat terpenuhi kebutuhannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemakmuran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teleskop radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerima radio yang peka dan kuat untuk mempelajari benda-benda langit melalui gelombang pancar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teleskop%20radio",
+  "related": [],
+  "detailed": false
+}

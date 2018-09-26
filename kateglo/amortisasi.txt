@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amortisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "penghapusan atau pernyataan tidak berlaku terhadap surat-surat berharga yang nilainya telah dibayarkan kembali atau telah hilang;"
+      },
+      {
+        "type": "desc",
+        "text": "penyusutan secara berangsur-angsur dari utang atau penyerapan nilai kekayaan yang tidak berwujud dan bersifat susut, seperti kontrak atau jatah keuntungan (royalti) ke dalam pos biaya, selama jangka (waktu) tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amortisasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ibu kota kabupaten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kedudukan pusat pemerintahan tingkat kabupaten atau Daerah Tingkat II;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu%20kota%20kabupaten",
+  "related": [],
+  "detailed": false
+}

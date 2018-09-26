@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wawancara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanya jawab dengan seseorang (pejabat dsb) yang diperlukan untuk dimintai keterangan atau pendapatnya mengenai suatu hal, untuk dimuat dalam surat kabar, disiarkan melalui radio, atau ditayangkan pada layar televisi;"
+      },
+      {
+        "type": "desc",
+        "text": "tanya jawab direksi (kepala personalia, kepala humas) perusahaan dengan pelamar pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanya jawab peneliti dengan narasumber;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara",
+  "related": [],
+  "detailed": false
+}

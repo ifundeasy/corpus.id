@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa tidak senang (karena sukar, sulit, berat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak aman (dalam hati); selalu gelisah dan khawatir; sedih;"
+      },
+      {
+        "type": "desc",
+        "text": "sukar;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mudah (mendapat, mencari, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kekurangan; miskin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah mimpi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang apa yang dimimpikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20mimpi",
+  "related": [],
+  "detailed": false
+}

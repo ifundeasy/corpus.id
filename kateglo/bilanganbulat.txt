@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan bulat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang bukan pecahan (seperti 1, 2, 3);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20bulat",
+  "related": [],
+  "detailed": false
+}

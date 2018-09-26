@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gedung bicara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "gedung tempat bersidang;"
+      },
+      {
+        "type": "desc",
+        "text": "gedung pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gedung%20bicara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pita sepatu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tali sepatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pita%20sepatu",
+  "related": [],
+  "detailed": false
+}

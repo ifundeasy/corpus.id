@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cercap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "mencercap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cercap",
+  "related": [],
+  "detailed": false
+}

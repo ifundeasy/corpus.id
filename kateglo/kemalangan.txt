@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemalangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan malang; kesusahan;"
+      },
+      {
+        "type": "desc",
+        "text": "kecelakaan; kesialan; kerugian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemalangan",
+  "related": [],
+  "detailed": false
+}

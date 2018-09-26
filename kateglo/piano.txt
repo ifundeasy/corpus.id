@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piano",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik berdawai baja, dibunyikan dengan memukulkan palu-paluan pada dawai itu, dan dimainkan dengan menekan tutsnya;"
+      },
+      {
+        "type": "desc",
+        "text": "istilah musik yang berarti lembut (tentang lagu yang harus dimainkan dengan lembut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piano",
+  "related": [],
+  "detailed": false
+}

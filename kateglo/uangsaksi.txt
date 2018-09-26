@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang saksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan kepada saksi pada pengadilan untuk ongkos jalan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20saksi",
+  "related": [],
+  "detailed": false
+}

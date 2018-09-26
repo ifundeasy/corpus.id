@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "miring",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan sisi yang satu lebih tinggi dari sisi yang lain (tentang garis atau permukaan) rendah sebelah; tidak datar; landai;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tegak lurus; condong;"
+      },
+      {
+        "type": "desc",
+        "text": "senget;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) agak gila; kurang waras; sinting;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) agak murah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=miring",
+  "related": [],
+  "detailed": false
+}

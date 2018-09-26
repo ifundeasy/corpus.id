@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "spektrum kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian spektrum yang mengandung panjang gelombang yang paling aktif kimia, misal spektrum daerah ultra lembayung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektrum%20kimia",
+  "related": [],
+  "detailed": false
+}

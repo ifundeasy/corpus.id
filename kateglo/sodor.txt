@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sodor",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyodorkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) tombak (bambu dsb) panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sodor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bintangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(gambar) tiruan bintang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) gugus bintang;"
+      },
+      {
+        "type": "desc",
+        "text": "bintik putih di tengah mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bintangan",
+  "related": [],
+  "detailed": false
+}

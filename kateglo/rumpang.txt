@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumpang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersela-sela karena tanggal giginya; ompong;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "rongak atau bersela-sela (tentang pagar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sela (selang waktu, berhenti sebentar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cuil sedikit pada pinggirnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumpang",
+  "related": [],
+  "detailed": false
+}

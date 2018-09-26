@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "warta;"
+      },
+      {
+        "type": "desc",
+        "text": "cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warita",
+  "related": [],
+  "detailed": false
+}

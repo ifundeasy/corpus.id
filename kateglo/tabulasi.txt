@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyusunan menurut lajur yang telah tersedia; penyajian data dalam bentuk tabel atau daftar untuk memudahkan pengamatan dan evaluasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabulasi",
+  "related": [],
+  "detailed": false
+}

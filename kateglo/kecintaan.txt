@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecintaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dicintai; kekasih;"
+      },
+      {
+        "type": "desc",
+        "text": "kerinduan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal cinta kasih;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) kesedihan; kekhawatiran;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl) menanggung cinta (sedih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecintaan",
+  "related": [],
+  "detailed": false
+}

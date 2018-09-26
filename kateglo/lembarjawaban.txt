@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembar jawaban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) bagian dari modul yang berisi jawaban untuk digunakan para siswa atau guru dalam menilai jawaban yang telah dituliskan pada lembar uji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembar%20jawaban",
+  "related": [],
+  "detailed": false
+}

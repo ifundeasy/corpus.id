@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dungkul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertanduk melengkung ke bawah (tentang kerbau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bertanduk (tentang kerbau dsb); dongkol;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis hantu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dungkul",
+  "related": [],
+  "detailed": false
+}

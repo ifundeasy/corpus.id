@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "putar balik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bolak-balik; berbelit-belit (tentang perkataan dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "mantra untuk membalikkan orang yang pergi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putar%20balik",
+  "related": [],
+  "detailed": false
+}

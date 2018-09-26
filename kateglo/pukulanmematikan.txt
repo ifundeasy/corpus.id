@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pukulan mematikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pukulan yang dapat mematikan (merobohkan) lawan (dalam pertandingan tinju);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukulan%20mematikan",
+  "related": [],
+  "detailed": false
+}

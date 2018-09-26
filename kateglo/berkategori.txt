@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkategori",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kategori; masuk ke kategori ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkategori",
+  "related": [],
+  "detailed": false
+}

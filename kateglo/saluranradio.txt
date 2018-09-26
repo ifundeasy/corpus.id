@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) lapisan atmosfer agak tipis dan datar, tempat gelombang radar merambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20radio",
+  "related": [],
+  "detailed": false
+}

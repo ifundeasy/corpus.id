@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak dupleks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) cetak dua warna yang dibuat dari model satu warna dengan warna yang kedua dipakai sebagai warna dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20dupleks",
+  "related": [],
+  "detailed": false
+}

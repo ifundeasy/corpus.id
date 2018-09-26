@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "faringitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang pangkal kerongkongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faringitis",
+  "related": [],
+  "detailed": false
+}

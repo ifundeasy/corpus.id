@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli informasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas informasi yang memiliki keahlian tertentu dan mampu mengelola perpustakaan ilmiah, penekanan tugasnya lebih diutamakan pada keahlian dalam pemberian jasa informasi daripada pengetahuan tentang suatu ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20informasi",
+  "related": [],
+  "detailed": false
+}

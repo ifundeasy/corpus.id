@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banting",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membanting"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) perahu Aceh bertiang dua;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) lembu; sapi; banteng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banting",
+  "related": [],
+  "detailed": false
+}

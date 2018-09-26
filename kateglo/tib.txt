@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu mengenai obat-obatan atau kesehatan; ilmu tib; ilmu kedokteran;"
+      },
+      {
+        "type": "desc",
+        "text": "kitab mengenai jampi-jampi atau mantra; kitab tib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tib",
+  "related": [],
+  "detailed": false
+}

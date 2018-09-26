@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengidap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penderita suatu penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengidap",
+  "related": [],
+  "detailed": false
+}

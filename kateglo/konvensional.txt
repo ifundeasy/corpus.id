@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konvensional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan konvensi (kesepakatan) umum (seperti adat, kebiasaan, kelaziman);"
+      },
+      {
+        "type": "desc",
+        "text": "tradisional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konvensional",
+  "related": [],
+  "detailed": false
+}

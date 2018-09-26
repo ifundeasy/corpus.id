@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asuransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanggungan (perjanjian antara dua pihak, pihak yang satu berkewajiban membayar iuran dan pihak yang lain berkewajiban memberikan jaminan sepenuhnya kepada pembayar iuran apabila terjadi sesuatu yang menimpa pihak pertama atau barang miliknya sesuai dengan perjanjian yang dibuat);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) uang yang dibayarkan oleh perusahaan asuransi yang memberi pertanggungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi",
+  "related": [],
+  "detailed": false
+}

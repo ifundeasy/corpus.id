@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan (perhimpunan, gabungan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "persekutuan (dagang); perseroan;"
+      },
+      {
+        "type": "desc",
+        "text": "sekutu; kawan (dalam perang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serikat",
+  "related": [],
+  "detailed": false
+}

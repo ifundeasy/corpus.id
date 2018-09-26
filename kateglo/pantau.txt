@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan kecil berperut buncit yang hidup di air tawar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memantau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantau",
+  "related": [],
+  "detailed": false
+}

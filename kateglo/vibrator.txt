@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vibrator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang dapat menimbulkan (menghasilkan) getaran, misal yang dipakai untuk memijat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vibrator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eliminasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeluaran (seperti racun dari tubuh); penghilangan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyingkiran; pengasingan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyisihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eliminasi",
+  "related": [],
+  "detailed": false
+}

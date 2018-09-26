@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "faktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) daftar barang kiriman yang dilengkapi keterangan nama, jumlah, dan harga yang harus dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktur",
+  "related": [],
+  "detailed": false
+}

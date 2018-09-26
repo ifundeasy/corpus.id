@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "otofon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiofon",
+  "related": [],
+  "detailed": false
+}

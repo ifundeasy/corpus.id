@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ing) →"
+      },
+      {
+        "type": "link",
+        "text": "mengomit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komit",
+  "related": [],
+  "detailed": false
+}

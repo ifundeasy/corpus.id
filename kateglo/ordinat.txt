@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ordinat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) salah satu penentu letak titik pada bidang, letak titik pada bidang biasa ditentukan terhadap dua garis yang berpotongan tegak lurus yang disebut sumbu mendatar dan sumbu tegak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ordinat",
+  "related": [],
+  "detailed": false
+}

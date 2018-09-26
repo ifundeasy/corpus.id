@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengkredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kreditor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengkredit",
+  "related": [],
+  "detailed": false
+}

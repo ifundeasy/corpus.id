@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata api yang digunakan (disimpan) tanpa izin polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20gelap",
+  "related": [],
+  "detailed": false
+}

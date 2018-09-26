@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "automaton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang bergerak sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "mesin atau peranti mekanis yang bergerak serta-merta; sosok mekanis yang bergerak seakan-akan benda hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "manusia yang berperilaku seperti mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=automaton",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kitab suci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wahyu Tuhan yang dibukukan (seperti Alquran, Injil, Taurat, Zabur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitab%20suci",
+  "related": [],
+  "detailed": false
+}

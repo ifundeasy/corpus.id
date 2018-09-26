@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hubungan kekerabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan di antara dua individu atau lebih karena asal-usul yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hubungan%20kekerabatan",
+  "related": [],
+  "detailed": false
+}

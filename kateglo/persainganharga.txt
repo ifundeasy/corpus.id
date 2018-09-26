@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persaingan harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persaingan dalam menentukan harga barang dagangan yang dilakukan oleh pedagang sebagai upaya untuk merebut pasaran dan memukul saingan dagangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persaingan%20harga",
+  "related": [],
+  "detailed": false
+}

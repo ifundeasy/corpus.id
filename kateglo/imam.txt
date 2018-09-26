@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemimpin salat (pada salat yang dilakukan bersama-sama seperti pada salat Jumat);"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin; kepala (negeri dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(di-pakai juga sebagai gelar) pemimpin; penghulu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) pemimpin mazhab;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) pastor yang mempersembahkan kurban misa atau memimpin upacara gereja;"
+      },
+      {
+        "type": "desc",
+        "text": "padri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imam",
+  "related": [],
+  "detailed": false
+}

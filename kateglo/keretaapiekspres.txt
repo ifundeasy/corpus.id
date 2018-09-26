@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta api ekspres",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta api yang berhenti di stasiun tertentu saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20api%20ekspres",
+  "related": [],
+  "detailed": false
+}

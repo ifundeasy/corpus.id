@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berapi-api",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "bersemangat sekali; bergelora; berkobar- kobar (tentang semangat, gairah);"
+      },
+      {
+        "type": "desc",
+        "text": "marah sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berapi-api",
+  "related": [],
+  "detailed": false
+}

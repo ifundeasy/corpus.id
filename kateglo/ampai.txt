@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang (tinggi) dan ramping; lampai;"
+      },
+      {
+        "type": "link",
+        "text": "mengampai"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berampai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyablon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan pola sablon untuk membuat desain baju, tas, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyablon",
+  "related": [],
+  "detailed": false
+}

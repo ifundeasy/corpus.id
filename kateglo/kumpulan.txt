@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kumpulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang telah dikumpulkan; himpunan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "perhimpunan; serikat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berkumpul; rapat; pertemuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumpulan",
+  "related": [],
+  "detailed": false
+}

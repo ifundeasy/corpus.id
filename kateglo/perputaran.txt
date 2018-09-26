@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perputaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berputar;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan (pertukaran, pergantian) keadaan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "peredaran (tentang uang);"
+      },
+      {
+        "type": "desc",
+        "text": "peristiwa (tentang kehidupan dsb) yang seakan-akan merupakan lingkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan perdagangan atau perniagaan (seperti bahan dijadikan barang, barang dijual jadi uang dibelikan bahan, lalu dijadikan barang lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perputaran",
+  "related": [],
+  "detailed": false
+}

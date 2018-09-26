@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pagut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memagut"
+      },
+      {
+        "type": "link",
+        "text": "berpagut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pagut",
+  "related": [],
+  "detailed": false
+}

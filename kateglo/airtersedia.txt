@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air tersedia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) banyaknya air dalam tanah pada sebarang waktu yang dinyatakan dalam persentase berat tanah kering;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20tersedia",
+  "related": [],
+  "detailed": false
+}

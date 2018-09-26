@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada cahaya; kelam; tidak terang;"
+      },
+      {
+        "type": "desc",
+        "text": "malam;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak atau belum jelas (tentang perihal, perkara, dsb); samar;"
+      },
+      {
+        "type": "desc",
+        "text": "rahasia (tidak secara terang-terangan); tidak halal atau tidak sah; tidak menurut aturan (undang-undang, hukum) yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alim",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berilmu (terutama dalam hal agama Islam);"
+      },
+      {
+        "type": "desc",
+        "text": "saleh;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai urusan agama di Banten atau Madura;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alim",
+  "related": [],
+  "detailed": false
+}

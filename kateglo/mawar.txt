@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mawar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman perdu suku Rosaceae, meliputi ratusan jenis, tumbuh tegak atau memanjat, batangnya berduri, bunganya beraneka warna, seperti merah, putih, merah jambu, merah tua, berbau harum;"
+      },
+      {
+        "type": "desc",
+        "text": "bunga mawar; bunga ros;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mawar",
+  "related": [],
+  "detailed": false
+}

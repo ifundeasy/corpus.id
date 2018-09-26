@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) rekapitulasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekap",
+  "related": [],
+  "detailed": false
+}

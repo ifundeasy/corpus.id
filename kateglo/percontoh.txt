@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percontoh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kecil atau butir tunggal yang mewakili kelompok atau keseluruhan yang lebih besar; sampel;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian kecil data penelitian yang dianggap dapat mewakili keseluruhan data, dianalisis untuk memperoleh informasi mengenai seluruh data penelitian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) kumpulan unsur dalam populasi yang dipilih untuk pengukuran dengan maksud mendapat informasi tentang seluruh populasi itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percontoh",
+  "related": [],
+  "detailed": false
+}

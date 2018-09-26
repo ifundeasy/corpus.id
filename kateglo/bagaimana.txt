@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagaimana",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan cara, perbuatan (lazimnya diikuti kata cara);"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan akibat suatu tindakan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk meminta pendapat dari kawan bicara (diikuti kata kalau);"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan penilaian atas suatu gagasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagaimana",
+  "related": [],
+  "detailed": false
+}

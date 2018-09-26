@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kertas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang lembaran dibuat dari bubur rumput, jerami, kayu, dsb yang biasa ditulisi atau untuk pembungkus dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas",
+  "related": [],
+  "detailed": false
+}

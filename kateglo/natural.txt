@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "natural",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat alam; alamiah;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari pengaruh; bukan buatan; asli;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dipakai untuk warna apa saja (tentang semir dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=natural",
+  "related": [],
+  "detailed": false
+}

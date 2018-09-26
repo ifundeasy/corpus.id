@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mambo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "irama musik dan tarian yang berasal dari Kuba;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis barang yang pada masa lalu dianggap baru (modern), seperti baju --; es -- , sandal --;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mambo",
+  "related": [],
+  "detailed": false
+}

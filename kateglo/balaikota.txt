@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung kotapraja tempat pertemuan, rapat, dsb antara penduduk dan pemerintah kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20kota",
+  "related": [],
+  "detailed": false
+}

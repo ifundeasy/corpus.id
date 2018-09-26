@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muslimin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "para penganut agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "laki-laki muslim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muslimin",
+  "related": [],
+  "detailed": false
+}

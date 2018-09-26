@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekskavasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ark)"
+      },
+      {
+        "type": "desc",
+        "text": "penggalian yang dilakukan di tempat yang mengandung benda purbakala;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penggalian benda purbakala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekskavasi",
+  "related": [],
+  "detailed": false
+}

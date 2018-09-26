@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perimpin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tali seluar; tali kolor (pada celana dalam);"
+      },
+      {
+        "type": "desc",
+        "text": "tali di tepi layar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perimpin",
+  "related": [],
+  "detailed": false
+}

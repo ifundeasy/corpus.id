@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muhrim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang sedang mengerjakan ihram;"
+      },
+      {
+        "type": "desc",
+        "text": "orang laki-laki yang dianggap dapat menjaga dan melindungi wanita yang melakukan ibadah haji dan/atau umrah;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang masih ada hubungan keluarga dekat sehingga terlarang menikah dengannya; mahram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muhrim",
+  "related": [],
+  "detailed": false
+}

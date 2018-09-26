@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kategori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari sistem klasifikasi (golongan, jenis pangkat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) golongan satuan bahasa yang anggotanya mempunyai perilaku sintaksis dan sifat hubungan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategori",
+  "related": [],
+  "detailed": false
+}

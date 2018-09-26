@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klerek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai rendah yang melakukan pekerjaan tulis menulis di kantor pemerintah, berpangkat setingkat di atas juru tulis;"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai yang mengerjakan pekerjaan tulis-menulis di kantor swasta; juru tulis; kerani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klerek",
+  "related": [],
+  "detailed": false
+}

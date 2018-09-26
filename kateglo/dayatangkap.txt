@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya tangkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan memahami apa yang ditangkap atau diterima oleh pancaindra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20tangkap",
+  "related": [],
+  "detailed": false
+}

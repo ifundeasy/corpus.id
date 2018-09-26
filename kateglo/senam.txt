@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak badan dengan gerakan tertentu, seperti menggeliat, menggerakkan, dan meregangkan anggota badan; gimnastik;"
+      },
+      {
+        "type": "desc",
+        "text": "tarum;"
+      },
+      {
+        "type": "desc",
+        "text": "warna biru (lebam); biru keungu-unguan seperti warna nila;"
+      },
+      {
+        "type": "desc",
+        "text": "biru pucat (warna muka dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "warna asli (dari barang-barang yang disepuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senam",
+  "related": [],
+  "detailed": false
+}

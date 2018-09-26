@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hiperaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sifat yang sangat aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hiperaktif",
+  "related": [],
+  "detailed": false
+}

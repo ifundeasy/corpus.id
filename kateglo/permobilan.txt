@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permobilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mobil; yang berkaitan dengan mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permobilan",
+  "related": [],
+  "detailed": false
+}

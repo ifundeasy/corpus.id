@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alfanumerik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian aksara yang dapat terdiri atas huruf, angka, tanda baca, atau lambang matematika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alfanumerik",
+  "related": [],
+  "detailed": false
+}

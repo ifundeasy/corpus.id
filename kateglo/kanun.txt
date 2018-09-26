@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "undang-undang; peraturan; hukum; kaidah;"
+      },
+      {
+        "type": "desc",
+        "text": "kitab undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanun",
+  "related": [],
+  "detailed": false
+}

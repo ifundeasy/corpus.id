@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam ketulangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "demam disertai dengan pegal-pegal pada sendi-sendi tulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20ketulangan",
+  "related": [],
+  "detailed": false
+}

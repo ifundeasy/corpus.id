@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pindah tugas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memindahkan (seseorang) ke tempat tugas yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pindah%20tugas",
+  "related": [],
+  "detailed": false
+}

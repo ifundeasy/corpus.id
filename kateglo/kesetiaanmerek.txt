@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesetiaan merek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) kesetiaan konsumen terhadap suatu merek yang ditunjukkan melalui perhatian dan perbuatan untuk mengulang pembelian merek tersebut secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesetiaan%20merek",
+  "related": [],
+  "detailed": false
+}

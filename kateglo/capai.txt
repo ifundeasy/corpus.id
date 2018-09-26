@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "capai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencapai"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lelah; letih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=capai",
+  "related": [],
+  "detailed": false
+}

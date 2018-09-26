@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intravena",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) mengenai pemasukan (tentang suntikan ke dalam pembuluh darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intravena",
+  "related": [],
+  "detailed": false
+}

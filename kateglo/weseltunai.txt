@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wesel tunai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wesel yang langsung dibayarkan atas penunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wesel%20tunai",
+  "related": [],
+  "detailed": false
+}

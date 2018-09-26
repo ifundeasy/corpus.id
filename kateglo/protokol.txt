@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protokol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat-surat resmi yang memuat hasil perundingan (persetujuan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "peraturan upacara di istana kepala negara atau berkenaan dengan penyambutan tamu-tamu negara dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tata cara (upacara dsb) yang secara internasional berlaku dalam hubungan diplomatik;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) orang yang bertugas mengatur jalannya upacara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protokol",
+  "related": [],
+  "detailed": false
+}

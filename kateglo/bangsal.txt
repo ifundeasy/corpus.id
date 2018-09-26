@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangsal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah yang dibuat dari kayu (untuk gudang, kandang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "los (di pasar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rumah besar (untuk pertemuan, bersenam, bermain-main, pertunjukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bedeng;"
+      },
+      {
+        "type": "desc",
+        "text": "barak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) balai (di istana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangsal",
+  "related": [],
+  "detailed": false
+}

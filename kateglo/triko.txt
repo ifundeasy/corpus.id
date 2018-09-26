@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "triko",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kain"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=triko",
+  "related": [],
+  "detailed": false
+}

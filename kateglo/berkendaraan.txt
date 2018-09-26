@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkendaraan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai kendaraan (seperti sepeda, kuda, kereta);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkendaraan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deviasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyimpangan (dari peraturan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deviasi",
+  "related": [],
+  "detailed": false
+}

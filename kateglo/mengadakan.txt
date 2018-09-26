@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengadakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan; menciptakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyebabkan ada; menyediakan (uang, perlengkapan, tempat); mendirikan (perkumpulan);"
+      },
+      {
+        "type": "desc",
+        "text": "menimbulkan; mendatangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyelenggarakan (pesta, pertunjukan);"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan (tindakan, perubahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengadakan",
+  "related": [],
+  "detailed": false
+}

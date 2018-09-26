@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bunyi terkecil yang mampu menunjukkan kontras makna (misal /h/ adalah fonem karena membedakan makna kata harus dan arus, /b/ dan /p/ adalah dua fonem yang berbeda karena bara dan para beda maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonem",
+  "related": [],
+  "detailed": false
+}

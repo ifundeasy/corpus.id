@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multilateral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai banyak sisi;"
+      },
+      {
+        "type": "desc",
+        "text": "melibatkan atau mengikutsertakan lebih dari dua bangsa (pihak dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multilateral",
+  "related": [],
+  "detailed": false
+}

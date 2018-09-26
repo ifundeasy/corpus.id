@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidato kenegaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato kepala negara di depan DPR/MPR atau pidato resmi kepala negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidato%20kenegaraan",
+  "related": [],
+  "detailed": false
+}

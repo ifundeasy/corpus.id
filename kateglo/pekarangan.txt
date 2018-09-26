@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekarangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah sekitar rumah; halaman rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang disiapkan untuk tempat tinggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekarangan",
+  "related": [],
+  "detailed": false
+}

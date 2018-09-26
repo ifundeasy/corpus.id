@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kupel",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kopel"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kubah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kupel",
+  "related": [],
+  "detailed": false
+}

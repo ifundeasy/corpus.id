@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membidai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membalut (tangan patah dsb) dengan bidai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membidai",
+  "related": [],
+  "detailed": false
+}

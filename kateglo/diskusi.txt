@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan ilmiah untuk bertukar pikiran mengenai suatu masalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskusi",
+  "related": [],
+  "detailed": false
+}

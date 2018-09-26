@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mantra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan atau ucapan yang memiliki kekuatan gaib (misal dapat menyembuhkan, mendatangkan celaka, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "susunan kata berunsur puisi (seperti rima, irama) yang dianggap mengandung kekuatan gaib, biasanya diucapkan oleh dukun atau pawang untuk menandingi kekuatan gaib yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mantra",
+  "related": [],
+  "detailed": false
+}

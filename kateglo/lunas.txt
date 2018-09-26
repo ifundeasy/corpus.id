@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay)"
+      },
+      {
+        "type": "desc",
+        "text": "balok memanjang di dasar perahu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian bawah (kuali dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "beres dan selesai dibayar (tentang utang); terbayar; impas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lunas",
+  "related": [],
+  "detailed": false
+}

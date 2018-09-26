@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "negosiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses tawar-menawar dengan jalan berunding guna mencapai kesepakatan bersama antara satu pihak (kelompok atau organisasi) dan pihak (kelompok atau organisasi) yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "penyelesaian sengketa secara damai melalui perundingan antara pihak yang bersengketa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negosiasi",
+  "related": [],
+  "detailed": false
+}

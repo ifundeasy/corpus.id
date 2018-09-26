@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejahatan pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindak pidana yang bersangkut-paut dengan pekerjaan pers;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejahatan%20pers",
+  "related": [],
+  "detailed": false
+}

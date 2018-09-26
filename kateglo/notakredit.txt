@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nota kredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan secara tertulis kepada pembeli oleh penjual yang menyatakan rekeningnya telah dikredit dengan jumlah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota%20kredit",
+  "related": [],
+  "detailed": false
+}

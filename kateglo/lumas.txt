@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lumas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melumas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lumas",
+  "related": [],
+  "detailed": false
+}

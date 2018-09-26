@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kadar air",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "persentase air yang ada pada pulp, kertas, dan karton, ditetapkan dengan cara mengeringkan contoh uji pada suhu antara 100o—105o C;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) nisbah yang dinyatakan dalam persentase antara air dalam tanah, batuan (jenuh atau tidak jenuh) dan jumlah volume atau bobot percontoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadar%20air",
+  "related": [],
+  "detailed": false
+}

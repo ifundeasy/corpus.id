@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serebral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan serebrum;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) retrofleks; kakuminal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serebral",
+  "related": [],
+  "detailed": false
+}

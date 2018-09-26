@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek terjamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cek yang dilindungi (dijamin) pembayarannya oleh bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20terjamin",
+  "related": [],
+  "detailed": false
+}

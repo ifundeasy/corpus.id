@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "populer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dikenal dan disukai orang banyak (umum);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai dengan kebutuhan masyarakat pada umumnya; mudah dipahami orang banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "disukai dan dikagumi orang banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=populer",
+  "related": [],
+  "detailed": false
+}

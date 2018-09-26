@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat tanya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang mengandung intonasi dan makna pertanyaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20tanya",
+  "related": [],
+  "detailed": false
+}

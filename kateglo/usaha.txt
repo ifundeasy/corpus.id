@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan dengan mengerahkan tenaga, pikiran, atau badan untuk mencapai suatu maksud; pekerjaan (perbuatan, prakarsa, ikhtiar, daya upaya) untuk mencapai sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan di bidang perdagangan (dengan maksud mencari untung); perdagangan; perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usaha",
+  "related": [],
+  "detailed": false
+}

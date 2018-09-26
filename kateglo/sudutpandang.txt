@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut pandang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cakupan sudut bidik lensa terhadap gambar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20pandang",
+  "related": [],
+  "detailed": false
+}

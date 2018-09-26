@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "azan;"
+      },
+      {
+        "type": "desc",
+        "text": "abang; kakak (laki-laki);"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi barang jatuh, meletup, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu; ketika; saat;"
+      },
+      {
+        "type": "desc",
+        "text": "jangka waktu yang agak lama terjadinya suatu peristiwa penting; zaman;"
+      },
+      {
+        "type": "desc",
+        "text": "jangka waktu tertentu yang ada permulaan dan batasnya;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan ketidakpercayaan dan sifatnya retoris;"
+      },
+      {
+        "type": "link",
+        "text": "termasa"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) satuan ukuran berat untuk emas dan perak (dalam prasasti disingkat ma, 1 ma = 2,412 g);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa",
+  "related": [],
+  "detailed": false
+}

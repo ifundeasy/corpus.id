@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujung tangan atau kaki yang beruas-ruas, lima banyaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "nama ukuran, kira-kira sebesar atau selebar jari tangan orang dewasa;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian suatu benda yang rupanya seperti jari;"
+      },
+      {
+        "type": "link",
+        "text": "jari buaya"
+      },
+      {
+        "type": "desc",
+        "text": "kisi-kisi; terali;"
+      },
+      {
+        "type": "desc",
+        "text": "sengkang roda yang dipasang di titik pusat roda sampai pada lingkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) garis lurus dari titik pusat ke keliling bulatan (lingkaran); radius;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jari",
+  "related": [],
+  "detailed": false
+}

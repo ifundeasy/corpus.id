@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu karang;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit pada ginjal yang disebabkan oleh adanya zat yang membatu;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengarang; cerita; buah pena;"
+      },
+      {
+        "type": "desc",
+        "text": "ciptaan; gubahan (lagu, musik, nyanyian);"
+      },
+      {
+        "type": "desc",
+        "text": "cerita mengada-ada (yang dibuat-buat);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil rangkaian (susunan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga yang dihasilkan oleh arus listrik yang diukur dengan watt; kekuatan listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20listrik",
+  "related": [],
+  "detailed": false
+}

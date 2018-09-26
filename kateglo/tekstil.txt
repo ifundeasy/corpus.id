@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tekstil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang tenun (seperti cita, kain putih); bahan pakaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekstil",
+  "related": [],
+  "detailed": false
+}

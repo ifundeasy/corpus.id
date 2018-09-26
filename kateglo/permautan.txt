@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permautan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya orang mati; angka kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permautan",
+  "related": [],
+  "detailed": false
+}

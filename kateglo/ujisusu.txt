@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uji susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan untuk menentukan mutu air susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uji%20susu",
+  "related": [],
+  "detailed": false
+}

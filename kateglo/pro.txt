@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pro",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) setuju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pro",
+  "related": [],
+  "detailed": false
+}

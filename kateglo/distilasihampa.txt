@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "distilasi hampa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "distilasi yang dilakukan dengan menurunkan tekanan dalam reaktor sehingga distilasi dapat berlangsung pada suhu yang relatif rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distilasi%20hampa",
+  "related": [],
+  "detailed": false
+}

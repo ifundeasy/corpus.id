@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diet lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) ramuan makanan untuk ikan yang kadar gizinya memadai untuk kebutuhan suatu jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diet%20lengkap",
+  "related": [],
+  "detailed": false
+}

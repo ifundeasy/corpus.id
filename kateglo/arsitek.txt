@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arsitek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli dalam merancang dan menggambar bangunan, jembatan, dsb, biasanya sekaligus sebagai penyelia konstruksinya;"
+      },
+      {
+        "type": "desc",
+        "text": "perencana (pencipta suatu paham, negara, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arsitek",
+  "related": [],
+  "detailed": false
+}

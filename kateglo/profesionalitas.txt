@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profesionalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal profesi; keprofesian;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan untuk bertindak secara profesional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profesionalitas",
+  "related": [],
+  "detailed": false
+}

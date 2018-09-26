@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tradisi tertulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "folklor tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tradisi%20tertulis",
+  "related": [],
+  "detailed": false
+}

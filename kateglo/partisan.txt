@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikut partai, golongan, atau paham tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partisan",
+  "related": [],
+  "detailed": false
+}

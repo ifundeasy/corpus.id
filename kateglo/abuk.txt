@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serbuk (tentang barang yang lumat halus seperti tepung);"
+      },
+      {
+        "type": "desc",
+        "text": "rambut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengabuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abuk",
+  "related": [],
+  "detailed": false
+}

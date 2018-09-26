@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuliah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran yang diberikan di perguruan tinggi;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengikuti pelajaran di perguruan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "ceramah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuliah",
+  "related": [],
+  "detailed": false
+}

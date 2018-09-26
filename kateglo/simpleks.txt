@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpleks",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sederhana;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai pengiriman data searah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpleks",
+  "related": [],
+  "detailed": false
+}

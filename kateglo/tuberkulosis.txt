@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuberkulosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit spesifik yang disebabkan oleh basil tuberkulosis yang menyerang paru-paru (batuk kering, batuk darah), tulang, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuberkulosis",
+  "related": [],
+  "detailed": false
+}

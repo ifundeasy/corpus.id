@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "dis-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "tidak; tak;"
+      },
+      {
+        "type": "desc",
+        "text": "terpisah;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat kebalikan atau lawan dari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dis-",
+  "related": [],
+  "detailed": false
+}

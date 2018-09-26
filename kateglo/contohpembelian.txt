@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "contoh pembelian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) contoh yang menjadi dasar pembelian suatu jenis barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=contoh%20pembelian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kucing pekak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkap tikus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kucing%20pekak",
+  "related": [],
+  "detailed": false
+}

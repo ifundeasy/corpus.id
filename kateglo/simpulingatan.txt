@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "simpul ingatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpul pada sudut sapu tangan untuk membantu ingatan;"
+      },
+      {
+        "type": "desc",
+        "text": "apa-apa yang diingat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpul%20ingatan",
+  "related": [],
+  "detailed": false
+}

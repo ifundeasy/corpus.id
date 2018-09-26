@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekapitulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ringkasan; ikhtisar;"
+      },
+      {
+        "type": "desc",
+        "text": "ringkasan isi atau ikhtisar pada akhir laporan atau akhir hitungan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuatan rincian data yang bercampur aduk menurut kelompok utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekapitulasi",
+  "related": [],
+  "detailed": false
+}

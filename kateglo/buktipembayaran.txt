@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bukti pembayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan yang menyatakan bahwa seseorang telah membayar sesuatu sesuai dengan kesepakatan, dapat berupa kuitansi, resi, setruk, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukti%20pembayaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketua umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan tertinggi dari suatu organisasi (partai, lembaga, panitia, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketua%20umum",
+  "related": [],
+  "detailed": false
+}

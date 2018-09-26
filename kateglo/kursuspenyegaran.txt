@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kursus penyegaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kursus untuk melanjutkan kegiatan terdahulu sesudah keberhasilan yang pertama; kursus untuk menyegarkan ingatan dan menambahkan teori baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursus%20penyegaran",
+  "related": [],
+  "detailed": false
+}

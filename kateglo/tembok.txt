@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tembok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dinding dari bata, batako, adonan semen;"
+      },
+      {
+        "type": "desc",
+        "text": "tambak (bendung) dari batu (batu bata dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menembok"
+      },
+      {
+        "type": "link",
+        "text": "menembok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembok",
+  "related": [],
+  "detailed": false
+}

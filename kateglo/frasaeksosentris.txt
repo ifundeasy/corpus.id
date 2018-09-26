@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "frasa eksosentris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "frasa yang keseluruhannya tidak mempunyai perilaku sintaksis yang sama dengan salah satu konstituennya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frasa%20eksosentris",
+  "related": [],
+  "detailed": false
+}

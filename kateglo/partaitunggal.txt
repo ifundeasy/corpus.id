@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai satu-satunya yang hidup dan direstui oleh negara, misal Partai Komunis di Republik Rakyat Cina (RRC);"
+      },
+      {
+        "type": "desc",
+        "text": "penggolongan pemain dalam olahraga (bulu tangkis, tenis) yang dimainkan oleh satu lawan satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20tunggal",
+  "related": [],
+  "detailed": false
+}

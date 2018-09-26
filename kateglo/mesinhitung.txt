@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin hitung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin untuk menjumlahkan, mengurangkan, mengalikan, membagi, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20hitung",
+  "related": [],
+  "detailed": false
+}

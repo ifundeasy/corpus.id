@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa penyerahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak waktu antara pemesanan dan penerimaan barang jika dipandang dari pihak penjual;"
+      },
+      {
+        "type": "desc",
+        "text": "jarak waktu antara penerimaan pesanan dan pengiriman barang jika dipandang dari pihak pembeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20penyerahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menawar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghilangkan daya kekuatan (racun, bisa, mantra);"
+      },
+      {
+        "type": "desc",
+        "text": "negosiasi yang terjadi dalam transaksi jual beli; mengemukakan permintaan hendak membeli (menyewa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meminta pengurangan harga (sewa, tuntutan );"
+      },
+      {
+        "type": "desc",
+        "text": "menyebutkan harga \"kurang\" dari harga (sewa dsb) yang ditetapkan penjual dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menawar",
+  "related": [],
+  "detailed": false
+}

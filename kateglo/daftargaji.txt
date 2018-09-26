@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar gaji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) daftar yang biasa dibuat sebulan sekali yang memuat nama, jabatan, jumlah gaji, serta potongan-potongan seperti potongan pajak penghasilan dan iuran pegawai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20gaji",
+  "related": [],
+  "detailed": false
+}

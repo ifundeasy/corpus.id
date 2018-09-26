@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "departemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga tinggi pemerintahan yang mengurus suatu bidang pekerjaan negara yang dipimpin seorang menteri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) bagian dari fakultas, biasanya dipimpin oleh ketua jurusan (departemen) yang menggarap sekelompok disiplin ilmu yang tercakup dalam suatu bidang studi tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang pekerjaan yang dikepalai oleh manajer tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=departemen",
+  "related": [],
+  "detailed": false
+}

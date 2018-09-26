@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remburs",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembayaran kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "jaminan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remburs",
+  "related": [],
+  "detailed": false
+}

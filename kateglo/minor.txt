@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "kecil (digunakan untuk selang, tangga nada, dan akor);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil; kurang penting;"
+      },
+      {
+        "type": "desc",
+        "text": "belum dewasa (tentang orang);"
+      },
+      {
+        "type": "desc",
+        "text": "tambahan (tentang mata pelajaran, mata kuliah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minor",
+  "related": [],
+  "detailed": false
+}

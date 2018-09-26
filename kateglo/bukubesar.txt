@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kumpulan prakiraan yang digunakan oleh sebuah perusahaan untuk mencatat transaksi yang telah dilakukannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20besar",
+  "related": [],
+  "detailed": false
+}

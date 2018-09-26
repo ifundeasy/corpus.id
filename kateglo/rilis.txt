@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rilis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merilis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rilis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai barang yang ditentukan atau dirupakan dengan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah uang atau alat tukar lain yang senilai, yang harus dibayarkan untuk produk atau jasa, pada waktu tertentu dan di pasar tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kehormatan (diri);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) guna (arti, kepentingan, kabar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga",
+  "related": [],
+  "detailed": false
+}

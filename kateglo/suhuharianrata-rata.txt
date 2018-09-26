@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu harian rata-rata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) rata-rata suhu yang diamati selama 24 jam terus-menerus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20harian%20rata-rata",
+  "related": [],
+  "detailed": false
+}

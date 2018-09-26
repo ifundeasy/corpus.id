@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks diskursif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks yang mengaitkan fakta secara bernalar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20diskursif",
+  "related": [],
+  "detailed": false
+}

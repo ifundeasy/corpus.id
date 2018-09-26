@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gana-gini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "harta yang berhasil dikumpulkan selama berumah tangga sehingga menjadi hak berdua suami dan istri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) anak yang hanya dua bersaudara, laki-laki dan perempuan (dari satu ayah dan satu ibu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gana-gini",
+  "related": [],
+  "detailed": false
+}

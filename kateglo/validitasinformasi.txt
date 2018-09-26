@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "validitas informasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat kebenaran, kekuatan, atau keabsahan suatu fakta atau informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=validitas%20informasi",
+  "related": [],
+  "detailed": false
+}

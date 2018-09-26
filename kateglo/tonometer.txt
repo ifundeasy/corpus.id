@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur penyaringan atau penghasil data dengan penyaringan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tekanan bola mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonometer",
+  "related": [],
+  "detailed": false
+}

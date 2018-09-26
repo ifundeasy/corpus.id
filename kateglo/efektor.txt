@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "efektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "organ, jaringan, sel yang mampu mengadakan reaksi terhadap rangsangan;"
+      },
+      {
+        "type": "desc",
+        "text": "molekul yang konsentrasinya mengatur kegiatan molekul protein dengan bereaksi dengan tapak pengikat spesifik pada protein;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efektor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purgatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat membersihkan (berkaitan dengan pencernaan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencahar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purgatif",
+  "related": [],
+  "detailed": false
+}

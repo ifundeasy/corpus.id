@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikat;"
+      },
+      {
+        "type": "desc",
+        "text": "kesimpulan; pembatasan (definisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penali",
+  "related": [],
+  "detailed": false
+}

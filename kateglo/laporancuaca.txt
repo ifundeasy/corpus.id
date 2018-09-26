@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan yang memuat hasil pengamatan meteorologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20cuaca",
+  "related": [],
+  "detailed": false
+}

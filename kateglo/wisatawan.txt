@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wisatawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berwisata; pelancong; turis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisatawan",
+  "related": [],
+  "detailed": false
+}

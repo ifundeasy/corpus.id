@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tepuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan;"
+      },
+      {
+        "type": "desc",
+        "text": "tamparan tidak keras dari belakang dan dari samping;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepuk",
+  "related": [],
+  "detailed": false
+}

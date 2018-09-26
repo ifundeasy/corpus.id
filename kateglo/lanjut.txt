@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lanjut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tua; berumur;"
+      },
+      {
+        "type": "desc",
+        "text": "panjang (perundingan, pembicaraan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tanggung; terus;"
+      },
+      {
+        "type": "desc",
+        "text": "lama; usang;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi; dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanjut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterampilan bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kecakapan seseorang untuk memakai bahasa dalam menulis, membaca, menyimak, atau berbicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterampilan%20bahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manusia (dalam arti khusus);"
+      },
+      {
+        "type": "desc",
+        "text": "manusia (ganti diri ketiga yang tidak tentu);"
+      },
+      {
+        "type": "desc",
+        "text": "dirinya sendiri; manusianya sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "anak buah (bawahan);"
+      },
+      {
+        "type": "desc",
+        "text": "rakyat (dari suatu negara); warga negara;"
+      },
+      {
+        "type": "desc",
+        "text": "manusia yang berasal dari atau tinggal di suatu daerah (desa, kota, negara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "suku bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "manusia lain; bukan diri sendiri; bukan kaum (golongan, kerabat) sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) karena (sebenarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang",
+  "related": [],
+  "detailed": false
+}

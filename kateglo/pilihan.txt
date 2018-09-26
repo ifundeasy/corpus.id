@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pilihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipilih atau hasil memilih;"
+      },
+      {
+        "type": "desc",
+        "text": "yang terpilih (terbaik, terkemuka, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan, upaya dsb yang dapat dilakukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pilihan",
+  "related": [],
+  "detailed": false
+}

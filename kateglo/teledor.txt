@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teledor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lalai; lengah, malas-malas; tidak memenuhi kewajiban;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang rajin (belajar dsb); agak kurang maju (pelajarannya);"
+      },
+      {
+        "type": "desc",
+        "text": "agak kendur atau tidak sebagaimana mestinya dalam hal membayar utang, mengangsur, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) bengal (untuk memaki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teledor",
+  "related": [],
+  "detailed": false
+}

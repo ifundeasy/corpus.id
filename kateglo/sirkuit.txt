@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirkuit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang melingkar atau berbentuk lingkaran, dipakai untuk berbagai perlombaan;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian arus listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirkuit",
+  "related": [],
+  "detailed": false
+}

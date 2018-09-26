@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suprafiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "afiks yang berupa fonem suprasegmental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suprafiks",
+  "related": [],
+  "detailed": false
+}

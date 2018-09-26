@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agraria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urusan pertanian atau tanah pertanian;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan pemilikan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agraria",
+  "related": [],
+  "detailed": false
+}

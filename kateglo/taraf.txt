@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taraf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat(an); derajat; mutu (dalam arti tinggi rendahnya, baik buruknya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan; martabat;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan masa; batas (sempadan) waktu; stadium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taraf",
+  "related": [],
+  "detailed": false
+}

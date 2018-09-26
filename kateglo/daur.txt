@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peredaran masa atau tahun;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sistem keadaan (fase) yang keadaannya sekarang dapat berulang pada suatu saat di masa mendatang;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem fase yang melalui zat kerja di dalam mesin pemampat (kompresor), pompa, turbin, atau sistem penyejuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daur",
+  "related": [],
+  "detailed": false
+}

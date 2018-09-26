@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak ikatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) jarak yang memisahkan dua inti pada dua atom yang saling mengikat di dalam sebuah molekul; panjang ikatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20ikatan",
+  "related": [],
+  "detailed": false
+}

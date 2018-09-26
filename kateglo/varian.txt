@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "varian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk yang berbeda atau menyimpang dari yang asli atau dari yang baku dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk yang dapat dipakai sebagai alternatif (misal tak merupakan varian atau bentuk alternatif tidak);"
+      },
+      {
+        "type": "desc",
+        "text": "nilai tertentu suatu variabel, misal variabel [é] dalam bahasa Indonesia mempunyai dua varian, yaitu [e] dan [?];"
+      },
+      {
+        "type": "desc",
+        "text": "wujud satuan bahasa dalam konteks tertentu, misal alofon adalah varian dari fonem, alomorf adalah varian dari morfem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=varian",
+  "related": [],
+  "detailed": false
+}

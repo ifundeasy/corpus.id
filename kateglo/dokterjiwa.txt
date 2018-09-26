@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang ahli dalam penyakit jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20jiwa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemuaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memuai;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) proses memperbesar ukuran (volume) bahan yang massanya tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemuaian",
+  "related": [],
+  "detailed": false
+}

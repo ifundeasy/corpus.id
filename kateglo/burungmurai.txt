@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "burung murai",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "murai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burung%20murai",
+  "related": [],
+  "detailed": false
+}

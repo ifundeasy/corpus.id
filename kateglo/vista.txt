@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vista",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemandangan (dari ujung jalan yang kanan kirinya berpohon);"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian kejadian (pemandangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vista",
+  "related": [],
+  "detailed": false
+}

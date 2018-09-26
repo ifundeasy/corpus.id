@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendeta Katolik; pastor;"
+      },
+      {
+        "type": "desc",
+        "text": "pendeta Kristen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfigurasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk; wujud (untuk menggambarkan orang atau benda);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) bentuk horizontal dan vertikal bagian bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) kedudukan atom yang satu terhadap atom yang lain dalam molekul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfigurasi",
+  "related": [],
+  "detailed": false
+}

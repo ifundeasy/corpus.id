@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dwimingguan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "tiap dua minggu sekali (tentang penerbitan majalah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dwimingguan",
+  "related": [],
+  "detailed": false
+}

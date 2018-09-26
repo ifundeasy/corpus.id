@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "permainan bola yang dilakukan oleh dua regu, masing-masing terdiri atas lima orang, yang berusaha mengumpulkan angka dengan memasukkan bola ke dalam basket;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran berjaring yang dipasang pada ketinggian tiga meter pada papan sebagai tempat memasukkan bola pada permainan bola basket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basket",
+  "related": [],
+  "detailed": false
+}

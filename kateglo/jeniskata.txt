@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jenis kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kategori kata atau kelas kata (misal kata benda, kata kerja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenis%20kata",
+  "related": [],
+  "detailed": false
+}

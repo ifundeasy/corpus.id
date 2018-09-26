@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepercayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggapan atau keyakinan bahwa sesuatu yang dipercayai itu benar atau nyata;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipercayai;"
+      },
+      {
+        "type": "desc",
+        "text": "harapan dan keyakinan (akan kejujuran, kebaikan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dipercaya (diserahi sesuatu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan bagi sistem religi di Indonesia yang tidak termasuk salah satu dari kelima agama yang resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepercayaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedang",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "masih dalam melakukan sesuatu; lagi; baru (saja);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam pada (itu); sementara; dalam waktu (itu);"
+      },
+      {
+        "type": "desc",
+        "text": "menengah (tidak kurang dan tidak lebih; tidak besar dan tidak kecil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "patut; pantas;"
+      },
+      {
+        "type": "desc",
+        "text": "cukup;"
+      },
+      {
+        "type": "desc",
+        "text": "kena ukurannya; cocok pada tubuh, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sederhana; tidak melampaui batas; ugahari;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sedangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedang",
+  "related": [],
+  "detailed": false
+}

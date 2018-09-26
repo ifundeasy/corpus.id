@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinematika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan geometri suatu titik atau benda padat, diartikan menurut suatu sistem koordinasi ruang;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang pelbagai cara dalam dinamika; ilmu tentang gerak tanpa mengindahkan penyebabnya; ilmu gerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinematika",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor perwakilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor atau instansi pemerintah (usaha dagang dsb) yang mewakili urusan kantor induk di tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20perwakilan",
+  "related": [],
+  "detailed": false
+}

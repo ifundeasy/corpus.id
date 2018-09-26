@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persesuaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persamaan (tentang pendapat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "persetujuan (tentang paham, perundingan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persesuaian",
+  "related": [],
+  "detailed": false
+}

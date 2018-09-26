@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pastoral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan pastor;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai pendeta;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai kehidupan di dusun; mengenai gembala dan penghidupannya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "karya sastra yang menggambarkan kehidupan pedesaan yang tenang dan tenteram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pastoral",
+  "related": [],
+  "detailed": false
+}

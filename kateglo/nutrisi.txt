@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nutrisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "proses pemasukan dan pengolahan zat makanan oleh tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan bergizi;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang gizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nutrisi",
+  "related": [],
+  "detailed": false
+}

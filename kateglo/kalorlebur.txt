@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalor lebur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang menunjukkan jumlah kalori yang dibutuhkan untuk melebur 1 g zat pada titik leburnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalor%20lebur",
+  "related": [],
+  "detailed": false
+}

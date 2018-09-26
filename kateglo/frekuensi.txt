@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "frekuensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekerapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) jumlah pemakaian suatu unsur bahasa dalam suatu teks atau rekaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) jumlah getaran gelombang suara per detik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kom) jumlah getaran gelombang elektrik per detik pada gelombang elektromagnetik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frekuensi",
+  "related": [],
+  "detailed": false
+}

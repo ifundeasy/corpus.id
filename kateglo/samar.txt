@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "samar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabur; tidak kelihatan nyata; agak gelap;"
+      },
+      {
+        "type": "desc",
+        "text": "sayup-sayup (tentang pendengaran);"
+      },
+      {
+        "type": "desc",
+        "text": "tersembunyi; kurang jelas (apa yang dilihat, dilakukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gaib alam yang tidak dapat dilihat dengan indra biasa; gaib;"
+      },
+      {
+        "type": "desc",
+        "text": "saru; keliru;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) khawatir; waswas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=samar",
+  "related": [],
+  "detailed": false
+}

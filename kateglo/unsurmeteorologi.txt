@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unsur meteorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "variabel atau gejala yang menyatakan keadaan cuaca di suatu tempat pada suatu waktu, antara lain, suhu, tekanan, angin, kelembapan, dan hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unsur%20meteorologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkecepatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkecepatan",
+  "related": [],
+  "detailed": false
+}

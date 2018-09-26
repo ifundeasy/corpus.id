@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjabat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memegang;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan pekerjaan (pangkat dsb); memegang jabatan (pekerjaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjabat",
+  "related": [],
+  "detailed": false
+}

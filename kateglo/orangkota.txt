@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau penduduk yang tinggal di kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20kota",
+  "related": [],
+  "detailed": false
+}

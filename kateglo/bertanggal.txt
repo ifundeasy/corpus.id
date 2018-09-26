@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertanggal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada tanggalnya; dibubuhi tanggal (tarikh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertanggal",
+  "related": [],
+  "detailed": false
+}

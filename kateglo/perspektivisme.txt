@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perspektivisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mazhab yang menganggap bahwa ilmu itu selalu bersifat relatif;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran filsafat yang mengajarkan bahwa setiap pengetahuan pada hakikatnya adalah suatu interpretasi belaka yang bergantung pada \"keadaan tempat berdirinya\" seseorang terhadap objek yang diketahuinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perspektivisme",
+  "related": [],
+  "detailed": false
+}

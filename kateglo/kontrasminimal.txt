@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontras minimal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) kontras terkecil yang dimungkinkan oleh struktur fonemis suatu bahasa, misal mu dan bu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontras%20minimal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuci",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "cuci darah"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak turut campur dalam suatu masalah walaupun mengetahuinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak mau terlibat dalam kesalahan yang dibuat orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuci",
+  "related": [],
+  "detailed": false
+}

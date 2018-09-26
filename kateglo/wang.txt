@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "uang"
+      },
+      {
+        "type": "desc",
+        "text": "kediaman raja; istana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wang",
+  "related": [],
+  "detailed": false
+}

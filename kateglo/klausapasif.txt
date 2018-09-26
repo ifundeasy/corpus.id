@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa pasif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa yang subjeknya menjadi penderita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20pasif",
+  "related": [],
+  "detailed": false
+}

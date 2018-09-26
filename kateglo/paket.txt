@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dikirimkan dalam bungkusan melalui pos atau perusahaan ekspedisi;"
+      },
+      {
+        "type": "desc",
+        "text": "sejumlah barang (buku dsb) yang dibungkus menjadi satu yang dikirimkan atau dijual secara keseluruhan sebagai satu satuan;"
+      },
+      {
+        "type": "desc",
+        "text": "jatah atau bagian tugas;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan acara (dalam televisi dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paket",
+  "related": [],
+  "detailed": false
+}

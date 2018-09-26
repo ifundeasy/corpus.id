@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jawab (surat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sambutan (atas perbuatan dsb yang dikenakan kepadanya);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (uang, barang, dsb) yang diberikan untuk membalas kebaikan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (hukuman dsb) untuk membalas sakit hati dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balasan",
+  "related": [],
+  "detailed": false
+}

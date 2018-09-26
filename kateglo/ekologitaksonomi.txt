@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekologi taksonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang ekologi menurut golongan taksonomi, misal ekologi serangga dan ekologi mikrob;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekologi%20taksonomi",
+  "related": [],
+  "detailed": false
+}

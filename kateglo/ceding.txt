@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ceding",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "selalu kecil (kurus) saja (tentang anak, tumbuh-tumbuhan, buah); kerdil;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuncup batang yang tumbuh setelah batang pohonnya dipotong;"
+      },
+      {
+        "type": "desc",
+        "text": "tunas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ceding",
+  "related": [],
+  "detailed": false
+}

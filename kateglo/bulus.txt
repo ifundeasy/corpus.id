@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bulus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gundul sama sekali (tidak berdaun, tidak berbulu, tidak beranting);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat mempunyai anak karena mandul;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak memiliki apa-apa lagi; miskin; papa;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat masuk (lulus);"
+      },
+      {
+        "type": "desc",
+        "text": "kena pukul (dalam permainan pencak dsb); tembus;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kura-kura kecil (di darat atau di air tawar); labi-labi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "naik mesin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mulai (akan) dicetak (dalam persuratkabaran);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai dipasang (mesin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naik%20mesin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prasyarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "syarat yang harus dipenuhi sebelum melakukan, mengikuti, atau memasuki pendidikan atau sesuatu kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prasyarat",
+  "related": [],
+  "detailed": false
+}

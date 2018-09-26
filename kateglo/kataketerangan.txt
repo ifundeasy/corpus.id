@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata keterangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adverbia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20keterangan",
+  "related": [],
+  "detailed": false
+}

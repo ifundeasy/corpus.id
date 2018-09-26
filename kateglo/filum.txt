@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "golongan besar dalam klasifikasi hewan dan tumbuhan yang mempunyai persamaan sifat dasar tertentu, yang masih terbagi lagi menjadi subfilum, kelas, ordo, famili, genus, dan spesies;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kelompok bahasa berkerabat yang anggotanya telah berpisah antara 50—100 abad yang lampau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filum",
+  "related": [],
+  "detailed": false
+}

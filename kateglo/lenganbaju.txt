@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengan baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian baju yang menutupi lengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengan%20baju",
+  "related": [],
+  "detailed": false
+}

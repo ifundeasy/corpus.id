@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerti sesudah melihat (menyaksikan, mengalami, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kenal (akan); mengenal;"
+      },
+      {
+        "type": "desc",
+        "text": "mengindahkan; memedulikan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengerti; berpengertian;"
+      },
+      {
+        "type": "desc",
+        "text": "pandai; cakap;"
+      },
+      {
+        "type": "desc",
+        "text": "insaf; sadar;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pernah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan dari kedelai putih yang digiling halus-halus, direbus, dan dicetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahu",
+  "related": [],
+  "detailed": false
+}

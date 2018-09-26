@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "pemancaran dan kerambatan gelombang yang membawa tenaga melalui ruang atau zantara, misal pemancaran dan perambatan gelombang elektromagnetik, gelombang bunyi, gelombang lenting, penyinaran;"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga yang dipancarkan gelombang melalui ruang dan zantara; tenaga sinaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) pengobatan dengan zat radioaktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi",
+  "related": [],
+  "detailed": false
+}

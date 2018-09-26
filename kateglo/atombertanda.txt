@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "atom bertanda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "atom yang dapat dideteksi dengan mudah (yang dimasukkan ke dalam sistem untuk mengkaji suatu proses kimia atau strukturnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atom%20bertanda",
+  "related": [],
+  "detailed": false
+}

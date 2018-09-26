@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaki dan kuku yang panjang (pada ayam, itik, burung);"
+      },
+      {
+        "type": "desc",
+        "text": "kuku yang panjang dan tajam (pada harimau, kucing, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gores (parut) bekas kena kuku atau digaruk;"
+      },
+      {
+        "type": "desc",
+        "text": "penggaruk; kukur;"
+      },
+      {
+        "type": "desc",
+        "text": "barang bekas seperti pakaian, sepatu, dan karung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakar",
+  "related": [],
+  "detailed": false
+}

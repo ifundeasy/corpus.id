@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "otonom",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdiri sendiri; dengan pemerintahan sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok sosial yang memiliki hak dan kekuasaan menentukan arah tindakannya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=otonom",
+  "related": [],
+  "detailed": false
+}

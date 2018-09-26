@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parkinsonisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sindrom yang berkaitan dengan penyakit parkinson;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parkinsonisme",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "birokrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem pemerintahan yang dijalankan oleh pegawai pemerintah karena telah berpegang pada hierarki dan jenjang jabatan;"
+      },
+      {
+        "type": "desc",
+        "text": "cara bekerja atau susunan pekerjaan yang serba lamban, serta menurut tata aturan (adat dsb) yang banyak liku-likunya dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=birokrasi",
+  "related": [],
+  "detailed": false
+}

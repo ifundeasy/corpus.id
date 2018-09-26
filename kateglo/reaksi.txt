@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan (aksi, protes) yang timbul akibat suatu gejala atau suatu peristiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "tanggapan (respons) terhadap suatu aksi;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan yang terjadi karena bekerjanya suatu unsur (obat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaksi",
+  "related": [],
+  "detailed": false
+}

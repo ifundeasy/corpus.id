@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peruraian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berurai;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) perceraian unsur-unsur persenyawaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peruraian",
+  "related": [],
+  "detailed": false
+}

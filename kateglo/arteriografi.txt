@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arteriografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemotretan pembuluh darah setelah diisi zat kontras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arteriografi",
+  "related": [],
+  "detailed": false
+}

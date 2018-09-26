@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turnoi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan tusuk-menusuk;"
+      },
+      {
+        "type": "desc",
+        "text": "pertandingan; perlombaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turnoi",
+  "related": [],
+  "detailed": false
+}

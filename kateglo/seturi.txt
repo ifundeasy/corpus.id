@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seturi",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "setori"
+      },
+      {
+        "type": "link",
+        "text": "kesturi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seturi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemadam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memadamkan (api dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang (pasukan) yang bertugas memadamkan (kebakaran dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemadam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tampil",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melangkah maju (ke muka, ke depan);"
+      },
+      {
+        "type": "desc",
+        "text": "menampakkan diri; muncul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tampil",
+  "related": [],
+  "detailed": false
+}

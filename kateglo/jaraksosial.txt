@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak sosial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat keakraban yang menandai hubungan individu dalam interaksi sosial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20sosial",
+  "related": [],
+  "detailed": false
+}

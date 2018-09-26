@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adipositas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) perihal lemak; kegemukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adipositas",
+  "related": [],
+  "detailed": false
+}

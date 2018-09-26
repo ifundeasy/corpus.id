@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fokus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "titik atau daerah kecil tempat berkas cahaya mengumpul atau menyebar setelah berkas cahaya itu menimpa sebuah cermin atau lensa, berkas cahaya yang datang berada dalam keadaan paralel dengan sumbu cermin atau lensa itu; titik api;"
+      },
+      {
+        "type": "desc",
+        "text": "pusat;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur yang menonjolkan suatu bagian kalimat sehingga perhatian pendengar (pembaca) tertarik pada bagian itu;"
+      },
+      {
+        "type": "desc",
+        "text": "ciri predikat verbal yang menentukan hubungan semantis predikat verbal itu dengan subjek, biasanya ditandai oleh afiks verbal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fokus",
+  "related": [],
+  "detailed": false
+}

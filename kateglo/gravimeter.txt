@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gravimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) alat untuk mengukur daya tarik bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gravimeter",
+  "related": [],
+  "detailed": false
+}

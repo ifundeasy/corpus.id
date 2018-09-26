@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah luas yang ditumbuhi pohon-pohon (biasanya tidak dipelihara orang);"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan yang tumbuh di atas tanah yang luas (biasanya di wilayah pegunungan);"
+      },
+      {
+        "type": "desc",
+        "text": "yang tidak dipelihara orang; yang liar (tentang binatang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan",
+  "related": [],
+  "detailed": false
+}

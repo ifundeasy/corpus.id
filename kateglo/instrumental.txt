@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instrumental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "(tentang lagu) yang dibawakan dengan memakai alat-alat musik, tidak dinyanyikan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) nama kasus atau peran semantik suatu frasa nomina yang menyatakan atau berfungsi sebagai alat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instrumental",
+  "related": [],
+  "detailed": false
+}

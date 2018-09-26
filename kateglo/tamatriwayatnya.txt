@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tamat riwayatnya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "habis riwayatnya; mati;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah habis; sudah berhenti dan tidak terus lagi (tentang suatu kegiatan, kemasyhuran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tamat%20riwayatnya",
+  "related": [],
+  "detailed": false
+}

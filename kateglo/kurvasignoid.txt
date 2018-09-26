@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva signoid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) kurva yang berbentuk S;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20signoid",
+  "related": [],
+  "detailed": false
+}

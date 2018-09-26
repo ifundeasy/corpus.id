@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multinasional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terjadi atas beberapa negara atau bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multinasional",
+  "related": [],
+  "detailed": false
+}

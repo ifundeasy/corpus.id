@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita sensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang terlalu dibesar-besarkan dan untuk menarik perhatian masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20sensasi",
+  "related": [],
+  "detailed": false
+}

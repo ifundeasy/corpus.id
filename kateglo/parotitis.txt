@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parotitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang pada kelenjar ludah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parotitis",
+  "related": [],
+  "detailed": false
+}

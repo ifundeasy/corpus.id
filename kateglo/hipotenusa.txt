@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotenusa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi terpanjang pada segitiga siku-siku yang terletak di hadapan sudut sikunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotenusa",
+  "related": [],
+  "detailed": false
+}

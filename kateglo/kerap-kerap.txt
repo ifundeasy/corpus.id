@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerap-kerap",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sering-sering; kerap kali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berderit-derit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerap-kerap",
+  "related": [],
+  "detailed": false
+}

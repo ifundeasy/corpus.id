@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang mewah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang mahal harganya, bukan merupakan kebutuhan pokok, melainkan untuk kemegahan, kebanggaan, kecantikan, kesenangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20mewah",
+  "related": [],
+  "detailed": false
+}

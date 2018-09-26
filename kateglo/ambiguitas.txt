@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ambiguitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat atau hal yang bermakna dua; kemungkinan yang mempunyai dua pengertian;"
+      },
+      {
+        "type": "desc",
+        "text": "ketidaktentuan; ke-tidakjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemungkinan adanya makna atau penafsiran yang lebih dari satu atas suatu karya sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kemungkinan adanya makna lebih dari satu dalam sebuah kata, gabungan kata, atau kalimat; ketaksaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambiguitas",
+  "related": [],
+  "detailed": false
+}

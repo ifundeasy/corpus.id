@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wuduk",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "uduk"
+      },
+      {
+        "type": "link",
+        "text": "wudu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wuduk",
+  "related": [],
+  "detailed": false
+}

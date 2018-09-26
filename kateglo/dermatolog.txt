@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermatolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli dermatologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermatolog",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai desa; lurah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20desa",
+  "related": [],
+  "detailed": false
+}

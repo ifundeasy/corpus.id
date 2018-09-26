@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian untuk menentukan diterima atau tidaknya seorang calon yang ingin memasuki suatu sekolah, kantor, perusahaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20masuk",
+  "related": [],
+  "detailed": false
+}

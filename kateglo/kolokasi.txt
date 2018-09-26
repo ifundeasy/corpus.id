@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) asosiasi tetap antara kata dan kata lain dalam lingkungan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolokasi",
+  "related": [],
+  "detailed": false
+}

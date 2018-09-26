@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterkutukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal terkutuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterkutukan",
+  "related": [],
+  "detailed": false
+}

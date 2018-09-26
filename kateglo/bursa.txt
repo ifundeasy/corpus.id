@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bursa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memperjualbelikan saham, obligasi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pemilihan (pencalonan dsb) tidak resmi; pembicaraan; desas-desus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) kantong atau sesuatu yang menyerupai kantong yang berisi cairan kental (pada ternak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa",
+  "related": [],
+  "detailed": false
+}

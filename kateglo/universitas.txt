@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "universitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perguruan tinggi yang terdiri atas sejumlah fakultas yang menyelenggarakan pendidikan ilmiah dan/atau profesional dalam sejumlah disiplin ilmu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=universitas",
+  "related": [],
+  "detailed": false
+}

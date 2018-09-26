@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mutu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ukuran) baik buruk suatu benda; kadar; taraf atau derajat (kepandaian, kecerdasan, dsb); kualitas;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran ketulenan emas 24 karat;"
+      },
+      {
+        "type": "desc",
+        "text": "terdiam karena sedih (sangat menyesal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sedih (tentang suasana hati);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terjepit, dalam keadaan sulit (tentang posisi raja dalam permainan catur);"
+      },
+      {
+        "type": "desc",
+        "text": "mutiara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mutu",
+  "related": [],
+  "detailed": false
+}

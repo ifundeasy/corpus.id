@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga temporer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga kerja untuk sementara waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20temporer",
+  "related": [],
+  "detailed": false
+}

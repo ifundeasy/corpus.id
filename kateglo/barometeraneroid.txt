@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barometer aneroid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barometer yang mempunyai bagian yang peka terhadap tekanan udara;"
+      },
+      {
+        "type": "desc",
+        "text": "barometer yang dibuat berdasarkan asas bahwa udara di dalam kotak logam yang tertutup rapat akan menekan dinding kotak ke luar apabila tekanan udara di luar kotak lebih kecil daripada tekanan udara di dalam kotak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometer%20aneroid",
+  "related": [],
+  "detailed": false
+}

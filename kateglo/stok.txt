@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persediaan barang keperluan untuk perbekalan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) sediaan barang yang diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stok",
+  "related": [],
+  "detailed": false
+}

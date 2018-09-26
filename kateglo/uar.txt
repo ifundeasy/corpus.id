@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menguar"
+      },
+      {
+        "type": "link",
+        "text": "uar-uar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uar",
+  "related": [],
+  "detailed": false
+}

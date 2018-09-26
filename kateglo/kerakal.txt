@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerakal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu kerikil yang agak besar;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil peremukan batuan;"
+      },
+      {
+        "type": "desc",
+        "text": "batuan berbentuk tidak teratur dan bersudut runcing;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) endapan batuan bulat dengan garis tengah antara 10—15 mm;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerakal",
+  "related": [],
+  "detailed": false
+}

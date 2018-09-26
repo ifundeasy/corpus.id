@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manggala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengantar puji-pujian;"
+      },
+      {
+        "type": "desc",
+        "text": "pengantar bagi seorang penulis dalam permulaan atau akhir karangannya;"
+      },
+      {
+        "type": "desc",
+        "text": "anak sulung;"
+      },
+      {
+        "type": "desc",
+        "text": "pelindung (rohani); pemimpin; panglima;"
+      },
+      {
+        "type": "desc",
+        "text": "penatar tingkat tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manggala",
+  "related": [],
+  "detailed": false
+}

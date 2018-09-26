@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang permukaan bumi, iklim, penduduk, flora, fauna, serta hasil yang diperoleh dari bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geografi",
+  "related": [],
+  "detailed": false
+}

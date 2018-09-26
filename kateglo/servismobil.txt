@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "servis mobil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat layanan kerusakan (pemeliharaan, pembersihan, dsb) mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=servis%20mobil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berat lidah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berat bibir;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat berkata-kata dengan baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat%20lidah",
+  "related": [],
+  "detailed": false
+}

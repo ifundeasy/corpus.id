@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pulan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belum masak benar (tentang nasi, ubi yang direbus, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengkal (tentang buah);"
+      },
+      {
+        "type": "desc",
+        "text": "empuk dan enak (tentang nasi, ketela, dsb); pulen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulan",
+  "related": [],
+  "detailed": false
+}

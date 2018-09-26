@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkata-kata",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bercakap-cakap (berbicara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkata-kata",
+  "related": [],
+  "detailed": false
+}

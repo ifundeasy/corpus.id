@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegilaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat (keadaan, perihal) gila;"
+      },
+      {
+        "type": "desc",
+        "text": "kegemaran (keasyikan, kesukaan) yang berlebih-lebihan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang melampaui batas;"
+      },
+      {
+        "type": "desc",
+        "text": "kebodohan, kesalahan (dengan sengaja);"
+      },
+      {
+        "type": "desc",
+        "text": "ketidakberesan; kericuhan; kekacauan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegilaan",
+  "related": [],
+  "detailed": false
+}

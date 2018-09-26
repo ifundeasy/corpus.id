@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kekar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kembang; mekar;"
+      },
+      {
+        "type": "desc",
+        "text": "bercerai-berai (tidak berkumpul atau berdekatan lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "rekah (tentang batuan);"
+      },
+      {
+        "type": "desc",
+        "text": "kerap dan padat (tentang anyaman, tenunan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tegap kuat (tentang tubuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekar",
+  "related": [],
+  "detailed": false
+}

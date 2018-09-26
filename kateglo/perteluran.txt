@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perteluran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal bertelur;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bertelur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perteluran",
+  "related": [],
+  "detailed": false
+}

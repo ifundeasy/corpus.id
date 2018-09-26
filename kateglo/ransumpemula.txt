@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ransum pemula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum yang diberikan kepada ternak dalam kurun pertumbuhan murni sebelum terjadi penimbunan lemak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ransum%20pemula",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dibentangkan (layar, permadani, lampit, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentangan",
+  "related": [],
+  "detailed": false
+}

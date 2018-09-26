@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "esok lusa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari kedua setelah hari ini;"
+      },
+      {
+        "type": "desc",
+        "text": "pada suatu waktu (yang akan datang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=esok%20lusa",
+  "related": [],
+  "detailed": false
+}

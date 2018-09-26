@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "umum; lazim;"
+      },
+      {
+        "type": "desc",
+        "text": "jaya; menang; beruntung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galib",
+  "related": [],
+  "detailed": false
+}

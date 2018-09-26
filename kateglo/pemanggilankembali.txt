@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemanggilan kembali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindakan memanggil yang dilakukan oleh suatu partai politik atau golongan terhadap wakilnya agar keluar dari keanggotaan Dewan Perwakilan Rakyat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemanggilan%20kembali",
+  "related": [],
+  "detailed": false
+}

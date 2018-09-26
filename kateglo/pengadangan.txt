@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk mengadang;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengadang;"
+      },
+      {
+        "type": "desc",
+        "text": "serangan mendadak (di tengah perjalanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadangan",
+  "related": [],
+  "detailed": false
+}

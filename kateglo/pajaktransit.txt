@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak transit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang dipungut di tempat tertentu yang harus dilalui oleh pengangkutan orang atau barang dari suatu tempat ke tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20transit",
+  "related": [],
+  "detailed": false
+}

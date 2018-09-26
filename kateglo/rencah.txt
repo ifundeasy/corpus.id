@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rencah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merencah"
+      },
+      {
+        "type": "link",
+        "text": "merencah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "campuran bumbu (rempah) untuk menyedapkan makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rencah",
+  "related": [],
+  "detailed": false
+}

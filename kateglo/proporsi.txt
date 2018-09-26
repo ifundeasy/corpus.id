@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proporsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "perimbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proporsi",
+  "related": [],
+  "detailed": false
+}

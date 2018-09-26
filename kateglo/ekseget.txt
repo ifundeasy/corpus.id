@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekseget",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli eksegesis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) fenomena alam atau takson yang dipakai sebagai indikator proses ekologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekseget",
+  "related": [],
+  "detailed": false
+}

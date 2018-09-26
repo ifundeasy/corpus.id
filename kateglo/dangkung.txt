@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dangkung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kusta yang telah parah (terutama yang telah membusukkan kulit);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendangkung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dangkung",
+  "related": [],
+  "detailed": false
+}

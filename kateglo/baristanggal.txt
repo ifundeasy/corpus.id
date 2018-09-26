@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baris tanggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat asal berita dan tanggal kejadian yang terletak pada bagian atas berita;"
+      },
+      {
+        "type": "desc",
+        "text": "tanggal penerbitan surat kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baris%20tanggal",
+  "related": [],
+  "detailed": false
+}

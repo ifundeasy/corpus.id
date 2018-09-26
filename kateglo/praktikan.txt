@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "praktikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seseorang yang mengikuti praktikum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=praktikan",
+  "related": [],
+  "detailed": false
+}

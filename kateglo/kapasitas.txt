@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapasitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang tersedia; daya tampung;"
+      },
+      {
+        "type": "desc",
+        "text": "daya serap (panas, listrik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keluaran maksimum; kemampuan berproduksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) kemampuan kapasitor untuk menghimpun muatan listrik (diukur dalam satuan farad);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapasitas",
+  "related": [],
+  "detailed": false
+}

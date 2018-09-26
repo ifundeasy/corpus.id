@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai berbagai obat (khasiatnya, takaran pemakaiannya, dsb); farmakologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20obat",
+  "related": [],
+  "detailed": false
+}

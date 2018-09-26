@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeriksaan buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan yang dilakukan oleh akuntan publik untuk menyatakan apakah posisi keuangan dan hasil usaha perusahaan atau badan telah disajikan dengan wajar;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeriksaan akuntan publik atas laporan keuangan, sesuai dengan norma pemeriksaan akuntan yang bertujuan memberikan pendapat akuntan mengenai laporan keuangan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeriksaan%20buku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gendarmeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasukan polisi militer;"
+      },
+      {
+        "type": "desc",
+        "text": "korps polisi militer;"
+      },
+      {
+        "type": "desc",
+        "text": "asrama korps polisi militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gendarmeri",
+  "related": [],
+  "detailed": false
+}

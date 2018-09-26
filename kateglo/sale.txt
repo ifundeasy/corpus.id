@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sale",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "salai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sale",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trifoliat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdaun tiga;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda berdaun tiga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trifoliat",
+  "related": [],
+  "detailed": false
+}

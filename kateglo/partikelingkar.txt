@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partikel ingkar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk yang dipakai untuk mengubah klausa menjadi klausa ingkar, misal bunyi tak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partikel%20ingkar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ebi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udang yang sudah dikeringkan (biasanya dipakai untuk bumbu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ebi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pintasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang dipintas; jalan yang terdekat;"
+      },
+      {
+        "type": "desc",
+        "text": "penyeberangan jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintasan",
+  "related": [],
+  "detailed": false
+}

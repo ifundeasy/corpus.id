@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "petelasan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telas",
+  "related": [],
+  "detailed": false
+}

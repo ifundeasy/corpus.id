@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mau bekerja atau mengerjakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "segan; tidak suka; tidak bernafsu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malas",
+  "related": [],
+  "detailed": false
+}

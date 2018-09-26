@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "korpus data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "data yang dipakai sebagai sumber bahan penelitian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korpus%20data",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerumit",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "gerupis"
+      },
+      {
+        "type": "link",
+        "text": "menggerumit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerumit",
+  "related": [],
+  "detailed": false
+}

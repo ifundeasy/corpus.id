@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjagalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memotong ternak; pembantaian; pemotongan hewan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyembelih ternak (seperti lembu, kerbau, kambing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjagalan",
+  "related": [],
+  "detailed": false
+}

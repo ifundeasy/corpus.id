@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tentatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belum pasti; masih dapat berubah;"
+      },
+      {
+        "type": "desc",
+        "text": "sementara waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tentatif",
+  "related": [],
+  "detailed": false
+}

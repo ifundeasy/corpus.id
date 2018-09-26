@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut siku-siku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bangun yang terjadi ketika dua garis berpotongan tegak lurus; sudut yang besarnya 90o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20siku-siku",
+  "related": [],
+  "detailed": false
+}

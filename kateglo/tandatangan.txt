@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang dituliskan secara khas dengan tangan oleh orang itu sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20tangan",
+  "related": [],
+  "detailed": false
+}

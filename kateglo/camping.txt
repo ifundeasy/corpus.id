@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "camping",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "koyak (robek, sobek) panjang; cabik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=camping",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit malaria",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit yang disebabkan oleh bibit penyakit malaria, yang ditularkan oleh nyamuk malaria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20malaria",
+  "related": [],
+  "detailed": false
+}

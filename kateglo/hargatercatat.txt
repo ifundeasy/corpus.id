@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga tercatat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga resmi suatu barang sebelum dikurangi dengan potongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20tercatat",
+  "related": [],
+  "detailed": false
+}

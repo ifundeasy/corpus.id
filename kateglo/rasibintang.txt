@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rasi bintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan bintang yang berdekatan letaknya dan tampak tidak berubah letaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasi%20bintang",
+  "related": [],
+  "detailed": false
+}

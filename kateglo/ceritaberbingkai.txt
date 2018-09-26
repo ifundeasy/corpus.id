@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita berbingkai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) cerita yang di dalamnya mengandung cerita lain (pelaku atau peran dalam cerita itu bercerita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20berbingkai",
+  "related": [],
+  "detailed": false
+}

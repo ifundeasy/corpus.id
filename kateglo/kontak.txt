@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan satu dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sambungan arus listrik;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) bertemu (dengan); tembak-menembak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontak",
+  "related": [],
+  "detailed": false
+}

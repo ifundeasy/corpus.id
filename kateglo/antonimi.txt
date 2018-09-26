@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antonimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) oposisi makna dalam pasangan leksikal yang dapat dijenjangkan, misal dalam tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antonimi",
+  "related": [],
+  "detailed": false
+}

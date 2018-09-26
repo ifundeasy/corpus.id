@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asurador",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyamun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asurador",
+  "related": [],
+  "detailed": false
+}

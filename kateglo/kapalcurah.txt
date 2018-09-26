@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal curah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang dirancang khusus untuk mengangkut muatan curah, misal biji-bijian, gandum, jagung, pupuk yang tidak dikemas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20curah",
+  "related": [],
+  "detailed": false
+}

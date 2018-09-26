@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renggang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ada celahnya (antaranya, sela-selanya); tidak rapat;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang erat (tentang persahabatan dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merenggang gawai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renggang",
+  "related": [],
+  "detailed": false
+}

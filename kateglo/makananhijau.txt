@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan hijau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang berupa rumput-rumputan (untuk binatang) atau dedaunan (untuk orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20hijau",
+  "related": [],
+  "detailed": false
+}

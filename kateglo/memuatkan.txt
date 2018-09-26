@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memuatkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan (barang) ke kapal (kereta api, truk, dsb) untuk diangkut;"
+      },
+      {
+        "type": "desc",
+        "text": "memasang, menempatkan (di surat kabar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memuatkan",
+  "related": [],
+  "detailed": false
+}

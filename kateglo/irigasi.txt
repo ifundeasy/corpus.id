@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "irigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengaturan pembagian atau pengaliran air menurut sistem tertentu untuk sawah dsb; pengairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=irigasi",
+  "related": [],
+  "detailed": false
+}

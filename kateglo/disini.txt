@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "di sini",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata penunjuk yang menyatakan tempat yang dekat dengan pembicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=di%20sini",
+  "related": [],
+  "detailed": false
+}

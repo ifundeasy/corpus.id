@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urbanisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk secara berduyun-duyun dari desa (kota kecil, daerah) ke kota besar (pusat pemerintahan);"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan sifat suatu tempat dari suasana (cara hidup dsb) desa ke suasana kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urbanisasi",
+  "related": [],
+  "detailed": false
+}

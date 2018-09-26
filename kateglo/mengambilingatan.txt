@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengambil ingatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan ke dalam ingatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengambil%20ingatan",
+  "related": [],
+  "detailed": false
+}

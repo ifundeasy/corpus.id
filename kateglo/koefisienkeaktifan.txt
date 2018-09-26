@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien keaktifan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koefisien aktivitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20keaktifan",
+  "related": [],
+  "detailed": false
+}

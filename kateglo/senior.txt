@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senior",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih tinggi dalam pangkat dan jabatan kedinasan (pegawai, karyawan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lebih matang dalam pengalaman dan kemampuan;"
+      },
+      {
+        "type": "desc",
+        "text": "berada dalam tingkat sarjana bagi mahasiswa dan kelas terakhir bagi pelajar SMU dan SLTP;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih tua dalam usia bagi dua orang (ayah dan anak) yang sama namanya (nama famili);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senior",
+  "related": [],
+  "detailed": false
+}

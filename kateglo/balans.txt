@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "neraca (timbangan);"
+      },
+      {
+        "type": "desc",
+        "text": "keseimbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) daftar perhitungan laba rugi, utang-piutang, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balans",
+  "related": [],
+  "detailed": false
+}

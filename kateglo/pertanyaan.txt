@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanyaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) bertanya; permintaan keterangan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditanyakan; soal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanyaan",
+  "related": [],
+  "detailed": false
+}

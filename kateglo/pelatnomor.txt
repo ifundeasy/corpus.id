@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelat nomor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelat logam atau bahan lain yang berfungsi untuk menempatkan tanda nomor kendaraan (mobil, motor, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pelat logam atau bahan lain yang berfungsi untuk menempatkan tanda nomor kendaraan (mobil, motor, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelat%20nomor",
+  "related": [],
+  "detailed": false
+}

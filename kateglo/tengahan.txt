@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tengahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran setengah dari (liter, botol);"
+      },
+      {
+        "type": "desc",
+        "text": "setengah rupiah;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bergeser ke tengah; lebih ke tengah lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengahan",
+  "related": [],
+  "detailed": false
+}

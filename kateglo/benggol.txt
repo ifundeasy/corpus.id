@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benggol",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "benjol; bincul;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang tembaga bernilai 21/2 sen (dipakai pada zaman penjajahan Belanda); gobang;"
+      },
+      {
+        "type": "link",
+        "text": "benggolan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benggol",
+  "related": [],
+  "detailed": false
+}

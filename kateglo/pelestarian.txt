@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelestarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan melestarikan;"
+      },
+      {
+        "type": "desc",
+        "text": "perlindungan dari kemusnahan atau kerusakan; pengawetan; konservasi;"
+      },
+      {
+        "type": "desc",
+        "text": "pengelolaan sumber daya alam yang menjamin pemanfaatannya secara bijaksana dan menjamin kesinambungan persediaannya dengan tetap memelihara dan meningkatkan kualitas nilai dan keanekaragamannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelestarian",
+  "related": [],
+  "detailed": false
+}

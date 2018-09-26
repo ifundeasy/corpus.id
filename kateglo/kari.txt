@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayur gulai yang diberi kunyit sehingga kuning warnanya, biasanya tidak pedas;"
+      },
+      {
+        "type": "link",
+        "text": "qari"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kari",
+  "related": [],
+  "detailed": false
+}

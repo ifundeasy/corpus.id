@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keladau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "mengeladau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keladau",
+  "related": [],
+  "detailed": false
+}

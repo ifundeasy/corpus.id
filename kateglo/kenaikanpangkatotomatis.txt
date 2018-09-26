@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenaikan pangkat otomatis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kenaikan pangkat yang diberikan tanpa ujian dsb dan hanya sekali saja selama menjadi pegawai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenaikan%20pangkat%20otomatis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang tahan lama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang industri ataupun konsumsi dengan masa penggunaan lebih lama (biasanya lebih dari tiga tahun) yang tidak habis terpakai serta tidak mengalami pengolahan lebih lanjut oleh pembelinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20tahan%20lama",
+  "related": [],
+  "detailed": false
+}

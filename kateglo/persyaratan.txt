@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persyaratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang menjadi syarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persyaratan",
+  "related": [],
+  "detailed": false
+}

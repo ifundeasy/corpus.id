@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamerad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saudara separtai; teman seperjuangan;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan sesama anggota partai komunis (juga oleh orang anti komunis untuk mengejek orang komunis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamerad",
+  "related": [],
+  "detailed": false
+}

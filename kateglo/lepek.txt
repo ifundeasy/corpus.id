@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lepek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapik; alas;"
+      },
+      {
+        "type": "desc",
+        "text": "piring kecil alas cangkir (gelas dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jk) basah kuyup; basah sekali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melepek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepek",
+  "related": [],
+  "detailed": false
+}

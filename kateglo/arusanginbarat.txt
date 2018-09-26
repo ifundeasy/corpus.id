@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus angin barat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) arus dingin yang mengalir dekat kutub selatan yang terjadi karena angin barat bertiup terus-menerus akibat perputaran bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20angin%20barat",
+  "related": [],
+  "detailed": false
+}

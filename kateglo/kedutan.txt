@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lipatan (pada kulit, kain, dsb); kedut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergetarnya urat-urat pada kelompok mata dsb (yang dianggap sebagai alamat atau pertanda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedutan",
+  "related": [],
+  "detailed": false
+}

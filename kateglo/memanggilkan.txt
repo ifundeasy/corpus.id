@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memanggilkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memanggil untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "menyebut dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memanggilkan",
+  "related": [],
+  "detailed": false
+}

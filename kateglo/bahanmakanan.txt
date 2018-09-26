@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan makanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat dijadikan makanan, seperti beras, terigu, jagung, dan ubi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20makanan",
+  "related": [],
+  "detailed": false
+}

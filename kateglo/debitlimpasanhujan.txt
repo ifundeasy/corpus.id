@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "debit limpasan hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "volume air yang mengalir dari permukaan, diukur dalam satuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debit%20limpasan%20hujan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Vatikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kediaman Paus di Roma;"
+      },
+      {
+        "type": "desc",
+        "text": "pemerintahan dan kekuasaan Paus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Vatikan",
+  "related": [],
+  "detailed": false
+}

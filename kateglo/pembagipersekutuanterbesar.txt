@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembagi persekutuan terbesar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan terbesar yang menjadi pembagi dua bilangan atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembagi%20persekutuan%20terbesar",
+  "related": [],
+  "detailed": false
+}

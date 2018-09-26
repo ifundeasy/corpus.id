@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pentas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai yang agak tinggi di gedung pertunjukan tempat memainkan sandiwara dsb; panggung;"
+      },
+      {
+        "type": "desc",
+        "text": "lantai yang agak tinggi di rumah (untuk tempat tidur) atau di dapur (tempat memasak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pentas",
+  "related": [],
+  "detailed": false
+}

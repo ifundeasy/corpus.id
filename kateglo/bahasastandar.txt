@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ragam) bahasa yang diterima untuk dipakai dalam situasi resmi, seperti dalam perundang-undangan dan surat-menyurat resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa persatuan dalam masyarakat bahasa yang mempunyai banyak bahasa; bahasa baku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20standar",
+  "related": [],
+  "detailed": false
+}

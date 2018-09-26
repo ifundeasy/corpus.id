@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang alim; ulama; guru agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin; penunjuk jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "pawang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apresiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesadaran terhadap nilai seni dan budaya;"
+      },
+      {
+        "type": "desc",
+        "text": "penilaian (penghargaan) terhadap sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kenaikan nilai barang karena harga pasarnya naik atau permintaan akan barang itu bertambah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apresiasi",
+  "related": [],
+  "detailed": false
+}

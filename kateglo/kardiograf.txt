@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kardiograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pencatat denyut jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kardiograf",
+  "related": [],
+  "detailed": false
+}

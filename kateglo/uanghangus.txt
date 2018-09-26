@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang hangus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang pemberian dari pihak mempelai laki-laki kepada pihak mempelai wanita untuk membantu biaya perkawinan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) uang anggaran yang tersisa atau tidak habis terpakai karena melampaui batas waktu yang telah ditentukan (biasanya harus dikembalikan kepada pemerintah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20hangus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hawar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "(musim) penyakit yang menular (terutama pada binatang ternak);"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang serentak menyerang penduduk di daerah tertentu (seperti malaria, kolera);"
+      },
+      {
+        "type": "desc",
+        "text": "pohon rendah atau perdu, apabila terkena kulit, getahnya menyebabkan gatal-gatal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hawar",
+  "related": [],
+  "detailed": false
+}

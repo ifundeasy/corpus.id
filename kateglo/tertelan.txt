@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertelan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah ditelan; dapat ditelan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja ditelan;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah ditelan; dapat ditelan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja ditelan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertelan",
+  "related": [],
+  "detailed": false
+}

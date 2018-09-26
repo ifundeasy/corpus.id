@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbengkelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan atau urusan bengkel;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang merupakan kelompok usaha bengkel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbengkelan",
+  "related": [],
+  "detailed": false
+}

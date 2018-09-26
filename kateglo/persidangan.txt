@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persidangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersidang;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan untuk membicarakan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persidangan",
+  "related": [],
+  "detailed": false
+}

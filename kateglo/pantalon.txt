@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantalon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "celana yang panjangnya sampai ke mata kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantalon",
+  "related": [],
+  "detailed": false
+}

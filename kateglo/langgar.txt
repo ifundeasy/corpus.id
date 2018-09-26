@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langgar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berlanggaran"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "masjid kecil tempat mengaji atau bersalat, tetapi tidak digunakan untuk salat Jumat; surau; musala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langgar",
+  "related": [],
+  "detailed": false
+}

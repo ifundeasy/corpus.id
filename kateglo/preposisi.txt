@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "preposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang biasa terdapat di depan nomina, misal, dari, dengan, di, dan ke;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=preposisi",
+  "related": [],
+  "detailed": false
+}

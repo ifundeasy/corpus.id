@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis demarkasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis pemisah yang ditentukan dalam perundingan gencatan senjata oleh pihak yang berperang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20demarkasi",
+  "related": [],
+  "detailed": false
+}

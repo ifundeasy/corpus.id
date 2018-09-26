@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etalase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memamerkan barang-barang yang dijual (biasanya di bagian depan toko);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etalase",
+  "related": [],
+  "detailed": false
+}

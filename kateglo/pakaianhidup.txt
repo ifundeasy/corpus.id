@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) adat kebiasaan hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20hidup",
+  "related": [],
+  "detailed": false
+}

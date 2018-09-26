@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanonis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "menurut (sesuai dengan) hukum (undang-undang) gereja; yang termasuk kanon;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat kuasa;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat dasar (baku, standar);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) yang paling lazim (dikatakan tentang pola bentuk kata);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) disederhanakan sampai ke nilai terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanonis",
+  "related": [],
+  "detailed": false
+}

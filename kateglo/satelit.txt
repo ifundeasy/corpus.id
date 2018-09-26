@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satelit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bintang siarah yang mengedari bintang siarah yang lebih besar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pengikut;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang diluncurkan mengedari planet;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) baru dan kecil (tentang kota);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satelit",
+  "related": [],
+  "detailed": false
+}

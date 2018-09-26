@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "analgesik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far) obat untuk meredakan rasa nyeri tanpa mengakibatkan hilangnya kesadaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analgesik",
+  "related": [],
+  "detailed": false
+}

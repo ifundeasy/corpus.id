@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elevator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk membawa orang atau barang naik atau turun dari satu lantai ke lantai lainnya (dalam gedung bertingkat);"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk menaikkan atau menurunkan (gandum, terigu, atau padi-padian lainnya) ke atau dari kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elevator",
+  "related": [],
+  "detailed": false
+}

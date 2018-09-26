@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sempat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada waktu (untuk); ada peluang atau keluasan (untuk);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "pernah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sempat",
+  "related": [],
+  "detailed": false
+}

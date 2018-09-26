@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hostel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk menginap yang murah (biasanya mendapat bantuan pemerintah) bagi mahasiswa, karyawan yang sedang dalam pelatihan dsb; asrama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hostel",
+  "related": [],
+  "detailed": false
+}

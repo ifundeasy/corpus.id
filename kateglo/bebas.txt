@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bebas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lepas sama sekali (tidak terhalang, terganggu, dsb sehingga dapat bergerak, berbicara, berbuat, dsb dengan leluasa);"
+      },
+      {
+        "type": "desc",
+        "text": "lepas dari (kewajiban, tuntutan, perasaan takut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dikenakan (pajak, hukuman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terikat atau terbatas oleh aturan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "merdeka (tidak dijajah, diperintah, atau tidak dipengaruhi oleh negara lain atau kekuasaan asing);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terdapat (didapati) lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bebas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wesel bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wesel yang ditarik oleh suatu bank atas bank lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wesel%20bank",
+  "related": [],
+  "detailed": false
+}

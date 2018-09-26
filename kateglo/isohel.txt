@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isohel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis lengkung yang menghubungkan tempat yang mengalami lama penyinaran matahari yang sama dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isohel",
+  "related": [],
+  "detailed": false
+}

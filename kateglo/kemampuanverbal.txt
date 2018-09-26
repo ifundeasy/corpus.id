@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemampuan verbal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan potensial dalam bidang bahasa yang dapat diukur melalui pengetahuan kosakata, melengkapi kalimat, hubungan kata, dan wacana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemampuan%20verbal",
+  "related": [],
+  "detailed": false
+}

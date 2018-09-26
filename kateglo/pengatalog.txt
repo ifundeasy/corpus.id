@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengatalog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyusun katalog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengatalog",
+  "related": [],
+  "detailed": false
+}

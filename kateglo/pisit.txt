@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pisit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "pisik"
+      },
+      {
+        "type": "link",
+        "text": "memisit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pisit",
+  "related": [],
+  "detailed": false
+}

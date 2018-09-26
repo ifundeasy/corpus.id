@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mineral bijih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mineral yang mengandung logam berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineral%20bijih",
+  "related": [],
+  "detailed": false
+}

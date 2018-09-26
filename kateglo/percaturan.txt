@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percaturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal permainan catur;"
+      },
+      {
+        "type": "desc",
+        "text": "perbincangan; pembicaraan; perdebatan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) siasat politik; perjuangan politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percaturan",
+  "related": [],
+  "detailed": false
+}

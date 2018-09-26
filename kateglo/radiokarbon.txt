@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiokarbon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) karbon-14; isotop radioaktif unsur karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiokarbon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuota ekspor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah maksimum barang yang diekspor dalam waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuota%20ekspor",
+  "related": [],
+  "detailed": false
+}

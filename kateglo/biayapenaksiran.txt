@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya penaksiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya untuk memperkirakan tingginya biaya memproduksi suatu produk, biasanya untuk keperluan penentuan harga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20penaksiran",
+  "related": [],
+  "detailed": false
+}

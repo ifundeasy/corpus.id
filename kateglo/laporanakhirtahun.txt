@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan akhir tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan tertulis secara berkala yang diajukan oleh pegawai atau satuan organisasi kepada pimpinannya mengenai pelaksanaan tugas atau kemajuan pekerjaan dalam tahun tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20akhir%20tahun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geriap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeriap"
+      },
+      {
+        "type": "link",
+        "text": "menggeriap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geriap",
+  "related": [],
+  "detailed": false
+}

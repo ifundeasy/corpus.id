@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelas petinju yang berat badannya di atas 48 kg, tetapi tidak lebih dari 51 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20terbang",
+  "related": [],
+  "detailed": false
+}

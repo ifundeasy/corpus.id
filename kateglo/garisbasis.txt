@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis basis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) garis mendatar pada grafik yang berpaduan dengan basis pengukuran yang mudah pada skala ordinat, biasanya sering dibuat melalui titik ordinat nol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20basis",
+  "related": [],
+  "detailed": false
+}

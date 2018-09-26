@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peset",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "pesek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peset",
+  "related": [],
+  "detailed": false
+}

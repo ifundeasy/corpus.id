@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerobok",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bergerobok"
+      },
+      {
+        "type": "desc",
+        "text": "lemari dari bambu (tempat menyimpan makanan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "peti besar (tempat pakaian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerobok",
+  "related": [],
+  "detailed": false
+}

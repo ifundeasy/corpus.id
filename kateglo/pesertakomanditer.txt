@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peserta komanditer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) peserta pada sebuah perusahaan yang hanya memberikan andil modal dan tidak bertanggung jawab pada soal lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peserta%20komanditer",
+  "related": [],
+  "detailed": false
+}

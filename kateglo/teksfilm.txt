@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerjemahan percakapan, uraian, dsb ke dalam bahasa lain dan diproyeksikan pada bagian bawah layar putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20film",
+  "related": [],
+  "detailed": false
+}

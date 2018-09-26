@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nosologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) ilmu tentang pengelompokan sistem penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nosologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "layap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kelayapan"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rendah dekat tanah atau air (tentang burung terbang, perahu, rumah, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "melayap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layap",
+  "related": [],
+  "detailed": false
+}

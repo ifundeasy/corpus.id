@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "digit uji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "digit yang secara aritmetik berhubungan dengan data lainnya yang dapat digunakan untuk menguji ketepatan data tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=digit%20uji",
+  "related": [],
+  "detailed": false
+}

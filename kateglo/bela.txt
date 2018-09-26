@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bela",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "membela"
+      },
+      {
+        "type": "link",
+        "text": "membela"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bela",
+  "related": [],
+  "detailed": false
+}

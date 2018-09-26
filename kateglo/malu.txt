@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa sangat tidak enak hati (hina, rendah, dsb) karena berbuat sesuatu yang kurang baik (kurang benar, berbeda dengan kebiasaan, mempunyai cacat atau kekurangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "segan melakukan sesuatu karena ada rasa hormat, agak takut, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang senang (rendah, hina, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malu",
+  "related": [],
+  "detailed": false
+}

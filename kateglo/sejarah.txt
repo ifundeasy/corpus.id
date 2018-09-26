@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sejarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal-usul (keturunan) silsilah;"
+      },
+      {
+        "type": "desc",
+        "text": "kejadian dan peristiwa yang benar-benar terjadi pada masa lampau; riwayat; tambo;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan atau uraian tentang peristiwa dan kejadian yang benar-benar terjadi dalam masa lampau; ilmu sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejarah",
+  "related": [],
+  "detailed": false
+}

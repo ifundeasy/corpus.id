@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuartet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok, kumpulan, dsb yang terdiri atas empat;"
+      },
+      {
+        "type": "desc",
+        "text": "komposisi musik yang terdiri atas empat instrumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuartet",
+  "related": [],
+  "detailed": false
+}

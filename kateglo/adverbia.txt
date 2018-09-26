@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adverbia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang memberikan keterangan pada verba, adjektiva, nomina predikatif, atau kalimat, misal sangat, lebih, tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adverbia",
+  "related": [],
+  "detailed": false
+}

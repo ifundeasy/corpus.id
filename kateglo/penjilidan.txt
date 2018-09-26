@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjilidan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjilid;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan atau bagian percetakan tempat menjilid buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjilidan",
+  "related": [],
+  "detailed": false
+}

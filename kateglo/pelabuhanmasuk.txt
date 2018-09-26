@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan yang biasa disinggahi oleh kapal pengangkut yang akan menurunkan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20masuk",
+  "related": [],
+  "detailed": false
+}

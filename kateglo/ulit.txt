@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berulit"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) tidak mudah atau tidak mau (membayar utang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulit",
+  "related": [],
+  "detailed": false
+}

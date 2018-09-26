@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerimaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menerima; penyambutan;"
+      },
+      {
+        "type": "desc",
+        "text": "sambutan;"
+      },
+      {
+        "type": "desc",
+        "text": "perlakuan; sikap terhadap (kepada);"
+      },
+      {
+        "type": "desc",
+        "text": "anggapan; pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "besarnya uang yang diterima dari hasil penjualan barang atau jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerimaan",
+  "related": [],
+  "detailed": false
+}

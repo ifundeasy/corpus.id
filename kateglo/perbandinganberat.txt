@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbandingan berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbandingan%20berat",
+  "related": [],
+  "detailed": false
+}

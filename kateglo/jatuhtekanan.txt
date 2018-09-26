@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jatuh tekanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Fis) perbedaan tekanan antara dua titik di dalam suatu sistem aliran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jatuh%20tekanan",
+  "related": [],
+  "detailed": false
+}

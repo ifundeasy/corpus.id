@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sastra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa (kata-kata, gaya bahasa) yang dipakai dalam kitab-kitab (bukan bahasa sehari-hari);"
+      },
+      {
+        "type": "desc",
+        "text": "kesusastraan;"
+      },
+      {
+        "type": "desc",
+        "text": "kitab suci Hindu; kitab ilmu pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kitab; pustaka; primbon (berisi ramalan, hitungan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan; huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sastra",
+  "related": [],
+  "detailed": false
+}

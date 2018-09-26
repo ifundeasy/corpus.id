@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsistori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan gereja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) permusyawarahan kardinal di Roma yang diketuai oleh Paus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsistori",
+  "related": [],
+  "detailed": false
+}

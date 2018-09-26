@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepertinya",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "seandainya; sekiranya;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sebagaimana mestinya; selayaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepertinya",
+  "related": [],
+  "detailed": false
+}

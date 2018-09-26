@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat oles atau gosok (berupa minyak, cairan, dsb) untuk menghilangkan masuk angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20angin",
+  "related": [],
+  "detailed": false
+}

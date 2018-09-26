@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat bibliografis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "publikasi (seperti daftar buku) yang dipakai oleh penyusun bibliografi dalam melaksanakan tugasnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20bibliografis",
+  "related": [],
+  "detailed": false
+}

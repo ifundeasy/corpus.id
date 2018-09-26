@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diasistem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "jaringan hubungan formal yang memperlihatkan sistem bahasa bersama yang dianggap mendasari dua dialek atau lebih, dirumuskan sebagai kerangka untuk menjelaskan perbedaan struktural;"
+      },
+      {
+        "type": "desc",
+        "text": "fenomena dua sistem atau lebih yang bekerja secara berdampingan yang mungkin mempengaruhi perkembangan sistem itu, misal sistem fonem yang berbeda dari dialek yang berdekatan dalam satu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diasistem",
+  "related": [],
+  "detailed": false
+}

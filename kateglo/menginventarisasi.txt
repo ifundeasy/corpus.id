@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menginventarisasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencatat atau mendaftar barang-barang milik kantor (perumahan, rumah tangga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "me-ngumpulkan atau mendaftar data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menginventarisasi",
+  "related": [],
+  "detailed": false
+}

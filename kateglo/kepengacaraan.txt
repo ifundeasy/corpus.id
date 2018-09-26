@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepengacaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan pengacara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepengacaraan",
+  "related": [],
+  "detailed": false
+}

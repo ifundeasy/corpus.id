@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeringan lemari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeringan dengan memasukkan bahan yang akan dikeringkan ke dalam ruang lemari (mesin) pengering;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeringan%20lemari",
+  "related": [],
+  "detailed": false
+}

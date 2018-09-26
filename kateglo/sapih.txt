@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sapih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "lumpuh sebelah badan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyapih"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapih",
+  "related": [],
+  "detailed": false
+}

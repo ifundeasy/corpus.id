@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puisi bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puisi yang tidak terikat oleh rima dan matra, dan tidak terikat oleh jumlah larik dalam setiap bait, jumlah suku kata dalam setiap larik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puisi%20bebas",
+  "related": [],
+  "detailed": false
+}

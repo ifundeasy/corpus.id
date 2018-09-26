@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setrip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur;"
+      },
+      {
+        "type": "desc",
+        "text": "garis (sebagai tanda perhiasan pada mobil dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "garis skala (pada pengukur suhu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "carik kain dsb yang dipasang pada bahu atau pada lengan baju (sebagai tanda pangkat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setrip",
+  "related": [],
+  "detailed": false
+}

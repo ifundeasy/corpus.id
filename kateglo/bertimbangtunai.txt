@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertimbang tunai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melaksanakan pembelian sesuatu dengan membayar tunai;"
+      },
+      {
+        "type": "desc",
+        "text": "menjawab pertanyaan dsb dengan tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertimbang%20tunai",
+  "related": [],
+  "detailed": false
+}

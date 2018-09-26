@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "negatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak pasti; tidak tentu; tanpa pernyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang baik; menyimpang dari ukuran umum;"
+      },
+      {
+        "type": "desc",
+        "text": "film dari foto (potret) yang dipakai untuk memperbanyak foto;"
+      },
+      {
+        "type": "desc",
+        "text": "kabel yang aliran listriknya berpotensi lebih rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negatif",
+  "related": [],
+  "detailed": false
+}

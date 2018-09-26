@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "binomial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) terdiri atas dua kata atau dua unsur; gabungan yang dapat dibagi dua (mungkin lebih dari dua, misal terdiri atas empat unsur), misal gabungan seperti pulang pergi, suka duka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=binomial",
+  "related": [],
+  "detailed": false
+}

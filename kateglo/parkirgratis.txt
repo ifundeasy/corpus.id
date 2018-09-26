@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "parkir gratis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memarkir (kendaraan bermotor) tanpa dipungut bayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parkir%20gratis",
+  "related": [],
+  "detailed": false
+}

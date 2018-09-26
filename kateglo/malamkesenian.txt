@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "malam kesenian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pergelaran pada malam hari yang mempertunjukkan tarian, nyanyian, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malam%20kesenian",
+  "related": [],
+  "detailed": false
+}

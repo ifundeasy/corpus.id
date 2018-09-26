@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu tertentu yang bertalian dengan keadaan iklim;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan waktu tertentu (tiga bulan, empat bulan, dsb ketika pohon buah-buahan, palawija, dsb banyak menghasilkan);"
+      },
+      {
+        "type": "desc",
+        "text": "masa; waktu (ketika ada suatu peristiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "waktu atau masa ketika sesuatu (kegiatan, permainan, dsb) banyak terjadi atau sering berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim",
+  "related": [],
+  "detailed": false
+}

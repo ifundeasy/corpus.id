@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melekat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menempel benar-benar (sehingga tidak mudah lepas);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) karib sekali (tentang persahabatan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tertanam (tentang modal);"
+      },
+      {
+        "type": "desc",
+        "text": "terpakai (tentang pakaian, topi);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tetap terpaku pada (tentang pandangan mata);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terpaut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melekat",
+  "related": [],
+  "detailed": false
+}

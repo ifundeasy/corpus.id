@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katiti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah diteliti;"
+      },
+      {
+        "type": "desc",
+        "text": "telah ditentukan waktunya (tanggal, hari, bulan, dan tahunnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katiti",
+  "related": [],
+  "detailed": false
+}

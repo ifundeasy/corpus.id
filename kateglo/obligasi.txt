@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "obligasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat pinjaman dengan bunga tertentu dari pemerintah yang dapat diperjualbelikan;"
+      },
+      {
+        "type": "desc",
+        "text": "surat utang berjangka (waktu) lebih dari satu tahun dan bersuku bunga tertentu, dikeluarkan oleh perusahaan untuk menarik dana dari masyarakat guna menutup pembiayaan perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obligasi",
+  "related": [],
+  "detailed": false
+}

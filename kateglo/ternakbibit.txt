@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ternak bibit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ternak unggul yang berdarah murni untuk dipersilangkan sehingga menghasilkan ternak komersial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ternak%20bibit",
+  "related": [],
+  "detailed": false
+}

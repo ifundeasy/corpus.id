@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsumsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemakaian barang hasil produksi (bahan pakaian, makanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang yang langsung memenuhi keperluan hidup kita;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumsi",
+  "related": [],
+  "detailed": false
+}

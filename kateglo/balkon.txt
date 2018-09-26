@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balkon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebangsa langkan atau serambi atas;"
+      },
+      {
+        "type": "desc",
+        "text": "teras lantai atas pada bangunan bertingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat duduk yang ada di tingkat atas, baik di samping kiri dan kanan maupun belakang menghadap ke panggung dalam gedung kesenian atau gedung bioskop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balkon",
+  "related": [],
+  "detailed": false
+}

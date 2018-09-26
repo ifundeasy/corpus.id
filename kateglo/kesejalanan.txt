@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesejalanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) pembandingan dua hal atau lebih yang menunjukkan segi-segi yang mirip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesejalanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muka air tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) batas atas zona kandungan air yang jenuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muka%20air%20tanah",
+  "related": [],
+  "detailed": false
+}

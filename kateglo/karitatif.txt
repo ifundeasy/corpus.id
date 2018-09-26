@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karitatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat memberi kasih sayang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karitatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perburuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang yang diburu; buruan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat perlengkapan dsb untuk berburu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat untuk berburu;"
+      },
+      {
+        "type": "desc",
+        "text": "yang berkaitan dengan kegiatan berburu dan pengurusannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perburuan",
+  "related": [],
+  "detailed": false
+}

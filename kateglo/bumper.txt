@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bumper",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batang besi atau plastik yang melintang pada bagian muka dan belakang mobil (untuk menahan benturan);"
+      },
+      {
+        "type": "desc",
+        "text": "pagar besi pada sisi kapal dan perahu (untuk menahan benturan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) penahan pukulan (serangan, hantaman, dsb); orang yang menjadi sasaran pengganti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bumper",
+  "related": [],
+  "detailed": false
+}

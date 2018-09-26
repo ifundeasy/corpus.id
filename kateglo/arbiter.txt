@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arbiter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang disepakati oleh dua belah pihak yang bersengketa untuk memberikan keputusan yang akan ditaati oleh kedua belah pihak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arbiter",
+  "related": [],
+  "detailed": false
+}

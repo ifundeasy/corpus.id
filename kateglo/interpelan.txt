@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interpelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) orang (anggota Dewan Per-wakilan Rakyat) yang mengajukan interpelasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interpelan",
+  "related": [],
+  "detailed": false
+}

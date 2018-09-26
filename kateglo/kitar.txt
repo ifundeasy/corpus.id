@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kitar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkitar"
+      },
+      {
+        "type": "link",
+        "text": "mengitarkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang menunjukkan jumlah kegiatan yang dapat dilakukan oleh suatu sarana angkutan dari satu titik mula per satuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu gas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang menggunakan bahan bakar gas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20gas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pegangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dipegang;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian perkakas yang dipegang;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan (pekerjaan dsb) yang dipegang; daerah (lingkungan) yang dipegang;"
+      },
+      {
+        "type": "desc",
+        "text": "pekerjaan (pencarian dsb) yang tentu; jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pegangan",
+  "related": [],
+  "detailed": false
+}

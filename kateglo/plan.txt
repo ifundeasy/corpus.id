@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plan",
+  "related": [],
+  "detailed": false
+}

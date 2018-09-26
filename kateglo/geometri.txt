@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang matematika yang menerangkan sifat-sifat garis, sudut, bidang, dan ruang;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu ukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geometri",
+  "related": [],
+  "detailed": false
+}

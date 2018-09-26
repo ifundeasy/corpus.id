@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasutan kepada orang banyak (untuk mengadakan huru-hara, pemberontakan, dsb), biasanya dilakukan oleh tokoh atau aktivis partai politik;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato yang berapi-api untuk mempengaruhi massa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agitasi",
+  "related": [],
+  "detailed": false
+}

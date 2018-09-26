@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkelas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kelas;"
+      },
+      {
+        "type": "desc",
+        "text": "terbagi dalam (berbagai) kelas (tingkat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkelas",
+  "related": [],
+  "detailed": false
+}

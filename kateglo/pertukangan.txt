@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertukangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan tukang;"
+      },
+      {
+        "type": "desc",
+        "text": "himpunan para tukang;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bertukang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertukangan",
+  "related": [],
+  "detailed": false
+}

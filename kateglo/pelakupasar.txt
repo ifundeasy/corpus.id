@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelaku pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bergerak dan menentukan harga pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelaku%20pasar",
+  "related": [],
+  "detailed": false
+}

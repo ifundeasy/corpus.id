@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yang",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan bahwa kata atau kalimat yang berikut diutamakan atau dibedakan dari yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "kata yang menyatakan bahwa bagian kalimat yang berikutnya menjelaskan kata yang di depan;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata yang dipakai sebagai kata pembeda;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) adapun; akan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bahwa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "yang-yang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yang",
+  "related": [],
+  "detailed": false
+}

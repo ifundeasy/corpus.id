@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "flu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit menular pada saluran pernapasan yang disebabkan oleh virus; influenza; pilek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, perubahan, atau perusakan yang disebabkan oleh reaksi kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "proses kimia atau elektrokimia yang kompleks yang merusak logam melalui reaksi dengan lingkungannya;"
+      },
+      {
+        "type": "desc",
+        "text": "erosi kimia oleh oksigen (O2) di udara yang menimbulkan batuan yang mengandung besi berkarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korosi",
+  "related": [],
+  "detailed": false
+}

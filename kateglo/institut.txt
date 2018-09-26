@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "institut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi, badan, atau perkumpulan yang ber-tujuan melakukan suatu penyelidikan ilmiah;"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi, badan, atau perkumpulan yang bertujuan menyelenggarakan usaha pendidikan, kebudayaan, sosial, persahabatan (antarbangsa), rehabilitasi, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=institut",
+  "related": [],
+  "detailed": false
+}

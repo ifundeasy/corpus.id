@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periodontium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) jaringan ikat yang membungkus akar gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periodontium",
+  "related": [],
+  "detailed": false
+}

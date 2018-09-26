@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lacak",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "melacak"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melacak"
+      },
+      {
+        "type": "link",
+        "text": "melacak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lacak",
+  "related": [],
+  "detailed": false
+}

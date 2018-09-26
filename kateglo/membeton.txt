@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membeton",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menguatkan dengan beton;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi beton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membeton",
+  "related": [],
+  "detailed": false
+}

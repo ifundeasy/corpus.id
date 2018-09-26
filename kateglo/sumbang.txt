@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumbang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersalah (tentang adat) melanggar adat (kebiasaan, kesopanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang sopan; berdosa; bermukah; berzina;"
+      },
+      {
+        "type": "desc",
+        "text": "salah; keliru;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sedap didengar atau dilihat;"
+      },
+      {
+        "type": "desc",
+        "text": "janggal; tidak selaras; sember atau palsu (tentang suara, bunyi); curang (tentang permainan dsb); tidak seimbang (setara);"
+      },
+      {
+        "type": "link",
+        "text": "sumbang saran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumbang",
+  "related": [],
+  "detailed": false
+}

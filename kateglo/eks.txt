@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf x;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bekas; mantan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "dari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eks",
+  "related": [],
+  "detailed": false
+}

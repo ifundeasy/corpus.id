@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "drainase bawah permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "drainase alam atau drainase buatan yang terdapat di bawah permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=drainase%20bawah%20permukaan",
+  "related": [],
+  "detailed": false
+}

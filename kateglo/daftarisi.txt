@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar isi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembar halaman yang menjadi petunjuk pokok isi buku beserta nomor halaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20isi",
+  "related": [],
+  "detailed": false
+}

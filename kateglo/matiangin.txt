@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mati angin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak ada angin sama sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak berdaya lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mati%20angin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meralgia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyeri pada paha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meralgia",
+  "related": [],
+  "detailed": false
+}

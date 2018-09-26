@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(orang) yang membilang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) angka dalam pecahan menunjukkan yang dibagi (terletak di sebelah atas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembilang",
+  "related": [],
+  "detailed": false
+}

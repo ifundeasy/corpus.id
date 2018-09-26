@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipersensitif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu halus perasaan; sangat peka;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) bersifat (inang) menunjukkan reaksi yang drastis terhadap serangan patogen sehingga jaringan yang terinfeksi mendadak mati dan infeksi itu tidak menjalar lebih lanjut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipersensitif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim radiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklim yang ditentukan oleh keseimbangan radiasi atmosfer (udara) di dalam rumah, kantor, atau gedung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20radiasi",
+  "related": [],
+  "detailed": false
+}

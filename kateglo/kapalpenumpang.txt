@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal penumpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang fungsi utama mengangkut penumpang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20penumpang",
+  "related": [],
+  "detailed": false
+}

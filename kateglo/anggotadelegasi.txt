@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggota delegasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota yang ditunjuk dan diutus oleh suatu perkumpulan (negara dsb) dalam suatu perundingan (musyawarah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota%20delegasi",
+  "related": [],
+  "detailed": false
+}

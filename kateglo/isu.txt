@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masalah yang dikedepankan (untuk ditanggapi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kabar yang tidak jelas asal usulnya dan tidak terjamin kebenarannya; kabar angin; desas-desus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isu",
+  "related": [],
+  "detailed": false
+}

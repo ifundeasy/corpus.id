@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak batu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode percetakan dengan batu sebagai acuan, yang gambarnya sama tinggi dengan permukaan; cetak datar langsung; litografi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20batu",
+  "related": [],
+  "detailed": false
+}

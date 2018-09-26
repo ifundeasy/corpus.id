@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipakai untuk makan;"
+      },
+      {
+        "type": "desc",
+        "text": "hewan yang memakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemakan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pengap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serasa penuh sesak (seperti dalam kamar sempit yang tidak berjendela);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang mendapat udara dari luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "idiomatis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyangkut idiom; secara idiom;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai dengan kekhususan bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=idiomatis",
+  "related": [],
+  "detailed": false
+}

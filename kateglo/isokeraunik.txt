@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isokeraunik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis pada peta yang meng-hubungkan tempat yang memiliki frekuensi terjadinya badai guntur yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isokeraunik",
+  "related": [],
+  "detailed": false
+}

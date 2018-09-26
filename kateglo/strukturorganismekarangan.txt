@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "struktur organisme karangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangka organisasi karangan yang isinya memperlihatkan susunan dan hubungan setiap hal yang akan menjadi tema dan pembahasan karangan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=struktur%20organisme%20karangan",
+  "related": [],
+  "detailed": false
+}

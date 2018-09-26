@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pameran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat peraga yang digunakan sekali atau secara permanen untuk pameran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pameran",
+  "related": [],
+  "detailed": false
+}

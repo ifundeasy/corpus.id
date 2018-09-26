@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "giro bilyet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat giro;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=giro%20bilyet",
+  "related": [],
+  "detailed": false
+}

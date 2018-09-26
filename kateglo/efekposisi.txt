@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek posisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) perubahan pernyataan fenotipe suatu gen sebagai akibat perubahan hubungan posisinya terhadap gen lain dalam kromosomnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20posisi",
+  "related": [],
+  "detailed": false
+}

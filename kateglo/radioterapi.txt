@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radioterapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengobatan penyakit dengan radiasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radioterapi",
+  "related": [],
+  "detailed": false
+}

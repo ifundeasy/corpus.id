@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menulis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat huruf (angka dsb) dengan pena (pensil, kapur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "melahirkan pikiran atau perasaan (seperti mengarang, membuat surat) dengan tulisan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggambar; melukis;"
+      },
+      {
+        "type": "desc",
+        "text": "membatik (kain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menulis",
+  "related": [],
+  "detailed": false
+}

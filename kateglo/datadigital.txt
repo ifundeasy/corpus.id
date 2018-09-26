@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "data digital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "data yang berhubungan dengan angka untuk sistem perhitungan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data%20digital",
+  "related": [],
+  "detailed": false
+}

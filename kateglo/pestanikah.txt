@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesta nikah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesta kawin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesta%20nikah",
+  "related": [],
+  "detailed": false
+}

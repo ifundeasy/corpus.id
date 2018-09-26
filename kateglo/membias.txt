@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membias",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbelok dari arah (seperti perahu yang dilanggar ombak, hujan yang tertiup angin);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) berbelok arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menyimpang (tentang nilai, ukuran) dari yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membias",
+  "related": [],
+  "detailed": false
+}

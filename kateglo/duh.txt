@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "duh",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "(kp) →"
+      },
+      {
+        "type": "link",
+        "text": "aduh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=duh",
+  "related": [],
+  "detailed": false
+}

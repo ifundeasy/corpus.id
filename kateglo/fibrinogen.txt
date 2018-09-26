@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fibrinogen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "globulin yang dihasilkan di dalam hati, yang terdapat dalam plasma darah, dan yang diubah menjadi fibrin selama terjadinya penggumpalan darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fibrinogen",
+  "related": [],
+  "detailed": false
+}

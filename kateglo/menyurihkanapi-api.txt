@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyurihkan api-api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggores korek api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyurihkan%20api-api",
+  "related": [],
+  "detailed": false
+}

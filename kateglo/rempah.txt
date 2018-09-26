@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rempah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merempah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai jenis hasil tanaman yang beraroma, seperti pala, cengkih, lada untuk memberikan bau dan rasa khusus pada makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rempah",
+  "related": [],
+  "detailed": false
+}

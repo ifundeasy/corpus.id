@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi ujar yang dihasilkan oleh alat-alat ucap; bunyi bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Met) angin turun yang panas dan kering, biasanya terjadi di daerah pegunungan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) kumpulan huruf, angka, simbol khusus, dan tanda baca dengan ukuran dan model atau gaya tertentu dalam komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fon",
+  "related": [],
+  "detailed": false
+}

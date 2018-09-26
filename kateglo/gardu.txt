@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gardu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah jaga (tempat berkawal);"
+      },
+      {
+        "type": "desc",
+        "text": "rumah kecil di tepi jalan (tempat menjual es batu, dsb); depot;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan kecil (tempat distribusi listrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gardu",
+  "related": [],
+  "detailed": false
+}

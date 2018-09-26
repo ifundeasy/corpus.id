@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fetus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) janin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fetus",
+  "related": [],
+  "detailed": false
+}

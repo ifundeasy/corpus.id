@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stagnasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan terhenti (tidak bergerak, tidak aktif, tidak jalan); kemacetan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak maju atau maju, tetapi pada tingkat yang sangat lambat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak mengalir (mengarus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stagnasi",
+  "related": [],
+  "detailed": false
+}

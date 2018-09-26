@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "orang"
+      },
+      {
+        "type": "desc",
+        "text": "pohon, kayunya keras, Erythroxylon cuneatum;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu urang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urang",
+  "related": [],
+  "detailed": false
+}

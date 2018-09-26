@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kirim",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkirim"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kirim",
+  "related": [],
+  "detailed": false
+}

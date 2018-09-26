@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesimpulan tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan yang dinilai kebenarannya hanya tepat untuk satu (jenis) subjek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesimpulan%20tunggal",
+  "related": [],
+  "detailed": false
+}

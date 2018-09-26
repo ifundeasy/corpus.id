@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemimpin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memimpin;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk; buku petunjuk (pedoman);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemimpin",
+  "related": [],
+  "detailed": false
+}

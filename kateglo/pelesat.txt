@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelesat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memelesat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelesat",
+  "related": [],
+  "detailed": false
+}

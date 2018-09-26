@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kumpal",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "gumpal"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "terkumpal-kumpal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumpal",
+  "related": [],
+  "detailed": false
+}

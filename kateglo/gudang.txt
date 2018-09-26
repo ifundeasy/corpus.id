@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gudang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah atau bangsal tempat menyimpan barang- barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gudang",
+  "related": [],
+  "detailed": false
+}

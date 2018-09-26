@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun kepemilikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) akun yang menampung modal perusahaan yang dimiliki oleh individu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20kepemilikan",
+  "related": [],
+  "detailed": false
+}

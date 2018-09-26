@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metode kuadran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode penggalian berbentuk seperempat lingkaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metode%20kuadran",
+  "related": [],
+  "detailed": false
+}

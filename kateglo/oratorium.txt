@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oratorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat sembahyang atau tempat berdoa; kapel;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) jenis karya musik yang besar (yang tumbuh dari suatu kebiasaan di tempat peribadatan di kota Roma pada akhir abad ke-16) dengan bersumberkan Alkitab untuk penciptaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oratorium",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salaf",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "sifat angkuh, sombong, dsb (pada seseorang atau golongan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu atau orang yang terdahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salaf",
+  "related": [],
+  "detailed": false
+}

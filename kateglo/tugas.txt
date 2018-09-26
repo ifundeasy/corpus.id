@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tugas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang wajib dikerjakan atau yang ditentukan untuk dilakukan; pekerjaan yang menjadi tanggung jawab seseorang; pekerjaan yang dibebankan;"
+      },
+      {
+        "type": "desc",
+        "text": "suruhan (perintah) untuk melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) fungsi (jabatan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) fungsi yang boleh tidak dikerjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tugas",
+  "related": [],
+  "detailed": false
+}

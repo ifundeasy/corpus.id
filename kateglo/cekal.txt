@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cekal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tahan menderita; (tetap) kuat; tabah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencekal"
+      },
+      {
+        "type": "desc",
+        "text": "cegah dan tangkal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cekal",
+  "related": [],
+  "detailed": false
+}

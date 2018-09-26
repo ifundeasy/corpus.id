@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "madani",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan hak-hak sipil;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan perkotaan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjunjung tinggi nilai, norma, hukum yang ditopang oleh penguasaan iman, ilmu, dan teknologi yang berperadaban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=madani",
+  "related": [],
+  "detailed": false
+}

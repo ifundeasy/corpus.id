@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desimal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persepuluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desimal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rudu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "ruyup; luyut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merudu"
+      },
+      {
+        "type": "link",
+        "text": "merudu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rudu",
+  "related": [],
+  "detailed": false
+}

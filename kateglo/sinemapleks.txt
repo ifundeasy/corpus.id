@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinemapleks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekumpulan bioskop yang letaknya berdampingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinemapleks",
+  "related": [],
+  "detailed": false
+}

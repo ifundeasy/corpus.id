@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agregat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil proses agregasi;"
+      },
+      {
+        "type": "desc",
+        "text": "mesin kecil pembangkit listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) bahan-bahan mineral tidak bergerak, misal pasir, debu, batu, kerikil, pecahan batu yang bercampur semen, kapur, atau bahan aspal untuk mengikat campuran itu menjadi seperti beton;"
+      },
+      {
+        "type": "desc",
+        "text": "(Far) satuan yang terbentuk oleh partikel yang terhimpun dalam suatu kelompok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agregat",
+  "related": [],
+  "detailed": false
+}

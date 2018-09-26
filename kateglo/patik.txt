@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "budak belian; hamba tebusan;"
+      },
+      {
+        "type": "desc",
+        "text": "(hor) hamba (dipakai ketika berkata-kata dengan raja);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mematik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patik",
+  "related": [],
+  "detailed": false
+}

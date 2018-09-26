@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polisi keagamaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "polisi yang mengatur dan mengamati kegiatan agama dan perilaku penganutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisi%20keagamaan",
+  "related": [],
+  "detailed": false
+}

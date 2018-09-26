@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lingkar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluk membelit merupakan bundaran; gelung;"
+      },
+      {
+        "type": "desc",
+        "text": "bingkai (pada roda); simpai (pada tong dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keliling bulatan;"
+      },
+      {
+        "type": "desc",
+        "text": "-- jam;"
+      },
+      {
+        "type": "desc",
+        "text": "-- kutub;"
+      },
+      {
+        "type": "desc",
+        "text": "-- pinggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lingkar",
+  "related": [],
+  "detailed": false
+}

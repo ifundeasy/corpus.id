@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aforisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) pernyataan yang padat dan ringkas tentang sikap hidup atau kebenaran umum (seperti peribahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aforisme",
+  "related": [],
+  "detailed": false
+}

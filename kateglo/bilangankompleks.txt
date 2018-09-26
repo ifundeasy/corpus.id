@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan kompleks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang terdiri atas bagian nyata dan bagian khayal, misal 3 + 4 i adalah suatu bilangan kompleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20kompleks",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pinda",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meminda"
+      },
+      {
+        "type": "link",
+        "text": "meminda"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinda",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kesak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengesak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesak napas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesak",
+  "related": [],
+  "detailed": false
+}

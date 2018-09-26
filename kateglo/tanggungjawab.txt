@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanggung jawab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan wajib menanggung segala sesuatunya (kalau terjadi apa-apa boleh dituntut, dipersalahkan, diperkarakan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) fungsi menerima pembebanan, sebagai akibat sikap pihak sendiri atau pihak lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggung%20jawab",
+  "related": [],
+  "detailed": false
+}

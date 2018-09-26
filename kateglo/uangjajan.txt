@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang jajan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan (disediakan) untuk dibelanjakan sewaktu-waktu (biasanya untuk anak-anak yang belum punya penghasilan dan jumlahnya tidak terlalu besar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20jajan",
+  "related": [],
+  "detailed": false
+}

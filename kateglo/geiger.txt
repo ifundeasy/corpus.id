@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geiger",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memeriksa ada tidaknya sinar radioaktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geiger",
+  "related": [],
+  "detailed": false
+}

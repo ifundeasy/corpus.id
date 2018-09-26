@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "difluensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bentuk garis angin atau isobar yang memancar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=difluensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar malam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar yang dibuka pada malam hari;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlangsungnya berbagai-bagai pertunjukan (kedai, rumah makan, dsb), diadakan pada malam hari untuk beberapa hari lamanya dalam rangka memperingati (merayakan) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20malam",
+  "related": [],
+  "detailed": false
+}

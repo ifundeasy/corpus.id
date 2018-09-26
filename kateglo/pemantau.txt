@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemantau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memantau;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk memantau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemantau",
+  "related": [],
+  "detailed": false
+}

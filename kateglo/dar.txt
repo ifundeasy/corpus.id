@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi sesuatu yang meledak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dar",
+  "related": [],
+  "detailed": false
+}

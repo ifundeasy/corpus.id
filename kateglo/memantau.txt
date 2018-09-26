@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memantau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menengok; menjenguk;"
+      },
+      {
+        "type": "desc",
+        "text": "mengamati atau mengecek dengan cermat, terutama untuk tujuan khusus; mengawasi; memonitor;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatur atau mengontrol kerja mesin, proses, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengecek atau mengatur volume bunyi atau suara dalam merekam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memantau",
+  "related": [],
+  "detailed": false
+}

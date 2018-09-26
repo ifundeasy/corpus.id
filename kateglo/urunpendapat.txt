@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urun pendapat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "urun rembuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urun%20pendapat",
+  "related": [],
+  "detailed": false
+}

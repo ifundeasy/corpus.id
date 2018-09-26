@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hidrogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar rekaman yang diperoleh dengan alat hidrograf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidrogram",
+  "related": [],
+  "detailed": false
+}

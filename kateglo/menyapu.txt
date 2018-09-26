@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyapu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membersihkan dengan sapu;"
+      },
+      {
+        "type": "desc",
+        "text": "mengusap; menghapus; menyeka (keringat dsb); menyapu-nyapu;"
+      },
+      {
+        "type": "desc",
+        "text": "melumas (dengan cat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menghancurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) merotan (memukul dengan rotan, biasanya sebagai hukuman);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyapu",
+  "related": [],
+  "detailed": false
+}

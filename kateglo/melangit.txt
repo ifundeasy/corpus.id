@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melangit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuju (terbang) ke langit;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) berlebih-lebihan; muluk-muluk (tentang cita-cita); membumbung tinggi; menanjak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menjadi mahal sekali (tentang harga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melangit",
+  "related": [],
+  "detailed": false
+}

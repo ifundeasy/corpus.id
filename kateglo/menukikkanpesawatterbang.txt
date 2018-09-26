@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menukikkan pesawat terbang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menerbangkan pesawat terbang ke arah bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menukikkan%20pesawat%20terbang",
+  "related": [],
+  "detailed": false
+}

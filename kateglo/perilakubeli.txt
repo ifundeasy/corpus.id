@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perilaku beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) kelakuan pembeli serta faktor yang mempengaruhinya pada waktu ia mengambil keputusan untuk membeli atau tidak membeli suatu produk atau jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perilaku%20beli",
+  "related": [],
+  "detailed": false
+}

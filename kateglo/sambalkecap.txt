@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sambal kecap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sambal yang dibuat dari cabai, bawang merah, dan tomat yang diiris kecil-kecil lalu diberi kecap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambal%20kecap",
+  "related": [],
+  "detailed": false
+}

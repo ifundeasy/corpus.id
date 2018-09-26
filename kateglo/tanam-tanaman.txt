@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanam-tanaman",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bermacam-macam tanaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanam-tanaman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minta berhenti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mohon supaya diberhentikan dari pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minta%20berhenti",
+  "related": [],
+  "detailed": false
+}

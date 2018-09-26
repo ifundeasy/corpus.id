@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunyi surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "isi surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunyi%20surat",
+  "related": [],
+  "detailed": false
+}

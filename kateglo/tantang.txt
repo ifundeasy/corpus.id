@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tantang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menantang"
+      },
+      {
+        "type": "link",
+        "text": "tentang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tantang",
+  "related": [],
+  "detailed": false
+}

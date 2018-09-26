@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berpalis"
+      },
+      {
+        "type": "link",
+        "text": "memalis"
+      },
+      {
+        "type": "link",
+        "text": "memalis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komersial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan niaga atau perdagangan;"
+      },
+      {
+        "type": "desc",
+        "text": "dimaksudkan untuk diperdagangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bernilai niaga tinggi, kadang-kadang mengorbankan nilai-nilai lain (sosial, budaya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komersial",
+  "related": [],
+  "detailed": false
+}

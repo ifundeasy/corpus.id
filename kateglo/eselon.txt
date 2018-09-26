@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eselon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil)"
+      },
+      {
+        "type": "desc",
+        "text": "formasi bertingkat-tingkat dari pasukan, armada laut, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) formasi dalam struktur organisasi; jenjang kepangkatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eselon",
+  "related": [],
+  "detailed": false
+}

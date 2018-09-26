@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menguraikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan berurai; membuka simpul dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menceraikan (melepaskan) hubungan bagian-bagian (sendi-sendi, suku-suku, dsb) dari induknya (bagian yang lebih besar, pusat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menerangkan (membentangkan) panjang lebar (tentang pendapat, pikiran, dsb); menjelaskan dengan gamblang (tentang sesuatu yang belum jelas);"
+      },
+      {
+        "type": "desc",
+        "text": "memaparkan dan menjelaskan sesuatu yang ringkas;"
+      },
+      {
+        "type": "desc",
+        "text": "menjabarkan; menganalisis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menguraikan",
+  "related": [],
+  "detailed": false
+}

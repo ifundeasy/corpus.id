@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "referat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas kerja yang disampaikan dalam pertemuan ilmiah (seminar, konferensi); prasaran; makalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=referat",
+  "related": [],
+  "detailed": false
+}

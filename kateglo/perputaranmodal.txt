@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perputaran modal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah peredaran modal dalam periode tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perputaran%20modal",
+  "related": [],
+  "detailed": false
+}

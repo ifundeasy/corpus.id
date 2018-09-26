@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jamak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lazim; tidak aneh; lumrah; wajar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk kata yang menyatakan lebih dari satu atau banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) penggabungan (tentang salat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jamak",
+  "related": [],
+  "detailed": false
+}

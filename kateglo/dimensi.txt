@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dimensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran (panjang, lebar, tinggi, luas, dsb); matra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dimensi",
+  "related": [],
+  "detailed": false
+}

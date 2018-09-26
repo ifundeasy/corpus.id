@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi subjek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar bahan atau subjek mengenai individu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20subjek",
+  "related": [],
+  "detailed": false
+}

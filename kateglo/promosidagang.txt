@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "promosi dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan komunikasi untuk meningkatkan volume penjualan dengan pameran, periklanan, demonstrasi, dan usaha lain yang bersifat persuasif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=promosi%20dagang",
+  "related": [],
+  "detailed": false
+}

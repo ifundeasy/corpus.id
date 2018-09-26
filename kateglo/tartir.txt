@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tartir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat asam yang terdapat dalam buah-buahan yang masam (limau dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) sedikit-sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tartir",
+  "related": [],
+  "detailed": false
+}

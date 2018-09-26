@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "generator gas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang menggunakan suatu reaksi untuk menghasilkan gas, yang lazim dilengkapi dengan alat untuk mengendalikan laju pembentukan gas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generator%20gas",
+  "related": [],
+  "detailed": false
+}

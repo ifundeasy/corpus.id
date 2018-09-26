@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berobat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan obat;"
+      },
+      {
+        "type": "desc",
+        "text": "meminta atau mencari obat kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah diobati atau sudah mendapat obat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mendapat balasan; terhibur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berobat",
+  "related": [],
+  "detailed": false
+}

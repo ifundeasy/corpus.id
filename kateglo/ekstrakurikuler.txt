@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstrakurikuler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berada di luar program yang tertulis di dalam kurikulum, seperti latihan kepemimpinan dan pembinaan siswa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstrakurikuler",
+  "related": [],
+  "detailed": false
+}

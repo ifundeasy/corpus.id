@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapa",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tapa brata"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tapa-tapa"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut jenis walango, misal -- danau, -- daun, -- kera, -- rawang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) kuat; tahan --;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapa",
+  "related": [],
+  "detailed": false
+}

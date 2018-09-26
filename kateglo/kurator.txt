@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus atau pengawas harta benda orang yang pailit dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "anggota pengawas dari perguruan tinggi; penyantun;"
+      },
+      {
+        "type": "desc",
+        "text": "pengurus atau pengawas museum (gedung pameran seni lukis, perpustakaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurator",
+  "related": [],
+  "detailed": false
+}

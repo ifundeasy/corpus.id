@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerintahan presidentil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemerintahan republik yang kepala negaranya langsung memimpin kabinet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerintahan%20presidentil",
+  "related": [],
+  "detailed": false
+}

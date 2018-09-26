@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat ukur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas untuk mengukur (mencocokkan atau mengetahui jarak, bobot, luas, panas, getaran, kecepatan, tegangan, tekanan, volume, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20ukur",
+  "related": [],
+  "detailed": false
+}

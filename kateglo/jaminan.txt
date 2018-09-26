@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jaminan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggungan atas pinjaman yang diterima; agunan;"
+      },
+      {
+        "type": "desc",
+        "text": "biaya yang ditanggung oleh penjual atas kerusakan barang yang dibeli oleh pembeli untuk jangka waktu tertentu; garansi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) janji seseorang untuk menanggung utang atau kewajiban pihak lain, apabila utang atau kewajiban tersebut tidak dipenuhi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jaminan",
+  "related": [],
+  "detailed": false
+}

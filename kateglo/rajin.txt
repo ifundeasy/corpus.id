@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rajin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka bekerja (belajar dsb); getol; sungguh-sungguh bekerja; selalu berusaha giat;"
+      },
+      {
+        "type": "desc",
+        "text": "kerapkali; terus-menerus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rajin",
+  "related": [],
+  "detailed": false
+}

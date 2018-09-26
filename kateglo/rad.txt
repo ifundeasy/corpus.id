@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "dewan; majelis;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan pengionan dalam radiasi, 100 erg/gram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rad",
+  "related": [],
+  "detailed": false
+}

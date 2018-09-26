@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukuman penjara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukuman yang berupa penyekapan dalam penjara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukuman%20penjara",
+  "related": [],
+  "detailed": false
+}

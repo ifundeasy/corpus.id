@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompetisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persaingan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pertandingan untuk merebut kejuaraan dalam gabungan perkumpulan olahraga (sepak bola dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sistem pertandingan olahraga yang mengharuskan semua pihak saling bertanding (berhadapan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompetisi",
+  "related": [],
+  "detailed": false
+}

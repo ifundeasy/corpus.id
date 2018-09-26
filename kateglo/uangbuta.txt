@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang buta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaji yang diterima oleh karyawan yang tidak aktif bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20buta",
+  "related": [],
+  "detailed": false
+}

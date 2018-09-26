@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bujur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panjang dari suatu bidang; tanah itu -- nya 15 m dan lintangnya 10 m;"
+      },
+      {
+        "type": "desc",
+        "text": "panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) posisi timur atau barat suatu tempat di permukaan bumi, yang ditentukan atau diukur dengan meridian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bujur",
+  "related": [],
+  "detailed": false
+}

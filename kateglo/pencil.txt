@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pencil",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memencil"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencil",
+  "related": [],
+  "detailed": false
+}

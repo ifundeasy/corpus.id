@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berminat; memperhatikan;"
+      },
+      {
+        "type": "link",
+        "text": "kecam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cam",
+  "related": [],
+  "detailed": false
+}

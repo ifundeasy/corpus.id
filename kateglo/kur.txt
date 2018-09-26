@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi burung tekukur;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi orang memanggil ayam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kur",
+  "related": [],
+  "detailed": false
+}

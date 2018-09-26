@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang menghasilkan beras, termasuk jenis Oryza (ada banyak macam dan namanya);"
+      },
+      {
+        "type": "desc",
+        "text": "butir dan buah padi;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(dalam beberapa ungkapan berarti) kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padi",
+  "related": [],
+  "detailed": false
+}

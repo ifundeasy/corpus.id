@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) melakukan kunjungan ke rumah sakit untuk menjenguk orang sakit yang dirawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besuk",
+  "related": [],
+  "detailed": false
+}

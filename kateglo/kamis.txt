@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari yang ke-5 dalam seminggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamis",
+  "related": [],
+  "detailed": false
+}

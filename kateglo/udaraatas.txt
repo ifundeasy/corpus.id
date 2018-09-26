@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara atas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian atmosfer di atas troposfer bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20atas",
+  "related": [],
+  "detailed": false
+}

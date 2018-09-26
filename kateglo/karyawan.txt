@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karyawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja pada suatu lembaga (kantor, perusahaan, dsb) dengan mendapat gaji (upah); pegawai; pekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karyawan",
+  "related": [],
+  "detailed": false
+}

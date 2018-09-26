@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim padang rumput",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipe iklim yang memungkinkan terjadinya padang rumput, terlalu dingin bagi tumbuhan berpohon, tetapi daerahnya tidak pernah secara tetap tertutup salju atau es;"
+      },
+      {
+        "type": "desc",
+        "text": "iklim suatu daerah dengan suhu rata-rata 50oF dan lebih besar daripada 32oF;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20padang%20rumput",
+  "related": [],
+  "detailed": false
+}

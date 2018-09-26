@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hengkang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mundur;"
+      },
+      {
+        "type": "desc",
+        "text": "melarikan diri; angkat kaki;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pengkar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hengkang",
+  "related": [],
+  "detailed": false
+}

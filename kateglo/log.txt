@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "log",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelondong;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) logaritma;"
+      },
+      {
+        "type": "desc",
+        "text": "buku harian kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "pengukur kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=log",
+  "related": [],
+  "detailed": false
+}

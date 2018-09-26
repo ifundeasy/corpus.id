@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korporasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan usaha yang sah; badan hukum;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan atau badan usaha yang sangat besar atau beberapa perusahaan yang dikelola dan dijalankan sebagai satu perusahaan besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korporasi",
+  "related": [],
+  "detailed": false
+}

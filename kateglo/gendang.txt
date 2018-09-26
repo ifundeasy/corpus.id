@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gendang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat bunyi-bunyian berupa kayu bulat panjang, di dalamnya ada rongga dan salah satu lubangnya atau kedua-duanya diberi berkulit (untuk dipukul);"
+      },
+      {
+        "type": "desc",
+        "text": "gulung (untuk kertas);"
+      },
+      {
+        "type": "link",
+        "text": "gendis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gendang",
+  "related": [],
+  "detailed": false
+}

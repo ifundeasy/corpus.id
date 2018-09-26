@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seminar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "bersinar-sinar;"
+      },
+      {
+        "type": "desc",
+        "text": "bersinar-sinar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seminar",
+  "related": [],
+  "detailed": false
+}

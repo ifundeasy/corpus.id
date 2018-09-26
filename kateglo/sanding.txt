@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dekat; damping; sebelah;"
+      },
+      {
+        "type": "desc",
+        "text": "sudut atau sisi yang tajam (dari suatu benda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanding",
+  "related": [],
+  "detailed": false
+}

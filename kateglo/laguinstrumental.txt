@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lagu instrumental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lagu yang disampaikan secara instrumental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagu%20instrumental",
+  "related": [],
+  "detailed": false
+}

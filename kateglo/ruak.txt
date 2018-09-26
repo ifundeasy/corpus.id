@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meruak"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "ruak-ruak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,65 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar ukurannya (di antara jenisnya atau benda-benda yang serupa);"
+      },
+      {
+        "type": "desc",
+        "text": "besar tekanannya (timbangannya);"
+      },
+      {
+        "type": "desc",
+        "text": "payah; parah (tentang luka penyakit dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sulit (susah, sukar) melakukannya; melebihi ukuran (kekuatan, kemampuan, kesanggupan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sukar digerakkan, seakan-akan ditindih atau ditekan (tentang anggota badan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kuat merangsang saraf; keras (tentang rokok, obat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memihak; cenderung;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ki) hamil;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat keras (perkiraan, dugaan, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "besarnya tekanan suatu benda apabila diangkat, ditimbang, dsb; bobot; timbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gaya tarikan yang diderita suatu benda karena massanya dan keberadaannya di dalam, di sekitar, ataupun pada suatu sistem massa; bobot;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) susah; celaka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat",
+  "related": [],
+  "detailed": false
+}

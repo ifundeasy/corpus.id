@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis langit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) garis pemisah antara atap gedung bertingkat dan langit jika dilihat dari jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20langit",
+  "related": [],
+  "detailed": false
+}

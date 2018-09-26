@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manufakturing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berkaitan dengan manufaktur; usaha manufaktur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manufakturing",
+  "related": [],
+  "detailed": false
+}

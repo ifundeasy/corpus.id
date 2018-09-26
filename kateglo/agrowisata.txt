@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agrowisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wisata yang sasarannya adalah pertanian (perkebunan, kehutanan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agrowisata",
+  "related": [],
+  "detailed": false
+}

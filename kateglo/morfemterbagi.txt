@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem terbagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang realisasinya dalam bentuk morfem diantari oleh unsur lain, seperti {ke -- an} dalam {keadaan};"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20terbagi",
+  "related": [],
+  "detailed": false
+}

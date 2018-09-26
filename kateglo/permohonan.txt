@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permohonan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permintaan kepada orang yang lebih tinggi kedudukannya dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lamaran (pekerjaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permohonan",
+  "related": [],
+  "detailed": false
+}

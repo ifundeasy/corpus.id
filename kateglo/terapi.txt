@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) usaha untuk memulihkan kesehatan orang yang sedang sakit; pengobatan penyakit; perawatan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang ditetapkan menjadikan rujukan sebagai komponen dalam sistem pelayanan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20rujukan",
+  "related": [],
+  "detailed": false
+}

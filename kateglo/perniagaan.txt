@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perniagaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perniagaan",
+  "related": [],
+  "detailed": false
+}

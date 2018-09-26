@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reklame",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan kepada umum tentang barang dagangan (dengan kata-kata yang menarik, gambar) supaya laku; iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reklame",
+  "related": [],
+  "detailed": false
+}

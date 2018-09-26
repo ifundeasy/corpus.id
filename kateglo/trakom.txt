@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trakom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit mata yang disebabkan oleh virus yang mengakibatkan selaput mata berbintik-bintik merah dan dapat menular;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trakom",
+  "related": [],
+  "detailed": false
+}

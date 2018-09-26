@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit pikiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sakit ingatan;"
+      },
+      {
+        "type": "desc",
+        "text": "lelah karena terlalu memikirkan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20pikiran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musnah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lenyap; binasa;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musnah",
+  "related": [],
+  "detailed": false
+}

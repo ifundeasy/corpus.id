@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vitamin D2",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalsiferol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vitamin%20D2",
+  "related": [],
+  "detailed": false
+}

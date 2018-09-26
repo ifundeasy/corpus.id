@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skombroid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama kelompok ikan yang meliputi ikan hearing, tuna, dan kembung;"
+      },
+      {
+        "type": "desc",
+        "text": "nama penyakit keracunan karena makan ikan yang sudah tercemar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skombroid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mamalia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool) kelompok binatang dalam kelas vertebrata, betinanya menyusui anak; binatang menyusui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamalia",
+  "related": [],
+  "detailed": false
+}

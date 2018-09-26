@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persiapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlengkapan dan persediaan (untuk se-suatu);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) bersiap-siap atau mempersiapkan; tindakan (rancangan dsb) untuk sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persiapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan sistole",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan di dalam pembuluh darah yang timbul pada saat jantung memompakan darah keluar (pada orang dewasa normal kira-kira 120 mm Hg);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20sistole",
+  "related": [],
+  "detailed": false
+}

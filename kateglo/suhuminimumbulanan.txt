@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu minimum bulanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu minimum yang tercatat dalam satu bulan kalender di dalam satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20minimum%20bulanan",
+  "related": [],
+  "detailed": false
+}

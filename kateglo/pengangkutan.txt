@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengangkutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengangkut;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha membawa, mengantar, atau memindahkan orang atau barang dari suatu tempat ke tempat lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pemindahan bahan lepas batuan oleh air sungai, angin, gletser, air laut, dan gaya berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengangkutan",
+  "related": [],
+  "detailed": false
+}

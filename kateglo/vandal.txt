@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vandal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusak hasil karya seni dan barang berharga lainnya (lukisan, patung, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka merusak dan menghancurkan secara kasar dan ganas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vandal",
+  "related": [],
+  "detailed": false
+}

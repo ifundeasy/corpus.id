@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kampanye",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan (tindakan) serentak (untuk melawan, mengadakan aksi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan yang dilaksanakan oleh organisasi politik atau calon yang bersaing memperebutkan kedudukan dalam parlemen dsb untuk mendapat dukungan massa pemilih dalam suatu pemungutan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kampanye",
+  "related": [],
+  "detailed": false
+}

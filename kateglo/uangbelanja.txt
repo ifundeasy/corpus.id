@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang belanja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang disediakan atau dikeluarkan untuk belanja sehari-hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) gaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20belanja",
+  "related": [],
+  "detailed": false
+}

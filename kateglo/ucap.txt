@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ucap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata (bagian kalimat, kalimat, dsb) yang dilisankan; ujar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ucap",
+  "related": [],
+  "detailed": false
+}

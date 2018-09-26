@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecupetan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cupet;"
+      },
+      {
+        "type": "desc",
+        "text": "kepicikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecupetan",
+  "related": [],
+  "detailed": false
+}

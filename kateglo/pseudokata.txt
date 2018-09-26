@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pseudokata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang dapat berdiri sendiri, tetapi tidak mempunyai makna (misal yang, bahwa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pseudokata",
+  "related": [],
+  "detailed": false
+}

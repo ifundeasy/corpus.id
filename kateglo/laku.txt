@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan; gerak-gerik; tindakan; cara menjalankan atau berbuat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "laris (tentang barang dagangan); sudah terjual;"
+      },
+      {
+        "type": "desc",
+        "text": "boleh dipakai (tentang uang, karcis, dsb); sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laku",
+  "related": [],
+  "detailed": false
+}

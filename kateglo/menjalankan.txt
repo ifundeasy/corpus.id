@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjalankan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan (tugas, kewajiban, pekerjaan); tiap karyawan harus ~ tugas masing-masing;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat (menggerakkan dsb) supaya berjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengemudikan; mengendarai (tentang kendaraan);"
+      },
+      {
+        "type": "desc",
+        "text": "memutarkan (tentang uang supaya untung); membungakan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengamalkan; mematuhi atau mempraktikkan (tentang ajaran, nasihat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengerjakan; memecahkan atau mencari (tentang hitungan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjalankan",
+  "related": [],
+  "detailed": false
+}

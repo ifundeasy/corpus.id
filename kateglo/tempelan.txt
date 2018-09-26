@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menempelkan (iklan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang ditempelkan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang ditempeli (ditumpangi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cukai pasar (dengan carik kertas kecil yang ditempelkan);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menempel;"
+      },
+      {
+        "type": "desc",
+        "text": "derma dengan jalan membeli bunga dsb yang dicantumkan di baju dsb (di pasar malam amal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat substrat di lingkungan tempat perlindungan larva tiram atau kerang ketika mereka meninggalkan komunitas plankton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempelan",
+  "related": [],
+  "detailed": false
+}

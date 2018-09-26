@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(pengetahuan) mengenai ketatanegaraan atau kenegaraan (seperti tentang sistem pemerintahan, dasar pemerintahan);"
+      },
+      {
+        "type": "desc",
+        "text": "segala urusan dan tindakan (kebijakan, siasat, dsb) mengenai pemerintahan negara atau terhadap negara lain;"
+      },
+      {
+        "type": "desc",
+        "text": "cara bertindak (dalam menghadapi atau menangani suatu masalah); kebijaksanaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=politik",
+  "related": [],
+  "detailed": false
+}

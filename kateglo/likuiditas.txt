@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "likuiditas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) perihal posisi uang kas suatu perusahaan dan kemampuannya untuk memenuhi kewajiban yang jatuh tempo tepat pada waktunya; kemampuan memenuhi kewajiban membayar utang dsb pada waktunya (tentang perusahaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=likuiditas",
+  "related": [],
+  "detailed": false
+}

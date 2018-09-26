@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ragam resmi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam bahasa yang dipakai dalam suasana resmi (misal dalam surat dinas, dalam sidang pengadilan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragam%20resmi",
+  "related": [],
+  "detailed": false
+}

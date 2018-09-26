@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstramarital",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(di) luar nikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstramarital",
+  "related": [],
+  "detailed": false
+}

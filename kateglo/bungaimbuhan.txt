@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga imbuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bunga sekuritas yang akan diterima setelah pembayaran bunga yang terakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20imbuhan",
+  "related": [],
+  "detailed": false
+}

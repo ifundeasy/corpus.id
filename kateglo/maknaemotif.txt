@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna emotif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna kata atau frasa yang ditautkan dengan perasaan (ditentukan oleh perasaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20emotif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sahaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "abdi; budak; hamba;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "saya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sahaya",
+  "related": [],
+  "detailed": false
+}

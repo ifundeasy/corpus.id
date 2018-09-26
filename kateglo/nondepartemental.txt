@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nondepartemental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat nondepartemen; bersifat tidak termasuk dalam suatu departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nondepartemental",
+  "related": [],
+  "detailed": false
+}

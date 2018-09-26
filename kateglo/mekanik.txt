@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mekanik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mekanik",
+  "related": [],
+  "detailed": false
+}

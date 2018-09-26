@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anoksemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan kekurangan oksigen darah (misal dada terasa sakit akibat berada di puncak gunung yang tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anoksemia",
+  "related": [],
+  "detailed": false
+}

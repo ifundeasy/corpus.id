@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertaruhan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertaruh (dengan); memasang taruh (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh simpan (rawat); menitipkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertaruhan",
+  "related": [],
+  "detailed": false
+}

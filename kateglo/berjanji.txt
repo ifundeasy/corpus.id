@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjanji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengucapkan janji; menyatakan bersedia dan sanggup untuk berbuat sesuatu (memberi, menolong, datang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyanggupi akan menepati apa yang telah dikatakan atau yang telah disetujui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjanji",
+  "related": [],
+  "detailed": false
+}

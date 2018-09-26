@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengontrak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengikat dengan perjanjian (tentang mempekerjakan orang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyewa (rumah dsb) untuk batas waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengontrak",
+  "related": [],
+  "detailed": false
+}

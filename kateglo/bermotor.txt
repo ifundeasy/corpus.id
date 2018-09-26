@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermotor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengendarai sepeda motor;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan motor (mesin); diperlengkapi dengan motor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermotor",
+  "related": [],
+  "detailed": false
+}

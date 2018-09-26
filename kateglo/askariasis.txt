@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "askariasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh cacing yang menyerang pencernaan;"
+      },
+      {
+        "type": "desc",
+        "text": "cacing gelang-gelang; askarid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=askariasis",
+  "related": [],
+  "detailed": false
+}

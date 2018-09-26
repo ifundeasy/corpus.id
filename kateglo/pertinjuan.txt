@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertinjuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkelahian tinju-meninju;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang berkenaan dengan tinju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertinjuan",
+  "related": [],
+  "detailed": false
+}

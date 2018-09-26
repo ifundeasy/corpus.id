@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga borongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang ditetapkan untuk barang dalam jumlah besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20borongan",
+  "related": [],
+  "detailed": false
+}

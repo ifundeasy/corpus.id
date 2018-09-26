@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengiri",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuju (membelok, menepi, dsb) ke kiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hidm) perubahan arah angin yang melawan arah jarum jam (ke kiri) di kedua belahan bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengiri",
+  "related": [],
+  "detailed": false
+}

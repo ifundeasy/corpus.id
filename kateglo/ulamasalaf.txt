@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulama salaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "para ahli ilmu agama mulai dari para sahabat Nabi Muhammad saw. sampai ke pengikut terdekat sesudahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "ulama yang mendasarkan pandangannya pada paham kemurnian ortodoks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulama%20salaf",
+  "related": [],
+  "detailed": false
+}

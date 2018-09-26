@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anteng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tenang; diam (tidak menangis, rewel, dsb tentang anak-anak);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak banyak tingkah;"
+      },
+      {
+        "type": "desc",
+        "text": "senang tinggal di rumah (tidak banyak keluar rumah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anteng",
+  "related": [],
+  "detailed": false
+}

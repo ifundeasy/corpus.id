@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "miotik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan mitosis;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far) obat yang menyebabkan miosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=miotik",
+  "related": [],
+  "detailed": false
+}

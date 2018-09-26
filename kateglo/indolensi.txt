@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indolensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelesuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelambanan berpikir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indolensi",
+  "related": [],
+  "detailed": false
+}

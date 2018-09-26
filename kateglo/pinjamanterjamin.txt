@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinjaman terjamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pinjaman yang dijamin dengan harta benda tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjaman%20terjamin",
+  "related": [],
+  "detailed": false
+}

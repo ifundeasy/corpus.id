@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang diimpor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20dagang",
+  "related": [],
+  "detailed": false
+}

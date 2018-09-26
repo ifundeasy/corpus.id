@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan atau adat yang secara resmi dianggap mengikat, yang dikukuhkan oleh penguasa atau pemerintah;"
+      },
+      {
+        "type": "desc",
+        "text": "undang-undang, peraturan, dsb untuk mengatur pergaulan hidup masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "patokan (kaidah, ketentuan) mengenai peristiwa (alam dsb) yang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan (pertimbangan) yang ditetapkan oleh hakim (dalam pengadilan); vonis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum",
+  "related": [],
+  "detailed": false
+}

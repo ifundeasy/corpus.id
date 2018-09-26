@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah beku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang suhunya 0oC atau di bawah 0oC dan mengandung es dan uap air, tetapi tidak mengandung air cair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20beku",
+  "related": [],
+  "detailed": false
+}

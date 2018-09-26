@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju tapong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju model (Bugis) panjang dan sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20tapong",
+  "related": [],
+  "detailed": false
+}

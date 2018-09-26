@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) pengurangan hukuman yang diberikan kepada orang yang terhukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remisi",
+  "related": [],
+  "detailed": false
+}

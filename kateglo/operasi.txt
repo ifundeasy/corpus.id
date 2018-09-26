@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "operasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "bedah; bedel (untuk mengobati penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) tindakan atau gerakan militer;"
+      },
+      {
+        "type": "desc",
+        "text": "pelaksanaan rencana yang telah dikembangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=operasi",
+  "related": [],
+  "detailed": false
+}

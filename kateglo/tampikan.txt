@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tampikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang sudah ditampik;"
+      },
+      {
+        "type": "desc",
+        "text": "tolakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tampikan",
+  "related": [],
+  "detailed": false
+}

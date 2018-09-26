@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengundi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengundi;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipakai untuk mengundi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengundi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epistola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) epistel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epistola",
+  "related": [],
+  "detailed": false
+}

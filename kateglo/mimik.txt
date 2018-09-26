@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mimik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peniruan dengan gerak-gerik anggota badan dan raut muka;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan; termimik-mimik;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) minum (bahasa anak-anak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mimik",
+  "related": [],
+  "detailed": false
+}

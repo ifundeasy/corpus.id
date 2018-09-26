@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat dokter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang diberikan oleh dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20dokter",
+  "related": [],
+  "detailed": false
+}

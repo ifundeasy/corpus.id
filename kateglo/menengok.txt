@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menengok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjenguk; mengunjungi;"
+      },
+      {
+        "type": "desc",
+        "text": "melihat; menonton;"
+      },
+      {
+        "type": "desc",
+        "text": "menilik; memperhatikan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) meramalkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menengok",
+  "related": [],
+  "detailed": false
+}

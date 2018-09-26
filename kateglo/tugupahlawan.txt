@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tugu pahlawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tugu untuk memperingati pahlawan yang gugur dalam perang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tugu%20pahlawan",
+  "related": [],
+  "detailed": false
+}

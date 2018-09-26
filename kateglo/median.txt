@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "median",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat)"
+      },
+      {
+        "type": "desc",
+        "text": "nilai tengah di antara deret nilai yang disusun dengan tata urut dari besar sampai kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran antara yang kecil (pendek dsb) dan yang besar (tinggi, panjang); sedang;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran untuk huruf yang berukuran sedang (11 titik);"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran kertas (47 x 56 cm);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=median",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rengap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "merengap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rengap",
+  "related": [],
+  "detailed": false
+}

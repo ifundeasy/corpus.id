@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kausalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kausal; perihal sebab akibat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kausalitas",
+  "related": [],
+  "detailed": false
+}

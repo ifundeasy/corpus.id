@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jembatan kecil (sebatang kayu, papan, dsb yang dilintangkan di atas sungai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang sempit (terutama yang diberi tumpuan papan, batu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titian",
+  "related": [],
+  "detailed": false
+}

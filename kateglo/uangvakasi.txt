@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang vakasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang imbalan menguji, memeriksa kertas ujian, dsb; uang ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20vakasi",
+  "related": [],
+  "detailed": false
+}

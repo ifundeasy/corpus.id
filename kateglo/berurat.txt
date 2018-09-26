@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berurat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada uratnya;"
+      },
+      {
+        "type": "desc",
+        "text": "berakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berurat",
+  "related": [],
+  "detailed": false
+}

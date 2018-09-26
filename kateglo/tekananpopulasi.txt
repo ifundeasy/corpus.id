@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan populasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "populasi yang lebih banyak daripada besarnya lahan yang tersedia sehingga dapat menyebabkan migrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20populasi",
+  "related": [],
+  "detailed": false
+}

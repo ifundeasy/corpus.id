@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konversasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "percakapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konversasi",
+  "related": [],
+  "detailed": false
+}

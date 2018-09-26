@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gedung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tembok dsb yang berukuran besar sebagai tempat kegiatan, seperti perkantoran, pertemuan, perniagaan, pertunjukan, olahraga, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah tembok yang berukuran besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gedung",
+  "related": [],
+  "detailed": false
+}

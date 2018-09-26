@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "produktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat atau mampu menghasilkan (dalam jumlah besar);"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangkan (memberi hasil, manfaat, dsb); menguntungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) mampu menghasilkan terus dan dipakai secara teratur untuk membentuk unsur-unsur baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produktif",
+  "related": [],
+  "detailed": false
+}

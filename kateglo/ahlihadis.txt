@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli hadis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam seluk-beluk hadis;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berpegang pada hadis; pemegang hadis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20hadis",
+  "related": [],
+  "detailed": false
+}

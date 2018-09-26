@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partikel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unsur butir (dasar) benda atau bagian benda yang sangat kecil dan berdimensi; materi yang sangat kecil, seperti butir pasir, elektron, atom, atau molekul; zarah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang biasanya tidak dapat diderivasikan atau diinfleksikan, mengandung makna gramatikal dan tidak mengandung makna leksikal, termasuk di dalamnya artikel, preposisi, konjungsi, dan interjeksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partikel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dikeluarkan untuk mengadakan (mendirikan, melakukan, dsb) sesuatu; ongkos; belanja; pengeluaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya",
+  "related": [],
+  "detailed": false
+}

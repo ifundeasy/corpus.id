@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vestibul",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "vestibula"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vestibul",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "efek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akibat; pengaruh;"
+      },
+      {
+        "type": "desc",
+        "text": "kesan yang timbul pada pikiran penonton, pendengar, pembaca, dsb (sesudah mendengar atau melihat sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) surat berharga yang dapat diperdagangkan (seperti surat saham, surat obligasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek",
+  "related": [],
+  "detailed": false
+}

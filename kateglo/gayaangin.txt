@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "angka atau skala angin yang berhubungan dengan laju angin, misal skala Beaufort;"
+      },
+      {
+        "type": "desc",
+        "text": "gaya yang ditimbulkan oleh angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20angin",
+  "related": [],
+  "detailed": false
+}

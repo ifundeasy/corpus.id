@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aneroid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berisi bukan cairan atau dioperasikan tanpa menggunakan cairan (tentang barometer);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) barometer yang mengukur tekanan udara dengan perpindahan tutup yang luwes dari kotak logam yang hampir hampa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) tidak mengandung atau tidak menggunakan cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aneroid",
+  "related": [],
+  "detailed": false
+}

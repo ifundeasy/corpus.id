@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disiplin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tata tertib (di sekolah, kemiliteran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ketaatan (kepatuhan) kepada peraturan (tata tertib dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bidang studi yang memiliki objek, sistem, dan metode tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disiplin",
+  "related": [],
+  "detailed": false
+}

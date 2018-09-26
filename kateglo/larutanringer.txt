@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan Ringer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) larutan isotonik dari tiga klorida;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20Ringer",
+  "related": [],
+  "detailed": false
+}

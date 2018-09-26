@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siapa pun",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "barang siapa;"
+      },
+      {
+        "type": "desc",
+        "text": "sembarang orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siapa%20pun",
+  "related": [],
+  "detailed": false
+}

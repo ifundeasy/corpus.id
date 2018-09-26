@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengukur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung ukurannya (panjang, besar, luas, tinggi, dsb) dengan alat tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "menilai mutu dengan cara membandingkan, menguji, mencoba, mengira, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengukur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empirisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran ilmu pengetahuan dan filsafat berdasarkan metode empiris;"
+      },
+      {
+        "type": "desc",
+        "text": "teori yang mengatakan bahwa semua pengetahuan didapat dengan pengalaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empirisme",
+  "related": [],
+  "detailed": false
+}

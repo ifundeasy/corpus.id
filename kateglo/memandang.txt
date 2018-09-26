@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memandang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat dan memperhatikan (biasanya arah dan jaraknya tetap);"
+      },
+      {
+        "type": "desc",
+        "text": "menganggap; memperlakukan (sebagai);"
+      },
+      {
+        "type": "desc",
+        "text": "mempedulikan; memperhatikan; mengingat (akan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyegani; menghargai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memandang",
+  "related": [],
+  "detailed": false
+}

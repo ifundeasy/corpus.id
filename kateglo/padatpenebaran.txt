@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "padat penebaran",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jumlah ikan yang dapat ditebar per satuan luas (atau volume air) kolam atau wadah pemeliharaan ikan lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padat%20penebaran",
+  "related": [],
+  "detailed": false
+}

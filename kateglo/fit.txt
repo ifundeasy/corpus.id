@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan berdaya tahan bagi tubuh untuk melakukan aktivitas fisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fit",
+  "related": [],
+  "detailed": false
+}

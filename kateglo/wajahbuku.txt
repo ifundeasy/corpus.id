@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wajah buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang tampak dari dalam dan dari luar sebuah buku (rupa, warna, bentuk, ukuran, tata huruf, gambar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sampul luar buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wajah%20buku",
+  "related": [],
+  "detailed": false
+}

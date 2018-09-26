@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alikuot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari keseluruhan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) bertindak atau menjadi faktor bilangan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alikuot",
+  "related": [],
+  "detailed": false
+}

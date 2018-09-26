@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "postulat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asumsi yang menjadi pangkal dalil yang dianggap benar tanpa perlu membuktikannya; anggapan dasar; aksioma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=postulat",
+  "related": [],
+  "detailed": false
+}

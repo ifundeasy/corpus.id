@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pascadoktoral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan karya akademik lanjutan atau profesional sesudah mencapai gelar doktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pascadoktoral",
+  "related": [],
+  "detailed": false
+}

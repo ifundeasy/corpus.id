@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "guna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faedah; manfaat;"
+      },
+      {
+        "type": "desc",
+        "text": "fungsi;"
+      },
+      {
+        "type": "desc",
+        "text": "kebaikan; budi baik;"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan tujuan; untuk; bagi;"
+      },
+      {
+        "type": "link",
+        "text": "guna-guna"
+      },
+      {
+        "type": "link",
+        "text": "guna-ganah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guna",
+  "related": [],
+  "detailed": false
+}

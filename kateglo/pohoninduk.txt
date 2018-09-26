@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pohon induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hut) pohon yang dipilih untuk menghasilkan benih yang cukup banyak dengan kualitas yang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pohon%20induk",
+  "related": [],
+  "detailed": false
+}

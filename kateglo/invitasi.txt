@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "invitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "undangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pertandingan kejuaraan yang mengundang pemain luar atau pemain asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=invitasi",
+  "related": [],
+  "detailed": false
+}

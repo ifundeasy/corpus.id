@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tokek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang merayap, kulitnya kasap berbintik-bintik, suaranya keras, hidup di rumah (pohon dsb);"
+      },
+      {
+        "type": "link",
+        "text": "takik (takuk)"
+      },
+      {
+        "type": "desc",
+        "text": "kudis (borok) di kepala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tokek",
+  "related": [],
+  "detailed": false
+}

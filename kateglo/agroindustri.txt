@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agroindustri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri di bidang pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agroindustri",
+  "related": [],
+  "detailed": false
+}

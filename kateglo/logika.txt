@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang kaidah berpikir;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan pikiran yang masuk akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logika",
+  "related": [],
+  "detailed": false
+}

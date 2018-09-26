@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan rujukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "buku dan bahan pustaka lain yang tidak boleh dipinjam atau digunakan di luar perpustakaan, baik karena penggunaannya hanya dalam waktu singkat maupun karena bahan pustaka itu termasuk koleksi yang tidak boleh dipinjamkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20rujukan",
+  "related": [],
+  "detailed": false
+}

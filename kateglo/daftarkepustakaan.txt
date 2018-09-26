@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar kepustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar pustaka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20kepustakaan",
+  "related": [],
+  "detailed": false
+}

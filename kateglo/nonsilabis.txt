@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonsilabis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) (bunyi bahasa yang) tidak dapat menjadi inti suku kata, misal bunyi pertama dan ketiga dalam hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonsilabis",
+  "related": [],
+  "detailed": false
+}

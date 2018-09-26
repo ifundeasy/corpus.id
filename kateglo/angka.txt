@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda atau lambang sebagai pengganti bilangan; nomor;"
+      },
+      {
+        "type": "desc",
+        "text": "nilai (kepandaian, prestasi, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengangka"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka",
+  "related": [],
+  "detailed": false
+}

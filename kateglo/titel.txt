@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "titel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar yang diperoleh setelah menamatkan tingkat pendidikan dsb; gelar kesarjanaan;"
+      },
+      {
+        "type": "desc",
+        "text": "judul (buku dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titel",
+  "related": [],
+  "detailed": false
+}

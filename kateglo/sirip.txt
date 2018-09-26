@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepak pada dada dan ekor ikan sebagai alat berenang;"
+      },
+      {
+        "type": "desc",
+        "text": "balung jengger pada buaya dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirip",
+  "related": [],
+  "detailed": false
+}

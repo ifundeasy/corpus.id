@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pejabat pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas pada suatu instansi yang menangani urusan pers;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pejabat%20pers",
+  "related": [],
+  "detailed": false
+}

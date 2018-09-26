@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertaruhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan, cara) bertaruh;"
+      },
+      {
+        "type": "desc",
+        "text": "penaruhan; penyimpanan; tempat menaruh(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "simpanan; titipan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertaruhan",
+  "related": [],
+  "detailed": false
+}

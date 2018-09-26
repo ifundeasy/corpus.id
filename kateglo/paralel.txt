@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paralel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sejajar;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mirip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paralel",
+  "related": [],
+  "detailed": false
+}

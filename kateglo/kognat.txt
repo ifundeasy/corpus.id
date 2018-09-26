@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kognat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama; serupa;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan karena hubungan darah (keturunan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) berhubungan karena bersumber pada bahasa yang sama (tentang kata-kata dari dua bahasa atau lebih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kognat",
+  "related": [],
+  "detailed": false
+}

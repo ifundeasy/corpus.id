@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan usaha unit desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(BUUD) organisasi di tingkat desa yang diselenggarakan oleh pemerintah, bertujuan mengatur kegiatan penduduk di bidang produksi, perdagangan, dan kesejahteraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20usaha%20unit%20desa",
+  "related": [],
+  "detailed": false
+}

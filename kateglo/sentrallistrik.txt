@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sentral listrik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pusat tenaga listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentral%20listrik",
+  "related": [],
+  "detailed": false
+}

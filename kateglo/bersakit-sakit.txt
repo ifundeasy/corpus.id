@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersakit-sakit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersusah payah (untuk mencapai sesuatu); berusaha dengan tidak mengenal lelah;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu menderita sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "menderita kesukaran (kesusahan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersakit-sakit",
+  "related": [],
+  "detailed": false
+}

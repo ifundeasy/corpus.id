@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosmetologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli kecantikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmetologis",
+  "related": [],
+  "detailed": false
+}

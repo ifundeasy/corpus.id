@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsuler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberikan nasihat dengan dibayar (khususnya dalam bidang perpajakan); konsultan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan konsul atau konsulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsuler",
+  "related": [],
+  "detailed": false
+}

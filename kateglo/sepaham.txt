@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepaham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu paham; sependapat; sepengertian;"
+      },
+      {
+        "type": "desc",
+        "text": "satu keyakinan; satu aliran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepaham",
+  "related": [],
+  "detailed": false
+}

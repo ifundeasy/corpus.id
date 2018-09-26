@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrolit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "senyawa yang larutannya merupakan penghantar arus listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan atau cairan yang terdapat di antara elektrode positif dan negatif, seperti pada baterai, aki mobil, dan kondensator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrolit",
+  "related": [],
+  "detailed": false
+}

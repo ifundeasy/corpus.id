@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oper",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengoper"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oper",
+  "related": [],
+  "detailed": false
+}

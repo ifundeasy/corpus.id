@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengambilan surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kegiatan menemukan dan mengambil kembali surat yang diperlukan dari tempat penyimpanannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengambilan%20surat",
+  "related": [],
+  "detailed": false
+}

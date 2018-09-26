@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis jabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) penyelidikan tentang kemampuan dan kepribadian seseorang dalam hubungan dengan pekerjaan yang menjadi tanggung jawabnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20jabatan",
+  "related": [],
+  "detailed": false
+}

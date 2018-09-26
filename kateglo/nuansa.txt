@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nuansa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "variasi atau perbedaan yang sangat halus atau kecil sekali (tentang warna, suara, kualitas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kepekaan terhadap, kewaspadaan atas, atau kemampuan menyatakan adanya pergeseran yang kecil sekali (tentang makna, perasaan, atau nilai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nuansa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "walhasil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dan hasilnya;"
+      },
+      {
+        "type": "desc",
+        "text": "akhirnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=walhasil",
+  "related": [],
+  "detailed": false
+}

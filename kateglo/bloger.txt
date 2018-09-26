@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bloger",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) sebutan untuk orang yang mengeblog; pengeblog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bloger",
+  "related": [],
+  "detailed": false
+}

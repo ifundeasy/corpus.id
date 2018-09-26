@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jonget",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "menjonget"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jonget",
+  "related": [],
+  "detailed": false
+}

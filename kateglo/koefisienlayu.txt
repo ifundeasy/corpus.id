@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien layu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) persentase kandungan air atau kelembapan dalam tanah ketika kelayuan permanen terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20layu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjualan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjual;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menjual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjualan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,59 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lewat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melalui; lalu di; menempuh;"
+      },
+      {
+        "type": "desc",
+        "text": "lalu; lampau;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lebih;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih;"
+      },
+      {
+        "type": "desc",
+        "text": "sesudah;"
+      },
+      {
+        "type": "desc",
+        "text": "sesudah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau; sangat; terlalu;"
+      },
+      {
+        "type": "desc",
+        "text": "terlampau; sangat; terlalu;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "dengan perantaraan (memakai jasa, alat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dengan perantaraan (memakai jasa, alat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lewat",
+  "related": [],
+  "detailed": false
+}

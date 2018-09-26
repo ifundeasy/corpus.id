@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketinggalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa; kelebihan; tunggakan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tertinggal (karena lupa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terbelakang; tercecer;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah ditinggalkan oleh (kereta api dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sesuai dengan zaman (waktu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ada yang kelupaan; ada yang kurang; ada yang terlangkahi;"
+      },
+      {
+        "type": "link",
+        "text": "tidak ketinggalan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketinggalan",
+  "related": [],
+  "detailed": false
+}

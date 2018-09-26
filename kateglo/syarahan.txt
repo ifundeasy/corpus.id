@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "syarahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ceramah; pidato; penerangan; propaganda;"
+      },
+      {
+        "type": "desc",
+        "text": "penerbitan (surat kabar, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syarahan",
+  "related": [],
+  "detailed": false
+}

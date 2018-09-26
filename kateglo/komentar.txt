@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komentar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ulasan atau tanggapan atas berita, pidato, dsb (untuk menerangkan atau menjelaskan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komentar",
+  "related": [],
+  "detailed": false
+}

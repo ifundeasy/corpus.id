@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal mengaktifkan kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaktivitas",
+  "related": [],
+  "detailed": false
+}

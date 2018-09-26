@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "episkopal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan jabatan atau pemerintahan oleh uskup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) berkaitan dengan cabang Gereja Anglikan di Amerika Serikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=episkopal",
+  "related": [],
+  "detailed": false
+}

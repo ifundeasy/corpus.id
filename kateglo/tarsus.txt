@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tarsus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulang pangkal kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian belakang kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "tulang rawan kelopak mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarsus",
+  "related": [],
+  "detailed": false
+}

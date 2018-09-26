@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan warga negara yang bertugas menjalankan kekuasaan negara (seperti polisi, tentara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20negara",
+  "related": [],
+  "detailed": false
+}

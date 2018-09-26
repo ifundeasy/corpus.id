@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subkultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari suatu kultur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subkultur",
+  "related": [],
+  "detailed": false
+}

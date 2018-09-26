@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dekat (pertalian keluarga); sedarah sedaging;"
+      },
+      {
+        "type": "desc",
+        "text": "keluarga; sanak saudara;"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan dari induk yang sama yang dihasilkan dari gamet yang berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerabat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotah",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "sekotah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotah",
+  "related": [],
+  "detailed": false
+}

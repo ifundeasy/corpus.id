@@ -1,0 +1,59 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang ada di bawah air (tentang kali, laut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang terbawah (tentang kuali, botol, dsb) yang di sebelah dalam ataupun yang di sebelah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "lantai;"
+      },
+      {
+        "type": "desc",
+        "text": "latar (warna yang menjadi alas gambar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan yang paling bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "bakat atau pembawaan sejak lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "alas; fondasi;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok atau pangkal suatu pendapat (ajaran, aturan); asas;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) memang begitu (tentang adat, tabiat, kelakuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk gramatikal yang menjadi asal dari suatu bentukan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "memang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dasar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sondai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "miring; landai;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sondek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sondai",
+  "related": [],
+  "detailed": false
+}

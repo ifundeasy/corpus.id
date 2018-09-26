@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vakasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang imbalan bagi penguji atau pemeriksa kertas ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vakasi",
+  "related": [],
+  "detailed": false
+}

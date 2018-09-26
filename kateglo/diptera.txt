@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diptera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suku serangga dengan dua sayap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diptera",
+  "related": [],
+  "detailed": false
+}

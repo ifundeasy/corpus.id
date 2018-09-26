@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh rangkaian saat ketika proses, perbuatan, atau keadaan berada atau berlangsung;"
+      },
+      {
+        "type": "desc",
+        "text": "lamanya (saat yang tertentu);"
+      },
+      {
+        "type": "desc",
+        "text": "saat yang tertentu untuk melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kesempatan; tempo; peluang;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "ketika, saat;"
+      },
+      {
+        "type": "desc",
+        "text": "hari (keadaan hari);"
+      },
+      {
+        "type": "desc",
+        "text": "saat yang ditentukan berdasarkan pembagian bola dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah atau arahan yang diberikan oleh orang banyak (rakyat, perkumpulan, dsb) kepada seseorang (beberapa orang) untuk dilaksanakan sesuai dengan kehendak orang banyak itu;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan untuk melakukan kewenangan kekuasaan dari suatu badan atau organ kekuasaan atas nama badan atau organ kekuasaan tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "instruksi atau wewenang yang diberikan oleh organisasi (perkumpulan dsb) kepada wakilnya untuk melakukan sesuatu dalam perundingan, dewan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "surat perintah bayar;"
+      },
+      {
+        "type": "desc",
+        "text": "perwakilan atas suatu wilayah yang diberikan oleh Perserikatan Bangsa-Bangsa; pemberian kekuasaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandat",
+  "related": [],
+  "detailed": false
+}

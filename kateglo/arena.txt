@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelanggang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bidang (yang menjadi tempat bersaing, berjuang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arena",
+  "related": [],
+  "detailed": false
+}

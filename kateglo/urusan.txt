@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diurus;"
+      },
+      {
+        "type": "desc",
+        "text": "perkara; masalah; hal ihwal; persoalan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang berhubungan atau ada sangkut-pautnya dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian pekerjaan (jawatan, dinas, dsb) yang mengurus sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "cara mengurus (merawat, menyelenggarakan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urusan",
+  "related": [],
+  "detailed": false
+}

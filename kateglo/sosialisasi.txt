@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sosialisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha untuk mengubah milik perseorangan menjadi milik umum (milik negara);"
+      },
+      {
+        "type": "desc",
+        "text": "proses belajar seorang anggota masyarakat untuk mengenal dan menghayati kebudayaan masyarakat dalam lingkungannya;"
+      },
+      {
+        "type": "desc",
+        "text": "upaya memasyarakatkan sesuatu sehingga men-jadi dikenal, dipahami, dihayati oleh masyarakat; pemasyarakatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sosialisasi",
+  "related": [],
+  "detailed": false
+}

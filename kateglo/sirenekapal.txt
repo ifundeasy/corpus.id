@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sirene kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sirene yang terdapat pada kapal, dibunyikan sebagai pemberitahuan kepada para penumpang bahwa kapal akan segera berangkat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirene%20kapal",
+  "related": [],
+  "detailed": false
+}

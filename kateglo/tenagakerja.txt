@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenaga kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja atau mengerjakan sesuatu; pekerja, pegawai, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mampu melakukan pekerjaan, baik di dalam maupun di luar hubungan kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20kerja",
+  "related": [],
+  "detailed": false
+}

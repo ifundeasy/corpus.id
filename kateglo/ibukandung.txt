@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ibu kandung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ibu yang melahirkan (ibu sendiri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu%20kandung",
+  "related": [],
+  "detailed": false
+}

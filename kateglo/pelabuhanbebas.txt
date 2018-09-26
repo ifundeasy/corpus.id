@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan yang tidak memungut cukai barang masuk dan keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20bebas",
+  "related": [],
+  "detailed": false
+}

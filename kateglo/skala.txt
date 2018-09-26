@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis atau titik tanda yang berderet-deret dsb yang sama jarak antaranya, dipakai untuk mengukur, seperti pada termometer, gelas pengukur barang cair;"
+      },
+      {
+        "type": "desc",
+        "text": "lajur yang dipakai untuk menentukan tingkatan atau banyaknya sesuatu (seperti pada peraturan gaji dan pada daftar bunga uang);"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan ukuran besarnya gambar dsb dengan keadaan yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala",
+  "related": [],
+  "detailed": false
+}

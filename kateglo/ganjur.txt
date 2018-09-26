@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ganjur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "tombak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) tarik; hela; sentak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ganjur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penampang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang pada permukaan barang yang diiris sama tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penampang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari jadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari kelahiran;"
+      },
+      {
+        "type": "desc",
+        "text": "saat pertama kali digunakan atau selesai dibuat atau diresmikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20jadi",
+  "related": [],
+  "detailed": false
+}

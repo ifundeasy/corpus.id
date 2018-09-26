@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paroki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) daerah (kawasan) penggembalaan umat Katolik yang dikepalai oleh pastor atau imam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paroki",
+  "related": [],
+  "detailed": false
+}

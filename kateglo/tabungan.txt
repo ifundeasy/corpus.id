@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menabungkan uang; celengan;"
+      },
+      {
+        "type": "desc",
+        "text": "uang tabungan; uang simpanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air timpas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air surut yang serendah-rendahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20timpas",
+  "related": [],
+  "detailed": false
+}

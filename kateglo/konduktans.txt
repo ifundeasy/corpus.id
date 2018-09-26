@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konduktans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) daya hantar listrik atau panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konduktans",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "polisi rahasia; reserse;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detektif",
+  "related": [],
+  "detailed": false
+}

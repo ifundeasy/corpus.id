@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf;"
+      },
+      {
+        "type": "desc",
+        "text": "cakap (tutur kata) yang keluar terus-menerus dengan tidak tentu maksud tujuannya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "datar (tentang permukaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "huma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ladang padi di tanah kering;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang baru ditebas hutannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huma",
+  "related": [],
+  "detailed": false
+}

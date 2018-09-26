@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gencat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bencat; terhenti; terbantut (tentang pekerjaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gencat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muda",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belum sampai setengah umur;"
+      },
+      {
+        "type": "desc",
+        "text": "belum sampai masak (tentang buah-buahan);"
+      },
+      {
+        "type": "desc",
+        "text": "belum cukup umur (tentang tumbuhan, binatang);"
+      },
+      {
+        "type": "desc",
+        "text": "belum sampai waktunya untuk dipetik (dituai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "belum lama ada (berdiri dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang gelap, agak pucat (tentang warna);"
+      },
+      {
+        "type": "desc",
+        "text": "yang kedua (menurut tingkat kedudukannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muda",
+  "related": [],
+  "detailed": false
+}

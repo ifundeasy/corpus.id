@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "palato-alveolar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi karena penyempitan antara daun lidah dan alveolum bagian depan lidah dan langit-langit keras;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi yang terjadi karena penyempitan antara daun lidah dan alveolum serta bagian depan lidah dan langit-langit keras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palato-alveolar",
+  "related": [],
+  "detailed": false
+}

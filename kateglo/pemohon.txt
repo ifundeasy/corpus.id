@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemohon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memohon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemohon",
+  "related": [],
+  "detailed": false
+}

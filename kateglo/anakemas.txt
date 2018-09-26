@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anak emas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak budak belian yang diambil anak oleh tuannya;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang paling disayangi (disenangi) oleh atasannya (keluarganya, kepalanya, majikannya, tuannya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "anak Indonesia yang diambil oleh bangsa lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20emas",
+  "related": [],
+  "detailed": false
+}

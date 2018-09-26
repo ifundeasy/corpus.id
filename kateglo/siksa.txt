@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penderitaan (kesengsaraan dsb) sebagai hukuman;"
+      },
+      {
+        "type": "desc",
+        "text": "hukuman dengan cara disengsarakan (disakiti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siksa",
+  "related": [],
+  "detailed": false
+}

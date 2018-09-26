@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggores",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menggores;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menggores;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggores",
+  "related": [],
+  "detailed": false
+}

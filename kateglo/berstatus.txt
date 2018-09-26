@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berstatus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai status (sebagai); berkedudukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berstatus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengisar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutarkan; memusingkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggiling (padi, gandum, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memutar jarum penunjuk pada jam (kompas);"
+      },
+      {
+        "type": "desc",
+        "text": "memindahkan; menggeserkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengubah pendapat (janji dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan (menyerahkan kepada orang lain); menghibahkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjual; menggadaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengisar",
+  "related": [],
+  "detailed": false
+}

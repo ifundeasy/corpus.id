@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikan pantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang hidupnya dekat pantai atau ikan yang jarang dijumpai jauh dari pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikan%20pantai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangan olahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan jadi (penganan, kue, saus, dsb) yang diolah untuk diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangan%20olahan",
+  "related": [],
+  "detailed": false
+}

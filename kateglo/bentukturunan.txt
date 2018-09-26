@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentuk turunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk yang berasal dari bentuk asal setelah mengalami berbagai proses;"
+      },
+      {
+        "type": "desc",
+        "text": "struktur sintaksis yang berasal dari kalimat inti setelah mengalami rangkaian transformasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk%20turunan",
+  "related": [],
+  "detailed": false
+}

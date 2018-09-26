@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarif wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarif yang dikenakan kepada seseorang yang melakukan kunjungan singkat, biasanya kunjungan untuk bersenang-senang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif%20wisata",
+  "related": [],
+  "detailed": false
+}

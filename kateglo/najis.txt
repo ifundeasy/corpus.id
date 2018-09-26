@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "najis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "kotor yang menjadi sebab terhalangnya seseorang untuk beribadah kepada Allah, seperti terkena jilatan anjing;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotoran (tinja, air kencing);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) jijik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=najis",
+  "related": [],
+  "detailed": false
+}

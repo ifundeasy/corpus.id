@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbah cair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang membawa sampah (limbah) dari rumah, bisnis, dan industri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah%20cair",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan karya tulis pilihan dari seorang atau beberapa orang pengarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antologi",
+  "related": [],
+  "detailed": false
+}

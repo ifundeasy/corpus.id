@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dicapai;"
+      },
+      {
+        "type": "desc",
+        "text": "prestasi yang diperlihatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan kerja (tentang peralatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinerja",
+  "related": [],
+  "detailed": false
+}

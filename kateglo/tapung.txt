@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menapung"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju (Bugis) yang panjang dan sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapung",
+  "related": [],
+  "detailed": false
+}

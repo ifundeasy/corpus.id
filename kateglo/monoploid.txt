@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monoploid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio) hanya mempunyai satu kromosom pada setiap jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monoploid",
+  "related": [],
+  "detailed": false
+}

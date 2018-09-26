@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan leksikal dasar yang abstrak yang mendasari pelbagai bentuk kata;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan terkecil dalam leksikon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksem",
+  "related": [],
+  "detailed": false
+}

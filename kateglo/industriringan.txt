@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha pembuatan barang-barang yang bahannya dari kertas, kayu, rotan, dsb (bukan dari besi atau baja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20ringan",
+  "related": [],
+  "detailed": false
+}

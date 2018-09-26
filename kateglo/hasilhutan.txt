@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil hutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang didapat dari tumbuhan dalam hutan (seperti rotan, damar, kayu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20hutan",
+  "related": [],
+  "detailed": false
+}

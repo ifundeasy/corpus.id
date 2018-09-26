@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "melasma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bercak hiperpigmentasi, terutama pada bagian yang terkena sinar matahari (misal dahi, pipi, dan bagian bawah hidung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melasma",
+  "related": [],
+  "detailed": false
+}

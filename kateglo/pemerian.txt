@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggambaran; penjelasan (tentang sifat, keadaan, hal) suatu peristiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "penguraian unsur-unsurnya;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan kebahasaan dalam bentuk uraian yang menjelaskan berbagai peristiwa kebahasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kata atau kelompok kata yang membatasi atau meluaskan makna kata lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerian",
+  "related": [],
+  "detailed": false
+}

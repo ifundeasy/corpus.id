@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "bahkan; semakin (bertambah);"
+      },
+      {
+        "type": "desc",
+        "text": "bahkan sebaliknya;"
+      },
+      {
+        "type": "desc",
+        "text": "justru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malah",
+  "related": [],
+  "detailed": false
+}

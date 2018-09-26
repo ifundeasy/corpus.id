@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temporal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan atau mengenai waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan waktu-waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temporal",
+  "related": [],
+  "detailed": false
+}

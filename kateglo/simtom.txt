@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simtom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) perubahan atau keadaan khusus kondisi tubuh yang menunjukkan tanda adanya suatu penyakit; gejala penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simtom",
+  "related": [],
+  "detailed": false
+}

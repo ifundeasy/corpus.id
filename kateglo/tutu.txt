@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tutu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertutu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutu",
+  "related": [],
+  "detailed": false
+}

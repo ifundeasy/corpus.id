@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lesak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi desau; desar;"
+      },
+      {
+        "type": "link",
+        "text": "melesak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berhenti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lesak",
+  "related": [],
+  "detailed": false
+}

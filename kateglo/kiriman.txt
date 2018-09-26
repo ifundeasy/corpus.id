@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kiriman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dikirimkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) barang yang dititipkan (diamanatkan) untuk disimpan (dijual dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiriman",
+  "related": [],
+  "detailed": false
+}

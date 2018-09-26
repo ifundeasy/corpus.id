@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logopedia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang cacat dalam ucapan serta cara memperbaikinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logopedia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "darah rendah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tekanan darah yang berada di bawah normal, tekanan sistolik kurang dari 100 mm Hg;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh tekanan darah yang menurun secara tidak normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=darah%20rendah",
+  "related": [],
+  "detailed": false
+}

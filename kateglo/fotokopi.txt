@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotokopi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil reproduksi (penggandaan) fotografis terhadap barang cetakan (tulisan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotokopi",
+  "related": [],
+  "detailed": false
+}

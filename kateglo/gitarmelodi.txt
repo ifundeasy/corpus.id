@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gitar melodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gitar yang dipetik dengan bantuan listrik sesuai dengan melodinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gitar%20melodi",
+  "related": [],
+  "detailed": false
+}

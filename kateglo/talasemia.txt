@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "talasemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit kelainan darah turunan yang ditandai oleh adanya sel darah merah yang abnormal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=talasemia",
+  "related": [],
+  "detailed": false
+}

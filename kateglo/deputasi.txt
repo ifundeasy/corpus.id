@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deputasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perutusan yang terdiri atas beberapa orang yang diangkat dan diberi hak untuk mewakili (bertindak dan berbicara atas nama) orang-orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deputasi",
+  "related": [],
+  "detailed": false
+}

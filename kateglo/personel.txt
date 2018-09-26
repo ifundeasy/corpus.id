@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "personel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai; anak buah; awak (kapal, pesawat terbang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=personel",
+  "related": [],
+  "detailed": false
+}

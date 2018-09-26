@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekomendasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal minta perhatian bahwa orang yang disebut dapat dipercaya, baik (biasa dinyatakan dengan surat); penyuguhan;"
+      },
+      {
+        "type": "desc",
+        "text": "saran yang menganjurkan (membenarkan, menguatkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekomendasi",
+  "related": [],
+  "detailed": false
+}

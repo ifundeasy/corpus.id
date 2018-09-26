@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kampanye promosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kampanye yang dilaksanakan dalam rangka promosi untuk meningkatkan atau mempertahankan penjualan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kampanye%20promosi",
+  "related": [],
+  "detailed": false
+}

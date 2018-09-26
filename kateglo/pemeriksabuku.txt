@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeriksa buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memeriksa pembukuan perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeriksa%20buku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerimaan suatu negara yang bersumber dari pajak dan sumber lainnya untuk membiayai kepentingan umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20umum",
+  "related": [],
+  "detailed": false
+}

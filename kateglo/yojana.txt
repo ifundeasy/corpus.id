@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yojana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 9 mil;"
+      },
+      {
+        "type": "desc",
+        "text": "jarak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yojana",
+  "related": [],
+  "detailed": false
+}

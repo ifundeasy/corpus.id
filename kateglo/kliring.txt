@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kliring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Keu) penyelesaian pembukuan dan pembayaran antarbank dengan memindahkan saldo kepada pihak yang berhak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kliring",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plastometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kekerasan karet dengan menentukan dalamnya tusukan suatu jasad keras;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaan untuk mengukur keplastisan bahan dengan menentukan waktu alirannya melalui pertambahan berturut-turut jarak pipa rambut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plastometer",
+  "related": [],
+  "detailed": false
+}

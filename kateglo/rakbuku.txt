@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rak buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rak tempat menaruh buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rak%20buku",
+  "related": [],
+  "detailed": false
+}

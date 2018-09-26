@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perairan teritorial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "perairan sejauh jarak tertentu dari pantai, ditetapkan oleh satu negara untuk dijadikan bagian daerah kekuasaannya;"
+      },
+      {
+        "type": "desc",
+        "text": "lautan yang merupakan bagian dari negara tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perairan%20teritorial",
+  "related": [],
+  "detailed": false
+}

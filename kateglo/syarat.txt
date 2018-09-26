@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "janji (sebagai tuntutan atau permintaan yang harus dipenuhi);"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang perlu atau harus ada (sedia, dimiliki, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang perlu untuk menyampaikan suatu maksud;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentuan (peraturan, petunjuk) yang harus diindahkan dan dilakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "biaya (barang-barang dsb) yang harus diberikan kepada guru pencak, dukun, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syarat",
+  "related": [],
+  "detailed": false
+}

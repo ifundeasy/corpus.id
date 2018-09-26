@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan cuaca umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakiraan pola cuaca utama yang diperkirakan akan terjadi di daerah yang luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan%20cuaca%20umum",
+  "related": [],
+  "detailed": false
+}

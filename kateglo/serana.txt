@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serana",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "link",
+        "text": "menyerana"
+      },
+      {
+        "type": "link",
+        "text": "sarana"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serana",
+  "related": [],
+  "detailed": false
+}

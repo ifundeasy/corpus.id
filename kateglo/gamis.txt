@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gamis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemeja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gamis",
+  "related": [],
+  "detailed": false
+}

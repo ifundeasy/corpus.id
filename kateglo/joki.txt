@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "joki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penunggang kuda pacuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengatur lagu yang menangani mesin perekam lagu atau piringan hitam (di studio radio atau diskotek);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengerjakan ujian untuk orang lain dengan menyamar sebagai peserta ujian yang sebenarnya dan menerima imbalan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memberi layanan kepada pengemudi kendaraan yang bukan angkutan umum untuk memenuhi ketentuan jumlah penumpang (tiga orang) ketika melewati kawasan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=joki",
+  "related": [],
+  "detailed": false
+}

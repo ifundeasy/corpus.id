@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memusing",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memusing",
+  "related": [],
+  "detailed": false
+}

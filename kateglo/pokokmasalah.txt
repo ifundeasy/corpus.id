@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pokok masalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masalah yang utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pokok%20masalah",
+  "related": [],
+  "detailed": false
+}

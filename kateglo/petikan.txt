@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memetik;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memetik seperti picu (bedil dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pemetik cembul (lampu listrik);"
+      },
+      {
+        "type": "desc",
+        "text": "kutipan; nukilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petikan",
+  "related": [],
+  "detailed": false
+}

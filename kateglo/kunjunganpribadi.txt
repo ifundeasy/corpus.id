@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kunjungan pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kunjungan kekeluargaan yang sifatnya tidak resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kunjungan%20pribadi",
+  "related": [],
+  "detailed": false
+}

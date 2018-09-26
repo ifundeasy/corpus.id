@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rembes",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merembes"
+      },
+      {
+        "type": "link",
+        "text": "merembes"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rembes",
+  "related": [],
+  "detailed": false
+}

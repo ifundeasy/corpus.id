@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan komune;"
+      },
+      {
+        "type": "desc",
+        "text": "milik rakyat atau umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunal",
+  "related": [],
+  "detailed": false
+}

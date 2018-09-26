@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buletin ramalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buletin yang memuat berita tentang keadaan cuaca yang telah lalu dan yang akan datang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buletin%20ramalan",
+  "related": [],
+  "detailed": false
+}

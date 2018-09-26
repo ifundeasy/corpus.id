@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "no",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) nomor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=no",
+  "related": [],
+  "detailed": false
+}

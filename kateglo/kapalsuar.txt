@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal suar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang ditempatkan di perairan tertentu yang berfungsi sebagai suar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20suar",
+  "related": [],
+  "detailed": false
+}

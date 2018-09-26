@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Injil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "kitab suci yang diturunkan kepada Nabi Isa;"
+      },
+      {
+        "type": "desc",
+        "text": "salah satu bagian dari kitab suci agama Kristen; Perjanjian Baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Injil",
+  "related": [],
+  "detailed": false
+}

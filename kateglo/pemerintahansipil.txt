@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerintahan sipil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemerintahan yang dipegang oleh orang-orang sipil (bukan pemerintahan militer);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerintahan%20sipil",
+  "related": [],
+  "detailed": false
+}

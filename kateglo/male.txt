@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "male",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan bagi wanita yang mandul (di Aceh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=male",
+  "related": [],
+  "detailed": false
+}

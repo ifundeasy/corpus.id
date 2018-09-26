@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gangguan jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidakseimbangan jiwa yang mengakibatkan terjadinya ketidaknormalan sikap tingkah laku;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit psikis yang dapat menghambat penyesuaian diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gangguan%20jiwa",
+  "related": [],
+  "detailed": false
+}

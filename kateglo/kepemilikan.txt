@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepemilikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pemilikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepemilikan",
+  "related": [],
+  "detailed": false
+}

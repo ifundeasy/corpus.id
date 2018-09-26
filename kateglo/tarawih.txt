@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Tarawih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat sunah pada malam hari (sesudah Isya, sebelum Subuh) pada bulan Ramadan (bulan puasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Tarawih",
+  "related": [],
+  "detailed": false
+}

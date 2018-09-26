@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa uang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bursa tempat menukarkan cek dengan segera apabila tidak terdapat bank yang terdekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20uang",
+  "related": [],
+  "detailed": false
+}

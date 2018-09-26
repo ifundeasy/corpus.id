@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentabilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil perolehan suatu investasi (penanaman modal) yang dinyatakan dengan persentase dari besarnya investasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentabilitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "museum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung yang digunakan sebagai tempat untuk pameran tetap benda-benda yang patut mendapat perhatian umum, seperti peninggalan sejarah, seni, dan ilmu; tempat menyimpan barang kuno;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=museum",
+  "related": [],
+  "detailed": false
+}

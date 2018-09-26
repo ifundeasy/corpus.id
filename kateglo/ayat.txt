@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ayat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alamat atau tanda;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa kalimat yang merupakan kesatuan maksud sebagai bagian surah dalam kitab suci Alquran;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa kalimat yang merupakan kesatuan maksud sebagai bagian pasal dalam undang-undang;"
+      },
+      {
+        "type": "desc",
+        "text": "kenyataan yang benar; bukti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayat",
+  "related": [],
+  "detailed": false
+}

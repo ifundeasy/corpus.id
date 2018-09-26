@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tata bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan kaidah tentang struktur gramatikal bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "buku tentang kaidah bahasa yang meliputi kaidah fonologi, morfologi, dan sintaksis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tata%20bahasa",
+  "related": [],
+  "detailed": false
+}

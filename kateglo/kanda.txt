@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kakak;"
+      },
+      {
+        "type": "desc",
+        "text": "tradisi; legenda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanda",
+  "related": [],
+  "detailed": false
+}

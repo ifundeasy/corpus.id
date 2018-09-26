@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) satuan ukuran berat 1/10 tahil (untuk menimbang madat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ci",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu; masa;"
+      },
+      {
+        "type": "desc",
+        "text": "ketika; saat;"
+      },
+      {
+        "type": "desc",
+        "text": "kesempatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelonggaran (untuk berpikir dsb); penundaan waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "batas waktu; janji (waktu yang dijanjikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempo",
+  "related": [],
+  "detailed": false
+}

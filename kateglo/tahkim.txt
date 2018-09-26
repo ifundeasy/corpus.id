@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahkim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menjadikan hakim;"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan (pertimbangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahkim",
+  "related": [],
+  "detailed": false
+}

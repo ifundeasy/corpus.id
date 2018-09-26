@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bel alarm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bel yang memberikan tanda peringatan berupa bunyi atau sinar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bel%20alarm",
+  "related": [],
+  "detailed": false
+}

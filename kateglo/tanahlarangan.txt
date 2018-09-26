@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah larangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang tidak boleh digarap atau dikerjakan oleh masyarakat karena digunakan sebagai kuburan, cagar alam, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20larangan",
+  "related": [],
+  "detailed": false
+}

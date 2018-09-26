@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telemetri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) cara mengukur dari jauh, biasanya dengan bantuan peranti komunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telemetri",
+  "related": [],
+  "detailed": false
+}

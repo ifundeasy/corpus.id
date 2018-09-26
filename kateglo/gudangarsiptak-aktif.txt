@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gudang arsip tak-aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan kumpulan surat yang sudah berkurang kegunaannya sebelum dimusnahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gudang%20arsip%20tak-aktif",
+  "related": [],
+  "detailed": false
+}

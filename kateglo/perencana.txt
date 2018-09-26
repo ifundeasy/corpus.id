@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyusun rencana (konsep, cerita, uraian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pembuat rencana (yang merencanakan); perancang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perencana",
+  "related": [],
+  "detailed": false
+}

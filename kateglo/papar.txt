@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "papar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "papak (tidak lancip);"
+      },
+      {
+        "type": "desc",
+        "text": "rata (tentang gigi);"
+      },
+      {
+        "type": "desc",
+        "text": "pesek; tidak mancung (tentang hidung);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian belakang atau punggung (tentang pisau, pedang, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "memapar"
+      },
+      {
+        "type": "link",
+        "text": "memapar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papar",
+  "related": [],
+  "detailed": false
+}

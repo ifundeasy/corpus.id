@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "parkir bawah tanah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tempat parkir yang terletak di dalam tanah (di bawah permukaan tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parkir%20bawah%20tanah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kandang mobil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garasi mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandang%20mobil",
+  "related": [],
+  "detailed": false
+}

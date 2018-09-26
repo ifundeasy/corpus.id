@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan reklame",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan untuk iklan yang dipasang di tempat terbuka dan mudah terlihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20reklame",
+  "related": [],
+  "detailed": false
+}

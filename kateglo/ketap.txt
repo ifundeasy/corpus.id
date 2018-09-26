@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengetap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketap",
+  "related": [],
+  "detailed": false
+}

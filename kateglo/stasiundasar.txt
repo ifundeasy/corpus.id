@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun rujukan yang digunakan untuk mendirikan stasiun tambahan yang berhubungan dengan stasiun pertama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20dasar",
+  "related": [],
+  "detailed": false
+}

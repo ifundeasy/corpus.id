@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bakat penyakit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tanda-tanda penyakit; prodomus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakat%20penyakit",
+  "related": [],
+  "detailed": false
+}

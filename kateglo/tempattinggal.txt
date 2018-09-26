@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempat tinggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah (bidang dsb) tempat orang diam (tinggal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempat%20tinggal",
+  "related": [],
+  "detailed": false
+}

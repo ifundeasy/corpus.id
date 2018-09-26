@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "miosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyempitan pupil mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=miosis",
+  "related": [],
+  "detailed": false
+}

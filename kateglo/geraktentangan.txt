@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gerak tentangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) gerak seorang pemain di atas pentas yang berlawanan dengan gerak kelompok pemain pada umumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerak%20tentangan",
+  "related": [],
+  "detailed": false
+}

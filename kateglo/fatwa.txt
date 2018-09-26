@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fatwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jawab (keputusan, pendapat) yang diberikan oleh mufti tentang suatu masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) nasihat orang alim; pelajaran baik; petuah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fatwa",
+  "related": [],
+  "detailed": false
+}

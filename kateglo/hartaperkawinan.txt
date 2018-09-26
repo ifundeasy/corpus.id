@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta perkawinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesatuan harta yang dikuasai dan dimiliki oleh suatu keluarga selama perkawinannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20perkawinan",
+  "related": [],
+  "detailed": false
+}

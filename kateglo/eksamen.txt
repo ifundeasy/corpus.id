@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksamen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian (untuk kenaikan tingkat, kelas, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksamen",
+  "related": [],
+  "detailed": false
+}

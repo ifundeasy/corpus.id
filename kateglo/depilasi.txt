@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "depilasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "proses membuang rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) pembuangan rambut dari kulit binatang dalam proses penyamakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depilasi",
+  "related": [],
+  "detailed": false
+}

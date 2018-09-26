@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat perekam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "instrumen untuk merekam suara pada piringan hitam atau pita magnetik;"
+      },
+      {
+        "type": "desc",
+        "text": "instrumen untuk merekam gambar pada film atau televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20perekam",
+  "related": [],
+  "detailed": false
+}

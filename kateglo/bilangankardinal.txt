@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan kardinal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang menyatakan banyaknya anggota suatu himpunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20kardinal",
+  "related": [],
+  "detailed": false
+}

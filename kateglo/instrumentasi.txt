@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instrumentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "penyusunan (kom-posisi, aransemen) sebuah permainan musik;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai sifat-sifat khas dari berbagai alat musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instrumentasi",
+  "related": [],
+  "detailed": false
+}

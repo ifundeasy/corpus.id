@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpaham",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai paham (pendapat, pendirian);"
+      },
+      {
+        "type": "desc",
+        "text": "beraliran;"
+      },
+      {
+        "type": "desc",
+        "text": "berakal; berbudi; bijaksana; berpengalaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpaham",
+  "related": [],
+  "detailed": false
+}

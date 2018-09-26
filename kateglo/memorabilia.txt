@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "memorabilia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu atau peristiwa yang patut dikenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memorabilia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menganan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengarah ke sebelah kanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) berpindah haluan ke partai kanan;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan arah angin mengikuti putaran jarum jam (misal dari selatan ke barat daya atau barat) di kedua belahan bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan arah angin mengikuti putaran jarum jam di belahan bumi utara, berlawanan dengan arah jarum jam di belahan bumi selatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menganan",
+  "related": [],
+  "detailed": false
+}

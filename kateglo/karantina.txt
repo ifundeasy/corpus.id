@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karantina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat penampungan yang lokasinya terpencil guna mencegah terjadinya penularan (pengaruh dsb) penyakit dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) tempat untuk menahan ternak impor yang baru datang dari luar negeri, guna mencegah penyebaran penyakit menular;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karantina",
+  "related": [],
+  "detailed": false
+}

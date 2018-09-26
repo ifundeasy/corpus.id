@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang pekerjaan yang dilandasi pendidikan keahlian (keterampilan, kejuruan, dsb) tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profesi",
+  "related": [],
+  "detailed": false
+}

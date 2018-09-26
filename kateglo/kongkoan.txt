@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongkoan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung untuk umum (terutama di kalangan masyarakat Cina);"
+      },
+      {
+        "type": "desc",
+        "text": "majelis (penasihat) urusan Cina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongkoan",
+  "related": [],
+  "detailed": false
+}

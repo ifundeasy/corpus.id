@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lamur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak terang penglihatan; rabun;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging yang banyak lemaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lamur",
+  "related": [],
+  "detailed": false
+}

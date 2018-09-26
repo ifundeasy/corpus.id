@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "raksasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makhluk yang menyerupai manusia, konon berbadan tinggi besar; gergasi; buta;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang sangat besar, sangat terkenal di bidang tertentu, dsb;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) besar sekali (melebihi ukuran biasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raksasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagnosis medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan jenis penyakit berdasarkan tanda dan gejala dengan menggunakan cara dan alat seperti laboratorium, foto, dan klinik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagnosis%20medis",
+  "related": [],
+  "detailed": false
+}

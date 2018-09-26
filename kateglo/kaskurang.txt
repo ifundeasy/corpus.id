@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kas kurang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saldo buku kas yang lebih besar daripada jumlah uang tunai yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kas%20kurang",
+  "related": [],
+  "detailed": false
+}

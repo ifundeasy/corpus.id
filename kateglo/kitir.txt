@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kitir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "surat keterangan pajak bumi yang harus dibayar oleh pemilik tanah;"
+      },
+      {
+        "type": "link",
+        "text": "kitiran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitir",
+  "related": [],
+  "detailed": false
+}

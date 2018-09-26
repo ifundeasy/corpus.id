@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekognisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal atau keadaan yang diakui; pengakuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengenalan;"
+      },
+      {
+        "type": "desc",
+        "text": "penghargaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekognisi",
+  "related": [],
+  "detailed": false
+}

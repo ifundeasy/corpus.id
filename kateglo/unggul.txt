@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unggul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih tinggi (pandai, baik, cakap, kuat, awet, dsb) daripada yang lain-lain; utama (terbaik, terutama);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unggul",
+  "related": [],
+  "detailed": false
+}

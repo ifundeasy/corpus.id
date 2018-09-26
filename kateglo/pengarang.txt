@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengarang cerita, berita, buku, dsb; penulis;"
+      },
+      {
+        "type": "desc",
+        "text": "pencipta; penggubah (lagu, nyanyian, musik, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarang",
+  "related": [],
+  "detailed": false
+}

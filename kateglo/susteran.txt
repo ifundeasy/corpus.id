@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "susteran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah yang dikelola oleh biarawati;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat biarawati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susteran",
+  "related": [],
+  "detailed": false
+}

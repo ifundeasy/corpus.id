@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 0,001 m (disingkat mm);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milimeter",
+  "related": [],
+  "detailed": false
+}

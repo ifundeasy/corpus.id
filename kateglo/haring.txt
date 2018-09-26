@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jebak; jerat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbau seperti air kencing; pesing;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut dengan badan bulat agak panjang, hidup berkelompok di Lautan Atlantik dan sekitarnya; Clupea harengas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haring",
+  "related": [],
+  "detailed": false
+}

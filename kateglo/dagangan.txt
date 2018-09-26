@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dagangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang diperjualbelikan (diperdagangkan);"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang yang dipikul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dagangan",
+  "related": [],
+  "detailed": false
+}

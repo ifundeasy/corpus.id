@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kopek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pundi-pundi tempat uang; dompet; kantong; tas;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengopek"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang terkelepai (tentang payudara yang kempes atau yang tidak montok);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) uang tembaga Rusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopek",
+  "related": [],
+  "detailed": false
+}

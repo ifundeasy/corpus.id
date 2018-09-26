@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rinitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang selaput lendir hidung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rinitis",
+  "related": [],
+  "detailed": false
+}

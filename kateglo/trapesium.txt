@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trapesium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bangun segi empat yang dua buah sisinya sejajar, tetapi tidak sama panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trapesium",
+  "related": [],
+  "detailed": false
+}

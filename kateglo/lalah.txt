@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lalah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka makan sebarang makanan; rakus;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melalah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lalah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ke sungai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "menuju sungai;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) buang air besar (biasanya di sungai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ke%20sungai",
+  "related": [],
+  "detailed": false
+}

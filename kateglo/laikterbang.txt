@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laik terbang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "laik udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laik%20terbang",
+  "related": [],
+  "detailed": false
+}

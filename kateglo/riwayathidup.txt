@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "riwayat hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uraian tentang segala sesuatu yang telah dialami (dijalankan) seseorang; biografi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=riwayat%20hidup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "individu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang seorang; pribadi orang (terpisah dari yang lain);"
+      },
+      {
+        "type": "desc",
+        "text": "organisme yang hidupnya berdiri sendiri, secara fisiologi ia bersifat bebas (tidak mempunyai hubungan organik dengan sesamanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=individu",
+  "related": [],
+  "detailed": false
+}

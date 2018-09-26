@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyaliran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuangan air yang berlebihan atau yang tidak diperlukan (melalui pipa, terusan, atau saluran lainnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyaliran",
+  "related": [],
+  "detailed": false
+}

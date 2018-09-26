@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyingkat (memendekkan), berupa huruf atau gabungan huruf (misal DPR, KKN, yth., dsb., dan hlm.);"
+      },
+      {
+        "type": "desc",
+        "text": "kependekan; ringkasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkatan",
+  "related": [],
+  "detailed": false
+}

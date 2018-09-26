@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "imbangan; bandingan; tandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "pasangan; teman;"
+      },
+      {
+        "type": "desc",
+        "text": "musuh; seteru;"
+      },
+      {
+        "type": "desc",
+        "text": "kebalikan; yang bertentangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentang; menghadapi; berbanding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawan",
+  "related": [],
+  "detailed": false
+}

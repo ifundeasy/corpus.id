@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari raya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari yang dirayakan untuk memperingati sesuatu yang penting;"
+      },
+      {
+        "type": "desc",
+        "text": "Idulfitri; Lebaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20raya",
+  "related": [],
+  "detailed": false
+}

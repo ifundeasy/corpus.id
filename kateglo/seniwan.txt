@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seniwan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "seniman"
+      },
+      {
+        "type": "link",
+        "text": "senewen"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seniwan",
+  "related": [],
+  "detailed": false
+}

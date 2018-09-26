@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku, majalah, atau laporan yang diterbitkan setahun sekali; buku tahunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anual",
+  "related": [],
+  "detailed": false
+}

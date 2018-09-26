@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat rekomendasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang menyatakan, menguatkan, membenarkan, dsb bahwa orang yang disebut dapat di percaya, baik, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20rekomendasi",
+  "related": [],
+  "detailed": false
+}

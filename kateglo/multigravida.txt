@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multigravida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) wanita hamil dan telah hamil lebih dari satu kali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multigravida",
+  "related": [],
+  "detailed": false
+}

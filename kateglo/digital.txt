@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "digital",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan angka-angka untuk sistem perhitungan tertentu; berhubungan dengan penomoran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=digital",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "privatisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjadi milik perseorangan (dari milik negara); swastanisasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) penjualan sebagian atau semua saham sebuah perusahaan milik pemerintah kepada publik, baik melalui penjualan langsung ke perusahaan swasta nasional dan asing maupun melalui bursa efek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=privatisasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kronologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang pengukuran kesatuan waktu (seperti dalam astronomi dan geologi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan waktu dari sejumlah kejadian atau peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kronologi",
+  "related": [],
+  "detailed": false
+}

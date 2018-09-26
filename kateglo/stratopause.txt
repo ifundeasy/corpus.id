@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stratopause",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puncak lapisan inversi di bagian atas stratosfer yang tingginya antara 50— 55 km;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stratopause",
+  "related": [],
+  "detailed": false
+}

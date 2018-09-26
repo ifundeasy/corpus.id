@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksara morfemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem tulisan yang menggunakan satu lambang untuk menggambarkan satu morfem, misal aksara Cina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara%20morfemis",
+  "related": [],
+  "detailed": false
+}

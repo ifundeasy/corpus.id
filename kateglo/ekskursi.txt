@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekskursi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan untuk bersenang-senang; piknik; darmawisata;"
+      },
+      {
+        "type": "desc",
+        "text": "penyimpangan dari arah yang pasti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekskursi",
+  "related": [],
+  "detailed": false
+}

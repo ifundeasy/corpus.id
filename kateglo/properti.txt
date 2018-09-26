@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "properti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta berupa tanah dan bangunan serta sarana dan prasarana yang merupakan bagian yang tidak terpisahkan dari tanah dan/atau bangunan yang dimaksudkan; tanah milik dan bangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=properti",
+  "related": [],
+  "detailed": false
+}

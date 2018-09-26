@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terminologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peristilahan (tentang kata-kata);"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu mengenai batasan atau definisi istilah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terminologi",
+  "related": [],
+  "detailed": false
+}

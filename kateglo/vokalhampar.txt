@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal hampar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang dihasilkan dengan bibir melebar, misal [e] dalam teh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20hampar",
+  "related": [],
+  "detailed": false
+}

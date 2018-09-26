@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bigamis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bigami; orang yang beristri (bersuami) dua;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan beristri (bersuami) dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bigamis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silikosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit paru-paru akibat terhirupnya debu batuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silikosis",
+  "related": [],
+  "detailed": false
+}

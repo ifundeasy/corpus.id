@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam bahasa yang digunakan oleh wartawan yang memiliki sifat khas, yaitu singkat, padat, sederhana, lancar, jelas, dan menarik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20pers",
+  "related": [],
+  "detailed": false
+}

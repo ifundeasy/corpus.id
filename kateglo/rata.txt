@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai permukaan yang sama tinggi dan/atau sama rendah; papar;"
+      },
+      {
+        "type": "desc",
+        "text": "meliputi semua bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "tersebar ke segenap penjuru; terdapat (ditemukan) di seluruh tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "sama-sama memperoleh jumlah yang sama;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) kereta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rata",
+  "related": [],
+  "detailed": false
+}

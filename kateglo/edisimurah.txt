@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi murah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan ulang sebuah buku dalam bentuk yang lebih sederhana dan dengan harga yang lebih murah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20murah",
+  "related": [],
+  "detailed": false
+}

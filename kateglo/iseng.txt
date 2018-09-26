@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iseng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa menganggur (tidak ada yang perlu segera dikerjakan);"
+      },
+      {
+        "type": "desc",
+        "text": "(berbuat atau mengerjakan sesuatu supaya jangan menganggur) sebagai perintang-rintang waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau menganggur (rewel, suka mengganggu, suka omong, suka makan apa saja, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sekadar main-main; tidak bersungguh-sungguh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iseng",
+  "related": [],
+  "detailed": false
+}

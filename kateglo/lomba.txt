@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lomba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adu kecepatan (berlari, berenang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "adu keterampilan (ketangkasan, kekuatan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lomba",
+  "related": [],
+  "detailed": false
+}

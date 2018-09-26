@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengetip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang-binatang kecil yang mengetip (nyamuk, semut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengetip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengetip",
+  "related": [],
+  "detailed": false
+}

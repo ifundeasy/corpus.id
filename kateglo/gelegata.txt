@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelegata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit yang menimbulkan rasa sangat gatal (terutama di sela-sela jari kaki);"
+      },
+      {
+        "type": "desc",
+        "text": "bintil-bintil pada kulit (badan) karena kena jelatang, ulat bulu, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kerut-kerut pada kulit (karena kedinginan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelegata",
+  "related": [],
+  "detailed": false
+}

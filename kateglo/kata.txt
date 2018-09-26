@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unsur bahasa yang diucapkan atau dituliskan yang merupakan perwujudan kesatuan perasaan dan pikiran yang dapat digunakan dalam berbahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "ujar; bicara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) morfem atau kombinasi morfem yang oleh bahasawan dianggap sebagai satuan terkecil yang dapat diujarkan sebagai bentuk yang bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bahasa yang dapat berdiri sendiri, terjadi dari morfem tunggal (misal batu, rumah, datang) atau gabungan morfem (misal pejuang, pancasila, mahakuasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata",
+  "related": [],
+  "detailed": false
+}

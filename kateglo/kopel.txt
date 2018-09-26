@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kopel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berpasangan; bergandengan (saling berhubungan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepasang kakas yang sejajar, sama besar, tetapi berlawanan arah; pasangan kakas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopel",
+  "related": [],
+  "detailed": false
+}

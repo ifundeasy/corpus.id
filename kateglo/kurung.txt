@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (...) yang mengapit tambahan keterangan atau penjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda untuk mengumpulkan beberapa unsur menjadi satu kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkung; lingkar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurung",
+  "related": [],
+  "detailed": false
+}

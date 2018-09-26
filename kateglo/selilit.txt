@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selilit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu lilit (belit);"
+      },
+      {
+        "type": "desc",
+        "text": "sekeliling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selilit",
+  "related": [],
+  "detailed": false
+}

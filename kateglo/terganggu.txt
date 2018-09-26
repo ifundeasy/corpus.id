@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terganggu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terhalang; mendapat rintangan;"
+      },
+      {
+        "type": "desc",
+        "text": "tergoda;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang sehat; tidak normal (tentang kesehatan, pikiran, jiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lancar; terhenti (untuk sementara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terganggu",
+  "related": [],
+  "detailed": false
+}

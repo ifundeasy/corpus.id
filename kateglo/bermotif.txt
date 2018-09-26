@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermotif",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai pola; bercorak;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai motif (sebab, alasan, latar belakang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermotif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "perih; pedih;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung kecil, paling panjang 12 cm, hidup berkelompok di pohon rendah dan semak dekat sawah, berbulu merah kecokelat-cokelatan, dengan bulu leher hitam, pemakan biji-bijian, kadang-kadang makan serangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perit",
+  "related": [],
+  "detailed": false
+}

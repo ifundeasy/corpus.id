@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersoal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertanya; memajukan soal;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai soal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) beralasan (mengajukan alasan untuk menolak dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersoal",
+  "related": [],
+  "detailed": false
+}

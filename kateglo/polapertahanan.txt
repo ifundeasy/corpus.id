@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola pertahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagan pertahanan yang sudah diduduki yang menggambarkan kedudukan eselon pos komando, lingkaran kemampuan satuan tembak dan satuan radar, serta sistem komunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20pertahanan",
+  "related": [],
+  "detailed": false
+}

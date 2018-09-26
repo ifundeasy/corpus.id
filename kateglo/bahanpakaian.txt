@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pakaian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan (kain, cita) untuk dibuat pakaian; bakal pakaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pakaian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sewa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemakaian sesuatu dengan membayar uang;"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan karena memakai atau meminjam sesuatu; ongkos; biaya pengangkutan (transpor);"
+      },
+      {
+        "type": "desc",
+        "text": "yang boleh dipakai setelah dibayar dengan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sewa",
+  "related": [],
+  "detailed": false
+}

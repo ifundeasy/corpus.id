@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni suara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni olah suara atau bunyi (nyanyian, musik, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pronomina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang dipakai untuk mengganti orang atau benda; kata ganti seperti aku, engkau, dia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pronomina",
+  "related": [],
+  "detailed": false
+}

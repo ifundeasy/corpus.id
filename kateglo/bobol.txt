@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bobol",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jebol atau rusak (tentang bendungan dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tembus (tentang barisan, pertahanan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobol",
+  "related": [],
+  "detailed": false
+}

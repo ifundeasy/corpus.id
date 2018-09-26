@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asortimen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan barang pilihan dari benda yang bersesuaian atau berlainan (dalam toko dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asortimen",
+  "related": [],
+  "detailed": false
+}

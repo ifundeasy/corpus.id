@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akta autentik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akta yang dibuat oleh atau di hadapan pejabat umum yang berwenang membuat akta dalam bentuk yang ditentukan oleh undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akta%20autentik",
+  "related": [],
+  "detailed": false
+}

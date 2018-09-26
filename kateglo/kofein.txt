@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kofein",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kafeina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kofein",
+  "related": [],
+  "detailed": false
+}

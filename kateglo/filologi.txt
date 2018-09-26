@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) ilmu tentang bahasa, kebudayaan, pranata, dan sejarah suatu bangsa sebagaimana terdapat dalam bahan-bahan tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filologi",
+  "related": [],
+  "detailed": false
+}

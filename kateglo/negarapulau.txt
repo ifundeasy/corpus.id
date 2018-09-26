@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara pulau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang wilayahnya terdiri dari sebuah pulau;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan untuk negara Singapura;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20pulau",
+  "related": [],
+  "detailed": false
+}

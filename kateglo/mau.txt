@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mau",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sungguh-sungguh suka hendak; suka akan; sudi;"
+      },
+      {
+        "type": "desc",
+        "text": "akan; hendak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehendak; maksud;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "baik ..., baik ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mau",
+  "related": [],
+  "detailed": false
+}

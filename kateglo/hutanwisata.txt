@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawasan hutan yang dibina dan dipelihara secara khusus guna kepentingan pariwisata dan wisata buru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20wisata",
+  "related": [],
+  "detailed": false
+}

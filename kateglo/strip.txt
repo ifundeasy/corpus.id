@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "strip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit tumbuhan yang ditandai dengan gejala perubahan warna berbentuk garis panjang-panjang tidak menentu, yang umumnya menyerang batang atau daun yang penulangannya sejajar;"
+      },
+      {
+        "type": "link",
+        "text": "setrip"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strip",
+  "related": [],
+  "detailed": false
+}

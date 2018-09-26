@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "infeksi nifas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi pada organ genitalia yang terjadi setelah persalinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infeksi%20nifas",
+  "related": [],
+  "detailed": false
+}

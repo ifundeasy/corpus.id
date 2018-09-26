@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlebih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada lebihnya; bersisa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlebih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakiraan iklim suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan%20iklim",
+  "related": [],
+  "detailed": false
+}

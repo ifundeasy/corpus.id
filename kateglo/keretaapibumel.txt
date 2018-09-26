@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta api bumel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) kereta api yang berhenti di setiap stasiun, baik stasiun kecil maupun besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20api%20bumel",
+  "related": [],
+  "detailed": false
+}

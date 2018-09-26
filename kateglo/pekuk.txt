@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pekuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "mencong atau bengkok ke luar (tentang tangan, kaki); bengkok;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memekuk"
+      },
+      {
+        "type": "link",
+        "text": "pekik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekuk",
+  "related": [],
+  "detailed": false
+}

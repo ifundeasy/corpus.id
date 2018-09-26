@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memarih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjatuhkan dadu (ketika bermain atau mengundi); membuang (dadu);"
+      },
+      {
+        "type": "desc",
+        "text": "membagi-bagikan (kartu permainan dalam judi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengundi;"
+      },
+      {
+        "type": "desc",
+        "text": "meramal dengan kartu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memarih",
+  "related": [],
+  "detailed": false
+}

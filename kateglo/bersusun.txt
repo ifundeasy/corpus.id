@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersusun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertumpuk (tindih-menindih);"
+      },
+      {
+        "type": "desc",
+        "text": "berlapis-lapis; bersaf-saf;"
+      },
+      {
+        "type": "desc",
+        "text": "bertingkat(-tingkat);"
+      },
+      {
+        "type": "desc",
+        "text": "teratur baik (berleret, berturut-turut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersusun",
+  "related": [],
+  "detailed": false
+}

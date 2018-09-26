@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magnetometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur atau menentukan tempat bahan galian besi, bahan besi yang ada di dalam tanah yang dapat mengubah jarum kompas dengan tiba-tiba;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kuat medan magnet bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magnetometer",
+  "related": [],
+  "detailed": false
+}

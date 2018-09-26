@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "entah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan atau menjawab bahwa tidak tahu;"
+      },
+      {
+        "type": "desc",
+        "text": "boleh jadi;"
+      },
+      {
+        "type": "desc",
+        "text": "baik ... maupun ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "loran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) sistem navigasi elektronik yang menghasilkan garis posisi hiperbola dengan mengukur selisih waktu penerimaan sinyal pulsa yang dibuat selaras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=loran",
+  "related": [],
+  "detailed": false
+}

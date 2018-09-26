@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi global",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "radiasi surya langsung ke bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "radiasi surya yang datang dari piringan matahari dengan sudut utuh yang tidak terhambur dan tidak terpantul oleh atmosfer atau benda-benda lain di dalam atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20global",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proyeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar suatu benda yang dibuat rata (mendatar) atau berupa garis pada bidang datar;"
+      },
+      {
+        "type": "desc",
+        "text": "perkiraan tentang keadaan masa yang akan datang dengan menggunakan data yang ada (sekarang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proyeksi",
+  "related": [],
+  "detailed": false
+}

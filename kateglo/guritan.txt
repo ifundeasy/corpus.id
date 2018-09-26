@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guritan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan berbentuk puisi yang berirama;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guritan",
+  "related": [],
+  "detailed": false
+}

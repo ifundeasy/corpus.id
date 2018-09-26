@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepramukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (kegiatan dsb) yang berhubungan dengan pramuka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepramukaan",
+  "related": [],
+  "detailed": false
+}

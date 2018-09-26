@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesatuan ujar yang mengungkapkan suatu konsep pikiran dan perasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bahasa yang secara relatif berdiri sendiri, mempunyai pola intonasi final dan secara aktual ataupun potensial terdiri atas klausa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat",
+  "related": [],
+  "detailed": false
+}

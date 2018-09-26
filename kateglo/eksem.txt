@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit, biasanya berasa amat gatal, yang menimbulkan bintik-bintik atau gelembung-gelembung kecil, bercak berwarna kemerah-merahan yang mengerisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksem",
+  "related": [],
+  "detailed": false
+}

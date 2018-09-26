@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bisa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mampu (kuasa melakukan sesuatu); dapat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat racun yang dapat menyebabkan luka, busuk, atau mati bagi sesuatu yang hidup (biasanya terdapat pada binatang);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang buruk, yang dapat merusakkan akhlak manusia atau masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bisa",
+  "related": [],
+  "detailed": false
+}

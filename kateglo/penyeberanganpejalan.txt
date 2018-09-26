@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyeberangan pejalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lajur dengan tanda setrip putih pada jalan tempat pejalan kaki menyeberang jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyeberangan%20pejalan",
+  "related": [],
+  "detailed": false
+}

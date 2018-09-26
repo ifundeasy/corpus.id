@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biro kepegawaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unit kerja di suatu instansi untuk mengurusi kepegawaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro%20kepegawaian",
+  "related": [],
+  "detailed": false
+}

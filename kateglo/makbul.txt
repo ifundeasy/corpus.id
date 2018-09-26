@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makbul",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "diluluskan (tentang permintaan, doa); terkabul;"
+      },
+      {
+        "type": "desc",
+        "text": "berhasil; tercapai (tentang maksud);"
+      },
+      {
+        "type": "desc",
+        "text": "manjur (tentang obat, guna-guna, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makbul",
+  "related": [],
+  "detailed": false
+}

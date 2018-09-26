@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai pelepasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai residu atau sisa aktiva tetap pada saat aktiva tersebut tidak digunakan dalam proses produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20pelepasan",
+  "related": [],
+  "detailed": false
+}

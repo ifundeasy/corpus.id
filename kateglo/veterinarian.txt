@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "veterinarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam ilmu penyakit hewan; dokter hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=veterinarian",
+  "related": [],
+  "detailed": false
+}

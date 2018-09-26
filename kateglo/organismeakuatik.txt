@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisme akuatik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme yang hidup di perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisme%20akuatik",
+  "related": [],
+  "detailed": false
+}

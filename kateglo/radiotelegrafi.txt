@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiotelegrafi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem komunikasi telegraf melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiotelegrafi",
+  "related": [],
+  "detailed": false
+}

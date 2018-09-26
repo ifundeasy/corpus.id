@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tatah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pahat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bertatah"
+      },
+      {
+        "type": "desc",
+        "text": "mulai dapat berjalan (tentang kanak-kanak ); tatih;"
+      },
+      {
+        "type": "link",
+        "text": "tatah-tatah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tatah",
+  "related": [],
+  "detailed": false
+}

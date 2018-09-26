@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "survei udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan penyelidikan yang dilakukan di udara oleh suatu alat atau sekelompok manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=survei%20udara",
+  "related": [],
+  "detailed": false
+}

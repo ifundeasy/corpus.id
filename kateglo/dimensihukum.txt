@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dimensi hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segi hukum yang menjadi pusat tinjauan ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dimensi%20hukum",
+  "related": [],
+  "detailed": false
+}

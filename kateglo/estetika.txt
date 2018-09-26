@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "estetika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang filsafat yang menelaah dan membahas tentang seni dan keindahan serta tanggapan manusia terhadapnya;"
+      },
+      {
+        "type": "desc",
+        "text": "kepekaan terhadap seni dan keindahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=estetika",
+  "related": [],
+  "detailed": false
+}

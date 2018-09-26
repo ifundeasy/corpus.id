@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peras",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memeras"
+      },
+      {
+        "type": "desc",
+        "text": "licin;"
+      },
+      {
+        "type": "desc",
+        "text": "rata; paras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peras",
+  "related": [],
+  "detailed": false
+}

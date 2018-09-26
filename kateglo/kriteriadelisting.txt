@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kriteria delisting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) ukuran yang menjadi dasar penilaian atau penetapan dicoretnya (dikeluarkannya) suatu lembaga atau badan dari papan bursa efek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriteria%20delisting",
+  "related": [],
+  "detailed": false
+}

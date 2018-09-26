@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat inversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat dengan susunan predikat mendahului subjek; kalimat susun balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20inversi",
+  "related": [],
+  "detailed": false
+}

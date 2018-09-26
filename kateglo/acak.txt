@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "acak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tanpa pola; sebarang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) penggambaran suatu pemilihan yang tidak dibatasi atau kalau dibatasi haruslah diwujudkan dengan menggunakan pemilihan peluang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) acap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acak",
+  "related": [],
+  "detailed": false
+}

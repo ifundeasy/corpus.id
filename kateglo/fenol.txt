@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fenol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa kristal beracun yang terdapat di dalam hasil pembakaran arang atau kayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fenol",
+  "related": [],
+  "detailed": false
+}

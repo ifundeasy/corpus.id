@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kriminal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan kejahatan (pelanggaran hukum) yang dapat dihukum menurut undang-undang; pidana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriminal",
+  "related": [],
+  "detailed": false
+}

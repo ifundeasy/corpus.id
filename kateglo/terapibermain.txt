@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terapi bermain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik penyembuhan penyakit melalui kegiatan bermain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi%20bermain",
+  "related": [],
+  "detailed": false
+}

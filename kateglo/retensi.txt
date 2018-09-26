@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyimpanan; penahanan;"
+      },
+      {
+        "type": "desc",
+        "text": "penahanan terus-menerus zat dalam tubuh yang secara normal seharusnya dikeluarkan (seperti kencing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retensi",
+  "related": [],
+  "detailed": false
+}

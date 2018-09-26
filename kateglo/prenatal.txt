@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prenatal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "yang bersangkutan dengan hal atau keadaan sebelum melahirkan; pranatal; sebelum kelahiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prenatal",
+  "related": [],
+  "detailed": false
+}

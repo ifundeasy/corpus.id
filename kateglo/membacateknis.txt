@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membaca teknis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(sebagai mata pelajaran) membaca nyaring dengan memperhatikan nada, dinamika, dan tempo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membaca%20teknis",
+  "related": [],
+  "detailed": false
+}

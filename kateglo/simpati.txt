@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa kasih; rasa setuju (kepada); rasa suka;"
+      },
+      {
+        "type": "desc",
+        "text": "keikutsertaan merasakan perasaan (senang, susah, dsb) orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpati",
+  "related": [],
+  "detailed": false
+}

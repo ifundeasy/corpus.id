@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naluri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dorongan hati atau nafsu yang dibawa sejak lahir; pembawaan alami yang tidak disadari mendorong untuk berbuat sesuatu; insting;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) perbuatan atau reaksi yang sangat majemuk dan tidak dipelajari yang dipakai untuk mempertahankan hidup, terdapat pada semua jenis makhluk hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) serangkaian kegiatan refleks terkoordinasi, masing-masing terjadi apabila yang sebelumnya telah diselesaikan; reaksi yang tidak bergantung pada pengalaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naluri",
+  "related": [],
+  "detailed": false
+}

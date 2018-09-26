@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang seorang (terpisah dari yang lain); badan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "dipakai sebagai pelengkap beberapa kata kerja untuk menyatakan bahwa penderitanya atau tujuannya adalah badan sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) engkau;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berdiri"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diri",
+  "related": [],
+  "detailed": false
+}

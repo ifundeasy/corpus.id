@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kocak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak bolak-balik (kanan-kiri) yang cepat (tentang benda cair); guncang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lucu; jenaka;"
+      },
+      {
+        "type": "desc",
+        "text": "gagah; bagus sekali; serba baik;"
+      },
+      {
+        "type": "desc",
+        "text": "sombong; congkak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kocak",
+  "related": [],
+  "detailed": false
+}

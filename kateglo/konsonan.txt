@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsonan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi bahasa yang dihasilkan dengan menghambat aliran udara pada salah satu tempat di saluran suara di atas glotis;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi bahasa yang dapat berada pada tepi suku kata dan tidak sebagai inti suku kata;"
+      },
+      {
+        "type": "desc",
+        "text": "fonem yang mewakili suatu bunyi kontoid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsonan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memvaksinasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan vaksinasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memvaksinasi",
+  "related": [],
+  "detailed": false
+}

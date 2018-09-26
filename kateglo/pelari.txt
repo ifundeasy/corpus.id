@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang lari;"
+      },
+      {
+        "type": "desc",
+        "text": "peserta lomba lari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelari",
+  "related": [],
+  "detailed": false
+}

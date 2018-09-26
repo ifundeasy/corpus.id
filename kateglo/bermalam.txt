@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermalam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menumpang tidur; menginap;"
+      },
+      {
+        "type": "desc",
+        "text": "telah dimasak kemarin; sudah basi (tidak segar atau baru lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermalam",
+  "related": [],
+  "detailed": false
+}

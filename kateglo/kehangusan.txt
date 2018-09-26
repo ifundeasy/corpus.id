@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehangusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal hangus;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "terbakar hangus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehangusan",
+  "related": [],
+  "detailed": false
+}

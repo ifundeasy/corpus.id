@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sensoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyensor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensoran",
+  "related": [],
+  "detailed": false
+}

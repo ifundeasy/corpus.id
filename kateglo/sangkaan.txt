@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sangkaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dugaan; perkiraan;"
+      },
+      {
+        "type": "desc",
+        "text": "keraguan; kesangsian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangkaan",
+  "related": [],
+  "detailed": false
+}

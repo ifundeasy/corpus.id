@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hektare",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran luas 10.000 m2 atau 100 are (disingkat ha);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hektare",
+  "related": [],
+  "detailed": false
+}

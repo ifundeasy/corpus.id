@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektromotif",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "tenaga"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektromotif",
+  "related": [],
+  "detailed": false
+}

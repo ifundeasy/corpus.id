@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ubi"
+      },
+      {
+        "type": "desc",
+        "text": "paku besi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampa",
+  "related": [],
+  "detailed": false
+}

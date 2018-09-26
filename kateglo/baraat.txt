@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baraat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "langkah;"
+      },
+      {
+        "type": "desc",
+        "text": "pengawal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baraat",
+  "related": [],
+  "detailed": false
+}

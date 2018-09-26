@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang tanam-tanaman (bercocok tanam dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20pertanian",
+  "related": [],
+  "detailed": false
+}

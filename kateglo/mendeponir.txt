@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendeponir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menaruh untuk disimpan (uang dalam bank);"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpan untuk tidak digarap (perkara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendeponir",
+  "related": [],
+  "detailed": false
+}

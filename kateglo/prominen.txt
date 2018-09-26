@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prominen",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkemuka (tentang orang);"
+      },
+      {
+        "type": "desc",
+        "text": "menonjol (tentang benjolan, tulang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prominen",
+  "related": [],
+  "detailed": false
+}

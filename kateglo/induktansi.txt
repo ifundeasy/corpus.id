@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "induktansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) bagian impedansi yang disebabkan oleh induktor atau kumparan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induktansi",
+  "related": [],
+  "detailed": false
+}

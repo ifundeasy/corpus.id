@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perajin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bersifat rajin;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang mendorong untuk menjadi rajin;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya (profesinya) membuat barang kerajinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perajin",
+  "related": [],
+  "detailed": false
+}

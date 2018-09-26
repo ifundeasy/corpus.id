@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan pengangkut penumpang dan barang di laut (sungai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kulit yang menebal dan mengeras; belulang (pada kaki, telapak tangan, dll);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal",
+  "related": [],
+  "detailed": false
+}

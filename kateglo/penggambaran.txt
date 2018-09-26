@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggambaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membuat gambar;"
+      },
+      {
+        "type": "desc",
+        "text": "penceritaan; penguraian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggambaran",
+  "related": [],
+  "detailed": false
+}

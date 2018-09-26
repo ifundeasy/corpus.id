@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu yang berkaitan dengan proses mental, baik normal maupun abnormal dan pengaruhnya pada perilaku; ilmu pengetahuan tentang gejala dan kegiatan jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikologi",
+  "related": [],
+  "detailed": false
+}

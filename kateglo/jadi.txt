@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jadi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "langsung berlaku (dilakukan, dikerjakan); tidak batal;"
+      },
+      {
+        "type": "desc",
+        "text": "betul-betul terjadi; menjadi kenyataan (berhasil);"
+      },
+      {
+        "type": "desc",
+        "text": "selesai dibuat;"
+      },
+      {
+        "type": "desc",
+        "text": "lahir; dilahirkan;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah selesai dibuat; siap pakai;"
+      },
+      {
+        "type": "desc",
+        "text": "baiklah begitu; setuju;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) Kaprikornus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jadi",
+  "related": [],
+  "detailed": false
+}

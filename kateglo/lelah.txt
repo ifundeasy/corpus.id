@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lelah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penat; letih; payah; lesu; tidak bertenaga;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) kecenderungan retak atau patah pada logam apabila mengalami tegangan berulang kali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melelah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lelah",
+  "related": [],
+  "detailed": false
+}

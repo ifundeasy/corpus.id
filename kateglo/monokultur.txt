@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monokultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) penanaman satu jenis tanaman dalam suatu urutan musim pada tanah yang sama (misal baik pada musim hujan maupun musim kemarau hanya ditanami padi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monokultur",
+  "related": [],
+  "detailed": false
+}

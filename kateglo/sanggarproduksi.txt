@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sanggar produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sanggar tempat berproduksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanggar%20produksi",
+  "related": [],
+  "detailed": false
+}

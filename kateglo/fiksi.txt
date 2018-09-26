@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fiksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "cerita rekaan (roman, novel, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rekaan; khayalan; tidak berdasarkan kenyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan yang hanya berdasarkan khayalan atau pikiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fiksi",
+  "related": [],
+  "detailed": false
+}

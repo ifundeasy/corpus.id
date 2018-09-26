@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wijaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "kemenangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wijaya",
+  "related": [],
+  "detailed": false
+}

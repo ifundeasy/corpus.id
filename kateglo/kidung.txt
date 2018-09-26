@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kidung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian, lagu (syair yang dinyanyikan);"
+      },
+      {
+        "type": "desc",
+        "text": "puisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kidung",
+  "related": [],
+  "detailed": false
+}

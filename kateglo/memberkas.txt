@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberkas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengikat menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "mengumpul menjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberkas",
+  "related": [],
+  "detailed": false
+}

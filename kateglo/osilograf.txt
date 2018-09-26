@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "osilograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencatat aliran dan tekanan listrik yang berubah-ubah (untuk mengetahui bentuk gelombang);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mencatat getaran atau naik turunnya tekanan darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=osilograf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan massa dalam sistem metrik yang besarnya sepersejuta gram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrogram",
+  "related": [],
+  "detailed": false
+}

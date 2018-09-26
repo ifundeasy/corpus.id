@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lanjang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil dan panjang;"
+      },
+      {
+        "type": "link",
+        "text": "telanjang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanjang",
+  "related": [],
+  "detailed": false
+}

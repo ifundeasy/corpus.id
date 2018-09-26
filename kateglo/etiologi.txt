@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang biologi tentang penyebab penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian ilmu penyakit tanaman, khususnya mengenai penyebab utama penyakit, kodrat, sifat, dan ciri-ciri patogen serta hubungannya dengan tanaman inangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang ilmu kedokteran tentang sebab dan asal penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etiologi",
+  "related": [],
+  "detailed": false
+}

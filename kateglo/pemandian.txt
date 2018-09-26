@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kolam renang;"
+      },
+      {
+        "type": "desc",
+        "text": "tepian (tempat mandi umum di sungai);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mandi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandian",
+  "related": [],
+  "detailed": false
+}

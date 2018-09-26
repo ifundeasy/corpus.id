@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oke",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan setuju; ya;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "setuju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oke",
+  "related": [],
+  "detailed": false
+}

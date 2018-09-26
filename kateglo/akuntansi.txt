@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akuntansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man)"
+      },
+      {
+        "type": "desc",
+        "text": "teori dan praktik perakunan, termasuk tanggung jawab, prinsip, standar, kelaziman (kebiasaan), dan semua kegiatannya;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan akuntan;"
+      },
+      {
+        "type": "desc",
+        "text": "seni pencatatan dan pengikhtisaran transaksi keuangan dan penafsiran akibat suatu transaksi terhadap suatu kesatuan ekonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuntansi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rencat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "terencat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rencat",
+  "related": [],
+  "detailed": false
+}

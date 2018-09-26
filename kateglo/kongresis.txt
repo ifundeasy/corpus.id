@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongresis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peserta kongres;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongresis",
+  "related": [],
+  "detailed": false
+}

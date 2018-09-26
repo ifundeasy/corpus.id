@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "potongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keratan; penggalan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memotong (memangkas, menggunting, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pengurangan (tentang gaji, upah, harga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kependekan (tentang kata, nama);"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk; model; (tentang mobil, rumah, dsb); tampang (tentang perawakan, wajah); bentuk; sikap (tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "sepotong-sepotong atau satu-satu (tentang penjualan barang);"
+      },
+      {
+        "type": "desc",
+        "text": "pengurangan harga; korting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=potongan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nikmat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "enak; lezat;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa puas; senang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian atau karunia (dari Allah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nikmat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sangga; tumpu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang menjadi tanggungan utang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandar",
+  "related": [],
+  "detailed": false
+}

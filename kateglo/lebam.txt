@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lebam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, Teuthis;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "biru kehitam-hitaman (seperti warna bekas kena pukul);"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi barang keras dan besar jatuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebam",
+  "related": [],
+  "detailed": false
+}

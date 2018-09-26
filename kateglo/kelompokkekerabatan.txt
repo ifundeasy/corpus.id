@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelompok kekerabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr) kelompok yang terikat oleh hubungan darah atau perkawinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelompok%20kekerabatan",
+  "related": [],
+  "detailed": false
+}

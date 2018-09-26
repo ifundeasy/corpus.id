@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergaya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkekuatan; bertenaga; berdaya;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai ragam yang khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai ragam;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai bentuk khas;"
+      },
+      {
+        "type": "desc",
+        "text": "bersikap; bertingkah;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai sikap (gerakan) tertentu (dalam olahraga);"
+      },
+      {
+        "type": "desc",
+        "text": "bersikap elok (bagus, pantas, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergaya",
+  "related": [],
+  "detailed": false
+}

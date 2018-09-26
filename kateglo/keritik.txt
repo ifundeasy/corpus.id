@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keritik",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "berkeritik-keritik"
+      },
+      {
+        "type": "link",
+        "text": "kritik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keritik",
+  "related": [],
+  "detailed": false
+}

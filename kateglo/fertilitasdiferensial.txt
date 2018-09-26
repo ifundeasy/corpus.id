@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fertilitas diferensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbedaan angka fertilitas antara penduduk suatu negara dan penduduk negara lain atau antarpenduduk suatu negara dalam waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fertilitas%20diferensial",
+  "related": [],
+  "detailed": false
+}

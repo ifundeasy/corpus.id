@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit batuk darah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit batuk yang sampai keluar darah; tuberkulosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20batuk%20darah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendarat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "turun dari kapal (perahu) dan naik ke darat;"
+      },
+      {
+        "type": "desc",
+        "text": "turun ke tanah (tentang pesawat terbang);"
+      },
+      {
+        "type": "desc",
+        "text": "menuju daerah pedalaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengenai;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) berjalan di darat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendarat",
+  "related": [],
+  "detailed": false
+}

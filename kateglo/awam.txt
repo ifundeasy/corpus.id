@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "awam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "umum; am; kebanyakan; biasa; tidak istimewa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang kebanyakan; orang biasa (bukan ahli, bukan rohaniwan, bukan tentara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=awam",
+  "related": [],
+  "detailed": false
+}

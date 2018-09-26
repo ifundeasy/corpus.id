@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gugat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggugat"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "guncangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gugat",
+  "related": [],
+  "detailed": false
+}

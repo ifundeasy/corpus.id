@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "marga monotipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "marga yang hanya mempunyai satu jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marga%20monotipe",
+  "related": [],
+  "detailed": false
+}

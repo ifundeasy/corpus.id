@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puluhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan kelipatan sepuluh;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "(cak) berpuluh-puluh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puluhan",
+  "related": [],
+  "detailed": false
+}

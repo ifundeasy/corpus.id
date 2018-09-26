@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya punggung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr) gaya berenang dengan posisi tubuh telentang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20punggung",
+  "related": [],
+  "detailed": false
+}

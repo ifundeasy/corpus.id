@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemecah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memecah(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memecahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemecah",
+  "related": [],
+  "detailed": false
+}

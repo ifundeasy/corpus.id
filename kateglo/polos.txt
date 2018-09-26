@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polos",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berwarna semacam saja (tidak dihiasi atau diberi berbunga-bunga dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sangat sederhana (sikap, tingkah laku, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) apa adanya; dengan sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak bermaksud jahat; jujur (tentang hati, pikiran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polos",
+  "related": [],
+  "detailed": false
+}

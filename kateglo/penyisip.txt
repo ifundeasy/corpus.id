@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyisip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengganti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyisip",
+  "related": [],
+  "detailed": false
+}

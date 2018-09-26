@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menegur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengajak bercakap-cakap (bertanya dsb); menyapa;"
+      },
+      {
+        "type": "desc",
+        "text": "mencela; mengkritik;"
+      },
+      {
+        "type": "desc",
+        "text": "memperingatkan; menasihatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengganggu (tentang setan, hantu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menegur",
+  "related": [],
+  "detailed": false
+}

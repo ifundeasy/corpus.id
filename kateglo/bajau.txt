@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bajau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr)"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok sosial yang hidup di perahu, berdiam di perairan laut atau selat sekitar pantai timur Sumatra, Kalimantan, Sulawesi, dan Flores;"
+      },
+      {
+        "type": "desc",
+        "text": "rakyat;"
+      },
+      {
+        "type": "link",
+        "text": "membajau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bajau",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jemput",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berjemput"
+      },
+      {
+        "type": "link",
+        "text": "menjemput"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemput",
+  "related": [],
+  "detailed": false
+}

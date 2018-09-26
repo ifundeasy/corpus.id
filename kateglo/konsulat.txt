@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsulat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan (kedudukan) konsul;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor konsul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsulat",
+  "related": [],
+  "detailed": false
+}

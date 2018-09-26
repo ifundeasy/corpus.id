@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "gilap; kilat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pantulan cahaya yang disebabkan oleh gelepar ikan terserang parasit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilap",
+  "related": [],
+  "detailed": false
+}

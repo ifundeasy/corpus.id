@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangkal tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pangkal yang terjadi dari satu morfem dasar, misal tani pada bertani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkal%20tunggal",
+  "related": [],
+  "detailed": false
+}

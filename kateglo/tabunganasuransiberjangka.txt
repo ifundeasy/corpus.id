@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabungan asuransi berjangka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabungan yang dikaitkan dengan asuransi jiwa untuk jangka waktu tertentu, penyetorannya dilakukan setiap bulan dalam jumlah yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabungan%20asuransi%20berjangka",
+  "related": [],
+  "detailed": false
+}

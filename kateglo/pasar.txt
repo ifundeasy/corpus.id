@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat orang berjual beli; pekan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) kekuatan penawaran dan permintaan, tempat penjual yang ingin menukar barang atau jasa dengan uang, dan pembeli yang ingin menukar uang dengan barang atau jasa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) dipakai dalam pergaulan sehari-hari (tentang bahasa yang kurang baik tata bahasanya, pilihan katanya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) licin (mati rumputnya tentang jalan yang kerap kali dilalui);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vendor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menjual rumah, tanah, dsb; penjual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vendor",
+  "related": [],
+  "detailed": false
+}

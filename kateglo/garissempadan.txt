@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis sempadan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) garis batas gedung yang diberi izin untuk dibangun paling dekat dengan jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20sempadan",
+  "related": [],
+  "detailed": false
+}

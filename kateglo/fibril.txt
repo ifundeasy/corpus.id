@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fibril",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "serabut akar yang paling halus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) serabut otot (jaringan atau saraf) yang sangat halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fibril",
+  "related": [],
+  "detailed": false
+}

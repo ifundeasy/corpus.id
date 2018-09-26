@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai intrinsik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai atau harga barang yang digunakan untuk membuat uang atau barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20intrinsik",
+  "related": [],
+  "detailed": false
+}

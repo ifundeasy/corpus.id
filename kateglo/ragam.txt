@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ragam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkah; laku; ulah;"
+      },
+      {
+        "type": "desc",
+        "text": "macam; jenis;"
+      },
+      {
+        "type": "desc",
+        "text": "lagu langgam;"
+      },
+      {
+        "type": "desc",
+        "text": "warna; corak; ragi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) laras (tentang bahasa);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersatu hati; rukun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragam",
+  "related": [],
+  "detailed": false
+}

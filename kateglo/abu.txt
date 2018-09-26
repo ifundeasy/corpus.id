@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa yang tinggal setelah suatu barang mengalami pembakaran lengkap;"
+      },
+      {
+        "type": "desc",
+        "text": "debu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) bapak; ayah (pada nama orang, misal Abu Talib, Abu Bakar);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kalah (dalam permainan congkak, gasing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abu",
+  "related": [],
+  "detailed": false
+}

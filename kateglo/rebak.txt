@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rebak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merebak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "robek panjang (kain, layar, dsb); luka dalam (kena pisau dsb);"
+      },
+      {
+        "type": "link",
+        "text": "merebak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rebak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara lengas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang mengandung uap air;"
+      },
+      {
+        "type": "desc",
+        "text": "udara dengan kelembapan besar; udara basah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20lengas",
+  "related": [],
+  "detailed": false
+}

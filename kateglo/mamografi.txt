@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mamografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pemeriksaan kelenjar payudara dengan menggunakan sinar X (untuk mendeteksi awal kanker payudara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamografi",
+  "related": [],
+  "detailed": false
+}

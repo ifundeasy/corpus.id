@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan; peristiwa; kejadian (sesuatu yang terjadi);"
+      },
+      {
+        "type": "desc",
+        "text": "perkara, urusan, soal; masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "sebab;"
+      },
+      {
+        "type": "desc",
+        "text": "tentang; mengenai;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) besi tipis berlapis seng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hal",
+  "related": [],
+  "detailed": false
+}

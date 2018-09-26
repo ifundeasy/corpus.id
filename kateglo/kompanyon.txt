@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompanyon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawan;"
+      },
+      {
+        "type": "desc",
+        "text": "kawan dalam satu usaha perdagangan; mitra usaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompanyon",
+  "related": [],
+  "detailed": false
+}

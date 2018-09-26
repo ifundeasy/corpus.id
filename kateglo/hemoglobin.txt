@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemoglobin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "protein sel darah merah yang memungkinkan darah mengangkut oksigen;"
+      },
+      {
+        "type": "desc",
+        "text": "zat pewarna merah pada butir darah merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemoglobin",
+  "related": [],
+  "detailed": false
+}

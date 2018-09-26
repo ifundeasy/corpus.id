@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diaduk;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengaduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adukan",
+  "related": [],
+  "detailed": false
+}

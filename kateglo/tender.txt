@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tender",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag)"
+      },
+      {
+        "type": "desc",
+        "text": "tawaran untuk mengajukan harga, memborong pekerjaan, atau menyediakan barang;"
+      },
+      {
+        "type": "desc",
+        "text": "gerbong kereta api (untuk tempat batu bara, kayu, atau air);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tender",
+  "related": [],
+  "detailed": false
+}

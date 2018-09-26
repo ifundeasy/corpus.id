@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melantai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasang lantai;"
+      },
+      {
+        "type": "desc",
+        "text": "berdansa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rata dan datar (menyerupai lantai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melantai",
+  "related": [],
+  "detailed": false
+}

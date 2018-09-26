@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diakritik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda tambahan pada huruf yang sedikit banyak mengubah nilai fonetis huruf itu, misal tanda ´ pada é"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diakritik",
+  "related": [],
+  "detailed": false
+}

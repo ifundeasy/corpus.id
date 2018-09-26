@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pauk",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "lauk"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memauk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pauk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sosial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) suka memperhatikan kepentingan umum (suka menolong, menderma, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sosial",
+  "related": [],
+  "detailed": false
+}

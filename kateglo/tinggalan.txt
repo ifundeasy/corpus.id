@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinggalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang ditinggalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "sisa;"
+      },
+      {
+        "type": "desc",
+        "text": "peninggalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggalan",
+  "related": [],
+  "detailed": false
+}

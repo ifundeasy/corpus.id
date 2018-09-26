@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilovolt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran tegangan listrik 1.000 volt (disingkat kv);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilovolt",
+  "related": [],
+  "detailed": false
+}

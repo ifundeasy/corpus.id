@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fekunditas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) jumlah sel telur yang dihasilkan oleh seekor hewan betina per tahun atau per satuan berat hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fekunditas",
+  "related": [],
+  "detailed": false
+}

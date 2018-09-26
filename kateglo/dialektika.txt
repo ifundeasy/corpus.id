@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dialektika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berbahasa dan bernalar dengan dialog sebagai cara untuk menyelidiki suatu masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran Hegel yang menyatakan bahwa segala sesuatu yang terdapat di alam semesta itu terjadi dari hasil pertentangan antara dua hal dan yang menimbulkan hal lain lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialektika",
+  "related": [],
+  "detailed": false
+}

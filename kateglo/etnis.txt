@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etnis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "etnik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etnis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naik kelas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berganti kelas dari kelas yang lebih rendah ke kelas yang lebih tinggi (sesuai dengan urutan angka) setelah memenuhi persyaratan nilai yang ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naik%20kelas",
+  "related": [],
+  "detailed": false
+}

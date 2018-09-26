@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lereng kritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut antara garis horizontal (mendatar) dan lereng maksimum suatu tanah karena proses alami (dalam tanah);"
+      },
+      {
+        "type": "desc",
+        "text": "lereng yang akan memelihara keseragaman aliran pada kedalaman kritis di suatu saluran (dalam hidrolika);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lereng%20kritis",
+  "related": [],
+  "detailed": false
+}

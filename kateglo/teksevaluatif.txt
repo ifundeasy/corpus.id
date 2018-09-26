@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks evaluatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks untuk mempengaruhi pendapat dan perasaan pembaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20evaluatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pestaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab primbon (yang berisi ramalan, mantra, dsb); pustaka;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaruh baik atau buruk (yang ada pada suatu benda dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pestaka",
+  "related": [],
+  "detailed": false
+}

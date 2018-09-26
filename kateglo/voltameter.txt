@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "voltameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) alat untuk mengukur arus listrik dalam satuan volt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=voltameter",
+  "related": [],
+  "detailed": false
+}

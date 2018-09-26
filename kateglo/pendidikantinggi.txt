@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenjang pendidikan formal setelah pendidikan menengah (pada akademi atau universitas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20tinggi",
+  "related": [],
+  "detailed": false
+}

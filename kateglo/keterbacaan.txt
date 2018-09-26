@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterbacaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) perihal dapat dibacanya teks secara cepat, mudah dipahami dan diingat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterbacaan",
+  "related": [],
+  "detailed": false
+}

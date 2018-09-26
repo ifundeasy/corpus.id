@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrospora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "spora haploid yang berukuran lebih kecil, biasanya dianggap jantan, dibentuk melalui proses meosis pada jenis tumbuhan yang bersifat heterospora, pada tumbuhan biji berupa serbuk sari;"
+      },
+      {
+        "type": "desc",
+        "text": "spora yang bersifat dapat menimbulkan gametofit yang hanya menghasilkan gamet jantan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrospora",
+  "related": [],
+  "detailed": false
+}

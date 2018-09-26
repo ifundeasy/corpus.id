@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dilampirkan; tambahan pada surat (lamaran, keputusan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lembar tambahan pada surat kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampiran",
+  "related": [],
+  "detailed": false
+}

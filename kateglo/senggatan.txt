@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senggatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senggat;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menyenggat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senggatan",
+  "related": [],
+  "detailed": false
+}

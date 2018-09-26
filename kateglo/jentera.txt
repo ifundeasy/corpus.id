@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jentera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang bundar berupa lingkaran, bersumbu, dan dpt berputar (untuk memutar benda yang lain, menaikkan air, dsb); roda;"
+      },
+      {
+        "type": "desc",
+        "text": "roda-roda yang dijalankan dengan per, tali, dsb untuk menggerakkan sesuatu (seperti perkakas arloji); pesawat; mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "roda pemintal benang (kincir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jentera",
+  "related": [],
+  "detailed": false
+}

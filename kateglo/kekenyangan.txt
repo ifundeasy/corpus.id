@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekenyangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kenyang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu kenyang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekenyangan",
+  "related": [],
+  "detailed": false
+}

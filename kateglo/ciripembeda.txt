@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ciri pembeda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri yang membedakan satuan bahasa dengan satuan bahasa lain, misal [d] dan [t];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ciri%20pembeda",
+  "related": [],
+  "detailed": false
+}

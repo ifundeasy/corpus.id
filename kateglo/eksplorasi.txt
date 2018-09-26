@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksplorasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelajahan lapangan dengan tujuan memperoleh pengetahuan lebih banyak (tentang keadaan), terutama sumber-sumber alam yang terdapat di tempat itu; penyelidikan; penjajakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) kegiatan untuk memperoleh pengalaman baru dari situasi yang baru;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pet) penyelidikan dan penjajakan daerah yang diperkirakan mengandung mineral berharga dengan jalan survei geologi, survei geofisika, atau pengeboran untuk menemukan deposit dan mengetahui luas wilayahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksplorasi",
+  "related": [],
+  "detailed": false
+}

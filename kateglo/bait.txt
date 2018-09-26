@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bait",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu kesatuan dalam puisi yang terdiri atas beberapa baris, seperti pantun yang terdiri atas empat baris;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bait",
+  "related": [],
+  "detailed": false
+}

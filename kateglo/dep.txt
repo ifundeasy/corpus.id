@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dep",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengedep"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dep",
+  "related": [],
+  "detailed": false
+}

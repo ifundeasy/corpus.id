@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tuntutan pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal mengambil dan menahan barang menurut keputusan pengadilan oleh alat negara (polisi dsb); pembeslahan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) putih bersih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sita",
+  "related": [],
+  "detailed": false
+}

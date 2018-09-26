@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meninjau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat sesuatu yang jauh dari ketinggian;"
+      },
+      {
+        "type": "desc",
+        "text": "(datang, pergi) melihat-lihat (menengok, memeriksa, mengamati, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengintai; menyelidiki;"
+      },
+      {
+        "type": "desc",
+        "text": "melihat (memeriksa); menilik; mempertimbangkan kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "mempelajari dengan cermat; memeriksa (untuk memahami dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menduga (hati, perasaan, pikiran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meninjau",
+  "related": [],
+  "detailed": false
+}

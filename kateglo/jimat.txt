@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "azimat;"
+      },
+      {
+        "type": "desc",
+        "text": "hemat (dalam membelanjakan uang);"
+      },
+      {
+        "type": "desc",
+        "text": "teliti, cermat (tentang pekerjaan dsb); saksama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jimat",
+  "related": [],
+  "detailed": false
+}

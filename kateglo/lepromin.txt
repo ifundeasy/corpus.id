@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lepromin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ekstrak kuman lepra yang dibuat dari jaringan leproma, digunakan sebagai tes kulit untuk menguji daya tahan seorang penderita lepra dan menentukan prognosis penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepromin",
+  "related": [],
+  "detailed": false
+}

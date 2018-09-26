@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isotop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) unsur yang atomnya mempunyai jumlah proton yang sama, tetapi berbeda jumlah neutron dalam intinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isotop",
+  "related": [],
+  "detailed": false
+}

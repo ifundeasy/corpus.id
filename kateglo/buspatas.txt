@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus patas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus umum yang melayani angkutan penumpang secara cepat (waktunya) dan terbatas (sesuai dengan jumlah tempat duduk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20patas",
+  "related": [],
+  "detailed": false
+}

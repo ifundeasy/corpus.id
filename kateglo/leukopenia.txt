@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leukopenia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan darah yang abnormal, yaitu kurangnya butir darah putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukopenia",
+  "related": [],
+  "detailed": false
+}

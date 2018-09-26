@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ego",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "aku; diri pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "rasa sadar akan diri sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "konsepsi individu tentang dirinya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ego",
+  "related": [],
+  "detailed": false
+}

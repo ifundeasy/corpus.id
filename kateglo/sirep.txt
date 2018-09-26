@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mantra untuk membuat orang tertidur; pukau;"
+      },
+      {
+        "type": "desc",
+        "text": "sunyi senyap;"
+      },
+      {
+        "type": "desc",
+        "text": "padam (tentang api, kebakaran dsb); tidak panas lagi (tentang demam); berhenti (tentang tembak-menembak); reda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirep",
+  "related": [],
+  "detailed": false
+}

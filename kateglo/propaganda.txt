@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "propaganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerangan (paham, pendapat, dsb) yang benar atau salah yang dikembangkan dengan tujuan meyakinkan orang agar menganut suatu aliran, sikap, atau arah tindakan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) reklame (seperti menawarkan obat, barang dagangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=propaganda",
+  "related": [],
+  "detailed": false
+}

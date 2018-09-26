@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerupuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang dibuat dari adonan tepung dicampur dengan lumatan udang atau ikan, setelah dikukus disayat-sayat tipis atau dibentuk dengan alat cetak dijemur agar mudah digoreng;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "kerupukan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerupuk",
+  "related": [],
+  "detailed": false
+}

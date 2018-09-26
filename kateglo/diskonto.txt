@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskonto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) potongan atau bunga yang harus dibayar oleh orang yang menjual wesel atau surat dagang yang diuangkan sebelum waktunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskonto",
+  "related": [],
+  "detailed": false
+}

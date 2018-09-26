@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kompresor udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pompa untuk menekankan udara ke dalam satu ruang sehingga tekanan udara menjadi tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompresor%20udara",
+  "related": [],
+  "detailed": false
+}

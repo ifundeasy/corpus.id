@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kofaktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suatu elemen atau prinsip;"
+      },
+      {
+        "type": "desc",
+        "text": "komponen nonprotein yang dibutuhkan oleh suatu enzim agar dapat aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kofaktor",
+  "related": [],
+  "detailed": false
+}

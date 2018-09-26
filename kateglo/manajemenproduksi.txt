@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajemen produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurusan aspek kegiatan mengubah bahan baku menjadi bahan jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajemen%20produksi",
+  "related": [],
+  "detailed": false
+}

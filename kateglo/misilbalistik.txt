@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "misil balistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peluru yang ditembakkan dengan roket yang mencapai sasarannya dengan mengikuti lintasan balistik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misil%20balistik",
+  "related": [],
+  "detailed": false
+}

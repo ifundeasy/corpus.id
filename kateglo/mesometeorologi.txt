@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mesometeorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) cabang meteorologi tentang keadaan meteorologi dalam skala menengah, luas wilayah, biasanya hanya beberapa puluh kilometer persegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesometeorologi",
+  "related": [],
+  "detailed": false
+}

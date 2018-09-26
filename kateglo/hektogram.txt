@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hektogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 1 ons atau 100 g;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hektogram",
+  "related": [],
+  "detailed": false
+}

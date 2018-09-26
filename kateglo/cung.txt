@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Plb)"
+      },
+      {
+        "type": "desc",
+        "text": "terung;"
+      },
+      {
+        "type": "desc",
+        "text": "kacung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cung",
+  "related": [],
+  "detailed": false
+}

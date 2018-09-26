@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udang sungai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udang yang hidup di sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udang%20sungai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggal muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permulaan bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggal%20muda",
+  "related": [],
+  "detailed": false
+}

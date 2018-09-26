@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan gasal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang tidak habis dibagi dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20gasal",
+  "related": [],
+  "detailed": false
+}

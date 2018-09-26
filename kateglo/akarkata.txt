@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akar kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bagian kata yang menjadi dasar arti kata lain yang dibentuk dari kata tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akar%20kata",
+  "related": [],
+  "detailed": false
+}

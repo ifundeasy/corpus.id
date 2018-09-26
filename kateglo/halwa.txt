@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manisan buah-buahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) segala yang menyenangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halwa",
+  "related": [],
+  "detailed": false
+}

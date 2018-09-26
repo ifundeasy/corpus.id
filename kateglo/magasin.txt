@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magasin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan yang digunakan sebagai tempat penyimpanan barang (kepunyaan pedagang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tabung berisi peluru yang dapat dipasang di bedil (pistol, senapan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magasin",
+  "related": [],
+  "detailed": false
+}

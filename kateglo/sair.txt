@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sair",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "syair"
+      },
+      {
+        "type": "desc",
+        "text": "api neraka;"
+      },
+      {
+        "type": "desc",
+        "text": "neraka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sair",
+  "related": [],
+  "detailed": false
+}

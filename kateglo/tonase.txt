@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay)"
+      },
+      {
+        "type": "desc",
+        "text": "kapasitas ruang muat dalam kapal, diukur dalam ton (1 ton = 1m3);"
+      },
+      {
+        "type": "desc",
+        "text": "daya angkut muatan kapal dinyatakan dalam ton (1 ton = 1.000 kg);"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran besarnya kapal dinyatakan dalam ton (1 ton = 2,83 m3);"
+      },
+      {
+        "type": "desc",
+        "text": "bobot air laut dalam ukuran ton (35 kaki kubik) yang dipindahkan oleh bagian kapal yang berada di dalam air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonase",
+  "related": [],
+  "detailed": false
+}

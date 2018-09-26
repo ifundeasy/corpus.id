@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan Kepegawaian Nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan yang mengelola seluruh permasalahan kepegawaian secara nasional, dari pengangkatan, kenaikan pangkat, mutasi, pemberhentian, pensiun, dst;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20Kepegawaian%20Nasional",
+  "related": [],
+  "detailed": false
+}

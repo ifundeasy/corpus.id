@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sundut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan; angkatan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyundut"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) sulut; meriam (senapan) -- , meriam (senapan) yang disulut (zaman dahulu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sundut",
+  "related": [],
+  "detailed": false
+}

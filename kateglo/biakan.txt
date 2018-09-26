@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dibiakkan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil membiakkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penumbuhan atau hasil penumbuhan jamur atau jasad renik lain pada media buatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biakan",
+  "related": [],
+  "detailed": false
+}

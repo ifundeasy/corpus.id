@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rutin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prosedur yang teratur dan tidak berubah-ubah;"
+      },
+      {
+        "type": "desc",
+        "text": "hal membiasanya prosedur, kegiatan, pekerjaan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "serangkaian instruksi yang dirancang untuk beberapa tujuan tertentu dan memiliki penggunaan umum;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) prosedur utama yang dilaksanakan oleh suatu program;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rutin",
+  "related": [],
+  "detailed": false
+}

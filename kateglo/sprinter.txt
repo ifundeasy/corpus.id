@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sprinter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelari jarak pendek (100 m, 200 m, 400 m, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sprinter",
+  "related": [],
+  "detailed": false
+}

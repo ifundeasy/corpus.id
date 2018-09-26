@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhutanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urusan (pemeliharaan dsb) hutan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengelolaan dan pemanfaatan sumber daya hutan untuk tujuan komersial yang merupakan spesifikasi kegiatan kehutanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhutanan",
+  "related": [],
+  "detailed": false
+}

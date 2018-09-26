@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesatuan (susunan dsb) yang terdiri atas bagian-bagian (orang dsb) dalam perkumpulan dsb untuk tujuan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok kerja sama antara orang-orang yang diadakan untuk mencapai tujuan bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tituler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan pangkat atau gelar kehormatan yang diperoleh tanpa menjalankan tugas jabatan sebagai yang tersebut pada gelarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tituler",
+  "related": [],
+  "detailed": false
+}

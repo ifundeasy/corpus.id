@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjenis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memilih (mengelompokkan) menurut jenisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjenis",
+  "related": [],
+  "detailed": false
+}

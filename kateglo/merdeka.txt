@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "merdeka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bebas (dari perhambaan, penjajahan, dsb); berdiri sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terkena atau lepas dari tuntutan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terikat, tidak bergantung kepada orang atau pihak tertentu; leluasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merdeka",
+  "related": [],
+  "detailed": false
+}

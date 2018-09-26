@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarif terkenakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarif yang berlaku pada saat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif%20terkenakan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "strato",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berlapis-lapis;"
+      },
+      {
+        "type": "desc",
+        "text": "gunung api yang berbentuk kerucut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strato",
+  "related": [],
+  "detailed": false
+}

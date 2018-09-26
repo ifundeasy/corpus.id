@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hotel kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hotel yang terletak di pusat kota dan kebanyakan pengunjungnya wisatawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel%20kota",
+  "related": [],
+  "detailed": false
+}

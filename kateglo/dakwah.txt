@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dakwah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "penyiaran; propaganda;"
+      },
+      {
+        "type": "desc",
+        "text": "penyiaran agama dan pengembangannya di kalangan masyarakat; seruan untuk memeluk, mempelajari, dan mengamalkan ajaran agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dakwah",
+  "related": [],
+  "detailed": false
+}

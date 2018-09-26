@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga kuda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daya (kekuatan) kuda; ukuran kemampuan mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20kuda",
+  "related": [],
+  "detailed": false
+}

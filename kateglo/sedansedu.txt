@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sedan sedu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sedu sedan;"
+      },
+      {
+        "type": "desc",
+        "text": "sedu sedan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedan%20sedu",
+  "related": [],
+  "detailed": false
+}

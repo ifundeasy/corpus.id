@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis lurus melalui titik tengah lingkaran dari satu sisi ke sisi lainnya; garis tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diameter",
+  "related": [],
+  "detailed": false
+}

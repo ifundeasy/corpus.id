@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selangkah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejauh jarak satu kali melangkah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selangkah",
+  "related": [],
+  "detailed": false
+}

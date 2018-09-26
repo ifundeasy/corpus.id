@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rasio anak wanita",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jumlah anak wanita di bawah umur lima tahun (balita) per 1.000 wanita yang melahirkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasio%20anak%20wanita",
+  "related": [],
+  "detailed": false
+}

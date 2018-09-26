@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemangku jabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memegang jabatan atau menjadi wakil untuk melakukan jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemangku%20jabatan",
+  "related": [],
+  "detailed": false
+}

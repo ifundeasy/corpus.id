@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaktur kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota redaksi yang menangani berita kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur%20kota",
+  "related": [],
+  "detailed": false
+}

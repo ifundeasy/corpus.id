@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemotongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memotong (mengerat, memenggal, mengurangi);"
+      },
+      {
+        "type": "desc",
+        "text": "pengeratan; pemenggalan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengurangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembantaian; penjagalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemotongan",
+  "related": [],
+  "detailed": false
+}

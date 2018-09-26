@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhitungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (hal, cara, dsb) memperhitungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapatan (hasil) memperhitungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan dan perincian mengenai keluar masuk uang (laba rugi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pertimbangan mengenai sesuatu; perkiraan; penyelesaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhitungan",
+  "related": [],
+  "detailed": false
+}

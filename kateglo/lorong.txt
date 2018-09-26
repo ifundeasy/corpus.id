@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lorong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan kecil (terutama yang ada rumah kiri-kanannya);"
+      },
+      {
+        "type": "link",
+        "text": "berlorong"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(Mk) tentang; mengenai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lorong",
+  "related": [],
+  "detailed": false
+}

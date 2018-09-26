@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawasan hutan guna produksi hasil hutan untuk memenuhi keperluan masyarakat pada umumnya, untuk pembangunan, industri, dan ekspor pada khususnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20produksi",
+  "related": [],
+  "detailed": false
+}

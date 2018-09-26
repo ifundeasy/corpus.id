@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengelolaan tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mengelola tanah dengan tujuan menanam tanaman yang dapat memberi keuntungan dan memelihara serta memperbaiki kesuburan tanah untuk jangka waktu panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengelolaan%20tanah",
+  "related": [],
+  "detailed": false
+}

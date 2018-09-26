@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alkoholisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaya hidup membudayakan alkohol;"
+      },
+      {
+        "type": "desc",
+        "text": "hal kecanduan alkohol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alkoholisme",
+  "related": [],
+  "detailed": false
+}

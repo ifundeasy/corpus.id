@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berangkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mulai berjalan (pergi, bepergian);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai menjadi (besar, akil balig); beranjak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berangkat",
+  "related": [],
+  "detailed": false
+}

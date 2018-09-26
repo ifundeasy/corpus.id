@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) introduksi; pengantar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intro",
+  "related": [],
+  "detailed": false
+}

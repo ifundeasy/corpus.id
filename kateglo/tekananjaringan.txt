@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan jaringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tekanan hidrostatik yang ada di dalam jaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20jaringan",
+  "related": [],
+  "detailed": false
+}

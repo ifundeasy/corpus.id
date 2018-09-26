@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perempatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang terdiri atas satu dibagi empat dari seutuhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan simpang empat (dari empat arah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perempatan",
+  "related": [],
+  "detailed": false
+}

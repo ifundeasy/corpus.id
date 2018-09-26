@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengidapkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "menyebabkan menderita sakit yang lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengidapkan",
+  "related": [],
+  "detailed": false
+}

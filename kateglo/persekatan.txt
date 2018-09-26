@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persekatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persekatan",
+  "related": [],
+  "detailed": false
+}

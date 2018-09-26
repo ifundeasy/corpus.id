@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "logam campur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "logam yang terjadi dari campuran beberapa logam (seperti emas dengan tembaga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logam%20campur",
+  "related": [],
+  "detailed": false
+}

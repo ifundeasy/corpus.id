@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "susunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang sudah diatur (disusun dsb) dengan baik (tentang organisasi, karang-mengarang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang sudah disusun (ditumpuk); tumpukan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menyusun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susunan",
+  "related": [],
+  "detailed": false
+}

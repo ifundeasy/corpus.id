@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keturunan yang kedua;"
+      },
+      {
+        "type": "desc",
+        "text": "manusia yang masih kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "binatang yang masih kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "pohon kecil yang tumbuh pada umbi atau rumpun tumbuh-tumbuhan yang besar;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berasal dari atau dilahirkan di (suatu negeri, daerah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang termasuk dalam suatu golongan pekerjaan (keluarga dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang kecil (pada suatu benda);"
+      },
+      {
+        "type": "desc",
+        "text": "yang lebih kecil daripada yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak",
+  "related": [],
+  "detailed": false
+}

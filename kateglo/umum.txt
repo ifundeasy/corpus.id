@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umum",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai seluruhnya atau semuanya; secara menyeluruh, tidak menyangkut yang khusus (tertentu) saja;"
+      },
+      {
+        "type": "desc",
+        "text": "untuk orang banyak; (untuk orang) siapa saja;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang banyak; khalayak ramai;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tersiar (rata) ke mana-mana; (sudah) diketahui orang banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umum",
+  "related": [],
+  "detailed": false
+}

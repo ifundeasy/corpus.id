@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sangar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "akan (dapat) mendatangkan bala atau bencana (tentang rumah, tanah, dsb); angker;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) bau yang merangsang, seperti bau bawang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak subur (tentang tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangar",
+  "related": [],
+  "detailed": false
+}

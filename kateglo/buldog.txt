@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buldog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anjing yang berbulu tipis dan berkaki pendek, bergelambir, dan berkepala besar (bermuka lebar);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pistol berlaras pendek berkaliber besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buldog",
+  "related": [],
+  "detailed": false
+}

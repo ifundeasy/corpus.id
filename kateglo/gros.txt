@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gros",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan jumlah 144 buah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gros",
+  "related": [],
+  "detailed": false
+}

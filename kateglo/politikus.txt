@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "politikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli politik; ahli kenegaraan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berkecimpung dalam bidang politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=politikus",
+  "related": [],
+  "detailed": false
+}

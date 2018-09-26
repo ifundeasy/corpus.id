@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "empuk (tentang makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "masak (karena dimasak, dipanggang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ranum (tentang buah-buahan);"
+      },
+      {
+        "type": "desc",
+        "text": "busuk (rusak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempuh",
+  "related": [],
+  "detailed": false
+}

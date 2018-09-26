@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkumpulan (segolongan orang) yang seasas, sehaluan, dan setujuan (terutama di bidang politik);"
+      },
+      {
+        "type": "desc",
+        "text": "penggolongan pemain dalam bulu tangkis dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan barang dagangan yang tidak tentu banyaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai",
+  "related": [],
+  "detailed": false
+}

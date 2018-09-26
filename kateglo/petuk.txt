@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan pemerintah yang menunjukkan jumlah milik seseorang untuk menentukan pajak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat gamelan jenis ketuk (dalam gamelan Jawa), dimainkan secara berpasangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petuk",
+  "related": [],
+  "detailed": false
+}

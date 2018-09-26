@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlangsung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terus berlaku; melanjut;"
+      },
+      {
+        "type": "desc",
+        "text": "sedang berlaku (diadakan, dibuat, dsb); terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlangsung",
+  "related": [],
+  "detailed": false
+}

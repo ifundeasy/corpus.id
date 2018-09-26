@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "erang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluh atau rintih (karena kesakitan);"
+      },
+      {
+        "type": "desc",
+        "text": "hitam; biru kehitam-hitaman;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "erang-erot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erang",
+  "related": [],
+  "detailed": false
+}

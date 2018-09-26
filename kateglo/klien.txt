@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klien",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memperoleh bantuan hukum dari seorang pengacara dalam pembelaan perkara di pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang membeli sesuatu atau memperoleh layanan (seperti kesehatan, konsultasi jiwa) secara tetap; pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klien",
+  "related": [],
+  "detailed": false
+}

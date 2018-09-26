@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerhana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan (matahari) gelap sebagian atau seluruhnya dilihat dari bumi; eklips;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) dalam kesulitan (kesusahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerhana",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesamaan harga atau nilai; kemiripan; kesepadanan;"
+      },
+      {
+        "type": "desc",
+        "text": "keseimbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan kelahiran; partus;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) penggunaan sandi periksa pada rangkaian elek tronika melalui digit biner agar banyaknya bit;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu ganjil atau selalu genap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paritas",
+  "related": [],
+  "detailed": false
+}

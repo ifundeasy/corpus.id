@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang seluruh modalnya merupakan kekayaan negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20negara",
+  "related": [],
+  "detailed": false
+}

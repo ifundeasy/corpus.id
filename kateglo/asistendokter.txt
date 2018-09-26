@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asisten dokter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas membantu dokter dalam melakukan kegiatan kedokteran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asisten%20dokter",
+  "related": [],
+  "detailed": false
+}

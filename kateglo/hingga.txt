@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hingga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas penghabisan; batas;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sampai;"
+      },
+      {
+        "type": "desc",
+        "text": "sampai menjadi (atau sampai pada keadaan ...);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hingga",
+  "related": [],
+  "detailed": false
+}

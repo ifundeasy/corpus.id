@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan pegawai negara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang diangkat oleh negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20muda",
+  "related": [],
+  "detailed": false
+}

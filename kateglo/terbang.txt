@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terbang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak atau melayang di udara dengan tenaga sayap (tentang burung dsb) atau dengan tenaga mesin (tentang pesawat terbang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berhamburan atau melayang-layang di udara (tentang debu, daun-daunan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) mudah menjadi uap (gas); mudah menguap;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hilang lenyap (dicuri orang);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berlari cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "melarikan diri; kabur;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) naik pesawat terbang; bepergian dengan pesawat terbang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "rebana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbang",
+  "related": [],
+  "detailed": false
+}

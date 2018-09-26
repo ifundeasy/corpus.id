@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang hanya dalam angan-angan; khayalan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengamatan yang tidak sesuai dengan pengindraan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat dipercaya; palsu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilusi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat perintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang mengandung intonasi dan makna perintah atau larangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20perintah",
+  "related": [],
+  "detailed": false
+}

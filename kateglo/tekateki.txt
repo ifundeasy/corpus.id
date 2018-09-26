@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teka teki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "soal yang berupa kalimat (cerita, gambar) yang dikemukakan secara samar-samar, biasanya untuk permainan atau untuk mengasah pikiran misal yang digantungkan di atas, yang menggantungkan di bawah, orang menaikkan layang-layang; tebakan; terkaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang sulit dipecahkan (kurang terang, rahasia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teka%20teki",
+  "related": [],
+  "detailed": false
+}

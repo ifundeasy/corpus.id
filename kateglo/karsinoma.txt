@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karsinoma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumor yang menular (sangat ganas) berasal dari jaringan epitel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karsinoma",
+  "related": [],
+  "detailed": false
+}

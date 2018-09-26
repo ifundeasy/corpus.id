@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hotel bandara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hotel yang letaknya berdekatan dengan pelabuhan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel%20bandara",
+  "related": [],
+  "detailed": false
+}

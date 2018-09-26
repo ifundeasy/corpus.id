@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita pendek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) kisahan pendek (kurang dari 10.000 kata) yang memberikan kesan tunggal yang dominan dan memusatkan diri pada satu tokoh dalam satu situasi (pada suatu ketika);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20pendek",
+  "related": [],
+  "detailed": false
+}

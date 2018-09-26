@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pupuk buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pupuk yang merupakan hasil proses kimia, biasanya dibuat di pabrik pupuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuk%20buatan",
+  "related": [],
+  "detailed": false
+}

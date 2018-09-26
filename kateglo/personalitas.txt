@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "personalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keseluruhan reaksi psikologis dan sosial seorang individu, sintesis kehidupan emosionalnya dan kehidupan mentalnya, tingkah laku dan reaksinya terhadap lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=personalitas",
+  "related": [],
+  "detailed": false
+}

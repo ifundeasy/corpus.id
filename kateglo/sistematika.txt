@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sistematika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai klasifikasi (penggolongan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) ilmu mengenai taksonomi tumbuhan atau hewan dengan memperhatikan kekerabatan dan evolusinya secara eksperimental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistematika",
+  "related": [],
+  "detailed": false
+}

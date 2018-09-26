@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkisah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bercerita tentang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkisah",
+  "related": [],
+  "detailed": false
+}

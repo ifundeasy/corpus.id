@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tujuan kurikuler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tujuan atau kualifikasi yang diharapkan dimiliki murid setelah dia menyelesaikan program mata pelajaran tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tujuan%20kurikuler",
+  "related": [],
+  "detailed": false
+}

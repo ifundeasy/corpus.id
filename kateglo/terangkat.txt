@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terangkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah diangkat;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat diangkat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) usungan atau kereta pembawa jenazah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terangkat",
+  "related": [],
+  "detailed": false
+}

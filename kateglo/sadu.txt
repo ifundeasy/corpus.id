@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sadu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "paling baik; termulia;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaum fakir yang menyiksa diri sendiri (di India);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sadu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunikator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau kelompok orang yang menyampaikan pesan kepada komunikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunikator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin katup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin yang menggunakan katup untuk memasukkan uap baru dan membuang uap yang telah dipakai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20katup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya penggudangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) pengeluaran yang bertalian dengan penyimpanan barang sediaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20penggudangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak bilik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang kecil yang ditambahkan pada kamar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20bilik",
+  "related": [],
+  "detailed": false
+}

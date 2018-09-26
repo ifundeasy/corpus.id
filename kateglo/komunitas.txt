@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok organisme (orang dsb) yang hidup dan saling berinteraksi di dalam daerah tertentu; masyarakat; paguyuban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunitas",
+  "related": [],
+  "detailed": false
+}

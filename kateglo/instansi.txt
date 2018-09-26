@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan pemerintah umum (seperti jawatan, kantor);"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) tingkatan (pengadilan);"
+      },
+      {
+        "type": "desc",
+        "text": "tahap (dalam rapat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instansi",
+  "related": [],
+  "detailed": false
+}

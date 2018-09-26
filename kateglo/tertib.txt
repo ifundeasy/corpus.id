@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tertib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "teratur; menurut aturan; rapi;"
+      },
+      {
+        "type": "desc",
+        "text": "sopan; dengan sepatutnya;"
+      },
+      {
+        "type": "desc",
+        "text": "aturan; peraturan yang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertib",
+  "related": [],
+  "detailed": false
+}

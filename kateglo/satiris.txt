@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satiris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang satire; penulis sajak sindiran;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat menyindir atau mengejek; mengandung sindiran atau ejekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satiris",
+  "related": [],
+  "detailed": false
+}

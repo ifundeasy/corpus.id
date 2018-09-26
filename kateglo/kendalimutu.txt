@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kendali mutu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian atau divisi yang mengawasi mutu barang yang diproduksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendali%20mutu",
+  "related": [],
+  "detailed": false
+}

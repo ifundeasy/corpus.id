@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tebing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tepi sungai (jurang) yang tinggi dan terjal (hampir tegak);"
+      },
+      {
+        "type": "desc",
+        "text": "lereng gunung (bukit) seperti dinding terjal;"
+      },
+      {
+        "type": "desc",
+        "text": "tepi tanah darat yang tinggi dan terjal sebagai pemisah dari rawa, sawah, yang ada di samping bawahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebing",
+  "related": [],
+  "detailed": false
+}

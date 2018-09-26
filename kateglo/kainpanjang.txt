@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kain panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain yang panjang dan tidak dipertemukan kedua ujungnya (biasanya dipakai dengan kebaya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kain%20panjang",
+  "related": [],
+  "detailed": false
+}

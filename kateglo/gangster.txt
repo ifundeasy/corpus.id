@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gangster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjahat; bandit;"
+      },
+      {
+        "type": "desc",
+        "text": "anggota geng (kelompok orang yang mempunyai kegemaran berkelahi atau membuat keributan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gangster",
+  "related": [],
+  "detailed": false
+}

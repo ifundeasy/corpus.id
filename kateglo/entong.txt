@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "entong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak laki-laki;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada anak laki-laki;"
+      },
+      {
+        "type": "desc",
+        "text": "buyung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entong",
+  "related": [],
+  "detailed": false
+}

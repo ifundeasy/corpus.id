@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kisaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "putaran (roda dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pusaran (air, angin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(peng)gilingan;"
+      },
+      {
+        "type": "desc",
+        "text": "peralihan; pergantian;"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan ayam biasa dengan ayam hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kisaran",
+  "related": [],
+  "detailed": false
+}

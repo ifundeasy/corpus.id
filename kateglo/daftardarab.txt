@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar darab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) daftar perkalian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20darab",
+  "related": [],
+  "detailed": false
+}

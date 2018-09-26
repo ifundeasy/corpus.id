@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kobak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kubak"
+      },
+      {
+        "type": "desc",
+        "text": "permainan anak-anak dengan cara melemparkan karet dsb ke dalam lubang di tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "permainan judi dengan melemparkan uang (logam) ke dalam lubang di tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kobak",
+  "related": [],
+  "detailed": false
+}

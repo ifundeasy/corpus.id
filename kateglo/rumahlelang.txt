@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah lelang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah tempat melelang barang-barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20lelang",
+  "related": [],
+  "detailed": false
+}

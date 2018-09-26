@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evaluasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evaluasi",
+  "related": [],
+  "detailed": false
+}

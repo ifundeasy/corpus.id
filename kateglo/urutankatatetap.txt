@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan kata tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) urutan kata yang dipakai untuk menyatakan hubungan gramatikal dan yang tidak dapat diubah tanpa mengubah atau merusak makna kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20kata%20tetap",
+  "related": [],
+  "detailed": false
+}

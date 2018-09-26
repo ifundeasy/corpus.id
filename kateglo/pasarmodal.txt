@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar modal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh kegiatan yang mempertemukan penawaran dan permintaan dana jangka panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "pusat keuangan, bank, dan firma yang meminjamkan uang secara besar-besaran;"
+      },
+      {
+        "type": "desc",
+        "text": "pasar atau bursa modal yang memperjualbelikan surat berharga yang berjangka waktu lebih dari satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20modal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sedu; isak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa sangat pilu dalam hati; susah hati;"
+      },
+      {
+        "type": "desc",
+        "text": "menimbulkan rasa susah (pilu dsb) dalam hati; duka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apartemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat tinggal (terdiri atas kamar duduk, kamar tidur, kamar mandi, dapur, dsb) yang berada pada satu lantai bangunan bertingkat yang besar dan mewah, dilengkapi dengan berbagai fasilitas (kolam renang, pusat kebugaran, toko, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apartemen",
+  "related": [],
+  "detailed": false
+}

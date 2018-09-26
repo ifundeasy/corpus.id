@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dekret Presiden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "putusan yang dikeluarkan oleh Presiden Republik Indonesia, 5 Juli 1959;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekret%20Presiden",
+  "related": [],
+  "detailed": false
+}

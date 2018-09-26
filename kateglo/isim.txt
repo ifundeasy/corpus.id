@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "nama;"
+      },
+      {
+        "type": "desc",
+        "text": "nama Tuhan, dipakai sebagai mantra dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isim",
+  "related": [],
+  "detailed": false
+}

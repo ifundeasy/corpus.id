@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sungging",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lukisan (perhiasan) diwarnai dengan cat (air mas dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyungging"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sungging",
+  "related": [],
+  "detailed": false
+}

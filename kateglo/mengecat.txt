@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengecat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mewarnai dengan cat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengecat",
+  "related": [],
+  "detailed": false
+}

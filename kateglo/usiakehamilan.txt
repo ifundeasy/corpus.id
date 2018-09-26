@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usia kehamilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taksiran usia janin yang dihitung dari hari pertama masa haid normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usia%20kehamilan",
+  "related": [],
+  "detailed": false
+}

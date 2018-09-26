@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "titik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "noktah (pada huruf, tanda, tanda baca, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "butiran kecil yang jatuh (tentang air, embun, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jatuh menetes (tentang air, embun, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lancang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tahu adat; kurang sopan terhadap orang tua dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu berani mengambil keputusan sendiri, di luar yang disepakati;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu layar yang sangat laju, dipakai sebagai kapal perang pada zaman dahulu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat sirih;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan (terna), Euphorbia hirta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lancang",
+  "related": [],
+  "detailed": false
+}

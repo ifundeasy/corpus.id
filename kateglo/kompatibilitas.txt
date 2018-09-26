@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompatibilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal dapat dirangkap (tentang jabatan);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan penyesuaian diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompatibilitas",
+  "related": [],
+  "detailed": false
+}

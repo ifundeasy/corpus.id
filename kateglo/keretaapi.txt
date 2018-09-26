@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kereta api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta yang terdiri atas rangkaian gerbong (kereta) yang ditarik oleh lokomotif, dijalankan dengan tenaga uap (atau listrik), berjalan di atas rel (rentangan baja dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20api",
+  "related": [],
+  "detailed": false
+}

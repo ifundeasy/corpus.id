@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain sandiwara (film);"
+      },
+      {
+        "type": "desc",
+        "text": "tukang lawak pada permainan makyong;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat tingkah yang diharapkan dimiliki oleh orang yang berkedudukan dalam masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "balok yang menghubungkan tiang-tiang rumah di sebelah atas, tempat kasau-kasau bertumpu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peran",
+  "related": [],
+  "detailed": false
+}

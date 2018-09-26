@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilmiah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat ilmu; secara ilmu pengetahuan; memenuhi syarat (kaidah) ilmu pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmiah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan atau teori yang didukung oleh argumen yang dikemukakan dalam karangan; untuk mendapatkan gelar kesarjanaan pada perguruan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan ilmiah yang ditulis untuk mendapatkan gelar kesarjanaan pada suatu universitas (perguruan tinggi); disertasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tesis",
+  "related": [],
+  "detailed": false
+}

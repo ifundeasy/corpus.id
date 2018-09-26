@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis pertahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas pertahanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20pertahanan",
+  "related": [],
+  "detailed": false
+}

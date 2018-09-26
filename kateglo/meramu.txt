@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meramu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari dan mengumpulkan bahan-bahan (akar-akaran, kayu-kayuan) yang diperlukan;"
+      },
+      {
+        "type": "desc",
+        "text": "meracik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meramu",
+  "related": [],
+  "detailed": false
+}

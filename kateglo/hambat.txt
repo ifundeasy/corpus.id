@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hambat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menghambat"
+      },
+      {
+        "type": "link",
+        "text": "menghambat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hambat",
+  "related": [],
+  "detailed": false
+}

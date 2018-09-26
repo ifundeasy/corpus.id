@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puntung perun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa kayu-kayu yang sudah dibakar sebagian;"
+      },
+      {
+        "type": "desc",
+        "text": "perjamuan mempelai yang penghabisan sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puntung%20perun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gendongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang digendong;"
+      },
+      {
+        "type": "desc",
+        "text": "kain dsb untuk menggendong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gendongan",
+  "related": [],
+  "detailed": false
+}

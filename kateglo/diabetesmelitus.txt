@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diabetes melitus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) gangguan metabolisme karbohidrat karena kelenjar pankreas tidak mampu menyekresi insulin yang cukup dengan gejala adanya gula dalam urine, turunnya bobot badan, selalu haus dan lapar, dan banyak kencing; keadaan kekurangan insulin dengan akibat glukosa tidak dapat diolah oleh badan sehingga kadar glukosa dalam darah meninggi dan dikeluarkan dalam urine;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diabetes%20melitus",
+  "related": [],
+  "detailed": false
+}

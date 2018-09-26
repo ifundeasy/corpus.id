@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "molar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "gigi geraham;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan massa suatu benda untuk membedakannya dari sifat atau gerak molekul atau atom;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung suatu gram molekul zat terlarut dalam satu liter larutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=molar",
+  "related": [],
+  "detailed": false
+}

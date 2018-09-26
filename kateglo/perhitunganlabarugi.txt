@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhitungan laba rugi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar ringkas tentang pendapatan dan pengeluaran organisasi atau perusahaan untuk menunjukkan laba bersih atau rugi selama jangka waktu fiskal yang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhitungan%20laba%20rugi",
+  "related": [],
+  "detailed": false
+}

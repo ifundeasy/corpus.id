@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keperluan primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keperluan pokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keperluan%20primer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "problematik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "masih menimbulkan masalah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang masih belum dapat dipecahkan; permasalahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=problematik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetanus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit akibat infeksi luka oleh bakteri Clostridium tetani dengan gejala kejang-kejang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetanus",
+  "related": [],
+  "detailed": false
+}

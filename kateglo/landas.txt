@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "landas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alas; tumpuan;"
+      },
+      {
+        "type": "link",
+        "text": "landas bukit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=landas",
+  "related": [],
+  "detailed": false
+}

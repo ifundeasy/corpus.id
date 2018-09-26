@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seloka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jenis puisi yang mengandung ajaran (sindiran dsb), biasanya terdiri atas 4 larik yang berima a-a-a-a, yang mengandung sampiran dan isi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seloka",
+  "related": [],
+  "detailed": false
+}

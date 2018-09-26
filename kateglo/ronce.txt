@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ronce",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "link",
+        "text": "meronce"
+      },
+      {
+        "type": "link",
+        "text": "meronce"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ronce",
+  "related": [],
+  "detailed": false
+}

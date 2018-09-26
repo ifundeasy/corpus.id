@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penginapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah tempat bermalam; losmen;"
+      },
+      {
+        "type": "desc",
+        "text": "tumpangan (untuk bermalam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penginapan",
+  "related": [],
+  "detailed": false
+}

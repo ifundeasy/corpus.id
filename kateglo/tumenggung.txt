@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tumenggung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan pegawai tinggi di bawah bendahara;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan bupati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tumenggung",
+  "related": [],
+  "detailed": false
+}

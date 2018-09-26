@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekreasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyegaran kembali badan dan pikiran; sesuatu yang menggembirakan hati dan menyegarkan seperti hiburan, piknik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekreasi",
+  "related": [],
+  "detailed": false
+}

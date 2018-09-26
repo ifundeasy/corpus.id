@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat perjanjian antara orang yang ikut asuransi dan maskapai asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polis",
+  "related": [],
+  "detailed": false
+}

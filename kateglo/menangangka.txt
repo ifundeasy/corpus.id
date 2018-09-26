@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menang angka",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr) menang berdasarkan kelebihan angka yang diperoleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menang%20angka",
+  "related": [],
+  "detailed": false
+}

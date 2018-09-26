@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengantar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menemani (membawa) orang berjalan atau pergi;"
+      },
+      {
+        "type": "desc",
+        "text": "mengirimkan (membawa) ke;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengantar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lamaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinangan; permintaan untuk meminang;"
+      },
+      {
+        "type": "desc",
+        "text": "permintaan pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lamaran",
+  "related": [],
+  "detailed": false
+}

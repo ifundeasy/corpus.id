@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(yang terjadi) tiap-tiap tahun atau setahun sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "bertahun-tahun; lama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahunan",
+  "related": [],
+  "detailed": false
+}

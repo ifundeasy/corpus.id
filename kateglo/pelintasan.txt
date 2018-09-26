@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelintasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat melintas; tempat menyeberang di jalan dsb; lintasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelintasan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kriteria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran yang menjadi dasar penilaian atau penetapan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriteria",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "maksud yang terkandung (dalam perkataan, kalimat); makna;"
+      },
+      {
+        "type": "desc",
+        "text": "guna; faedah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arti",
+  "related": [],
+  "detailed": false
+}

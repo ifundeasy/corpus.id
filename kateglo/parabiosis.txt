@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parabiosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "penghentian sementara kegiatan fisiologi;"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan sarang yang sama oleh dua koloni serangga sosial berlainan jenis yang anak-anaknya dipiara secara terpisah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parabiosis",
+  "related": [],
+  "detailed": false
+}

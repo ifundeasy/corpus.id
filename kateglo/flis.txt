@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "flis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern)"
+      },
+      {
+        "type": "desc",
+        "text": "bulu domba yang belum diolah menjadi wol;"
+      },
+      {
+        "type": "desc",
+        "text": "bulu domba yang masih belum dicukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flis",
+  "related": [],
+  "detailed": false
+}

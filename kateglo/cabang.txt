@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cabang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian batang kayu yang tumbuh dari pokok atau dahan (cabang yang besar disebut dahan dan cabang yang kecil disebut ranting);"
+      },
+      {
+        "type": "desc",
+        "text": "galah (tongkat dsb) yang ujungnya berbelah menjadi sudut (Y); canggah; cagak;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang terpecah atau terbelah dari pokoknya;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan usaha (kedai, toko), lembaga, perkumpulan, kantor, dsb yang merupakan bagian dari satuan yang lebih besar; filial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cabang",
+  "related": [],
+  "detailed": false
+}

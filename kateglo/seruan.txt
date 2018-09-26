@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan (dengan suara nyaring);"
+      },
+      {
+        "type": "desc",
+        "text": "ajakan;"
+      },
+      {
+        "type": "desc",
+        "text": "anjuran; peringatan;"
+      },
+      {
+        "type": "desc",
+        "text": "doa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seruan",
+  "related": [],
+  "detailed": false
+}

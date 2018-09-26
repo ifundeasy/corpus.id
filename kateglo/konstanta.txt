@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstanta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) lambang untuk menyatakan objek yang sama dalam keseluruhan operasi matematika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstanta",
+  "related": [],
+  "detailed": false
+}

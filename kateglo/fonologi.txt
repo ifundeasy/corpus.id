@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang dalam linguistik yang menyelidiki bunyi-bunyi bahasa menurut fungsinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rileks",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "bersenang-senang;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan-jalan untuk melihat lihat pemandangan alam; berekreasi;"
+      },
+      {
+        "type": "desc",
+        "text": "beristirahat; mengaso;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak resmi; tidak kaku; santai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rileks",
+  "related": [],
+  "detailed": false
+}

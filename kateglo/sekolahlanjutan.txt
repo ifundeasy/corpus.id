@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah lanjutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah selepas sekolah dasar, sebelum perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20lanjutan",
+  "related": [],
+  "detailed": false
+}

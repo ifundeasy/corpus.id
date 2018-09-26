@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menunjuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengacungkan jari telunjuk ke ...;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi tahu dengan sesuatu yang diarahkan ke ...;"
+      },
+      {
+        "type": "desc",
+        "text": "mengacungkan jari telunjuk ke atas;"
+      },
+      {
+        "type": "desc",
+        "text": "menentukan (siapa-siapa yang diberi tugas, dipilih, diangkat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan (sesuatu); mengingatkan dengan menyebut bukti (pasal, aturan, surat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menunjuk",
+  "related": [],
+  "detailed": false
+}

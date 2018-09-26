@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siap sedia",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah bersedia (untuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siap%20sedia",
+  "related": [],
+  "detailed": false
+}

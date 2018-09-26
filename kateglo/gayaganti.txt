@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya ganti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Olr) gaya berenang yang secara bergantian menggunakan gaya dada, gaya punggung, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20ganti",
+  "related": [],
+  "detailed": false
+}

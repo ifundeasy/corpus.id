@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musim tumbuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musim yang keadaan meteorologinya cocok untuk pertumbuhan tanaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim%20tumbuh",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serta",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "dan;"
+      },
+      {
+        "type": "desc",
+        "text": "demi; begitu; pada ketika;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "ikut; turut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serta",
+  "related": [],
+  "detailed": false
+}

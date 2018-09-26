@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedudukan; pertahanan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat memamerkan (menjual dsb) produk di pasar malam dsb; ruang pamer;"
+      },
+      {
+        "type": "desc",
+        "text": "mimbar; panggung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembawa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membawakan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membawakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembawa",
+  "related": [],
+  "detailed": false
+}

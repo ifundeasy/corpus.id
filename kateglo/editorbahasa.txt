@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "editor bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyunting naskah yang akan diterbitkan dengan memperhatikan ejaan, diksi, dan struktur kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=editor%20bahasa",
+  "related": [],
+  "detailed": false
+}

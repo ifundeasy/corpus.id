@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tengik (seperti bau minyak kelapa yang sudah lama disimpan);"
+      },
+      {
+        "type": "desc",
+        "text": "masam (seperti rasa cuka);"
+      },
+      {
+        "type": "desc",
+        "text": "kelat; sepat (seperti rasa pinang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perat",
+  "related": [],
+  "detailed": false
+}

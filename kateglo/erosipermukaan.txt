@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "erosi permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengikisan tanah yang meliputi permukaan tanah yang luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erosi%20permukaan",
+  "related": [],
+  "detailed": false
+}

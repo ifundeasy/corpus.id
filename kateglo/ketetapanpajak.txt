@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketetapan pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan Direktorat Jenderal Pajak mengenai besarnya pajak yang harus dibayar oleh wajib pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketetapan%20pajak",
+  "related": [],
+  "detailed": false
+}

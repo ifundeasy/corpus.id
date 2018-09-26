@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi atmosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) bagian radiasi yang asalnya dari atmosfer saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20atmosfer",
+  "related": [],
+  "detailed": false
+}

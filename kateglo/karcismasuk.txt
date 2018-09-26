@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karcis masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karcis untuk masuk (menonton pertunjukan film, sirkus, pertandingan sepak bola, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karcis%20masuk",
+  "related": [],
+  "detailed": false
+}

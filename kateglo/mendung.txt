@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mendung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "awan yang mengandung hujan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan langit yang agak gelap, tidak ada sinar matahari (karena tertutup awan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendung",
+  "related": [],
+  "detailed": false
+}

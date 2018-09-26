@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jundai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "sijundai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jundai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "migrasi desa kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "migrasi yang terjadi dari daerah pedesaan ke daerah perkotaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=migrasi%20desa%20kota",
+  "related": [],
+  "detailed": false
+}

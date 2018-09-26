@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) pembatalan atau pernyataan tidak sah oleh Mahkamah Agung terhadap putusan hakim karena putusan itu menyalahi atau tidak sesuai dengan undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasasi",
+  "related": [],
+  "detailed": false
+}

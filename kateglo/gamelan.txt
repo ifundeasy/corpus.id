@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gamelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat alat musik Jawa (Sunda, Bali, dsb) yang terdiri atas saron, bonang, rebab, gendang, gong, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gamelan",
+  "related": [],
+  "detailed": false
+}

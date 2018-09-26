@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanjar",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "khanjar"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berkanjar"
+      },
+      {
+        "type": "link",
+        "text": "berkanjar-kanjar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanjar",
+  "related": [],
+  "detailed": false
+}

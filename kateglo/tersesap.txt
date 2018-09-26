@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersesap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terisap (tentang barang cair);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersesap",
+  "related": [],
+  "detailed": false
+}

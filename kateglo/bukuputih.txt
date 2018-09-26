@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku putih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang memuat pernyataan tertentu, yang biasanya bersifat rahasia, belum pernah diungkapkan sebelumnya, dan dianggap benar;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang isinya mempertahankan pendirian, kebijakan, atau prestasi pemerintah atau badan resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20putih",
+  "related": [],
+  "detailed": false
+}

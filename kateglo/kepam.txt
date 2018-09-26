@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lembap dan mudah robek karena lama tersimpan atau tertutup rapat (tentang kain, sengkelat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lembap dan susah dinyalakan (tentang mesiu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kusam; hilang cahaya atau warnanya (karena panas matahari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepam",
+  "related": [],
+  "detailed": false
+}

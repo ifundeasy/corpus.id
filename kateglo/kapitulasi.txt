@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapitulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal atau peristiwa menyerah kalah (dalam perang); pengakuan kalah perang;"
+      },
+      {
+        "type": "desc",
+        "text": "penyerahan kekuasaan sebagai akibat kekalahan dalam peperangan kepada pihak yang menang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapitulasi",
+  "related": [],
+  "detailed": false
+}

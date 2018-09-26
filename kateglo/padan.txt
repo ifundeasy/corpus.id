@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banding; imbangan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cocok; sesuai; patut benar;"
+      },
+      {
+        "type": "desc",
+        "text": "sempadan; batas;"
+      },
+      {
+        "type": "desc",
+        "text": "garis (titik dsb) yang menjadi batas atau tempat melemparkan batu (kelereng dsb) pada permainan lempar-lemparan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) janji;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) curang (terutama dalam permainan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padan",
+  "related": [],
+  "detailed": false
+}

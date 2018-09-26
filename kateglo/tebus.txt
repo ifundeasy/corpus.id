@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tebus",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menebus"
+      },
+      {
+        "type": "link",
+        "text": "menebus"
+      },
+      {
+        "type": "link",
+        "text": "menebus"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebus",
+  "related": [],
+  "detailed": false
+}

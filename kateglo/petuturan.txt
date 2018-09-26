@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petuturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lafal; sebutan; ucapan;"
+      },
+      {
+        "type": "desc",
+        "text": "percakapan; sebut-sebutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petuturan",
+  "related": [],
+  "detailed": false
+}

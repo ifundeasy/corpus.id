@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "piezo-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "tekanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piezo-",
+  "related": [],
+  "detailed": false
+}

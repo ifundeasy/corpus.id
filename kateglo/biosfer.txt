@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian atmosfer yang paling bawah di dekat permukaan bumi, tempat tinggal makhluk hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan yang berupa segala sesuatu yang hidup (manusia, hewan, tumbuhan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biosfer",
+  "related": [],
+  "detailed": false
+}

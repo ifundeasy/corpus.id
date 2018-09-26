@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "model",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pola (contoh, acuan, ragam, dsb) dari sesuatu yang akan dibuat atau dihasilkan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dipakai sebagai contoh untuk dilukis (difoto);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang (pekerjaannya) memperagakan contoh pakaian yang akan dipasarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang tiruan yang kecil dengan bentuk (rupa) persis seperti yang ditiru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=model",
+  "related": [],
+  "detailed": false
+}

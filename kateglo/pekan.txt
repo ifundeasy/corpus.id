@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar;"
+      },
+      {
+        "type": "desc",
+        "text": "minggu (7 hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekan",
+  "related": [],
+  "detailed": false
+}

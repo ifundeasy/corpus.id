@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gambaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menggambar; lukisan;"
+      },
+      {
+        "type": "desc",
+        "text": "bayangan;"
+      },
+      {
+        "type": "desc",
+        "text": "uraian; keterangan; penjelasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gambaran",
+  "related": [],
+  "detailed": false
+}

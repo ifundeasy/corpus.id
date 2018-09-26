@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkotek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan bunyi \"kotek, kotek\";"
+      },
+      {
+        "type": "desc",
+        "text": "berekor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkotek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kitab kejadian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab suci yang menceritakan terjadinya alam semesta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitab%20kejadian",
+  "related": [],
+  "detailed": false
+}

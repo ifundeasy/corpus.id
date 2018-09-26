@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "himne",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian pujaan (untuk Tuhan dsb); gita puja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=himne",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "sembrono;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "brigadir",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "brigadir jenderal polisi"
+      },
+      {
+        "type": "link",
+        "text": "brigadir jenderal TNI"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=brigadir",
+  "related": [],
+  "detailed": false
+}

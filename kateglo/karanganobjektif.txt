@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karangan objektif",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "karangan yang terbentuk berdasarkan pembagian logis dari pokok karangan atau hal-hal utama dalam karangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karangan%20objektif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sporadis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan penyebaran tumbuhan atau penyakit di suatu daerah yang tidak merata dan hanya dijumpai di sana sini;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tentu; kadang kala; kadang-kadang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sporadis",
+  "related": [],
+  "detailed": false
+}

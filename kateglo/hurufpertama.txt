@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf besar yang digunakan pada permulaan suatu kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20pertama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejumlah energi yang terkandung dalam cadangan tubuh atau dalam hasil produksi, misal lemak badan, protein tubuh, air susu, telur, wol, atau tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20bersih",
+  "related": [],
+  "detailed": false
+}

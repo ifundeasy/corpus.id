@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panteon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuil (candi) tempat pemujaan dewa;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan makam yang di dalamnya terdapat tanda peringatan mengenang orang kenamaan yang telah meninggal (seperti monumen, patung);"
+      },
+      {
+        "type": "desc",
+        "text": "dewa-dewa suatu bangsa, terutama dewa yang diakui secara resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok orang termasyhur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panteon",
+  "related": [],
+  "detailed": false
+}

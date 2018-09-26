@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biro keuangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unit kerja di suatu instansi yang mengurusi masalah keuangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro%20keuangan",
+  "related": [],
+  "detailed": false
+}

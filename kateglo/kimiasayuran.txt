@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia sayuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang aspek kimia dalam sayuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20sayuran",
+  "related": [],
+  "detailed": false
+}

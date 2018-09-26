@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok atau regu yang melakukan tugas jaga siang atau malam hari (biasanya dalam kesatuan militer, rumah sakit, kantor, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan tugas piket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piket",
+  "related": [],
+  "detailed": false
+}

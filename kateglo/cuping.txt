@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang tidak bertulang pada daun telinga dan hidung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) sudut atau kiri dan/atau kanan pada halaman pertama surat kabar;"
+      },
+      {
+        "type": "desc",
+        "text": "cuatan kanan kiri pada matris huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuping",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyurati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menulisi; menulis pada;"
+      },
+      {
+        "type": "desc",
+        "text": "berkirim surat kepada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyurati",
+  "related": [],
+  "detailed": false
+}

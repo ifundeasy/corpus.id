@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelengkapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal lengkap; kegenapan; kekompletan;"
+      },
+      {
+        "type": "desc",
+        "text": "segala yang sudah dilengkapkan (disediakan dsb) untuk berlayar (berperang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) armada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelengkapan",
+  "related": [],
+  "detailed": false
+}

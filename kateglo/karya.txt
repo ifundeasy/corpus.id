@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil perbuatan; buatan; ciptaan (terutama hasil karangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karya",
+  "related": [],
+  "detailed": false
+}

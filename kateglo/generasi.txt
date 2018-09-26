@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "generasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekalian orang yang kira-kira sama waktu hidupnya; angkatan; turunan;"
+      },
+      {
+        "type": "desc",
+        "text": "masa orang-orang satu angkatan hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generasi",
+  "related": [],
+  "detailed": false
+}

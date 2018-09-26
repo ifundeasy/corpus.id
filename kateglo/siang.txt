@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian hari yang terang (yaitu dari matahari terbit sampai terbenam);"
+      },
+      {
+        "type": "desc",
+        "text": "waktu antara pagi dengan petang (kira-kira pukul 11.00—14.00);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lepas pagi atau hampir tengah hari; sudah lepas tengah hari atau hampir petang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terang (dalam arti bersih, tidak ada rumputnya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siang",
+  "related": [],
+  "detailed": false
+}

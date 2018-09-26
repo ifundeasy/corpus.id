@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jolong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "menjolong"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) mula-mula; mulai; pertama-tama (tentang pohon yang mulai berbuah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jolong",
+  "related": [],
+  "detailed": false
+}

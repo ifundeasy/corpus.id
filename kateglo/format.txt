@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "format",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk dan ukuran (buku, surat kabar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=format",
+  "related": [],
+  "detailed": false
+}

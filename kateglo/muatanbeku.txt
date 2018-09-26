@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan beku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "muatan yang sudah dibekukan sebelum dikapalkan dan tetap dijaga dalam keadaan beku selama perjalanan dengan suhu antara 10oF sampai 18oF;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20beku",
+  "related": [],
+  "detailed": false
+}

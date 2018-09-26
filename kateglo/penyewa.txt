@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyewa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyewa;"
+      },
+      {
+        "type": "desc",
+        "text": "uang dsb untuk menyewa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyewa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari perkara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari pasal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari%20perkara",
+  "related": [],
+  "detailed": false
+}

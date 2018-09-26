@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita fantastik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita yang melukiskan keadaan adikodrati (supernatural);"
+      },
+      {
+        "type": "desc",
+        "text": "cerita yang didasarkan pada fantasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20fantastik",
+  "related": [],
+  "detailed": false
+}

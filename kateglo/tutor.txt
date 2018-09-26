@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tutor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi pelajaran (membimbing) kepada seseorang atau sejumlah kecil siswa (di rumah, bukan di sekolah);"
+      },
+      {
+        "type": "desc",
+        "text": "dosen yang membimbing sejumlah mahasiswa dalam pelajarannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutor",
+  "related": [],
+  "detailed": false
+}

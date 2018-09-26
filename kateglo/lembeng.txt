@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara yang nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "bawel;"
+      },
+      {
+        "type": "desc",
+        "text": "suka menangis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembeng",
+  "related": [],
+  "detailed": false
+}

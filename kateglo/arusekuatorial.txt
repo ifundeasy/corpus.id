@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus ekuatorial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) arus laut yang terdapat di sekitar ekuator berupa arus ekuator selatan dan utara di Samudra Atlantik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20ekuatorial",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plaza",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alun-alun di kota;"
+      },
+      {
+        "type": "desc",
+        "text": "pusat pertokoan dengan tempat parkir;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang luas dan beraspal untuk mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plaza",
+  "related": [],
+  "detailed": false
+}

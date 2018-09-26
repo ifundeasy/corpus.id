@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deviasi sekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) sekat hidung yang menyimpang ke kiri atau ke kanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deviasi%20sekat",
+  "related": [],
+  "detailed": false
+}

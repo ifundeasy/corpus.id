@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pikir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akal budi; ingatan; angan-angan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata dalam hati; pendapat (pertimbangan); kira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikir",
+  "related": [],
+  "detailed": false
+}

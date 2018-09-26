@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota badan dari pergelangan tangan sampai ke bahu;"
+      },
+      {
+        "type": "desc",
+        "text": "kaki depan (tentang binatang berkaki empat);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bagian benda yang menyerupai lengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengan",
+  "related": [],
+  "detailed": false
+}

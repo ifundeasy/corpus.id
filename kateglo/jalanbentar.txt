@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan bentar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan (lintas) searah, biasanya mengelilingi (mengitari) kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20bentar",
+  "related": [],
+  "detailed": false
+}

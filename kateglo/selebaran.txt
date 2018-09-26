@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selebaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan tidak berjilid (tidak berkulit) yang disebarkan kepada umum, biasanya untuk mempropagandakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaran kecil barang cetakan, baik dilipat maupun tidak, untuk memudahkan penyebaran dengan tujuan promosi; surat sebaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selebaran",
+  "related": [],
+  "detailed": false
+}

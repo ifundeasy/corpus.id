@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diulang(i);"
+      },
+      {
+        "type": "desc",
+        "text": "ujian untuk mengetahui kemampuan murid-murid tentang bagian pelajaran yang sudah diajarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata (baris sajak, nyanyian) yang diulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulangan",
+  "related": [],
+  "detailed": false
+}

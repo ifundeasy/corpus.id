@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekam medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman mengenai hasil pengobatan terhadap pasien;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekam%20medis",
+  "related": [],
+  "detailed": false
+}

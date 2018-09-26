@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beruas-ruas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada ruas-ruasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa ruas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beruas-ruas",
+  "related": [],
+  "detailed": false
+}

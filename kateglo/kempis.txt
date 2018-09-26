@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menjadi pipih (kendur dsb) karena hilang atau kurang isinya (tidak gembung lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi keluar atau habis anginnya (tentang ban);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "botol yang dibebat dengan anyaman rotan (untuk tempat air minum dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempis",
+  "related": [],
+  "detailed": false
+}

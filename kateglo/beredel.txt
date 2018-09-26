@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beredel",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memberedel"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beredel",
+  "related": [],
+  "detailed": false
+}

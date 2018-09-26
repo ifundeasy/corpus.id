@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selamat ulang tahun",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah-mudahan selamat dalam memperingati hari lahir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selamat%20ulang%20tahun",
+  "related": [],
+  "detailed": false
+}

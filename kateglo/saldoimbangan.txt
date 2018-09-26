@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saldo imbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) sejumlah saldo rekening simpanan yang harus dipelihara debitor pada bank pemberi kredit sebagai imbangan minimum terhadap pemakai kredit tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saldo%20imbangan",
+  "related": [],
+  "detailed": false
+}

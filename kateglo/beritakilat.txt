@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buletin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20kilat",
+  "related": [],
+  "detailed": false
+}

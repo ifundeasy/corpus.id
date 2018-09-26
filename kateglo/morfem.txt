@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bentuk bahasa terkecil yang mempunyai makna secara relatif stabil dan tidak dapat dibagi atas bagian bermakna yang lebih kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem",
+  "related": [],
+  "detailed": false
+}

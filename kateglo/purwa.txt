@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purwa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mula-mula; permulaan; dahulu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang mengisahkan cerita Mahabarata dan Ramayana (tentang wayang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purwa",
+  "related": [],
+  "detailed": false
+}

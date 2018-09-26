@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbukuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal buku;"
+      },
+      {
+        "type": "desc",
+        "text": "sendi; persendian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbukuan",
+  "related": [],
+  "detailed": false
+}

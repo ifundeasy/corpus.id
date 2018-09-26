@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "curah hujan neto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "volume curah hujan yang tersedia untuk limpasan hujan langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curah%20hujan%20neto",
+  "related": [],
+  "detailed": false
+}

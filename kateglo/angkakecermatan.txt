@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka kecermatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) angka yang merupakan presentasi yang diperoleh dari perbandingan antara jumlah surat yang ditemukan dan yang tidak ditemukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20kecermatan",
+  "related": [],
+  "detailed": false
+}

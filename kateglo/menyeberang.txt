@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyeberang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan dsb ke seberang sana;"
+      },
+      {
+        "type": "desc",
+        "text": "mengarungi (sungai, jalan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berpindah ke sebelah;"
+      },
+      {
+        "type": "desc",
+        "text": "menyeberangi;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) membelot (ke pihak musuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyeberang",
+  "related": [],
+  "detailed": false
+}

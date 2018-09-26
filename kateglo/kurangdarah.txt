@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurang darah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh tidak cukupnya butir darah merah di dalam tubuh seseorang; anemia;"
+      },
+      {
+        "type": "desc",
+        "text": "lesu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurang%20darah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba impersonal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang hanya dipakai dalam persona ketiga singularis dan tidak bersangkutan dengan nomina tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20impersonal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengurung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan ke dalam kurungan (penjara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membiarkan ada di dalam rumah saja;"
+      },
+      {
+        "type": "desc",
+        "text": "mengepung (musuh dsb) supaya jangan lolos;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi bertanda kurung (pada angka dalam hitungan atau pada kata dalam kalimat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengurung",
+  "related": [],
+  "detailed": false
+}

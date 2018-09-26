@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbicara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkata; bercakap; berbahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "melahirkan pendapat (dengan perkataan, tulisan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berunding; merundingkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) digunakan untuk (membunuh, melukai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbicara",
+  "related": [],
+  "detailed": false
+}

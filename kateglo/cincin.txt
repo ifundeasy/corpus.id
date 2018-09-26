@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cincin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhiasan berupa lingkaran kecil yang dipakai di jari, ada yang berpermata, ada yang tidak;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang berbentuk lingkaran (seperti gelang-gelang kecil pada tombak atau mata rantai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cincin",
+  "related": [],
+  "detailed": false
+}

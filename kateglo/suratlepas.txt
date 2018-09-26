@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat lepas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat pernyataan berhenti dari pekerjaan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20lepas",
+  "related": [],
+  "detailed": false
+}

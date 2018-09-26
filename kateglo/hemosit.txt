@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemosit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sel darah merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemosit",
+  "related": [],
+  "detailed": false
+}

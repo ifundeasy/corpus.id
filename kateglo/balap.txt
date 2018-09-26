@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(lomba) adu kecepatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pacuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan menyeberang (sungai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjelajah;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan melintas (rimba);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menempuh (kesukaran dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arung",
+  "related": [],
+  "detailed": false
+}

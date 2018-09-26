@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang diberikan pada akhir waktu suatu pelajaran, misal pada akhir tahun, semester;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20akhir",
+  "related": [],
+  "detailed": false
+}

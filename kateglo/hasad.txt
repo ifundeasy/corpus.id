@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hasad",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "dengki;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedengkian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasad",
+  "related": [],
+  "detailed": false
+}

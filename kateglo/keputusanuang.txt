@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keputusan uang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehabisan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keputusan%20uang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "getap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pecah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "getapan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=getap",
+  "related": [],
+  "detailed": false
+}

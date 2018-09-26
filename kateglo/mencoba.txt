@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencoba",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerjakan (berbuat) sesuatu untuk mengetahui keadaannya dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenakan (baju, sepatu) untuk mengetahui pas tidaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "berusaha melakukan (berbuat) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "mencicipi (makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "menguji (kepandaian, kesetiaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencoba",
+  "related": [],
+  "detailed": false
+}

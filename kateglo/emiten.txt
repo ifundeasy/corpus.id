@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emiten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan usaha (pemerintah) yang mengeluarkan kertas berharga untuk diperjualbelikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emiten",
+  "related": [],
+  "detailed": false
+}

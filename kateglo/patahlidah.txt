@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "patah lidah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat mengucapkan kata-kata dengan baik; tidak fasih;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat mengatakan sesuatu karena merasa berutang budi dsb; gugup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patah%20lidah",
+  "related": [],
+  "detailed": false
+}

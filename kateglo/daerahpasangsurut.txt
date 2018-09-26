@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pasang surut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang secara teratur terkena perubahan (pasang surut) air oleh air pasang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pasang%20surut",
+  "related": [],
+  "detailed": false
+}

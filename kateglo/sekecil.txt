@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekecil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama kecilnya;"
+      },
+      {
+        "type": "desc",
+        "text": "semuda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekecil",
+  "related": [],
+  "detailed": false
+}

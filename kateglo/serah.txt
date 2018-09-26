@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berserah"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "sirah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serah",
+  "related": [],
+  "detailed": false
+}

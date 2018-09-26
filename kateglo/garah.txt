@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "garah-garah"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggarah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garah",
+  "related": [],
+  "detailed": false
+}

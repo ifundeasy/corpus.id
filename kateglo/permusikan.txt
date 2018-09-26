@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permusikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal musik; seluk-beluk musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permusikan",
+  "related": [],
+  "detailed": false
+}

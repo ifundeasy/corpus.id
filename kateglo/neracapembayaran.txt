@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "neraca pembayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) perbandingan penerimaan uang antara dua negara (dalam perdagangan dunia); daftar perkiraan yang terperinci tentang transaksi perdagangan yang diselenggarakan oleh negara dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neraca%20pembayaran",
+  "related": [],
+  "detailed": false
+}

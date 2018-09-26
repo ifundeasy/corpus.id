@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "polisi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) penjaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reksa",
+  "related": [],
+  "detailed": false
+}

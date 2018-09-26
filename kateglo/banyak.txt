@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banyak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar jumlahnya; tidak sedikit;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "jumlah bilangan;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(cak) amat; sangat; lebih-lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banyak",
+  "related": [],
+  "detailed": false
+}

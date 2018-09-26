@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaun;"
+      },
+      {
+        "type": "desc",
+        "text": "baju perempuan bagian bawah (bawahan);"
+      },
+      {
+        "type": "link",
+        "text": "musik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampak seperti asli (sebenarnya), padahal sama sekali bukan yang asli (sebenarnya);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipu; muslihat;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan yang mendekati (agak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semu",
+  "related": [],
+  "detailed": false
+}

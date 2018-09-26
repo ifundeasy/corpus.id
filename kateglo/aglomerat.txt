@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aglomerat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "gumpalan batuan yang terdiri atas komponen batu bersudut, batu bulat, atau kerikil yang pekat menjadi satu karena adanya bahan perekat (misal tanah liat);"
+      },
+      {
+        "type": "desc",
+        "text": "batuan sedimen untuk batuan endapan vulkanis yang diikat oleh abu kepundan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aglomerat",
+  "related": [],
+  "detailed": false
+}

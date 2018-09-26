@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek kedaluwarsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cek yang hak penagihan pembayarannya telah melampaui batas waktu yang telah ditetapkan, yaitu setelah enam bulan lewat, terhitung sejak berakhirnya tenggang waktu 70 hari setelah tanggal penarikannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20kedaluwarsa",
+  "related": [],
+  "detailed": false
+}

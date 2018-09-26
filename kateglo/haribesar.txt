@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari yang dirayakan untuk memperingati suatu peristiwa penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20besar",
+  "related": [],
+  "detailed": false
+}

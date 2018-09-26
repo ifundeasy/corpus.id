@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perladangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat orang berladang;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal tanam-menanam di ladang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perladangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuring",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "coreng; loreng;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "rakyat biasa; rakyat jelata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuring",
+  "related": [],
+  "detailed": false
+}

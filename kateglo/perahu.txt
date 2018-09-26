@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perahu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan air (biasanya tidak bergeladak) yang lancip pada kedua ujungnya dan lebar di tengahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perahu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan dimurnikan sebagian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan buatan yang terdiri atas campuran bahan makanan yang dimurnikan (misal asam amino dan asam lemak) dan sebagian besar bahan-bahan yang tidak dimurnikan (misal tepung jagung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20dimurnikan%20sebagian",
+  "related": [],
+  "detailed": false
+}

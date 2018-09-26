@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pun",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "juga atau demikian juga;"
+      },
+      {
+        "type": "desc",
+        "text": "meski; biar; kendati;"
+      },
+      {
+        "type": "desc",
+        "text": "(saja ...);"
+      },
+      {
+        "type": "desc",
+        "text": "(.. pun ... lah) untuk menyatakan aspek bahwa perbuatan mulai terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "untuk menguatkan dan menyatakan pokok kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pun",
+  "related": [],
+  "detailed": false
+}

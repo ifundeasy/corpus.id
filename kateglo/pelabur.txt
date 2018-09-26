@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bekal (makanan atau uang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabur",
+  "related": [],
+  "detailed": false
+}

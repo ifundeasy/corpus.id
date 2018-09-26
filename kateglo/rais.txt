@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rais",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketua; pemimpin;"
+      },
+      {
+        "type": "desc",
+        "text": "presiden;"
+      },
+      {
+        "type": "link",
+        "text": "merais"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rais",
+  "related": [],
+  "detailed": false
+}

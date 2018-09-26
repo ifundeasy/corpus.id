@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "muram; suram;"
+      },
+      {
+        "type": "desc",
+        "text": "redup (tentang cuaca); mendung;"
+      },
+      {
+        "type": "desc",
+        "text": "berlinang (tentang air mata);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyabak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu tulis (alat tulis yang dibuat dari batu berbentuk papan tipis diberi bingkai untuk ditulisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabak",
+  "related": [],
+  "detailed": false
+}

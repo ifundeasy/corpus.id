@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter mata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang ahli dalam penyakit mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20mata",
+  "related": [],
+  "detailed": false
+}

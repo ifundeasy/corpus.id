@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang pilar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Min) cara penambangan bawah tanah untuk bahan galian yang dilakukan dengan menggali bahan galian itu dan meninggalkan pilar sebagai penyangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20pilar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "direktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemimpin tertinggi dalam suatu perusahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala sekolah menengah;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala direktorat (dalam departemen);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertugas memberikan bimbingan melalui pengarahan, nasihat, bantuan, penerangan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=direktur",
+  "related": [],
+  "detailed": false
+}

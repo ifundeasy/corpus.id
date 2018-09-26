@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat-obatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai macam obat; ramuan obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat-obatan",
+  "related": [],
+  "detailed": false
+}

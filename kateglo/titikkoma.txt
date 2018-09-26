@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik koma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca berupa titik dan koma (;) untuk menandai bagian kalimat yang sejenis dan setara, juga untuk memisahkan kalimat yang setara dalam kalimat majemuk sebagai pengganti kata penghubung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20koma",
+  "related": [],
+  "detailed": false
+}

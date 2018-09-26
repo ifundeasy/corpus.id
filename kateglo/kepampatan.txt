@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepampatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pampat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepampatan",
+  "related": [],
+  "detailed": false
+}

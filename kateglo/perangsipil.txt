@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perang sipil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perang saudara;"
+      },
+      {
+        "type": "desc",
+        "text": "perang saudara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perang%20sipil",
+  "related": [],
+  "detailed": false
+}

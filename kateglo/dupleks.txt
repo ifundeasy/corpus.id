@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dupleks",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rangkap dua;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan atau karton berlapis dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dupleks",
+  "related": [],
+  "detailed": false
+}

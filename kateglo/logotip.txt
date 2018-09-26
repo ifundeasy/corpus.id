@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logotip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) kepingan atau pelat yang memuat merek, nama, atau ungkapan yang sering dipakai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logotip",
+  "related": [],
+  "detailed": false
+}

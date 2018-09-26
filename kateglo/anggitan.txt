@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dianggit;"
+      },
+      {
+        "type": "desc",
+        "text": "gubahan; karangan rekaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggitan",
+  "related": [],
+  "detailed": false
+}

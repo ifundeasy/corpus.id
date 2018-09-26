@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "racau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meracau"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) lincah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=racau",
+  "related": [],
+  "detailed": false
+}

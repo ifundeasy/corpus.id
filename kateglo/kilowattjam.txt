@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilowattjam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) satuan energi listrik bohlam sebesar 1.000 watt yang menyala selama 1 jam yang menghabiskan energi listrik sebanyak 1 kilowatt-jam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilowattjam",
+  "related": [],
+  "detailed": false
+}

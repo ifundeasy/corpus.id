@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gen terkait",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gen yang cenderung diwariskan bersama-sama karena terdapat dalam kromosom yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gen%20terkait",
+  "related": [],
+  "detailed": false
+}

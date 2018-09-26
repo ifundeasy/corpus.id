@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "informasi pen-didikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan tentang jenis pendidikan yang tersedia, misal tentang syarat memasuki sekolah, lama pendidikan, fasilitas yang ter-sedia, tata tertib, dan kegiatan ekstrakurikuler;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informasi%20pen-didikan",
+  "related": [],
+  "detailed": false
+}

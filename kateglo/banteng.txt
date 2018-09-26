@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banteng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembu hutan (lembu yang masih liar); Bos sondaicus;"
+      },
+      {
+        "type": "desc",
+        "text": "lembu; sapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banteng",
+  "related": [],
+  "detailed": false
+}

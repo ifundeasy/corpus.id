@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takol",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Sd) →"
+      },
+      {
+        "type": "link",
+        "text": "menakol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takol",
+  "related": [],
+  "detailed": false
+}

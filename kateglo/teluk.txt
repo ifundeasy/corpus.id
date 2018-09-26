@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teluk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian laut yang menjorok ke darat;"
+      },
+      {
+        "type": "desc",
+        "text": "keluk (di pantai);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berteluk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teluk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahan cuaca",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tahan terhadap reaksi kimia dan proses fisika, seperti pengaruh udara, air, bakteri, cahaya, panas, dan perubahan suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahan%20cuaca",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "di mana",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menerangkan tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menunjukkan tempat yang tidak tentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=di%20mana",
+  "related": [],
+  "detailed": false
+}

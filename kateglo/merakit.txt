@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merakit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat rakit;"
+      },
+      {
+        "type": "desc",
+        "text": "menyusun dan menggabungkan bagian-bagian mobil, perahu, mesin, dsb sampai dapat berfungsi dengan baik;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mereka-reka; mencari akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merakit",
+  "related": [],
+  "detailed": false
+}

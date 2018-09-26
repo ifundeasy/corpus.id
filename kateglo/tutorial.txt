@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tutorial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembimbingan kelas oleh seorang pengajar (tutor) untuk seorang mahasiswa atau sekelompok kecil mahasiswa;"
+      },
+      {
+        "type": "desc",
+        "text": "pengajaran tambahan melalui tutor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutorial",
+  "related": [],
+  "detailed": false
+}

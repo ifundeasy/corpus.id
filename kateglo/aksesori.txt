@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aksesori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang tambahan; alat ekstra;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang berfungsi sebagai pelengkap dan pemanis busana;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) yang merupakan tambahan (misal saraf aksesori, yakni otak ke-11);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksesori",
+  "related": [],
+  "detailed": false
+}

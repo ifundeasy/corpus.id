@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bomber",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat terbang pengebom;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang gemuk kekar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bomber",
+  "related": [],
+  "detailed": false
+}

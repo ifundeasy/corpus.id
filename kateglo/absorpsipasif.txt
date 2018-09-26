@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "absorpsi pasif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) absorpsi air oleh tumbuhan dari dalam tanah tanpa memerlukan energi tumbuhan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absorpsi%20pasif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panjang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berjarak jauh (dari ujung ke ujung);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak membujur dari ujung ke ujung;"
+      },
+      {
+        "type": "desc",
+        "text": "lama (waktu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjang",
+  "related": [],
+  "detailed": false
+}

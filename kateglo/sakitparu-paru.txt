@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit paru-paru",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tuberkulosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20paru-paru",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil bagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang dihasilkan oleh suatu pembagian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20bagi",
+  "related": [],
+  "detailed": false
+}

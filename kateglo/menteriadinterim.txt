@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menteri ad interim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "menteri yang merangkap jabatan menteri lain yang berhalangan sementara karena sakit, dinas ke luar negeri, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menteri%20ad%20interim",
+  "related": [],
+  "detailed": false
+}

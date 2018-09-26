@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarif biasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarif tanpa potongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif%20biasa",
+  "related": [],
+  "detailed": false
+}

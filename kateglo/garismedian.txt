@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis median",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) sebarang garis pada bidang yang membagi segugus titik menjadi dua gugus dengan titik-titik yang sama banyaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20median",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelar wicara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "acara bincang-bincang di televisi atau radio yang dilakukan dalam suatu panel yang terdiri atas beberapa tokoh dan dipandu oleh pembawa acara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelar%20wicara",
+  "related": [],
+  "detailed": false
+}

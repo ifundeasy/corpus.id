@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa tutur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa lisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20tutur",
+  "related": [],
+  "detailed": false
+}

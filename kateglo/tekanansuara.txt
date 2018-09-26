@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aksen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20suara",
+  "related": [],
+  "detailed": false
+}

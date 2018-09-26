@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telanjang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak berpakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "terhunus (tidak bersarung tentang keris, pedang);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mempunyai pakaian (perhiasan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telanjang",
+  "related": [],
+  "detailed": false
+}

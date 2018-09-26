@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amunisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan pengisi senjata api (seperti mesiu, peluru);"
+      },
+      {
+        "type": "desc",
+        "text": "bahan (alat) peledak yang ditembakkan kepada musuh (seperti bom, granat, roket);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amunisi",
+  "related": [],
+  "detailed": false
+}

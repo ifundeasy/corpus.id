@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menurut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan dsb melalui atau mengikuti (jalan, garis, jejak, dipakai juga dalam arti kiasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meniru; mencontoh; meneladan;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan apa yang diperintahkan (disetujui, dikatakan, dsb); tidak melawan (membantah atau menentang); mengindahkan (nasihat, petunjuk, ajaran, dsb); patuh kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi (syarat, ketentuan, harapan, permintaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ikut;"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "berdasar; sepanjang (kabar, pendapat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai dengan (tidak melanggar, tidak bertentangan dengan); selaras dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menurut",
+  "related": [],
+  "detailed": false
+}

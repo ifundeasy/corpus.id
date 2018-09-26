@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banyak sedikit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "banyaknya (jumlahnya, bilangannya);"
+      },
+      {
+        "type": "desc",
+        "text": "meski sedikit atau banyak; barang sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "setidak-tidaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banyak%20sedikit",
+  "related": [],
+  "detailed": false
+}

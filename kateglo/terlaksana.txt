@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlaksana",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah (dapat) dilaksanakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlaksana",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemrosesan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memproses;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan memproses (dalam pengadilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemrosesan",
+  "related": [],
+  "detailed": false
+}

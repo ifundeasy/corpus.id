@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sibar-sibar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sibar;"
+      },
+      {
+        "type": "desc",
+        "text": "sibar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sibar-sibar",
+  "related": [],
+  "detailed": false
+}

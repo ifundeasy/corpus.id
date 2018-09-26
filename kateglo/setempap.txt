@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setempap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "setelempap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setempap",
+  "related": [],
+  "detailed": false
+}

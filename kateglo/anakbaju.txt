@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20baju",
+  "related": [],
+  "detailed": false
+}

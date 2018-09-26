@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genderang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gendang besar;"
+      },
+      {
+        "type": "desc",
+        "text": "tambur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genderang",
+  "related": [],
+  "detailed": false
+}

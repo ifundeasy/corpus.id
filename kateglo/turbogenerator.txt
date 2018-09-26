@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turbogenerator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) susunan mesin yang terdiri atas sebuah generator yang dihubungkan langsung dengan turbin (dipakai untuk menimbulkan tenaga listrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turbogenerator",
+  "related": [],
+  "detailed": false
+}

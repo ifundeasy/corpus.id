@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pohon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang berbatang keras dan besar; pokok kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang permulaan atau yang dianggap dasar; pangkal;"
+      },
+      {
+        "type": "desc",
+        "text": "asal mula; pokok sebab; pulang -- , selamatan setahun (dua tahun dsb) sesudah orang meninggal;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memohon"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pohon",
+  "related": [],
+  "detailed": false
+}

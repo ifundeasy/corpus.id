@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berpaut"
+      },
+      {
+        "type": "link",
+        "text": "terpaut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paut",
+  "related": [],
+  "detailed": false
+}

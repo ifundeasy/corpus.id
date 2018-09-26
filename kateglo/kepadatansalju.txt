@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadatan salju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat salju per satuan volume;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadatan%20salju",
+  "related": [],
+  "detailed": false
+}

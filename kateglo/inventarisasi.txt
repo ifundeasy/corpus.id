@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inventarisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm)"
+      },
+      {
+        "type": "desc",
+        "text": "pencatatan atau pendaftaran barang-barang milik kantor, (sekolah, rumah tangga, dsb) yang dipakai dalam melaksanakan tugas;"
+      },
+      {
+        "type": "desc",
+        "text": "pencatat- an atau pengumpulan data (tentang kegiatan, hasil yang dicapai, pendapat umum, persuratkabaran, kebudayaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inventarisasi",
+  "related": [],
+  "detailed": false
+}

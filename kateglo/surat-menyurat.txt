@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat-menyurat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkirim-kiriman surat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tulis-menulis (karang-mengarang) surat; korespondensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat-menyurat",
+  "related": [],
+  "detailed": false
+}

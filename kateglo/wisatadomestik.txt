@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata domestik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "wisata di dalam negeri sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20domestik",
+  "related": [],
+  "detailed": false
+}

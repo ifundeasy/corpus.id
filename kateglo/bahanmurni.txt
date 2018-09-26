@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan murni",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang memiliki identitas kimia yang tunggal dan struktur kimia yang sama dalam semua keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20murni",
+  "related": [],
+  "detailed": false
+}

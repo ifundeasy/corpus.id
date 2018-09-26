@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epigenesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "konsep tentang berkembangnya suatu makhluk dengan pemunculan struktur dan fungsinya; pada fase embrio;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan ciri mineral batuan yang disebabkan oleh pengaruh luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epigenesis",
+  "related": [],
+  "detailed": false
+}

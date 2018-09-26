@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan Ruwah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan Syakban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20Ruwah",
+  "related": [],
+  "detailed": false
+}

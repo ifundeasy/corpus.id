@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suku tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiga bulan; triwulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suku%20tahun",
+  "related": [],
+  "detailed": false
+}

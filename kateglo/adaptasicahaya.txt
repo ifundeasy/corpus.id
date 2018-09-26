@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adaptasi cahaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyesuaian pupil mata terhadap cahaya yang meningkat, misal sehabis menonton film yang langsung mendapat cahaya terang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adaptasi%20cahaya",
+  "related": [],
+  "detailed": false
+}

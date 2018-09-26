@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debug",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) usaha menemukan dan memperbaiki kesalahan program;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debug",
+  "related": [],
+  "detailed": false
+}

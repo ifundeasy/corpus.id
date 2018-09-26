@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hampa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berisi; kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak bergairah; sepi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sia-sia; tidak ada hasilnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bodoh; tidak berpengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hampa",
+  "related": [],
+  "detailed": false
+}

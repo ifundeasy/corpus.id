@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takrif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "penentuan;"
+      },
+      {
+        "type": "desc",
+        "text": "definisi; batasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takrif",
+  "related": [],
+  "detailed": false
+}

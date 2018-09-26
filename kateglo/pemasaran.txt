@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemasaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memasarkan suatu barang dagangan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menyebarluaskan ke tengah-tengah masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemasaran",
+  "related": [],
+  "detailed": false
+}

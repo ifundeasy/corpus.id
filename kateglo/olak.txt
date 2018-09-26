@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "olak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak berputar (berpusing);"
+      },
+      {
+        "type": "desc",
+        "text": "gelendong kayu yang berputar (pada alat tenun);"
+      },
+      {
+        "type": "desc",
+        "text": "ombak kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali; ulang;"
+      },
+      {
+        "type": "desc",
+        "text": "hilir;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali; ulang; membayar -- , membayar kembali;"
+      },
+      {
+        "type": "link",
+        "text": "berolak"
+      },
+      {
+        "type": "link",
+        "text": "mengolak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=olak",
+  "related": [],
+  "detailed": false
+}

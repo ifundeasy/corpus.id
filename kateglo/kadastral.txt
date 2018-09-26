@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kadastral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesuai dengan batas-batas tanah yang ditentukan oleh badan pencatat tanah milik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadastral",
+  "related": [],
+  "detailed": false
+}

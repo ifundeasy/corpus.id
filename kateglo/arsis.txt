@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arsis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "tekanan suara naik;"
+      },
+      {
+        "type": "desc",
+        "text": "suku kata yang mendapat tekanan pada suatu kaki sajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arsis",
+  "related": [],
+  "detailed": false
+}

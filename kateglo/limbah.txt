@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limbah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa proses produksi;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan yang tidak mempunyai nilai atau tidak berharga untuk maksud biasa atau utama dalam pembuatan atau pemakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "barang rusak atau cacat dalam proses produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah",
+  "related": [],
+  "detailed": false
+}

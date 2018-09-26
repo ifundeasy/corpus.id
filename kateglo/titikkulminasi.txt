@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik kulminasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik puncak (tertinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20kulminasi",
+  "related": [],
+  "detailed": false
+}

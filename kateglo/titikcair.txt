@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik cair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suhu tertentu yang menunjukkan benda padat mulai meleleh atau mencair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20cair",
+  "related": [],
+  "detailed": false
+}

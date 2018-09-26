@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat angkut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang digunakan untuk membawa muatan dari satu tempat ke tempat lain (seperti mobil, kereta api, kapal laut, kapal terbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20angkut",
+  "related": [],
+  "detailed": false
+}

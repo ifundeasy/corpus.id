@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontur intonasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pola turun-naiknya nada yang menyertai ujaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontur%20intonasi",
+  "related": [],
+  "detailed": false
+}

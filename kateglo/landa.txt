@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "landa",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melanda"
+      },
+      {
+        "type": "link",
+        "text": "melanda"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "air abu batang padi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=landa",
+  "related": [],
+  "detailed": false
+}

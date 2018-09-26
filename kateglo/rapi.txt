@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rapi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik, teratur, dan bersih; apik;"
+      },
+      {
+        "type": "desc",
+        "text": "teratur baik; tertib;"
+      },
+      {
+        "type": "desc",
+        "text": "serba beres dan menyenangkan (pekerjaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "siap sedia; siaga;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagaimana mestinya; tidak asal saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapi",
+  "related": [],
+  "detailed": false
+}

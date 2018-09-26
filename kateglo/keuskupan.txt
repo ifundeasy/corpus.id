@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keuskupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah atau daerah yang menjadi wewenang uskup;"
+      },
+      {
+        "type": "desc",
+        "text": "seluk-beluk (tugas) uskup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keuskupan",
+  "related": [],
+  "detailed": false
+}

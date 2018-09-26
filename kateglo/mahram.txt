@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mahram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (perempuan, laki-laki) yang masih termasuk sanak saudara dekat karena keturunan, sesusuan, atau hubungan perkawinan sehingga tidak boleh menikah di antaranya;"
+      },
+      {
+        "type": "desc",
+        "text": "orang laki-laki yang dianggap dapat melindungi wanita yang akan melakukan ibadah haji (suami, anak laki-laki, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "helai (daun, kertas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "muka (dalam surat kabar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terbitan (surat kabar, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaran",
+  "related": [],
+  "detailed": false
+}

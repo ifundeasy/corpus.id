@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silah",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sila"
+      },
+      {
+        "type": "link",
+        "text": "silsilah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silah",
+  "related": [],
+  "detailed": false
+}

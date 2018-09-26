@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "film seri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film dengan tokoh-tokoh utama yang sama tetapi dengan cerita-cerita yang berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=film%20seri",
+  "related": [],
+  "detailed": false
+}

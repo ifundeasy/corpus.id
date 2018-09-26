@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "translokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) pemindahan makanan dalam tumbuhan dari tempat pembuatan atau penyimpanan ke tempat yang memerlukannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=translokasi",
+  "related": [],
+  "detailed": false
+}

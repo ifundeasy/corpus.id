@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelesiran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi berpelesir; senang berpelesiran;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berpelesir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelesiran",
+  "related": [],
+  "detailed": false
+}

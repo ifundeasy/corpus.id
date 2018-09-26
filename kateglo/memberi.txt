@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyerahkan (membagikan, menyampaikan) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "menyediakan (melakukan dsb) sesuatu untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "memperbolehkan; mengizinkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyebabkan (menjadikan) menderita (kena);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan supaya;"
+      },
+      {
+        "type": "desc",
+        "text": "membubuhi (meletakkan, mengenakan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengucapkan (menyampaikan);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) melayangkan, mengirimkan, dsb (pukulan, tendangan);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi harapan;"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangkan keuntungan (kemujuran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberi",
+  "related": [],
+  "detailed": false
+}

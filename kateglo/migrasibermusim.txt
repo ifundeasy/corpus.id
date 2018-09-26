@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "migrasi bermusim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk yang terjadi dalam musim tertentu ke tempat tertentu dan kembali ke tempat asal dalam musim yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=migrasi%20bermusim",
+  "related": [],
+  "detailed": false
+}

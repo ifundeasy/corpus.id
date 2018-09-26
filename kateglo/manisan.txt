@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang rasanya manis; gula-gula;"
+      },
+      {
+        "type": "desc",
+        "text": "buah-buahan yang direndam dalam air gula; halwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manisan",
+  "related": [],
+  "detailed": false
+}

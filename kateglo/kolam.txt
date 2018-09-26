@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ceruk di tanah yang agak luas dan dalam berisi air (untuk memiara ikan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bak tempat air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolam",
+  "related": [],
+  "detailed": false
+}

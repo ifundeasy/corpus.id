@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli filologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filolog",
+  "related": [],
+  "detailed": false
+}

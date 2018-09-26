@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grafis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat graf; bersifat huruf; dilambangkan dengan huruf;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat matematika, statistika, dsb dalam wujud titik-titik, garis-garis, atau bidang-bidang yang secara visual dapat menjelaskan hubungan yang ingin disajikan secara terbaik tentang penyajian hasil penghitungan; bersifat grafik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grafis",
+  "related": [],
+  "detailed": false
+}

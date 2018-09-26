@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hadiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian (kenang-kenangan, penghargaan, penghormatan);"
+      },
+      {
+        "type": "desc",
+        "text": "ganjaran (karena memenangkan suatu perlombaan);"
+      },
+      {
+        "type": "desc",
+        "text": "tanda kenang-kenangan (tentang perpisahan); cendera mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadiah",
+  "related": [],
+  "detailed": false
+}

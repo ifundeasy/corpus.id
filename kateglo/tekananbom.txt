@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan bom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pukulan proyektil atau bom pada sasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20bom",
+  "related": [],
+  "detailed": false
+}

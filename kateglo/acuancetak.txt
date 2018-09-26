@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "acuan cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) bingkai atau pelat berisi teks dan/atau gambar yang akan dicetakkan pada bahan cetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acuan%20cetak",
+  "related": [],
+  "detailed": false
+}

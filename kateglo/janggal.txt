@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "janggal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sedap dipandang mata (karena letaknya atau susunannya tidak tepat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sedap didengar (karena iramanya, bunyinya tidak harmonis, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak biasanya; tidak menurut kebiasaan (tentang tingkah laku);"
+      },
+      {
+        "type": "desc",
+        "text": "canggung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=janggal",
+  "related": [],
+  "detailed": false
+}

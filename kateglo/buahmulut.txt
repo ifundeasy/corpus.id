@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah mulut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi bahan sebutan (pembicaraan) orang;"
+      },
+      {
+        "type": "desc",
+        "text": "buah bibir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20mulut",
+  "related": [],
+  "detailed": false
+}

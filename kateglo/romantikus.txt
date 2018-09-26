@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "romantikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganut roman romantik;"
+      },
+      {
+        "type": "desc",
+        "text": "pengarang cerita roman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=romantikus",
+  "related": [],
+  "detailed": false
+}

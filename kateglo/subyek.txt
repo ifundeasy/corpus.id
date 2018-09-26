@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subyek",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "subjek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subyek",
+  "related": [],
+  "detailed": false
+}

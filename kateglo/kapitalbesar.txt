@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapital besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) huruf kapital yang berukuran lebih besar daripada huruf kapital biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapital%20besar",
+  "related": [],
+  "detailed": false
+}

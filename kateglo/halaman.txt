@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekarangan rumah (sekolah dsb); tanah di sekitar rumah (sekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "muka dari lembaran buku (majalah, surat kabar, dsb); pagina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halaman",
+  "related": [],
+  "detailed": false
+}

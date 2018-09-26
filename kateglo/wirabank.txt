@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wirabank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjaga keamanan pada bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wirabank",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menimbulkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan ke atas (permukaan air, tanah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membangkit kembali (perkara yang telah lampau); membangunkan (perasaan, kecurigaan, kecemburuan, dsb); menerbitkan (kebakaran, perang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengakibatkan atau mendatangkan (bencana, kerugian, kerusakan, penyakit, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan atau mendatangkan (kegembiraan, kemarahan, pertikaian, percederaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menimbulkan",
+  "related": [],
+  "detailed": false
+}

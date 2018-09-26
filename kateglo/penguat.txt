@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penguat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menguatkan atau yang dipakai untuk memperkuat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk meningkatkan sesuatu (tegangan arus, dsb); alat untuk membangkitkan medan magnet generator listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan peledak dengan sifat khusus yang digunakan untuk mengawali peledakan bahan peledak berikutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penguat",
+  "related": [],
+  "detailed": false
+}

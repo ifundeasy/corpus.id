@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia anorganik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang unsur dan senyawa yang meliputi air, gas, logam, asam, basa, dan mineral, kecuali karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20anorganik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keputihan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak putih warnanya; tampak putih;"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu putih;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit tentang kelamin wanita yang ditandai dengan keluar lendir putih yang menyebabkan rasa gatal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keputihan",
+  "related": [],
+  "detailed": false
+}

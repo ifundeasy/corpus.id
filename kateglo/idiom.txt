@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "idiom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "konstruksi yang maknanya tidak sama dengan gabungan makna unsurnya, misal kambing hitam dalam kalimat dalam peristiwa itu hansip menjadi kambing hitam, padahal mereka tidak tahu apa-apa;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) bahasa dan dialek yang khas menandai suatu bangsa, suku, kelompok, dll;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=idiom",
+  "related": [],
+  "detailed": false
+}

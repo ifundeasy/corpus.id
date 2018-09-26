@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksemplar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembar; helai;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong benda untuk buku (barang cetakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksemplar",
+  "related": [],
+  "detailed": false
+}

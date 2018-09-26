@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita burung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang belum jelas benar tidaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20burung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabotase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusakan milik pemerintah dsb (oleh pemberontak);"
+      },
+      {
+        "type": "desc",
+        "text": "penghalangan produksi perusahaan atau tindakan merusak dan menentang kelancaran kerja (oleh kaum buruh yang tidak puas);"
+      },
+      {
+        "type": "desc",
+        "text": "pemusnahan fasilitas militer, perhubungan, atau pengangkutan wilayah musuh oleh agen rahasia lawan atau oleh kelompok gerakan perlawanan bawah tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabotase",
+  "related": [],
+  "detailed": false
+}

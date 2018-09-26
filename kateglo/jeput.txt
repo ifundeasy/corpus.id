@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jeput",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penuh;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjeput"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jeput",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta barang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta yang khusus untuk mengangkut barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20barang",
+  "related": [],
+  "detailed": false
+}

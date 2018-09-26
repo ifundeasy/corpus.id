@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbioskopan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk beluk bioskop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbioskopan",
+  "related": [],
+  "detailed": false
+}

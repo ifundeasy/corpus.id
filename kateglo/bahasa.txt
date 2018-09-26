@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "sistem lambang bunyi yang arbitrer, yang digunakan oleh anggota suatu masyarakat untuk bekerja sama, berinteraksi, dan mengidentifikasikan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "percakapan (perkataan) yang baik; tingkah laku yang baik; sopan santun;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(Mk) kata yang digunakan untuk menghubungkan bagian ujaran;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa",
+  "related": [],
+  "detailed": false
+}

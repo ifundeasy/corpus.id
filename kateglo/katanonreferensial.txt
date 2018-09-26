@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata nonreferensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang tidak mempunyai acuan di luar bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20nonreferensial",
+  "related": [],
+  "detailed": false
+}

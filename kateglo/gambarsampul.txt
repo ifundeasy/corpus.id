@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gambar sampul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang dimuat pada kulit muka suatu majalah, biasanya gambar mengenai laporan utama atau khusus terbitan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gambar%20sampul",
+  "related": [],
+  "detailed": false
+}

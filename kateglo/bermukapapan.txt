@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermuka papan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bermuka dinding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermuka%20papan",
+  "related": [],
+  "detailed": false
+}

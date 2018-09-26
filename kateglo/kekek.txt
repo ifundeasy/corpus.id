@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kekek",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terkekek-kekek"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung yang bunyinya \"kek, kek\", Halcyon gchloris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekek",
+  "related": [],
+  "detailed": false
+}

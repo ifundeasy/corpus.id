@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerintahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memerintah;"
+      },
+      {
+        "type": "desc",
+        "text": "segala urusan yang dilakukan oleh negara dalam menyelenggarakan kesejahteraan masyarakat dan kepentingan negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerintahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pernisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang sudah dipernis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pernisan",
+  "related": [],
+  "detailed": false
+}

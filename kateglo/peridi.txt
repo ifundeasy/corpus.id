@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peridi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hewan yang bersifat beranak banyak, misal tikus, kelinci, dan babi;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat beranak banyak; cepat berkembang biak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peridi",
+  "related": [],
+  "detailed": false
+}

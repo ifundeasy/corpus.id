@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legislator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuat undang-undang; anggota dewan legislatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legislator",
+  "related": [],
+  "detailed": false
+}

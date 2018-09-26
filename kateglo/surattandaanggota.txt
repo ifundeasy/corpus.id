@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat tanda anggota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat atau kartu sebagai tanda menjadi anggota perkumpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20tanda%20anggota",
+  "related": [],
+  "detailed": false
+}

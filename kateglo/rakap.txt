@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rakap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "merakap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rakap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengklaim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengklaim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengklaim",
+  "related": [],
+  "detailed": false
+}

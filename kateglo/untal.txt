@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "untal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gentel (obat); pel; gelintir; butir (biji);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menguntal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=untal",
+  "related": [],
+  "detailed": false
+}

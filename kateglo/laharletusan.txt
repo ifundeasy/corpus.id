@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahar letusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lahar yang keluar karena letusan gunung berapi yang berkawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahar%20letusan",
+  "related": [],
+  "detailed": false
+}

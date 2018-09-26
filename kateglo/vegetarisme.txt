@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vegetarisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham yang menyatakan berpantang makan makanan hewani, tetapi hanya makan makanan nabati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vegetarisme",
+  "related": [],
+  "detailed": false
+}

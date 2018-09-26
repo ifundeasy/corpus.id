@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gesekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan menggesek;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menggesek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gesekan",
+  "related": [],
+  "detailed": false
+}

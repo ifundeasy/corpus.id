@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antiseptik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat mencegah pembusuk- an dan pelapukan dengan menghambat atau merusak mikroorganisme (misal etanol, asam borat, dan fenol);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) zat yang terdapat pada jaringan hidup untuk menahan atau menghancurkan pertumbuhan jasad renik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antiseptik",
+  "related": [],
+  "detailed": false
+}

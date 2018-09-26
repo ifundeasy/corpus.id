@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "boros",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berlebih-lebihan dalam pemakaian uang, barang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lepas, terurai (tentang tali yang dikaitkan);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak dalam pemakaian tenaga, bensin, dsb (tentang mesin dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=boros",
+  "related": [],
+  "detailed": false
+}

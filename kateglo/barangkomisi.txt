@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang komisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang dagangan yang dijualkan (untuk orang lain) dengan memperoleh imbalan (komisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20komisi",
+  "related": [],
+  "detailed": false
+}

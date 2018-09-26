@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkenaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan) berkena;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (sasaran) yang harus dikenai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkenaan",
+  "related": [],
+  "detailed": false
+}

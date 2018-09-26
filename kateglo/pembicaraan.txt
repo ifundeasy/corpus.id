@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembicaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "percakapan tentang suatu hal; perundingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembicaraan",
+  "related": [],
+  "detailed": false
+}

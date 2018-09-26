@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus ensiklopedis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kamus yang dilengkapi dengan keterangan yang lebih luas, seperti nama geografis, nama tokoh, gambar dan diagram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20ensiklopedis",
+  "related": [],
+  "detailed": false
+}

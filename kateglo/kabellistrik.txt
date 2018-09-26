@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabel listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabel penghantar arus listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabel%20listrik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak hipotek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak kebendaan atas benda tidak bergerak untuk memperoleh penggantian atas hasil penjualan benda itu sebagai pelunasan suatu perikatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20hipotek",
+  "related": [],
+  "detailed": false
+}

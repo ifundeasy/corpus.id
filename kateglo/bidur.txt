@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "bongkah timah yang beratnya sekitar 3 pon (dipakai juga untuk ukuran harga);"
+      },
+      {
+        "type": "desc",
+        "text": "gelegata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidur",
+  "related": [],
+  "detailed": false
+}

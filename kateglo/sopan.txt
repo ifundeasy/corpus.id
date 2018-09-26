@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sopan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hormat dan takzim (akan, kepada); tertib menurut adat yang baik;"
+      },
+      {
+        "type": "desc",
+        "text": "beradab (tentang tingkah laku, tutur kata, pakaian dsb); tahu adat; baik budi bahasanya;"
+      },
+      {
+        "type": "desc",
+        "text": "baik kelakuannya (tidak lacur, tidak cabul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sopan",
+  "related": [],
+  "detailed": false
+}

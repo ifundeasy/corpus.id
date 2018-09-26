@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "varietas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan)"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok tanaman (seperti perdu) dalam jenis atau spesies tertentu yang dapat dibedakan dari kelompok lain berdasarkan suatu sifat atau sifat tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) ragam bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=varietas",
+  "related": [],
+  "detailed": false
+}

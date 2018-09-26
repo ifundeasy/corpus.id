@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghijauan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membuat supaya menjadi hijau;"
+      },
+      {
+        "type": "desc",
+        "text": "penanaman (tanah atau lereng gunung yang gundul) dengan pohon-pohonan agar udara menjadi sejuk dan bersih atau agar erosi dapat dicegah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghijauan",
+  "related": [],
+  "detailed": false
+}

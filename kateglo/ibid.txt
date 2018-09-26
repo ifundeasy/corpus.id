@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibid",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(kp) ibidem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nominal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hanya namanya;"
+      },
+      {
+        "type": "desc",
+        "text": "menurut yang tercatat atau apa yang tertulis saja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bersangkutan dengan nomina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nominal",
+  "related": [],
+  "detailed": false
+}

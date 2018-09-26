@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit busat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "disentri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20busat",
+  "related": [],
+  "detailed": false
+}

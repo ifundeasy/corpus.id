@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda penyingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (') yang menunjukkan penghilangan bagian kata; apostrof;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20penyingkat",
+  "related": [],
+  "detailed": false
+}

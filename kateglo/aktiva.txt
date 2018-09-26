@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktiva",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) (harta) kekayaan, baik yang berupa uang maupun benda lain yang dapat dinilai dengan uang ataupun yang tidak berwujud secara nyata, seperti hak paten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktiva",
+  "related": [],
+  "detailed": false
+}

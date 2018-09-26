@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "e",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-5 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "nama huruf e;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda ke-5 dalam urutan atau terendah (tentang mutu, nilai);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menarik perhatian, mengingatkan, dan memanggil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=e",
+  "related": [],
+  "detailed": false
+}

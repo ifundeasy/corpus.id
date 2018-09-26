@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poligon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) segi banyak (bidang rata yang sudut atau sisinya lebih dari empat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poligon",
+  "related": [],
+  "detailed": false
+}

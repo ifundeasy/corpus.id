@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ceper",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berjeluk (tentang piring dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "talam (piring) dari logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ceper",
+  "related": [],
+  "detailed": false
+}

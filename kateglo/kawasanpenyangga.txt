@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kawasan penyangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah tertentu yang menjadi penyangga daerah lain, misal untuk pelestarian lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawasan%20penyangga",
+  "related": [],
+  "detailed": false
+}

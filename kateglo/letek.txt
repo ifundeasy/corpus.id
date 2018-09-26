@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "letek",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "peletek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=letek",
+  "related": [],
+  "detailed": false
+}

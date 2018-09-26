@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alokasi biaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pembagian biaya barang, jasa; pembagian jumlah segolongan biaya kepada sejumlah rekening dengan tujuan mengidentifikasi biaya dengan produk yang dihasilkan oleh barang atau jasa itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alokasi%20biaya",
+  "related": [],
+  "detailed": false
+}

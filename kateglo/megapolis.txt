@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megapolis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "megalopolis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megapolis",
+  "related": [],
+  "detailed": false
+}

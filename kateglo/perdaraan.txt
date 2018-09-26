@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "sekalian gadis dalam istana;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) perihal keadaan masih gadis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdaraan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pramusaji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melayani pesanan makanan dan minuman sesuai dengan permintaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pramusaji",
+  "related": [],
+  "detailed": false
+}

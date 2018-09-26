@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi kecelakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanggungan kecelakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20kecelakaan",
+  "related": [],
+  "detailed": false
+}

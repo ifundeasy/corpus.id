@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "numeralia tingkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) numeralia yang memberi jawab atas pertanyaan ke berapa?;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=numeralia%20tingkat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberesi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk) membereskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberesi",
+  "related": [],
+  "detailed": false
+}

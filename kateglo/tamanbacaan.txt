@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taman bacaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang atau rumah tempat membaca;"
+      },
+      {
+        "type": "desc",
+        "text": "perpustakaan; bibliotek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman%20bacaan",
+  "related": [],
+  "detailed": false
+}

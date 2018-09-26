@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imbang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setimbang; sebanding; sama (berat, derajat, ukuran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) bimbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imbang",
+  "related": [],
+  "detailed": false
+}

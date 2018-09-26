@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar swalayan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko makanan dan minuman, barang keperluan rumah tangga, dsb dengan sistem pelayanan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20swalayan",
+  "related": [],
+  "detailed": false
+}

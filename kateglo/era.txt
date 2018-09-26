@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "era",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurun waktu dalam sejarah; sejumlah tahun dalam jangka waktu antara beberapa peristiwa penting dalam sejarah; masa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=era",
+  "related": [],
+  "detailed": false
+}

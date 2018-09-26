@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persona nongrata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang tidak disukai (disenangi);"
+      },
+      {
+        "type": "desc",
+        "text": "sikap politik yang dilaksanakan oleh pemerintah terhadap (seseorang) warga negara asing yang berada di wilayah negara tersebut dan mempunyai kekebalan diplomatik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persona%20nongrata",
+  "related": [],
+  "detailed": false
+}

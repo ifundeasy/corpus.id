@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ajak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengajak"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(Mk) serupa (dengan); seperti;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "anjing hutan, Cuon javanicus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ajak",
+  "related": [],
+  "detailed": false
+}

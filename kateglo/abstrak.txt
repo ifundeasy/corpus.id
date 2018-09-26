@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abstrak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berwujud; tidak berbentuk; mujarad; niskala;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar (karangan, laporan, dsb); ringkasan; inti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abstrak",
+  "related": [],
+  "detailed": false
+}

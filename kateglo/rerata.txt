@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rerata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai, angka, dsb yang paling umum; nilai dsb rata-rata;"
+      },
+      {
+        "type": "desc",
+        "text": "(Stat) statistik yang menunjukkan nilai yang paling umum atau pertengahan di antara nilai-nilai variabel acak yang telah diukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rerata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pekir",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "fakir"
+      },
+      {
+        "type": "link",
+        "text": "apkir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekir",
+  "related": [],
+  "detailed": false
+}

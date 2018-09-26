@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjaga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertugas menjaga (menunggui orang sakit dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tidur pada malam hari; bergadang;"
+      },
+      {
+        "type": "desc",
+        "text": "bersiap-siap; waspada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjaga",
+  "related": [],
+  "detailed": false
+}

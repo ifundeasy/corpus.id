@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limfositopenia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) jumlah limfosit dalam darah yang sangat rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limfositopenia",
+  "related": [],
+  "detailed": false
+}

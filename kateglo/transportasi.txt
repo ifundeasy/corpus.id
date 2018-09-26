@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transportasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengangkutan barang oleh berbagai jenis kendaraan sesuai dengan kemajuan teknologi;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (seluk- beluk) transpor;"
+      },
+      {
+        "type": "desc",
+        "text": "pemindahan bahan lepas hasil pelapukan dan erosi oleh air, angin, dan es;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transportasi",
+  "related": [],
+  "detailed": false
+}

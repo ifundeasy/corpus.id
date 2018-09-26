@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks informatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks yang hanya menyajikan berita faktual tanpa komentar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20informatif",
+  "related": [],
+  "detailed": false
+}

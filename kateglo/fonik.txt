@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode mengajar membaca dengan menggunakan konsep-konsep fonetik yang sederhana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonik",
+  "related": [],
+  "detailed": false
+}

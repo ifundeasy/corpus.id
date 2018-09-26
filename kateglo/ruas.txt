@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian antara buku dan buku atau antara sendi dan sendi (pada jari, bambu, tebu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian antara satu tempat (kota) dan tempat (kota) yang lain (tentang jalan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruas",
+  "related": [],
+  "detailed": false
+}

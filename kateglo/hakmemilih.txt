@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak memilih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak untuk memberi suara dalam pemilihan umum;"
+      },
+      {
+        "type": "desc",
+        "text": "hak untuk memberi suara dalam masalah politik, khususnya hak atau kekuasaan untuk berperan serta dalam memilih atau menolak rencana undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20memilih",
+  "related": [],
+  "detailed": false
+}

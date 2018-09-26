@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "repot-repot",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "repot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repot-repot",
+  "related": [],
+  "detailed": false
+}

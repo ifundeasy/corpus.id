@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang bulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasang naik ketika bulan purnama; pasang purnama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20bulan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi surya pantul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) radiasi matahari dengan arah ke atas karena dipantulkan serta disebarkan oleh permukaan bumi dalam atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20surya%20pantul",
+  "related": [],
+  "detailed": false
+}

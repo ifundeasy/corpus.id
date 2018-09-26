@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelanjutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkembangan (berikutnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelanjutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tayum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "tayum-temayum"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tayum",
+  "related": [],
+  "detailed": false
+}

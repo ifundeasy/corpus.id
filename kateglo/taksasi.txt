@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taksasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taksiran (tentang harga barang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksasi",
+  "related": [],
+  "detailed": false
+}

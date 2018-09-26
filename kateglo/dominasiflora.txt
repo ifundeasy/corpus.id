@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dominasi flora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot) keadaan unggul suatu spesies flora dalam komunitasnya, biasanya diukur dari kepadatan populasi, frekuensi, dan biomassanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dominasi%20flora",
+  "related": [],
+  "detailed": false
+}

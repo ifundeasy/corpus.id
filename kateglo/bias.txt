@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bias",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) belokan arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bias",
+  "related": [],
+  "detailed": false
+}

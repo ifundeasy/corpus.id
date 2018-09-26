@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keselektifan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal selektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keselektifan",
+  "related": [],
+  "detailed": false
+}

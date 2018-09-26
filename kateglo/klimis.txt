@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klimis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "licin dan berkilap;"
+      },
+      {
+        "type": "desc",
+        "text": "rapi dan bersih (tentang pakaian, dandanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "agak gemuk (tentang badan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klimis",
+  "related": [],
+  "detailed": false
+}

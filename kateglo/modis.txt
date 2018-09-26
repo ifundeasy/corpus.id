@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "yang mengikuti mode, yang berpakaian sesuai dengan mode yang paling baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modis",
+  "related": [],
+  "detailed": false
+}

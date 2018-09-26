@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfofonem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan fonologis yang ter-jadi dari beberapa fonem, yang muncul dalam alomorf dari morfem tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfofonem",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilateral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dari dua belah pihak; antara dua pihak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) prinsip keturunan yang memperhitungkan hubungan kekerabatan, baik melalui pria maupun wanita secara serentak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilateral",
+  "related": [],
+  "detailed": false
+}

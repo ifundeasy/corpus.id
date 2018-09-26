@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penilaian pekerjaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan nilai dari suatu pekerjaan untuk menentukan skala gaji, syarat-syarat kenaikan pangkat, dan perangsang terhadap pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penilaian%20pekerjaan",
+  "related": [],
+  "detailed": false
+}

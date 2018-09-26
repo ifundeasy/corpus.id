@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sungai, kanal, atau saluran lainnya yang dapat dilayari sebagai jalan dalam usaha pengangkutan;"
+      },
+      {
+        "type": "desc",
+        "text": "saluran (pipa dsb) bagi aliran air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20air",
+  "related": [],
+  "detailed": false
+}

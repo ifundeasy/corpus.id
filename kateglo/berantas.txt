@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berantas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memberantas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berantas",
+  "related": [],
+  "detailed": false
+}

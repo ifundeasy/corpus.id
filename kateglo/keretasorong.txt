@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta sorong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta dorong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20sorong",
+  "related": [],
+  "detailed": false
+}

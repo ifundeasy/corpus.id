@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektroensefalogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) rekaman aliran listrik dalam otak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektroensefalogram",
+  "related": [],
+  "detailed": false
+}

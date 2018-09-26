@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rima tengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rima antara suku kata pada posisi yang sama, yang terdapat pada dua kata dalam satu larik sajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rima%20tengah",
+  "related": [],
+  "detailed": false
+}

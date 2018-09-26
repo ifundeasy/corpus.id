@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran belanja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhitungan banyaknya uang yang akan masuk dan yang akan dikeluarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20belanja",
+  "related": [],
+  "detailed": false
+}

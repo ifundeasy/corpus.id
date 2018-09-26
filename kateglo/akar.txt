@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tumbuhan yang biasanya tertanam di dalam tanah sebagai penguat dan pengisap air serta zat makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) asal mula; pokok; pangkal; yang menjadi sebab(-sebabnya);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) unsur yang menjadi dasar pembentukan kata (seperti graf pada grafik, biografi, apektrograf);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) suatu operasi aljabar, yang biasanya dinyatakan dengan simbol ?, misal (akar a sama dengan b), berarti; b2 = a, jadi (akar pangkat n dari a sama dengan c), berarti cn = a, jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akar",
+  "related": [],
+  "detailed": false
+}

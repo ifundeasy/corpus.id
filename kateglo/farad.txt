@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan kapasitas listrik (kapasitas satu farad berarti apabila kapasitas diberi beda potensial 1 volt, akan tersimpan muatan sebesar satu coulomb pada setiap pelat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farad",
+  "related": [],
+  "detailed": false
+}

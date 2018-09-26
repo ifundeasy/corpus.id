@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artileri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil)"
+      },
+      {
+        "type": "desc",
+        "text": "senjata untuk melontarkan proyektil;"
+      },
+      {
+        "type": "desc",
+        "text": "pa-sukan tentara yang bersenjata berat;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang mempergunakan senjata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artileri",
+  "related": [],
+  "detailed": false
+}

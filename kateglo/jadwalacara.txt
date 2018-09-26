@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jadwal acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jadwal kegiatan yang akan dilakukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jadwal%20acara",
+  "related": [],
+  "detailed": false
+}

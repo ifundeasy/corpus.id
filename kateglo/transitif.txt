@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transitif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) bersangkutan dengan kata kerja yang memerlukan objek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transitif",
+  "related": [],
+  "detailed": false
+}

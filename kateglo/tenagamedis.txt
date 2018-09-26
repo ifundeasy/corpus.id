@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga kerja dalam bidang kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20medis",
+  "related": [],
+  "detailed": false
+}

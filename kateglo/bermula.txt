@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermula",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada mulanya (awalnya);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "pertama-tama; pertama sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "mula-mula; sediakala;"
+      },
+      {
+        "type": "desc",
+        "text": "bersumber; berpenyebab awal; berpangkal (dari);"
+      },
+      {
+        "type": "desc",
+        "text": "pertama-tama yang akan diceritakan; sebermula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermula",
+  "related": [],
+  "detailed": false
+}

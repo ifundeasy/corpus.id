@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengubar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencelup (jala, jaring, dsb) dengan ubar;"
+      },
+      {
+        "type": "desc",
+        "text": "mengecat;"
+      },
+      {
+        "type": "desc",
+        "text": "mengorak (membuka) barang yang tergulung (layar dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengubar",
+  "related": [],
+  "detailed": false
+}

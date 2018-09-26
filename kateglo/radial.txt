@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan sinar atau seperti sinar;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan atau menyerupai jari-jari lingkaran;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ban luar mobil yang alur kembungnya membuat ban memiliki daya cengkeram yang lebih baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radial",
+  "related": [],
+  "detailed": false
+}

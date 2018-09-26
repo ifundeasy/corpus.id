@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertanam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah ditanam(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "terpendam; termasukkan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertanam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interpelasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) permintaan anggota badan legislatif kepada pemerintah mengenai kebijakan pemerintah di bidang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interpelasi",
+  "related": [],
+  "detailed": false
+}

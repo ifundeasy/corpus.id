@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan anak ayam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan ayam umur satu hari sampai dua bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20anak%20ayam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opsen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tambahan pajak menurut persentase tertentu, biasanya untuk kepentingan kas pemerintah daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opsen",
+  "related": [],
+  "detailed": false
+}

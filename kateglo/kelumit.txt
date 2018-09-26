@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelumit",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "sekelumit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelumit",
+  "related": [],
+  "detailed": false
+}

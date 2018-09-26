@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tekanan yang apabila letaknya berubah akan mengakibatkan perubahan makna kata atau kelas kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20fonemis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat pengorbit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat yang membawa misi untuk mengorbitkan satelit dalam orbit yang ditetapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20pengorbit",
+  "related": [],
+  "detailed": false
+}

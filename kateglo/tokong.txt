@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tokong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berekor (tentang ayam dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) terpotong rambutnya (tentang perempuan sebagai hukuman);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berambut pendek (tentang perempuan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pulau kecil yang terjadi dari karang (tidak ada pohonnya);"
+      },
+      {
+        "type": "desc",
+        "text": "kelenteng; toapekong;"
+      },
+      {
+        "type": "desc",
+        "text": "jendul; tonjol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tokong",
+  "related": [],
+  "detailed": false
+}

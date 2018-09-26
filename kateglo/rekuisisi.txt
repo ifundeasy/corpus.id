@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekuisisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) daftar isian permintaan barang atau jasa, biasanya dari unit organisasi yang satu ke unit yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekuisisi",
+  "related": [],
+  "detailed": false
+}

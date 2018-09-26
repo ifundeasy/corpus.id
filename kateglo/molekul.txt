@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "molekul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian terkecil senyawa yang terbentuk dari kumpulan atom yang terikat secara kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian terkecil senyawa yang masih sanggup memperlihatkan sifat-sifat dari senyawa itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=molekul",
+  "related": [],
+  "detailed": false
+}

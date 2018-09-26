@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat berkumpul keluarga, biasanya dilengkapi dengan televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20keluarga",
+  "related": [],
+  "detailed": false
+}

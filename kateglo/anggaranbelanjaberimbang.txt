@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran belanja berimbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggaran belanja dengan penerimaan dalam periode tertentu sama atau melampaui pengeluaran pada periode yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20belanja%20berimbang",
+  "related": [],
+  "detailed": false
+}

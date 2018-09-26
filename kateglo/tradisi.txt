@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tradisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat kebiasaan turun-temurun (dari nenek moyang) yang masih dijalankan dalam masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "penilaian atau anggapan bahwa cara-cara yang telah ada merupakan yang paling baik dan benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tradisi",
+  "related": [],
+  "detailed": false
+}

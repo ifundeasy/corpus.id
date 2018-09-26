@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geotermal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan panas yang berasal dari pusat bumi (dapat dipakai sebagai sumber energi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geotermal",
+  "related": [],
+  "detailed": false
+}

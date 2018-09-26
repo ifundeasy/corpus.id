@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumber daya alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potensi alam yang dapat dikembangkan untuk proses produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber%20daya%20alam",
+  "related": [],
+  "detailed": false
+}

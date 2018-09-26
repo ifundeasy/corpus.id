@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemampasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memampas;"
+      },
+      {
+        "type": "desc",
+        "text": "penggantian kerugian oleh pihak penganiaya (perusak, pelanggar, dsb) kepada pihak korban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemampasan",
+  "related": [],
+  "detailed": false
+}

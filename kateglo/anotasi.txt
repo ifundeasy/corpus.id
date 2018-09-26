@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan yang dibuat oleh pengarang atau orang lain untuk menerangkan, mengomentari, atau mengkritik teks karya sastra atau bahan tertulis lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anotasi",
+  "related": [],
+  "detailed": false
+}

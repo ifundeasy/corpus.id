@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruangan wanita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruangan yang khusus memuat berita atau karangan mengenai kewanitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruangan%20wanita",
+  "related": [],
+  "detailed": false
+}

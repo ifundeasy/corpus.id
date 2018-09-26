@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "provisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya (administrasi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "upah atau imbalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=provisi",
+  "related": [],
+  "detailed": false
+}

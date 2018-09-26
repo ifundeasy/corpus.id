@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak susuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak yang masih menyusu;"
+      },
+      {
+        "type": "desc",
+        "text": "anak orang lain yang disusui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20susuan",
+  "related": [],
+  "detailed": false
+}

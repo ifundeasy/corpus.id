@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik undian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendapat hadiah dalam undian uang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20undian",
+  "related": [],
+  "detailed": false
+}

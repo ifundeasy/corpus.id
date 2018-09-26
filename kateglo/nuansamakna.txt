@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nuansa makna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbedaan makna (warna) yang sukar dilihat dan dijelaskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nuansa%20makna",
+  "related": [],
+  "detailed": false
+}

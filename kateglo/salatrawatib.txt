@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat rawatib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat sunah yang dikerjakan sebelum atau sesudah salat wajib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20rawatib",
+  "related": [],
+  "detailed": false
+}

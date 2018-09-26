@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limnoplankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool) plankton yang hidup di danau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limnoplankton",
+  "related": [],
+  "detailed": false
+}

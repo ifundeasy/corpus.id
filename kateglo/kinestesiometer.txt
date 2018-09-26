@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinestesiometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menguji kemampuan gerak otot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinestesiometer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saring",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyaring"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) ramping; langsing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saring",
+  "related": [],
+  "detailed": false
+}

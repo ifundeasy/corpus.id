@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konstruksi koordinatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) konstruksi yang konstituennya mempunyai status yang sederajat, misal konstruksi yang terdiri atas dua kata, seperti makanan dan minuman, atau kalimat yang terdiri atas klausa yang digabungkan dengan dan, seperti saya datang, saya melihat, dan saya menang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstruksi%20koordinatif",
+  "related": [],
+  "detailed": false
+}

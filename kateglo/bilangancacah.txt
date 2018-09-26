@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan cacah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang dimulai dari nol ke atas (seperti 0, 1, 2, 3);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20cacah",
+  "related": [],
+  "detailed": false
+}

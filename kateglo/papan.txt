@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "papan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kayu (besi, batu, dsb) yang lebar dan tipis;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat tinggal; rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan",
+  "related": [],
+  "detailed": false
+}

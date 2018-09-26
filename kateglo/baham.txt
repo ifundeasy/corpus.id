@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baham",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membaham"
+      },
+      {
+        "type": "link",
+        "text": "geraham"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baham",
+  "related": [],
+  "detailed": false
+}

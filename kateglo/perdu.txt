@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perdu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan berkayu yang bercabang-cabang, tumbuh rendah dekat dengan permukaan tanah, dan tidak mempunyai batang yang tegak (seperti kembang merak, puring);"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan yang tidak berbatang besar, kadang-kadang berdaun lebar, ada juga jenis rumput-rumputan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) rumpun (bambu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terminum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah diminum;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja diminum;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat diminum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terminum",
+  "related": [],
+  "detailed": false
+}

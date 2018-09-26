@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelatuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung pemakan serangga yang membuat sarangnya pada kayu yang dilubanginya (dengan jalan mematukinya); belatuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) bagian ujung kulit kacang tanah dsb yang berbentuk seperti paruh burung;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian bedil yang digunakan untuk menggerakkan picu (dapat dijangkau dan digerakkan oleh jari telunjuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelatuk",
+  "related": [],
+  "detailed": false
+}

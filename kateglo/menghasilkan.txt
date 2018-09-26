@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghasilkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan (mendatangkan, mengadakan) hasil;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat (mengadakan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "mengakibatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan berhasil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghasilkan",
+  "related": [],
+  "detailed": false
+}

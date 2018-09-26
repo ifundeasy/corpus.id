@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simtomatis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyangkut simtom atau gejala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simtomatis",
+  "related": [],
+  "detailed": false
+}

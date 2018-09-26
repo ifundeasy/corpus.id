@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artis",
+  "related": [],
+  "detailed": false
+}

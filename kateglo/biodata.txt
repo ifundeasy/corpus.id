@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biodata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "riwayat hidup singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biodata",
+  "related": [],
+  "detailed": false
+}

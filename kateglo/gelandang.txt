@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelandang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bergelandangan"
+      },
+      {
+        "type": "link",
+        "text": "menggelandang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) pemain sepak bola pada bagian tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelandang",
+  "related": [],
+  "detailed": false
+}

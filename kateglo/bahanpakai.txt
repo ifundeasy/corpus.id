@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pakai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dipakai untuk sarana (kelengkapan) produksi (misal kertas dan tinta fotokopi bagi mesin fotokopi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pakai",
+  "related": [],
+  "detailed": false
+}

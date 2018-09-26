@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "riwayat hidup (seseorang) yang ditulis oleh orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biografi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasak kampung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk kampung yang tetap menetap (tidak pernah pindah ke mana-mana);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang udik; orang dusun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasak%20kampung",
+  "related": [],
+  "detailed": false
+}

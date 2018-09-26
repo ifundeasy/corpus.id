@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpelajar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah mendapat pelajaran (di sekolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpelajar",
+  "related": [],
+  "detailed": false
+}

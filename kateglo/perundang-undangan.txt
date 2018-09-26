@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perundang-undangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang bertalian dengan undang-undang; seluk beluk undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perundang-undangan",
+  "related": [],
+  "detailed": false
+}

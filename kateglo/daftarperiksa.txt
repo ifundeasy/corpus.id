@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar periksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) rangkaian pertanyaan yang disusun secara cermat mengenai kegiatan, kebijakan, prosedur, dsb dalam organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20periksa",
+  "related": [],
+  "detailed": false
+}

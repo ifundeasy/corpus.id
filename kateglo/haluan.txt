@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haluan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian perahu (kapal) yang sebelah muka;"
+      },
+      {
+        "type": "desc",
+        "text": "yang terdahulu atau terdepan;"
+      },
+      {
+        "type": "desc",
+        "text": "arah; tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pedoman (tentang ajaran dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haluan",
+  "related": [],
+  "detailed": false
+}

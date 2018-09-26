@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penganggaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses mengikhtisarkan rancangan pengeluaran dan penerimaan keuangan selama jangka (waktu) tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan mengalokasi sumber daya untuk mencapai sasaran usaha dalam jangka (waktu) tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penganggaran",
+  "related": [],
+  "detailed": false
+}

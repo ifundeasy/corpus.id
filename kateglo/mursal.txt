@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mursal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "utusan; yang diutus (rasul);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) berkelakuan tidak baik; suka berbuat yang menyimpang dari aturan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mursal",
+  "related": [],
+  "detailed": false
+}

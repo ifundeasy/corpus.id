@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu truf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis kartu yang dimenangkan atas ketiga jenis kartu lainnya dalam permainan (bridge);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pernyataan untuk menghentikan perbuatan atau kesombongan seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20truf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gerakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan atau keadaan bergerak (air, laut, mesin);"
+      },
+      {
+        "type": "desc",
+        "text": "pergerakan, usaha, atau kegiatan dalam lapangan sosial (politik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerakan",
+  "related": [],
+  "detailed": false
+}

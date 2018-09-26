@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkara",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "lengkara"
+      },
+      {
+        "type": "link",
+        "text": "lengkara"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkara",
+  "related": [],
+  "detailed": false
+}

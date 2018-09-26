@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marginal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan batas (tepi); tidak terlalu menguntungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "berada di pinggir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marginal",
+  "related": [],
+  "detailed": false
+}

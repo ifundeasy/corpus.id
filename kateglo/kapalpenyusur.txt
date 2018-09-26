@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal penyusur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang menyusur pantai (yang hanya singgah di pelabuhan kecil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20penyusur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mores",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat istiadat yang mengandung arti hukum susila;"
+      },
+      {
+        "type": "desc",
+        "text": "adat; sopan santun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mores",
+  "related": [],
+  "detailed": false
+}

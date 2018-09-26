@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jurnalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan mengumpulkan, menulis, mengedit, dan menerbitkan berita dalam surat kabar dsb; kewartawanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurnalisme",
+  "related": [],
+  "detailed": false
+}

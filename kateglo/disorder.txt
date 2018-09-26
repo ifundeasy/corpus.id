@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disorder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang tidak sesuai dengan tatanan (aturan keadaan) yang umum;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan dan perasaan badan yang kurang enak, disebabkan oleh gangguan penyakit atau karena tidak berfungsinya salah satu organ tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disorder",
+  "related": [],
+  "detailed": false
+}

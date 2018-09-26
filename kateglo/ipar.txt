@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ipar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saudara suami atau istri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ipar",
+  "related": [],
+  "detailed": false
+}

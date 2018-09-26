@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar konvensi pariwisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar yang dapat mendatangkan wisatawan yang akan berkongres atau mengikuti rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20konvensi%20pariwisata",
+  "related": [],
+  "detailed": false
+}

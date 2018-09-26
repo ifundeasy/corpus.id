@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin pembukuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin untuk membukukan rekening dengan cara memasukkan angka, baik secara manual maupun elektronik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20pembukuan",
+  "related": [],
+  "detailed": false
+}

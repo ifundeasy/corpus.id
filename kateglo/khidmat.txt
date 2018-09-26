@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khidmat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hormat; takzim;"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khidmat",
+  "related": [],
+  "detailed": false
+}

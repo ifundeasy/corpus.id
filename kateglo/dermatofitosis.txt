@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermatofitosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi pada kulit (terutama kaki) yang disebabkan oleh jamur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermatofitosis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) arus yang ditimbulkan oleh perpindahan air laut akibat perbedaan kadar garam atau oleh embusan angin pada permukaan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20laut",
+  "related": [],
+  "detailed": false
+}

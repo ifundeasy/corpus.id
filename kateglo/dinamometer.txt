@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dinamometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pengukur tenaga mesin, terutama daya atau kecepatan putarannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) pengukur jejak alat pengolah tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinamometer",
+  "related": [],
+  "detailed": false
+}

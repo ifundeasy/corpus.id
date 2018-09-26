@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandu pesawat terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas bandar udara yang memandu pesawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandu%20pesawat%20terbang",
+  "related": [],
+  "detailed": false
+}

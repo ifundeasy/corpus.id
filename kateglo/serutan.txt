@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyerut;"
+      },
+      {
+        "type": "desc",
+        "text": "tatal dari kayu yang diserut; tahi kayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serutan",
+  "related": [],
+  "detailed": false
+}

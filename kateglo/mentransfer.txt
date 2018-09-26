@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mentransfer",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memindahkan (mengalihkan) sesuatu dari satu tempat ke tempat lain atau dari seseorang ke orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerahkan atau mengalihkan (hak milik, uang, dsb) kepada orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "mengirim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mentransfer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanaman pangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman yang menjadi bahan makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanaman%20pangan",
+  "related": [],
+  "detailed": false
+}

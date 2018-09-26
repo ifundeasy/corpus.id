@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu luncur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) masa badan perenang meluncur di air akibat tarikan lengan atau tendangan kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20luncur",
+  "related": [],
+  "detailed": false
+}

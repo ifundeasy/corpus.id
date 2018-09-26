@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stetoskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan oleh dokter untuk mendengarkan bunyi kerja alat tubuh dalam rongga dada (teru-tama bunyi paru-paru dan jantung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stetoskop",
+  "related": [],
+  "detailed": false
+}

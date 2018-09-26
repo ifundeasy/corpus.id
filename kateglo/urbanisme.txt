@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urbanisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sikap dan cara hidup orang kota;"
+      },
+      {
+        "type": "desc",
+        "text": "perkembangan daerah perkotaan;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang kehidupan kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urbanisme",
+  "related": [],
+  "detailed": false
+}

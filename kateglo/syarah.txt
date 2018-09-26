@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "nafsu yang kuat terutama pada makanan; keinginan;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan; uraian; ulasan; penjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato; ceramah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "syarahan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syarah",
+  "related": [],
+  "detailed": false
+}

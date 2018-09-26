@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serambi terbuka di belakang rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "taman terbuka di dalam rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patio",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transaksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persetujuan jual beli (dalam perdagangan) antara dua pihak;"
+      },
+      {
+        "type": "desc",
+        "text": "pelunasan (pemberesan) pembayaran (seperti dalam bank);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transaksi",
+  "related": [],
+  "detailed": false
+}

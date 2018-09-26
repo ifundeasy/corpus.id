@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kritik sastra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertimbangan baik buruk terhadap hasil karya sastra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kritik%20sastra",
+  "related": [],
+  "detailed": false
+}

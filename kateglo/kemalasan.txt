@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemalasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal malas; sifat (keadaan) malas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu malas; malas yang berlebihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemalasan",
+  "related": [],
+  "detailed": false
+}

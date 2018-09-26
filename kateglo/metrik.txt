@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang irama (ritme) dalam puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "yang berhubungan dengan ukuran; yang mengenai sistem desimal yang menggunakan meter sebagai ukuran panjang dan gram sebagai ukuran berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metrik",
+  "related": [],
+  "detailed": false
+}

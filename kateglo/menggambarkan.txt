@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggambarkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat gambar (lukisan) untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "mewujudkan (membayangkan) gambar;"
+      },
+      {
+        "type": "desc",
+        "text": "melukiskan (menceritakan) suatu peristiwa dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggambarkan",
+  "related": [],
+  "detailed": false
+}

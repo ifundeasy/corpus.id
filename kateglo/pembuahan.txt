@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (proses) membuahi;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bercampurnya inti sel jantan dan inti sel betina; perpaduan sepasang sel kelamin jantan dan betina dan menjadi permulaan dari perkembangan suatu embrio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ortografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambaran bunyi bahasa yang berupa tulisan atau lambang; sistem ejaan suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ortografi",
+  "related": [],
+  "detailed": false
+}

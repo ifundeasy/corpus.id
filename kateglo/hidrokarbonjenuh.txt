@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hidrokarbon jenuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa terdiri atas karbon dan hidrogen yang padat udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidrokarbon%20jenuh",
+  "related": [],
+  "detailed": false
+}

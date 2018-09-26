@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siaga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "siap sedia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegelapan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tertimpa (mengalami) gelap (malam); kemalaman;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat dsb yang gelap;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kericuhan; kesulitan mencari jalan pemecahan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlalu gelap (tentang warna);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegelapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari libur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari istirahat (tidak bekerja atau bersekolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20libur",
+  "related": [],
+  "detailed": false
+}

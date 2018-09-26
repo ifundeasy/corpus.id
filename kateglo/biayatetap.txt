@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "beban atau pengeluaran yang jumlahnya tetap dan tidak dipengaruhi oleh jumlah produksi;"
+      },
+      {
+        "type": "desc",
+        "text": "semua pengeluaran yang jumlahnya tidak terpengaruh oleh perubahan tingkat kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20tetap",
+  "related": [],
+  "detailed": false
+}

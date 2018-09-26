@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur waktu (seperti arloji, lonceng dinding);"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang lamanya 1/24 hari (dari sehari semalam);"
+      },
+      {
+        "type": "desc",
+        "text": "saat tertentu, pada arloji jarumnya yang pendek menunjuk angka tertentu dan jarum panjang menunjuk angka 12 (pada lonceng disertai dengan dentang suara bandul memukul logam atau bel); pukul;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu; saat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam",
+  "related": [],
+  "detailed": false
+}

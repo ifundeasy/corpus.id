@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata turunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang terbentuk sebagai hasil proses afiksasi, reduplikasi, atau penggabungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20turunan",
+  "related": [],
+  "detailed": false
+}

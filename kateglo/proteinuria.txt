@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proteinuria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) terdapatnya protein dalam air kencing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proteinuria",
+  "related": [],
+  "detailed": false
+}

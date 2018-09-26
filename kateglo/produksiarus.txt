@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi arus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produksi massa yang prosesnya melalui sederetan mesin yang masing-masing hanya menyelesaikan sebagian kecil dari proses;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20arus",
+  "related": [],
+  "detailed": false
+}

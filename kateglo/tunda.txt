@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditarik di belakang perahu dengan tali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menunda"
+      },
+      {
+        "type": "link",
+        "text": "bertunda"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunda",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tragikomedi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sandiwara yang berisi lakon sedih dan lucu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tragikomedi",
+  "related": [],
+  "detailed": false
+}

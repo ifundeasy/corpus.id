@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebesaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat (keadaan) besar;"
+      },
+      {
+        "type": "desc",
+        "text": "kemegahan; keagungan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda-tanda (pakaian, upacara, alat-alat, dsb) yang menyatakan ketinggian martabat atau pangkat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ukurannya terlampau besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebesaran",
+  "related": [],
+  "detailed": false
+}

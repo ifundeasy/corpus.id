@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran lembar kertas yang berjumlah 480—500 helai;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ikat pinggang dari kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rim",
+  "related": [],
+  "detailed": false
+}

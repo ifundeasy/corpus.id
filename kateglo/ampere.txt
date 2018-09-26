@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampere",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran arus listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) alat untuk mengukur (kekuatan) arus listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampere",
+  "related": [],
+  "detailed": false
+}

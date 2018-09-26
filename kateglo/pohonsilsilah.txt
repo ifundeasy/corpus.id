@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pohon silsilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar asal-usul keluarga hewan yang disusun dalam bentuk pohon;"
+      },
+      {
+        "type": "desc",
+        "text": "susur galur (keturunan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pohon%20silsilah",
+  "related": [],
+  "detailed": false
+}

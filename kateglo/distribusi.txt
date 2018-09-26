@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "distribusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyaluran (pembagian, pengiriman) kepada beberapa orang atau ke beberapa tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "pembagian barang keperluan sehari-hari (terutama dalam masa darurat) oleh pemerintah kepada pegawai negeri, penduduk, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) semua posisi yang ditempati oleh unsur bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) persebaran benda dalam suatu wilayah geografi tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distribusi",
+  "related": [],
+  "detailed": false
+}

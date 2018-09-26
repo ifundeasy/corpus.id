@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kenop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tombol (pada pintu, lampu, radio, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kancing baju;"
+      },
+      {
+        "type": "desc",
+        "text": "pemukul (gada) dari karet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenop",
+  "related": [],
+  "detailed": false
+}

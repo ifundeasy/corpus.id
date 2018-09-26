@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koordinat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang dipakai untuk menunjukkan lokasi suatu titik dalam garis, permukaan, atau ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koordinat",
+  "related": [],
+  "detailed": false
+}

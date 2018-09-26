@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pejabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai pemerintah yang memegang jabatan penting (unsur pimpinan);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) kantor; markas; jawatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pejabat",
+  "related": [],
+  "detailed": false
+}

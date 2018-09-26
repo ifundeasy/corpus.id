@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai banyak harta (uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai banyak (mengandung banyak dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) (ber)kuasa;"
+      },
+      {
+        "type": "link",
+        "text": "kayak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaya",
+  "related": [],
+  "detailed": false
+}

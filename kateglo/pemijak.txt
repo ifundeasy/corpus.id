@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemijak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memijak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memijak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemijak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "samba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen)"
+      },
+      {
+        "type": "desc",
+        "text": "tarian rakyat Brazil yang berasal dari tari-tarian penduduk asli Afrika;"
+      },
+      {
+        "type": "desc",
+        "text": "irama musik birama dua yang biasanya dipakai untuk mengiringi tari samba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=samba",
+  "related": [],
+  "detailed": false
+}

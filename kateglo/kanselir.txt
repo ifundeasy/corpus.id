@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanselir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdana menteri di Jerman atau Austria;"
+      },
+      {
+        "type": "desc",
+        "text": "ketua perwakilan atau kedutaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sekretaris raja atau bangsawan;"
+      },
+      {
+        "type": "desc",
+        "text": "rektor kehormatan dari sebuah universitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanselir",
+  "related": [],
+  "detailed": false
+}

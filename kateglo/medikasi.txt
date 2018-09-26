@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) terapi dengan pemberian obat medula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medikasi",
+  "related": [],
+  "detailed": false
+}

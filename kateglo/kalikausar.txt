@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalikausar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang;"
+      },
+      {
+        "type": "link",
+        "text": "alkausar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalikausar",
+  "related": [],
+  "detailed": false
+}

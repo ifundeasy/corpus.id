@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "judul berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "judul yang merupakan inti berita dalam surat kabar, yang dicetak dengan huruf besar (tebal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=judul%20berita",
+  "related": [],
+  "detailed": false
+}

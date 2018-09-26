@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ventilator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peralatan mekanik untuk menghasilkan putaran udara, dapat berupa kipas angin tiup atau isap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serositas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan perilaku serum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serositas",
+  "related": [],
+  "detailed": false
+}

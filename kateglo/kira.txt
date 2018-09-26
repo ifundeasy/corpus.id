@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kira",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat yang hanya berdasarkan dugaan atau perasaan, bukan berdasarkan bukti nyata; sangka;"
+      },
+      {
+        "type": "desc",
+        "text": "hitung; taksir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kira",
+  "related": [],
+  "detailed": false
+}

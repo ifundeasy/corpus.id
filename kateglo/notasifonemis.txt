@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "notasi fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) sistem untuk merekam fonem suatu bahasa yang ditandai dengan garis miring ganda (/.../), misal sang ditulis dengan /sa?/;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notasi%20fonemis",
+  "related": [],
+  "detailed": false
+}

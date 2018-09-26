@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kacamata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lensa tipis untuk mata guna menormalkan dan mempertajam penglihatan (ada yang berangka dan ada yang tidak);"
+      },
+      {
+        "type": "desc",
+        "text": "sepasang kaca yang berangka, berfungsi sebagai pelindung lensa mata;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pandangan seseorang terhadap suatu hal yang ditinjau dari sudut (segi) tertentu; sudut pandang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacamata",
+  "related": [],
+  "detailed": false
+}

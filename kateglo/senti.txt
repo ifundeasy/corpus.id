@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "sentimeter; seperseratus meter;"
+      },
+      {
+        "type": "desc",
+        "text": "seperseratus (misal sentiliter, sentigram);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senti",
+  "related": [],
+  "detailed": false
+}

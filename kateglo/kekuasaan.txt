@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekuasaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuasa (untuk mengurus, memerintah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan; kesanggupan;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah (tempat dsb) yang dikuasai;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan orang atau golongan untuk menguasai orang atau golongan lain berdasarkan kewibawaan, wewenang, karisma, atau kekuatan fisik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) fungsi menciptakan dan memantapkan kedamaian (keadilan) serta mencegah dan menindak ketidakdamaian atau ketidakadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekuasaan",
+  "related": [],
+  "detailed": false
+}

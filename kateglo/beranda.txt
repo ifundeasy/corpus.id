@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beranda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang beratap yang terbuka (tidak berdinding) di bagian samping atau depan rumah (biasa dipakai untuk tempat duduk santai sambil makan angin dsb); teras; langkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) bilik di perahu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) laman awal dari suatu situs yang diakses oleh pengguna pada awal masuk ke situs tsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beranda",
+  "related": [],
+  "detailed": false
+}

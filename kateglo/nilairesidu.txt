@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai residu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai buku suatu aktiva pada akhir masa manfaatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20residu",
+  "related": [],
+  "detailed": false
+}

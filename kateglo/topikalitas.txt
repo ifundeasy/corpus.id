@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "topikalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal menjadi topik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=topikalitas",
+  "related": [],
+  "detailed": false
+}

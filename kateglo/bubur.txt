@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bubur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan lembek dan berair yang dibuat dari beras, kacang-kacangan, dsb yang direbus;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang rupanya sebagai bubur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bubur",
+  "related": [],
+  "detailed": false
+}

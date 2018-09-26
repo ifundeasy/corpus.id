@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dengkel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berair (tentang buah-buahan); kering;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kaku atau bengkak pada mata kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dengkel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak didik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "murid; siswa;"
+      },
+      {
+        "type": "desc",
+        "text": "anak yang berada dalam pembinaan (asuhan) seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20didik",
+  "related": [],
+  "detailed": false
+}

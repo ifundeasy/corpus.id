@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahir prematur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lahir dini;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahir%20prematur",
+  "related": [],
+  "detailed": false
+}

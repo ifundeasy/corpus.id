@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tangkas; giat; cerdas; rajin;"
+      },
+      {
+        "type": "desc",
+        "text": "gugur karena sudah cukup matang (tentang buah-buahan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berakhir musim buah-buahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkas",
+  "related": [],
+  "detailed": false
+}

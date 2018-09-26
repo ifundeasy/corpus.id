@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baroskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranti untuk mengukur tekanan atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baroskop",
+  "related": [],
+  "detailed": false
+}

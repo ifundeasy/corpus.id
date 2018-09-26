@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nominasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengusulan atau pengangkatan sebagai calon; pencalonan;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dicalonkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nominasi",
+  "related": [],
+  "detailed": false
+}

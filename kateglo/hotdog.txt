@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hot dog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ing) roti berbentuk bulat panjang, diisi sosis goreng, dihidangkan dengan sayuran (seperti selada) dan saus tomat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hot%20dog",
+  "related": [],
+  "detailed": false
+}

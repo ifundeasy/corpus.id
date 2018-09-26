@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengolah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berolah;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengolah data;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (mesin, komputer) yang mengolah data;"
+      },
+      {
+        "type": "desc",
+        "text": "memasak (mengerjakan, mengusahakan) sesuatu (barang dsb) supaya menjadi lain atau menjadi lebih sempurna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengolah",
+  "related": [],
+  "detailed": false
+}

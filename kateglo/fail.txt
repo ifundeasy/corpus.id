@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fail",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rak untuk menyimpan dokumen;"
+      },
+      {
+        "type": "desc",
+        "text": "dokumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fail",
+  "related": [],
+  "detailed": false
+}

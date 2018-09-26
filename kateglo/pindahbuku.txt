@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pindah buku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencatat dari buku dagang yang satu ke buku dagang yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pindah%20buku",
+  "related": [],
+  "detailed": false
+}

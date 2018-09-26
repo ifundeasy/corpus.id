@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesukuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan suku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesukuan",
+  "related": [],
+  "detailed": false
+}

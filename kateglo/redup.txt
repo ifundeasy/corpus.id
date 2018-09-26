@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "redup",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berawan (langit); tidak terang (cuaca); mendung;"
+      },
+      {
+        "type": "desc",
+        "text": "agak gelap karena terlindung awan; tidak panas;"
+      },
+      {
+        "type": "desc",
+        "text": "suram;"
+      },
+      {
+        "type": "desc",
+        "text": "berkurang; merosot (kekayaan, kemegahan);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai berhenti; reda (badai, cinta kasih, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sayup-sayup; redam (suara, bunyi);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak gembira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taki",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "bertaki"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "janji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taki",
+  "related": [],
+  "detailed": false
+}

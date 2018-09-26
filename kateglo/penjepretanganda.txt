@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjepretan ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemotretan dua objek sekaligus untuk disajikan sebagai gambar dengan kedua objek tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjepretan%20ganda",
+  "related": [],
+  "detailed": false
+}

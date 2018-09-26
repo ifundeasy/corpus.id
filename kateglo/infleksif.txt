@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infleksif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat infleksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infleksif",
+  "related": [],
+  "detailed": false
+}

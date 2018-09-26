@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelingsir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bergelingsir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelingsir",
+  "related": [],
+  "detailed": false
+}

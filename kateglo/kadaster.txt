@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kadaster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (pemerintah) pencatat tanah milik yang menentukan letak rumah, luas tanah, serta ukuran batasnya untuk menentukan pajak dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadaster",
+  "related": [],
+  "detailed": false
+}

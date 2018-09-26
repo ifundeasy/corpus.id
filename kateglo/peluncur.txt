@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peluncur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "model pesawat terbang yang tidak bermesin;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk meluncur atau meluncurkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peluncur",
+  "related": [],
+  "detailed": false
+}

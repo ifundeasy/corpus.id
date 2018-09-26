@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "informasi yang tersedia melalui media atau produk elektronik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konten",
+  "related": [],
+  "detailed": false
+}

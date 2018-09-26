@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta baja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil berlapis baja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20baja",
+  "related": [],
+  "detailed": false
+}

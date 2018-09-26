@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sungai kering di padang pasir (berisi air jika hujan turun);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) bersifat rahasia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) tetesan terakhir dari mani atau air kencing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wadi",
+  "related": [],
+  "detailed": false
+}

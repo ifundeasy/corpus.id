@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah kira",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "salah mengerti; salah sangka;"
+      },
+      {
+        "type": "desc",
+        "text": "gusar karena salah mengerti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20kira",
+  "related": [],
+  "detailed": false
+}

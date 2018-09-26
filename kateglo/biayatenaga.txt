@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya tenaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua jenis pengeluaran yang dibayarkan kepada karyawan sebagai balas jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20tenaga",
+  "related": [],
+  "detailed": false
+}

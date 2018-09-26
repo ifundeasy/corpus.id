@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang pengadilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) proses memeriksa dan mengadili perkara pidana di dalam ruang sidang pengadilan di bawah pimpinan hakim tunggal atau majelis hakim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20pengadilan",
+  "related": [],
+  "detailed": false
+}

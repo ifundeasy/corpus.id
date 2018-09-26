@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "makro-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "besar;"
+      },
+      {
+        "type": "desc",
+        "text": "panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makro-",
+  "related": [],
+  "detailed": false
+}

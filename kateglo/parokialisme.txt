@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parokialisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang berkaitan dengan agama;"
+      },
+      {
+        "type": "desc",
+        "text": "yang berpandangan picik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parokialisme",
+  "related": [],
+  "detailed": false
+}

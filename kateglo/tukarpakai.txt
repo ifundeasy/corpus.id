@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tukar pakai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar dalam pemakaian (pakaian, kendaraan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukar%20pakai",
+  "related": [],
+  "detailed": false
+}

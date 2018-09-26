@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa simpati atau belas kasihan;"
+      },
+      {
+        "type": "desc",
+        "text": "yang menimbulkan rasa kasihan, simpati, sedih, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patos",
+  "related": [],
+  "detailed": false
+}

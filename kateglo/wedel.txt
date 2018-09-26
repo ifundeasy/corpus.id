@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wedel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Sd)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mudah robek (tentang tenunan atau anyaman); kuat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat pewarna biru kehitam-hitaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wedel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekurusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kurus;"
+      },
+      {
+        "type": "desc",
+        "text": "terlampau kurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekurusan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan pembayaran dividen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bank atau badan yang bertugas membayarkan dividen kepada pemegang saham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20pembayaran%20dividen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "invalid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lemah atau cacat anggota badan karena sakit atau luka; cedera;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bangkrut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=invalid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semantik generatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) aliran transformasi generatif yang menganggap komponen semantik sebagai dasar penurunan struktur sintaktis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semantik%20generatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "analogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persamaan atau persesuaian antara dua benda atau hal yang berlainan; kias;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kesepadanan antara bentuk bahasa yang menjadi dasar terjadinya bentuk lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mik) sesuatu yang sama dalam bentuk, susunan, atau fungsi, tetapi berlainan asal-usulnya sehingga tidak ada hubungan kekerabatan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) kesamaan sebagian ciri antara dua benda atau hal yang dapat dipakai untuk dasar perbandingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analogi",
+  "related": [],
+  "detailed": false
+}

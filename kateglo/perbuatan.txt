@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbuatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diperbuat (dilakukan); tindakan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelakuan; tingkah laku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbuatan",
+  "related": [],
+  "detailed": false
+}

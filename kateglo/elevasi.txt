@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elevasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketinggian suatu tempat terhadap daerah sekitarnya (di atas permukaan laut);"
+      },
+      {
+        "type": "desc",
+        "text": "ketinggian atau sudut tinggi suatu benda langit di atas horizon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elevasi",
+  "related": [],
+  "detailed": false
+}

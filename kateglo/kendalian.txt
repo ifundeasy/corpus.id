@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kendalian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mengendalikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendalian",
+  "related": [],
+  "detailed": false
+}

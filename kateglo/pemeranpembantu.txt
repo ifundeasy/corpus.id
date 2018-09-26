@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeran pembantu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranan (dalam film dsb) yang mendampingi pemeran utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeran%20pembantu",
+  "related": [],
+  "detailed": false
+}

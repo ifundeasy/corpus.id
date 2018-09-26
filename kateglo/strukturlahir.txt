@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "struktur lahir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) urutan linier bunyi kata, frasa, dan klausa yang memerincikan apa yang diujarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=struktur%20lahir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian ruang yang bersekat; kotak;"
+      },
+      {
+        "type": "desc",
+        "text": "bilik kamar; kamar kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "piring (sebidang sawah yang dibatasi oleh pematang);"
+      },
+      {
+        "type": "desc",
+        "text": "bedeng (persemaian yang akan ditanami);"
+      },
+      {
+        "type": "desc",
+        "text": "belang pada kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "belang putih pada dahi kuda;"
+      },
+      {
+        "type": "link",
+        "text": "petak kadal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petak",
+  "related": [],
+  "detailed": false
+}

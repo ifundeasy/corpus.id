@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "faktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan, peristiwa) yang ikut menyebabkan (mempengaruhi) terjadinya sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan (atau bangun) yang merupakan bagian hasil perbanyakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor",
+  "related": [],
+  "detailed": false
+}

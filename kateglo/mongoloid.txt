@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mongoloid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan karakteristik yang dimiliki oleh orang-orang ras Mongol;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit bawaan dengan gejala kepala kecil, mata sipit miring ke atas samping, lidah tebal, dan retardasi mental; mongolisme; sindrom Down; facies mongoloides;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mongoloid",
+  "related": [],
+  "detailed": false
+}

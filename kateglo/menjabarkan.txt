@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjabarkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "mengubah (pecahan, ukuran, dsb) supaya menjadi bentuk lain yang lebih bersahaja atau menjadi golongan bentuk aljabar yang bersahaja;"
+      },
+      {
+        "type": "desc",
+        "text": "menerangkan (menguraikan) secara terperinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjabarkan",
+  "related": [],
+  "detailed": false
+}

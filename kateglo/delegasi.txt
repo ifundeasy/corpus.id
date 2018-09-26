@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "delegasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (orang) yang ditunjuk dan diutus oleh suatu perkumpulan (negara dsb) dalam suatu perundingan (musyawarah dsb); perutusan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) penyerahan atau pelimpahan wewenang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Adm) pelimpahan wewenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=delegasi",
+  "related": [],
+  "detailed": false
+}

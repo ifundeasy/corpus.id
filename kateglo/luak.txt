@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkurang; susut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang mirip kucing berbulu bintik-bintik yang gemar makan ayam, buah kopi, dsb; musang; Paradoxurus hermaphroditus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) daerah; distrik; luhak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) sumur (yang digali);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luak",
+  "related": [],
+  "detailed": false
+}

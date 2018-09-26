@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa yang secara potensial dapat menjadi kalimat bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20bebas",
+  "related": [],
+  "detailed": false
+}

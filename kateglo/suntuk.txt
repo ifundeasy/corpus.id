@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suntuk",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sudah sampai pada batasnya (hingga tidak dapat maju, lanjut, atau naik lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "telah lampau atau habis (tentang waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "larut atau jauh (malam);"
+      },
+      {
+        "type": "desc",
+        "text": "sepanjang (hari, malam, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) pendek (tentang akal, pikiran, dsb); singkat; picik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suntuk",
+  "related": [],
+  "detailed": false
+}

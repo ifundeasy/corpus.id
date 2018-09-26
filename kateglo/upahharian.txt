@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bayaran yang diberikan kepada karyawan hanya untuk hasil kerja harian, apabila yang bersangkutan masuk kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20harian",
+  "related": [],
+  "detailed": false
+}

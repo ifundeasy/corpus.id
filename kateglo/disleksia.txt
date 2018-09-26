@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disleksia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) gangguan pada penglihatan dan pendengaran yang disebabkan oleh kelainan saraf pada otak sehingga anak mengalami kesulitan membaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disleksia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat berbuih, digunakan untuk mandi, mencuci pakaian, piring, dsb, biasanya berupa campuran alkali, garam, dan natrium;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "putih atau putih kekuningan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabun",
+  "related": [],
+  "detailed": false
+}

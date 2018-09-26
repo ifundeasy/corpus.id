@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur panen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa tumbuhan ditanam sampai dipanen (tentang padi, jagung, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20panen",
+  "related": [],
+  "detailed": false
+}

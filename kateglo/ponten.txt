@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ponten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "angka (biji, nilai) kepandaian atau angka pertandingan (perlombaan);"
+      },
+      {
+        "type": "desc",
+        "text": "angka (biji, nilai) kepandaian atau angka pertandingan (perlombaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ponten",
+  "related": [],
+  "detailed": false
+}

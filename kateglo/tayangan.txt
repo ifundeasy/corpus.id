@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tayangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditayangkan (dipertunjukkan);"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan (film dsb); persembahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tayangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sini",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "tempat ini;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kemari;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) saya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sini",
+  "related": [],
+  "detailed": false
+}

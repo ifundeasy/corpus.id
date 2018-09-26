@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hijau daun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat hijau daun; klorofil;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hijau muda (seperti warna daun muda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hijau%20daun",
+  "related": [],
+  "detailed": false
+}

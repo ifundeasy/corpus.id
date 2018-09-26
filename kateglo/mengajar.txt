@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengajar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi pelajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "melatih;"
+      },
+      {
+        "type": "desc",
+        "text": "memarahi (memukuli, menghukum, dsb) supaya jera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengajar",
+  "related": [],
+  "detailed": false
+}

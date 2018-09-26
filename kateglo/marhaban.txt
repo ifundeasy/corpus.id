@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marhaban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru (afektif) untuk menyambut atau menghormati tamu (yang berarti selamat datang);"
+      },
+      {
+        "type": "desc",
+        "text": "lagu puji-pujian (yang dinyanyikan pada perayaan Maulid Nabi Muhammad saw., dengan diiringi rebana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marhaban",
+  "related": [],
+  "detailed": false
+}

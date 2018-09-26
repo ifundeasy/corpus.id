@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik garis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat garis (dari satu titik dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) membuat pemisahan (tanda pemisah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20garis",
+  "related": [],
+  "detailed": false
+}

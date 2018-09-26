@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda pangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang menyatakan pangkat dalam kemiliteran dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) tanda yang menyatakan perpangkatan (pergandaan) suatu bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20pangkat",
+  "related": [],
+  "detailed": false
+}

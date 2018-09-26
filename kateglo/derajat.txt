@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "derajat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkatan; martabat; pangkat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) gelar yang diberikan oleh perguruan tinggi (universitas) kepada mahasiswa yang telah lulus dalam ujian yang diharuskan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) satuan ukuran sudut, satu derajat (ditulis 1o) sama dengan 1/90 besar sudut siku-siku; satuan ukuran 1/90 bagian dari sudut siku tegak lurus (90o);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) satuan ukuran panjang dan lebar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) satuan ukuran suhu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang sama dari skala (pengukur suhu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derajat",
+  "related": [],
+  "detailed": false
+}

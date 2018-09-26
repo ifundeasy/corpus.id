@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotermia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan suhu tubuh yang turun hingga di bawah 35o C;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotermia",
+  "related": [],
+  "detailed": false
+}

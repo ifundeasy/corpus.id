@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengumpul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengumpulkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengumpulkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengumpul",
+  "related": [],
+  "detailed": false
+}

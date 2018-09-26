@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu menjelang malam sesudah lenyapnya sinar merah di ufuk barat;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu salat wajib setelah lenyapnya sinar merah di ufuk barat sampai menjelang terbit fajar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada malam hari antara habis waktu magrib dan menjelang subuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isya",
+  "related": [],
+  "detailed": false
+}

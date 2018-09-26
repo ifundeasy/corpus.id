@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan manusia ketika hidup di dunia;"
+      },
+      {
+        "type": "desc",
+        "text": "hukum sebab-akibat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karma",
+  "related": [],
+  "detailed": false
+}

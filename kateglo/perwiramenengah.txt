@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwira menengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam ketentaraan, satu tingkat di bawah kelompok perwira tinggi dan satu tingkat di atas kelompok perwira pertama, meliputi kolonel, letnan kolonel, dan mayor;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam kepolisian, satu tingkat di bawah kelompok perwira tinggi dan satu tingkat di atas kelompok perwira pertama, meliputi senior superintenden, superintenden, dan aisten superintenden;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwira%20menengah",
+  "related": [],
+  "detailed": false
+}

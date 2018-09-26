@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelas petinju yang berat badannya di atas 57 kg, tetapi tidak lebih dari 60 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20ringan",
+  "related": [],
+  "detailed": false
+}

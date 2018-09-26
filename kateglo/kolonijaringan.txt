@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koloni jaringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan jaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koloni%20jaringan",
+  "related": [],
+  "detailed": false
+}

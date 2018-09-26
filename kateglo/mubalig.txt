@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mubalig",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyiarkan (menyampaikan) ajaran agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengumandangkan takbir dan tahmid (dalam salat berjamaah) agar terdengar dengan jelas oleh makmum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mubalig",
+  "related": [],
+  "detailed": false
+}

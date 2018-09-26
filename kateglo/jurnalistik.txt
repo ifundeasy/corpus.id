@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jurnalistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menyangkut kewartawanan dan persuratkabaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurnalistik",
+  "related": [],
+  "detailed": false
+}

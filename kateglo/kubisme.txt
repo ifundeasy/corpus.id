@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kubisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk permulaan seni abstrak (tentang seni lukis), mengutamakan pemecahan bentuk menjadi bidang bersiku-siku dan berhimpitan, kemudian disusun kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) usaha (dalam puisi) untuk memecah-mecah unsur pengalaman, kemudian menyusunnya kembali dalam sintesis baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kubisme",
+  "related": [],
+  "detailed": false
+}

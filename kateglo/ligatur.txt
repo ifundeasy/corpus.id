@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ligatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "tanda untuk membayangkan dan menyanyikan dua atau beberapa nada yang sama tingginya sebagai satu tanda (tersambung tanpa terputus);"
+      },
+      {
+        "type": "desc",
+        "text": "huruf tercetak atau tertulis yang merupakan gabungan dua huruf atau lebih yang berlainan;"
+      },
+      {
+        "type": "desc",
+        "text": "benang yang dipakai untuk mengikat suatu organ berongga;"
+      },
+      {
+        "type": "desc",
+        "text": "pengikatan unsur geligi dengan benang kawat dari logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ligatur",
+  "related": [],
+  "detailed": false
+}

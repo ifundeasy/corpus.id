@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan peledak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat meledak atau menyebabkan meledak, seperti mesiu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) senyawa kimia yang dapat bereaksi dengan cepat, yang menghasilkan sejumlah besar gas bertemperatur dan bertekanan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20peledak",
+  "related": [],
+  "detailed": false
+}

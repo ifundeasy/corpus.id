@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "melek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak tidur; jaga;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) celik mata; dapat melihat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) insaf; mengerti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melek",
+  "related": [],
+  "detailed": false
+}

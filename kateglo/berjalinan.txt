@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjalinan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai jalinan;"
+      },
+      {
+        "type": "desc",
+        "text": "saling berjalin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjalinan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menemu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menemu",
+  "related": [],
+  "detailed": false
+}

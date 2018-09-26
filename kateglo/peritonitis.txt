@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peritonitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang selaput perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peritonitis",
+  "related": [],
+  "detailed": false
+}

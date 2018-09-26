@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aneka warna",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bermacam-macam warna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aneka%20warna",
+  "related": [],
+  "detailed": false
+}

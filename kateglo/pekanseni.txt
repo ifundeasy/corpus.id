@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekan seni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pameran kegiatan kesenian selama sepekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekan%20seni",
+  "related": [],
+  "detailed": false
+}

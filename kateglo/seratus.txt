@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seratus",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 100 (Arab) atau C (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-100 sesudah ke-99 dan sebelum ke-101;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 99 ditambah 1 atau 10 kali 10;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seratus",
+  "related": [],
+  "detailed": false
+}

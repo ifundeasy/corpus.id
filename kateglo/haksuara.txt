@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak suara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak untuk memberikan suara (seperti dalam pemilihan umum);"
+      },
+      {
+        "type": "desc",
+        "text": "hak pemegang saham untuk mengeluarkan suara dalam rapat umum pemegang saham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20suara",
+  "related": [],
+  "detailed": false
+}

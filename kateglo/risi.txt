@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "risi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa jijik;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa malu (merasa tidak enak dengan keadaan sekeliling);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) merasa tersinggung;"
+      },
+      {
+        "type": "desc",
+        "text": "khawatir; cemas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=risi",
+  "related": [],
+  "detailed": false
+}

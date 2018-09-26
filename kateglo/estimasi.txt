@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "estimasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkiraan;"
+      },
+      {
+        "type": "desc",
+        "text": "penilaian; pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=estimasi",
+  "related": [],
+  "detailed": false
+}

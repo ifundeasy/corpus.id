@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "memorial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dibuat (didirikan) sebagai peringatan peristiwa bersejarah atau sebagai peringatan seorang tokoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memorial",
+  "related": [],
+  "detailed": false
+}

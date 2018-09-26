@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun kabisat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20panjang",
+  "related": [],
+  "detailed": false
+}

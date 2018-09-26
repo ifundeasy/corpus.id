@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan air (atau benda cair) ke dalam mulut dan meneguknya;"
+      },
+      {
+        "type": "desc",
+        "text": "mengisap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minum",
+  "related": [],
+  "detailed": false
+}

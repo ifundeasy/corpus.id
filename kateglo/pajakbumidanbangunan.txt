@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak bumi dan bangunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(PBB) jenis pajak yang dikenakan terhadap objek pajak, berupa bumi dan/atau bangunan; pajak perponding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20bumi%20dan%20bangunan",
+  "related": [],
+  "detailed": false
+}

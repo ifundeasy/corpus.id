@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lotek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan terbuat dari sayuran semacam gado-gado;"
+      },
+      {
+        "type": "desc",
+        "text": "dempul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lotek",
+  "related": [],
+  "detailed": false
+}

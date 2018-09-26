@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pundi-pundi;"
+      },
+      {
+        "type": "desc",
+        "text": "saku (baju dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membawa sesuatu (belanjaan dsb) yang terbuat dari kain, plastik, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantong",
+  "related": [],
+  "detailed": false
+}

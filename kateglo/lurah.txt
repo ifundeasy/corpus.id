@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lurah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala pemerintahan tingkat terendah; kepala desa;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala atau pimpinan suatu bagian pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "lembah; jurang;"
+      },
+      {
+        "type": "desc",
+        "text": "alur (lekuk memanjang) di tepi papan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lurah",
+  "related": [],
+  "detailed": false
+}

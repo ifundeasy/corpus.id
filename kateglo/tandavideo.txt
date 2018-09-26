@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda video",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) tanda yang muncul dalam siaran melalui kaset;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20video",
+  "related": [],
+  "detailed": false
+}

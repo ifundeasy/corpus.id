@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamera televisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamera yang digunakan untuk mengambil objek-objek yang akan disiarkan melalui televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamera%20televisi",
+  "related": [],
+  "detailed": false
+}

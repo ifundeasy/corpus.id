@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mitologis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesuai dengan atau bersifat mitologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mitologis",
+  "related": [],
+  "detailed": false
+}

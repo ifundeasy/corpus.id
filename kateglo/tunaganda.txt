@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunaganda",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penderita cacat lebih dari satu kecacatan (yaitu cacat fisik dan mental);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunaganda",
+  "related": [],
+  "detailed": false
+}

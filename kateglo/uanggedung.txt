@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang gedung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang sumbangan untuk pembangunan gedung sekolah, diwajibkan bagi calon murid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20gedung",
+  "related": [],
+  "detailed": false
+}

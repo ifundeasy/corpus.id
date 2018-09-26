@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gentala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "kereta sakti yang bergerak sendiri;"
+      },
+      {
+        "type": "link",
+        "text": "naga"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gentala",
+  "related": [],
+  "detailed": false
+}

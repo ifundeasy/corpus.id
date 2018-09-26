@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa barang yang telah diambil sarinya atau patinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampas",
+  "related": [],
+  "detailed": false
+}

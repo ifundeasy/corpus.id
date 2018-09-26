@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selongsong yang dibuat dari kayu, kulit, atau logam tempat memasukkan keris (pedang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sampul; salut; pembungkus;"
+      },
+      {
+        "type": "desc",
+        "text": "kain sarung;"
+      },
+      {
+        "type": "link",
+        "text": "menyarung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sejuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa atau terasa dingin;"
+      },
+      {
+        "type": "desc",
+        "text": "dingin segar atau nyaman;"
+      },
+      {
+        "type": "desc",
+        "text": "agak dingin; nyaman; segar (tentang udara);"
+      },
+      {
+        "type": "desc",
+        "text": "senang; lega (tentang hati); berkurang atau hilang susah hatinya (kegelisahannya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejuk",
+  "related": [],
+  "detailed": false
+}

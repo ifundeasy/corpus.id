@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekaliter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi 10 liter (disingkat dal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekaliter",
+  "related": [],
+  "detailed": false
+}

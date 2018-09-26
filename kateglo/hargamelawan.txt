@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga melawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) harga yang lebih murah daripada yang ditawarkan oleh penjual lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20melawan",
+  "related": [],
+  "detailed": false
+}

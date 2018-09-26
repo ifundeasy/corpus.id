@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amung",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "link",
+        "text": "teramung"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, gerepoh, Caronx ignoblis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain pembalut luka;"
+      },
+      {
+        "type": "desc",
+        "text": "kain pembebat bayi yang baru;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "oles; lumas;"
+      },
+      {
+        "type": "desc",
+        "text": "gores(an);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barut",
+  "related": [],
+  "detailed": false
+}

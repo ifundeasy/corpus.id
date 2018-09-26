@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heksahedron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bidang banyak bersisi enam; bidang enam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heksahedron",
+  "related": [],
+  "detailed": false
+}

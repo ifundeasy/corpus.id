@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengeluarkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membawa (menyebabkan dsb) keluar; memindahkan sesuatu dari sebelah dalam ke sebelah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "melahirkan perasaan (pendapat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan perintah (surat keputusan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membelanjakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menerbitkan (buku dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengadakan atau menyediakan (uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengirimkan ke luar negeri; mengekspor;"
+      },
+      {
+        "type": "desc",
+        "text": "memecat (melepas) pegawai (murid dsb); memberhentikan dari pekerjaan (sekolah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menghasilkan (barang, bahan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengeluarkan",
+  "related": [],
+  "detailed": false
+}

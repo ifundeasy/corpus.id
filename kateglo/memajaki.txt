@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memajaki",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar pajak untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenakan pajak pada;"
+      },
+      {
+        "type": "desc",
+        "text": "mengepak (sarang burung, rawa, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memajaki",
+  "related": [],
+  "detailed": false
+}

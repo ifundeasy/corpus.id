@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plonco",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "calon mahasiswa yang sedang mengikuti acara kegiatan pengenalan kampus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plonco",
+  "related": [],
+  "detailed": false
+}

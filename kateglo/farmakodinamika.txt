@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmakodinamika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang farmasi tentang reaksi antara obat dan sistem kehidupan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmakodinamika",
+  "related": [],
+  "detailed": false
+}

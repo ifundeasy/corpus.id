@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan buntu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang tidak ada terusannya (buntu atau tertutup) pada ujungnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) masalah yang tidak dapat dipecahkan atau diteruskan hingga selesai (tentang perundingan atau rapat yang tidak mendapat persesuaian pendapat); keadaan tanpa adanya pemecahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) keadaan yang memaksa pihak yang bertentangan berhenti (karena mempunyai kekuatan seimbang) pada suatu titik tertentu sebab kedua belah pihak sudah tidak mungkin lagi untuk maju atau mundur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20buntu",
+  "related": [],
+  "detailed": false
+}

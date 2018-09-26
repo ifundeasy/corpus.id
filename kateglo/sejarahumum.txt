@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sejarah umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejarah tentang kejadian di dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejarah%20umum",
+  "related": [],
+  "detailed": false
+}

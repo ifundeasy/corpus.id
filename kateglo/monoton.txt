@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monoton",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berulang-ulang selalu sama nadanya (bunyinya, ragamnya); tunggal bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu sama dengan yang dulu; itu-itu saja, tidak ada ragamnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monoton",
+  "related": [],
+  "detailed": false
+}

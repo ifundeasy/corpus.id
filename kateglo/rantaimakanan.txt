@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rantai makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "perolehan makanan pada organisme yang terjadi secara berantai;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian pemerolehan makanan organisme berikutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rantai%20makanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ha",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan girang;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru untuk mengejek;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan rasa lega;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru yang menyatakan terkejut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara orang tertawa lepas;"
+      },
+      {
+        "type": "desc",
+        "text": "(ha kecil) nama huruf ke-6 abjad Arab;"
+      },
+      {
+        "type": "desc",
+        "text": "(ha besar) nama huruf ke-27 abjad Arab;"
+      },
+      {
+        "type": "desc",
+        "text": "nama huruf h;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ha",
+  "related": [],
+  "detailed": false
+}

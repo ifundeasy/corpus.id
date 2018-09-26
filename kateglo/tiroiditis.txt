@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiroiditis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang kelenjar gondok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiroiditis",
+  "related": [],
+  "detailed": false
+}

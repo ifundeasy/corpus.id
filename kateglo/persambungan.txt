@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persambungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersambung;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat adanya sambungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persambungan",
+  "related": [],
+  "detailed": false
+}

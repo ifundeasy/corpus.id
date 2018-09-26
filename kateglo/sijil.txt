@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sijil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat gulungan; daftar; register;"
+      },
+      {
+        "type": "desc",
+        "text": "surat tanda lulus pemeriksaan, surat tanda tamat belajar, dsb; sertifikat; ijazah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) daftar nama orang yang bertugas sebagai awak kapal, yang disahkan oleh syahbandar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sijil",
+  "related": [],
+  "detailed": false
+}

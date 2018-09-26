@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dibawa dari bepergian; oleh-oleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20tangan",
+  "related": [],
+  "detailed": false
+}

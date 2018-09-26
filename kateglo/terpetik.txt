@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpetik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah atau dapat dipetik (tentang buah, bunga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ternukil; terkutip;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja dipetik;"
+      },
+      {
+        "type": "desc",
+        "text": "terdengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpetik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tepatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau tempat yang didatangi (untuk menumpang, bermalam, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang sebagai tempat meminta pertolongan, perlindungan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat orang-orang datang (berkumpul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepatan",
+  "related": [],
+  "detailed": false
+}

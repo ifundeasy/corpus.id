@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkawinan sekerabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkawinan yang dilakukan di antara individu yang masih ada pertalian darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkawinan%20sekerabat",
+  "related": [],
+  "detailed": false
+}

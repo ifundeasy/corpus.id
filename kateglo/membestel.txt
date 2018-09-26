@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membestel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memesan (hendak membeli barang, makanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangkan barang-barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membestel",
+  "related": [],
+  "detailed": false
+}

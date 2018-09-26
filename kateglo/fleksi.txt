@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan bentuk kata sesuai dengan perbedaan waktu, jenis kelamin, jumlah, dsb, misal terdapat pada bahasa Inggris dan Jerman;"
+      },
+      {
+        "type": "desc",
+        "text": "proses atau hasil penambahan afiks pada dasar atau pada akar untuk membatasi makna gramatikalnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) gerakan lentur pada persendian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fleksi",
+  "related": [],
+  "detailed": false
+}

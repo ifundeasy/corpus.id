@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pancasuara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "macam-macam suara (bunyi) yang bercampur-baur;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi (suara) yang janggal kedengarannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancasuara",
+  "related": [],
+  "detailed": false
+}

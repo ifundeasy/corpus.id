@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "skala ordinat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "letak skala pada garis horizontal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala%20ordinat",
+  "related": [],
+  "detailed": false
+}

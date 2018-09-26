@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya nyata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) biaya yang sesungguhnya dikeluarkan untuk suatu operasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20nyata",
+  "related": [],
+  "detailed": false
+}

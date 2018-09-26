@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabel kode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabel untuk membuat kode (sandi) atau mencari arti kode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabel%20kode",
+  "related": [],
+  "detailed": false
+}

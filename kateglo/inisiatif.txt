@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inisiatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakarsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inisiatif",
+  "related": [],
+  "detailed": false
+}

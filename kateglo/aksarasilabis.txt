@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksara silabis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem tulisan yang menggunakan satu lambang untuk satu suku kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara%20silabis",
+  "related": [],
+  "detailed": false
+}

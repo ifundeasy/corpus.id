@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sementara",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "selama; selagi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "beberapa lamanya; tidak selamanya; tidak untuk selama-lamanya;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "beberapa (di antaranya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sementara",
+  "related": [],
+  "detailed": false
+}

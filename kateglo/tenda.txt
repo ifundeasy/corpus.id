@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemah;"
+      },
+      {
+        "type": "desc",
+        "text": "kain mota untuk kemah (di kapal, perahu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "langit-langit (pada tempat tidur, kereta, becak, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kap mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenda",
+  "related": [],
+  "detailed": false
+}

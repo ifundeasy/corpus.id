@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah buku",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ek) kesalahan tanpa sengaja tentang pembukuan suatu transaksi, baik perkiraan debit maupun jumlahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20buku",
+  "related": [],
+  "detailed": false
+}

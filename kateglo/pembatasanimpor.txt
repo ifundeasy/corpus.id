@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembatasan impor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara (perihal) membatasi masuknya barang-barang impor dengan jalan mengadakan pembatasan tarif dan kuota (untuk memperbaiki neraca pembayaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembatasan%20impor",
+  "related": [],
+  "detailed": false
+}

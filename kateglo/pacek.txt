@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pacek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Sd) →"
+      },
+      {
+        "type": "link",
+        "text": "berpacek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pacek",
+  "related": [],
+  "detailed": false
+}

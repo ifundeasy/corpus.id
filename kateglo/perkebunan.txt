@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkebunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berkebun;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan yang mengusahakan kebun;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang dijadikan kebun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkebunan",
+  "related": [],
+  "detailed": false
+}

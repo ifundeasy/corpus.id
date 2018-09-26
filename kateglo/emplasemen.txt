@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emplasemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat terbuka atau tanah lapang yang disediakan untuk jawatan atau satuan bangunan (seperti tanah lapang di dekat stasiun untuk keperluan jawatan kereta api);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) posisi yang dipersiapkan untuk artileri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emplasemen",
+  "related": [],
+  "detailed": false
+}

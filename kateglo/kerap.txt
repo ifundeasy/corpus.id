@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkali-kali; berulang kali; sering;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jarang (tentang anyaman, tenunan, dsb); rapat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jauh antaranya (tentang barang yang berderet-deret);"
+      },
+      {
+        "type": "link",
+        "text": "kerap-kerap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerap",
+  "related": [],
+  "detailed": false
+}

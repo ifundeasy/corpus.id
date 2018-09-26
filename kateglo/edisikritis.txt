@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi kritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Filol) terbitan naskah hasil penyelidikan kritik naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20kritis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeraikan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat duduk pengantin; pelaminan;"
+      },
+      {
+        "type": "desc",
+        "text": "balai-balai untuk tempat tidur dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kedai kecil, meja, dsb tempat menjual barang;"
+      },
+      {
+        "type": "link",
+        "text": "menggerai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerai",
+  "related": [],
+  "detailed": false
+}

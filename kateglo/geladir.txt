@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geladir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lendir;"
+      },
+      {
+        "type": "desc",
+        "text": "kotoran (tahi yang encer sekali);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cepat meluncur; laju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladir",
+  "related": [],
+  "detailed": false
+}

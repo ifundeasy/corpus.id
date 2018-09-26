@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "permeabilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan (bahan, membran, dsb) meloloskan partikel dengan menembusnya;"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan antara volume dalam sebuah ruang yang dianggap dapat diisi dan volume seluruh ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permeabilitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai pengobatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balai kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20pengobatan",
+  "related": [],
+  "detailed": false
+}

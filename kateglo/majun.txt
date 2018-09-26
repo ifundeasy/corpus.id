@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "majun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potongan sisa bahan (bukan kain bekas) yang digunakan untuk lap;"
+      },
+      {
+        "type": "desc",
+        "text": "jamu atau obat kuat untuk lelaki yang dibuat dari bermacam-macam ramuan, yang membuat badan menjadi terasa hangat, sehat, kuat, dan bersemangat muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majun",
+  "related": [],
+  "detailed": false
+}

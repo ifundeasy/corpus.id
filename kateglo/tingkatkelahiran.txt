@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tingkat kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah kelahiran per 1.000 orang penduduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tingkat%20kelahiran",
+  "related": [],
+  "detailed": false
+}

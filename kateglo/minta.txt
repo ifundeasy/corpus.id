@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkata-kata supaya diberi atau mendapat sesuatu; mohon;"
+      },
+      {
+        "type": "desc",
+        "text": "mempersilakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) beli;"
+      },
+      {
+        "type": "desc",
+        "text": "meminang; melamar;"
+      },
+      {
+        "type": "desc",
+        "text": "memerlukan;"
+      },
+      {
+        "type": "desc",
+        "text": "membawa; menimbulkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minta",
+  "related": [],
+  "detailed": false
+}

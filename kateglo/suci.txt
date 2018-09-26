@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suci",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersih (dalam arti keagamaan, seperti tidak kena najis, sele-sai mandi janabat);"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari dosa; bebas dari cela; bebas dari noda; maksum;"
+      },
+      {
+        "type": "desc",
+        "text": "keramat;"
+      },
+      {
+        "type": "desc",
+        "text": "murni (tentang hati, batin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suci",
+  "related": [],
+  "detailed": false
+}

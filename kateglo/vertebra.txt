@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vertebra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) ruas tulang belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vertebra",
+  "related": [],
+  "detailed": false
+}

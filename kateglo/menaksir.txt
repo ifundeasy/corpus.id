@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menaksir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan sesuatu (harga, banyaknya, jumlah, dsb) dengan kira-kira;"
+      },
+      {
+        "type": "desc",
+        "text": "mengira; menyangka dengan menilik keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "ada keinginan hendak (perasaan tertarik hati);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ingin memi-liki (membeli dsb); menghendaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menaksir",
+  "related": [],
+  "detailed": false
+}

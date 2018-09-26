@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "overdosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld) ukuran (obat dsb) yang berlebihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=overdosis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kriptogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) teks yang tertulis dalam kode rahasia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kriptogram",
+  "related": [],
+  "detailed": false
+}

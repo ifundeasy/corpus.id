@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siput;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melala"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lala",
+  "related": [],
+  "detailed": false
+}

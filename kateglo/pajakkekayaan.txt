@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak kekayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang harus dibayar penduduk sehubungan dengan pemilikan atas benda-benda, tanah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20kekayaan",
+  "related": [],
+  "detailed": false
+}

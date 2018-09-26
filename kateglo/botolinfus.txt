@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "botol infus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "botol berisi cairan makanan, obat, dsb yang dialirkan ke tubuh pasien melalui selang dan jarum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=botol%20infus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian adat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian resmi khas daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20adat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rabung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bubungan (puncak) rumah; perabung;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar; tinggi (tentang cakap, bicara);"
+      },
+      {
+        "type": "link",
+        "text": "perabung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rabung",
+  "related": [],
+  "detailed": false
+}

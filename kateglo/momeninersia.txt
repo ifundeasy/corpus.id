@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "momen inersia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) hasil kali massa benda dengan kuadrat jaraknya terhadap sumbu putaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=momen%20inersia",
+  "related": [],
+  "detailed": false
+}

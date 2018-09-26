@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhadapan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bermuka (dengan); bertentangan (dengan); bertemu muka (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "berdekatan dan tentang-menentang (ti-dak belakang-membelakangi);"
+      },
+      {
+        "type": "desc",
+        "text": "bertanding (dengan); melawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhadapan",
+  "related": [],
+  "detailed": false
+}

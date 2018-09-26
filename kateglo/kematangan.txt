@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kematangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal matang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau matang;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan individu dalam perkembangan sepenuhnya yang ditandai oleh kemampuan aktual dalam membuat pertimbangan secara dewasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kematangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabinet partai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabinet yang menterinya berasal dari anggota satu partai yang menguasi suara terbanyak di parlemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabinet%20partai",
+  "related": [],
+  "detailed": false
+}

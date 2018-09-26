@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "denok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "montok (tentang perempuan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan untuk anak perempuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denok",
+  "related": [],
+  "detailed": false
+}

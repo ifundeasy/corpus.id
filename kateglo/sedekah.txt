@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedekah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian sesuatu kepada fakir miskin atau yang berhak menerimanya, di luar kewajiban zakat dan zakat fitrah sesuai dengan kemampuan pemberi; derma;"
+      },
+      {
+        "type": "desc",
+        "text": "selamatan; kenduri;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan (bunga-bunga dsb) yang disajikan kepada orang halus (roh penunggu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedekah",
+  "related": [],
+  "detailed": false
+}

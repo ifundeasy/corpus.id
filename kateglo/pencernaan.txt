@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencernaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghancuran;"
+      },
+      {
+        "type": "desc",
+        "text": "penghancuran dan penyerapan makanan di dalam perut dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mencernakan makanan (usus dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencernaan",
+  "related": [],
+  "detailed": false
+}

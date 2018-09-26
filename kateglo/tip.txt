@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "persen (kepada pelayan restoran, pengangkat koper di bandar udara, pelayan hotel, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengetip"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tip",
+  "related": [],
+  "detailed": false
+}

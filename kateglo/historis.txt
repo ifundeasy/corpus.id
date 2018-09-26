@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "historis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan sejarah; bertalian atau ada hubungannya dengan masa lampau;"
+      },
+      {
+        "type": "desc",
+        "text": "bersejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=historis",
+  "related": [],
+  "detailed": false
+}

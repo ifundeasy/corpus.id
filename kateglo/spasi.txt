@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak (antara huruf cetak atau antara baris tulisan);"
+      },
+      {
+        "type": "desc",
+        "text": "keping timah kecil-kecil untuk memberi jarak huruf-huruf atau baris di percetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spasi",
+  "related": [],
+  "detailed": false
+}

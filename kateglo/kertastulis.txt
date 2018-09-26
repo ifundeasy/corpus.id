@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas tulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas yang khusus untuk ditulisi (biasanya bergaris-garis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20tulis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah lembur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah yang dibayarkan kepada karyawan yang melakukan pekerjaan di luar jam kerja resmi yang telah ditetapkan atau pada hari libur resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20lembur",
+  "related": [],
+  "detailed": false
+}

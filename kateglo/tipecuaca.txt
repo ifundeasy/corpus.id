@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan cuaca yang biasanya dipakai untuk menyatakan distribusi tekanan udara di suatu daerah yang berhubungan dengan sifat cuaca pada waktu disebutkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20cuaca",
+  "related": [],
+  "detailed": false
+}

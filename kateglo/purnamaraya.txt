@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "purnama raya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bulan purnama yang sebulat-bulatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purnama%20raya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oersted",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan kuat medan magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oersted",
+  "related": [],
+  "detailed": false
+}

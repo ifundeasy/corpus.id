@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "termasuk atau berhubungan dengan bidang kedokteran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medis",
+  "related": [],
+  "detailed": false
+}

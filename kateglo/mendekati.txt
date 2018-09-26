@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendekati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghampiri; mau berdekatan dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir sampai pada (saatnya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai hendak berdamai (bersahabat, bergaul);"
+      },
+      {
+        "type": "desc",
+        "text": "hampir serupa dengan; mirip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendekati",
+  "related": [],
+  "detailed": false
+}

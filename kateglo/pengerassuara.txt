@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeras suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat elektronik untuk memperkeras (memperlantang) suara; pelantang;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem yang dapat mengalihkan isyarat listrik menjadi gelombang suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeras%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehamilan lanjut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kehamilan setelah usia subur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehamilan%20lanjut",
+  "related": [],
+  "detailed": false
+}

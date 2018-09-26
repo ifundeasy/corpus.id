@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jura",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "menjura"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) zaman kedua dalam masa Mesozoikum (antara 180 dan 185 juta tahun yang lalu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jura",
+  "related": [],
+  "detailed": false
+}

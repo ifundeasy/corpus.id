@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sastra protes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sastra yang berisi protes (sosial, politik, ekonomi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sastra%20protes",
+  "related": [],
+  "detailed": false
+}

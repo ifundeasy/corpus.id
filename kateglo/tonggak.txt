@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonggak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balok (kayu, batu, dsb) yang dipasang tegak;"
+      },
+      {
+        "type": "desc",
+        "text": "tiang (rumah, jembatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pal (ukuran jauh 1.500 m);"
+      },
+      {
+        "type": "desc",
+        "text": "tunggul (pangkal batang kayu yang masih tegak); sisa batang kayu yang sudah dipotong (yang ada di dalam air dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pokok; asal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang sangat pendiam;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menonggak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonggak",
+  "related": [],
+  "detailed": false
+}

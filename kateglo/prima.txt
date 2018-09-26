@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prima",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pertama;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat baik; utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prima",
+  "related": [],
+  "detailed": false
+}

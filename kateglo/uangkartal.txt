@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kartal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) uang yang berupa logam atau kertas (sebagaimana yang dipakai untuk jual beli sehari-hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kartal",
+  "related": [],
+  "detailed": false
+}

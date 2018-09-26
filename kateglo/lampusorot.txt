@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu sorot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang menyorotkan sinarnya ke satu arah saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20sorot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penimbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menimbang; tukang timbang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memberi pertimbangan; penasihat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menimbang; timbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penimbang",
+  "related": [],
+  "detailed": false
+}

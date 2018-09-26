@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keranjat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "terkeranjat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keranjat",
+  "related": [],
+  "detailed": false
+}

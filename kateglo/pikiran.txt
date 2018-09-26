@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pikiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil berpikir (memikirkan);"
+      },
+      {
+        "type": "desc",
+        "text": "akal; ingatan;"
+      },
+      {
+        "type": "desc",
+        "text": "akal (dalam arti daya upaya);"
+      },
+      {
+        "type": "desc",
+        "text": "angan-angan; gagasan;"
+      },
+      {
+        "type": "desc",
+        "text": "niat; maksud;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikiran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kitab logat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar kata dengan ucapannya yang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kitab%20logat",
+  "related": [],
+  "detailed": false
+}

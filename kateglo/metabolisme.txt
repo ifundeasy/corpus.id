@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metabolisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "pertukaran zat pada organisme yang meliputi proses fisika dan kimia, pembentukan dan penguraian zat di dalam badan yang memungkinkan berlangsungnya hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "proses perputaran; gerak berputar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metabolisme",
+  "related": [],
+  "detailed": false
+}

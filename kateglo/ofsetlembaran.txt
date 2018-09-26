@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ofset lembaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses cetak ofset yang kertasnya berupa lembaran terpisah (lepas) masuk ke dalam mesin cetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ofset%20lembaran",
+  "related": [],
+  "detailed": false
+}

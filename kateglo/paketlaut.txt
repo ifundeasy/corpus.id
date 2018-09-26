@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paket laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paket yang dikirimkan melalui pos laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paket%20laut",
+  "related": [],
+  "detailed": false
+}

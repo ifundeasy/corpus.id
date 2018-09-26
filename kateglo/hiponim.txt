@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hiponim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan antara makna spesifik dan makna generik atau antara anggota taksonomi dan nama taksonomi, misal kucing, anjing, kambing disebut hiponim dari hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hiponim",
+  "related": [],
+  "detailed": false
+}

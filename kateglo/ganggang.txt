@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ganggang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berganggang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sela-sela di antara dua barang; celah;"
+      },
+      {
+        "type": "desc",
+        "text": "aneka ragam jenis tanaman yang terdapat di pantai, terutama pantai berkarang dan berombak besar, digunakan sebagai sumber bahan makanan atau bahan lainnya; Algae;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "renggang; tidak rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ganggang",
+  "related": [],
+  "detailed": false
+}

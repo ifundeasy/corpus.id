@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sopir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengemudi mobil (bemo dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sopir",
+  "related": [],
+  "detailed": false
+}

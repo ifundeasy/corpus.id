@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah pembicaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi pokok pembicaran;"
+      },
+      {
+        "type": "desc",
+        "text": "yang menjadi sebutan orang;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil pembicaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20pembicaraan",
+  "related": [],
+  "detailed": false
+}

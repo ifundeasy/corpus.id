@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengusap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghapus; menyeka; menyapu (keringat, air mata, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengelus-elus; membelai;"
+      },
+      {
+        "type": "desc",
+        "text": "menyapu (mengecat, memulas, dsb) di bagian luarnya saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengusap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) perpaduan anggaran yang meliputi berbagai bidang, misal bidang penjualan, bidang produksi, bidang operasi, dan bidang nonoperasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20induk",
+  "related": [],
+  "detailed": false
+}

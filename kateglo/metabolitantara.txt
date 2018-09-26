@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metabolit antara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa atau metabolit yang terbentuk di antara tahapan reaksi dalam suatu proses biokimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metabolit%20antara",
+  "related": [],
+  "detailed": false
+}

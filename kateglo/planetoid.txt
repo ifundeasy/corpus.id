@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "planetoid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "planet kecil yang jumlahnya puluhan ribu, beredar mengelilingi matahari, letaknya di antara orbit Mars dan Yupiter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=planetoid",
+  "related": [],
+  "detailed": false
+}

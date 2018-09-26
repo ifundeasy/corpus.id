@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak preferensi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak istimewa bagi penagih (orang yang berpiutang);"
+      },
+      {
+        "type": "desc",
+        "text": "hak untuk memperoleh keuntungan dari suatu benda dengan melalui penagih lainnya yang tidak mempunyai hak preferensi itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20preferensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setangkup tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebanyak isi rongga kedua belah tangan ditangkupkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setangkup%20tangan",
+  "related": [],
+  "detailed": false
+}

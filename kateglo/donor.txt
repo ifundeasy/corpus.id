@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "donor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penderma; pemberi sumbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "penderma darah (yang menyumbangkan darahnya untuk menolong orang lain yang memerlukan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) unsur kimia yang jika ditambahkan ke dalam semikonduktor murni dapat menambah konsentrasi elektron bebas di dalam semikonduktor itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=donor",
+  "related": [],
+  "detailed": false
+}

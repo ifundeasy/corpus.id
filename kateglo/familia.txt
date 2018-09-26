@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "familia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluarga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=familia",
+  "related": [],
+  "detailed": false
+}

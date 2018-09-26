@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan; pertandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "sabungan; barang yang diadu;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal atau perkara yang diadukan; hal mengadukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aduan",
+  "related": [],
+  "detailed": false
+}

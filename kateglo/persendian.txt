@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persendian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sendi; sekeri; engsel;"
+      },
+      {
+        "type": "desc",
+        "text": "alas; dasar; ruas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persendian",
+  "related": [],
+  "detailed": false
+}

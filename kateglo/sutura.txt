@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sutura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sendi senyawa antara tulang yang hubungannya terjadi karena adanya gerigi yang berpautan satu sama lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) pertautan dua tulang yang tidak dapat bergerak lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) pertemuan (jahitan) antara dua bagian bekas luka atau yang terpisah sehingga menjadi satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sutura",
+  "related": [],
+  "detailed": false
+}

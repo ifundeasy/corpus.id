@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbaca",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah dibaca;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dibaca;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dapat diramalkan atau diketahui (tentang sesuatu yang tersirat di balik yang tersurat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbaca",
+  "related": [],
+  "detailed": false
+}

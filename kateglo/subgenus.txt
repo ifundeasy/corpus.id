@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subgenus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) berhubungan dengan anak marga yang umumnya terdiri atas beberapa jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subgenus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ofset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "proses cetak (buku, koran, dsb), tinta cetak dari pelat dialihkan dulu ke kain karet, kemudian baru ke kertas atau bahan cetak lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) sistem pembelian barang (pesawat terbang dsb) yang mewajibkan pabrik penghasil sebagai penjual untuk memberikan lisensi pembuatan sebagian komponennya pada industri di negara pembeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ofset",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana segar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suntikan dana yang didapatkan melalui bursa yang sedang meningkat;"
+      },
+      {
+        "type": "desc",
+        "text": "suntikan dana untuk memperbaiki struktur keuangan dan memperkuat modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20segar",
+  "related": [],
+  "detailed": false
+}

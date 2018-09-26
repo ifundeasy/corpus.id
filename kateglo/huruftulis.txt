@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf tulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf cetak yang dibuat meniru huruf tulisan tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20tulis",
+  "related": [],
+  "detailed": false
+}

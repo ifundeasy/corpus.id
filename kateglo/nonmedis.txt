@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonmedis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berhubungan dengan ilmu pengobatan (kedokteran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonmedis",
+  "related": [],
+  "detailed": false
+}

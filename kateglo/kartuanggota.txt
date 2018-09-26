@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu anggota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang memuat jati diri seseorang sebagai tanda ke- anggotaan suatu perkumpulan (perusahaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20anggota",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu kendali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) lembaran isian untuk pencatatan, penyimpanan, penemuan kembali, dan sekaligus sebagai alat penyerahan arsip ke Arsip Nasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20kendali",
+  "related": [],
+  "detailed": false
+}

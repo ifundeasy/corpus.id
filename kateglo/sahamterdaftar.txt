@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham terdaftar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) saham yang nama pemiliknya terdaftar pada saham yang bersangkutan dan pada emiten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20terdaftar",
+  "related": [],
+  "detailed": false
+}

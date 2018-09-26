@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penilaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menilai; pemberian nilai (biji, kadar mutu, harga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penilaian",
+  "related": [],
+  "detailed": false
+}

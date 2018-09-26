@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pusparagam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "berwarna-warna; aneka warna;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan berbagai-bagai lagu (musik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusparagam",
+  "related": [],
+  "detailed": false
+}

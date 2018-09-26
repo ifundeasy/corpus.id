@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta pelangkin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta yang bentuknya seperti tandu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20pelangkin",
+  "related": [],
+  "detailed": false
+}

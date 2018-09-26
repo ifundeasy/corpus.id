@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debitase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa bahan yang sudah tidak dipakai yang diperoleh dari hasil pengerjaan alat batu prasejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debitase",
+  "related": [],
+  "detailed": false
+}

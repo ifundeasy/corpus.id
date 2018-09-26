@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penanggung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (perusahaan) yang menanggung (menjamin);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang masuk asuransi;"
+      },
+      {
+        "type": "desc",
+        "text": "penderita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penanggung",
+  "related": [],
+  "detailed": false
+}

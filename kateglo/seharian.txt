@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seharian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepanjang hari (dari pagi sampai sore); sehari penuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seharian",
+  "related": [],
+  "detailed": false
+}

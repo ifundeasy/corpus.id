@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi nuklir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga yang dikaitkan dengan reaksi nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20nuklir",
+  "related": [],
+  "detailed": false
+}

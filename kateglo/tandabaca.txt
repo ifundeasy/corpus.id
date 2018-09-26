@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda baca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang dipakai dalam sistem ejaan (seperti titik, koma, titik dua);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20baca",
+  "related": [],
+  "detailed": false
+}

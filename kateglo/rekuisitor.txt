@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekuisitor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) tuntutan pemidanaan dari jaksa dalam perkara di pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekuisitor",
+  "related": [],
+  "detailed": false
+}

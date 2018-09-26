@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuantum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya (jumlah) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari energi yang tidak dapat dibagi lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuantum",
+  "related": [],
+  "detailed": false
+}

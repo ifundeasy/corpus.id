@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jinjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin atau ketua (golongan, hantu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dukun yang menguasai hantu;"
+      },
+      {
+        "type": "desc",
+        "text": "badan atau orang yang kemasukan setan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menemani utusan raja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jinjang",
+  "related": [],
+  "detailed": false
+}

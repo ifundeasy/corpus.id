@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peritoneum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) selaput rongga perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peritoneum",
+  "related": [],
+  "detailed": false
+}

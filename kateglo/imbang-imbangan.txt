@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "imbang-imbangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir sama beratnya (kuatnya, kuasanya, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bimbang; ragu-ragu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imbang-imbangan",
+  "related": [],
+  "detailed": false
+}

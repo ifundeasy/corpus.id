@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radang",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "meradang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kerusakan jaringan tubuh yang ditandai oleh demam dan pembengkakan (jika sudah lanjut disertai keluar getah bening, darah, nanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radang",
+  "related": [],
+  "detailed": false
+}

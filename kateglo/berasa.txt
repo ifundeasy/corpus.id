@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendapat rasa (yang dialami oleh badan);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai rasa (pahit, manis, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) dirasa(i); terasa (sebagai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berasa",
+  "related": [],
+  "detailed": false
+}

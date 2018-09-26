@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rambut pendek dan halus (anak rambut) yang tumbuh di antara wajah dan rambut kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang (Jawa) macapat, biasanya romantis (berisi percintaan), tiap bait terdiri atas sembilan baris;"
+      },
+      {
+        "type": "desc",
+        "text": "pucuk daun asam; daun asam yang masih muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinom",
+  "related": [],
+  "detailed": false
+}

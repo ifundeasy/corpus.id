@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuantitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya (benda dsb); jumlah (sesuatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuantitas",
+  "related": [],
+  "detailed": false
+}

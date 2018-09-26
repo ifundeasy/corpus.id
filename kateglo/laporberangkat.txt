@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapor berangkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melapor dengan membawa tiket dan paspor (apabila hendak ke luar negeri) kepada petugas maskapai penerbangan di gerai lapor masuk untuk berangkat menaiki pesawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapor%20berangkat",
+  "related": [],
+  "detailed": false
+}

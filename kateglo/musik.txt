@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu atau seni menyusun nada atau suara dalam urutan, kombinasi, dan hubungan temporal untuk menghasilkan komposisi (suara) yang mempunyai kesatuan dan kesinam-bungan;"
+      },
+      {
+        "type": "desc",
+        "text": "nada atau suara yang disusun demikian rupa sehingga mengandung irama, lagu, dan keharmonisan (terutama yang menggunakan alat-alat yang dapat menghasilkan bunyi-bunyi itu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wazir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "perdana menteri;"
+      },
+      {
+        "type": "link",
+        "text": "bawasir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wazir",
+  "related": [],
+  "detailed": false
+}

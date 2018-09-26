@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padepokan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pedepokan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padepokan",
+  "related": [],
+  "detailed": false
+}

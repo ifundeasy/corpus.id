@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memproduksi film atau klip video;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20produksi",
+  "related": [],
+  "detailed": false
+}

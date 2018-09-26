@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ibu dan bapak beserta anak-anaknya; seisi rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "orang seisi rumah yang menjadi tanggungan; batih;"
+      },
+      {
+        "type": "desc",
+        "text": "sanak saudara; kaum kerabat (kaum keluarga);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan kekerabatan yang sangat mendasar dalam masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga",
+  "related": [],
+  "detailed": false
+}

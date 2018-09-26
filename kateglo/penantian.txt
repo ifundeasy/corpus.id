@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penantian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menanti (menunggu);"
+      },
+      {
+        "type": "desc",
+        "text": "hal (keadaan) menanti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penantian",
+  "related": [],
+  "detailed": false
+}

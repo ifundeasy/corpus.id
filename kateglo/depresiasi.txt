@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "depresiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "turunnya nilai, penyusutan nilai (seperti mata uang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depresiasi",
+  "related": [],
+  "detailed": false
+}

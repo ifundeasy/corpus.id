@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bidas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membidas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidas",
+  "related": [],
+  "detailed": false
+}

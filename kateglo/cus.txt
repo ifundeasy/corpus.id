@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi api disiram air dsb;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan gerakan yang sangat cepat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cus",
+  "related": [],
+  "detailed": false
+}

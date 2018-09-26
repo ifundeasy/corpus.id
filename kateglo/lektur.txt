@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lektur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bacaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan bacaan (seperti buku, majalah); pustaka;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lektur",
+  "related": [],
+  "detailed": false
+}

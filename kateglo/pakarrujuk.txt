@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakar rujuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmuwan yang membantu redaksi suatu majalah mengevaluasi karangan yang akan dimuat dalam majalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakar%20rujuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) morfem yang disisipkan di tengah kata; sisipan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infiks",
+  "related": [],
+  "detailed": false
+}

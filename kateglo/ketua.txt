@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang tertua dan banyak pengalamannya (dalam suatu kampung dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai atau memimpin (rapat, dewan, perkumpulan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketua",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kopi susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman dari kopi yang dicampur susu;"
+      },
+      {
+        "type": "desc",
+        "text": "warna cokelat muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopi%20susu",
+  "related": [],
+  "detailed": false
+}

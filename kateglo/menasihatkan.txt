@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menasihatkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan nasihat kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "menganjurkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menasihatkan",
+  "related": [],
+  "detailed": false
+}

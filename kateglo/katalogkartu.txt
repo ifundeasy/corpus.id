@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "katalog kartu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "katalog yang dibuat pada kartu dengan ukuran dan kualitas yang sama, disimpan dalam laci atau lainnya berdasarkan susunan tertentu, tiap kartu hanya memuat satu lema saja dengan perincian nomor klasifikasi atau nomor panggilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalog%20kartu",
+  "related": [],
+  "detailed": false
+}

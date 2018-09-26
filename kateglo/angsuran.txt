@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angsuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dipakai untuk mengangsur (utang, pajak, dsb); cicilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angsuran",
+  "related": [],
+  "detailed": false
+}

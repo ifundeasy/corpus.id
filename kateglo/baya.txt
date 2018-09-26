@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "umur;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berumur; tua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baya",
+  "related": [],
+  "detailed": false
+}

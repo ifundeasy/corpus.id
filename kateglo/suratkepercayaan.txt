@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kepercayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang menerangkan bahwa pemegang surat itu benar-benar sah diangkat atau dipilih menjadi wakil, duta, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kepercayaan",
+  "related": [],
+  "detailed": false
+}

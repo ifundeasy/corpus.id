@@ -1,0 +1,51 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mulai berbau tidak sedap atau berasa masam karena sudah mengalami proses pembusukan (tentang makanan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak baru lagi; sudah lama diketahui atau dibicarakan orang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak manjur (tentang mantra);"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang ditambahkan (untuk cadangan atau persediaan);"
+      },
+      {
+        "type": "desc",
+        "text": "tambahan (tugas, pekerjaan);"
+      },
+      {
+        "type": "desc",
+        "text": "uang potongan (yang diambil ketika menukarkan uang besar dengan uang kecil);"
+      },
+      {
+        "type": "desc",
+        "text": "potongan harga (jika membeli barang banyak);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinggan besar;"
+      },
+      {
+        "type": "desc",
+        "text": "wadah yang bentuknya menyerupai buah semangka, terbuat dari tanah liat, mempunyai tutup dan pegangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basi",
+  "related": [],
+  "detailed": false
+}

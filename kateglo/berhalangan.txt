@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhalangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada rintangan (sehingga suatu rencana tidak terlaksana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhalangan",
+  "related": [],
+  "detailed": false
+}

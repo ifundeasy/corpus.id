@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membayar tunai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar kontan (tidak mengangsur atau bertangguh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membayar%20tunai",
+  "related": [],
+  "detailed": false
+}

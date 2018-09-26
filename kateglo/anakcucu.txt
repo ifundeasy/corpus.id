@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak cucu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak dan cucu;"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20cucu",
+  "related": [],
+  "detailed": false
+}

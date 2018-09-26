@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "bagus; elok;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengalap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terjemahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salinan bahasa; alih bahasa (dari suatu bahasa ke bahasa lain);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menerjemahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terjemahan",
+  "related": [],
+  "detailed": false
+}

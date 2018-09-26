@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemerosotan tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) proses erosi secara geologi yang dapat terjadi tanpa campur tangan manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemerosotan%20tanah",
+  "related": [],
+  "detailed": false
+}

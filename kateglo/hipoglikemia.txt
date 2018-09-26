@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipoglikemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kandungan glukosa darah yang menurun secara abnormal, dapat menimbulkan gemetar, keringat dingin, sakit kepala disertai dengan kebingungan, halusinasi, tindakan aneh, akhirnya kejang-kejang, dan koma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipoglikemia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peluk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dekap (pada leher, tubuh, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "depa (untuk ukuran besar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peluk",
+  "related": [],
+  "detailed": false
+}

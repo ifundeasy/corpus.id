@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relawan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sukarelawan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relawan",
+  "related": [],
+  "detailed": false
+}

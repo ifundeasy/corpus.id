@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penuturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menuturkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitaan; pembicaraan; uraian tentang suatu hal;"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penuturan",
+  "related": [],
+  "detailed": false
+}

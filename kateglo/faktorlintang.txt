@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor lintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbandingan perubahan lintang dalam menit untuk setiap perubahan bujur sepanjang garis tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20lintang",
+  "related": [],
+  "detailed": false
+}

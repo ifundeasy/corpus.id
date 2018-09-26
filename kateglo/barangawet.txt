@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang awet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keperluan rumah tangga yang tahan lama dibandingkan dengan barang konsumen lainnya seperti mebel dan radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20awet",
+  "related": [],
+  "detailed": false
+}

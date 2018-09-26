@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selipan iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selipan atau jeda dalam sebuah mata acara yang digunakan untuk menyiarkan iklan; selipan niaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selipan%20iklan",
+  "related": [],
+  "detailed": false
+}

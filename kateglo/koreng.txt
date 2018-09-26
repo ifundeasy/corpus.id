@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koreng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "loreng; coreng; belang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "luka yang bernanah dan membusuk; borok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koreng",
+  "related": [],
+  "detailed": false
+}

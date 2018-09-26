@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jawaban; reaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "ganjaran; hukuman;"
+      },
+      {
+        "type": "desc",
+        "text": "tolak bahara; pengimbang kapal; pemberat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) beban yang tidak berguna, tetapi sangat memberatkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balas",
+  "related": [],
+  "detailed": false
+}

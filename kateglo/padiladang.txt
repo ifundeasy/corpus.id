@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "padi ladang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman padi yang ditanam di ladang tanpa digenangi air seperti di sawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padi%20ladang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "menguis-uis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uis",
+  "related": [],
+  "detailed": false
+}

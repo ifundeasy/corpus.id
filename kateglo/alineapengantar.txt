@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alinea pengantar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) alinea pembukaan pada suatu karangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alinea%20pengantar",
+  "related": [],
+  "detailed": false
+}

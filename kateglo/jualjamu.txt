@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual jamu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjual jamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20jamu",
+  "related": [],
+  "detailed": false
+}

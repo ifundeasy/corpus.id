@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stasiun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menunggu bagi calon penumpang kereta api dsb; tempat perhentian kereta api dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun",
+  "related": [],
+  "detailed": false
+}

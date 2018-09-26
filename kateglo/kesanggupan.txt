@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesanggupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan; kecakapan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesediaan (tentang janji);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesanggupan",
+  "related": [],
+  "detailed": false
+}

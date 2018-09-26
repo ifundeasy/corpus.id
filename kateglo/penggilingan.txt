@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggilingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menggiling (padi, tebu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat atau usaha menggiling (melumatkan, mengupas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggilingan",
+  "related": [],
+  "detailed": false
+}

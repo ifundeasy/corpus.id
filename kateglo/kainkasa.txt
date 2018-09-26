@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kain kasa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "1kasa"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kain%20kasa",
+  "related": [],
+  "detailed": false
+}

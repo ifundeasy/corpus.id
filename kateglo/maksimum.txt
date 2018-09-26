@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maksimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebanyak-banyaknya; paling banyak (tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maksimum",
+  "related": [],
+  "detailed": false
+}

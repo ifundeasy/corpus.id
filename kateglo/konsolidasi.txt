@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsolidasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) memperteguh atau memperkuat (perhubungan, persatuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "peleburan dua perusahaan atau lebih menjadi satu perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsolidasi",
+  "related": [],
+  "detailed": false
+}

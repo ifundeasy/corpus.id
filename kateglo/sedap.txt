@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "enak (nyaman, senang) tentang perasaan pada umumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "harum;"
+      },
+      {
+        "type": "desc",
+        "text": "lezat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedap",
+  "related": [],
+  "detailed": false
+}

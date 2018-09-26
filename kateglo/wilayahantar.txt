@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wilayah antar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah yang ada dalam batas antar suatu kantor pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wilayah%20antar",
+  "related": [],
+  "detailed": false
+}

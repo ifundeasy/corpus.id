@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiba",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "datang; sampai (di);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah datang (tentang masa, waktu); mulai (musim hujan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiba",
+  "related": [],
+  "detailed": false
+}

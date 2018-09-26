@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musikal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan musik;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai kesan musik;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai rasa peka terhadap musik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita untuk pentas yang seringkali jenaka dan sentimental, menggunakan nyanyian, tari, dan dialog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musikal",
+  "related": [],
+  "detailed": false
+}

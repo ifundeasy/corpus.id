@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ucapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang diucapkan (dilisankan, disebutkan); ujaran;"
+      },
+      {
+        "type": "desc",
+        "text": "lafal; sebutan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata-kata dalam pidato atau sambutan;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan sebagai pernyataan rasa hati (seperti rasa sukacita, rasa terima kasih, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ucapan",
+  "related": [],
+  "detailed": false
+}

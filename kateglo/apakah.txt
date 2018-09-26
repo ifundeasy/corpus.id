@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apakah",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan benda bukan manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan nama (sifat, jenis, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menyatakan pilihan dan menegaskan informasi yang ingin diketahui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apakah",
+  "related": [],
+  "detailed": false
+}

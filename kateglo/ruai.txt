@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "kurang kukuh atau kurang kuat (tentang tiang dsb); kendur (tentang tali); kurang tenaga; lemah (tentang badan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "ruai gajah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hijauan kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan ternak yang telah dikeringkan, kadar airnya biasanya lebih kurang 10 persen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hijauan%20kering",
+  "related": [],
+  "detailed": false
+}

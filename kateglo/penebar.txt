@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penebar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menebar(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menebar(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) penyiar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penebar",
+  "related": [],
+  "detailed": false
+}

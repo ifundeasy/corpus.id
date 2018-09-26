@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lena",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nyenyak;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sadar; lengah; lali;"
+      },
+      {
+        "type": "desc",
+        "text": "lama;"
+      },
+      {
+        "type": "desc",
+        "text": "lambat-lambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lena",
+  "related": [],
+  "detailed": false
+}

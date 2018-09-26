@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan kepandaian yang diadakan oleh sekolah, bukan oleh negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20sekolah",
+  "related": [],
+  "detailed": false
+}

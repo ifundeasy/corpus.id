@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halusinogen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang menimbulkan halusinasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halusinogen",
+  "related": [],
+  "detailed": false
+}

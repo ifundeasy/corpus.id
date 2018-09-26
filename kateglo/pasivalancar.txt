@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasiva lancar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "utang perusahaan yang harus dilunasi dalam jangka waktu paling lama satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasiva%20lancar",
+  "related": [],
+  "detailed": false
+}

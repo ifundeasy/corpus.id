@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inkubasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "masa dari saat penyebab penyakit masuk ke dalam tubuh (saat penularan) sampai ke saat timbulnya penyakit itu; masa tunas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penetasan telur (dengan pengeraman atau pemanasan buatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inkubasi",
+  "related": [],
+  "detailed": false
+}

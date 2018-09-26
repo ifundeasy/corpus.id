@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nomogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) grafik dengan nilai satu peubah ditentukan oleh dua nilai peubah lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomogram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda berupa dua huruf atau lebih yang digabungkan menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda atau lambang identitas seseorang (organisasi, lembaga, perusahaan, dsb), biasanya dibentuk dari huruf-huruf awal namanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monogram",
+  "related": [],
+  "detailed": false
+}

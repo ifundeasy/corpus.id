@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepemanggil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejauh suara orang memanggil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepemanggil",
+  "related": [],
+  "detailed": false
+}

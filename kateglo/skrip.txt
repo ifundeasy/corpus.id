@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skrip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "naskah (film, drama, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "buku tulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skrip",
+  "related": [],
+  "detailed": false
+}

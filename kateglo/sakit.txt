@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sakit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa tidak nyaman di tubuh atau bagian tubuh karena menderita sesuatu (demam, sakit perut, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit",
+  "related": [],
+  "detailed": false
+}

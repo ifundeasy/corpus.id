@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaran kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) dokumen yang memuat patokan dan perhitungan yang menjadi dasar dari jumlah biaya yang tersedia dalam setiap tolok ukur, jenis pengeluaran, dan uraian pengeluaran yang akan dicantumkan dalam Daftar Isian Proyek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaran%20kerja",
+  "related": [],
+  "detailed": false
+}

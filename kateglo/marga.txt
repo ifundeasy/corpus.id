@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "binatang liar (tidak diternakkan atau dipelihara);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok kekerabatan yang eksogam dan unilinear, baik secara matrilineal maupun patrilineal;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian daerah (sekumpulan dusun) yang agak luas (di Sumatra Selatan);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan; dasar (yang dipakai sebagai pegangan hidup, bekerja, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) satuan taksonomi di antara suku dan jenis, serta merupakan wadah yang mempersatukan jenis-jenis yang erat hubungannya, huruf depan nama marga ditulis dengan huruf kapital dan selalu tercantum dalam nama jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marga",
+  "related": [],
+  "detailed": false
+}

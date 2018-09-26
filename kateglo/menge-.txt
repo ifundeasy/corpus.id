@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "menge-",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "me-"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menge-",
+  "related": [],
+  "detailed": false
+}

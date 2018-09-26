@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cairan preparat untuk kulit kepala serta rambut kepala untuk menguatkan dan menyuburkan rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "cairan preparat untuk penyegar badan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) (dalam analisis intonasi) merujuk ke suku kata yang mendapat tekanan paling keras dalam suatu kelompok tona;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonik",
+  "related": [],
+  "detailed": false
+}

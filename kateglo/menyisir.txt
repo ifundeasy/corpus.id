@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyisir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merapikan (rambut) dengan sisir;"
+      },
+      {
+        "type": "desc",
+        "text": "menggaru (tanah); meratakan (tanah) dengan garu dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menyusur (pantai dsb); berjalan dsb sepanjang tepi;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerempet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyisir",
+  "related": [],
+  "detailed": false
+}

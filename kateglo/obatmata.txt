@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat mata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk menyembuhkan penyakit mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20mata",
+  "related": [],
+  "detailed": false
+}

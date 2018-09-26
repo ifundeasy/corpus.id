@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpesan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi pesan (kepada); menyuruh (meminta) supaya perkataan dsb dilakukan atau disampaikan kepada orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi nasihat (wasiat ketika akan meninggal dunia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpesan",
+  "related": [],
+  "detailed": false
+}

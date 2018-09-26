@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjemuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan, menjemur;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat untuk menjemur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (perkakas) untuk menjemur;"
+      },
+      {
+        "type": "desc",
+        "text": "pengeringan secara alamiah dengan menggunakan (energi) sinar matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjemuran",
+  "related": [],
+  "detailed": false
+}

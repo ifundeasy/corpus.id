@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan tambahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) makanan buatan yang mengandung protein dan zat hara yang lain yang melebihi zat-zat yang terdapat pada makanan alami di lingkungan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20tambahan",
+  "related": [],
+  "detailed": false
+}

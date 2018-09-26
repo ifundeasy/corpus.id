@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masterplan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana induk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masterplan",
+  "related": [],
+  "detailed": false
+}

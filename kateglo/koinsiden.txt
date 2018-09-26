@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koinsiden",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terjadi dalam waktu yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "terdapat pada titik yang sama dalam satu ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koinsiden",
+  "related": [],
+  "detailed": false
+}

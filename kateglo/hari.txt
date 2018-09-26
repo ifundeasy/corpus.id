@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu dari pagi sampai pagi lagi (yaitu satu edaran bumi pada sumbunya, 24 jam);"
+      },
+      {
+        "type": "desc",
+        "text": "waktu selama matahari menerangi tempat kita (dari matahari terbit sampai matahari terbenam);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan (udara, alam, dsb) yang terjadi dalam waktu 24 jam;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu selama jam kerja berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari",
+  "related": [],
+  "detailed": false
+}

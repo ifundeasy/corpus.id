@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bantuan proyek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantuan yang terikat dengan proyek, yaitu bagian dari bantuan modal kepada negara berkembang yang mengandung pembiayaan rencana pembangunan, investasi yang terbatas pada tempo, teknik, dan ekonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantuan%20proyek",
+  "related": [],
+  "detailed": false
+}

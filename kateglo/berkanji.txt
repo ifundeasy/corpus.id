@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkanji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai kanji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkanji",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganan yang dibuat dari padi yang belum masak benar atau dari biji-bijian (ditumbuk lalu disangrai);"
+      },
+      {
+        "type": "desc",
+        "text": "penganan yang dibuat dari buah melinjo, biji-bijian, dsb ditumbuk, dibentuk bundar tipis-tipis, dikeringkan, dan digoreng seperti kerupuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emping",
+  "related": [],
+  "detailed": false
+}

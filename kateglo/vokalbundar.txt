@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal bundar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang diucapkan dengan bibir membundar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20bundar",
+  "related": [],
+  "detailed": false
+}

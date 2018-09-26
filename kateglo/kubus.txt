@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kubus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang berbatas enam bidang segi empat (seperti dadu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kubus",
+  "related": [],
+  "detailed": false
+}

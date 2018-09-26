@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anjungan tunai mandiri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ATM) mesin otomatis (milik bank) untuk mengeluarkan uang tunai dengan teknik tertentu, seperti menekan tombol nomor tabungan, menekan nomor (kode) sesuai dengan petunjuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anjungan%20tunai%20mandiri",
+  "related": [],
+  "detailed": false
+}

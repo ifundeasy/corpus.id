@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matrikulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal terdaftarnya seseorang di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matrikulasi",
+  "related": [],
+  "detailed": false
+}

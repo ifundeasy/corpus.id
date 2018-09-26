@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara menjual barang dengan pembayaran secara tidak tunai (pembayaran ditangguhkan atau diangsur);"
+      },
+      {
+        "type": "desc",
+        "text": "pinjaman uang dengan pembayaran pengembalian secara mengangsur;"
+      },
+      {
+        "type": "desc",
+        "text": "penambahan saldo rekening, sisa utang, modal, dan pendataan bagi penabung;"
+      },
+      {
+        "type": "desc",
+        "text": "pinjaman sampai batas jumlah tertentu yang diizinkan oleh bank atau badan lain;"
+      },
+      {
+        "type": "desc",
+        "text": "sisi kanan neraca (di Indonesia);"
+      },
+      {
+        "type": "desc",
+        "text": "harga atau nilai untuk suatu tindakan (yang baik);"
+      },
+      {
+        "type": "desc",
+        "text": "nilai suatu mata pelajaran dalam satu semester;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit",
+  "related": [],
+  "detailed": false
+}

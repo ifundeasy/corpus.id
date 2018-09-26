@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengusutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengusut; pemeriksaan; penyelidikan;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha mencari bahan-bahan bukti apabila timbul dugaan seseorang melakukan tindak pidana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengusutan",
+  "related": [],
+  "detailed": false
+}

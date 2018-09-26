@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus zaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pertukaran (perkembangan) zaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20zaman",
+  "related": [],
+  "detailed": false
+}

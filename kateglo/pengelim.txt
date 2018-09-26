@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengelim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengelim (pada mesin jahit);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengelim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengelim",
+  "related": [],
+  "detailed": false
+}

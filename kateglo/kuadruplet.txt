@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuadruplet",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kembar empat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota himpunan empat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuadruplet",
+  "related": [],
+  "detailed": false
+}

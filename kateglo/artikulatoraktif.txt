@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "artikulator aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ucap yang dapat bergerak, untuk menghasilkan bunyi bahasa (seperti lidah dan bibir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artikulator%20aktif",
+  "related": [],
+  "detailed": false
+}

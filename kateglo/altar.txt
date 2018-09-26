@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "altar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meja tempat kurban misa (di gereja Katolik);"
+      },
+      {
+        "type": "desc",
+        "text": "mazbah (tempat mempersembahkan kurban);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) tangga pada dok gali yang digunakan untuk naik turun ke dan dari lantai dok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=altar",
+  "related": [],
+  "detailed": false
+}

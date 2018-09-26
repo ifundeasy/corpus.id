@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "padanan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang sama maknanya pada dua bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padanan%20kata",
+  "related": [],
+  "detailed": false
+}

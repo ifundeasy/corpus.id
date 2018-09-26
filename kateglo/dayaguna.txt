@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daya guna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan mendatangkan hasil dan manfaat; efisien; tepat guna; sangkil;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan menjalankan tugas dengan baik (tentang orang);"
+      },
+      {
+        "type": "desc",
+        "text": "angka persen yang menunjukkan perbandingan antara tenaga (energi) yang diperoleh dan tenaga yang diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20guna",
+  "related": [],
+  "detailed": false
+}

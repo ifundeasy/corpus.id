@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "doktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar kesarjanaan tertinggi yang diberikan oleh perguruan tinggi kepada seorang sarjana yang telah menulis dan mempertahankan disertasinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=doktor",
+  "related": [],
+  "detailed": false
+}

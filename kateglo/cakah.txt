@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cakah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebar (tentang sudut, cabang, kaki yang dilangkahkan);"
+      },
+      {
+        "type": "desc",
+        "text": "lurus mendatar, tidak melengkung (tentang tanduk kerbau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakah",
+  "related": [],
+  "detailed": false
+}

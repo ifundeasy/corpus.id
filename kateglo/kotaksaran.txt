@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kotak saran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menampung surat berupa usul dan saran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak%20saran",
+  "related": [],
+  "detailed": false
+}

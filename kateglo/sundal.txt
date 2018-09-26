@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sundal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buruk kelakuan (tentang perempuan); lacur; jalang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perempuan jalang; pelacur;"
+      },
+      {
+        "type": "link",
+        "text": "sundal bolong"
+      },
+      {
+        "type": "link",
+        "text": "sundal malam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sundal",
+  "related": [],
+  "detailed": false
+}

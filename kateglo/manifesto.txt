@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manifesto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan terbuka tentang tujuan dan pandangan seseorang atau suatu kelompok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manifesto",
+  "related": [],
+  "detailed": false
+}

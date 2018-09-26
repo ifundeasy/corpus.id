@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konserto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) komposisi untuk permainan satu instrumen solo atau lebih dengan iringan orkes, atau kadang-kadang dengan iringan piano;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konserto",
+  "related": [],
+  "detailed": false
+}

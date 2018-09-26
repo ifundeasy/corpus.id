@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "risalah rapat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) catatan mengenai apa yang telah dibicarakan dan diputuskan dalam suatu rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=risalah%20rapat",
+  "related": [],
+  "detailed": false
+}

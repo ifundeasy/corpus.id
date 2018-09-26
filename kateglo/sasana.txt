@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sasana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajaran; petunjuk; nasihat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlatih; gelanggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasana",
+  "related": [],
+  "detailed": false
+}

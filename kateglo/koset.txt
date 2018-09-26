@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koset",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "keset"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koset",
+  "related": [],
+  "detailed": false
+}

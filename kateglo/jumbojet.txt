@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jumbo jet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat jet yang besar, dapat mengangkut 300 orang penumpang atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jumbo%20jet",
+  "related": [],
+  "detailed": false
+}

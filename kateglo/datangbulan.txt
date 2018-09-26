@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "datang bulan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "haid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=datang%20bulan",
+  "related": [],
+  "detailed": false
+}

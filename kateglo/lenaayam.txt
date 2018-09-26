@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lena ayam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidur ayam (belum tidur lelap);"
+      },
+      {
+        "type": "desc",
+        "text": "petang hari sekitar pukul 17.30—18.30;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lena%20ayam",
+  "related": [],
+  "detailed": false
+}

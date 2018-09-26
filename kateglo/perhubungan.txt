@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhubungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "segala yang bertalian dengan lalu lintas dan telekomunikasi (seperti jalan, pelayaran, penerbangan, pos);"
+      },
+      {
+        "type": "desc",
+        "text": "cara orang, negara, dsb berhubungan satu dengan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhubungan",
+  "related": [],
+  "detailed": false
+}

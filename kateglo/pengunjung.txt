@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengunjung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengunjungi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengunjung",
+  "related": [],
+  "detailed": false
+}

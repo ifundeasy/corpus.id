@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radio telepon jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat penerima dan pengirim radio dengan baterai yang mudah dibawa-bawa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radio%20telepon%20jalan",
+  "related": [],
+  "detailed": false
+}

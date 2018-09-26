@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jasmani; badan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jasmaniah; badaniah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisik",
+  "related": [],
+  "detailed": false
+}

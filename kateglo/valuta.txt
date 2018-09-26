@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "valuta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pembayaran yang dijamin oleh cadangan emas atau perak yang ada di bank pemerintah; nilai uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=valuta",
+  "related": [],
+  "detailed": false
+}

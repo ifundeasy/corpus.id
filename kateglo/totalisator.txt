@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "totalisator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumpulan uang taruhan dari orang-orang yang bertaruh dalam pertandingan sepak bola dsb (uang yang dikumpulkan itu, sesudah dipotong untuk penyelenggaraannya, dibagikan kepada para pemenang);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) taruhan (undian) dengan membeli kupon (pada pertandingan sepak bola dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=totalisator",
+  "related": [],
+  "detailed": false
+}

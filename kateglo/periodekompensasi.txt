@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "periode kompensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) waktu yang diperlukan tumbuhan untuk mencapai titik kompensasi sesudah melewati masa benda dalam keadaan gelap; tumbuhan teduhan yang memiliki periode kompensasi lebih pendek dibandingkan dengan tumbuhan matahari karena tumbuhan tersebut mampu menggunakan cahaya lebur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periode%20kompensasi",
+  "related": [],
+  "detailed": false
+}

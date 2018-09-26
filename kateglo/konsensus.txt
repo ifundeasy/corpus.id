@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsensus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesepakatan kata atau permufakatan bersama (mengenai pendapat, pendirian, dsb) yang dicapai melalui kebulatan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsensus",
+  "related": [],
+  "detailed": false
+}

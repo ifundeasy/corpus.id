@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya rasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan merasai suatu bahan makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20rasa",
+  "related": [],
+  "detailed": false
+}

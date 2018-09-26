@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari kesatuan (dari dewan, rapat, dsb) yang bertugas mengurus sesuatu; bagian dari daerah (kepolisian dsb); bagian jalan trem (kereta api dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam ketentaraan) setengah peleton;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) tindakan memotong (mengiris); pemotongan; pengirisan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merangsang rasa berahi (tentang bentuk badan, pakaian, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seksi",
+  "related": [],
+  "detailed": false
+}

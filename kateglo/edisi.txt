@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "edisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk buku yang diterbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "keluaran (buku, surat kabar, majalah, kamus, dsb yang diterbitkan) dari macam yang sama dan dalam waktu yang sama pula;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) versi karya sastra yang diterbitkan pada waktu dan tempat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi",
+  "related": [],
+  "detailed": false
+}

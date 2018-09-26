@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pencak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan (keahlian) untuk mempertahankan diri dengan kepandaian menangkis, mengelak, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencak",
+  "related": [],
+  "detailed": false
+}

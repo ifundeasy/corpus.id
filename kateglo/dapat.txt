@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dapat",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "mampu; sanggup; bisa; boleh; mungkin;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) menerima; memperoleh;"
+      },
+      {
+        "type": "desc",
+        "text": "ditemukan; tertangkap dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berhasil; tercapai (maksudnya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dapat",
+  "related": [],
+  "detailed": false
+}

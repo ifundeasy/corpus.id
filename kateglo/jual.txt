@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jual",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "jual akad"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) jual koyok; membual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual",
+  "related": [],
+  "detailed": false
+}

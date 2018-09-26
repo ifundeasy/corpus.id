@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan terbatas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang modalnya berupa saham-saham dengan harga tertentu, pemimpin perusahaannya ditentukan oleh pemilik saham, suara dalam pemilihan, dan ditentukan oleh jumlah saham yang dimiliki pemilik modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20terbatas",
+  "related": [],
+  "detailed": false
+}

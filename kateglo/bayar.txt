@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bayar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berbayar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bayar",
+  "related": [],
+  "detailed": false
+}

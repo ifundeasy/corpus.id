@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retorika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterampilan berbahasa secara efektif;"
+      },
+      {
+        "type": "desc",
+        "text": "studi tentang pemakaian bahasa secara efektif dalam karang-mengarang;"
+      },
+      {
+        "type": "desc",
+        "text": "seni berpidato yang muluk-muluk dan bombastis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retorika",
+  "related": [],
+  "detailed": false
+}

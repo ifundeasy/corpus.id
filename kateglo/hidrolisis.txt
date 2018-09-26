@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hidrolisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemecahan senyawa kimia melalui penambahan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidrolisis",
+  "related": [],
+  "detailed": false
+}

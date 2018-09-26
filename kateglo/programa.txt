@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "programa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "acara (siaran, tayangan, pergelaran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=programa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resonansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dengungan (gema, getaran) suara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) peristiwa turut bergetarnya suatu benda karena pengaruh getaran gelombang elektromagnetik luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resonansi",
+  "related": [],
+  "detailed": false
+}

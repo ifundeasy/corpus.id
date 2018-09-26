@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "strategis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan, bertalian, berdasar strategi;"
+      },
+      {
+        "type": "desc",
+        "text": "baik letaknya (tentang tempat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strategis",
+  "related": [],
+  "detailed": false
+}

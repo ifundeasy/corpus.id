@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual akad",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalihkan hak milik (misal tanah) dengan perjanjian bahwa pemilik yang lama dapat membelinya kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20akad",
+  "related": [],
+  "detailed": false
+}

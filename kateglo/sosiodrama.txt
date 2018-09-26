@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sosiodrama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "drama yang bertujuan memberikan informasi kepada masyarakat tentang masalah sosial politik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) metode bel-ajar yang memakai drama kemasyarakatan sebagai media;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sosiodrama",
+  "related": [],
+  "detailed": false
+}

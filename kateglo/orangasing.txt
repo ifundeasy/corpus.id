@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang asing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang lain; orang dari negara lain;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang tidak dikenal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20asing",
+  "related": [],
+  "detailed": false
+}

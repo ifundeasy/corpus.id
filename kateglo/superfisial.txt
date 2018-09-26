@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superfisial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan atau terletak di dekat permukaan (tentang luka dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbobot (tentang buku dsb); tidak akrab (teman dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superfisial",
+  "related": [],
+  "detailed": false
+}

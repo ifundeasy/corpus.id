@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penimbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menimbang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menimbang barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penimbangan",
+  "related": [],
+  "detailed": false
+}

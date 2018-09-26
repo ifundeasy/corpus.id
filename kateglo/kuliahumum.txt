@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuliah umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ceramah tentang masalah tertentu yang boleh dihadiri oleh mahasiswa dari berbagai jurusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuliah%20umum",
+  "related": [],
+  "detailed": false
+}

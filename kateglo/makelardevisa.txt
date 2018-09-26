@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makelar devisa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menjualbelikan alat pembayaran luar negeri atas dasar komisi atau rekeningnya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makelar%20devisa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tancap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menancap"
+      },
+      {
+        "type": "link",
+        "text": "tancap gas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tancap",
+  "related": [],
+  "detailed": false
+}

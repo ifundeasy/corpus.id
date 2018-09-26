@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "celaka; sial;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "keranjang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarau",
+  "related": [],
+  "detailed": false
+}

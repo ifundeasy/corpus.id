@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengetahuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang diketahui; kepandaian;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang diketahui berkenaan dengan hal (mata pelajaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengetahuan",
+  "related": [],
+  "detailed": false
+}

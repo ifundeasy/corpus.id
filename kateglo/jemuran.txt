@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jemuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang (yang dijemur);"
+      },
+      {
+        "type": "desc",
+        "text": "alat (perkakas) untuk menjemur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemuran",
+  "related": [],
+  "detailed": false
+}

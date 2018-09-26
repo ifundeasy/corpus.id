@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hajat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "maksud; keinginan; kehendak;"
+      },
+      {
+        "type": "desc",
+        "text": "kebutuhan atau keperluan;"
+      },
+      {
+        "type": "desc",
+        "text": "selamatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kotoran; tinja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hajat",
+  "related": [],
+  "detailed": false
+}

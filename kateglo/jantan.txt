@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jantan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang berjenis kelamin laki-laki (hanya untuk binatang dan tumbuh-tumbuhan seperti ayam -- , sapi -- , kuda -- , bunga -- , pepaya --; di beberapa daerah dipakai juga untuk manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) gagah dan berani;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) (tentang benda) dianggap berjenis laki-laki (yaitu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jantan",
+  "related": [],
+  "detailed": false
+}

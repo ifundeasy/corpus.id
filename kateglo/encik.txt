@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "encik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata sapaan (sebutan) untuk orang laki-laki atau perempuan yang sedang kedudukannya atau yang tidak dikenal;"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan (sebutan untuk guru wanita);"
+      },
+      {
+        "type": "desc",
+        "text": "kakak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=encik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berubah pendirian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berubah pendapat (paham, keyakinan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berubah%20pendirian",
+  "related": [],
+  "detailed": false
+}

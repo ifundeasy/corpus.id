@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "higrometer titik embun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "higrometer untuk mengukur tinggi rendahnya titik embun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrometer%20titik%20embun",
+  "related": [],
+  "detailed": false
+}

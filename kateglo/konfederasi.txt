@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfederasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan beberapa negara yang dibentuk untuk mengatur kepentingan bersama, misal pertahanan, tetapi masing-masing tetap berdaulat penuh;"
+      },
+      {
+        "type": "desc",
+        "text": "gabungan beberapa organisasi, misal organisasi buruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfederasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "definisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata, frasa, atau kalimat yang mengungkapkan makna, keterangan, atau ciri utama dari orang, benda, proses, atau aktivitas; batasan (arti);"
+      },
+      {
+        "type": "desc",
+        "text": "rumusan tentang ruang lingkup dan ciri-ciri suatu konsep yang menjadi pokok pembicaraan atau studi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=definisi",
+  "related": [],
+  "detailed": false
+}

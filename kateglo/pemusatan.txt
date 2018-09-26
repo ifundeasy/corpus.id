@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemusatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memusatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) perubahan kekuasaan politik dari badan-badan pemeritah daerah ke pemerintah pusat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) penyerahan kekuasaan dari pembuat undang-undang kepada anggota eksekutif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemusatan",
+  "related": [],
+  "detailed": false
+}

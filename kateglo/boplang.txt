@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "boplang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) susunan papan yang dipasang sekeliling pekerjaan galian tanah yang menunjukkan batas fondasi bangunan yang akan dibangun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=boplang",
+  "related": [],
+  "detailed": false
+}

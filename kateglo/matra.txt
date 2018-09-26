@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran tinggi, panjang, atau lebar; dimensi;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran banyaknya tekanan irama (dalam musik);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) bagan yang dipakai dalam penyusunan baris sajak yang berhubungan dengan jumlah, panjang, atau tekanan suku kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matra",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuntul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berekor; togel (tentang ayam dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung bangau berbulu putih, pemangsa ikan, katak, dsb (bermacam-macam jenisnya seperti kuntul kecil, kuntul karang, kuntul kerbau, kuntul malam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuntul",
+  "related": [],
+  "detailed": false
+}

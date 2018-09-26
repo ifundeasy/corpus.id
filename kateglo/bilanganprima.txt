@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan prima",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang tepat yang mempunyai dua faktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20prima",
+  "related": [],
+  "detailed": false
+}

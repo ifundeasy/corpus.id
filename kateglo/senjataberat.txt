@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata api yang besar-besar (meriam dsb) yang memerlukan kendaraan besar untuk mengangkutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20berat",
+  "related": [],
+  "detailed": false
+}

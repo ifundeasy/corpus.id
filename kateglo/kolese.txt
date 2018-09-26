@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolese",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan majelis;"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah; akademi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolese",
+  "related": [],
+  "detailed": false
+}

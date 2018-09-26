@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amfiteater",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arena pertunjukan pada zaman Romawi yang berbentuk lonjong atau bulat, tanpa atap, dengan tempat duduk penonton bertingkat-tingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan yang berbentuk bundar atau lonjong dengan tempat yang digunakan untuk pertandingan atau pertunjukan umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amfiteater",
+  "related": [],
+  "detailed": false
+}

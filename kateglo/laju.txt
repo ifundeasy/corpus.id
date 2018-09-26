@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laju",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cepat (tentang gerak, lari, terbang, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecepatan (gerak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laju",
+  "related": [],
+  "detailed": false
+}

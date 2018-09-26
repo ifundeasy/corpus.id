@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sehat pikiran",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sehat akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sehat%20pikiran",
+  "related": [],
+  "detailed": false
+}

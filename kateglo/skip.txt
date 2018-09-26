@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran tambahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skip",
+  "related": [],
+  "detailed": false
+}

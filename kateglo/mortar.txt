@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mortar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "campuran semen, pasir, dan kapur mati untuk menempelkan batu bata;"
+      },
+      {
+        "type": "desc",
+        "text": "lumpang, lazim dibuat dari porselen atau batu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mortar",
+  "related": [],
+  "detailed": false
+}

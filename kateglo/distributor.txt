@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "distributor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau badan yang bertugas mendistribusikan barang (dagangan); penyalur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distributor",
+  "related": [],
+  "detailed": false
+}

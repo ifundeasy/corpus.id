@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karya musik yang diberi nomor untuk menunjukkan tempat (urutan) gubahan tersebut dalam semua karya seorang komponis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opus",
+  "related": [],
+  "detailed": false
+}

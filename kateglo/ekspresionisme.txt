@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspresionisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen)"
+      },
+      {
+        "type": "desc",
+        "text": "aliran seni yang melukiskan perasaan dan pengindraan batin yang timbul dari pengalaman di luar yang diterima tidak saja oleh pancaindra, melainkan juga oleh jiwa seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran kesusastraan yang lebih mementingkan soal kejiwaan daripada menggambarkan kejadian yang nyata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspresionisme",
+  "related": [],
+  "detailed": false
+}

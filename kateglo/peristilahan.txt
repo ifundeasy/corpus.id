@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peristilahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal istilah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peristilahan",
+  "related": [],
+  "detailed": false
+}

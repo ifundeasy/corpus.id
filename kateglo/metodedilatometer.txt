@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metode dilatometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode yang dilakukan berdasarkan perubahan kecil volume cairan yang ditimbulkan oleh proses fisika atau kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metode%20dilatometer",
+  "related": [],
+  "detailed": false
+}

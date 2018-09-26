@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan panas yang menyatakan jumlah panas yang diperlukan untuk menaikkan suhu 1 g air setinggi satu derajat Celcius (1oC);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan tenaga panas sebesar 4, 1868 joule, disingkat kal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalori",
+  "related": [],
+  "detailed": false
+}

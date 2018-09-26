@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tipis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedikit antara permukaan yang satu dengan yang lain (tentang barang-barang yang pipih);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang tebal (tentang lapisan, cat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang padat (tentang awan, udara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang nyata kelihatan (tentang tulisan tinta dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipis",
+  "related": [],
+  "detailed": false
+}

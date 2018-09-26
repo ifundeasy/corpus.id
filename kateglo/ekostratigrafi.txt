@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekostratigrafi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penelaahan dan klasifikasi batuan berdasarkan asal-usul dan keadaan lingkungan pada saat pendepositan endapannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekostratigrafi",
+  "related": [],
+  "detailed": false
+}

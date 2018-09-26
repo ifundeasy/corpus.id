@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latar belakang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hiasan (berupa pemandangan atau musik);"
+      },
+      {
+        "type": "desc",
+        "text": "efek musik dan suara yang melatari acara televisi maupun radio;"
+      },
+      {
+        "type": "desc",
+        "text": "adegan di dalam film layar lebar, televisi, atau pada foto (dalam dunia produksi, fotografi, atau percetakan);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar (alasan) suatu tindakan (perbuatan); motif;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan mengenai suatu peristiwa guna melengkapi informasi yang tersiar sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latar%20belakang",
+  "related": [],
+  "detailed": false
+}

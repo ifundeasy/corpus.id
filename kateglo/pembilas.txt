@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembilas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air pencuci (pembasuh) yang kedua kali;"
+      },
+      {
+        "type": "desc",
+        "text": "alat konsentrasi yang digunakan untuk mengambil mineral berharga pada tahap akhir sehingga ampasnya merupakan ampas akhir untuk dibuang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembilas",
+  "related": [],
+  "detailed": false
+}

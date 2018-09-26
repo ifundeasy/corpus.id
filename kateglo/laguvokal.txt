@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lagu vokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lagu yang diwujudkan dengan suara manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagu%20vokal",
+  "related": [],
+  "detailed": false
+}

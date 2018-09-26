@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus lalu lintas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan hilir mudiknya kendaraan dsb di jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20lalu%20lintas",
+  "related": [],
+  "detailed": false
+}

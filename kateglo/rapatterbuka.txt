@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat yang boleh dihadiri oleh semua orang; rapat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20terbuka",
+  "related": [],
+  "detailed": false
+}

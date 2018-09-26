@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "rumah tempat berjualan madat secara legal;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat atau perlengkapan untuk keperluan khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "wadah;"
+      },
+      {
+        "type": "desc",
+        "text": "seperangkat suku cadang yang akan dirakit menjadi gawai (alat) seperti radio, mainan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kit",
+  "related": [],
+  "detailed": false
+}

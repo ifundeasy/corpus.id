@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berguncang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergoyang cepat dan keras (naik turun ke sana-sini dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menjadi tidak tetap; berubah dengan cepat dan tidak teratur;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) gelisah; khawatir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berguncang",
+  "related": [],
+  "detailed": false
+}

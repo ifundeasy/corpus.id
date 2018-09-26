@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrostatika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "pengkajian kelistrikan tanpa gerakan muatan listrik dalam keadaan diam;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang muatan listrik yang diam medan elektriknya dan potensialnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrostatika",
+  "related": [],
+  "detailed": false
+}

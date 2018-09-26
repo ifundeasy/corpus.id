@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "pengukuran yang dilakukan pada proses biologis;"
+      },
+      {
+        "type": "desc",
+        "text": "pengukuran matematis yang biasa dipergunakan dalam pemeriksaan biologis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biometri",
+  "related": [],
+  "detailed": false
+}

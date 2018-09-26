@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar tunggu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar yang berisi nama orang yang sedang menunggu giliran pelayanan (misal untuk memperoleh sambungan telepon, mendapat tempat di pesawat, mendapat perawatan kesehatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20tunggu",
+  "related": [],
+  "detailed": false
+}

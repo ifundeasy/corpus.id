@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mula-mula (sekali); mula;"
+      },
+      {
+        "type": "desc",
+        "text": "permulaan; yang mula-mula;"
+      },
+      {
+        "type": "desc",
+        "text": "jauh sebelum waktu yang ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=awal",
+  "related": [],
+  "detailed": false
+}

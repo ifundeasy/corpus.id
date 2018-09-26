@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara penyangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara kecil yang terletak di antara dua negara yang lebih besar dan lebih kuat;"
+      },
+      {
+        "type": "desc",
+        "text": "negara lemah yang terletak di antara negara-negara kuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20penyangga",
+  "related": [],
+  "detailed": false
+}

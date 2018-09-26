@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesakitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang hukuman;"
+      },
+      {
+        "type": "desc",
+        "text": "terdakwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesakitan",
+  "related": [],
+  "detailed": false
+}

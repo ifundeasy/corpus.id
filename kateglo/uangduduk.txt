@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang duduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan sebagai imbalan kepada peserta rapat, konferensi, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20duduk",
+  "related": [],
+  "detailed": false
+}

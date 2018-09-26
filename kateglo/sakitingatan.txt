@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit ingatan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gila;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20ingatan",
+  "related": [],
+  "detailed": false
+}

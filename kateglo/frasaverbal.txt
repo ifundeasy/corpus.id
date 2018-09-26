@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "frasa verbal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "frasa endosentris berinduk satu yang induknya verba dan modifikatornya berupa partikel modal;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari kalimat yang berupa verba dengan atau tanpa objek dan/atau keterangan dalam kaidah struktur frasa dan yang berfungsi sebagai predikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frasa%20verbal",
+  "related": [],
+  "detailed": false
+}

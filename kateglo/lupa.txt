@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lupa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lepas dari ingatan; tidak dalam pikiran (ingatan) lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak teringat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sadar (tahu akan keadaan dirinya atau keadaan sekelilingnya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lalai; tidak acuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lupa",
+  "related": [],
+  "detailed": false
+}

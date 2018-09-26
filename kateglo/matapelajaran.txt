@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata pelajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajaran yang harus diajarkan (dipelajari) untuk sekolah dasar atau sekolah lanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20pelajaran",
+  "related": [],
+  "detailed": false
+}

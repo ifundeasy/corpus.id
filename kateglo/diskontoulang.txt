@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diskonto ulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) instrumen yang dapat diperjualbelikan yang sebelumnya diperoleh pada suatu bank dengan diskonto dan kemudian dijual kepada bank sentral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskonto%20ulang",
+  "related": [],
+  "detailed": false
+}

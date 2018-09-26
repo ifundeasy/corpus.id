@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dispensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengecualian dari aturan karena adanya pertimbangan yang khusus; pembebasan dari suatu kewajiban atau larangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) pengecualian tindakan berdasarkan hukum yang menyatakan bahwa suatu peraturan perundang-undangan tidak berlaku untuk suatu hal yang khusus (dalam hukum administrasi negara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dispensasi",
+  "related": [],
+  "detailed": false
+}

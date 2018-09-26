@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya penjualan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeluaran yang langsung berhubungan dengan usaha pemasaran produk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20penjualan",
+  "related": [],
+  "detailed": false
+}

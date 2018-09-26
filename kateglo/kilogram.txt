@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat (massa) 1.000 g (disingkat kg);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilogram",
+  "related": [],
+  "detailed": false
+}

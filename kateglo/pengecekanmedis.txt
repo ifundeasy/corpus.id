@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengecekan medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengecekan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengecekan%20medis",
+  "related": [],
+  "detailed": false
+}

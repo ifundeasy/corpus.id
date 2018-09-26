@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengutip",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memungut benda kecil-kecil satu demi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "mengambil perkataan atau kalimat dari buku dsb; memetik karangan dsb; menukil;"
+      },
+      {
+        "type": "desc",
+        "text": "mengumpulkan dari berbagai sumber;"
+      },
+      {
+        "type": "desc",
+        "text": "menarik (memungut) biaya (ongkos, pajak, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengutip",
+  "related": [],
+  "detailed": false
+}

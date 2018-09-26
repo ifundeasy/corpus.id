@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yakitori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masakan Jepang yang terbuat dari daging ayam yang ditusuk dan dipanggang, biasanya tidak bertulang dan dihidangkan dengan saus kacang kedelai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yakitori",
+  "related": [],
+  "detailed": false
+}

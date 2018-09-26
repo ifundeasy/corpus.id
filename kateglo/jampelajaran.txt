@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam pelajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang tertentu lamanya untuk memberikan pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20pelajaran",
+  "related": [],
+  "detailed": false
+}

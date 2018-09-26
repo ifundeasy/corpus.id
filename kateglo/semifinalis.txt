@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semifinalis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain yang masuk ke dalam babak semifinal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semifinalis",
+  "related": [],
+  "detailed": false
+}

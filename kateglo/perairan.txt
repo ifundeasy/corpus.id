@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perairan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laut yang termasuk kawasan suatu negara;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan persediaan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perairan",
+  "related": [],
+  "detailed": false
+}

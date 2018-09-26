@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari sesudah hari ini; esok hari;"
+      },
+      {
+        "type": "desc",
+        "text": "saat yang akan datang; kelak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besok",
+  "related": [],
+  "detailed": false
+}

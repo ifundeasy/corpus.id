@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peringatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nasihat (teguran dsb) untuk memper-ingatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kenang-kenangan; sesuatu yang dipakai untuk memperingati;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan;"
+      },
+      {
+        "type": "desc",
+        "text": "ingat-an;"
+      },
+      {
+        "type": "desc",
+        "text": "hal memperingati (mengenang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peringatan",
+  "related": [],
+  "detailed": false
+}

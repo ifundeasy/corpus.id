@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "per -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "hal atau keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang berkaitan dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=per%20--%20an",
+  "related": [],
+  "detailed": false
+}

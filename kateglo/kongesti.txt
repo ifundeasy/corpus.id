@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongesti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penimbunan;"
+      },
+      {
+        "type": "desc",
+        "text": "banyaknya barang tertimbun di suatu tempat sehingga menimbulkan kemacetan arus barang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) jumlah darah atau lendir yang berlebih dalam suatu organ di dalam tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongesti",
+  "related": [],
+  "detailed": false
+}

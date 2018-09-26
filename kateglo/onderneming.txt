@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "onderneming",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld) perkebunan yang diusahakan secara besar-besaran dengan alat canggih; perkebunan budi daya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=onderneming",
+  "related": [],
+  "detailed": false
+}

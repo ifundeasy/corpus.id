@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ringkasan (hukum, patokan, dsb dalam ilmu kimia, matematika, dsb) yang dilambangkan oleh huruf, angka, atau tanda;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan atau simpulan tentang asas, pendirian, ketetapan, dsb yang disebutkan dengan kalimat yang ringkas dan tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumus",
+  "related": [],
+  "detailed": false
+}

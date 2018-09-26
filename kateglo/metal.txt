@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang tambang, biasanya berupa bahan dasar berat dan padat, mempunyai sifat tertentu, misal berkilau, dapat dibengkokkan, dapat ditempa, dapat dilebur (dicor) dengan menggunakan panas api dan listrik, seperti besi, baja, perak; logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metal",
+  "related": [],
+  "detailed": false
+}

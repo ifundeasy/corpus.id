@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gedung sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung tempat belajar dan mengajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gedung%20sekolah",
+  "related": [],
+  "detailed": false
+}

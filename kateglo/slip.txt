@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "slip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tergelincir; selip;"
+      },
+      {
+        "type": "desc",
+        "text": "carik kertas (biasanya berukuran seperempat folio);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) bahan tanah liat halus yang digunakan untuk melapisi permukaan gerabah yang belum dibakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=slip",
+  "related": [],
+  "detailed": false
+}

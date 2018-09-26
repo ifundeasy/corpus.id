@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konteks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian suatu uraian atau kalimat yang dapat mendukung atau menambah kejelasan makna;"
+      },
+      {
+        "type": "desc",
+        "text": "situasi yang ada hubungannya dengan suatu kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konteks",
+  "related": [],
+  "detailed": false
+}

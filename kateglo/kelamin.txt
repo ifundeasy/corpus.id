@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jodoh (laki-laki dan perempuan atau jantan dan betina); sepasang;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat jasmani atau rohani yang membedakan dua makhluk sebagai betina dan jantan atau wanita dan pria;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis laki-laki atau perempuan; genus;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pada tubuh manusia, binatang, dsb untuk mengadakan keturunan; kemaluan; genitalia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelamin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "delapan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 8 (Arab) atau VIII (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-8 sesudah ke-7 atau sebelum ke-9;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 7 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=delapan",
+  "related": [],
+  "detailed": false
+}

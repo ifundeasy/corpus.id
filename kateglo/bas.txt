@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "kepala pekerja (mandor);"
+      },
+      {
+        "type": "desc",
+        "text": "pemborong pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala; pembesar;"
+      },
+      {
+        "type": "desc",
+        "text": "nada yang besar dan rendah (tentang musik dan lagu);"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik yang mempunyai nada terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bas",
+  "related": [],
+  "detailed": false
+}

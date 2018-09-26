@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu orang sudah bekerja (pada suatu kantor, badan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20kerja",
+  "related": [],
+  "detailed": false
+}

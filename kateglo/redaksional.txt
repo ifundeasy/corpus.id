@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "redaksional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai cara dan gaya menyusun kata dalam kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaksional",
+  "related": [],
+  "detailed": false
+}

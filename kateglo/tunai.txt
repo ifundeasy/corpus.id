@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunai",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak bertanggung lagi; tidak bertangguh (tentang pembayaran) pada saat itu juga; kontan;"
+      },
+      {
+        "type": "desc",
+        "text": "diterima (diserahkan) segera setelah dilakukan pembayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunai",
+  "related": [],
+  "detailed": false
+}

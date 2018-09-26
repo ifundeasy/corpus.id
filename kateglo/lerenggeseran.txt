@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lereng geseran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehilangan energi per satuan panjang saluran karena gesekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lereng%20geseran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "jahitan tangan yang menyerupai jahitan mesin jahit (sama luar dalamnya); setik;"
+      },
+      {
+        "type": "desc",
+        "text": "kia-kia;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "kia-kia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menuju",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi ke arah; mengarah (ke); pergi (ke) jurusan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengarah; mengabah;"
+      },
+      {
+        "type": "desc",
+        "text": "melemparkan, melontarkan, dsb arah ke;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan maksud (sasaran, arah); memaksudkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangi;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenakan tuju kepada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menuju",
+  "related": [],
+  "detailed": false
+}

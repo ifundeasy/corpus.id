@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang mengatur pemberian kredit, lalu lintas transaksi keuangan, pembayaran, dan peredaran uang di desa-desa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20desa",
+  "related": [],
+  "detailed": false
+}

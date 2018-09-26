@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan)"
+      },
+      {
+        "type": "desc",
+        "text": "mesin untuk memisahkan serat-serat kapas dari bijinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) minuman beralkohol dengan jalan menyuling ekstrak fermentasi bijian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gin",
+  "related": [],
+  "detailed": false
+}

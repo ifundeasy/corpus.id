@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lesa tulang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lemah tulang;"
+      },
+      {
+        "type": "desc",
+        "text": "habis tenaga;"
+      },
+      {
+        "type": "desc",
+        "text": "lemah tulang;"
+      },
+      {
+        "type": "desc",
+        "text": "habis tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lesa%20tulang",
+  "related": [],
+  "detailed": false
+}

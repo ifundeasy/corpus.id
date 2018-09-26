@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piaster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama mata uang di beberapa negara, seperti Siria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piaster",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengemis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emis",
+  "related": [],
+  "detailed": false
+}

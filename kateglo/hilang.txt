@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hilang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak ada lagi; lenyap; tidak kelihatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada lagi perasaan (seperti marah, jengkel, suka, duka), kepercayaan, pertimbangan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dikenang lagi; tidak diingat lagi; lenyap;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada, tidak kedengaran lagi (tentang suara, bunyi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hilang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan jadi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "barang hasil pengolahan bahan mentah sampai berbentuk dan sesuai dengan keperluan (siap pakai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20jadi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asosiatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat asosiasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asosiatif",
+  "related": [],
+  "detailed": false
+}

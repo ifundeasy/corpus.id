@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah berumput",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang tertutup oleh rumput tinggi yang tetap, tidak terlindung, tidak terhalang, dan terbuka terhadap cuaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20berumput",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stopkontak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menghubungkan arus listrik; tempat steker ditusukkan; kotak kontak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stopkontak",
+  "related": [],
+  "detailed": false
+}

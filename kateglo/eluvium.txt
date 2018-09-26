@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eluvium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "sisa-sisa batuan yang ditimbulkan oleh kerapuhan batu di tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "pasir atau tanah halus yang diendapkan oleh angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eluvium",
+  "related": [],
+  "detailed": false
+}

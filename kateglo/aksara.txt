@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aksara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "sistem tanda grafis yang digunakan manusia untuk berkomunikasi dan sedikit banyaknya mewakili ujaran;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis sistem tanda grafis tertentu, misal aksara Pallawa, aksara Inka;"
+      },
+      {
+        "type": "desc",
+        "text": "huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara",
+  "related": [],
+  "detailed": false
+}

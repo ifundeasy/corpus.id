@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata pinjaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang dipinjam dari bahasa lain dan kemudian disesuaikan dengan kaidah bahasa sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20pinjaman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyuluh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberi penerangan; penunjuk jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pengintai; mata-mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyuluh",
+  "related": [],
+  "detailed": false
+}

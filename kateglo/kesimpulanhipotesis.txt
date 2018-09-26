@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesimpulan hipotesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan yang kebenarannya berdasarkan syarat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesimpulan%20hipotesis",
+  "related": [],
+  "detailed": false
+}

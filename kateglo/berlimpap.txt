@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlimpap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bertumpuk-tumpuk atau berlipat-lipat dan tidak tersusun rapi (tentang pakaian, kain-kain, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu banyak (tentang uang);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) jumlah informasi yang berlebihan dari yang diperlukan dalam berkomunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlimpap",
+  "related": [],
+  "detailed": false
+}

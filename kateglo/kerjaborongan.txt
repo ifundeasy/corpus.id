@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerja borongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang upahnya diperhitungkan untuk keseluruhan hasil pekerjaan tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerja%20borongan",
+  "related": [],
+  "detailed": false
+}

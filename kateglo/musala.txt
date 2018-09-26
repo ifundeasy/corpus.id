@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat salat; langgar; surau;"
+      },
+      {
+        "type": "desc",
+        "text": "tikar salat; sajadah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musala",
+  "related": [],
+  "detailed": false
+}

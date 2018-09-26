@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesukaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan dsb) sukar; kesulitan; ke susahan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita susah, kekurangan, kemiskinan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesukaran",
+  "related": [],
+  "detailed": false
+}

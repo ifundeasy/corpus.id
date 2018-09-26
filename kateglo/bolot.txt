@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bolot",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "membolot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bolot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "denah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang menunjukkan letak kota, jalan, dsb; peta;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar rancangan (rumah, bangunan, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "denah jahat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denah",
+  "related": [],
+  "detailed": false
+}

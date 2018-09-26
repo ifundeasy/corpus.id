@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas satu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan terbaik; juara;"
+      },
+      {
+        "type": "desc",
+        "text": "kelas terendah di tingkat pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20satu",
+  "related": [],
+  "detailed": false
+}

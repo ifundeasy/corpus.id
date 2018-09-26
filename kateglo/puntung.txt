@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puntung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa rokok (kayu dsb) yang sudah terbakar sebagian;"
+      },
+      {
+        "type": "desc",
+        "text": "buntung; kudung;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) merugi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puntung",
+  "related": [],
+  "detailed": false
+}

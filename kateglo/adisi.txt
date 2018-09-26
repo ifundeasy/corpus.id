@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penambahan yang dilakukan secara terus-menerus;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil penambahan; tambahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) penambahan senyawa terhadap senyawa lain sehingga terjadi reaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat-zat yang ditambahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adisi",
+  "related": [],
+  "detailed": false
+}

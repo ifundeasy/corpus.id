@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dosen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga pengajar pada perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repertoar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persediaan nyanyian, lakon, opera yang dimiliki seseorang atau suatu kelompok seni yang siap untuk dimainkan;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar lagu, judul sandiwara, opera, dsb yang akan disajikan oleh pemain musik, sanggar penyanyi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) perbendaharaan bahasa (dialek, ragam) yang dimiliki oleh seseorang atau masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repertoar",
+  "related": [],
+  "detailed": false
+}

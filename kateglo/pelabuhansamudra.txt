@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan samudra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan yang dapat dirapati kapal besar, tempat bongkar muat barang untuk ekspor dan impor, dan dilengkapi dengan gudang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20samudra",
+  "related": [],
+  "detailed": false
+}

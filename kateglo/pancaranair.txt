@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pancaran air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pipa air yang memancarkan air ke atas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) air yang dipancarkan dari lubang berukuran kecil sehingga terjadi pancaran bertekanan relatif tinggi untuk membongkar tanah atau batuan pasir pada penambangan timah aluvial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancaran%20air",
+  "related": [],
+  "detailed": false
+}

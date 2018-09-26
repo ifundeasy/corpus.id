@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerja paksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang harus dilakukan secara paksa (tanpa diberi upah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerja%20paksa",
+  "related": [],
+  "detailed": false
+}

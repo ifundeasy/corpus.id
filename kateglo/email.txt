@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "email",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "massa berupa kaca tidak bening yang dipakai untuk melapisi benda dari logam, gelas, atau tembikar;"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang yang diberi salutan email;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan padat berwarna putih dan keras yang melapisi dan melindungi bagian dentin mahkota gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=email",
+  "related": [],
+  "detailed": false
+}

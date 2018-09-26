@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "firasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang dirasakan (diketahui) akan terjadi sesudah melihat gelagat;"
+      },
+      {
+        "type": "desc",
+        "text": "kecakapan mengetahui (meramalkan) sesuatu dengan melihat keadaan (muka dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang tanda-tanda pada badan (tangan dsb) untuk mengetahui tabiat (untung malang dsb) orang;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan muka (mata, bibir, dsb) yang dihubung-hubungkan dengan tabiat orangnya (untuk mengetahui tabiat orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=firasat",
+  "related": [],
+  "detailed": false
+}

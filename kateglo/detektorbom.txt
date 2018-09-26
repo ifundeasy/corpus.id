@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "detektor bom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang bekerja dengan getaran magnet untuk mengetahui atau menemukan ada atau tidaknya bom di suatu tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detektor%20bom",
+  "related": [],
+  "detailed": false
+}

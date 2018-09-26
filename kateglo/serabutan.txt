@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serabutan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "silang-menyilang tidak menentu (tentang arus lalu lintas);"
+      },
+      {
+        "type": "desc",
+        "text": "cenderung melakukan apa saja (tentang pekerjaan, peran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serabutan",
+  "related": [],
+  "detailed": false
+}

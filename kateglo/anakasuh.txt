@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak asuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak yang diberi biaya pendidikan (oleh seseorang), tetapi tetap tinggal pada orang tuanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20asuh",
+  "related": [],
+  "detailed": false
+}

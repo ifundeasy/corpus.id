@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mineral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda padat homogen bersifat takorganis yang terbentuk secara alamiah dan mempunyai komposisi kimia tertentu, jumlahnya sangat banyak, misal tembaga, emas, intan; barang tambang; pelikan;"
+      },
+      {
+        "type": "desc",
+        "text": "zat organik yang dalam jumlah tertentu diperlukan oleh tubuh untuk proses metabolisme normal yang diperoleh melalui makanan sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineral",
+  "related": [],
+  "detailed": false
+}

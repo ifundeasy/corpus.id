@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "planologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai rancangan (pembangunan kota dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=planologi",
+  "related": [],
+  "detailed": false
+}

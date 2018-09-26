@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menskedulkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan ke dalam daftar;"
+      },
+      {
+        "type": "desc",
+        "text": "menetapkan waktunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menskedulkan",
+  "related": [],
+  "detailed": false
+}

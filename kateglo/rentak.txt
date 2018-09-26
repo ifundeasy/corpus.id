@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentak",
+  "tags": {
+    "l": [
+      {
+        "type": "link",
+        "text": "rentak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "entakan kaki bersama-sama;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sentak; renggut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentak",
+  "related": [],
+  "detailed": false
+}

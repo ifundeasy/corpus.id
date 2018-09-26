@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "soma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan jasad terkecuali sel mani;"
+      },
+      {
+        "type": "desc",
+        "text": "tubuh; badan; jasad hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=soma",
+  "related": [],
+  "detailed": false
+}

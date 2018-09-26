@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "giro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) simpanan pada bank yang penarikannya dapat dilakukan setiap saat dengan menggunakan cek atau surat perintah pembayaran lain atau dengan cara pemindahbukuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=giro",
+  "related": [],
+  "detailed": false
+}

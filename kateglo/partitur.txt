@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partitur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk tertulis atau tercetak pada komposisi musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partitur",
+  "related": [],
+  "detailed": false
+}

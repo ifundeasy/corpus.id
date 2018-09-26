@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencatatkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuliskan (memasukkan) ke dalam buku catatan;"
+      },
+      {
+        "type": "desc",
+        "text": "mendaftarkan (diri, nama) kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "mencatat sesuatu untuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencatatkan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kandungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang terkandung (termuat, tercantum di dalamnya);"
+      },
+      {
+        "type": "desc",
+        "text": "yang tersimpan dalam hati; isi hati;"
+      },
+      {
+        "type": "desc",
+        "text": "kantong peranakan di dalam perut wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "janin yang masih di dalam perut wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "kantong; pundi-pundi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandungan",
+  "related": [],
+  "detailed": false
+}

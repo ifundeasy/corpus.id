@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pikiran; anggapan;"
+      },
+      {
+        "type": "desc",
+        "text": "buah pemikiran atau perkiraan tentang suatu hal (seperti orang, peristiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mula-mula menemukan atau menghasilkan (sesuatu yang tadinya belum ada atau belum diketahui);"
+      },
+      {
+        "type": "desc",
+        "text": "kesimpulan (sesudah mempertimbangkan, menyelidiki, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapat",
+  "related": [],
+  "detailed": false
+}

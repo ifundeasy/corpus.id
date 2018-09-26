@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamariah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "dihitung menurut peredaran bulan (tentang kalender, penanggalan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamariah",
+  "related": [],
+  "detailed": false
+}

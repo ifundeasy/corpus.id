@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbunga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai bunga;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai hiasan yang bagus-bagus;"
+      },
+      {
+        "type": "desc",
+        "text": "berhasil;"
+      },
+      {
+        "type": "desc",
+        "text": "ada bunganya (rentenya);"
+      },
+      {
+        "type": "desc",
+        "text": "gadai dengan sejumlah uang sebagai bunga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbunga",
+  "related": [],
+  "detailed": false
+}

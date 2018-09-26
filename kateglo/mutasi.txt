@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mutasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm)"
+      },
+      {
+        "type": "desc",
+        "text": "pemindahan pegawai dari satu jabatan ke jabatan lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) perubahan yang terjadi mendadak dalam kromosom;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) perubahan dalam bentuk, kualitas atau sifat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mutasi",
+  "related": [],
+  "detailed": false
+}

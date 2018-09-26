@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelangsungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berlangsungnya suatu kejadian;"
+      },
+      {
+        "type": "desc",
+        "text": "kelanjutan; ketahanan;"
+      },
+      {
+        "type": "desc",
+        "text": "keterusterangan; keterbukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelangsungan",
+  "related": [],
+  "detailed": false
+}

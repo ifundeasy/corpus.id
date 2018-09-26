@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kandang kuda; lawak-lawak kuda;"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan tipis;"
+      },
+      {
+        "type": "link",
+        "text": "ular"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ari",
+  "related": [],
+  "detailed": false
+}

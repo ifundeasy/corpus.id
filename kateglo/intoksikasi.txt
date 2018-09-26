@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intoksikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemabukan; kemabukan (tentang minuman keras);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "keracunan (dalam tubuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intoksikasi",
+  "related": [],
+  "detailed": false
+}

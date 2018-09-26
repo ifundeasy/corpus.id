@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muhasabah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) introspeksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muhasabah",
+  "related": [],
+  "detailed": false
+}

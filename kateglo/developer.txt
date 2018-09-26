@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "developer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengembang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=developer",
+  "related": [],
+  "detailed": false
+}

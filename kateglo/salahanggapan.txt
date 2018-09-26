@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah anggapan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendapat yang keliru mengenai sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20anggapan",
+  "related": [],
+  "detailed": false
+}

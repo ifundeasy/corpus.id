@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cenung",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "tercenung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cenung",
+  "related": [],
+  "detailed": false
+}

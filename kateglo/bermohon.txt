@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermohon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "minta izin; mohon;"
+      },
+      {
+        "type": "desc",
+        "text": "pamit; minta diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermohon",
+  "related": [],
+  "detailed": false
+}

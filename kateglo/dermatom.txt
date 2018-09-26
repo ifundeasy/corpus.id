@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermatom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) alat bedah untuk menyayat kulit, khususnya dalam pencangkokan kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermatom",
+  "related": [],
+  "detailed": false
+}

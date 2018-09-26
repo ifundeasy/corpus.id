@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bebas hambatan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbebas dari kemacetan (di jalan raya, jalan tol);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bebas%20hambatan",
+  "related": [],
+  "detailed": false
+}

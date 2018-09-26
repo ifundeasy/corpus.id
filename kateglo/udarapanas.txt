@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang suhunya relatif lebih tinggi daripada suhu udara di sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20panas",
+  "related": [],
+  "detailed": false
+}

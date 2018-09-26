@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil melinting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintingan",
+  "related": [],
+  "detailed": false
+}

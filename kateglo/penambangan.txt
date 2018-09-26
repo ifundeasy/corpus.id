@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penambangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menambang;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menambang atau menambangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penambangan",
+  "related": [],
+  "detailed": false
+}

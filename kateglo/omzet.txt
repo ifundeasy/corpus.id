@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "omzet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah uang hasil penjualan barang (dagangan) tertentu selama suatu masa jual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=omzet",
+  "related": [],
+  "detailed": false
+}

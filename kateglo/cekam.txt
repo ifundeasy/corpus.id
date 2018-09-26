@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cekam",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencekam"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tugal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cekam",
+  "related": [],
+  "detailed": false
+}

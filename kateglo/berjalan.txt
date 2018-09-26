@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjalan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melangkahkan kaki bergerak maju;"
+      },
+      {
+        "type": "desc",
+        "text": "bergerak maju dari suatu titik (tempat) ke titik (tempat) lain;"
+      },
+      {
+        "type": "desc",
+        "text": "menggelinding atau berputar (tentang sesuatu yang bundar seperti roda);"
+      },
+      {
+        "type": "desc",
+        "text": "bepergian;"
+      },
+      {
+        "type": "desc",
+        "text": "berlangsung; dilangsungkan (tentang perundingan, rapat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berlaku; ditaati (tentang peraturan, undang-undang, hukum, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjalan",
+  "related": [],
+  "detailed": false
+}

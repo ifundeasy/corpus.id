@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh tambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang bekerja di pertambangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20tambang",
+  "related": [],
+  "detailed": false
+}

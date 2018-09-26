@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memperbanyak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan lebih banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "menggandakan; mengalikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memperbanyak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayanan tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) penyelenggaraan pelayanan peminjaman buku dengan cara tidak membolehkan para peminjam masuk ke ruang koleksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayanan%20tertutup",
+  "related": [],
+  "detailed": false
+}

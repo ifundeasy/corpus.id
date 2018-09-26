@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "peng -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil, perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peng%20--%20an",
+  "related": [],
+  "detailed": false
+}

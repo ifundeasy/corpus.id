@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "main",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan permainan untuk menyenangkan hati (dengan menggunakan alat-alat tertentu atau tidak);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) melakukan perbuatan untuk bersenang-senang (dengan alat-alat tertentu atau tidak);"
+      },
+      {
+        "type": "desc",
+        "text": "berjudi;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan berlangsung atau mempertunjukkan (tontonan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bertindak sebagai pelaku dalam sandiwara (film, musik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat serong;"
+      },
+      {
+        "type": "desc",
+        "text": "bekerja, bergerak, berputar, dsb secara sepatutnya (tentang mesin dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berbuat sesuatu dengan sesuka hati; berbuat asal berbuat saja;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menjalankan usaha (taksi, becak, dsb); mencari nafkah dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) selalu menggunakan (memakai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=main",
+  "related": [],
+  "detailed": false
+}

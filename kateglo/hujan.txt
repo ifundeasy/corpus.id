@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik-titik air yang berjatuhan dari udara karena proses pendinginan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang datang dsb banyak-banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan",
+  "related": [],
+  "detailed": false
+}

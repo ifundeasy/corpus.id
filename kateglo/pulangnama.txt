@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pulang nama",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "yang pulang hanya namanya (meninggal di perantauan, di perjalanan, atau di medan perang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulang%20nama",
+  "related": [],
+  "detailed": false
+}

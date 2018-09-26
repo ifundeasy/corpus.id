@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kapai"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "udang pepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepai",
+  "related": [],
+  "detailed": false
+}

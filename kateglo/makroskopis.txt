@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makroskopis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat dilihat dengan mata telanjang tanpa bantuan mikroskop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makroskopis",
+  "related": [],
+  "detailed": false
+}

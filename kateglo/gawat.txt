@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gawat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "genting; berbahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "kritis; mengkhawatirkan; dekat kepada kematian;"
+      },
+      {
+        "type": "desc",
+        "text": "sulit; terancam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gawat",
+  "related": [],
+  "detailed": false
+}

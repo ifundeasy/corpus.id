@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita pesanan untuk mendorong, membujuk khalayak ramai agar tertarik pada barang dan jasa yang ditawarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan kepada khalayak mengenai barang atau jasa yang dijual, dipasang di dalam media massa (seperti surat kabar dan majalah) atau di tempat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penebang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya menebang (pohon);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menebang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penebang",
+  "related": [],
+  "detailed": false
+}

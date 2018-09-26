@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fenotipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri-ciri lahiriah organisme yang dihasilkan karena interaksi antara ciri-ciri keturunan dan lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fenotipe",
+  "related": [],
+  "detailed": false
+}

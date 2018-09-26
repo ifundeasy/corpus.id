@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koersi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sos)"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk akomodasi yang prosesnya dilaksanakan dengan menggunakan tekanan sehingga salah satu pihak yang berinteraksi berada dalam keadaan lemah dibandingkan dengan pihak lawan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kom) sistem komunikasi yang menggunakan paksaan dan kekerasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koersi",
+  "related": [],
+  "detailed": false
+}

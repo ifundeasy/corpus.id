@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setem",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "setala; sesuai; selaras (tentang nada suara);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara (dalam pemilihan untuk menentukan pilihan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setem",
+  "related": [],
+  "detailed": false
+}

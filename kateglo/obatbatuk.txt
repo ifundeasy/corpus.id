@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat batuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk menghilangkan batuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20batuk",
+  "related": [],
+  "detailed": false
+}

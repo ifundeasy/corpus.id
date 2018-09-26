@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspeditor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan atau perusahaan yang bergerak dalam bidang pengangkutan atau pengiriman barang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya menyelenggarakan pengangkutan barang-barang melalui darat, laut, atau udara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjelajah (melakukan perjalanan) untuk keperluan penyelidikan ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspeditor",
+  "related": [],
+  "detailed": false
+}

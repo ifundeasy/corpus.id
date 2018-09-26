@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tubi",
+  "tags": {
+    "adv": [
+      {
+        "type": "link",
+        "text": "bertubi-tubi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tubi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe dwiguna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ternak yang dapat menghasilkan dua jenis produk yang cukup tinggi (misal telur dan daging, daging dan susu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20dwiguna",
+  "related": [],
+  "detailed": false
+}

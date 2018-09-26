@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memungut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengambil yang ada di tanah atau di lantai (karena jatuh dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memetik (buah, hasil tanaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menarik (biaya, derma, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengutip (karangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meminjam kata-kata (dari bahasa asing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memungut",
+  "related": [],
+  "detailed": false
+}

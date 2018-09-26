@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emendasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan yang bersifat perbaikan pada naskah atau teks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emendasi",
+  "related": [],
+  "detailed": false
+}

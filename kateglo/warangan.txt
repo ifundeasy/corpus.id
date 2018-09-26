@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "racun yang digunakan untuk membunuh tikus;"
+      },
+      {
+        "type": "desc",
+        "text": "cairan berisi ramuan untuk membersihkan keris dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warangan",
+  "related": [],
+  "detailed": false
+}

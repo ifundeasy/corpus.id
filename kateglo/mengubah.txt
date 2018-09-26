@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengubah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan lain dari semula;"
+      },
+      {
+        "type": "desc",
+        "text": "menukar bentuk (warna, rupa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengatur kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengubah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kursus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajaran tentang suatu pengetahuan atau keterampilan, yang diberikan dalam waktu singkat;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaga di luar sekolah yang memberikan pelajaran serta pengetahuan atau keterampilan yang diberikan dalam waktu singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peralihan tempat atau kedudukan, baik hanya sekali maupun berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "dorongan (batin, perasaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "denyut-denyut atau kedut-kedut (pada mata, bibir, dsb) yang dianggap sebagai firasat atau gelagat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerak",
+  "related": [],
+  "detailed": false
+}

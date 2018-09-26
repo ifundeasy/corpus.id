@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maskulin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat jantan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maskulin",
+  "related": [],
+  "detailed": false
+}

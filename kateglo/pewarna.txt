@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pewarna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan untuk memberi warna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pewarna",
+  "related": [],
+  "detailed": false
+}

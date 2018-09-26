@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cekup",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencekup"
+      },
+      {
+        "type": "link",
+        "text": "cekut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cekup",
+  "related": [],
+  "detailed": false
+}

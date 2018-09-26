@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengadar"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat tua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adar",
+  "related": [],
+  "detailed": false
+}

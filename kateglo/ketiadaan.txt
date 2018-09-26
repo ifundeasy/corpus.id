@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketiadaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tidak adanya ...; kekurangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepicikan (uang);"
+      },
+      {
+        "type": "desc",
+        "text": "hal tidak ada apa-apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketiadaan",
+  "related": [],
+  "detailed": false
+}

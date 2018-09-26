@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koinsidensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal terjadinya dua peristiwa dalam waktu yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "hal berkumpulnya dua titik atau lebih dalam satu ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koinsidensi",
+  "related": [],
+  "detailed": false
+}

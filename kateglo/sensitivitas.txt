@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensitivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cepat menerima rangsangan; kepekaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensitivitas",
+  "related": [],
+  "detailed": false
+}

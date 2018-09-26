@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan rumah tangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta yang diterima oleh sebuah rumah tangga sebagai hasil dari seluruh usaha semua warganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20rumah%20tangga",
+  "related": [],
+  "detailed": false
+}

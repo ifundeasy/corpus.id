@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelahiran prematur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehamilan yang menghasilkan bayi lahir hidup dengan lama kehamilan kurang dari waktu yang semestinya (9 bulan 10 hari), tetapi sudah berumur lebih dari 6 bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelahiran%20prematur",
+  "related": [],
+  "detailed": false
+}

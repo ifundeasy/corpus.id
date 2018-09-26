@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelotok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "link",
+        "text": "mengelotok"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan asin;"
+      },
+      {
+        "type": "desc",
+        "text": "perahu bermotor (di daerah Kalimantan Selatan) untuk kendaraan sungai;"
+      },
+      {
+        "type": "desc",
+        "text": "rakit bambu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelotok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pulsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "denyut nadi yang terjadi karena detak jantung;"
+      },
+      {
+        "type": "desc",
+        "text": "tegangan atau arus yang berlangsung beberapa lama berbentuk segi empat atau gelombang sinus;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan dalam perhitungan biaya telepon;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) rangkaian denyutan berulang secara teratur yang terasa dalam musik, jika pulsa itu terdengaran disebut ketukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulsa",
+  "related": [],
+  "detailed": false
+}

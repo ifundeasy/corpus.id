@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "periuk api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata peledak (ranjau darat atau ranjau laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periuk%20api",
+  "related": [],
+  "detailed": false
+}

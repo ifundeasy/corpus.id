@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor penggumpalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) faktor yang dibutuhkan untuk membekukan darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20penggumpalan",
+  "related": [],
+  "detailed": false
+}

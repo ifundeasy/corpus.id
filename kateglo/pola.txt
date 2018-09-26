@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang dipakai untuk contoh batik;"
+      },
+      {
+        "type": "desc",
+        "text": "corak batik atau tenun; ragi atau suri;"
+      },
+      {
+        "type": "desc",
+        "text": "potongan kertas yang dipakai sebagai contoh dalam membuat baju dsb; model;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem; cara kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk (struktur) yang tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola",
+  "related": [],
+  "detailed": false
+}

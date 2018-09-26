@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "separuh tempurung (untuk permainan);"
+      },
+      {
+        "type": "desc",
+        "text": "garpu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porok",
+  "related": [],
+  "detailed": false
+}

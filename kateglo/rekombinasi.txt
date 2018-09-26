@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekombinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyatuan kembali elemen;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) terdapatnya progeni dengan kombinasi gen yang lain yang terjadi karena pemilahan bebas atau pindah silang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekombinasi",
+  "related": [],
+  "detailed": false
+}

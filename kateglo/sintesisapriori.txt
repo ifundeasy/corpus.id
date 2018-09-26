@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sintesis apriori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sintesis yang pernyataannya bergantung pada suatu pengalaman tertentu, tetapi sebenarnya pernyataan lain sudah ada sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sintesis%20apriori",
+  "related": [],
+  "detailed": false
+}

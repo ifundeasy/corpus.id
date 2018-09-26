@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turis domestik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "wisatawan dalam negeri (bukan wisatawan asing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turis%20domestik",
+  "related": [],
+  "detailed": false
+}

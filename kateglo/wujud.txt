@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wujud",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rupa dan bentuk yang dapat diraba;"
+      },
+      {
+        "type": "desc",
+        "text": "adanya sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "benda yang nyata (bukan roh dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "maksud; tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wujud",
+  "related": [],
+  "detailed": false
+}

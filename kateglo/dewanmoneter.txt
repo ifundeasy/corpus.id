@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dewan moneter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "dewan yang bertugas mengawasi dan memberi nasihat mengenai keuangan negara atau organisasi keuangan negara;"
+      },
+      {
+        "type": "desc",
+        "text": "badan internasional di bidang keuangan yang bertugas mengatur keseimbangan nilai uang di dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan%20moneter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kategori leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) golongan satuan bahasa yang diungkapkan dengan morfem bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategori%20leksikal",
+  "related": [],
+  "detailed": false
+}

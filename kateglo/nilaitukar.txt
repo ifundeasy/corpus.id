@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai tukar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah uang yang sebenarnya diterima yang diperoleh dalam pertukaran suatu barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20tukar",
+  "related": [],
+  "detailed": false
+}

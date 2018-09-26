@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jabatan negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan dalam bidang eksekutif yang ditetapkan berdasarkan peraturan perundang-undangan (termasuk jabatan dalam kesekretariatan lembaga tertinggi negara dan kepaniteraan pengadilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jabatan%20negeri",
+  "related": [],
+  "detailed": false
+}

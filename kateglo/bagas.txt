@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tetap kuat (tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "kuat dan kencang (tentang angin);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa batang tebu setelah diperas sarinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bimbang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(merasa) tidak tetap hati (kurang percaya); ragu-ragu;"
+      },
+      {
+        "type": "desc",
+        "text": "(merasa) khawatir; cemas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "upacara atau pesta adat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berganti-ganti; bergantian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bimbang",
+  "related": [],
+  "detailed": false
+}

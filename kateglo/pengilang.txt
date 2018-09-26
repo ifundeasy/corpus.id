@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memiliki (mengurus) kilang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengilang",
+  "related": [],
+  "detailed": false
+}

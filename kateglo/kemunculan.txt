@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemunculan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal muncul;"
+      },
+      {
+        "type": "desc",
+        "text": "kehadiran; kedatangan; keikutsertaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemunculan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian mutlak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian warisan yang sesuai dengan ketetapan undang-undang yang tidak boleh dikurangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian%20mutlak",
+  "related": [],
+  "detailed": false
+}

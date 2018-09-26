@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gugus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beberapa pulau (bintang dsb) yang berkelompok menjadi satu; kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "atom-atom yang lewat melalui deretan reaksi tanpa terpisah;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur-unsur dengan reaksi serupa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gugus",
+  "related": [],
+  "detailed": false
+}

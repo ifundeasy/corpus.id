@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "letalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah kematian pada tiap 100 penderita penyakit tertentu, dihitung dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=letalitas",
+  "related": [],
+  "detailed": false
+}

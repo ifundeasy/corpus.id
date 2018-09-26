@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gatra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan tertentu dalam kalimat yang dapat ditempati oleh suatu unsur bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "wujud;"
+      },
+      {
+        "type": "desc",
+        "text": "sudut pandangan; aspek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gatra",
+  "related": [],
+  "detailed": false
+}

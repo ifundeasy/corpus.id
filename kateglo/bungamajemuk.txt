@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga majemuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian bunga yang tumbuh dari ujung batang atau dari ketiak daun;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) biaya atas penggunaan uang yang diperhitungkan atas jumlah modal pokok beserta bunga yang berhak; bunga yang diperhitungkan atas bunga yang belum dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20majemuk",
+  "related": [],
+  "detailed": false
+}

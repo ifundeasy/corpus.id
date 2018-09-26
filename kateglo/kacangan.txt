@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kacangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kacang-kacangan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) tidak bermutu (tentang barang); murahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacangan",
+  "related": [],
+  "detailed": false
+}

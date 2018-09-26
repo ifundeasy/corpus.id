@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggungan (tindakan, hukuman, dsb) untuk memaksa orang menepati perjanjian atau menaati ketentuan 1022 undang-undang (anggaran dasar, perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan (mengenai perekonomian dsb) sebagai hukuman kepada suatu negara;"
+      },
+      {
+        "type": "desc",
+        "text": "imbalan negatif, berupa pembebanan atau penderitaan yang ditentukan dalam hukum;"
+      },
+      {
+        "type": "desc",
+        "text": "imbalan positif, yang berupa hadiah atau anugerah yang ditentukan dalam hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna yang serupa dengan warna kunyit atau emas murni;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna kunyit atau emas murni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuning",
+  "related": [],
+  "detailed": false
+}

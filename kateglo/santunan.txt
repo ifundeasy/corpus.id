@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "santunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan sebagai pengganti kerugian karena kecelakaan, kematian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bantuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=santunan",
+  "related": [],
+  "detailed": false
+}

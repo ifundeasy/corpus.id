@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inokulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembiakan bakteri pada suatu perbenihan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemasukan bakteri, virus, atau vaksin ke dalam tubuh melalui luka atau melalui alat yang digoreskan pada kulit dan tidak selalu menimbulkan infeksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inokulasi",
+  "related": [],
+  "detailed": false
+}

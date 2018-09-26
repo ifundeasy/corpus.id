@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga raya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunga sepatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pelacur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20raya",
+  "related": [],
+  "detailed": false
+}

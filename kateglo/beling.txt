@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan kaca (porselen dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "serbuk halus-halus dari pecahan kaca dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "barang pecah belah; tembikar; porselen;"
+      },
+      {
+        "type": "link",
+        "text": "pecah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beling",
+  "related": [],
+  "detailed": false
+}

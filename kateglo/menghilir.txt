@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghilir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuju hilir sungai;"
+      },
+      {
+        "type": "desc",
+        "text": "menuju arah kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghilir",
+  "related": [],
+  "detailed": false
+}

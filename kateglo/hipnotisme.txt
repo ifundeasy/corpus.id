@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipnotisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindakan yang menyebabkan hipnosis;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang hipnosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipnotisme",
+  "related": [],
+  "detailed": false
+}

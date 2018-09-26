@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruangan atau gedung tempat memamerkan benda atau karya seni dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galeri",
+  "related": [],
+  "detailed": false
+}

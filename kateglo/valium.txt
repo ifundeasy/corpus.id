@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "valium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat penenang;"
+      },
+      {
+        "type": "desc",
+        "text": "merek dagang obat penenang (dengan huruf awal kapital);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=valium",
+  "related": [],
+  "detailed": false
+}

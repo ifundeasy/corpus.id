@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus horizontal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arus air akibat tiupan angin, biasanya sesuai dengan bentuk garis pantai dan formasi dasar perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20horizontal",
+  "related": [],
+  "detailed": false
+}

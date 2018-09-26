@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pandangan atau pernyataan sikap yang mengejek atau memandang rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "pandangan atau gagasan yang tidak melihat suatu kebaikan apa pun dan meragukan sifat baik yang ada pada manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinisme",
+  "related": [],
+  "detailed": false
+}

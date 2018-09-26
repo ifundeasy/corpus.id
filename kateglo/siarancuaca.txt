@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran tentang cuaca dengan radio yang dilakukan oleh stasiun meteorologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20cuaca",
+  "related": [],
+  "detailed": false
+}

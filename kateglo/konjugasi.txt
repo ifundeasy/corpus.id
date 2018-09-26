@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konjugasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "sistem perubahan bentuk verba yang berhubungan dengan jumlah, jenis kelamin, modus, dan waktu (terdapat pada bahasa fleksi); tasrif;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) pemaduan gamet yang serupa, yang kemudian menggabungkan intinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) pembentukan molekul tertentu pada protein rumit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konjugasi",
+  "related": [],
+  "detailed": false
+}

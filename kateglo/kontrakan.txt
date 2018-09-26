@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontrakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dikontrak atau disewa (tentang rumah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengontrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontrakan",
+  "related": [],
+  "detailed": false
+}

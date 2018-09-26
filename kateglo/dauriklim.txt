@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daur iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pergantian iklim yang dialami suatu daerah selama setahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daur%20iklim",
+  "related": [],
+  "detailed": false
+}

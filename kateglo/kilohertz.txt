@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilohertz",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran gelombang 1.000 hertz (disingkat khz);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilohertz",
+  "related": [],
+  "detailed": false
+}

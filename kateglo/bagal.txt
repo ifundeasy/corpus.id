@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "terlampau besar (kuat);"
+      },
+      {
+        "type": "desc",
+        "text": "kasar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tangkai mayang (nyiur);"
+      },
+      {
+        "type": "desc",
+        "text": "peranakan keledai (turunan kuda jantan dengan keledai betina);"
+      },
+      {
+        "type": "desc",
+        "text": "tongkol jagung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) bibit tebu yang diperoleh lewat setek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagal",
+  "related": [],
+  "detailed": false
+}

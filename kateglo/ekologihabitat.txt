@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekologi habitat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang ekologi yang menitikberatkan sifat habitat, misal ekologi air tawar, ekologi laut, dan ekologi hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekologi%20habitat",
+  "related": [],
+  "detailed": false
+}

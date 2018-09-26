@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemusik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain musik (seperti pemetik gitar, penggesek biola, atau pemain piano);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemusik",
+  "related": [],
+  "detailed": false
+}

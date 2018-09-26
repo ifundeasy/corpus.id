@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pikofarad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan kapasitas sebesar 10-12 farad atau seperjuta mikrofarad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikofarad",
+  "related": [],
+  "detailed": false
+}

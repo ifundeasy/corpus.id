@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lanskap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tata ruang di luar gedung (untuk mengatur pemandangan alam);"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah total aspek setiap daerah, baik pedesaan maupun kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanskap",
+  "related": [],
+  "detailed": false
+}

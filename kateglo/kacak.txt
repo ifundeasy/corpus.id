@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kacak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampak gagah; cegak;"
+      },
+      {
+        "type": "desc",
+        "text": "angkuh; pongah;"
+      },
+      {
+        "type": "link",
+        "text": "berkacak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) (satuan) ukuran besar selingkung ujung ibu jari yang dipertemukan dengan ujung jari yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacak",
+  "related": [],
+  "detailed": false
+}

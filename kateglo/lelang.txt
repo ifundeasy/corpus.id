@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lelang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjualan di hadapan orang banyak (dengan tawaran yang atas-mengatasi) dipimpin oleh pejabat lelang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lelang",
+  "related": [],
+  "detailed": false
+}

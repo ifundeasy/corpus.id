@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "putri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak perempuan raja;"
+      },
+      {
+        "type": "desc",
+        "text": "anak perempuan; wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "khusus (untuk) wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) anak kandung wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putri",
+  "related": [],
+  "detailed": false
+}

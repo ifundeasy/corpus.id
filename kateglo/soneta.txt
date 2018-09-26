@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "soneta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang terdiri atas empat bait (2 bait pertama masing-masing terdiri atas 4 baris, 2 bait terakhir masing-masing terdiri atas 3 baris); sajak 14 baris yang merupakan satu pikiran atau perasaan yang bulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=soneta",
+  "related": [],
+  "detailed": false
+}

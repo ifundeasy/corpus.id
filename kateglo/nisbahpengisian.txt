@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nisbah pengisian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) bilangan yang menunjukkan volume atau berat batuan asal yang terledakkan oleh setiap pon bahan peledak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisbah%20pengisian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seruput",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyeruput"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan, Justicia uber;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seruput",
+  "related": [],
+  "detailed": false
+}

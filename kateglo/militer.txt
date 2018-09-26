@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "militer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tentara; anggota tentara;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=militer",
+  "related": [],
+  "detailed": false
+}

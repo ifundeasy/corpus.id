@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (panitia) yang menilai dan memutuskan kalah atau menang (dalam perlombaan, sayembara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menilai salah atau benar di pengadilan (di beberapa negeri Barat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juri",
+  "related": [],
+  "detailed": false
+}

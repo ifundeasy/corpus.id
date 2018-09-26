@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nomine",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dicalonkan (diunggulkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomine",
+  "related": [],
+  "detailed": false
+}

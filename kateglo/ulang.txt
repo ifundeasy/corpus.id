@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ulang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lakukan lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali seperti semula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulang",
+  "related": [],
+  "detailed": false
+}

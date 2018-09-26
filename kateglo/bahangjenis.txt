@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahang jenis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) kapasitas bahang per satuan massa atau jumlah bahang yang diperlukan untuk menaikkan suhu satu satuan massa zat satu derajat tanpa perubahan fase atau kimia; kapasitas bahang jenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahang%20jenis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal bantalan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang dapat berjalan di atas bantalan udara yang diembuskan oleh mesin pada kapal itu (baik melalui air maupun daratan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20bantalan%20udara",
+  "related": [],
+  "detailed": false
+}

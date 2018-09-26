@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "niraksara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak (belum) memiliki aksara;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak (belum) mampu membaca dan menulis; buta huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=niraksara",
+  "related": [],
+  "detailed": false
+}

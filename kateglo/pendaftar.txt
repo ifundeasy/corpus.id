@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendaftar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mendaftar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendaftar",
+  "related": [],
+  "detailed": false
+}

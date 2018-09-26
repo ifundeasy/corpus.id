@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumpit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumpitan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyuap makanan berupa batangan (dari kayu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Toxotes jaculator;"
+      },
+      {
+        "type": "desc",
+        "text": "karung dari anyaman pandan dsb (tempat beras dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumpit",
+  "related": [],
+  "detailed": false
+}

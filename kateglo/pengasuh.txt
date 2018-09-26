@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengasuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengasuh;"
+      },
+      {
+        "type": "desc",
+        "text": "wali (orang tua dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengasuh",
+  "related": [],
+  "detailed": false
+}

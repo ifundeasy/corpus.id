@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis tengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "garis horizontal lapangan bola tepat di tengah-tengah, yang membagi lapangan menjadi dua bagian;"
+      },
+      {
+        "type": "desc",
+        "text": "garis yang membagi lingkaran menjadi dua bagian yang sama besar melalui titik pusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20tengah",
+  "related": [],
+  "detailed": false
+}

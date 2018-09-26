@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sewa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah untuk disewakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sewa",
+  "related": [],
+  "detailed": false
+}

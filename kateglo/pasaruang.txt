@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar uang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar abstrak yang mempertemukan permintaan dan penawaran dana jangka pendek antara 1—360 hari dari calon penanam dan pencari modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20uang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sopak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit berupa belang-belang putih di tangan atau kaki;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belang putih bekas luka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sopak",
+  "related": [],
+  "detailed": false
+}

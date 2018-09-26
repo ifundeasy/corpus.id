@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbatasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah atau jalur pemisah antara unit-unit politik (negara); daerah dekat batas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbatasan",
+  "related": [],
+  "detailed": false
+}

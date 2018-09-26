@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air tanah bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air tanah yang di atasnya dibatasi oleh muka air tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20tanah%20bebas",
+  "related": [],
+  "detailed": false
+}

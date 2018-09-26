@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diagnosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan jenis penyakit dengan cara meneliti (memeriksa) gejala-gejalanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sos) pemeriksaan terhadap suatu hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagnosis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tebal telinga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ambil pusing atau tidak acuh (terhadap makian, sindiran, dsb); tidak mau mendengar kata orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tahu malu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebal%20telinga",
+  "related": [],
+  "detailed": false
+}

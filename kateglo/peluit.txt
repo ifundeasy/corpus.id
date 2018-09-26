@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peluit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dapat menghasilkan bunyi apabila ditiup; sempritan;"
+      },
+      {
+        "type": "desc",
+        "text": "sirene;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peluit",
+  "related": [],
+  "detailed": false
+}

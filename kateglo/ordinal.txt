@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ordinal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) menyatakan urutan bagi sebuah unsur dalam suatu kumpulan; berturut; (bilangan) bertingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ordinal",
+  "related": [],
+  "detailed": false
+}

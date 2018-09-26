@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seluar sampah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluar pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seluar%20sampah",
+  "related": [],
+  "detailed": false
+}

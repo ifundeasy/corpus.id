@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "opini publik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat umum; pendapat sebagian besar rakyat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opini%20publik",
+  "related": [],
+  "detailed": false
+}

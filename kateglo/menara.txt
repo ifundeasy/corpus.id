@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan yang tinggi (seperti di masjid, gereja); bagian bangunan yang dibuat jauh lebih tinggi daripada bangunan induknya;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan tinggi untuk mengawasi daerah sekitar atau yang menjadi petunjuk bagi kapal dsb yang sedang berlayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat lali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat bius;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20lali",
+  "related": [],
+  "detailed": false
+}

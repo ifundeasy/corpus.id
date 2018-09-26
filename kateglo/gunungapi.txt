@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gunung api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gunung yang di dalamnya terdapat lahar panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gunung%20api",
+  "related": [],
+  "detailed": false
+}

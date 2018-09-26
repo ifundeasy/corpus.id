@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sambang api-api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kotak tempat geretan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambang%20api-api",
+  "related": [],
+  "detailed": false
+}

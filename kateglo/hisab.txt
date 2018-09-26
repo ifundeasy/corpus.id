@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hisab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hitungan; perhitungan; perkiraan;"
+      },
+      {
+        "type": "desc",
+        "text": "peduli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hisab",
+  "related": [],
+  "detailed": false
+}

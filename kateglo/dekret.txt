@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan (ketetapan) atau perintah yang dikeluarkan oleh kepala negara, pengadilan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekret",
+  "related": [],
+  "detailed": false
+}

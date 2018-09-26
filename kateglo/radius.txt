@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radius",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak dari pusat ke keliling lingkaran; jari-jari (lingkaran);"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah yang mengelilingi suatu tempat yang berjarak sama dari titik pusatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radius",
+  "related": [],
+  "detailed": false
+}

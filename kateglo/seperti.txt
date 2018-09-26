@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seperti",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "serupa dengan; sebagai; semacam;"
+      },
+      {
+        "type": "desc",
+        "text": "sama halnya dengan; tidak ubahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagaimana; sesuai dengan; menurut;"
+      },
+      {
+        "type": "desc",
+        "text": "seakan-akan; seolah-olah;"
+      },
+      {
+        "type": "desc",
+        "text": "misalnya; umpamanya;"
+      },
+      {
+        "type": "desc",
+        "text": "adapun yang sebagai; akan hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seperti",
+  "related": [],
+  "detailed": false
+}

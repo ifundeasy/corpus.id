@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vakatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lowongan;"
+      },
+      {
+        "type": "desc",
+        "text": "pelayanan yang tidak dilakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat terbuka, kosong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vakatur",
+  "related": [],
+  "detailed": false
+}

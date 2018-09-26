@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perakuntanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal praktik akuntan, termasuk tanggung jawab, standar, kelaziman, dan semua kegiatannya;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal yang berhubungan dengan akuntan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perakuntanan",
+  "related": [],
+  "detailed": false
+}

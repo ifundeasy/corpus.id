@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga obral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang diturunkan; harga murah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20obral",
+  "related": [],
+  "detailed": false
+}

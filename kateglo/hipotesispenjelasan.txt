@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis penjelasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hipotesis yang menggunakan perhitungan statistik dan ilmu pasti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20penjelasan",
+  "related": [],
+  "detailed": false
+}

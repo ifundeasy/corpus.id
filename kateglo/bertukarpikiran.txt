@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertukar pikiran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbahas (saling mengutarakan pendapat); berdiskusi;"
+      },
+      {
+        "type": "desc",
+        "text": "berubah pendapat (keyakinan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertukar%20pikiran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa pekak dalam telinga (karena air masuk ke dalam telinga, pilek, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak nyaring atau jernih (tentang bunyi gendang, mata uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sukar mengeluarkan perkataan (karena takut, malu, dsb); gagap;"
+      },
+      {
+        "type": "desc",
+        "text": "bimbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengap",
+  "related": [],
+  "detailed": false
+}

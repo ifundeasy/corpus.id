@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang, baik berupa tanaman maupun hewan atau yang lain, yang dihasilkan oleh suatu usaha tani atau perusahaan pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20pertanian",
+  "related": [],
+  "detailed": false
+}

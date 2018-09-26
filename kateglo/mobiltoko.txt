@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil toko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil yang dirancang sedemikian rupa sehingga dapat digunakan sebagai tempat menjual barang (makanan, majalah, koran, dsb), biasanya berkeliling di kawasan permukiman atau berhenti di suatu lokasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20toko",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lawina dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) lawina yang terdiri atas salju, es, dan puing es yang turut runtuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawina%20dasar",
+  "related": [],
+  "detailed": false
+}

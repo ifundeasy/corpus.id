@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kematian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mati;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita karena salah seorang meninggal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menderita karena sesuatu yang mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kematian",
+  "related": [],
+  "detailed": false
+}

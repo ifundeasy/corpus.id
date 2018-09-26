@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "betik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pepaya; kates; Carica papaya;"
+      },
+      {
+        "type": "link",
+        "text": "terbetik"
+      },
+      {
+        "type": "desc",
+        "text": "nama ikan;"
+      },
+      {
+        "type": "link",
+        "text": "betik-betik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=betik",
+  "related": [],
+  "detailed": false
+}

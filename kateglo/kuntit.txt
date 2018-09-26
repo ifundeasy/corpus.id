@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuntit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk) →"
+      },
+      {
+        "type": "link",
+        "text": "menguntit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuntit",
+  "related": [],
+  "detailed": false
+}

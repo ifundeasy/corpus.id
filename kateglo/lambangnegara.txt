@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lambang negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simbol resmi suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lambang%20negara",
+  "related": [],
+  "detailed": false
+}

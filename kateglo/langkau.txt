@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melangkaui"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menjemur kopra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkau",
+  "related": [],
+  "detailed": false
+}

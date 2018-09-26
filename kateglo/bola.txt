@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda bulat yang dibuat dari karet dsb untuk bermain-main;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang bentuknya menyerupai bulatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bola",
+  "related": [],
+  "detailed": false
+}

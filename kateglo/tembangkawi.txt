@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembang kawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tembang gede;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang gede;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembang%20kawi",
+  "related": [],
+  "detailed": false
+}

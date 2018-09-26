@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan isotonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan yang tekanan osmotiknya sama dengan cairan tubuh ataupun larutan lain yang dibandingkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20isotonik",
+  "related": [],
+  "detailed": false
+}

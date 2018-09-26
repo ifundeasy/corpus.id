@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "usam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "kusam; suram; kurang bercahaya (tentang warna);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk) ampas kelapa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usam",
+  "related": [],
+  "detailed": false
+}

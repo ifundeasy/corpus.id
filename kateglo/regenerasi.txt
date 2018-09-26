@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regenerasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembaruan semangat dan tata susila;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penggantian alat yang rusak atau yang hilang dengan pembentukan jaringan sel baru;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) penggantian generasi tua kepada generasi muda; peremajaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regenerasi",
+  "related": [],
+  "detailed": false
+}

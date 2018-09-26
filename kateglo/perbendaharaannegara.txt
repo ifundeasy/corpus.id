@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbendaharaan negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kas negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbendaharaan%20negara",
+  "related": [],
+  "detailed": false
+}

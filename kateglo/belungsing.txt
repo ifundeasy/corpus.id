@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belungsing",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "membelungsing"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belungsing",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lintar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "halilintar;"
+      },
+      {
+        "type": "desc",
+        "text": "lilit (suatu benda);"
+      },
+      {
+        "type": "desc",
+        "text": "keliling (suatu bidang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintar",
+  "related": [],
+  "detailed": false
+}

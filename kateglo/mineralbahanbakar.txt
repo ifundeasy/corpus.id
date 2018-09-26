@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mineral bahan bakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan mineral yang digunakan sebagai bahan bakar, seperti minyak bumi, batu bara, dan mineral radioaktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineral%20bahan%20bakar",
+  "related": [],
+  "detailed": false
+}

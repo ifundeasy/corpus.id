@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan bakar jet",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan bakar yang sifatnya memenuhi syarat untuk digunakan oleh mesin pesawat jet dan turbin gas pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20bakar%20jet",
+  "related": [],
+  "detailed": false
+}

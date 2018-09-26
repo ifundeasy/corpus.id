@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rancak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "bagus; elok; cantik;"
+      },
+      {
+        "type": "desc",
+        "text": "giat; cepat; dinamis; gembira (tentang lagu, musik, tarian, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "merancak"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "serancak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rancak",
+  "related": [],
+  "detailed": false
+}

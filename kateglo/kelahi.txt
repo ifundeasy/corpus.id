@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelahi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertengkaran adu kata-kata;"
+      },
+      {
+        "type": "desc",
+        "text": "pertengkaran dengan adu kata-kata dan/atau adu tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelahi",
+  "related": [],
+  "detailed": false
+}

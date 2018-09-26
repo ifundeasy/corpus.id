@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langsai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah terbayar semua (tentang utang, janji); lunas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tirai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langsai",
+  "related": [],
+  "detailed": false
+}

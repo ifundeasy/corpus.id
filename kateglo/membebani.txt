@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membebani",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi beban (tanggungan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membebani",
+  "related": [],
+  "detailed": false
+}

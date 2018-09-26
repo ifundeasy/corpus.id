@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik optimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik puncak (terbaik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20optimum",
+  "related": [],
+  "detailed": false
+}

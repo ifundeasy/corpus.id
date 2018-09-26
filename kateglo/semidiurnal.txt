@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semidiurnal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan setengah (separuh) hari;"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi dua kali sehari;"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi setiap setengah hari (tentang pasang surut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semidiurnal",
+  "related": [],
+  "detailed": false
+}

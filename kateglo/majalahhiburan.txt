@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah hiburan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan berkala yang memuat karangan ringan, cerita pendek, cerita bergambar, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20hiburan",
+  "related": [],
+  "detailed": false
+}

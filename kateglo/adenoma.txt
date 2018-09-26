@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adenoma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) jaringan kelenjar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adenoma",
+  "related": [],
+  "detailed": false
+}

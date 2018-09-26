@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tohor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dangkal; dangkar;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir kering (tidak berair karena ditimba dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) habis (tentang uang dsb);"
+      },
+      {
+        "type": "link",
+        "text": "kapur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tohor",
+  "related": [],
+  "detailed": false
+}

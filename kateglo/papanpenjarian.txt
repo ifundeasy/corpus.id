@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan penjarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan yang berisi kunci penggerak huruf digunakan pada mesin tulis atau penggerak nada pada piano sehingga mesin tulis dapat digunakan untuk mengetik dan piano dapat dibunyikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20penjarian",
+  "related": [],
+  "detailed": false
+}

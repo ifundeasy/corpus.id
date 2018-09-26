@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dab",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Sen)"
+      },
+      {
+        "type": "desc",
+        "text": "mengganti suara asli pemain film dengan suara orang lain, biasanya dalam bahasa lain, dengan memperhatikan dan menyesuaikan gerak bibir; menyulih suara;"
+      },
+      {
+        "type": "desc",
+        "text": "mengisi suara orang lain (dalam film);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dab",
+  "related": [],
+  "detailed": false
+}

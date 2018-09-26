@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membahas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempertemukan atau memasang papan dengan memakai baji atau gandar;"
+      },
+      {
+        "type": "desc",
+        "text": "membicarakan; memperdebatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengkritik; membantahi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membahas",
+  "related": [],
+  "detailed": false
+}

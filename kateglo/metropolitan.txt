@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metropolitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metropolis;"
+      },
+      {
+        "type": "desc",
+        "text": "penduduk metropolis;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai tata cara hidup metropolitan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan atau bersifat metropolis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metropolitan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "almamater",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perguruan tinggi atau akademi tempat mahasiswa pernah belajar dan menyelesaikan pendidikannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=almamater",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bekas tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tanda tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pukulan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang buatannya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bekas%20tangan",
+  "related": [],
+  "detailed": false
+}

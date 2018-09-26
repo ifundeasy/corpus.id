@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentuk dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk dari sebuah morfem yang dianggap paling umum dan paling tidak terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk%20dasar",
+  "related": [],
+  "detailed": false
+}

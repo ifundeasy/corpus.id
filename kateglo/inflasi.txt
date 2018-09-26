@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inflasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kemerosotan nilai uang (kertas) karena banyaknya dan cepatnya uang (kertas) beredar sehingga menyebabkan naiknya harga barang-barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inflasi",
+  "related": [],
+  "detailed": false
+}

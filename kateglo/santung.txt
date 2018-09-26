@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "santung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "erat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasak atau baji untuk menegangkan kulit rebana, gendang, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=santung",
+  "related": [],
+  "detailed": false
+}

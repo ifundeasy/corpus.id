@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penangkap suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menerima suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penangkap%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpengantin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi pengantin (kawin);"
+      },
+      {
+        "type": "desc",
+        "text": "merayakan pesta perkawinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpengantin",
+  "related": [],
+  "detailed": false
+}

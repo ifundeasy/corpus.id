@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usaha tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan usaha yang sahamnya tidak dijual kepada masyarakat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usaha%20tertutup",
+  "related": [],
+  "detailed": false
+}

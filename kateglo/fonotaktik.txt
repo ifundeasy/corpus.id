@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonotaktik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "urutan fonem yang dimungkinkan dalam suatu bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "deskripsi tentang urutan fonem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonotaktik",
+  "related": [],
+  "detailed": false
+}

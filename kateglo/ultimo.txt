@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ultimo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lt)"
+      },
+      {
+        "type": "desc",
+        "text": "bulan yang baru lalu (disingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "akhirnya; kesudahannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ultimo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air pasang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air naik (tentang laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20pasang",
+  "related": [],
+  "detailed": false
+}

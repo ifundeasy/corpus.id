@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paragraf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian bab dalam suatu karangan (biasanya mengandung satu ide pokok dan penulisannya dimulai dengan garis baru); alinea;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paragraf",
+  "related": [],
+  "detailed": false
+}

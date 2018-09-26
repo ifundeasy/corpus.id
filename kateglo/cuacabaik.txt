@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuaca baik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tidak mendung dan tidak hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuaca%20baik",
+  "related": [],
+  "detailed": false
+}

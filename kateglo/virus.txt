@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "virus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mikroorganisme yang tidak dapat dilihat dengan menggunakan mikroskop biasa, hanya dapat dilihat dengan menggunakan mikroskop elektron, penyebab dan penular penyakit, seperti cacar, influenza, dan rabies;"
+      },
+      {
+        "type": "desc",
+        "text": "program ilegal yang dimasukkan ke dalam sistem komputer melalui jaringan atau disket sehingga menyebar dan dapat merusak program yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=virus",
+  "related": [],
+  "detailed": false
+}

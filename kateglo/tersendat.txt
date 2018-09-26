@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersendat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terhenti; tersumbat (saluran dsb); tersekat;"
+      },
+      {
+        "type": "desc",
+        "text": "tertegun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersendat",
+  "related": [],
+  "detailed": false
+}

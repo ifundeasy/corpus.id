@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "kutub negatif dari sel elektrolit;"
+      },
+      {
+        "type": "desc",
+        "text": "kutub positif sel primer atau baterai penyimpan (basah) yang mengalirkan arus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) elektrode yang bermuatan elektrik negatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katode",
+  "related": [],
+  "detailed": false
+}

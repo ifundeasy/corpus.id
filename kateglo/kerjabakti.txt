@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerja bakti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerja bergotong-royong tanpa upah (untuk kepentingan bersama);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kerja tanpa imbalan jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerja%20bakti",
+  "related": [],
+  "detailed": false
+}

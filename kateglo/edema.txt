@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "edema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pembengkakan jaringan karena kandungan cairannya bertambah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edema",
+  "related": [],
+  "detailed": false
+}

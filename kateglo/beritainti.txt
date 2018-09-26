@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita inti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang paling pokok atau penting; berita utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20inti",
+  "related": [],
+  "detailed": false
+}

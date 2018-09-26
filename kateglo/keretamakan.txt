@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta makan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerbong kereta api yang dipakai sebagai tempat makan (restoran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20makan",
+  "related": [],
+  "detailed": false
+}

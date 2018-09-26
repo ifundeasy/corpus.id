@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hoi",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk memanggil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hoi",
+  "related": [],
+  "detailed": false
+}

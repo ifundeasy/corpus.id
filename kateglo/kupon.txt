@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kupon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kecil atau karcis yang dapat ditukarkan dengan barang atau untuk membeli barang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kecil tanda mendapat bunga uang;"
+      },
+      {
+        "type": "desc",
+        "text": "surat kecil yang dapat disobek dari buku atau majalah untuk memesan barang dsb untuk memperoleh hadiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kupon",
+  "related": [],
+  "detailed": false
+}

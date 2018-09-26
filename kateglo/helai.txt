@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "helai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang tipis lebar (seperti daun, kertas); lembar;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk barang yang tipis atau halus (seperti kertas, kain, rambut, benang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=helai",
+  "related": [],
+  "detailed": false
+}

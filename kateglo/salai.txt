@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang dikeringkan di atas api (dipanggang atau diasapi);"
+      },
+      {
+        "type": "desc",
+        "text": "pisang yang dikeringkan dengan panas matahari atau di atas api (dipanggang atau diasapi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salai",
+  "related": [],
+  "detailed": false
+}

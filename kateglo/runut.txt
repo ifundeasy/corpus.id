@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "runut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jejak (bekas tapak kaki dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alur di tanah (bekas roda pedati dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=runut",
+  "related": [],
+  "detailed": false
+}

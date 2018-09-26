@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor muat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) besarnya ruangan yang diperlukan untuk menyimpan satu ton muatan tertentu yang dinyatakan dalam meter kubik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20muat",
+  "related": [],
+  "detailed": false
+}

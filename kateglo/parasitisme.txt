@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parasitisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan organisme yang hidup bersama-sama, tetapi hanya menguntungkan salah satu pihak;"
+      },
+      {
+        "type": "desc",
+        "text": "pengambilan makanan yang dilakukan oleh suatu organisme terhadap sel-sel organisme lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parasitisme",
+  "related": [],
+  "detailed": false
+}

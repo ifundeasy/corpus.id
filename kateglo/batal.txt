@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "batal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berlaku; tidak sah;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jadi dilangsungkan; ditunda; urung;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berhasil; gagal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batal",
+  "related": [],
+  "detailed": false
+}

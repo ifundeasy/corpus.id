@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organ tubuh yang terletak di bagian dada;"
+      },
+      {
+        "type": "desc",
+        "text": "organ tubuh yang terletak di dada wanita yang dapat menghasilkan makanan untuk bayi, berupa cairan; buah dada; payu dara; tetek;"
+      },
+      {
+        "type": "desc",
+        "text": "organ tubuh yang terletak di bagian perut atau dada (binatang) yang menghasilkan makanan untuk bayi, berupa cairan;"
+      },
+      {
+        "type": "desc",
+        "text": "air yang keluar dari buah dada, susu binatang;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan minuman, berupa cairan atau bubuk;"
+      },
+      {
+        "type": "link",
+        "text": "susu perada"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susu",
+  "related": [],
+  "detailed": false
+}

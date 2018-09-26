@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "indeks harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) bilangan indeks yang menggabungkan beberapa macam deret harga menjadi suatu deret yang mencerminkan taraf harga rata-rata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks%20harga",
+  "related": [],
+  "detailed": false
+}

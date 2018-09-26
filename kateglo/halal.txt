@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "diizinkan (tidak dilarang oleh syarak);"
+      },
+      {
+        "type": "desc",
+        "text": "(yang diperoleh atau diperbuat dengan) sah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) izin; ampun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halal",
+  "related": [],
+  "detailed": false
+}

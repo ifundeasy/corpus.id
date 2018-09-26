@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pelumas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang digunakan untuk mengurangi gesekan antara permukaan yang bersentuhan; bahan untuk melumaskan atau membuat menjadi licin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pelumas",
+  "related": [],
+  "detailed": false
+}

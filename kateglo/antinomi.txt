@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antinomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kenyataan yang kontroversial;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) pertentangan antara dua ayat dalam undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antinomi",
+  "related": [],
+  "detailed": false
+}

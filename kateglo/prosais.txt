@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prosais",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat prosa;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengungkapkan daya kreasi; boyak; menjemukan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang prosa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prosais",
+  "related": [],
+  "detailed": false
+}

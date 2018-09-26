@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berubah selama-lamanya; abadi; kekal;"
+      },
+      {
+        "type": "desc",
+        "text": "keluarga yang menurunkan;"
+      },
+      {
+        "type": "desc",
+        "text": "asal keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baka",
+  "related": [],
+  "detailed": false
+}

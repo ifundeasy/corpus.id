@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kursus tani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan pengajaran untuk para petani atau peternak dengan tujuan mempelajari suatu topik pembahasan atau teknik peternakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursus%20tani",
+  "related": [],
+  "detailed": false
+}

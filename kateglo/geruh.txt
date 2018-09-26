@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geruh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "celaka; malang; sial; nasib buruk;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "dengkur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geruh",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pusing",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "putar;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit kepala; pening;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan keseimbangan terganggu serasa keadaan sekitar berputar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak dapat berpikir (karena bingung tidak keruan, sedih, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusing",
+  "related": [],
+  "detailed": false
+}

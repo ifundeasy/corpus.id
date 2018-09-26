@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedap suara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat dimasuki suara; dapat meredam suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedap%20suara",
+  "related": [],
+  "detailed": false
+}

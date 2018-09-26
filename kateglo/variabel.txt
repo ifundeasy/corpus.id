@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "variabel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat berubah-ubah, berbeda-beda, bermacam-macam (tentang mutu, harga, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dapat berubah; faktor atau unsur yang ikut menentukan perubahan;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan bahasa yang paling terpengaruh oleh variasi sosial dan stilistis, dalam jangka panjang mudah berubah;"
+      },
+      {
+        "type": "desc",
+        "text": "kelas kata yang dapat menyatakan hubungan gramatikal dengan perubahan bentuk, dalam hal ini kelas nomina, verba, dan adjektiva;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=variabel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelataran (halaman) pada stasiun kereta api, tempat penumpang menunggu atau tempat turun naik kereta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peron",
+  "related": [],
+  "detailed": false
+}

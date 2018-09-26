@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ihsan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "baik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "derma dsb yang tidak diwajibkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ihsan",
+  "related": [],
+  "detailed": false
+}

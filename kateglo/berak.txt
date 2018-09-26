@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "terberak"
+      },
+      {
+        "type": "link",
+        "text": "terberak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berak",
+  "related": [],
+  "detailed": false
+}

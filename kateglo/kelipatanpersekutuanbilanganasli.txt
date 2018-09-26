@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelipatan persekutuan bilangan asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan asli terkecil yang habis dibagi oleh setiap bilangan tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelipatan%20persekutuan%20bilangan%20asli",
+  "related": [],
+  "detailed": false
+}

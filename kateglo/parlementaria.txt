@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parlementaria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(berita) yang berhubungan dengan parlemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parlementaria",
+  "related": [],
+  "detailed": false
+}

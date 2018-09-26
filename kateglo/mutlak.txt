@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mutlak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai segenapnya (segalanya); seutuhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "tiada terbatas; penuh;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak boleh tidak; harus ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mutlak",
+  "related": [],
+  "detailed": false
+}

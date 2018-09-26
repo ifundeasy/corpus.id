@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegentingan (situasi);"
+      },
+      {
+        "type": "desc",
+        "text": "kekritisan (tentang kesehatan); kesulitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegawatan",
+  "related": [],
+  "detailed": false
+}

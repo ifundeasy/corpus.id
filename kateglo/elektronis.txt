@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektronis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan elektron;"
+      },
+      {
+        "type": "desc",
+        "text": "ada hubungannya atau bersangkutan dengan elektronika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektronis",
+  "related": [],
+  "detailed": false
+}

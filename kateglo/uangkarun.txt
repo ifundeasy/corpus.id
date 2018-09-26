@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang karun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang termasuk harta karun;"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang diperoleh dengan jalan yang tidak halal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20karun",
+  "related": [],
+  "detailed": false
+}

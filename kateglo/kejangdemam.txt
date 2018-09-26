@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejang demam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) kejang yang timbul ketika suhu badan meningkat (sangat tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejang%20demam",
+  "related": [],
+  "detailed": false
+}

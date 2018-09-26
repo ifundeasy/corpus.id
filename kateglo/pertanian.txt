@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bertani (mengusahakan tanah dengan tanam-menanam);"
+      },
+      {
+        "type": "desc",
+        "text": "segala yang bertalian dengan tanam-menanam (pengusahaan tanah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanian",
+  "related": [],
+  "detailed": false
+}

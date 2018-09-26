@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berderet",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersusun (dalam bentuk garis lurus) teratur;"
+      },
+      {
+        "type": "desc",
+        "text": "merupakan deret yang panjang (berjajar atau beruntun-runtun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berderet",
+  "related": [],
+  "detailed": false
+}

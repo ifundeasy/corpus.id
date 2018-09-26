@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perekam pita video",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengulangan kembali secara langsung suatu rekaman suara dan gambar secara bersamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perekam%20pita%20video",
+  "related": [],
+  "detailed": false
+}

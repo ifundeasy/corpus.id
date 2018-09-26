@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keliwon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai pamong desa di bawah kuwu (di daerah Cirebon);"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai keraton Surakarta atau Yogyakarta setingkat di bawah bupati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keliwon",
+  "related": [],
+  "detailed": false
+}

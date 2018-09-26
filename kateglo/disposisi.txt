@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm)"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat seorang pejabat mengenai urusan yang termuat dalam suatu surat dinas, yang langsung dituliskan pada surat yang bersangkutan atau pada lembar khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) kecenderungan untuk mendapatkan suatu penyakit, kelainan temperamen atau kelainan watak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disposisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) waktu (sebagai kategori semantis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempus",
+  "related": [],
+  "detailed": false
+}

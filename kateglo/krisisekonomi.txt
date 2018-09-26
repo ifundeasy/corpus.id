@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "krisis ekonomi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kemerosotan dalam kegiatan ekonomi yang dapat menimbulkan depresi, sebagai akibat dari kepekaan konjungtur ekonomi bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krisis%20ekonomi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis bujur angkasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) garis lingkaran besar di bola angkasa yang melalui kutub angkasa dan zenit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20bujur%20angkasa",
+  "related": [],
+  "detailed": false
+}

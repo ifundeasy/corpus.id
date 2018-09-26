@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis lambung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan yang dilakukan terhadap isi lambung makhluk hidup dengan tujuan mengetahui pola makannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20lambung",
+  "related": [],
+  "detailed": false
+}

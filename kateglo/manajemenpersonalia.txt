@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajemen personalia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manajemen yang menyangkut pengerahan dan seleksi karyawan, uraian tugas, pendidikan, pelatihan, dan pengembangannya, hubungan majikan dengan karyawannya, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajemen%20personalia",
+  "related": [],
+  "detailed": false
+}

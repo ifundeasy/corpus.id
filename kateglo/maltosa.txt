@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maltosa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "gula kristal yang dapat memuai, terbuat dari pati;"
+      },
+      {
+        "type": "desc",
+        "text": "disakarida hablur putih yang terbentuk bila kanji dihidrolisis oleh amilase; C12H22O11.H2O;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maltosa",
+  "related": [],
+  "detailed": false
+}

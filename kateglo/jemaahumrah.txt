@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jemaah umrah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rombongan yang menunaikan ibadah umrah (ke Mekah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemaah%20umrah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mainan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk bermain; barang yang dipermainkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perhiasan tambahan (seperti medalion pada kalung; benda-benda kecil pada ikat pinggang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mainan",
+  "related": [],
+  "detailed": false
+}

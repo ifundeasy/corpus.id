@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang dirancang khusus untuk mengamati keadaan cuaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20cuaca",
+  "related": [],
+  "detailed": false
+}

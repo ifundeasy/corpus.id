@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panas tubuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suhu tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panas%20tubuh",
+  "related": [],
+  "detailed": false
+}

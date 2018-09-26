@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kotak suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak dalam pemilihan calon anggota DPR (lurah, dsb) kotak tempat memasukkan lembaran yang sudah diisi oleh pemilih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak%20suara",
+  "related": [],
+  "detailed": false
+}

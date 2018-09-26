@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "belam api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puntung api yang tidak dipadamkan (untuk persediaan api);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belam%20api",
+  "related": [],
+  "detailed": false
+}

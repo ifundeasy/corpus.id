@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "substitusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggantian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) penggantian atom atau gugus atom dalam suatu molekul oleh atom atau gugus atom lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) proses atau hasil penggantian unsur bahasa oleh unsur lain dalam satuan yang lebih besar untuk memperoleh unsur pembeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=substitusi",
+  "related": [],
+  "detailed": false
+}

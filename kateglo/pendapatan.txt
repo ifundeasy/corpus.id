@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil kerja (usaha dsb); pencarian;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) penemuan (tentang sesuatu yang tidak ada sebelumnya);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan",
+  "related": [],
+  "detailed": false
+}

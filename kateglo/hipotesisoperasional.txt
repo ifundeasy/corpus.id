@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis operasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumusan mengenai langkah-langkah yang perlu diambil dalam menanggapi permasalahan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20operasional",
+  "related": [],
+  "detailed": false
+}

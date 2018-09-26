@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dewan menteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang beranggota para menteri dengan tugas memberikan nasihat kepada presiden; kabinet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan%20menteri",
+  "related": [],
+  "detailed": false
+}

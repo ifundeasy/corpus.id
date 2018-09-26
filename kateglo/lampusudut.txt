@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang diletakkan di sudut ruangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20sudut",
+  "related": [],
+  "detailed": false
+}

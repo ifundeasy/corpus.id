@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertutur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat ditutur(kan); tidak sengaja menutur(kan); terucap(kan); terlafal(kan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertutur",
+  "related": [],
+  "detailed": false
+}

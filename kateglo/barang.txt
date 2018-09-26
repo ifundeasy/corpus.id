@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda umum (segala sesuatu yang berwujud atau berjasad);"
+      },
+      {
+        "type": "desc",
+        "text": "semua perkakas rumah, perhiasan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bagasi; muatan (kereta api dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "muatan selain manusia atau ternak;"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit banyak; sekadar; kira-kira;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) mudah-mudahan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata yang digunakan untuk menambah ketidakpastian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang",
+  "related": [],
+  "detailed": false
+}

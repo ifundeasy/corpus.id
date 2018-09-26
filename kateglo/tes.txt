@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian tertulis, lisan, atau wawancara untuk mengetahui pengetahuan, kemampuan, bakat, dan kepribadian seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "percobaan untuk menguji kelaikan jalan suatu kendaraan bermotor umum; uji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes",
+  "related": [],
+  "detailed": false
+}

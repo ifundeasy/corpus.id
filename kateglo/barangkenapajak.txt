@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang kena pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang hasil pengolahan yang menurut sifat atau hukumnya dapat berupa barang bergerak atau barang tidak bergerak, semuanya dikenakan pajak pertambahan nilai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20kena%20pajak",
+  "related": [],
+  "detailed": false
+}

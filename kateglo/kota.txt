@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah permukiman yang terdiri atas bangunan rumah yang merupakan kesatuan tempat tinggal dari berbagai lapisan masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dem) daerah pemusatan penduduk dengan kepadatan tinggi serta fasilitas modern dan sebagian besar penduduknya bekerja di luar pertanian;"
+      },
+      {
+        "type": "desc",
+        "text": "dinding (tembok) yang mengelilingi tempat pertahanan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengotakan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kota",
+  "related": [],
+  "detailed": false
+}

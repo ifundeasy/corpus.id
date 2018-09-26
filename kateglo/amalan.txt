@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "amalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (baik);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan, bacaan yang harus dikerjakan dalam rangkaian ibadah, seperti dalam ibadah haji dan salat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amalan",
+  "related": [],
+  "detailed": false
+}

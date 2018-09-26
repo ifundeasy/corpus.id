@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akal busuk; tipu muslihat;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (usaha) dengan maksud hendak menyerang (membunuh) orang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (usaha) menjatuhkan pemerintah yang sah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kaku dan keras (tentang buah-buahan); bangkar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makar",
+  "related": [],
+  "detailed": false
+}

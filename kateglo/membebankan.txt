@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membebankan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memuatkan sebagai beban;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerahkan sebagai kewajiban (tanggungan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meletakkan kesalahan dsb kepada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membebankan",
+  "related": [],
+  "detailed": false
+}

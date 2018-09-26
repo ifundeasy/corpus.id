@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara bagian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang menjadi anggota negara serikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20bagian",
+  "related": [],
+  "detailed": false
+}

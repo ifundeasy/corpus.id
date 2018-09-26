@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras lembap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras basah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20lembap",
+  "related": [],
+  "detailed": false
+}

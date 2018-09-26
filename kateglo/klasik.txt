@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klasik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai nilai atau mutu yang diakui dan menjadi tolok ukur kesempurnaan yang abadi; tertinggi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "karya sastra yang bernilai tinggi serta langgeng dan sering dijadikan tolok ukur atau karya susastra zaman kuno yang bernilai kekal;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat seperti seni klasik, yaitu sederhana, serasi, dan tidak berlebihan;"
+      },
+      {
+        "type": "desc",
+        "text": "termasyhur karena bersejarah;"
+      },
+      {
+        "type": "desc",
+        "text": "tradisional dan indah (tentang potongan pakaian, kesenian, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klasik",
+  "related": [],
+  "detailed": false
+}

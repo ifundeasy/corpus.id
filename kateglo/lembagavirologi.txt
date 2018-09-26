@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaga Virologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga yang menyelidiki virus atau penyakit yang ditimbulkan oleh virus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga%20Virologi",
+  "related": [],
+  "detailed": false
+}

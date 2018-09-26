@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersenam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan senam;"
+      },
+      {
+        "type": "desc",
+        "text": "berlatih gerak badan (gimnastik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersenam",
+  "related": [],
+  "detailed": false
+}

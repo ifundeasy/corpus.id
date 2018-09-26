@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reasuransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengasuransian balik (oleh perusahaan asuransi) atas sesuatu yang telah diasuransikan oleh pihak lain (kepada perusahaan asuransi tersebut) kepada perusahaan asuransi lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reasuransi",
+  "related": [],
+  "detailed": false
+}

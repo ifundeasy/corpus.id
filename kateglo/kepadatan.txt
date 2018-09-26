@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) padat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ikn) jumlah ikan atau organisme lainnya dalam satuan volume atau luasan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prangko amal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prangko yang harga pembeliannya untuk amal (derma dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prangko%20amal",
+  "related": [],
+  "detailed": false
+}

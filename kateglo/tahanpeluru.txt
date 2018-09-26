@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahan peluru",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat ditembus peluru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahan%20peluru",
+  "related": [],
+  "detailed": false
+}

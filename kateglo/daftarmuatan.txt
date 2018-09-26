@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar muatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) daftar yang memuat jenis barang, jumlah, dan berat koli, pelabuhan yang akan dituju dan muatan yang akan dikapalkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20muatan",
+  "related": [],
+  "detailed": false
+}

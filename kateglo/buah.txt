@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tumbuhan yang berasal dari bunga atau putik (biasanya berbiji);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bermacam-macam benda;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok; bahan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah",
+  "related": [],
+  "detailed": false
+}

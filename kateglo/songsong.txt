@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "songsong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlawanan arah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "payung kebesaran;"
+      },
+      {
+        "type": "desc",
+        "text": "nama ikan laut;"
+      },
+      {
+        "type": "desc",
+        "text": "nama siput;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=songsong",
+  "related": [],
+  "detailed": false
+}

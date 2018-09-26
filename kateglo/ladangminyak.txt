@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ladang minyak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawasan yang menjadi sumber pengusahaan minyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ladang%20minyak",
+  "related": [],
+  "detailed": false
+}

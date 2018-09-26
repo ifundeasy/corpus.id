@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun klimatologi utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun klimatologi yang melakukan pencatatan data setiap jam atau melakukan pengamatan sekurang-kurangnya tiga kali dalam sehari sebagai tambahan data yang diperoleh perekam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20klimatologi%20utama",
+  "related": [],
+  "detailed": false
+}

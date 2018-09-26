@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ajaib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ganjil; aneh; jarang ada; tidak seperti biasa; mengherankan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas, cak) sesuatu yang aneh; keheranan; yang tidak dapat diterangkan dengan akal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) anyaman yang terjadi pada gumpalan ginjal yang arteri darahnya berubah menjadi kapiler, kemudian bersatu kembali menjadi arteri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ajaib",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengensel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meniadakan; menghapuskan; membatalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menunda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengensel",
+  "related": [],
+  "detailed": false
+}

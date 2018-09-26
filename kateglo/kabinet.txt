@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabinet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan atau dewan pemerintahan yang terdiri atas para menteri;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor kerja (terutama bagi presiden, perdana menteri, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lemari kecil tempat menyimpan surat-surat (dokumen dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "peti kecil mesin ketik (mesin jahit dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabinet",
+  "related": [],
+  "detailed": false
+}

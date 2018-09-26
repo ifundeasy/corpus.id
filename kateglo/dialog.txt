@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dialog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "percakapan (dalam sandiwara, cerita, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "karya tulis yang disajikan dalam bentuk percakapan antara dua tokoh atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialog",
+  "related": [],
+  "detailed": false
+}

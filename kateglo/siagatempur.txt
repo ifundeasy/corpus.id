@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaga tempur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keadaan yang dinyatakan oleh komandan satuan tembak bahwa pasukannya siap dan mampu melepaskan tembakan secara efektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaga%20tempur",
+  "related": [],
+  "detailed": false
+}

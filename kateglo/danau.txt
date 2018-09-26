@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "danau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "genangan air yang amat luas, dikelilingi daratan; telaga; tasik;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendanau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=danau",
+  "related": [],
+  "detailed": false
+}

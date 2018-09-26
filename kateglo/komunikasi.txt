@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman dan penerimaan pesan atau berita antara dua orang atau lebih sehingga pesan yang dimaksud dapat dipahami; hubungan; kontak;"
+      },
+      {
+        "type": "desc",
+        "text": "perhubungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunikasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prasekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenjang (tingkat) sekolah sebelum sekolah dasar; taman kanak-kanak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prasekolah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dinas meteorologi penerbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dinas meteorologi yang bertanggung jawab atas penyediaan informasi meteorologi atau prakiraan cuaca yang diperlakukan untuk penerbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinas%20meteorologi%20penerbangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jembatan angkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jembatan sungai dsb yang dapat diangkat dan diturunkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jembatan%20angkat",
+  "related": [],
+  "detailed": false
+}

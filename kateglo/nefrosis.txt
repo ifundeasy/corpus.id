@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nefrosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit ginjal dengan gejala edema, protein dalam urine, perubahan susunan kimia darah berupa kadar kolesterol meningkat, dan kadar albumin merendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nefrosis",
+  "related": [],
+  "detailed": false
+}

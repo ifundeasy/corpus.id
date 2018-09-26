@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat izin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang berisi keterangan bahwa pemegang surat itu diberi izin melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20izin",
+  "related": [],
+  "detailed": false
+}

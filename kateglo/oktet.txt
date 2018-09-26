@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oktet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "gubahan lagu delapan suara;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pemain musik yang terdiri atas delapan orang, masing-masing memegang peranan yang sederajat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oktet",
+  "related": [],
+  "detailed": false
+}

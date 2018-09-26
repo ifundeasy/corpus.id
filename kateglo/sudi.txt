@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sudi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersedia (akan);"
+      },
+      {
+        "type": "desc",
+        "text": "berkenan (akan); tidak enggan; mau; suka;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "sudi siasat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bujur sangkar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang sama sisi dan sama sudut (90o);"
+      },
+      {
+        "type": "desc",
+        "text": "persegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bujur%20sangkar",
+  "related": [],
+  "detailed": false
+}

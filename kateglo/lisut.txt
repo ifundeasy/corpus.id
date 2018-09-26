@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lisut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kisut; berkerut-kerut;"
+      },
+      {
+        "type": "desc",
+        "text": "layu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lisut",
+  "related": [],
+  "detailed": false
+}

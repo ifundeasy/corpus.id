@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merenung"
+      },
+      {
+        "type": "link",
+        "text": "merenung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renung",
+  "related": [],
+  "detailed": false
+}

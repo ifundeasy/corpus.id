@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taharah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "suci; bersih;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl) kesucian badan yang diwajibkan bagi orang yang beribadat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taharah",
+  "related": [],
+  "detailed": false
+}

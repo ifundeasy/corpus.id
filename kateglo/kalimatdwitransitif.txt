@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat dwitransitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kalimat yang mempunyai objek dan pelengkap atau keterangan yang wajib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20dwitransitif",
+  "related": [],
+  "detailed": false
+}

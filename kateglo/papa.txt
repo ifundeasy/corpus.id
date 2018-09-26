@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "papa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miskin; sengsara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hin) terbelenggu oleh indria dan tidak lagi ingat akan hakikatnya sebagai manusia; berdosa;"
+      },
+      {
+        "type": "desc",
+        "text": "ayah; bapak;"
+      },
+      {
+        "type": "desc",
+        "text": "sapaan (panggilan) kepada orang tua laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ambal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permadani;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berambal-ambalan"
+      },
+      {
+        "type": "link",
+        "text": "mengambal"
+      },
+      {
+        "type": "link",
+        "text": "mengambal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambal",
+  "related": [],
+  "detailed": false
+}

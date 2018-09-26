@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang (dapat) diharapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "keinginan supaya menjadi kenyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang diharapkan atau dipercaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harapan",
+  "related": [],
+  "detailed": false
+}

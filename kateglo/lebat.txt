@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lebat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbuah banyak (tentang pohon);"
+      },
+      {
+        "type": "desc",
+        "text": "tebal dan rapat sekali (tentang rambut, daun, hutan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "deras dan banyak (tentang hujan, embun, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebat",
+  "related": [],
+  "detailed": false
+}

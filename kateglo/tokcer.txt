@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tokcer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "baik; bagus (tentang mesin, mobil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "manjur; mujarab;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) subur (mudah hamil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tokcer",
+  "related": [],
+  "detailed": false
+}

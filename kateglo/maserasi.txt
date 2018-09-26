@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maserasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pelunakan suatu benda karena suatu cairan;"
+      },
+      {
+        "type": "desc",
+        "text": "pelunakan jaringan karena terendam dalam cairan, terutama cairan asam, sehingga jaringan pengikat melarut dan bagian jaringan dapat dipisahkan (dalam histologi);"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan degenerasi yang menyebabkan perubahan warna, pelunakan jaringan, disintegrasi janin yang masih dalam rahim setelah mati (dalam obstetri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maserasi",
+  "related": [],
+  "detailed": false
+}

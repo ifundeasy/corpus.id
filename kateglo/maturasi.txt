@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maturasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses menjadi dewasa (matang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maturasi",
+  "related": [],
+  "detailed": false
+}

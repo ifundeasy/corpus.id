@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lampang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "berlampang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang terdapat pada bagian tubuh atau organ yang diakibatkan oleh luka; bekas melekatnya suatu bagian tumbuhan (daun) atau otot, dapat berupa tanda alami atau buatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampang",
+  "related": [],
+  "detailed": false
+}

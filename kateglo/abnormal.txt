@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abnormal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sesuai dengan keadaan yang biasa; mempunyai kelainan; tidak normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abnormal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat pemilih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20suara",
+  "related": [],
+  "detailed": false
+}

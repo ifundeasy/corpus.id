@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rambang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tetap hati (tujuan); ragu-ragu;"
+      },
+      {
+        "type": "desc",
+        "text": "seadanya saja; acak; umum;"
+      },
+      {
+        "type": "link",
+        "text": "merambang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rambang",
+  "related": [],
+  "detailed": false
+}

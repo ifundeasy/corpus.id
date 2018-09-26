@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karoseri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penutup kerangka mobil; bagian utama badan mobil;"
+      },
+      {
+        "type": "desc",
+        "text": "penutup kerangka pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karoseri",
+  "related": [],
+  "detailed": false
+}

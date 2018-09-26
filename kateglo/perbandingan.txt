@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbandingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbedaan (selisih) kesamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "persamaan; ibarat;"
+      },
+      {
+        "type": "desc",
+        "text": "pedoman pertimbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbandingan",
+  "related": [],
+  "detailed": false
+}

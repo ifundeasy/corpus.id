@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari bab; artikel (dalam undang-undang);"
+      },
+      {
+        "type": "desc",
+        "text": "hal; perkara; pokok pembicaraan (perselisihan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sebab; lantaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasal",
+  "related": [],
+  "detailed": false
+}

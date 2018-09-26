@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atmosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan udara yang menyelubungi bumi sampai ketinggian 300 km (terutama terdiri atas campuran berbagai gas, yaitu nitrogen, oksigen, argon, dan sejumlah kecil gas lain);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan tekanan yang besarnya sama dengan tekanan udara pada permukaan laut (1,033 kg setiap cm2);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) suasana perasaan yang bersifat imajinatif dalam naskah drama yang diciptakan oleh pengarangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atmosfer",
+  "related": [],
+  "detailed": false
+}

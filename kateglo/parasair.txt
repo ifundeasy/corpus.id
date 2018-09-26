@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paras air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permukaan air yang digunakan dalam pengukuran ketinggian suatu titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paras%20air",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stratus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan awan tipis yang dekat pada permukaan bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "awan tinggi yang terdapat pada ketinggian 3000—5000 m di daerah kutub, 5000—13000 m di daerah sedang, dan 6000—18000 m di daerah tropis;"
+      },
+      {
+        "type": "desc",
+        "text": "genus awan yang berbentuk lembaran yang berlapis-lapis dan membentang mendatar, biasanya berwarna abu-abu dan dapat menyebabkan hujan gerimis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stratus",
+  "related": [],
+  "detailed": false
+}

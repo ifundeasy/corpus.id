@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tasbih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "pembacaan puji-pujian kepada Allah dengan mengucap subhanallah 'Mahasuci Allah' atau subhana rabbiyal ?zim (a'la) 'segala kemuliaan bagi Tuhanku Yang Mahabesar (Mahatinggi)';"
+      },
+      {
+        "type": "desc",
+        "text": "untaian butir manik-manik yang dipakai untuk menghitung ucapan tahlil, tasbih, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tanaman hias berbunga besar, pelepah daunnya seperti pohon pisang, bunganya beraneka ragam, berwarna merah tua, kuning, berbintik-bintik merah, merah muda, dsb; Canna orientalis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tasbih",
+  "related": [],
+  "detailed": false
+}

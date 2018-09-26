@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gas ikutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) gas yang terlarut dan dihasilkan bersama-sama dengan minyak bumi dari instalasi perminyakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gas%20ikutan",
+  "related": [],
+  "detailed": false
+}

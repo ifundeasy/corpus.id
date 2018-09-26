@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persamaan; tara; imbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) pertimbangan pemeriksaan ulang terhadap putusan pengadilan oleh pengadilan yang lebih tinggi atas permintaan terdakwa atau jaksa naik apel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banding",
+  "related": [],
+  "detailed": false
+}

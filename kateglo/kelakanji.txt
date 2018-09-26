@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelakanji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang berbatang ramping, tumbuh di sela-sela rumput, berkhasiat untuk obat disentri;"
+      },
+      {
+        "type": "desc",
+        "text": "daun kela kanji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelakanji",
+  "related": [],
+  "detailed": false
+}

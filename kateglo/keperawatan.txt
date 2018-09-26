@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keperawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang berkaitan dengan perawat;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal cara merawat orang yang sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keperawatan",
+  "related": [],
+  "detailed": false
+}

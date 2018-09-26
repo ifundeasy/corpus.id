@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan mentah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang belum diolah dan dapat digunakan dalam proses produksi; bahan baku; bahan dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20mentah",
+  "related": [],
+  "detailed": false
+}

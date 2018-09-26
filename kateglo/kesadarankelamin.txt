@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesadaran kelamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesadaran seseorang akan jenis kelaminnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesadaran%20kelamin",
+  "related": [],
+  "detailed": false
+}

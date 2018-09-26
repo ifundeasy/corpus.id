@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stok penyangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persediaan barang yang digunakan apabila sediaan sudah habis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stok%20penyangga",
+  "related": [],
+  "detailed": false
+}

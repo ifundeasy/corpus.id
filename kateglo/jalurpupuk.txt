@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur pupuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) penempatan pupuk dalam jalur sempit sepanjang deretan tanaman pada jarak tertentu setelah pupuk ditempatkan dalam tanah, biasanya pupuk itu langsung ditimbun dan tidak diaduk dengan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20pupuk",
+  "related": [],
+  "detailed": false
+}

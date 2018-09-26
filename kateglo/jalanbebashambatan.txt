@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan bebas hambatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan besar yang tidak ada hambatan (misal tidak dihambat oleh lampu lalu lintas di perempatan); jalan tol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20bebas%20hambatan",
+  "related": [],
+  "detailed": false
+}

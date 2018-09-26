@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjanjian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persetujuan (tertulis atau dengan lisan) yang dibuat oleh dua pihak atau lebih, masing-masing bersepakat akan menaati apa yang tersebut dalam persetujuan itu;"
+      },
+      {
+        "type": "desc",
+        "text": "syarat;"
+      },
+      {
+        "type": "desc",
+        "text": "tenggang waktu; tempo;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) persetujuan resmi antara dua negara atau lebih dalam bidang keamanan, perdagangan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) persetujuan antara dua orang atau lebih, dalam bentuk tertulis yang dibubuhi materai, yang meliputi hak dan kewajiban timbal balik, masing-masing pihak menerima tembusan perjanjian itu sebagai tanda bukti keikutsertaannya dalam perjanjian itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjanjian",
+  "related": [],
+  "detailed": false
+}

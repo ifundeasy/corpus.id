@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan pengumuman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan untuk mengumumkan hal-hal yang perlu diketahui oleh banyak orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20pengumuman",
+  "related": [],
+  "detailed": false
+}

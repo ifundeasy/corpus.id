@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pertama",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "kesatu;"
+      },
+      {
+        "type": "desc",
+        "text": "mula-mula;"
+      },
+      {
+        "type": "desc",
+        "text": "terutama; terpenting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertama",
+  "related": [],
+  "detailed": false
+}

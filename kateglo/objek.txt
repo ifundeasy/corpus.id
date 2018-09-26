@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "objek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal, perkara, atau orang yang menjadi pokok pembicaraan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) benda, hal, dsb yang dijadikan sasaran untuk diteliti, diperhatikan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) nomina yang melengkapi verba transitif dalam klausa, misal teh manis dalam kalimat Kiki minum teh manis;"
+      },
+      {
+        "type": "desc",
+        "text": "hal atau benda yang menjadi sasaran usaha sambilan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) titik atau himpunan yang bertindak sebagai sumber cahaya bagi suatu lensa, cermin, atau bagi suatu sistem lensa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=objek",
+  "related": [],
+  "detailed": false
+}

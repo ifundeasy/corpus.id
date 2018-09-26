@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mencari;"
+      },
+      {
+        "type": "desc",
+        "text": "pekerjaan dsb yang menjadi pokok penghidupan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencarian",
+  "related": [],
+  "detailed": false
+}

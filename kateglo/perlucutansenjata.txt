@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlucutan senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penanggalan senjata oleh pihak yang berwajib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlucutan%20senjata",
+  "related": [],
+  "detailed": false
+}

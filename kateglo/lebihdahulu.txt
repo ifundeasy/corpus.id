@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebih dahulu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sebelumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "mula-mula; pertama-tama; paling awal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebih%20dahulu",
+  "related": [],
+  "detailed": false
+}

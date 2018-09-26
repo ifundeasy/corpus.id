@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pawai senjata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian upacara penghormatan kepada inspektur upacara dengan memamerkan kekuatan senjata dalam pawai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pawai%20senjata",
+  "related": [],
+  "detailed": false
+}

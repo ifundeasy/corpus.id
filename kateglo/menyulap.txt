@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyulap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengubah rupa barang dsb dengan cara yang ajaib; bermain sulap;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mengubah sesuatu dengan cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menggelapkan (uang, barang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) memalsukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyulap",
+  "related": [],
+  "detailed": false
+}

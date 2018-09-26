@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bundel surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan surat yang diikat menjadi satu atau dijilid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bundel%20surat",
+  "related": [],
+  "detailed": false
+}

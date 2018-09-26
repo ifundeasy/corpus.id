@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyandang gelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memiliki gelar; orang yang bergelar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyandang%20gelar",
+  "related": [],
+  "detailed": false
+}

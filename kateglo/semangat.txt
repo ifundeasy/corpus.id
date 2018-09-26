@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semangat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "roh kehidupan yang menjiwai segala makhluk, baik hidup maupun mati (menurut kepercayaan orang dulu dapat memberi kekuatan);"
+      },
+      {
+        "type": "desc",
+        "text": "seluruh kehidupan batin manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "isi dan maksud yang tersirat dalam suatu kalimat (perbuatan, perjanjian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kekuatan (kegembiraan, gairah) batin;"
+      },
+      {
+        "type": "desc",
+        "text": "perasaan hati;"
+      },
+      {
+        "type": "desc",
+        "text": "nafsu (kemauan, gairah) untuk bekerja, berjuang, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semangat",
+  "related": [],
+  "detailed": false
+}

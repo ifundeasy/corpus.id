@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan pintas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang lebih dekat (untuk sampai ke tempat tujuan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) cara bertindak yang tidak mengikuti aturan (hukum); terobosan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20pintas",
+  "related": [],
+  "detailed": false
+}

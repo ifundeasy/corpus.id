@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pepton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil hidrolisis dari protein yang dapat larut dalam air;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan yang telah dicerna atau dihancurkan oleh pepsin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pepton",
+  "related": [],
+  "detailed": false
+}

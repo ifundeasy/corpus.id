@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengucap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengucapkan; penutur; pemakai bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengucapkan perkataan dsb (yaitu mulut dan bagian-bagiannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengucap",
+  "related": [],
+  "detailed": false
+}

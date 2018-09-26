@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heteronimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan antara heteronim-heteronim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heteronimi",
+  "related": [],
+  "detailed": false
+}

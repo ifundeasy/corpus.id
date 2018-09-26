@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) taksiran ongkos secermat-cermatnya berdasarkan operasi normal, sebagai pembanding ongkos nyata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20standar",
+  "related": [],
+  "detailed": false
+}

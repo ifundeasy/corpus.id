@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembebasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membebaskan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal membebaskan terdakwa dari hukuman karena tidak terbukti kesalahannya (dinyatakan dengan putusan hakim);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembebasan",
+  "related": [],
+  "detailed": false
+}

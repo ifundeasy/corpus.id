@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jahanam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "terkutuk; jahat sekali;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "celaka; binasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "laut api tempat menyiksa di akhirat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jahanam",
+  "related": [],
+  "detailed": false
+}

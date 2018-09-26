@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "julur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjulur"
+      },
+      {
+        "type": "link",
+        "text": "menjulur"
+      },
+      {
+        "type": "link",
+        "text": "julur-julur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=julur",
+  "related": [],
+  "detailed": false
+}

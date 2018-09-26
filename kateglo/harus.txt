@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harus",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "patut;"
+      },
+      {
+        "type": "desc",
+        "text": "wajib; mesti (tidak boleh tidak);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "boleh dilakukan dan boleh juga ditinggalkan; jaiz; mubah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harus",
+  "related": [],
+  "detailed": false
+}

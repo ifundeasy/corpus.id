@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebilang hari",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "setiap hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebilang%20hari",
+  "related": [],
+  "detailed": false
+}

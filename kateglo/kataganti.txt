@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata ganti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pronomina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20ganti",
+  "related": [],
+  "detailed": false
+}

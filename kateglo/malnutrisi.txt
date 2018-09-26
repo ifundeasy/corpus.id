@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malnutrisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) malagizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malnutrisi",
+  "related": [],
+  "detailed": false
+}

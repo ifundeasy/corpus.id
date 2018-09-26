@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terkena hama; kemasukan bibit penyakit; ketularan penyakit; peradangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) pengembangan pe-nyakit (parasit) dalam tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infeksi",
+  "related": [],
+  "detailed": false
+}

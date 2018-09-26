@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genius",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkemampuan (berbakat) luar biasa dalam berpikir dan mencipta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genius",
+  "related": [],
+  "detailed": false
+}

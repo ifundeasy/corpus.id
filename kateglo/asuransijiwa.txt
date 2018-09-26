@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanggungan jiwa (tentang kematian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20jiwa",
+  "related": [],
+  "detailed": false
+}

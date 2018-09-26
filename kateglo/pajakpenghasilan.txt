@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak penghasilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak pendapatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20penghasilan",
+  "related": [],
+  "detailed": false
+}

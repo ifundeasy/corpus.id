@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bintara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam ketentaraan, satu tingkat di bawah kelompok perwira pertama dan satu tingkat di atas kelompok tamtama, meliputi pembantu letnan satu, pembantu letnan dua, sersan mayor, sersan kepala, sersan satu, dan sersan dua;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam kepolisian, satu tingkat di bawah kelompok bintara tinggi dan satu tingkat di atas kelompok tamtama, meliputi sersan mayor polisi, sersan kepala polisi, sersan satu polisi, dan sersan dua polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bintara",
+  "related": [],
+  "detailed": false
+}

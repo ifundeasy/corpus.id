@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan praktis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang dibuat dari bahan alami yang mudah didapat, seperti padi-padian, daging, dan limbah daging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20praktis",
+  "related": [],
+  "detailed": false
+}

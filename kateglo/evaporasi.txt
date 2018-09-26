@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evaporasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses yang terjadi apabila jumlah molekul yang keluar dari permukaan lebih besar daripada jumlah yang kembali ke permukaan air;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) proses perubahan molekul zat cair menjadi gas atau uap air; penguapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evaporasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkulitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyamak kulit;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha penyamakan kulit;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal kulit yang diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkulitan",
+  "related": [],
+  "detailed": false
+}

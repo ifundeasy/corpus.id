@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantong besar dari goni yang kasar (untuk tempat beras dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) kantong pakan yang mempunyai volume tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karung",
+  "related": [],
+  "detailed": false
+}

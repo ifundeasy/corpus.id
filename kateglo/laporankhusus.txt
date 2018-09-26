@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan yang dibuat karena diminta atasan atau karena keperluan mendadak yang berhubungan dengan kejadian yang luar biasa atau khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20khusus",
+  "related": [],
+  "detailed": false
+}

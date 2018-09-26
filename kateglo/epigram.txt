@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epigram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "syair atau ungkapan pendek yang mengandung gagasan atau peristiwa yang diakhiri dengan pernyataan menarik dan biasanya merupakan sindiran;"
+      },
+      {
+        "type": "desc",
+        "text": "peribahasa yang padat dan penuh kearifan dan sering mengandung paradoks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epigram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola intonasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pola dalam ujaran yang terjadi dari satu kelompok jeda atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20intonasi",
+  "related": [],
+  "detailed": false
+}

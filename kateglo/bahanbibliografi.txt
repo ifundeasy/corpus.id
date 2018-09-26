@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan bibliografi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "karangan dalam terbitan berkala atau laporan teknis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20bibliografi",
+  "related": [],
+  "detailed": false
+}

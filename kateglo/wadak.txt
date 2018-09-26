@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wadak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat jasmani; ragawi;"
+      },
+      {
+        "type": "desc",
+        "text": "nyata;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) perpisahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wadak",
+  "related": [],
+  "detailed": false
+}

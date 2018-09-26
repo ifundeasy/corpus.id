@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "coba",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "silakan; sudilah; tolong (untuk menghaluskan suruhan atau ajakan);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata afektif untuk menyatakan perasaan jengkel dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "seandainya; jika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=coba",
+  "related": [],
+  "detailed": false
+}

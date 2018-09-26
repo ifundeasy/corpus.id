@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kementerian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan (urusan) negara yang dipegang oleh seorang menteri;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaga atau kantor tempat mengurusi pekerjaan menteri; departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kementerian",
+  "related": [],
+  "detailed": false
+}

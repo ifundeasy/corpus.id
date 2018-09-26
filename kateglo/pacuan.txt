@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pacuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan berlari; balapan;"
+      },
+      {
+        "type": "desc",
+        "text": "gelanggang tempat berpacu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pacuan",
+  "related": [],
+  "detailed": false
+}

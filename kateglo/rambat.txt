@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rambat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merambat"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) tempat atau bagian rumah yang lebih tinggi sedikit biasanya untuk tempat menerima tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rambat",
+  "related": [],
+  "detailed": false
+}

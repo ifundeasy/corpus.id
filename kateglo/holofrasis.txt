@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "holofrasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata dengan makna yang mewakili makna seluruh kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=holofrasis",
+  "related": [],
+  "detailed": false
+}

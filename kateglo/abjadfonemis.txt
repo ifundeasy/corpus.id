@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "abjad fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem lambang yang mempertalikan satu lambang dengan sejumlah bunyi bahasa yang berperan sebagai satuan fungsional terkecil dalam struktur bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abjad%20fonemis",
+  "related": [],
+  "detailed": false
+}

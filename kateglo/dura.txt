@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dura",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "susah; khawatir;"
+      },
+      {
+        "type": "desc",
+        "text": "jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dura",
+  "related": [],
+  "detailed": false
+}

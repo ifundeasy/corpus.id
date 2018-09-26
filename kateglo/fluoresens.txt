@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fluoresens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unsur yang dapat memancarkan (memantulkan) cahaya bila mendapat pencahayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) pemancaran sinar elektromagnetik yang disebabkan oleh aliran suatu bentuk energi ke dalam sebuah benda pemancar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fluoresens",
+  "related": [],
+  "detailed": false
+}

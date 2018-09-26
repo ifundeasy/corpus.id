@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selamat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbebas dari bahaya, malapetaka, bencana; terhindar dari bahaya, malapetaka; bencana; tidak kurang suatu apa; tidak mendapat gangguan; kerusakan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sehat;"
+      },
+      {
+        "type": "desc",
+        "text": "tercapai maksud; tidak gagal;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "doa (ucapan, pernyataan, dsb) yang mengandung harapan supaya sejahtera (beruntung, tidak kurang suatu apa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian salam mudah-mudahan dalam keadaan baik (sejahtera, sehat dan afiat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selamat",
+  "related": [],
+  "detailed": false
+}

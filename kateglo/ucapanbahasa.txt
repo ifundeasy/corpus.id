@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ucapan bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ungkapan (peribahasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ucapan%20bahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petugas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petugas",
+  "related": [],
+  "detailed": false
+}

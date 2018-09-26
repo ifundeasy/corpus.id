@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksklusif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terpisah dari yang lain; khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak termasuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksklusif",
+  "related": [],
+  "detailed": false
+}

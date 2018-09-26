@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbah bangunan dan bongkaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan bangunan dan runtuhan (batu belah) yang terjadi karena pembongkaran, pembangunan, dan perbaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah%20bangunan%20dan%20bongkaran",
+  "related": [],
+  "detailed": false
+}

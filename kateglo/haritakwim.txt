@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari takwim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu selama 24 jam, dimulai dari pukul 00.00—24.00;"
+      },
+      {
+        "type": "desc",
+        "text": "sepertiga ratus enam puluh lima bagian dari satu tahun matahari yang dinyatakan dalam hari dengan satu periode bumi mengelilingi matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20takwim",
+  "related": [],
+  "detailed": false
+}

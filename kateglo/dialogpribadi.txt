@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dialog pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) ucapan pemain kepada penonton, dan ucapan itu tidak terdapat dalam naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialog%20pribadi",
+  "related": [],
+  "detailed": false
+}

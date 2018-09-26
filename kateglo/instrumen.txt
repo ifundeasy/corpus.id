@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instrumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang dipakai untuk me-ngerjakan sesuatu (seperti alat yang dipakai oleh pekerja teknik, alat-alat kedokteran, optik, dan kimia); perkakas;"
+      },
+      {
+        "type": "desc",
+        "text": "sarana penelitian (berupa seperangkat tes dsb) untuk mengumpul-kan data sebagai bahan pengolahan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat-alat musik (seperti piano, biola, gitar, suling, trompet);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang dipakai sebagai alat (diperalat) orang lain (pihak lain);"
+      },
+      {
+        "type": "desc",
+        "text": "dokumen resmi seperti akta, surat obligasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instrumen",
+  "related": [],
+  "detailed": false
+}

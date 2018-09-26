@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari waktu anak-anak masuk sekolah (tidak libur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20sekolah",
+  "related": [],
+  "detailed": false
+}

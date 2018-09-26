@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengisi pojok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wartawan yang menulis di pojok surat kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengisi%20pojok",
+  "related": [],
+  "detailed": false
+}

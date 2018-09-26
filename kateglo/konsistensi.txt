@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsistensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketetapan dan kemantapan (dalam bertindak); ketaatasasan;"
+      },
+      {
+        "type": "desc",
+        "text": "kekentalan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepadatan, kepejalan, atau ketetalan jaringan yang menyusun bagian tubuh buah;"
+      },
+      {
+        "type": "desc",
+        "text": "ketahanan suatu material terhadap perubahan bentuk atau perpecahan;"
+      },
+      {
+        "type": "desc",
+        "text": "derajat kohesi atau adhesi massa tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsistensi",
+  "related": [],
+  "detailed": false
+}

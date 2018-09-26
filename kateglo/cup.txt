@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi barang yang dicelupkan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyuruh diam;"
+      },
+      {
+        "type": "desc",
+        "text": "cop;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan bahwa sesuatu sudah dipilih (dimiliki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengarang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi karang;"
+      },
+      {
+        "type": "desc",
+        "text": "menyusun, merangkai bunga dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mencocokkan atau mengikat permata dan intan;"
+      },
+      {
+        "type": "desc",
+        "text": "menulis dan menyusun sebuah cerita, buku, sajak, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengarang",
+  "related": [],
+  "detailed": false
+}

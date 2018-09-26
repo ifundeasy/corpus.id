@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang pajak untuk tanah sewa yang turun-temurun;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) komposisi musik yang dimainkan secara bersahut-sahutan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) peraturan atau dogma yang dikeluarkan oleh gereja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) buku-buku autentik yang dianggap bagian Kitab Suci;"
+      },
+      {
+        "type": "desc",
+        "text": "meriam;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) karya drama yang dianggap ciptaan asli seorang penulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanon",
+  "related": [],
+  "detailed": false
+}

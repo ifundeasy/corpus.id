@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minuman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diminum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minuman",
+  "related": [],
+  "detailed": false
+}

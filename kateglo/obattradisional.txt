@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat tradisional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang diramu dari berbagai macam akar, kulit pohon, batang, bunga, buah, dan daun untuk berbagai macam penyakit; obat kampung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20tradisional",
+  "related": [],
+  "detailed": false
+}

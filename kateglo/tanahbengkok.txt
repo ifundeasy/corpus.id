@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah bengkok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang diterima (untuk diusahakan) sebagai pengganti gaji (bagi pamong desa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang diterima (untuk diusahakan) dalam kaitan dengan jabatan yang dipegang; tanah jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20bengkok",
+  "related": [],
+  "detailed": false
+}

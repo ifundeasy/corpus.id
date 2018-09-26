@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tulisan tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tertulis dengan tangan (bukan ketikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tulisan%20tangan",
+  "related": [],
+  "detailed": false
+}

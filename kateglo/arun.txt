@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengarun"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "cemara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat Jamak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat yang dilaksanakan dengan mengumpulkan dua salat wajib dalam satu waktu, seperti salat Zuhur dengan Asar dan salat Magrib dengan salat Isya (khusus dalam perjalanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20Jamak",
+  "related": [],
+  "detailed": false
+}

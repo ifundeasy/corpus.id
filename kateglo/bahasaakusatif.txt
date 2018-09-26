@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa akusatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipe bahasa yang mempunyai penanda eksplisit untuk objek langsung, misal bahasa Inggris yang mempunyai kalimat seperti They kill him, kata him adalah bentuk akusatif dari kata he;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20akusatif",
+  "related": [],
+  "detailed": false
+}

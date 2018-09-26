@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Senen",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "Senin"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Senen",
+  "related": [],
+  "detailed": false
+}

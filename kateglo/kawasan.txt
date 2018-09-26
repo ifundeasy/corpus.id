@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kawasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah tertentu yang mempunyai ciri tertentu, seperti tempat tinggal, pertokoan, industri, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawasan",
+  "related": [],
+  "detailed": false
+}

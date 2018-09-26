@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan; kelompok (orang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "partai;"
+      },
+      {
+        "type": "desc",
+        "text": "kaum (golongan keluarga, suku bangsa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puak",
+  "related": [],
+  "detailed": false
+}

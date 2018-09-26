@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertanggung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terpikul;"
+      },
+      {
+        "type": "desc",
+        "text": "terderita;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditanggung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) orang yang mengalihkan risiko kepada pihak lain berdasarkan polis dengan membayar premi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertanggung",
+  "related": [],
+  "detailed": false
+}

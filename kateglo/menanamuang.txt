@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanam uang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan uang sebagai pokok usaha niaga dsb; menanam modal;"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpan uang di bank untuk diambil bunganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanam%20uang",
+  "related": [],
+  "detailed": false
+}

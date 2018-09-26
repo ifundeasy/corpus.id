@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kunci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan kepada pemilik yang rumahnya akan disewa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kunci",
+  "related": [],
+  "detailed": false
+}

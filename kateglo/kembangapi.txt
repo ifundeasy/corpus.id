@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kembang api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petasan (mercon) yang menyemburkan pijar-pijar api di udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kembang%20api",
+  "related": [],
+  "detailed": false
+}

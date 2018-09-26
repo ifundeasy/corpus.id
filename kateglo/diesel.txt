@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diesel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin motor yang memakai bahan bakar solar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diesel",
+  "related": [],
+  "detailed": false
+}

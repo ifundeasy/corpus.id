@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kacang kedelai",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kedelai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacang%20kedelai",
+  "related": [],
+  "detailed": false
+}

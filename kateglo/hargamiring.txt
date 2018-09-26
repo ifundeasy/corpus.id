@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga miring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) harga lebih murah daripada biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20miring",
+  "related": [],
+  "detailed": false
+}

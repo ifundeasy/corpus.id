@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maknawi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai makna; berkenaan dengan makna; menurut artinya;"
+      },
+      {
+        "type": "desc",
+        "text": "asasi; penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maknawi",
+  "related": [],
+  "detailed": false
+}

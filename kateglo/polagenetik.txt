@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola genetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "informasi genetik yang dimiliki suatu individu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20genetik",
+  "related": [],
+  "detailed": false
+}

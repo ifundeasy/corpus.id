@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transplantasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan)"
+      },
+      {
+        "type": "desc",
+        "text": "pemindahan tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) pemindahan jaringan tubuh dari suatu tempat ke tempat lain (seperti menutup luka yang tidak berkulit dengan jaringan kulit dari bagian tubuh yang lain); pencangkokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transplantasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spektrometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "instrumen untuk menentukan panjang gelombang pelbagai macam sinar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektrometer",
+  "related": [],
+  "detailed": false
+}

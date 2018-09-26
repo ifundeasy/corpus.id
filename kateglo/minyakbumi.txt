@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak yang ditambang dari bumi (seperti minyak tanah, bensin, kerosin);"
+      },
+      {
+        "type": "desc",
+        "text": "campuran berbagai hidrokarbon yang terdapat dalam fase cair dalam reservoar di bawah tanah dan yang tetap cair pada tekanan atmosfer setelah melalui fasilitas pemisah di atas permukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20bumi",
+  "related": [],
+  "detailed": false
+}

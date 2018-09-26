@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sel somatik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua sel yang menyusun tubuh makhluk kecuali sel kelamin atau sel nutfahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sel%20somatik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "larak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "rapat dan padat isinya (tentang durian);"
+      },
+      {
+        "type": "link",
+        "text": "lerak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larak",
+  "related": [],
+  "detailed": false
+}

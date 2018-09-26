@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sapa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan untuk menegur (mengajak bercakap-cakap dsb);"
+      },
+      {
+        "type": "link",
+        "text": "siapa"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapa",
+  "related": [],
+  "detailed": false
+}

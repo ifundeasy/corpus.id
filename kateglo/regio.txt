@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian topografis tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regio",
+  "related": [],
+  "detailed": false
+}

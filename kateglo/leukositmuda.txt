@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "leukosit muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "leukosit yang baru terbentuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukosit%20muda",
+  "related": [],
+  "detailed": false
+}

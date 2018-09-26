@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bercap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai cap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bercap",
+  "related": [],
+  "detailed": false
+}

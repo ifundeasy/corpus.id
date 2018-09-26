@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meresik"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resik",
+  "related": [],
+  "detailed": false
+}

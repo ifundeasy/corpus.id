@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protrombin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktor dalam plasma darah yang merupakan pendahulu trombin yang berperan dalam pembekuan darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protrombin",
+  "related": [],
+  "detailed": false
+}

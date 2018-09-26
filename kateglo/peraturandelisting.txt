@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peraturan delisting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan pencoretan saham dari bursa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peraturan%20delisting",
+  "related": [],
+  "detailed": false
+}

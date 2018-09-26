@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga bilateral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr) keluarga yang didasarkan pada hubungan kekerabatan dari pihak ayah dan pihak ibu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20bilateral",
+  "related": [],
+  "detailed": false
+}

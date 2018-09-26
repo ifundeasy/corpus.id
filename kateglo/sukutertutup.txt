@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suku tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) suku kata yang berakhir dengan konsonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suku%20tertutup",
+  "related": [],
+  "detailed": false
+}

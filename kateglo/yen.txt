@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yen",
+  "tags": {
+    "l": [
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yen",
+  "related": [],
+  "detailed": false
+}

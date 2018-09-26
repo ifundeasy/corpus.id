@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "merah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna dasar yang serupa dengan warna darah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna darah;"
+      },
+      {
+        "type": "desc",
+        "text": "gelar penghulu atau raja-raja kecil zaman dahulu;"
+      },
+      {
+        "type": "desc",
+        "text": "gelar di Minangkabau (lebih rendah daripada sutan); marah;"
+      },
+      {
+        "type": "desc",
+        "text": "molek; bagus;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hijriah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan hijrah;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan tarikh Islam yang dimulai ketika Nabi Muhammad saw. berpindah ke Medinah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hijriah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepustakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku-buku kesusastraan; kesusastraan;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar kitab yang dipakai sebagai sumber acuan untuk mengarang dsb; bibliografi;"
+      },
+      {
+        "type": "desc",
+        "text": "semua buku, karangan, dan tulisan mengenai suatu bidang ilmu, topik, gejala, atau kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepustakaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermutu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "baik (tinggi) mutunya; berbobot;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai mutu (kualitas);"
+      },
+      {
+        "type": "desc",
+        "text": "bertaraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermutu",
+  "related": [],
+  "detailed": false
+}

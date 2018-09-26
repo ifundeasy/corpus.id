@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebaik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama baik;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "ketika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebaik",
+  "related": [],
+  "detailed": false
+}

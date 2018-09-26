@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jaringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang siratan yang serupa jaring; jala-jala;"
+      },
+      {
+        "type": "link",
+        "text": "susunan sel-sel khusus yg sama pd tubuh dan bersatu dl menjalankan fungsi biologis tertentu; ~ ikat (tela conjungtiva);"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) bagan yang menggambarkan tali-temali kegiatan di dalam suatu proyek dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kom) sistem siaran yang terdiri atas sejumlah stasiun radio yang dioperasikan oleh suatu organisasi induk dan yang sering menyiarkan program yang serupa pada waktu yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jaringan",
+  "related": [],
+  "detailed": false
+}

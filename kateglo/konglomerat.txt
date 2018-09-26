@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konglomerat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengusaha besar yang mempunyai banyak perusahaan atau anak perusahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan besar yang beranggotakan berbagai macam perusahaan dan bergerak dalam bidang usaha yang bermacam-macam;"
+      },
+      {
+        "type": "desc",
+        "text": "massa atau campuran yang terjadi dari bermacam-macam unsur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) batuan sedimen yang dibangun oleh kerakal bundar atau pecahan batuan, bergaris tengah lebih dari 4 mm dan yang tersemen, membentuk massa yang padu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konglomerat",
+  "related": [],
+  "detailed": false
+}

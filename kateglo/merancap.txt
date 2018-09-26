@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merancap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan rancap;"
+      },
+      {
+        "type": "desc",
+        "text": "menajamkan senjata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merancap",
+  "related": [],
+  "detailed": false
+}

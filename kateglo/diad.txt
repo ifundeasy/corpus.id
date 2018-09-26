@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasangan;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur kimia bervalensi dua;"
+      },
+      {
+        "type": "desc",
+        "text": "kromosom bivalen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diad",
+  "related": [],
+  "detailed": false
+}

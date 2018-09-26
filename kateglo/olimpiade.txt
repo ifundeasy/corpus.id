@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Olimpiade",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertandingan olahraga amatir antarbangsa yang diadakan setiap empat tahun sekali di negeri yang berlainan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Olimpiade",
+  "related": [],
+  "detailed": false
+}

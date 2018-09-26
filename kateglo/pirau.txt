@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pirau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berwarna abu-abu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabur (tentang penglihatan);"
+      },
+      {
+        "type": "link",
+        "text": "berpirau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pirau",
+  "related": [],
+  "detailed": false
+}

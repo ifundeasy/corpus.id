@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "debit hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "curah hujan rata-rata seluruh daerah aliran dibagi waktu (diukur dalam satuan detik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debit%20hujan",
+  "related": [],
+  "detailed": false
+}

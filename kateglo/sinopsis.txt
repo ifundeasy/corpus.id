@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinopsis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar karangan yang biasanya diterbitkan bersama-sama dengan karangan asli yang menjadi dasar sinopsis itu; ringkasan; abstraksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinopsis",
+  "related": [],
+  "detailed": false
+}

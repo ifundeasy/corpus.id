@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instruksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah atau arahan (untuk melakukan suatu pekerjaan atau melaksanakan suatu tugas);"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran; petunjuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instruksi",
+  "related": [],
+  "detailed": false
+}

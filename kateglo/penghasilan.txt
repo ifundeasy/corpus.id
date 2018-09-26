@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghasilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menghasilkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapatan; perolehan (uang yang diterima dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghasilan",
+  "related": [],
+  "detailed": false
+}

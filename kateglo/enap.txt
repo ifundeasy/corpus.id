@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengenap"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) diam (tidak bergerak dan tidak berkata-kata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyuapi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi makanan dengan memasukkan makanan ke dalam mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) memberi uang suap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyuapi",
+  "related": [],
+  "detailed": false
+}

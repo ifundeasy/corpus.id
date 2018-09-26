@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wartawan lepas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wartawan yang tidak menjadi staf tetap salah satu surat kabar, tetapi hanya menyumbangkan tulisan mewakili beberapa penerbitan pers;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wartawan%20lepas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar atau rangkaian jenis makanan dan minuman yang tersedia dan dapat dihidangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menu",
+  "related": [],
+  "detailed": false
+}

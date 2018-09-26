@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecewa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil hati; tidak puas (karena tidak terkabul keinginannya, harapannya, dsb); tidak senang;"
+      },
+      {
+        "type": "desc",
+        "text": "cacat; cela;"
+      },
+      {
+        "type": "desc",
+        "text": "gagal (tidak berhasil) dalam usahanya dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecewa",
+  "related": [],
+  "detailed": false
+}

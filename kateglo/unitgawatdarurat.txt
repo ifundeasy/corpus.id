@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unit gawat darurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari rumah sakit yang menampung dan melayani pasien yang sangat gawat (atau luka parah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unit%20gawat%20darurat",
+  "related": [],
+  "detailed": false
+}

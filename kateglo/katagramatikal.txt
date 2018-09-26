@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata gramatikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan gramatikal yang ada di antara morfem dan frasa yang mempunyai ciri keutuhan intern dan diapit oleh jeda potensial dan yang terjadi dari morfem atau gabungan morfem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20gramatikal",
+  "related": [],
+  "detailed": false
+}

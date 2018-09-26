@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbau tidak enak seperti bau makanan (kain, rambut, dsb) hangus terbakar; angit;"
+      },
+      {
+        "type": "desc",
+        "text": "tajam, keras, dan sangat menyakiti hati (tentang perkataan); pedas (tentang kata-kata);"
+      },
+      {
+        "type": "desc",
+        "text": "hebat dan dahsyat (tentang perkelahian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bengis (tentang roman muka, perbuatan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengit",
+  "related": [],
+  "detailed": false
+}

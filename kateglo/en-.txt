@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "en-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "di dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "ke dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=en-",
+  "related": [],
+  "detailed": false
+}

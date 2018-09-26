@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tegar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keras dan kering;"
+      },
+      {
+        "type": "desc",
+        "text": "keras kaku; tidak dapat dilenturkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak dapat diubah (pendiriannya, pendapatnya); tidak mau menurut;"
+      },
+      {
+        "type": "desc",
+        "text": "tabah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menegarkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) penampilan tanaman yang sehat dan kuat, biasanya diperlihatan oleh kemampuan berproduksi normal dalam keadaan suboptimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tegar",
+  "related": [],
+  "detailed": false
+}

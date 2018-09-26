@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna konotasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna (nilai rasa) yang timbul karena adanya tautan pikiran antara denotasi dan pengalaman pribadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20konotasi",
+  "related": [],
+  "detailed": false
+}

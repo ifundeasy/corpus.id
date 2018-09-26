@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pokok pekerjaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan utama; mata pencaharian utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pokok%20pekerjaan",
+  "related": [],
+  "detailed": false
+}

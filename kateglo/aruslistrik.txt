@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) gerak elektron dari satu kutub sumber listrik ke kutub lain melalui kawat penghubung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20listrik",
+  "related": [],
+  "detailed": false
+}

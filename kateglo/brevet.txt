@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "brevet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokumen tanda penghargaan kepada seseorang yang menyatakan telah dianugerahkannya suatu titel, gelar, dan lain-lain;"
+      },
+      {
+        "type": "desc",
+        "text": "surat tanda bukti keahlian, kepandaian, atau kemampuan; ijazah (untuk penerbang);"
+      },
+      {
+        "type": "desc",
+        "text": "surat izin;"
+      },
+      {
+        "type": "desc",
+        "text": "akta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=brevet",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prosedur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahap kegiatan untuk menyelesaikan suatu aktivitas;"
+      },
+      {
+        "type": "desc",
+        "text": "metode langkah demi langkah secara pasti dalam memecahkan suatu masalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prosedur",
+  "related": [],
+  "detailed": false
+}

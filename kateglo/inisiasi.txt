@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inisiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upacara atau ujian yang harus dijalani orang yang akan menjadi anggota suatu perkumpulan, suku, kelompok umur, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inisiasi",
+  "related": [],
+  "detailed": false
+}

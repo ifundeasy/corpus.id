@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang pembayaran biaya pendidikan di sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20sekolah",
+  "related": [],
+  "detailed": false
+}

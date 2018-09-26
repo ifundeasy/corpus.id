@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan larangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hutan yang pohonnya tidak boleh ditebang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20larangan",
+  "related": [],
+  "detailed": false
+}

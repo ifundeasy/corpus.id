@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda terima",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat sebagai pernyataan telah menerima uang (kuitansi) atau barang (faktur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20terima",
+  "related": [],
+  "detailed": false
+}

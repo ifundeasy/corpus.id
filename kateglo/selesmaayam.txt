@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selesma ayam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan virus menyerang saluran pernapasan ayam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selesma%20ayam",
+  "related": [],
+  "detailed": false
+}

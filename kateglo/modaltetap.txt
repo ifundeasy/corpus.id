@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modal tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modal yang tidak dapat dipindah-pindahkan (seperti gedung, tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modal%20tetap",
+  "related": [],
+  "detailed": false
+}

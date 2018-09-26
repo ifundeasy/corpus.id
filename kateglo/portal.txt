@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "portal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pintu gerbang; gapura;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan (pintu) masuk ke dalam tambang bawah tanah, terowongan, jembatan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gang (beranda dsb) lebar di depan kamar-kamar dalam rumah, gedung, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tonggak atau palang yang dipasang di ujung gang (jalan) untuk menghalangi masuknya kendaraan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=portal",
+  "related": [],
+  "detailed": false
+}

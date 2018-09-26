@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lifo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) cara menghitung harga bahan yang dipakai dalam produksi berdasarkan harga bahan yang terakhir masuk gudang atau berdasarkan harga hasil produksi yang pertama keluar dari gudang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lifo",
+  "related": [],
+  "detailed": false
+}

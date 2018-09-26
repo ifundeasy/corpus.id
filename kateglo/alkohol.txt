@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alkohol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "cairan tidak berwarna yang mudah menguap, mudah terbakar, dipakai dalam industri dan pengobatan, merupakan unsur ramuan yang memabukkan dalam kebanyakan minuman keras; C2H5OH; etanol;"
+      },
+      {
+        "type": "desc",
+        "text": "senyawa organik dengan gugus OH pada atom karbon jenuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alkohol",
+  "related": [],
+  "detailed": false
+}

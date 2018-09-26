@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antroponimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyelidikan tentang sistematik, arti, dan asal-usul nama orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antroponimi",
+  "related": [],
+  "detailed": false
+}

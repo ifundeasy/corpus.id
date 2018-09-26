@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biogas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gas yang terbuat dari kotoran ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biogas",
+  "related": [],
+  "detailed": false
+}

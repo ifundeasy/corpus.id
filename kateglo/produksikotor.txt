@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi kotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah keseluruhan bahan organik yang terbentuk dalam satu waktu tertentu, termasuk yang langsung digunakan untuk proses metabolisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20kotor",
+  "related": [],
+  "detailed": false
+}

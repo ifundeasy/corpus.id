@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalender",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar hari dan bulan dalam setahun; penanggalan; almanak; takwim;"
+      },
+      {
+        "type": "desc",
+        "text": "jadwal kegiatan di suatu perguruan atau lembaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalender",
+  "related": [],
+  "detailed": false
+}

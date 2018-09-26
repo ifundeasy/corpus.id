@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "donasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumbangan tetap (berupa uang) dari penderma kepada perkumpulan; derma;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian; hadiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=donasi",
+  "related": [],
+  "detailed": false
+}

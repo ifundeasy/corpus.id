@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat bius",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang menyebabkan orang tidak sadarkan diri dan sekaligus menghilangkan rasa nyeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20bius",
+  "related": [],
+  "detailed": false
+}

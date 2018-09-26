@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tercabut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dicabut;"
+      },
+      {
+        "type": "desc",
+        "text": "terhunus (tentang keris, pedang, pistol, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tercabut",
+  "related": [],
+  "detailed": false
+}

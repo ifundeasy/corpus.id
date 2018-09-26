@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) halaman dari suatu situs web;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laman",
+  "related": [],
+  "detailed": false
+}

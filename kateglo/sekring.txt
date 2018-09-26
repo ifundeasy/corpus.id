@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur atau mengamankan arus listrik (supaya jangan melampaui batas maksimum sehingga terjadi korsleting); sepotong kawat yang menghubungkan rangkaian arus listrik, apabila arus listrik bertambah, kawat melebur dan putus sehingga hubungan rangkaian arus listrik juga terputus (hubung singkat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekring",
+  "related": [],
+  "detailed": false
+}

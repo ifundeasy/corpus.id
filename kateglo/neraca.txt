@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neraca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur berat (terutama yang berukuran kecil), biasanya berupa batang lurus dengan dua mangkuk yang digantungkan pada kedua ujungnya untuk tempat anak timbangan dan benda yang ditimbang, seperti alat yang dipakai untuk menimbang emas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) catatan perbandingan untung rugi, utang-piutang, pemasukan dan pengeluaran, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perimbangan (politik, kekuatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) peranti untuk menimbang massa benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neraca",
+  "related": [],
+  "detailed": false
+}

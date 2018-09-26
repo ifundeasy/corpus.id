@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wasiat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesan terakhir yang disampaikan oleh orang yang akan meninggal (biasanya berkenaan dengan harta kekayaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pusaka;"
+      },
+      {
+        "type": "desc",
+        "text": "yang bertuah; yang gaib; yang dapat membuat sesuatu yang ganjil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wasiat",
+  "related": [],
+  "detailed": false
+}

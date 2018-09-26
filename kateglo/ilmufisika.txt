@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu fisika",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "fisika"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20fisika",
+  "related": [],
+  "detailed": false
+}

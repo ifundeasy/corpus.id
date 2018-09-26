@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat perekat yang lengket;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan farmasi berupa salep (bubur) setengah padat pada umumnya dibungkus dalam kemasan tabung pipih, mengandung antiseptik untuk obat luar;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan beracun untuk membasmi kutu atau tikus;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan makanan yang dibuat dari terigu dicampur air dan telur, bentuknya bermacam-macam, ada yang pipih panjang seperti lembaran dan ada yang bulat panjang seperti pipa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasta",
+  "related": [],
+  "detailed": false
+}

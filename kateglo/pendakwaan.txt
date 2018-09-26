@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendakwaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penuntutan perkara; pengaduan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendakwaan",
+  "related": [],
+  "detailed": false
+}

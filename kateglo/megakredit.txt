@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megakredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit dalam jumlah besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megakredit",
+  "related": [],
+  "detailed": false
+}

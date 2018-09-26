@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga atau pegawai yang diangkat dan bekerja secara tetap pada suatu lembaga (kantor, perusahaan, dsb) berdasarkan surat keputusan pimpinan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20tetap",
+  "related": [],
+  "detailed": false
+}

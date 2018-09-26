@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gantungan; sampaian;"
+      },
+      {
+        "type": "desc",
+        "text": "paruh pertama pada pantun, yaitu baris kesatu dan kedua berupa kalimat yang biasanya hanya merupakan persediaan bunyi kata untuk disamakan dengan bunyi kata pada isi pantun (biasanya kalimat pada sampiran tidak ada hubungannya dengan bagian isi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampiran",
+  "related": [],
+  "detailed": false
+}

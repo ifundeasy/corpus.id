@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aubade",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian atau musik (untuk) penghormatan pada pagi hari;"
+      },
+      {
+        "type": "desc",
+        "text": "nyanyian cinta pada pagi hari;"
+      },
+      {
+        "type": "desc",
+        "text": "pujian yang disampaikan dalam bentuk nyanyian atau permainan oleh sekelompok orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aubade",
+  "related": [],
+  "detailed": false
+}

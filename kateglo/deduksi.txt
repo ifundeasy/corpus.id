@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penarikan kesimpulan dari keadaan yang umum; penyimpulan dari yang umum ke yang khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) pengurangan setiap biaya dari pendapatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deduksi",
+  "related": [],
+  "detailed": false
+}

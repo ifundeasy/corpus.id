@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak yang mengandung air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20basah",
+  "related": [],
+  "detailed": false
+}

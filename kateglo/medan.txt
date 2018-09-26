@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah lapang; tempat yang luas (untuk berpacu kuda dsb); alun-alun;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lingkungan; ruang lingkup;"
+      },
+      {
+        "type": "desc",
+        "text": "lokasi; daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) batas sentuhan antara dua massa udara yang berbeda keadaannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) ruang yang mengandung pengaruh gaya, misal medan magnet, medan listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medan",
+  "related": [],
+  "detailed": false
+}

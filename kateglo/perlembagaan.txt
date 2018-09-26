@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlembagaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berlembaga;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) undang-undang dasar negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlembagaan",
+  "related": [],
+  "detailed": false
+}

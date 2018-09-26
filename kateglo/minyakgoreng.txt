@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak goreng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak yang dipakai untuk menggoreng, seperti minyak kelapa, minyak jagung, minyak kacang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20goreng",
+  "related": [],
+  "detailed": false
+}

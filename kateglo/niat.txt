@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "niat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "maksud atau tujuan suatu perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kehendak (keinginan dalam hati) akan melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "janji untuk melakukan sesuatu jika cita-cita atau harapan terkabul; kaul; nazar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=niat",
+  "related": [],
+  "detailed": false
+}

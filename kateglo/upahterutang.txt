@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah terutang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah yang seharusnya dibayar, tetapi masih ditahan atau belum dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20terutang",
+  "related": [],
+  "detailed": false
+}

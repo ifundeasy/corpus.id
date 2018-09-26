@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat anggota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang diadakan untuk anggota perserikatan, partai, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20anggota",
+  "related": [],
+  "detailed": false
+}

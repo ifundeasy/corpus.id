@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polisepal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan kelopak bunga yang terbagi menjadi daun kelopak;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan kelopak bunga yang terbagi menjadi daun kelopak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisepal",
+  "related": [],
+  "detailed": false
+}

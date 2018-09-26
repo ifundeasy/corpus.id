@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian peminjaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian perpustakaan yang melayani anggota yang meminjam buku; bagian sirkulasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian%20peminjaman",
+  "related": [],
+  "detailed": false
+}

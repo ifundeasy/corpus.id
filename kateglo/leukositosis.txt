@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leukositosis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) terdapatnya kenaikan jumlah sel darah putih dalam darah yang melebihi ambang normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukositosis",
+  "related": [],
+  "detailed": false
+}

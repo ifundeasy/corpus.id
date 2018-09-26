@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumbu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "bubu;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak senonoh (kelakuan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tentu arah tujuan (perjalanan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merumbu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumbu",
+  "related": [],
+  "detailed": false
+}

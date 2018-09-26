@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalkulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perincian biaya, ongkos, atau pengeluaran; perhitungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalkulasi",
+  "related": [],
+  "detailed": false
+}

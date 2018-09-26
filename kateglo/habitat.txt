@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "habitat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat tinggal khas bagi seseorang atau kelom-pok masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) tempat hidup organisme tertentu; tempat hidup yang alami (bagi tumbuhan dan hewan); lingkungan kehidupan asli;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) tempat kediaman atau kehidupan tumbuhan, hewan, dan manusia dengan kondisi tertentu pada permukaan bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=habitat",
+  "related": [],
+  "detailed": false
+}

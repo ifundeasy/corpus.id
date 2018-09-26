@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palindrom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata, rangkaian kata, atau bilangan yang terbaca sama, baik dari depan maupun dari belakang, seperti kodok, radar, taat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palindrom",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interviu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interviu",
+  "related": [],
+  "detailed": false
+}

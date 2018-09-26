@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pukulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (cara dsb) memukul;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memukul; ketukan (serangan, hantaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) alat untuk memukul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukulan",
+  "related": [],
+  "detailed": false
+}

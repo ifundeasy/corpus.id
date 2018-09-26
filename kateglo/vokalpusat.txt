@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal pusat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang dihasilkan dengan lidah dalam posisi tidak di depan dan tidak di belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20pusat",
+  "related": [],
+  "detailed": false
+}

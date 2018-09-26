@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tampalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang ditampalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menampal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tambahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tampalan",
+  "related": [],
+  "detailed": false
+}

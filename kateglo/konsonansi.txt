@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsonansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) pengulangan bunyi konsonan yang berdekatan yang mengapit vokal yang berbeda, digunakan dalam puisi untuk mencapai efek tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsonansi",
+  "related": [],
+  "detailed": false
+}

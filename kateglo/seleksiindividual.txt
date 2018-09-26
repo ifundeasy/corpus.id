@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seleksi individual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seleksi untuk ternak bibit yang didasarkan pada catatan produktivitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seleksi%20individual",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sasak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anyaman (bilah bambu) kasar untuk pagar, dinding, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "buluh bambu atau kayu yang disusun menjadi satu; rakit;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bersasak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasak",
+  "related": [],
+  "detailed": false
+}

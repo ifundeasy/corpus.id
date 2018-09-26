@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengkhotbah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicara (penyampai) khotbah; orang yang berkhotbah; juru khotbah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengkhotbah",
+  "related": [],
+  "detailed": false
+}

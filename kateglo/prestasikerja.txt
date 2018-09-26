@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prestasi kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil kerja yang dicapai oleh seorang karyawan dalam melaksanakan tugas yang dibebankan kepadanya; kinerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prestasi%20kerja",
+  "related": [],
+  "detailed": false
+}

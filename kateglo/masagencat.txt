@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa gencat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian waktu yang tidak digunakan karyawan untuk bekerja walau tersedia pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20gencat",
+  "related": [],
+  "detailed": false
+}

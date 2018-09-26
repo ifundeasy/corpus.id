@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warga negara asing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang warga negara lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warga%20negara%20asing",
+  "related": [],
+  "detailed": false
+}

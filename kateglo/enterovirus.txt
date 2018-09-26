@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enterovirus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyebab pelbagai penyakit pada perut besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enterovirus",
+  "related": [],
+  "detailed": false
+}

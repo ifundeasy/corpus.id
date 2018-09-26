@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "atraksi wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni, budaya, warisan sejarah, tradisi, kekayaan alam, atau hiburan, yang merupakan daya tarik wisatawan di daerah tujuan wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atraksi%20wisata",
+  "related": [],
+  "detailed": false
+}

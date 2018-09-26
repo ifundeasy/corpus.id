@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "injak-injak pada perkakas tenun;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyandung"
+      },
+      {
+        "type": "link",
+        "text": "sandungan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandung",
+  "related": [],
+  "detailed": false
+}

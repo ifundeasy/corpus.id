@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belanja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dikeluarkan untuk suatu keperluan; ongkos; biaya;"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang dipakai untuk keperluan sehari-hari (rutin);"
+      },
+      {
+        "type": "desc",
+        "text": "upah; gaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belanja",
+  "related": [],
+  "detailed": false
+}

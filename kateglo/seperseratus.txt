@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seperseratus",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu dibagi seratus (1/100);"
+      },
+      {
+        "type": "desc",
+        "text": "persen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seperseratus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta bogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta kecil (biasanya beroda dua dan ditarik oleh seekor kuda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20bogi",
+  "related": [],
+  "detailed": false
+}

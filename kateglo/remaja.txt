@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remaja",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mulai dewasa; sudah sampai umur untuk kawin;"
+      },
+      {
+        "type": "desc",
+        "text": "muda;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemuda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remaja",
+  "related": [],
+  "detailed": false
+}

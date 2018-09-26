@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lateral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "di sebelah sisi; di sisi; ke sisi; ke pinggir;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) dihasilkan dengan penutupan sebagian lidah (tentang bunyi ujar);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi yang dihasilkan dengan penutupan sebagian lidah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lateral",
+  "related": [],
+  "detailed": false
+}

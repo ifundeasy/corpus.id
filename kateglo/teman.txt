@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawan; sahabat;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bersama-sama bekerja (berbuat, berjalan); lawan (bercakap-cakap);"
+      },
+      {
+        "type": "desc",
+        "text": "yang menjadi pelengkap (pasangan) atau yang dipakai (dimakan dsb) bersama-sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) saya (di beberapa daerah dipakai dalam bahasa sehari-hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teman",
+  "related": [],
+  "detailed": false
+}

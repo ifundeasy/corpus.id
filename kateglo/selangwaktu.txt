@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selang waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "antara dari pemberian obat pertama ke pemberian berikutnya untuk memperoleh daya pengobatan yang efektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selang%20waktu",
+  "related": [],
+  "detailed": false
+}

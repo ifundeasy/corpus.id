@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok pikiran; dasar cerita (yang dipercakapkan, dipakai sebagai dasar mengarang, menggubah sajak, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tema",
+  "related": [],
+  "detailed": false
+}

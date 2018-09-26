@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tulat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) hari sesudah lusa (tiga hari sesudah hari ini);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tulat",
+  "related": [],
+  "detailed": false
+}

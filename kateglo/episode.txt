@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "episode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(bagian) riwayat atau peristiwa (yang seakan-akan berdiri sendiri); seri cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=episode",
+  "related": [],
+  "detailed": false
+}

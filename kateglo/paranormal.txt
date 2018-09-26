@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paranormal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat dijelaskan secara ilmiah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai kemampuan dalam memahami, mengetahui, dan mempercayai hal-hal yang tidak dapat dijelaskan secara ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paranormal",
+  "related": [],
+  "detailed": false
+}

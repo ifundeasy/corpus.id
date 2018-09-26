@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggiling",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melumatkan (memipihkan) sesuatu dengan anak batu giling dan batu giling;"
+      },
+      {
+        "type": "desc",
+        "text": "melumatkan dengan mesin giling (tentang kopi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengupas kulit dengan mesin penggiling (tentang padi);"
+      },
+      {
+        "type": "desc",
+        "text": "memerah dengan mesin giling (tentang tebu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meratakan dan memadatkan dengan mesin giling (tentang jalan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menggulung (tentang rokok);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggiling",
+  "related": [],
+  "detailed": false
+}

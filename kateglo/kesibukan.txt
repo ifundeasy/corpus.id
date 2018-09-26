@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesibukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat) sibuk;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu (usaha dsb) yang harus dikerjakan; kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesibukan",
+  "related": [],
+  "detailed": false
+}

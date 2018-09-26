@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meloak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual barang yang sudah tidak dipakai lagi, barang yang sudah tua, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meloak",
+  "related": [],
+  "detailed": false
+}

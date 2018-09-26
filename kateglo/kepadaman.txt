@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal padam;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalami sesuatu karena padam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadaman",
+  "related": [],
+  "detailed": false
+}

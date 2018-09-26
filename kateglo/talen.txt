@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "talen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang (uang logam) bernilai 25 sen (pada zaman Hindia Belanda);"
+      },
+      {
+        "type": "link",
+        "text": "talenta"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=talen",
+  "related": [],
+  "detailed": false
+}

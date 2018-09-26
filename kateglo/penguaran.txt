@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penguaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menguarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan kepada umum (terutama yang diteriakkan atau menggunakan pengeras suara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penguaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok atau kumpulan yang tidak berapa banyak; tumpuk;"
+      },
+      {
+        "type": "desc",
+        "text": "seperangkat barang yang (diatur) bertingkat-tingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkap (yang tindih-menindih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susun",
+  "related": [],
+  "detailed": false
+}

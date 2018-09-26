@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perihal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal; peristiwa; kejadian;"
+      },
+      {
+        "type": "desc",
+        "text": "tentang; mengenai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perihal",
+  "related": [],
+  "detailed": false
+}

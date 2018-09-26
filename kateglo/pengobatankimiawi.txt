@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengobatan kimiawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggunaan senyawa kimia untuk mengobati tanaman yang terserang penyakit; terapi kimiawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengobatan%20kimiawi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berangas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siput laut yang kecil, biasanya melekat pada benda-benda (kayu dsb) yang berada di dalam air laut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghanguskan atau membakar ujung-ujung yang menonjol untuk membersihkan bulu-bulu rambut yang terdapat pada karkas unggas;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah sekali naik darah dan gemar berkelahi;"
+      },
+      {
+        "type": "desc",
+        "text": "ganas dan kasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berangas",
+  "related": [],
+  "detailed": false
+}

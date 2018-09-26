@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isoterm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "garis dalam peta cuaca yang meng-hubungkan tempat yang mempunyai temperatur rata-rata yang sama pada periode tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) garis yang menghubungkan titik dengan suhu sama dalam ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isoterm",
+  "related": [],
+  "detailed": false
+}

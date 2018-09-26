@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herbisida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan kimia untuk membunuh atau memusnahkan tumbuhan pengganggu atau gulma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herbisida",
+  "related": [],
+  "detailed": false
+}

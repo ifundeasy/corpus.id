@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakar bidang ilmu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai keahlian dalam bidang ilmu tertentu, seperti biologi, kimia, fisika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakar%20bidang%20ilmu",
+  "related": [],
+  "detailed": false
+}

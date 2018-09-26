@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menerima upah atas hasil kerjanya; buruh; karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja",
+  "related": [],
+  "detailed": false
+}

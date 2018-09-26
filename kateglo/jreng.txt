@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jreng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi alat musik;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tunai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jreng",
+  "related": [],
+  "detailed": false
+}

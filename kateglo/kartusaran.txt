@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu saran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) formulir untuk merekam usulan, pendapat, atau gagasan dari karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20saran",
+  "related": [],
+  "detailed": false
+}

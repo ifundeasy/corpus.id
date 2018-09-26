@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut alas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) dua sudut dalam sebuah segitiga dengan alas segitiga itu sebagai kaki persekutuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20alas",
+  "related": [],
+  "detailed": false
+}

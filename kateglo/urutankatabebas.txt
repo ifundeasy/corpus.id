@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan kata bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) urutan kata yang tidak dipakai untuk menandai hubungan gramatikal dan yang dapat diubah tanpa mengubah atau merusak makna kalimat, terutama terdapat dalam bahasa inflektif yang strukturnya ditandai oleh morfem terikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20kata%20bebas",
+  "related": [],
+  "detailed": false
+}

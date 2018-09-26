@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "primadona berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita utama dan paling digemari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=primadona%20berita",
+  "related": [],
+  "detailed": false
+}

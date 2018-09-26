@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "argumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alasan yang dapat dipakai untuk memperkuat atau menolak suatu pendapat, pendirian, atau gagasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) nomina atau frasa nominal yang bersama-sama predikator membentuk proposisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=argumen",
+  "related": [],
+  "detailed": false
+}

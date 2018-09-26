@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perhentian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berhenti (bus, kereta api, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perhentian",
+  "related": [],
+  "detailed": false
+}

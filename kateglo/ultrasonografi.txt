@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ultrasonografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik diagnostik untuk pengujian struktur badan bagian dalam yang melibatkan formasi bayangan dua dimensi dengan gelombang ultrasonik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ultrasonografi",
+  "related": [],
+  "detailed": false
+}

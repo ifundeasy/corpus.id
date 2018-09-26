@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ankilosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "tergabungnya tulang-tulang atau bagian lain yang keras dan membentuk satu tulang atau bagian yang keras;"
+      },
+      {
+        "type": "desc",
+        "text": "kekakuan sendi karena penyakit atau pembedahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ankilosis",
+  "related": [],
+  "detailed": false
+}

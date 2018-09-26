@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "operatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara operasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=operatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapak tilas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bekas jejak;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas jalan yang pernah dilalui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapak%20tilas",
+  "related": [],
+  "detailed": false
+}

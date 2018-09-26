@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "studio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat bekerja (bagi pelukis, tukang foto, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ruang yang dipakai untuk menyiarkan acara radio atau televisi;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang dipakai untuk pengambilan film (untuk bioskop dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=studio",
+  "related": [],
+  "detailed": false
+}

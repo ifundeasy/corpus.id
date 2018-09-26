@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumber bunyi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat asal bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber%20bunyi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metromini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angkutan umum, biasanya di dalam kota berupa bus kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metromini",
+  "related": [],
+  "detailed": false
+}

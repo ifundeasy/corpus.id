@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "generalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal membentuk gagasan atau simpulan umum dari suatu kejadian, hal, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal membuat suatu gagasan lebih sederhana daripada yang sebenarnya (panjang lebar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal membentuk gagasan yang lebih kabur;"
+      },
+      {
+        "type": "desc",
+        "text": "penyamarataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generalisasi",
+  "related": [],
+  "detailed": false
+}

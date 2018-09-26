@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tergila-gila",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat menyukai yang berlebihan; keranjingan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi-jadi;"
+      },
+      {
+        "type": "desc",
+        "text": "jatuh hati; jatuh cinta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tergila-gila",
+  "related": [],
+  "detailed": false
+}

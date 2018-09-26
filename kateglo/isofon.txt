@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) isoglos pada peta bahasa yang digambarkan me-lingkari satu unsur fonologis tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isofon",
+  "related": [],
+  "detailed": false
+}

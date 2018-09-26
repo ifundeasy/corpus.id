@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis kalorimetri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) analisis kuantitatif benda dengan membandingkan kekuatan warna yang dihasilkan oleh zat dengan warna baku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20kalorimetri",
+  "related": [],
+  "detailed": false
+}

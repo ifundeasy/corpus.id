@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menukas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendakwa (menuduh) tanpa alasan yang cukup (asal menuduh saja);"
+      },
+      {
+        "type": "desc",
+        "text": "mengulang lagi (permintaan, jawab, minum obat, panggilan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menghentikan (memotong dsb) perkataan atau ucapan seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menukas",
+  "related": [],
+  "detailed": false
+}

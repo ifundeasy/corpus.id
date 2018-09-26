@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bungkus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk benda yang dibalut dengan kertas (daun, plastik, dsb); pak;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan yang dipakai untuk membalut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bungkus",
+  "related": [],
+  "detailed": false
+}

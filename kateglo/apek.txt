@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Cn)"
+      },
+      {
+        "type": "link",
+        "text": "apak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Cn) kata untuk menyapa orang tua; tuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diatesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kategori gramatikal yang menunjukkan hubungan antara partisipan atau subjek dengan perbuatan yang dinyatakan oleh verba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diatesis",
+  "related": [],
+  "detailed": false
+}

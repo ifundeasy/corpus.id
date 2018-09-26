@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian objektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang dibuat sedemikian rupa sehingga pertanyaan dan jawabannya sudah disiapkan dan murid tinggal memilih jawaban itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20objektif",
+  "related": [],
+  "detailed": false
+}

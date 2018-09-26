@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kacang goreng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kacang tanah yang digoreng;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) kacang tanah yang disangrai (biasanya dengan kulitnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacang%20goreng",
+  "related": [],
+  "detailed": false
+}

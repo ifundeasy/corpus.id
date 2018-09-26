@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Romawi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan kebudayaan, politik, bahasa, dsb dari kota Roma Kuno;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan huruf Latin;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan angka yang berasal dari daerah Mediterania (dipertentangkan dengan angka Arab, seperti 1, 2, 3, 4, 5,...);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Romawi",
+  "related": [],
+  "detailed": false
+}

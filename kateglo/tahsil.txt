@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahsil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal mendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "pengumpulan hasil (pajak dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahsil",
+  "related": [],
+  "detailed": false
+}

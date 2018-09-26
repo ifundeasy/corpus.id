@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temperatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panas dinginnya badan atau hawa; suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temperatur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak apsidal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) jarak terdekat atau terjauh (diukur dari titik asal koordinat sebagai acuannya) suatu benda yang mengalami gerak terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20apsidal",
+  "related": [],
+  "detailed": false
+}

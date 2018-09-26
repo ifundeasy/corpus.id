@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aktiva tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekayaan berwujud yang secara relatif tahan lama dan biasanya digunakan dalam menghasilkan barang dan jasa serta tidak disimpan untuk dijual lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktiva%20tetap",
+  "related": [],
+  "detailed": false
+}

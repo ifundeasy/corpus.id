@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gas kilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) gas atau campuran berbagai gas yang berasal dari penyulingan dan terkumpul di dalam kilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gas%20kilang",
+  "related": [],
+  "detailed": false
+}

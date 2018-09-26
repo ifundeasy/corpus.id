@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspatriat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melepaskan kewarganegaraannya;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang meninggalkan negeri asalnya; warga negara asing yang menetap di sebuah negara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang terbuang;"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga kerja asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspatriat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengiriskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengiris (memotong) untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "mengiris dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengiriskan",
+  "related": [],
+  "detailed": false
+}

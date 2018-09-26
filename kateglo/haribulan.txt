@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari bulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20bulan",
+  "related": [],
+  "detailed": false
+}

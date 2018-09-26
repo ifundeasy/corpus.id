@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parokial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat paroki;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terbatas; sempit; picik (tentang pandangan politik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parokial",
+  "related": [],
+  "detailed": false
+}

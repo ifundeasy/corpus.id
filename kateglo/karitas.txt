@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang atau barang (pakaian, bahan makanan, obat-obatan, dsb) yang disumbangkan untuk menolong orang miskin atau orang yang tertimpa bencana (alam, perang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi kemanusiaan yang mengumpulkan uang untuk keperluan kemanusiaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkah laku yang simpatik terhadap orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karitas",
+  "related": [],
+  "detailed": false
+}

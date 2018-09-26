@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah tinjauan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan berseri, terutama berisi artikel tentang tinjauan dan ulasan buku baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20tinjauan",
+  "related": [],
+  "detailed": false
+}

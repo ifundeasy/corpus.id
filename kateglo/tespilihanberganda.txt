@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes pilihan berganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tes objektif yang mempunyai beberapa alternatif jawaban untuk dipilih satu jawaban yang benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20pilihan%20berganda",
+  "related": [],
+  "detailed": false
+}

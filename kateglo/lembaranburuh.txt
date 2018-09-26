@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaran buruh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar yang teristimewa diterbitkan untuk membicarakan perihal perburuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaran%20buruh",
+  "related": [],
+  "detailed": false
+}

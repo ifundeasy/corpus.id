@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reformis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menganjurkan reformasi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mendukung reformasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reformis",
+  "related": [],
+  "detailed": false
+}

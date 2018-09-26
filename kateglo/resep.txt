@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan dokter tentang obat serta takarannya, yang harus dipakai oleh si sakit dan dapat ditukar dengan obat di apotek;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan tentang bahan dan cara memasak obat (makanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resep",
+  "related": [],
+  "detailed": false
+}

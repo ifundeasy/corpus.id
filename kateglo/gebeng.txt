@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gebeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilik kecil (tentang perahu);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Lay) besar; lebar (tentang dayung);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) bagian yang gepeng dari dayung yang dikayuhkan ke air; daun dayung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gebeng",
+  "related": [],
+  "detailed": false
+}

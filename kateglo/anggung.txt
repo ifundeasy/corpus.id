@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "link",
+        "text": "menganggung"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) bingung (tidak tahu mana yang harus diturut atau dipilih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggung",
+  "related": [],
+  "detailed": false
+}

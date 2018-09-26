@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan pendekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang mungkin ditempuh untuk mencapai sasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20pendekat",
+  "related": [],
+  "detailed": false
+}

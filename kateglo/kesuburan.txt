@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesuburan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) subur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) kemampuan menghasilkan keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesuburan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusaran angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angin yang bertiup; kisaran angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusaran%20angin",
+  "related": [],
+  "detailed": false
+}

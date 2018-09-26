@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "galur murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "galur yang dihasilkan melalui seleksi dan silang dalam beberapa generasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galur%20murni",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hipotesis yang menjelaskan akibat suatu sebab tertentu yang akan dibuktikan kebenarannya melalui penelitian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20kerja",
+  "related": [],
+  "detailed": false
+}

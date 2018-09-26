@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dividen ekstra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) pembayaran dividen tambahan di luar dividen tahunan, tetapi tidak merupakan kewajiban yang harus dilakukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dividen%20ekstra",
+  "related": [],
+  "detailed": false
+}

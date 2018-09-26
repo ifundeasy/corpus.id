@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan perihal lahir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelahiran",
+  "related": [],
+  "detailed": false
+}

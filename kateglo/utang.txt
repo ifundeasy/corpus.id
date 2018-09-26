@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "utang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejumlah uang yang disisihkan secara teratur untuk melunasi utang jangka panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utang",
+  "related": [],
+  "detailed": false
+}

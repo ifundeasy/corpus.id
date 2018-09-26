@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bom pembakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bom yang menyemburkan api (untuk menimbulkan kebakaran pada bangunan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bom%20pembakar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(daya) penggugah rasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) pengalihan pemeriksaan orang asing dari pengadilan kepada instansi lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evokasi",
+  "related": [],
+  "detailed": false
+}

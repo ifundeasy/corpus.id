@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelantak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (dari kayu dsb) untuk melantak senapan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemukul pancang;"
+      },
+      {
+        "type": "desc",
+        "text": "besi pelocok pompa dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelantak",
+  "related": [],
+  "detailed": false
+}

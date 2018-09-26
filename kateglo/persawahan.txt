@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persawahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mengusahakan sawah;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah-tanah yang dijadikan sawah; kumpulan sawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persawahan",
+  "related": [],
+  "detailed": false
+}

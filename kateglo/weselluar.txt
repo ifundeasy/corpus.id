@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wesel luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wesel yang ditarik oleh negara, tetapi pembayarannya dilakukan di negara lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wesel%20luar",
+  "related": [],
+  "detailed": false
+}

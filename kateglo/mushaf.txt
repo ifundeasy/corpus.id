@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mushaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) bagian naskah Alquran yang bertulis tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mushaf",
+  "related": [],
+  "detailed": false
+}

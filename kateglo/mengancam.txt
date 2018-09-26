@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengancam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyatakan maksud (niat, rencana) untuk melakukan sesuatu yang merugikan, menyulitkan, menyusahkan, atau mencelakakan pihak lain;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi pertanda atau peringatan mengenai kemungkinan malapetaka yang bakal terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "diperkirakan akan menimpa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengancam",
+  "related": [],
+  "detailed": false
+}

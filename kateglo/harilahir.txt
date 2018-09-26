@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari lahir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari ketika dilahirkan ke dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20lahir",
+  "related": [],
+  "detailed": false
+}

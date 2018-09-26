@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah operasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah tempat melakukan suatu kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20operasi",
+  "related": [],
+  "detailed": false
+}

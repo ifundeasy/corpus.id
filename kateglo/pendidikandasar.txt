@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan minimum (terendah) yang diwajibkan bagi semua warga negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20dasar",
+  "related": [],
+  "detailed": false
+}

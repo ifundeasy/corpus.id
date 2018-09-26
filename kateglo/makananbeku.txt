@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan beku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang diawetkan dengan proses pembekuan sehingga tahan lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20beku",
+  "related": [],
+  "detailed": false
+}

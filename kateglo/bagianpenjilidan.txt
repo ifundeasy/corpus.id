@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian penjilidan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian perpustakaan atau percetakan tempat penjilidan buku dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian%20penjilidan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kokpit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang terbuka di buritan tempat mengemudikan kapal (kecil);"
+      },
+      {
+        "type": "desc",
+        "text": "ruang kursi pilot atau kopilot pada ruang kemudi (dalam pesawat penumpang yang besar, ruang khusus untuk pilot dan awak pesawat lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kokpit",
+  "related": [],
+  "detailed": false
+}

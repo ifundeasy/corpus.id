@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dongeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita yang tidak benar-benar terjadi (terutama tentang kejadian zaman dulu yang aneh-aneh);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perkataan (berita dsb) yang bukan-bukan atau tidak benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dongeng",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membanding",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "mengadu (meminta banding) kepada pengadilan yang lebih tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "menimbang-nimbang (baik buruk, besar kecil, dsb) beberapa benda; membandingkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membanding",
+  "related": [],
+  "detailed": false
+}

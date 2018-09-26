@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kawin gantung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perkawinan yang sudah sah, tetapi suami dan istri belum boleh serumah (masih tinggal di rumah masing-masing);"
+      },
+      {
+        "type": "desc",
+        "text": "perkawinan yang belum diresmikan penuh (pengesahannya ditunda setelah dewasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawin%20gantung",
+  "related": [],
+  "detailed": false
+}

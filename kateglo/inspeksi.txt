@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inspeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan dengan saksama; peme-riksaan secara langsung tentang pelaksanaan peraturan, tugas, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) pemeriksaan pasukan dengan cermat untuk mengetahui kesiapan di tempat masing-masing;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) wilayah jabatan inspektur; kantor inspektur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspeksi",
+  "related": [],
+  "detailed": false
+}

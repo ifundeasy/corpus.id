@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan kata yang disusun menurut abjad dari atas ke bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20kata",
+  "related": [],
+  "detailed": false
+}

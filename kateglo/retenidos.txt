@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retenidos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditahan sementara untuk diperiksa di pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retenidos",
+  "related": [],
+  "detailed": false
+}

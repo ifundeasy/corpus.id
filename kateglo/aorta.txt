@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aorta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batang nadi (pembuluh nadi yang besar) yang pangkalnya terletak pada bilik kiri jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aorta",
+  "related": [],
+  "detailed": false
+}

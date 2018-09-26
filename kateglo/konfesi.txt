@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengakuan iman penganut agama;"
+      },
+      {
+        "type": "desc",
+        "text": "pengakuan dosa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfesi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekotipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot) bagian populasi suatu jenis yang menunjukkan ciri-ciri morfologi kimia atau fisiologi yang mantap dan agaknya diatur oleh faktor-faktor genetika yang berkorelasi dengan keadaan ekologi tertentu, tetapi yang dianggap kurang berarti dari sudut taksonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekotipe",
+  "related": [],
+  "detailed": false
+}

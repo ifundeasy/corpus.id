@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tromol pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tromol%20pos",
+  "related": [],
+  "detailed": false
+}

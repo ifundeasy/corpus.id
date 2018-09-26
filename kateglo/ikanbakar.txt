@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikan bakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang dipanggang di atas api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikan%20bakar",
+  "related": [],
+  "detailed": false
+}

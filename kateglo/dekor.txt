@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen)"
+      },
+      {
+        "type": "desc",
+        "text": "perlengkapan panggung teater yang diatur sedemikian rupa sehingga menggambarkan tempat kejadian;"
+      },
+      {
+        "type": "desc",
+        "text": "latar belakang suara (dalam siaran sandiwara radio);"
+      },
+      {
+        "type": "desc",
+        "text": "hiasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekor",
+  "related": [],
+  "detailed": false
+}

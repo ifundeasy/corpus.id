@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mineral ikutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komponen mineral dari batuan yang terdapat dalam jumlah kecil sehingga tidak diperhitungkan dalam klasifikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineral%20ikutan",
+  "related": [],
+  "detailed": false
+}

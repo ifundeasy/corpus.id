@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan bebas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat makan minum secara gratis, tanpa perlu membayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20bebas",
+  "related": [],
+  "detailed": false
+}

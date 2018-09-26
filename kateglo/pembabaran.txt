@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembabaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membabarkan; pembentangan; pemaparan;"
+      },
+      {
+        "type": "desc",
+        "text": "penarikan simpulan berdasarkan sebuah atau beberapa simpulan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membabar;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal membabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembabaran",
+  "related": [],
+  "detailed": false
+}

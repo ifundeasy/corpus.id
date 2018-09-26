@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkauman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaum kerabat; pertalian sanak saudara;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan; puak;"
+      },
+      {
+        "type": "desc",
+        "text": "cara bersuku-suku (berkelompok menurut sukunya); persukuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkauman",
+  "related": [],
+  "detailed": false
+}

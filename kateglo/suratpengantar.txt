@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat pengantar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang dikirim atau disertakan bersama-sama barang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20pengantar",
+  "related": [],
+  "detailed": false
+}

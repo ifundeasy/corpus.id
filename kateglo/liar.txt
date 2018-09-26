@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada yang memelihara; tidak dipiara orang (tentang binatang);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak (belum) jinak;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tenang (tentang pandangan mata); buas; ganas;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak teratur; tidak menurut aturan (hukum);"
+      },
+      {
+        "type": "desc",
+        "text": "belum beradab;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak resmi ditunjuk atau diakui oleh yang berwenang; tanpa izin resmi dari yang berwenang; tidak memiliki izin usaha, mendirikan, atau membangun, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liar",
+  "related": [],
+  "detailed": false
+}

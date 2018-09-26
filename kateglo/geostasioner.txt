@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geostasioner",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan atau mengenai satelit buatan yang berjalan mengelilingi khatulistiwa yang sama cepatnya dengan rotasi bumi sehingga satelit itu kelihatan tetap di satu tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geostasioner",
+  "related": [],
+  "detailed": false
+}

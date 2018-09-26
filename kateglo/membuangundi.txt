@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membuang undi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan sesuatu dengan mengundi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membuang%20undi",
+  "related": [],
+  "detailed": false
+}

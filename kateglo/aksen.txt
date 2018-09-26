@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aksen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "tekanan suara pada kata atau suku kata;"
+      },
+      {
+        "type": "desc",
+        "text": "pelafalan khas yang menjadi ciri seseorang; logat;"
+      },
+      {
+        "type": "desc",
+        "text": "tekanan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda diakritik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksen",
+  "related": [],
+  "detailed": false
+}

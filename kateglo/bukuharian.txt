@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku tulis yang berisi catatan tentang kegiatan yang harus dilakukan dan kejadian yang dialami setiap hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) buku untuk mencatat perincian transaksi usaha berdasarkan urutan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20harian",
+  "related": [],
+  "detailed": false
+}

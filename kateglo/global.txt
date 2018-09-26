@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "global",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara umum dan keseluruhan; secara bulat; secara garis besar;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkut paut, mengenai, meliputi seluruh dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=global",
+  "related": [],
+  "detailed": false
+}

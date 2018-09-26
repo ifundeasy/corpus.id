@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengubrakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggagalkan; membatalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "membiarkan tidak selesai (tentang perkara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membubarkan (tentang perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menceraikan (tentang perkawinan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengubrakan",
+  "related": [],
+  "detailed": false
+}

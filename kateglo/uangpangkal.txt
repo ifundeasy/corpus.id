@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang pangkal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang harus dibayar dulu ketika mula-mula masuk sekolah, perkumpulan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20pangkal",
+  "related": [],
+  "detailed": false
+}

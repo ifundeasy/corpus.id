@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "selalu berada (tinggal, berdiri, dsb) di tempatnya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berubah (keadaannya, kedudukannya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berpindah-pindah; tidak beranjak;"
+      },
+      {
+        "type": "desc",
+        "text": "kekal selama-lamanya; lestari;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah pasti (tentu);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "selalu demikian halnya (tentang keadaan, perbuatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak putus-putusnya; selalu; terus;"
+      },
+      {
+        "type": "desc",
+        "text": "untuk selamanya (tidak untuk sementara);"
+      },
+      {
+        "type": "link",
+        "text": "menetap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetap",
+  "related": [],
+  "detailed": false
+}

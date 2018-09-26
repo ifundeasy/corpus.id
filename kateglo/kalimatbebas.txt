@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) struktur sintaksis yang tidak memerlukan konteks tambahan untuk dapat dipahami maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20bebas",
+  "related": [],
+  "detailed": false
+}

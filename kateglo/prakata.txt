@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prakata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan (uraian dsb) yang ditulis oleh penulis atau pengarang sebagai pengantar suatu karya tulis (buku, laporan, penelitian, dsb); mukadimah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakata",
+  "related": [],
+  "detailed": false
+}

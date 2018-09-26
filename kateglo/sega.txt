@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sega",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "licin gilap (tentang kulit rotan, kertas, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "nasi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sega",
+  "related": [],
+  "detailed": false
+}

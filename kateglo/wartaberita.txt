@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warta berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai-bagai kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warta%20berita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umbi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akar yang menjadi besar dan berisi (wortel, ketela, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pangkal batang yang menjadi besar dan berisi yang dapat dimakan (seperti talas, keladi);"
+      },
+      {
+        "type": "desc",
+        "text": "pangkal batang pohon berdaun tunggal (seperti pada kelapa dan pisang);"
+      },
+      {
+        "type": "desc",
+        "text": "pokok akar (dari batang) yang lurus menghunjam ke dalam tanah; akar umbi;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian pasak (pancang, tiang, dsb) yang tertanam di tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umbi",
+  "related": [],
+  "detailed": false
+}

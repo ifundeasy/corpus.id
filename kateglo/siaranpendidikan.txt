@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran pendidikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran berisi acara-acara dengan tujuan mendidik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20pendidikan",
+  "related": [],
+  "detailed": false
+}

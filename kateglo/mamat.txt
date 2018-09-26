@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mamat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upacara adat di Kalimantan Tengah;"
+      },
+      {
+        "type": "link",
+        "text": "mamut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran pelanggan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Telekom) saluran yang menghubungkan kotak pembagi dengan rumah pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20pelanggan",
+  "related": [],
+  "detailed": false
+}

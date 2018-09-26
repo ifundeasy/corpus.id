@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapasitans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "hasil bagi antara muatan elektrik pada sebuah benda dan benda potensial elektrik yang terjadi pada benda akibat muatan itu;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan menyimpan muatan listrik pada potensial tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapasitans",
+  "related": [],
+  "detailed": false
+}

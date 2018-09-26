@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni lukis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni mengenai gambar-menggambar dan lukis-melukis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20lukis",
+  "related": [],
+  "detailed": false
+}

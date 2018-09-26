@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penderita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menderita (kesusahan, sakit, cacat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penderita",
+  "related": [],
+  "detailed": false
+}

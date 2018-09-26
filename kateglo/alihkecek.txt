@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alih kecek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tukar percakapan (mempercakapkan perkara lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alih%20kecek",
+  "related": [],
+  "detailed": false
+}

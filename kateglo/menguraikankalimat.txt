@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menguraikan kalimat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencerai-ceraikan bagian kalimat (menurut jenis kata atau jabatan katanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menguraikan%20kalimat",
+  "related": [],
+  "detailed": false
+}

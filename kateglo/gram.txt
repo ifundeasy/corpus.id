@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan dasar ukuran berat (massa) (disingkat g);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gram",
+  "related": [],
+  "detailed": false
+}

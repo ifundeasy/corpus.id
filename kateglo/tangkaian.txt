@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tangkaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tangkai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tangkaian",
+  "related": [],
+  "detailed": false
+}

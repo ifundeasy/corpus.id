@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah serang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah untuk mulai melakukan serangan bagi para pemain baris depan dalam permainan voli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20serang",
+  "related": [],
+  "detailed": false
+}

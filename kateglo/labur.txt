@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melabur"
+      },
+      {
+        "type": "link",
+        "text": "melabur"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "kelaburan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labur",
+  "related": [],
+  "detailed": false
+}

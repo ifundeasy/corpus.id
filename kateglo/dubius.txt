@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dubius",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat ragu-ragu;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat meragukan (misal karena mempunyai dua pengertian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dubius",
+  "related": [],
+  "detailed": false
+}

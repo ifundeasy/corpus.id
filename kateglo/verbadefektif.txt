@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba defektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang tidak mempunyai semua bentuk konjugasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20defektif",
+  "related": [],
+  "detailed": false
+}

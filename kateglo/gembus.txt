@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gembus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ampas tahu atau kelapa yang disiapkan sebagai bahan salah satu jenis tempe;"
+      },
+      {
+        "type": "link",
+        "text": "gembusan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gembus",
+  "related": [],
+  "detailed": false
+}

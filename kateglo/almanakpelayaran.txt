@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "almanak pelayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "almanak untuk pelayaran yang berisi catatan tentang kejadian astronomi, seperti posisi matahari, bulan, planet, dan bintang setiap saat, siang dan malam sepanjang tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=almanak%20pelayaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbelahan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai belahan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) seketurunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbelahan",
+  "related": [],
+  "detailed": false
+}

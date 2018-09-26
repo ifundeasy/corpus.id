@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "butir-butir batu yang halus; kersik halus;"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan tanah atau timbunan kersik halus;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbutir-butir sebagai pasir;"
+      },
+      {
+        "type": "desc",
+        "text": "laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasir",
+  "related": [],
+  "detailed": false
+}

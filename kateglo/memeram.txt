@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memeram",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendekut (tentang burung merpati);"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpan buah-buahan (dengan membungkusnya dsb) supaya lekas masak;"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpan (rahasia, perasaan, dsb); menyembunyikan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh tinggal di rumah saja; menyekap; memingit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memeram",
+  "related": [],
+  "detailed": false
+}

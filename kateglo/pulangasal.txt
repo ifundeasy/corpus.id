@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pulang asal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kembali ke asalnya;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali kepada keadaan yang semula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulang%20asal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat telekap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang pemakaiannya ditempelkan pada bagian tubuh yang sakit; koyok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20telekap",
+  "related": [],
+  "detailed": false
+}

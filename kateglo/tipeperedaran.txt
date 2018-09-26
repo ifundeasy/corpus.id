@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe peredaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pola peredaran atmosfer di atas daerah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20peredaran",
+  "related": [],
+  "detailed": false
+}

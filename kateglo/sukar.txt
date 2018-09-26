@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sukar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "susah; sulit dipecahkan atau diselesaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "musykil; tidak mudah;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mudah mendapat; jarang ada;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dalam kekurangan; miskin;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mudah sembuh (tentang penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sukar",
+  "related": [],
+  "detailed": false
+}

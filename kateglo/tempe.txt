@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan untuk lauk nasi, dibuat dari kedelai dsb yang diberi ragi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempe",
+  "related": [],
+  "detailed": false
+}

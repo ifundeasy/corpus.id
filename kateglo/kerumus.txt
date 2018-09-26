@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerumus",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengerumus"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerumus",
+  "related": [],
+  "detailed": false
+}

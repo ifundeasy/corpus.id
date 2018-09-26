@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "informasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan; kabar atau berita tentang sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) keseluruhan makna yang menunjang amanat yang terlihat dalam bagian-bagian amanat itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informasi",
+  "related": [],
+  "detailed": false
+}

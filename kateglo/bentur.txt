@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bentur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membentur"
+      },
+      {
+        "type": "link",
+        "text": "berbenturan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentur",
+  "related": [],
+  "detailed": false
+}

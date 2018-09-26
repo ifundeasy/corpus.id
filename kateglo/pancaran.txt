@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pancaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipancarkan (disemburkan, dikeluarkan);"
+      },
+      {
+        "type": "desc",
+        "text": "siaran (radio, televisi);"
+      },
+      {
+        "type": "desc",
+        "text": "turunan; keturunan (anak cucu);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil (cara) memancar (menyembur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancaran",
+  "related": [],
+  "detailed": false
+}

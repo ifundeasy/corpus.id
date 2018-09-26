@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kundi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "biji saga, dahulu digunakan untuk menimbang emas (1 emas = 24 kundi);"
+      },
+      {
+        "type": "desc",
+        "text": "pengrajin barang yang terbuat dari tanah liat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kundi",
+  "related": [],
+  "detailed": false
+}

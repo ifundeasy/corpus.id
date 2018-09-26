@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekonomi kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) penggunaan kata yang lebih hemat dan lebih jelas dalam suatu gaya berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonomi%20kata",
+  "related": [],
+  "detailed": false
+}

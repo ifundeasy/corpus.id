@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentuk bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "penampakan atau rupa satuan bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "penampakan atau rupa satuan gramatikal atau leksikal dipandang secara fonis atau grafemis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk%20bahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "logam berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "logam yang terdapat dalam sampah kota dan limbah industri yang menimbulkan bahaya lingkungan jangka panjang, meliputi boron, badmium, kobalt, kromium, tembaga, merkuri, nikel, timbel, dan seng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logam%20berat",
+  "related": [],
+  "detailed": false
+}

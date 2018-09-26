@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanggar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pemujaan yang terletak di pekarangan rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat untuk kegiatan seni (tari, lukis, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanggar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter bedah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter ahli bedah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20bedah",
+  "related": [],
+  "detailed": false
+}

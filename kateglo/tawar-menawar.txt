@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tawar-menawar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling meminta pengurangan harga (tuntutan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawar-menawar",
+  "related": [],
+  "detailed": false
+}

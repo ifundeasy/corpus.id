@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejahatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan yang jahat;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat yang jahat;"
+      },
+      {
+        "type": "desc",
+        "text": "dosa;"
+      },
+      {
+        "type": "desc",
+        "text": "perilaku yang bertentangan dengan nilai dan norma yang berlaku yang telah disahkan oleh hukum tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejahatan",
+  "related": [],
+  "detailed": false
+}

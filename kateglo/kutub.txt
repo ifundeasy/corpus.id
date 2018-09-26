@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kutub",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujung poros atau sumbu bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "ujung batang magnet yang mempunyai sifat menarik besi;"
+      },
+      {
+        "type": "desc",
+        "text": "ujung baterai;"
+      },
+      {
+        "type": "desc",
+        "text": "ujung dari garis (rentangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutub",
+  "related": [],
+  "detailed": false
+}

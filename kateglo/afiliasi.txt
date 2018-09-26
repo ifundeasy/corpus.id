@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "afiliasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertalian sebagai anggota atau cabang; perhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk kerja sama antara dua lembaga pendidikan, biasanya yang satu lebih besar daripada yang lain, tetapi masing-masing berdiri sendiri; bantuan yang diberikan oleh lembaga yang lebih besar dalam bentuk personel, peralatan, atau fasilitas pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afiliasi",
+  "related": [],
+  "detailed": false
+}

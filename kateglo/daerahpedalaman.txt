@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pedalaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang terletak jauh dari kota atau dari pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pedalaman",
+  "related": [],
+  "detailed": false
+}

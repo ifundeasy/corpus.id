@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanggap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memperhatikan sungguh-sungguh;"
+      },
+      {
+        "type": "desc",
+        "text": "menerima dengan pancaindra (seperti melihat, mendengar, merasai); mencerap;"
+      },
+      {
+        "type": "desc",
+        "text": "bertanya untuk meminta penjelasan (keterangan);"
+      },
+      {
+        "type": "desc",
+        "text": "memanggil ke suatu tempat (ke rumah sendiri dsb) dan menyuruhnya untuk menggelarkan suatu pertunjukan (tontonan) serta membayar semua biaya yang diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanggap",
+  "related": [],
+  "detailed": false
+}

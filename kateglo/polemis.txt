@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polemis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat polemik; bersangkutan dengan polemik;"
+      },
+      {
+        "type": "desc",
+        "text": "menimbulkan polemik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polemis",
+  "related": [],
+  "detailed": false
+}

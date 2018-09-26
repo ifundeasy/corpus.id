@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "konsep sintaktis yang mencakupi konstruksi, seperti indikatif, interogatif, imperatif;"
+      },
+      {
+        "type": "desc",
+        "text": "pola seperti nomina + verba + nomina untuk menggambarkan kalimat misal Adik membaca buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20kalimat",
+  "related": [],
+  "detailed": false
+}

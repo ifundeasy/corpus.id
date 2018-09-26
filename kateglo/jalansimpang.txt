@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan simpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang menyimpang dari jalan utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20simpang",
+  "related": [],
+  "detailed": false
+}

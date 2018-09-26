@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelumat",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "gelemat"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) riuh rendah (ramai sekali);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelumat",
+  "related": [],
+  "detailed": false
+}

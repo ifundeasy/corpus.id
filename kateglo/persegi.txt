@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persegi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segi empat sama sisi; bujur sangkar;"
+      },
+      {
+        "type": "desc",
+        "text": "kuadrat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persegi",
+  "related": [],
+  "detailed": false
+}

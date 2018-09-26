@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek kronis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "efek yang berlangsung perlahan-lahan dan lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20kronis",
+  "related": [],
+  "detailed": false
+}

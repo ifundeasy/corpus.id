@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpikir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(sudah) terkandung dalam ingatan; dipikirkan; teringat;"
+      },
+      {
+        "type": "desc",
+        "text": "timbul dalam ingatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpikir",
+  "related": [],
+  "detailed": false
+}

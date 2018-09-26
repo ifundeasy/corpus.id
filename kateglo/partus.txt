@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "partus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) perihal melahirkan (bayi); persalinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partus",
+  "related": [],
+  "detailed": false
+}

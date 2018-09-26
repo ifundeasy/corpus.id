@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan merah (kekuning-kuningan) yang melekat pada besi dsb sebagai akibat proses kimia;"
+      },
+      {
+        "type": "desc",
+        "text": "zat yang terjadi karena oksidasi logam dengan zat asam (oksigen) yang terdapat di udara;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran untuk menentukan kadar emas;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat berlian (intan) 200 mg;"
+      },
+      {
+        "type": "desc",
+        "text": "nilai; mutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karat",
+  "related": [],
+  "detailed": false
+}

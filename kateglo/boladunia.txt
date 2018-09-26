@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bola dunia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "globe;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bola%20dunia",
+  "related": [],
+  "detailed": false
+}

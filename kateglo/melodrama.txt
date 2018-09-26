@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "melodrama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pergelaran, seperti sandiwara atau film, dengan lakon yang sangat sentimental, mendebarkan, dan mengharukan, yang lebih mengutamakan ketegangan daripada kebenaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) lakon modern yang serius, tetapi yang belum dapat disebut sebagai drama duka;"
+      },
+      {
+        "type": "desc",
+        "text": "pergelaran seni deklamasi yang diiringi musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melodrama",
+  "related": [],
+  "detailed": false
+}

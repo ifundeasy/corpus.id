@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tamu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang datang berkunjung (melawat dsb) ke tempat orang lain atau ke perjamuan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang datang untuk menginap (di hotel), untuk membeli-beli (di toko); jamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tamu",
+  "related": [],
+  "detailed": false
+}

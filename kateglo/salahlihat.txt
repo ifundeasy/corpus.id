@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah lihat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keliru melihat sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "melihat (memandang) dengan maksud buruk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20lihat",
+  "related": [],
+  "detailed": false
+}

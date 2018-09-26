@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sikap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tokoh atau bentuk tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "cara berdiri (tegak, teratur, atau dipersiapkan untuk bertindak); kuda-kuda (tentang pencak dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan dsb yang berdasarkan pada pendirian, keyakinan;"
+      },
+      {
+        "type": "desc",
+        "text": "perilaku; gerak-gerik;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sigap;"
+      },
+      {
+        "type": "link",
+        "text": "burung"
+      },
+      {
+        "type": "link",
+        "text": "baju"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyikap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sikap",
+  "related": [],
+  "detailed": false
+}

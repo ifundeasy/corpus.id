@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "katalog nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "katalog yang disusun berabjad menurut nama orang, nama tempat, atau keduanya, baik yang digunakan sebagai pengarang maupun sebagai subjek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalog%20nama",
+  "related": [],
+  "detailed": false
+}

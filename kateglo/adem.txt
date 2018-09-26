@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adem",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "dingin; sejuk;"
+      },
+      {
+        "type": "desc",
+        "text": "tenteram (pikiran, hati); tenang;"
+      },
+      {
+        "type": "desc",
+        "text": "hambar (rasa makanan); tawar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adem",
+  "related": [],
+  "detailed": false
+}

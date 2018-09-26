@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halakah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara belajar atau mengajar dengan duduk di atas tikar dengan posisi melingkar atau berjejer;"
+      },
+      {
+        "type": "desc",
+        "text": "sarasehan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halakah",
+  "related": [],
+  "detailed": false
+}

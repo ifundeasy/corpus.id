@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mirip",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir sama atau serupa (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "sama halnya (rupanya) dengan; seolah-olah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mirip",
+  "related": [],
+  "detailed": false
+}

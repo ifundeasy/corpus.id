@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tanda jadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan terlebih dahulu sebagai tanda telah terjadi transaksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tanda%20jadi",
+  "related": [],
+  "detailed": false
+}

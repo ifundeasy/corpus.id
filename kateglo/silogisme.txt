@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silogisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk, cara berpikir atau menarik simpulan yang terdiri atas premis umum, premis khusus, dan simpulan (misal semua manusia akan mati, si A manusia, jadi si A akan mati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silogisme",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa flektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang kata-katanya mengalami perubahan bentuk sehubungan dengan perubahan jenis, subjek (pelaku), waktu, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20flektif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "litsus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akr) →"
+      },
+      {
+        "type": "link",
+        "text": "penelitian khusus"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=litsus",
+  "related": [],
+  "detailed": false
+}

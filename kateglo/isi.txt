@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang ada (termuat, terkandung, dsb) di dalam suatu benda dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "besarnya suatu ruangan; volume;"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang tertulis di dalamnya (tentang buku, surat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "inti atau bagian yang pokok dari suatu wejangan (pidato, pem-bicaraan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isi",
+  "related": [],
+  "detailed": false
+}

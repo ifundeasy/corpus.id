@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lukut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan ganggang, Hydrilla verticillate;"
+      },
+      {
+        "type": "link",
+        "text": "melukut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lukut",
+  "related": [],
+  "detailed": false
+}

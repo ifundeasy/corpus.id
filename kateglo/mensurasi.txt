@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mensurasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang aritmetika yang berhubungan dengan pengukuran, seperti pengukuran panjang, luas, dan volume;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan pengukuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mensurasi",
+  "related": [],
+  "detailed": false
+}

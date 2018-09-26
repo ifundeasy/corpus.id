@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filsafat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan dan penyelidikan dengan akal budi mengenai hakikat segala yang ada, sebab, asal, dan hukumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "teori yang mendasari alam pikiran atau suatu kegiatan;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu yang berintikan logika, estetika, metafisika, dan epistemologi;"
+      },
+      {
+        "type": "desc",
+        "text": "falsafah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filsafat",
+  "related": [],
+  "detailed": false
+}

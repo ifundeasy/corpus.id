@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hujan yang turun ketika matahari sedang bersinar, biasanya disertai timbulnya pelangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20panas",
+  "related": [],
+  "detailed": false
+}

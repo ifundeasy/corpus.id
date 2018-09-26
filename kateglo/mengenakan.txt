@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengenakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai (pakaian, topi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan (tipu muslihat, teori, guna-guna, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menipu; memperdayakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan atau melaksanakan (aturan, pajak, denda, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengarahkan (bidikan, tembakan) pada sasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengenakan",
+  "related": [],
+  "detailed": false
+}

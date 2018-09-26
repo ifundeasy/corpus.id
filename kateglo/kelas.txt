@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang tempat belajar di sekolah;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok masyarakat berdasarkan pendidikan, penghasilan, kekuasaan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan, kumpulan (berdasarkan persamaan berbagai sifat tertentu);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) klasifikasi dalam biologi sesudah divisi dan sebelum bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) antara pasang dan surut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas",
+  "related": [],
+  "detailed": false
+}

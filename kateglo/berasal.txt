@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berasal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bermula;"
+      },
+      {
+        "type": "desc",
+        "text": "bersumber;"
+      },
+      {
+        "type": "desc",
+        "text": "bertempat asal (dibuat, dilahirkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berasal",
+  "related": [],
+  "detailed": false
+}

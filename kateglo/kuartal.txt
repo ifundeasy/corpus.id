@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuartal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suku tahun (waktu seperempat tahun, yaitu tiga bulan); triwulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuartal",
+  "related": [],
+  "detailed": false
+}

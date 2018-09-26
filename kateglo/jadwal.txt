@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jadwal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian waktu berdasarkan rencana pengaturan urutan kerja; daftar atau tabel kegiatan atau rencana kegiatan dengan pembagian waktu pelaksanaan yang terperinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jadwal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lunak (seperti nasi, bubur);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang keras; agak empuk (tentang bantal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kendur; kurang tegang (tentang tali, per);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang (tidak) bersemangat; lemah hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembek",
+  "related": [],
+  "detailed": false
+}

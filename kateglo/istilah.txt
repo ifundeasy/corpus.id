@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau gabungan kata yang dengan cermat meng-ungkapkan makna konsep, proses, keadaan, atau sifat yang khas dalam bidang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan; nama;"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau ungkapan khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istilah",
+  "related": [],
+  "detailed": false
+}

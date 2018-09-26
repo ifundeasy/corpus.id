@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peristiwa hukum pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peristiwa yang mengakibatkan pemidanaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peristiwa%20hukum%20pidana",
+  "related": [],
+  "detailed": false
+}

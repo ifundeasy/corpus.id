@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tidak ada campurannya; tulen; murni;"
+      },
+      {
+        "type": "desc",
+        "text": "bukan peranakan;"
+      },
+      {
+        "type": "desc",
+        "text": "bukan salinan (fotokopi, saduran, terjemahan);"
+      },
+      {
+        "type": "desc",
+        "text": "baik-baik; tidak diragukan asal usulnya;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dibawa sejak lahir (sifat pembawaan);"
+      },
+      {
+        "type": "desc",
+        "text": "(tempat) asal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asli",
+  "related": [],
+  "detailed": false
+}

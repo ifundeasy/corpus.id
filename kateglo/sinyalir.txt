@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinyalir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mensinyalir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinyalir",
+  "related": [],
+  "detailed": false
+}

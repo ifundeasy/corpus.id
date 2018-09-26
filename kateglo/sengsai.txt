@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengsai",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "sansai"
+      },
+      {
+        "type": "link",
+        "text": "sansai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengsai",
+  "related": [],
+  "detailed": false
+}

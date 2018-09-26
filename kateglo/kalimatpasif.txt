@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat pasif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang subjeknya merupakan tujuan dari perbuatan dalam predikat verbalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20pasif",
+  "related": [],
+  "detailed": false
+}

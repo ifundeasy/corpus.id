@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan dari satu sistem pengetahuan ke sistem yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan pemilikan atas suatu benda, tanah, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan dari satu bentuk (rupa, dsb) ke bentuk (rupa, dsb) yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konversi",
+  "related": [],
+  "detailed": false
+}

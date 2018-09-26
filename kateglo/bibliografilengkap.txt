@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi yang sudah lengkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20lengkap",
+  "related": [],
+  "detailed": false
+}

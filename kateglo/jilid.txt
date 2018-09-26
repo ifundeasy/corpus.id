@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jilid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jahitan buku (majalah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penggalan atau bagian buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jilid",
+  "related": [],
+  "detailed": false
+}

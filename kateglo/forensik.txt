@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "forensik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang ilmu kedokteran yang berhubungan dengan penerapan fakta-fakta medis pada masalah-masalah hukum;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu bedah yang berkaitan dengan penentuan identitas mayat seseorang yang ada kaitannya dengan kehakiman dan peradilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=forensik",
+  "related": [],
+  "detailed": false
+}

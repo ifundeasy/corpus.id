@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "drama satire",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) drama yang berisi sindiran, umumnya bersifat komedi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=drama%20satire",
+  "related": [],
+  "detailed": false
+}

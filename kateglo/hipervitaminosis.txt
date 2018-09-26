@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipervitaminosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gejala penyakit yang disebabkan oleh kelebihan dosis satu vitamin atau lebih, khususnya jenis vitamin yang dapat larut dalam air; keadaan sakit karena menyerap vitamin tertentu secara berlebihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipervitaminosis",
+  "related": [],
+  "detailed": false
+}

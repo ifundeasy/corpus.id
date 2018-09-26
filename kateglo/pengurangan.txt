@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengurangi atau mengurangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "hitungan tentang mengurangi; ~ dan penjumlahan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyusutan; pembatasan (hak; kuota, dsb); ~ hak demokrasi; ~ kuota impor mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurangan",
+  "related": [],
+  "detailed": false
+}

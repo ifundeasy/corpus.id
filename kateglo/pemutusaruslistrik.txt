@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemutus arus listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) alat listrik yang membuka dan menutup saluran listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemutus%20arus%20listrik",
+  "related": [],
+  "detailed": false
+}

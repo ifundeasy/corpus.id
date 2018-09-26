@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "D",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-4 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda keempat dalam urutan (mutu, nilai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) nada ke-2 dalam tangga nada C mayor;"
+      },
+      {
+        "type": "desc",
+        "text": "angka Romawi untuk lambang bilangan 500;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=D",
+  "related": [],
+  "detailed": false
+}

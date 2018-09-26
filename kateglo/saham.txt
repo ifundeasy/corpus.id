@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian; andil; sero (tentang permodalan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sumbangan (pikiran dan tenaga);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) surat bukti pemilikan bagian modal perseroan terbatas yang memberi hak atas dividen dan lain-lain menurut besar kecilnya modal yang disetor;"
+      },
+      {
+        "type": "desc",
+        "text": "hak yang dimiliki orang (pemegang saham) terhadap perusahaan berkat penyerahan bagian modal sehingga dianggap berbagi dalam pemilikan dan pengawasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham",
+  "related": [],
+  "detailed": false
+}

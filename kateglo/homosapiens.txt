@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "homo Sapiens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manusia yang hidup di bumi pada masa kini; manusia yang berpikir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homo%20Sapiens",
+  "related": [],
+  "detailed": false
+}

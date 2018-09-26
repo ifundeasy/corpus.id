@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikroklimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ekoklimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikroklimat",
+  "related": [],
+  "detailed": false
+}

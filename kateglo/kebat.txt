@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kebat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikat; balut;"
+      },
+      {
+        "type": "link",
+        "text": "kebat-kebit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebat",
+  "related": [],
+  "detailed": false
+}

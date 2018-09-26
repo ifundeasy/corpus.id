@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lekap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lekat;"
+      },
+      {
+        "type": "desc",
+        "text": "rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lekap",
+  "related": [],
+  "detailed": false
+}

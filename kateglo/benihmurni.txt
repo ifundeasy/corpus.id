@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benih murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) benih yang meliputi semua varietas dari tiap spesies tanaman yang diakui sebagaimana yang dinyatakan oleh pengirim atau yang ditemukan pada pengujian laboratorium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benih%20murni",
+  "related": [],
+  "detailed": false
+}

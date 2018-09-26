@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memutar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggerakkan supaya berputar (berpusing); memusing;"
+      },
+      {
+        "type": "desc",
+        "text": "mengalihkan (tentang perhatian, pandangan, arah);"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan uang di dalam perniagaan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengarau, mengaduk;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menyetel atau memasang supaya hidup atau berbunyi (tentang radio, televisi, kaset);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) membelokkan hingga arah menjadi berlawanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memutar",
+  "related": [],
+  "detailed": false
+}

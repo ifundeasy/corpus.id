@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetraploid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) organisme yang mempunyai empat pasang dasar kromosom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetraploid",
+  "related": [],
+  "detailed": false
+}

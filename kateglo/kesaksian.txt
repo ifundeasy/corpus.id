@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesaksian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan (pernyataan) yang diberikan oleh saksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesaksian",
+  "related": [],
+  "detailed": false
+}

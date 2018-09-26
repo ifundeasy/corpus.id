@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengupasan gabah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengupasan sekam gabah untuk mendapatkan beras pecah kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengupasan%20gabah",
+  "related": [],
+  "detailed": false
+}

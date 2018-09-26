@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "walango",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ikan laut, banyak jenis (misal ikan tapa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=walango",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anjlok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meloncat ke bawah dari tempat ketinggian (dengan posisi kedua kaki sebagai tumpuan);"
+      },
+      {
+        "type": "desc",
+        "text": "turun dari posisi semula (tentang jembatan, bangunan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keluar dari rel (tentang kereta api);"
+      },
+      {
+        "type": "desc",
+        "text": "turun banyak dalam waktu sangat singkat (tentang harga, berat badan, kesehatan orang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anjlok",
+  "related": [],
+  "detailed": false
+}

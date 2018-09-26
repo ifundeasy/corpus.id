@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkirim",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dikirim(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dikirim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkirim",
+  "related": [],
+  "detailed": false
+}

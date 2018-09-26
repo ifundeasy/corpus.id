@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumber daya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktor produksi terdiri atas tanah, tenaga kerja, dan modal yang dipakai dalam kegiatan ekonomi untuk menghasilkan barang jasa, serta mendistribusikannya;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan atau keadaan yang dapat digunakan manusia untuk memenuhi keperluan hidupnya;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu, baik yang berwujud maupun yang tidak berwujud, yang digunakan untuk mencapai hasil, misal peralatan, sediaan, waktu, dan tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber%20daya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asteroid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda langit kecil, anggota tata surya yang jumlahnya puluhan ribu, menghuni ruang antara planet Mars dan Yupiter; planetoid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asteroid",
+  "related": [],
+  "detailed": false
+}

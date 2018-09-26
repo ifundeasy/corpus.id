@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkat permintaan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lekas mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkat%20permintaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang dipakai sebagai tanda atau lambang suatu partai politik atau golongan masyarakat yang tampil sebagai kontestan dalam pemilihan umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20gambar",
+  "related": [],
+  "detailed": false
+}

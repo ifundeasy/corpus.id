@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "punca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujung (tali, benang, obor, dsb); ujung atau sudut kain (selendang, sebai, dsb) yang lepas atau terjulai;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat permulaan (tentang pengetahuan); pengantar (ilmu pengetahuan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pangkal (asal mula, lantaran); pokok (pembicaraan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sumber (berita, penghidupan, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "punca beliung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=punca",
+  "related": [],
+  "detailed": false
+}

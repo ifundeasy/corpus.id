@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tombok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terpaksa menambah uang (karena belum cukup, masih kurang); 2 n uang yang ditambahkan (karena kekurangan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang upah kepada tandak (ketika mengibing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tombok",
+  "related": [],
+  "detailed": false
+}

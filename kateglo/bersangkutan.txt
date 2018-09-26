@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersangkutan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhubungan; bertalian;"
+      },
+      {
+        "type": "desc",
+        "text": "terlibat (dalam suatu perkara, persoalan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berkepentingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersangkutan",
+  "related": [],
+  "detailed": false
+}

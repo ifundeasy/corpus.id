@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fitrah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat asal; kesucian; bakat; pembawaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) sedekah wajib berupa bahan makanan pokok (beras, gandum, dsb) yang harus diberikan pada akhir bulan Ramadan (malam sebelum satu Syawal sampai sebelum dimulai salat Idulfitri); zakat fitrah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fitrah",
+  "related": [],
+  "detailed": false
+}

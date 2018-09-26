@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa konsonantis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipe bahasa yang tidak mempunyai ciri-ciri seperti bahasa vokalis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20konsonantis",
+  "related": [],
+  "detailed": false
+}

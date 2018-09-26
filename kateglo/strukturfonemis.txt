@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "struktur fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) keseluruhan inventarisasi fonem; hubungan antara fonem beserta deskripsi alofon suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=struktur%20fonemis",
+  "related": [],
+  "detailed": false
+}

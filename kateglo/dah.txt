@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "dinas, jasa, kemanfaatan;"
+      },
+      {
+        "type": "desc",
+        "text": "baiklah;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) sudah;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ucapan salam waktu berpisah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dah",
+  "related": [],
+  "detailed": false
+}

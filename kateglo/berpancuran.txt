@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpancuran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai pancuran;"
+      },
+      {
+        "type": "desc",
+        "text": "memancar kemana-mana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpancuran",
+  "related": [],
+  "detailed": false
+}

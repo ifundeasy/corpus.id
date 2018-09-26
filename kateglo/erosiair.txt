@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "erosi air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan tanah dari permukaan terbuka, yang disebabkan oleh arus air deras, termasuk aliran permukaan yang berasal dari curah hujan, es, salju yang mencair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erosi%20air",
+  "related": [],
+  "detailed": false
+}

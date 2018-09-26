@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lupa-lupa ingat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak lupa, tetapi tidak ingat benar; masih ingat, tetapi kurang pasti; agak lupa;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lemah ingatannya (tentang orang tua dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lupa-lupa%20ingat",
+  "related": [],
+  "detailed": false
+}

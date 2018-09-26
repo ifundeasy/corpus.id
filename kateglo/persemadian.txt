@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persemadian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersemadi;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bersemadi; pertapaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persemadian",
+  "related": [],
+  "detailed": false
+}

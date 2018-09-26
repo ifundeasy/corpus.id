@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) penggunaan sinar pengionan (sinar X, sinar gama) untuk membentuk bayangan benda yang dikaji pada film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiografi",
+  "related": [],
+  "detailed": false
+}

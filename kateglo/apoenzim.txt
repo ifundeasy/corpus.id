@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apoenzim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian protein dari enzim;"
+      },
+      {
+        "type": "desc",
+        "text": "enzim yang harus menyatu dengan kofaktor agar berfungsi secara aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apoenzim",
+  "related": [],
+  "detailed": false
+}

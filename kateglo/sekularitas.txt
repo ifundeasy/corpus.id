@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekularitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kehidupan duniawi;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan seorang pejabat duniawi (bukan jabatan keagamaan);"
+      },
+      {
+        "type": "desc",
+        "text": "daerah kekuasaan hukum duniawi dari organisasi keagamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekularitas",
+  "related": [],
+  "detailed": false
+}

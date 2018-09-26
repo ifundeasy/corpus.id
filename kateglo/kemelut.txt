@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemelut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang berbahaya (tentang menderita penyakit, terutama penyakit demam);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan genting (berbahaya, kritis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemelut",
+  "related": [],
+  "detailed": false
+}

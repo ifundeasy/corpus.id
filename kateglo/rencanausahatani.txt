@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rencana usaha tani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan usaha yang akan dilaksanakan dalam waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rencana%20usaha%20tani",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peti kecil tempat barang perhiasan, barang kecil, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "petak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) tingkatan atau tempat yang tiada masuk dalam hitungan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ruang (bidang) empat persegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotak",
+  "related": [],
+  "detailed": false
+}

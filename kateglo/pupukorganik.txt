@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pupuk organik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat hara tanaman yang berasal dari bahan organik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuk%20organik",
+  "related": [],
+  "detailed": false
+}

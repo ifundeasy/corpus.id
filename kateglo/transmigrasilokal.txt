@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transmigrasi lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "transmigrasi dalam lingkungan satu daerah (bukan dari pulau lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transmigrasi%20lokal",
+  "related": [],
+  "detailed": false
+}

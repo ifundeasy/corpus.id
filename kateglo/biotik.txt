@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biotik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) makhluk hidup (tumbuhan, hewan, manusia), baik yang mikro maupun yang makro serta prosesnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biotik",
+  "related": [],
+  "detailed": false
+}

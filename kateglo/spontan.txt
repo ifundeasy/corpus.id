@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spontan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serta merta, tanpa dipikir, atau tanpa direncanakan lebih dulu; melakukan sesuatu karena dorongan hati, tidak karena anjuran dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "wajar; bebas pengaruh; tanpa pamrih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spontan",
+  "related": [],
+  "detailed": false
+}

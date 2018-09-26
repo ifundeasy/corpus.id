@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geleding",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeleding"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geleding",
+  "related": [],
+  "detailed": false
+}

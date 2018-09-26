@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesialisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengahlian dalam suatu cabang ilmu, pekerjaan, kesenian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan sumber daya produksi tertentu khusus untuk pembuatan ja-jaran produk yang terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesialisasi",
+  "related": [],
+  "detailed": false
+}

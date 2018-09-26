@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "argumentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alasan untuk memperkuat atau menolak suatu pendapat, pendirian, atau gagasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=argumentasi",
+  "related": [],
+  "detailed": false
+}

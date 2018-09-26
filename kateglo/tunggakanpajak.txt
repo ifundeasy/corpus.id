@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunggakan pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang masih belum dilunasi pada atau setelah tanggal pengenaan denda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggakan%20pajak",
+  "related": [],
+  "detailed": false
+}

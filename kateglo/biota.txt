@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keseluruhan flora dan fauna yang terdapat di dalam suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biota",
+  "related": [],
+  "detailed": false
+}

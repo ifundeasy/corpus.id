@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelahiran ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil akhir satu kehamilan yang menghasilkan lebih dari satu kelahiran hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelahiran%20ganda",
+  "related": [],
+  "detailed": false
+}

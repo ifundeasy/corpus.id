@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air senyawa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air di dalam tanah yang terikat bukan secara fisik melainkan secara kimiawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20senyawa",
+  "related": [],
+  "detailed": false
+}

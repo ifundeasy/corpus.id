@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jarang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "renggang atau lebar jaraknya (tidak rapat tentang tulisan, tumbuhan, tanaman, gigi, dsb); bersela-sela; tidak kerap (tentang tenunan, anyaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak merata (hanya di sana-sini);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak padat (tentang penduduk di suatu daerah);"
+      },
+      {
+        "type": "link",
+        "text": "jerang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarang",
+  "related": [],
+  "detailed": false
+}

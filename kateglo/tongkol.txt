@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tongkol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keratan (potongan) kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "buku (bonggol) pada kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "tongkol jagung;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut sejenis cakalang yang dapat dimakan, Euthynus allettratus affinis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tongkol",
+  "related": [],
+  "detailed": false
+}

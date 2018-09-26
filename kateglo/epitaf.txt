@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epitaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan singkat pada batu nisan untuk mengenang orang yang dikubur di situ;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan singkat pada sebuah monumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epitaf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kalimat (klausa) yang tidak dapat berdiri sendiri sebagai kalimat lengkap; klausa terikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20kalimat",
+  "related": [],
+  "detailed": false
+}

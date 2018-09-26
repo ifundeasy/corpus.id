@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepanasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) panas;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan merasa panas;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kena panas matahari;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepanasan",
+  "related": [],
+  "detailed": false
+}

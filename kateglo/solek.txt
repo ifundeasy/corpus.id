@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "solek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serba elok (tentang pakaian, hiasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "suka berhias diri (berdandan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara berhias diri (berpakaian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=solek",
+  "related": [],
+  "detailed": false
+}

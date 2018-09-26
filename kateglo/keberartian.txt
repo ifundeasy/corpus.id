@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberartian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mempunyai arti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberartian",
+  "related": [],
+  "detailed": false
+}

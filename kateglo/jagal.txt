@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jagal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang kecil (di kedai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menyembelih (memotong) binatang ternak (seperti lembu, kambing, kerbau) di rumah pemotongan hewan; pembantai;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berusaha di bidang potong-memotong hewan atau sebagai agen penjual daging hewan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pembunuh orang yang tidak bersalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jagal",
+  "related": [],
+  "detailed": false
+}

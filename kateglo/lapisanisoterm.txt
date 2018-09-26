@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapisan isoterm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) lapisan atmosfer dengan suhu yang sama di sepanjang arah vertikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapisan%20isoterm",
+  "related": [],
+  "detailed": false
+}

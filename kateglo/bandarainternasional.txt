@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bandara internasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bandara khusus tempat pesawat terbang diperkenankan mendarat dan berangkat langsung ke luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandara%20internasional",
+  "related": [],
+  "detailed": false
+}

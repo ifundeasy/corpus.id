@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat generik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang penamaannya didasarkan pada zat aktif yang terdapat dalam obat tersebut dan tidak menggunakan merek dagang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20generik",
+  "related": [],
+  "detailed": false
+}

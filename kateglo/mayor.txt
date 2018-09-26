@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mayor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkat perwira menengah peringkat terendah dalam ketentaraan, satu tingkat di bawah letnan kolonel, satu tingkat di atas kapten (tanda pangkatnya satu bunga melati emas yang ditempatkan di bahu baju);"
+      },
+      {
+        "type": "desc",
+        "text": "yang utama; yang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mayor",
+  "related": [],
+  "detailed": false
+}

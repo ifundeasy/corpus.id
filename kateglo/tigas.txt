@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tigas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menigas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tigas",
+  "related": [],
+  "detailed": false
+}

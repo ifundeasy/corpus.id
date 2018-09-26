@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laba kotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil penjualan bersih dikurangi biaya produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laba%20kotor",
+  "related": [],
+  "detailed": false
+}

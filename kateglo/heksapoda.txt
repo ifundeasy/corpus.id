@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heksapoda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "hewan berkaki enam;"
+      },
+      {
+        "type": "desc",
+        "text": "hewan tergolong kelas Insecta (serangga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heksapoda",
+  "related": [],
+  "detailed": false
+}

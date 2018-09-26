@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "impersonal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bersifat pribadi; tidak berkaitan dengan (tidak mengenai) seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=impersonal",
+  "related": [],
+  "detailed": false
+}

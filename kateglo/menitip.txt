@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menitip",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menaruh (barang dsb) supaya disimpan (dirawat, disampaikan kepada orang lain, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengamanatkan (untuk disampaikan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menumpangkan (barang dagangan) supaya dijualkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menitip",
+  "related": [],
+  "detailed": false
+}

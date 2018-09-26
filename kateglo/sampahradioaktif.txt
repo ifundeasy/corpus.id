@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampah radioaktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buangan berbentuk gas, cairan, atau benda padat dari reaktor pembelah nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampah%20radioaktif",
+  "related": [],
+  "detailed": false
+}

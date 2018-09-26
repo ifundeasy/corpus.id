@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nepotisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perilaku yang memperlihatkan kesukaan yang berlebihan kepada kerabat dekat;"
+      },
+      {
+        "type": "desc",
+        "text": "kecenderungan untuk mengutamakan (menguntungkan) sanak saudara sendiri, terutama dalam jabatan, pangkat di lingkungan pemerintah;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan memilih kerabat atau sanak saudara sendiri untuk memegang pemerintahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nepotisme",
+  "related": [],
+  "detailed": false
+}

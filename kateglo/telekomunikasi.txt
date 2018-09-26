@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telekomunikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komunikasi jarak jauh melalui kawat (telegrap, telepon) dan radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telekomunikasi",
+  "related": [],
+  "detailed": false
+}

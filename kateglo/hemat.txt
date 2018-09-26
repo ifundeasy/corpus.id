@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhati-hati dalam membelanjakan uang, dsb; tidak boros; cermat;"
+      },
+      {
+        "type": "desc",
+        "text": "penuh minat dan perhatian; (dengan) saksama; teliti;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pikiran; pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemat",
+  "related": [],
+  "detailed": false
+}

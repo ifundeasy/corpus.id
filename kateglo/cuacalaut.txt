@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuaca laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan udara di laut dan sekelilingnya (tentang temperatur, kelembapan, kecepatan angin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuaca%20laut",
+  "related": [],
+  "detailed": false
+}

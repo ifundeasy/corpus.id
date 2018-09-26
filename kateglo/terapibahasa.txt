@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terapi bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pengobatan dan perawatan untuk mengurangi atau menghilangkan kelainan wicara dan bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi%20bahasa",
+  "related": [],
+  "detailed": false
+}

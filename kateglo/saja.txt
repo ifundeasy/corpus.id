@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saja",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "melulu (tiada lain hanya; semata-mata);"
+      },
+      {
+        "type": "desc",
+        "text": "juga; pun (untuk menyatakan tidak tentu);"
+      },
+      {
+        "type": "desc",
+        "text": "selalu; terus menerus;"
+      },
+      {
+        "type": "desc",
+        "text": "seenaknya; sesuka hati;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih baik (sebagai anjuran);"
+      },
+      {
+        "type": "desc",
+        "text": "sekali (sebagai penegas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saja",
+  "related": [],
+  "detailed": false
+}

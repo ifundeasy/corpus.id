@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kematian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan tentang hari, tanggal, tempat, dsb kematian seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kematian",
+  "related": [],
+  "detailed": false
+}

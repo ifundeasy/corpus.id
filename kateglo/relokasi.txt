@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relokasi",
+  "related": [],
+  "detailed": false
+}

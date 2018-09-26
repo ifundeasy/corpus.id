@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang datangnya secara tidak sah (seperti barang curian, selundupan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20gelap",
+  "related": [],
+  "detailed": false
+}

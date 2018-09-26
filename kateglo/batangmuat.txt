@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batang muat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tangan-tangan yang dapat bergerak turun naik dan ke kiri ke kanan pada tiang muat kapal untuk menaikkan dan menurunkan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batang%20muat",
+  "related": [],
+  "detailed": false
+}

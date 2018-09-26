@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya pendaftaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang dikeluarkan ketika mencatatkan nama (badan dsb) untuk tujuan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) biaya pendaftaran emisi sekuritas yang dikenakan pada emiten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20pendaftaran",
+  "related": [],
+  "detailed": false
+}

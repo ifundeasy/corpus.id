@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ban serap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ban pengganti (kalau terjadi gangguan, seperti bocor dsb pada ban yang digunakan); ban cadangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ban%20serap",
+  "related": [],
+  "detailed": false
+}

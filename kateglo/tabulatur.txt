@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabulatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penamaan notasi yang telah disesuaikan dengan alat musik tertentu (organ, luit, teorbe, gitar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabulatur",
+  "related": [],
+  "detailed": false
+}

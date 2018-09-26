@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun berjalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu menurut perhitungan tahun yang sedang berlangsung; tahun yang belum habis hari bulannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20berjalan",
+  "related": [],
+  "detailed": false
+}

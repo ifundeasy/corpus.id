@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketersediaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesiapan suatu sarana (tenaga, barang, modal, anggaran) untuk dapat digunakan atau dioperasikan dalam waktu yang telah ditentukan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tersedia; hal tersedia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketersediaan",
+  "related": [],
+  "detailed": false
+}

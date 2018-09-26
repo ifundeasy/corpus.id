@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "okupasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendudukan, penggunaan, atau penempatan tanah kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "pendudukan dan penguasaan suatu daerah oleh tentara asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=okupasi",
+  "related": [],
+  "detailed": false
+}

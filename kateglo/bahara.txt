@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "muatan;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat yang ukurannya tidak tetap bergantung pada barang yang ditimbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahara",
+  "related": [],
+  "detailed": false
+}

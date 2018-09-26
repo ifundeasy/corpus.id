@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kendala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halangan; rintangan; gendala;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) faktor atau keadaan yang membatasi, menghalangi, atau mencegah pencapaian sasaran; kekuatan yang memaksa pembatalan pelaksanaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) hal (khususnya bentuk geometri lingkungan) yang membatasi keleluasaan gerak sebuah benda atau suatu sistem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendala",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perubahan tipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) perubahan cuaca dari satu tipe ke tipe lain, sering terjadi secara mendadak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perubahan%20tipe",
+  "related": [],
+  "detailed": false
+}

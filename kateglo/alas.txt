@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dasar; fondasi;"
+      },
+      {
+        "type": "desc",
+        "text": "sarap; lapik;"
+      },
+      {
+        "type": "desc",
+        "text": "hutan; rimba;"
+      },
+      {
+        "type": "link",
+        "text": "pengalasan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cabar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "hilang dayanya; tidak manjur (tentang guna-guna dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tawar (tentang hati, keberanian);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang ingat; lalai; lengah;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang (tidak) hemat; boros;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cabar",
+  "related": [],
+  "detailed": false
+}

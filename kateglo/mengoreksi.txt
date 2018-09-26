@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengoreksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membetulkan (memperbaiki) kesalahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) memeriksa pekerjaan murid dengan melihat benar salahnya (untuk menentukan nilai pekerjaan itu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengoreksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dorang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan bawal;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "mereka (di daerah Indonesia bagian timur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dorang",
+  "related": [],
+  "detailed": false
+}

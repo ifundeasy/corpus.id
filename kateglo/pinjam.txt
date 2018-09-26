@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pinjam",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meminjam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjam",
+  "related": [],
+  "detailed": false
+}

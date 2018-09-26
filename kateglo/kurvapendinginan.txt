@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva pendinginan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) kurva yang menggambarkan proses pendinginan; grafik dari temperatur terhadap waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20pendinginan",
+  "related": [],
+  "detailed": false
+}

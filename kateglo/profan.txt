@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bersangkutan dengan agama atau tujuan ke agamaan; lawan sakral;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak kudus (suci) karena tercemar, kotor, dsb; tidak suci;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak termasuk yang kudus (suci); duniawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profan",
+  "related": [],
+  "detailed": false
+}

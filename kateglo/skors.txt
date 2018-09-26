@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skors",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menskors"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skors",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profilaksis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeliharaan kesehatan dan pencegahan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profilaksis",
+  "related": [],
+  "detailed": false
+}

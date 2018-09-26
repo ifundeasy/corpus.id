@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peringkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat; pangkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peringkat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kualitatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan mutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kualitatif",
+  "related": [],
+  "detailed": false
+}

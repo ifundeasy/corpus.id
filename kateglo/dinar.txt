@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dinar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "mata uang emas lama;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan mata uang Aljazair, Bahrain seperti Irak, Kuwait, Tunisia, Yaman Selatan, Yordania (lihat lampiran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinar",
+  "related": [],
+  "detailed": false
+}

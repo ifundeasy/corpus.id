@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepoi",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "sepoi-sepoi"
+      },
+      {
+        "type": "link",
+        "text": "sipahi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepoi",
+  "related": [],
+  "detailed": false
+}

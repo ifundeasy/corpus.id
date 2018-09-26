@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata pemungkas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata akhir yang diandalkan sebagai penghancur lawan, mampu menentukan kemenangan dalam perang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu (tindakan, kebijakan, dsb) yang mampu menyelesaikan pertentangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20pemungkas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jauh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang antaranya (jaraknya); tidak dekat;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak sekali; amat; sangat (tentang perbedaan, selisih atau kekurangan);"
+      },
+      {
+        "type": "desc",
+        "text": "belum sampai kepada yang dimaksudkan (ditetapkan);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat kurang;"
+      },
+      {
+        "type": "desc",
+        "text": "lanjut (tentang usia);"
+      },
+      {
+        "type": "desc",
+        "text": "renggang; tidak rapat (tentang persahabatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jauh",
+  "related": [],
+  "detailed": false
+}

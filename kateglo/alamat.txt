@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alamat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda; pertanda (tanda akan terjadi sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "sasaran; tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "nama orang dan tempat yang menjadi tujuan surat (telegram dsb); nama dan tempat tinggal seseorang; adres;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) nama buku dsb; judul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alamat",
+  "related": [],
+  "detailed": false
+}

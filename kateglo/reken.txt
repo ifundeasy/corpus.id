@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reken",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mereken"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reken",
+  "related": [],
+  "detailed": false
+}

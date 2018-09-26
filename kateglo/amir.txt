@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan kepada anak raja;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin yang memerintah sebuah negeri;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin yang dipercaya mengetuai suatu pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amir",
+  "related": [],
+  "detailed": false
+}

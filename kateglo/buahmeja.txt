@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah meja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah yang disediakan untuk dimakan setelah makan, berupa buah masak tanpa diolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20meja",
+  "related": [],
+  "detailed": false
+}

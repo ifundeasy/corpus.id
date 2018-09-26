@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komidi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan berbagai kepandaian gerak badan (menjengkolet, meniti kawat, dsb); akrobat;"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan keterampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komidi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik di dalam suatu kurva hasil yang menjadi batas kenaikan hasil mulai berbalik menurun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20balik",
+  "related": [],
+  "detailed": false
+}

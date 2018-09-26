@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "hekto-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "kelipatan seratus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hekto-",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "internal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyangkut bagian dalam (tubuh, diri, mobil, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam (negeri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=internal",
+  "related": [],
+  "detailed": false
+}

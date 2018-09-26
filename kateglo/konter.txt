@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konter",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengonter"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konter",
+  "related": [],
+  "detailed": false
+}

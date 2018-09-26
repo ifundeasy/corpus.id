@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis kuantitatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hipotesis yang menunjukkan hubungan sebab akibat dengan pengukuran yang eksak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20kuantitatif",
+  "related": [],
+  "detailed": false
+}

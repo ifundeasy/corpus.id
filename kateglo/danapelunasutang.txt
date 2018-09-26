@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana pelunas utang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dana perusahaan untuk membayar utang jangka panjang yang dibentuk dengan menyisihkan sebagian laba secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20pelunas%20utang",
+  "related": [],
+  "detailed": false
+}

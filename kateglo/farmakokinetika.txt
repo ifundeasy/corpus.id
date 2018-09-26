@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmakokinetika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "studi tentang absorpsi, distribusi, metabolisme, dan ekskresi obat dalam tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmakokinetika",
+  "related": [],
+  "detailed": false
+}

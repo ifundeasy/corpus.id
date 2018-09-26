@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pancaran gas (air, uap, dsb) dari lubang kecil yang menghasilkan tenaga dorong yang kuat;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat terbang bermesin yang digerakkan oleh tenaga pancaran gas; pesawat pancar gas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) pancaran zat alir termampatkan yang kuat dan berukuran tertentu yang keluar melalui lubang (mulut) kecil ataupun yang mengalir di dalam pipa yang sempit; semburan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jet",
+  "related": [],
+  "detailed": false
+}

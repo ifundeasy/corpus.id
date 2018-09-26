@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grosir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang yang menjual barang dalam jumlah besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grosir",
+  "related": [],
+  "detailed": false
+}

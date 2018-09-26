@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "simpang (simpang siur)"
+      },
+      {
+        "type": "link",
+        "text": "berkesiuran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siur",
+  "related": [],
+  "detailed": false
+}

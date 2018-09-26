@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kromosom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian kromatin inti sel yang berceraian apabila sel terbelah atau membelah yang merupakan rangkaian pendukung jenis benda hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) benda mikroskopis berbentuk tongkat yang berada dalam sel organisme, mengandung gen yang banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kromosom",
+  "related": [],
+  "detailed": false
+}

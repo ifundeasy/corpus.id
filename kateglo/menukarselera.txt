@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menukar selera",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengecap masakan lain dari yang biasa dimakan; sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menukar%20selera",
+  "related": [],
+  "detailed": false
+}

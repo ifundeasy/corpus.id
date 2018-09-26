@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor (perusahaan) yang mengurus soal pinjam- meminjam uang, tabungan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20bank",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beber",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membeber"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beber",
+  "related": [],
+  "detailed": false
+}

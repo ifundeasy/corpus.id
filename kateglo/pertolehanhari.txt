@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertolehan hari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toleh tenggala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertolehan%20hari",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bingkisan pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang kiriman dengan perantaraan pos; pospaket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bingkisan%20pos",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang diikat;"
+      },
+      {
+        "type": "desc",
+        "text": "cara mengikat;"
+      },
+      {
+        "type": "desc",
+        "text": "berkas; gabungan;"
+      },
+      {
+        "type": "desc",
+        "text": "susunan (hubungan) kata dsb; rangkaian; pertalian;"
+      },
+      {
+        "type": "desc",
+        "text": "perserikatan; perkumpulan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) lambang untuk menyatakan jumlah serta ikatan valensi atom dalam rumus struktur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikatan",
+  "related": [],
+  "detailed": false
+}

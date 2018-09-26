@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpisahan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perceraian;"
+      },
+      {
+        "type": "desc",
+        "text": "hal berpisah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpisahan",
+  "related": [],
+  "detailed": false
+}

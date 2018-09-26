@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "denyut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak turun naik (pada urat nadi, ubun-ubun, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denyut",
+  "related": [],
+  "detailed": false
+}

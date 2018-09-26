@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepengusahaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk-beluk pengusaha; hal yang bersangkut-paut dengan pengusaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepengusahaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sunyi sepi; tidak ramai; tidak banyak orang (tentang dusun, pesta, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sepi; sunyi; tidak sibuk;"
+      },
+      {
+        "type": "desc",
+        "text": "terasa sunyi (karena tidak ada teman, tidak ada pekerjaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim bahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklim yang dipengaruhi lautan, ditandai oleh penyimpangan suhu udara harian dan/ atau tahunan yang kecil, serta kelembapan udara yang tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20bahari",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gimbal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebat dan tidak teratur (karena tidak disisir);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "udang goreng pakai tepung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gimbal",
+  "related": [],
+  "detailed": false
+}

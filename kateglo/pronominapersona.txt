@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pronomina persona",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pronomina yang menunjukkan kategori persona seperti saya, ia, mereka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pronomina%20persona",
+  "related": [],
+  "detailed": false
+}

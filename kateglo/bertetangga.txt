@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertetangga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi tetangga;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai tetangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertetangga",
+  "related": [],
+  "detailed": false
+}

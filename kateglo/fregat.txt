@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fregat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal perang berukuran sedang, berbobot antara 1.100—2.800 ton, dapat bergerak dengan lincah dan cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) kapal dengan tiga tiang lengkap dengan layar ondang-ondang dan layar buritan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fregat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekening mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) rekening koran yang tidak digunakan lagi untuk penarikan dan penyetoran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekening%20mati",
+  "related": [],
+  "detailed": false
+}

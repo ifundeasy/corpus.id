@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "planet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda langit (seperti Mars, Venus) yang tidak mengeluarkan panas ataupun cahaya dan bergerak mengelilingi matahari secara tetap; bintang siarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=planet",
+  "related": [],
+  "detailed": false
+}

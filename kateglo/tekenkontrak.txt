@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teken kontrak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menandatangani surat perjanjian karena bersetuju mengadakan kontrak;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi kuli kontrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teken%20kontrak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengubahan informasi dari bentuk sandi dsb ke dalam bahasa yang dikenal;"
+      },
+      {
+        "type": "desc",
+        "text": "pengubahan suatu sistem kode ke sistem kode yang lain; awakode;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menemukan (menafsirkan) makna atau arti suatu pesan dalam bahasa (rahasia); mengurai (menjabarkan) kode atau bahasa; awakode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekode",
+  "related": [],
+  "detailed": false
+}

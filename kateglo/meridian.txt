@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "meridian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) lingkaran khayal pada permukaan bumi, dibuat pada peta dan bola dunia sebanyak l80 buah dengan jarak satu derajat antara satu dan lainnya, yang berpotongan dari kutub utara dan kutub selatan, digunakan untuk menetapkan letak tampak pada permukaan bumi dengan arah timur-barat satuan derajat; garis bujur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meridian",
+  "related": [],
+  "detailed": false
+}

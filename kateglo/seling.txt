@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seling",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berseling"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) jala untuk mengangkat barang muatan ke kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tembikar; porselen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seling",
+  "related": [],
+  "detailed": false
+}

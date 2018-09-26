@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seranometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghitung pemberian isyarat terjadinya sambaran kilat di suatu tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seranometer",
+  "related": [],
+  "detailed": false
+}

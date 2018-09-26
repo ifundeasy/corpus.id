@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perubahan iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peralihan cuaca yang mencolok yang terjadi di antara dua periode tertentu dari suatu wilayah iklim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perubahan%20iklim",
+  "related": [],
+  "detailed": false
+}

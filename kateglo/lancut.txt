@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lancut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melancut"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mendatangkan faedah; sia-sia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lancut",
+  "related": [],
+  "detailed": false
+}

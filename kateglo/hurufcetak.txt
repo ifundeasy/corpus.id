@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang lazim dipakai dalam cetak-mencetak (huruf-hurufnya tidak bergandengan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20cetak",
+  "related": [],
+  "detailed": false
+}

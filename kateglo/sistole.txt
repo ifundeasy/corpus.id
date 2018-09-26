@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sistole",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penguncupan jantung akibat kontraksi otot jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistole",
+  "related": [],
+  "detailed": false
+}

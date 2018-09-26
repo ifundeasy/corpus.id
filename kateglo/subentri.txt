@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subentri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masukan kamus berikut keterangannya yang merupakan bagian yang diturunkan dari entri; sublema;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subentri",
+  "related": [],
+  "detailed": false
+}

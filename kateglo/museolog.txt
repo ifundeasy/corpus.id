@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "museolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli museum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=museolog",
+  "related": [],
+  "detailed": false
+}

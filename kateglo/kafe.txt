@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kafe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat minum kopi yang pengunjungnya dihibur dengan musik;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat minum yang pengunjungnya dapat memesan minuman, seperti kopi, teh, bir, dan kue-kue; kedai kopi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kafe",
+  "related": [],
+  "detailed": false
+}

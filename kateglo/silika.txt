@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Min)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian terbesar dari pasir dan batu pasir; SiO2;"
+      },
+      {
+        "type": "desc",
+        "text": "kristal; hablur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silika",
+  "related": [],
+  "detailed": false
+}

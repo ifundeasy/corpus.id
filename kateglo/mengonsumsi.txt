@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengonsumsi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan atau memakai barang-barang konsumsi;"
+      },
+      {
+        "type": "desc",
+        "text": "memakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengonsumsi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang sinus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang yang berliku-liku (berkelok-kelok);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20sinus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang dioleskan atau diteteskan untuk menyembuhkan penyakit luar (seperti kudis, panu) dan bukan untuk diminum atau ditelan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20luar",
+  "related": [],
+  "detailed": false
+}

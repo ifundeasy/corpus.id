@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zoonosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit pada binatang yang dapat ditularkan kepada manusia (seperti penyakit pes yang merupakan penyakit tikus) secara langsung atau ditularkan melalui serangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zoonosis",
+  "related": [],
+  "detailed": false
+}

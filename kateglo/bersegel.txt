@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersegel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai segel;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai segel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersegel",
+  "related": [],
+  "detailed": false
+}

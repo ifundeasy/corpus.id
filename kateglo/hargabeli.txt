@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga pada waktu membeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20beli",
+  "related": [],
+  "detailed": false
+}

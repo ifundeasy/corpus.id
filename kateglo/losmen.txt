@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "losmen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penginapan yang menyewakan kamar tanpa menyediakan fasilitas makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=losmen",
+  "related": [],
+  "detailed": false
+}

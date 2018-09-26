@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lapang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebar (tentang ruangan, kamar, dsb); luas;"
+      },
+      {
+        "type": "desc",
+        "text": "lega; senang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sibuk; tidak repot; senggang;"
+      },
+      {
+        "type": "desc",
+        "text": "longgar; tidak sempit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan memanjat, Bauhinia comifolia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapang",
+  "related": [],
+  "detailed": false
+}

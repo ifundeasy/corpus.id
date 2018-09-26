@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu geladak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) lampu untuk penerangan geladak sekoci pada waktu malam hari ketika kapal dalam keadaan darurat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20geladak",
+  "related": [],
+  "detailed": false
+}

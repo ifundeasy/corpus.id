@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga pokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang diperhitungkan dari ongkos pembuatan, bahan baku, dsb (belum mengambil untung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20pokok",
+  "related": [],
+  "detailed": false
+}

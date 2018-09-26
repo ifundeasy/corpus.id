@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isokalori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum yang memiliki jumlah atau nilai kalori yang sama, tetapi jenis dan susunan makanannya berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isokalori",
+  "related": [],
+  "detailed": false
+}

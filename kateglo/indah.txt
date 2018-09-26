@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan enak dipandang; cantik; elok;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "peduli (akan); menaruh perhatian (akan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indah",
+  "related": [],
+  "detailed": false
+}

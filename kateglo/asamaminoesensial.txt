@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asam amino esensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asam amino yang tidak dapat disentesis dalam tubuh manusia, tetapi diperlukan oleh manusia, misal triptofan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asam%20amino%20esensial",
+  "related": [],
+  "detailed": false
+}

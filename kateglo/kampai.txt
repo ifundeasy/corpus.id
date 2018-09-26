@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kampai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkampai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kampai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus informasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) gerakan udara di stratosfer daerah lintang sedang pada sepanjang jalur arus tertentu, kecepatan angin dapat sangat tinggi (1400 km per jam) dan bergerak dari barat ke timur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20informasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pitot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) tabung untuk mengukur kecepatan aliran zat-alir atau kecepatan pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pitot",
+  "related": [],
+  "detailed": false
+}

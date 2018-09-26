@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pesan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah, nasihat, permintaan, amanat yang disampaikan lewat orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan (nasihat, wasiat) yang terakhir (dari orang yang akan meninggal dunia);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pesanan;"
+      },
+      {
+        "type": "desc",
+        "text": "lipan yang sangat berbisa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesan",
+  "related": [],
+  "detailed": false
+}

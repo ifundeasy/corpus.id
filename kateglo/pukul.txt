@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pukul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketuk (dengan sesuatu yang keras atau berat, dipakai juga dalam arti kiasan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kena rugi (marah, tipu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) salah terima; salah menuduh dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) satu kali berbuat (bertindak, bekerja, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) memukul (mengetuk dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) ambil;"
+      },
+      {
+        "type": "desc",
+        "text": "saat yang menyatakan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pukul",
+  "related": [],
+  "detailed": false
+}

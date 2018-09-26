@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah rawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang terganggu keamanan dan ketenteramannya (merupakan daerah berbahaya, tidak tertib, kemelut, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20rawan",
+  "related": [],
+  "detailed": false
+}

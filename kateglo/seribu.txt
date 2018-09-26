@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seribu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 1.000 (Arab) atau M (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-1000 sesudah ke-999 dan sebelum ke 1001;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 999 ditambah 1 atau 10 kali 100;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seribu",
+  "related": [],
+  "detailed": false
+}

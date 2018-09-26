@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendikte",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyuruh orang menulis apa yang dibacakan atau dikatakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menyuruh berbuat dan menurut saja seperti yang dikatakannya (dengan tidak boleh membantah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendikte",
+  "related": [],
+  "detailed": false
+}

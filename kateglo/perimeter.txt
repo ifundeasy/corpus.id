@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas luas lingkaran; batas luar dari tempat tertutup atau tempat terlindungi (bandar udara, daerah tentara, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perimeter",
+  "related": [],
+  "detailed": false
+}

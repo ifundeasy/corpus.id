@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipakai untuk menaruh (menyimpan, meletakkan, dsb); wadah; bekas;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang (bidang, rumah, dsb) yang tersedia untuk melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang (bidang dsb) yang dipakai untuk menaruh (menyimpan, mengumpulkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ruang (bidang, rumah, daerah, dsb) yang didiami (ditinggali) atau ditempati;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang tertentu dari suatu ruang (bidang, daerah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "negeri (kota, desa, daerah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dapat (dipercaya) menampung (tentang isi hati, keluhan, pertanyaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan; keadaan; letak (sesuatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempat",
+  "related": [],
+  "detailed": false
+}

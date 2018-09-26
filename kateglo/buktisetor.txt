@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bukti setor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan bahwa sejumlah uang sudah disetorkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukti%20setor",
+  "related": [],
+  "detailed": false
+}

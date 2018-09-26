@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lignit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Min) jenis batu bara yang merupakan tingkat pertama hasil proses pembatubaraan gambut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lignit",
+  "related": [],
+  "detailed": false
+}

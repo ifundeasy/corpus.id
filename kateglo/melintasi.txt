@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melintasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melewati (sawah, ladang, hutan belantara, dsb); melalui;"
+      },
+      {
+        "type": "desc",
+        "text": "menyeberangi (jalan, sungai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengatasi (kesulitan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melintasi",
+  "related": [],
+  "detailed": false
+}

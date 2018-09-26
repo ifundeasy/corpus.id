@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paket pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paket yang dikirimkan melalui pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paket%20pos",
+  "related": [],
+  "detailed": false
+}

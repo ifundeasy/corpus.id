@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megawatt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran daya listrik 1.000.000 watt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megawatt",
+  "related": [],
+  "detailed": false
+}

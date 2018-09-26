@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda titik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (.) yang dipakai antara lain pada akhir kalimat yang bukan pertanyaan atau seruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20titik",
+  "related": [],
+  "detailed": false
+}

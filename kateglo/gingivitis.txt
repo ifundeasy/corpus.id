@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gingivitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peradangan gusi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gingivitis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis kontur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis pada peta yang menghubungkan tempat-tempat yang mempunyai ketinggian sama dari permukaan laut; isohips;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20kontur",
+  "related": [],
+  "detailed": false
+}

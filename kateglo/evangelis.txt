@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evangelis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penulis salah satu dari keempat Kitab Injil (Johannes, Markus, Lukas, atau Matheus);"
+      },
+      {
+        "type": "desc",
+        "text": "pendeta Protestan atau orang biasa yang menyebarkan ajaran Injil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evangelis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "egoisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "tingkah laku yang didasarkan atas dorongan untuk keuntungan diri sendiri daripada untuk kesejahteraan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fil) teori yang mengemukakan bahwa segala perbuatan atau tindakan selalu disebabkan oleh keinginan untuk menguntungkan diri sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=egoisme",
+  "related": [],
+  "detailed": false
+}

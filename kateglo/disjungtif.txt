@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disjungtif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "konjungsi seperti atau dan tetapi;"
+      },
+      {
+        "type": "desc",
+        "text": "konstruksi yang mengandung disjungsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disjungtif",
+  "related": [],
+  "detailed": false
+}

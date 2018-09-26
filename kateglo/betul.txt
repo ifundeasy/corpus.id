@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "betul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "benar; sesungguhnya; tidak bohong;"
+      },
+      {
+        "type": "desc",
+        "text": "benar; tidak salah; tidak keliru;"
+      },
+      {
+        "type": "desc",
+        "text": "sejati; bukan tiruan; bukan campuran; tulen;"
+      },
+      {
+        "type": "desc",
+        "text": "tepat; persis;"
+      },
+      {
+        "type": "desc",
+        "text": "langsung (tidak serong);"
+      },
+      {
+        "type": "desc",
+        "text": "lurus (tegak) benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=betul",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "nama kelompok partikel elementer jenis nukleon dan hiperon;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) zarah elementer yang berat dan dapat ditransformasi menjadi sebuah nukleon, beberapa meson dan zarah-zarah yang ringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barion",
+  "related": [],
+  "detailed": false
+}

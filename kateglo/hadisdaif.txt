@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hadis daif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadis yang diragukan kebenarannya karena isinya atau perawinya kurang dapat dipercaya; hadis lemah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadis%20daif",
+  "related": [],
+  "detailed": false
+}

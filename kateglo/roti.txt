@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "roti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang dibuat dari bahan pokok tepung terigu, banyak macamnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roti",
+  "related": [],
+  "detailed": false
+}

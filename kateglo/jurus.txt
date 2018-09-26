@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jurus",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sejurus"
+      },
+      {
+        "type": "desc",
+        "text": "arah yang lurus (langsung);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian sikap (tegak dsb) dalam permainan pencak silat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabungan pradana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabungan dalam jumlah tertentu yang disediakan pada awal kegiatan (pembelian dsb) yang memerlukan biaya besar; dana permulaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabungan%20pradana",
+  "related": [],
+  "detailed": false
+}

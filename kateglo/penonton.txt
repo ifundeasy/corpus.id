@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penonton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menonton pertunjukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang hanya melihat (tidak campur, bekerja, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penonton",
+  "related": [],
+  "detailed": false
+}

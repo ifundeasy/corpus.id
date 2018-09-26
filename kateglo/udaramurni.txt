@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang bebas dari partikel, baik padat, cair, gas, maupun bahan-bahan polusi; udara bersih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20murni",
+  "related": [],
+  "detailed": false
+}

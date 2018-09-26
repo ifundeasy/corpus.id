@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah Tingkat II",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabupaten;"
+      },
+      {
+        "type": "desc",
+        "text": "kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20Tingkat%20II",
+  "related": [],
+  "detailed": false
+}

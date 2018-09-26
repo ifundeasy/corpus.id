@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permeabilitas membran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan membran bertindak permeabel, dapat dilalui cairan atau gas secara difusi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permeabilitas%20membran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembaca naskah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membaca dengan nada keras suatu naskah yang sudah diperiksa oleh korektor cetak coba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembaca%20naskah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harap(an); semangat;"
+      },
+      {
+        "type": "desc",
+        "text": "sangka;"
+      },
+      {
+        "type": "desc",
+        "text": "sengaja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asa",
+  "related": [],
+  "detailed": false
+}

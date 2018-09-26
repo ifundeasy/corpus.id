@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "batuan beku berwarna gelap, berbutir halus, yang umumnya merupakan pembekuan lava dari gunung api;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit bengkak (karena penyakit beri-beri dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basal",
+  "related": [],
+  "detailed": false
+}

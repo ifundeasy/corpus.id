@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "folksong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) nyanyian atau lagu rakyat yang menyebar melalui pendengar secara turun-temurun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=folksong",
+  "related": [],
+  "detailed": false
+}

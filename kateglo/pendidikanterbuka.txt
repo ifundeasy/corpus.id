@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan melalui lembaga formal yang peserta didiknya tidak dibatasi oleh usia, jumlah, dan tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20terbuka",
+  "related": [],
+  "detailed": false
+}

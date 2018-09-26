@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "informasi jabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "informasi tentang pekerjaan, jabatan, atau karier yang meliputi posisi pekerjaan, fungsi pekerjaan atau uraian tugas, persyaratan untuk memasuki pekerjaan, kondisi pekerjaan, dan imbalan yang ditawarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informasi%20jabatan",
+  "related": [],
+  "detailed": false
+}

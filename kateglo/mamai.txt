@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mamai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seperti hilang ingatan (mabuk, tidak sadar, dsb) rupanya; kelam ingatan atau pikiran (karena terlampau tua, habis sakit payah, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mimpi dan mengigau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamai",
+  "related": [],
+  "detailed": false
+}

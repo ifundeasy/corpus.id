@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "area",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permukaan bumi; daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah geografis yang digunakan untuk keperluan khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) wilayah geografis yang memiliki ciri-ciri tipologi bahasa yang bersamaan, seperti ciri-ciri lafal, leksikal, atau gramatikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=area",
+  "related": [],
+  "detailed": false
+}

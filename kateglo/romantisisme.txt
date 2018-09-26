@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "romantisisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "haluan kesusastraan akhir abad ke-18 yang mengutamakan perasaan, pikiran, dan tindakan spontanitas;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran dalam seni (drama) yang mengutamakan imajinasi, emosi, dan sentimen idealisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=romantisisme",
+  "related": [],
+  "detailed": false
+}

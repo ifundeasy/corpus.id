@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dompet buku cek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dompet tempat menyimpan buku cek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dompet%20buku%20cek",
+  "related": [],
+  "detailed": false
+}

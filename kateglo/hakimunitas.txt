@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak imunitas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak anggota lembaga perwakilan rakyat dan para menteri untuk membicarakan atau menyatakan secara tertulis segala hal di dalam lembaga tersebut tanpa boleh dituntut di muka pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "hak para kepala negara, anggota perwakilan diplomatik untuk tidak tunduk pada hukum pidana, hukum perdata, dan hukum administrasi negara yang dilalui atau negara tempat mereka bekerja; hak eksteritorial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20imunitas",
+  "related": [],
+  "detailed": false
+}

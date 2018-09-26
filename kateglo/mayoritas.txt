@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mayoritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah orang terbanyak yang memperlihatkan ciri tertentu menurut suatu patokan dibandingkan dengan jumlah yang lain yang tidak memperlihatkan ciri itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mayoritas",
+  "related": [],
+  "detailed": false
+}

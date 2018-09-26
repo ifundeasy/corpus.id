@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piwulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piwulang",
+  "related": [],
+  "detailed": false
+}

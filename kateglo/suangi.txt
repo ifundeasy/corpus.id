@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suangi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hantu yang jahat;"
+      },
+      {
+        "type": "desc",
+        "text": "dukun yang bekerja dengan pertolongan orang halus;"
+      },
+      {
+        "type": "link",
+        "text": "burung"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Holocentrum rubrum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suangi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sewaktu; ketika;"
+      },
+      {
+        "type": "desc",
+        "text": "sama masa dengan; pada ketika yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semasa",
+  "related": [],
+  "detailed": false
+}

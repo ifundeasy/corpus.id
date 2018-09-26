@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala waris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala semua ahli waris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20waris",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak rangkai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang disusun berdasarkan letak kata dalam larik-larik, kata yang bersajak terletak pada setiap kata terakhir secara berturut-turut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20rangkai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya semasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) jumlah pengeluaran yang tidak langsung dibebankan pada produk, tetapi biasanya dihitung berdasarkan suatu periode yang mencakupi biaya umum, biaya penjualan, dan biaya administrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20semasa",
+  "related": [],
+  "detailed": false
+}

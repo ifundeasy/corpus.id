@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bludrek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tekanan darah;"
+      },
+      {
+        "type": "desc",
+        "text": "tekanan darah tinggi yang menyebabkan orang merasa pusing yang berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bludrek",
+  "related": [],
+  "detailed": false
+}

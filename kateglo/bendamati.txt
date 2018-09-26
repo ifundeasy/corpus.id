@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benda mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda (barang) yang tidak dapat bergerak sendiri dan tidak bernapas (seperti batu, besi, dan rumah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benda%20mati",
+  "related": [],
+  "detailed": false
+}

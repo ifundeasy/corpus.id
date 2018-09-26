@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan cepat siap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan cepat saji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20cepat%20siap",
+  "related": [],
+  "detailed": false
+}

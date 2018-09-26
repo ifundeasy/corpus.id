@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plastik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dapat diacu dalam bentuk, misal tanah liat;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan zat organik yang stabil pada suhu biasa, tetapi pada beberapa tahap pembuatannya plastis sehingga dapat diubah bentuk dengan menggunakan kalor dan tekanan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan sintetis yang memiliki bermacam-macam warna (dibuat sisir, dompet, ember, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plastik",
+  "related": [],
+  "detailed": false
+}

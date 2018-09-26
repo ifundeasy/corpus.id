@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang berbentuk lingkaran atau cincin besar;"
+      },
+      {
+        "type": "desc",
+        "text": "perhiasan (dari emas, perak, dsb) berbentuk lingkaran yang dipakai di lengan atau di kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) sisa cadar dalam yang melingkari tangkai cendawan tertentu, tudungnya mekar;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan menjalar, batangnya berair, enak dimakan; Portulaca oleracea;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "tergelang-gelang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelang",
+  "related": [],
+  "detailed": false
+}

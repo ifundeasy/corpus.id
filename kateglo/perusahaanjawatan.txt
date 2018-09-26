@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan jawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) unit organisasi dalam lingkungan departemen yang kedudukan, tugas, fungsi, dan susunan organisasinya ditetapkan dalam ketentuan peraturan perundang-undangan tersendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20jawatan",
+  "related": [],
+  "detailed": false
+}

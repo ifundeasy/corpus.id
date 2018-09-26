@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sari berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok isi berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sari%20berita",
+  "related": [],
+  "detailed": false
+}

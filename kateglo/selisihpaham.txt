@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selisih paham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salah paham; berlainan paham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selisih%20paham",
+  "related": [],
+  "detailed": false
+}

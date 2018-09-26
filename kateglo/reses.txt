@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reses",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa perhentian sidang (parlemen); masa istirahat dari kegiatan bersidang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reses",
+  "related": [],
+  "detailed": false
+}

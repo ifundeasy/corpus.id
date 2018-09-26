@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kutu ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kutu yang terdapat pada ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutu%20ternak",
+  "related": [],
+  "detailed": false
+}

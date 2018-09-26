@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cat untuk mengilapkan kayu; pernis kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "balok untuk menahan kepala kerbau atau lembu yang akan dicocok hidungnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sempat;"
+      },
+      {
+        "type": "desc",
+        "text": "sekiranya;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyampang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampang",
+  "related": [],
+  "detailed": false
+}

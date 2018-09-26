@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cacar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit kulit yang disebabkan oleh virus; ketumbuhan; variola;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lincah (tentang gerakan); cacau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacar",
+  "related": [],
+  "detailed": false
+}

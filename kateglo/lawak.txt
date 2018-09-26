@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lawak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lucu; jenaka;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "lawak-lawak"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) sejenis perahu di Jawa Barat yang dibuat dari batang pohon yang ditakik (lawakan, lelawak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawak",
+  "related": [],
+  "detailed": false
+}

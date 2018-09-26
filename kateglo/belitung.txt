@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belitung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, Coryphaena hippurus;"
+      },
+      {
+        "type": "desc",
+        "text": "siput, Cirithidea obtusa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belitung",
+  "related": [],
+  "detailed": false
+}

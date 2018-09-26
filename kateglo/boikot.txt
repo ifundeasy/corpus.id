@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "boikot",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memboikot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=boikot",
+  "related": [],
+  "detailed": false
+}

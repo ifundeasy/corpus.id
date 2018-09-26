@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemudi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas pada kendaraan (mobil, pesawat terbang, kapal, dsb) yang gunanya untuk mengatur arah perjalanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pemimpin (pengurus, pengatur arah) pada perserikatan, pemerintahan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) pusar-pusar bulu (pada kuda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemudi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proposal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana yang dituangkan dalam bentuk rancangan kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proposal",
+  "related": [],
+  "detailed": false
+}

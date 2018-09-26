@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bolos",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "bulus"
+      },
+      {
+        "type": "link",
+        "text": "membolos"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bolos",
+  "related": [],
+  "detailed": false
+}

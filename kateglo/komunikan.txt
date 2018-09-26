@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerima pesan dalam komunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunikan",
+  "related": [],
+  "detailed": false
+}

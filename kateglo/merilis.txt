@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merilis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyampaikan secara resmi berita, pengumuman, informasi, dsb untuk disiarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan (menerbitkan, mengadakan) buku, film, album lagu, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merilis",
+  "related": [],
+  "detailed": false
+}

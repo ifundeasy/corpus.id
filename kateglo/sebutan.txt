@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang disebut atau disebutkan; panggilan; nama; gelar;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan; nama; gelar;"
+      },
+      {
+        "type": "desc",
+        "text": "kutipan;"
+      },
+      {
+        "type": "desc",
+        "text": "lafal; ucapan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang selalu dipercakapkan orang; buah mulut; gamit-gamitan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bagian kalimat yang menceritakan atau memberi pernyataan tentang pokok kalimat; predikat, misal “menangis” dalam kalimat Adik menangis adalah sebutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebutan",
+  "related": [],
+  "detailed": false
+}

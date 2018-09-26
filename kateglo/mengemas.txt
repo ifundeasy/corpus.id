@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengemas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengatur rapi-rapi;"
+      },
+      {
+        "type": "desc",
+        "text": "membungkus-bungkus supaya ringkas;"
+      },
+      {
+        "type": "desc",
+        "text": "memberes-bereskan (tempat tidur, meja makan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengemas",
+  "related": [],
+  "detailed": false
+}

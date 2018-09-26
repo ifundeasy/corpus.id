@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi atom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) energi yang diperoleh dengan peleburan nuklir; tenaga atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20atom",
+  "related": [],
+  "detailed": false
+}

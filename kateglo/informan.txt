@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "informan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi informasi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi sumber data dalam penelitian; nara-sumber;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informan",
+  "related": [],
+  "detailed": false
+}

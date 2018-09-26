@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laik jalan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memenuhi persyaratan yang ditentukan serta aman untuk dikendarai di jalan (tentang truk, bus, mobil, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laik%20jalan",
+  "related": [],
+  "detailed": false
+}

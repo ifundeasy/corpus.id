@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menyaring; penyaring; penapis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) alat untuk meloloskan cahaya dari frekuensi atau selang frekuensi tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian listrik yang dapat meloloskan listrik arus rongga (bolak-balik) dari frekuensi atau selang frekuensi tertentu; tapis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filter",
+  "related": [],
+  "detailed": false
+}

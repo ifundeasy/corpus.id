@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uniform",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seragam;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian tertentu yang dipakai khas oleh suatu golongan; pakaian seragam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uniform",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plinplan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak, kp) plintat-plintut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plinplan",
+  "related": [],
+  "detailed": false
+}

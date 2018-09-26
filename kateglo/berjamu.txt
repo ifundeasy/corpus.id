@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjamu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sedang menerima jamu;"
+      },
+      {
+        "type": "desc",
+        "text": "berkunjung; bertamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjamu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik piutang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuntut atau menagih piutang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20piutang",
+  "related": [],
+  "detailed": false
+}

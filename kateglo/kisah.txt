@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kisah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita tentang kejadian (riwayat dsb) dalam kehidupan seseorang dsb; kejadian (riwayat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kisah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akuakultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembudidayaan air sehingga menghasilkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengusahaan laut untuk mendatangkan hasil (seperti ikan, kerang, rumput laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuakultur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gurindam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak dua baris yang mengandung petuah atau nasihat (misal baik-baik memilih kawan, salah-salah bisa jadi lawan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gurindam",
+  "related": [],
+  "detailed": false
+}

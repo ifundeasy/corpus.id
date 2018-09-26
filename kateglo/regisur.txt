@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regisur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sutradara (pemimpin dan pengatur permainan sandiwara atau cerita film);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regisur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi total",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) jumlah keseluruhan radiasi matahari, radiasi atmosfer, dan radiasi bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20total",
+  "related": [],
+  "detailed": false
+}

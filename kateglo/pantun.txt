@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk puisi Indonesia (Melayu), tiap bait (kuplet) biasanya terdiri atas empat baris yang bersajak (a-b-a-b), tiap larik biasanya terdiri atas empat kata, baris pertama dan baris kedua biasanya untuk tumpuan (sampiran) saja dan baris ketiga dan keempat merupakan isi;"
+      },
+      {
+        "type": "desc",
+        "text": "peribahasa sindiran;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) jawab (misal pada tuduhan);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) serupa; seperti; seumpama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantun",
+  "related": [],
+  "detailed": false
+}

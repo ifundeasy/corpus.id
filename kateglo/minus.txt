@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "kurang; dikurangi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah yang kurang dari 0;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak dengan; tanpa;"
+      },
+      {
+        "type": "desc",
+        "text": "yang kurang; yang kekurangan (dalam hal menghasilkan bahan pangan);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang dari yang diperlukan (untuk mencukupi keperluan hidup dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minus",
+  "related": [],
+  "detailed": false
+}

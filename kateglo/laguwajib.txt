@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lagu wajib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lagu yang harus dinyanyikan dalam suatu upacara, perlombaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagu%20wajib",
+  "related": [],
+  "detailed": false
+}

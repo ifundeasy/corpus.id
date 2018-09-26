@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang hubungan cuaca dan kesehatan manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20kesehatan",
+  "related": [],
+  "detailed": false
+}

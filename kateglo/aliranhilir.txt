@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran hilir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sungai di sebelah bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20hilir",
+  "related": [],
+  "detailed": false
+}

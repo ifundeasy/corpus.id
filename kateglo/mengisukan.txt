@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengisukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengemukakan isu;"
+      },
+      {
+        "type": "desc",
+        "text": "mendesas-desus-kan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengisukan",
+  "related": [],
+  "detailed": false
+}

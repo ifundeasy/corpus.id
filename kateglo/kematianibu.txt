@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kematian ibu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kematian ibu yang disebabkan oleh proses reproduksi (karena kehamilan, persalinan, dan masa nifas atau komplikasinya) yang terjadi di antara penduduk selama satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kematian%20ibu",
+  "related": [],
+  "detailed": false
+}

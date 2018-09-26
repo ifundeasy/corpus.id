@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monumental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat menimbulkan kesan peringatan pada sesuatu yang agung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monumental",
+  "related": [],
+  "detailed": false
+}

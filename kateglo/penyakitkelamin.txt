@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit kelamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang berjangkit melalui persetubuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20kelamin",
+  "related": [],
+  "detailed": false
+}

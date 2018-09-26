@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya pemeliharaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang diperlukan untuk memelihara sesuatu (seperti ternak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20pemeliharaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesta panen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perayaan setelah selesai padi dipotong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesta%20panen",
+  "related": [],
+  "detailed": false
+}

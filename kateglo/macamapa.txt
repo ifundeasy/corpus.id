@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "macam apa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagaimana;"
+      },
+      {
+        "type": "desc",
+        "text": "seperti apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=macam%20apa",
+  "related": [],
+  "detailed": false
+}

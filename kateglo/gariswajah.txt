@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis wajah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "raut muka; roman muka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20wajah",
+  "related": [],
+  "detailed": false
+}

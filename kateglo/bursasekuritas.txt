@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa sekuritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) bursa efek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20sekuritas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jenderal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat perwira tinggi dalam angkatan darat yang meliputi jenderal besar TNI, jenderal TNI, letnan jenderal TNI, mayor jenderal TNI, dan brigadir jenderal TNI;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat perwira tinggi dalam kepolisian yang meliputi jenderal polisi, komisaris jenderal polisi, inspektur jenderal polisi, dan brigadir jenderal polisi;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) orang yang paling berpengaruh (menentukan dsb) dalam organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenderal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak gadai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hak untuk mengadakan pegadaian (dengan membayar pajak kepada negara);"
+      },
+      {
+        "type": "desc",
+        "text": "pegadaian; rumah gadai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20gadai",
+  "related": [],
+  "detailed": false
+}

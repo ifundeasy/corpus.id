@@ -1,0 +1,69 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baru",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belum pernah ada (dilihat) sebelumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "belum pernah didengar (ada) sebelumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "belum lama selesai (dibuat, diberikan);"
+      },
+      {
+        "type": "desc",
+        "text": "belum lama dibeli (dimiliki); belum pernah dipakai;"
+      },
+      {
+        "type": "desc",
+        "text": "segar (belum lama dipetik atau ditangkap);"
+      },
+      {
+        "type": "desc",
+        "text": "belum lama menikah;"
+      },
+      {
+        "type": "desc",
+        "text": "belum lama bekerja;"
+      },
+      {
+        "type": "desc",
+        "text": "awal;"
+      },
+      {
+        "type": "desc",
+        "text": "modern;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "belum lama antaranya;"
+      },
+      {
+        "type": "desc",
+        "text": "kemudian; setelah itu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sedang; lagi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang serat kulitnya dapat dibuat tali; Hisbiscus tiliaceus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baru",
+  "related": [],
+  "detailed": false
+}

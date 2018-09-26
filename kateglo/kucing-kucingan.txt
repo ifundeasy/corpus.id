@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kucing-kucingan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kucing-kucing;"
+      },
+      {
+        "type": "desc",
+        "text": "berlaku (bersifat) seperti kucing (satu pihak mengejar, pihak lain bersembunyi, apabila si pengejar sedang lengah, yang dikejar muncul dan berkeliaran untuk kemudian bersembunyi kembali);"
+      },
+      {
+        "type": "desc",
+        "text": "main sembunyi-sembunyian (tentang permainan anak-anak);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "mainan (boneka) yang menyerupai kucing; bukan kucing sebenarnya; kucing tiruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kucing-kucingan",
+  "related": [],
+  "detailed": false
+}

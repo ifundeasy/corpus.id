@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesilauan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) silau;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "disilaukan oleh; menjadi silau karena;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesilauan",
+  "related": [],
+  "detailed": false
+}

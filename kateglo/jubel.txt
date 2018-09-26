@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jubel",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berjubel"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jubel",
+  "related": [],
+  "detailed": false
+}

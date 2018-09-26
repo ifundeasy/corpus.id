@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ajaran tentang) baik buruk yang diterima umum mengenai perbuatan, sikap, kewajiban, dsb; akhlak; budi pekerti; susila;"
+      },
+      {
+        "type": "desc",
+        "text": "kondisi mental yang membuat orang tetap berani, bersemangat, bergairah, berdisiplin, dsb; isi hati atau keadaan perasaan sebagaimana terungkap dalam perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran kesusilaan yang dapat ditarik dari suatu cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moral",
+  "related": [],
+  "detailed": false
+}

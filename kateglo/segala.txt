@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segala",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "sekalian (tidak ada kecualinya); semua;"
+      },
+      {
+        "type": "desc",
+        "text": "seluruh; segenap;"
+      },
+      {
+        "type": "desc",
+        "text": "sama sekali; serba;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) para (untuk menyatakan banyak);"
+      },
+      {
+        "type": "desc",
+        "text": "(kas) (untuk memaki) terlalu; benar-benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segala",
+  "related": [],
+  "detailed": false
+}

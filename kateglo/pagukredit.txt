@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pagu kredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas tertinggi kredit yang dapat dipinjamkan oleh bank kepada nasabah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pagu%20kredit",
+  "related": [],
+  "detailed": false
+}

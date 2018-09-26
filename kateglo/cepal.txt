@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cepal",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "cepol"
+      },
+      {
+        "type": "link",
+        "text": "cepalan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cepal",
+  "related": [],
+  "detailed": false
+}

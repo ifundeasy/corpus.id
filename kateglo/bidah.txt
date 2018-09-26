@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bidah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan yang dikerjakan tidak menurut contoh yang sudah ditetapkan, termasuk menambah atau mengurangi ketetapan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembaruan ajaran Islam tanpa berpedoman pada Alquran dan hadis;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kebohongan; dusta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidah",
+  "related": [],
+  "detailed": false
+}

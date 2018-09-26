@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "calak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pandai bicara;"
+      },
+      {
+        "type": "desc",
+        "text": "suka turut campur pembicaraan orang; lancang mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak bicara; bawel;"
+      },
+      {
+        "type": "desc",
+        "text": "bagus; elok; cakap;"
+      },
+      {
+        "type": "desc",
+        "text": "cemerlang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) alat untuk menggosok intan (pisau dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=calak",
+  "related": [],
+  "detailed": false
+}

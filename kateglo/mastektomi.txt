@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mastektomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pemotongan seluruhnya (misal seluruh payudara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mastektomi",
+  "related": [],
+  "detailed": false
+}

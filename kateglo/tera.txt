@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda berupa gambar (huruf, lambang, dsb) yang dicapkan pada lak, timah, surat penting, atau sarung surat (amplop), bingkisan pos, segel, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman cap (stempel);"
+      },
+      {
+        "type": "desc",
+        "text": "cap pengujian yang dibubuhkan oleh Jawatan Tera pada timbangan, takaran, dan ukuran yang dipakai dalam perdagangan; tanda uji pada alat timbangan dsb yang sudah diperiksa kebenarannya oleh Jawatan Tera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tera",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan genap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan asli yang habis dibagi dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20genap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menugaskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyerahkan tugas, pekerjaan (kewajiban) kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi tugas ke tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menugaskan",
+  "related": [],
+  "detailed": false
+}

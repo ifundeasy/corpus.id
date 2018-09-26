@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trayek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang dilalui; jarak perjalanan yang ditempuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trayek",
+  "related": [],
+  "detailed": false
+}

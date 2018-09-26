@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selektivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keselektifan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kom) kemampuan untuk menerima siaran pada suatu gelombang secara cermat, tidak terganggu oleh siaran pada gelombang lain (tentang radio);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selektivitas",
+  "related": [],
+  "detailed": false
+}

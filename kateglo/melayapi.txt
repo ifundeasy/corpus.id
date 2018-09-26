@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melayapi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melayang ke suatu arah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melayapi",
+  "related": [],
+  "detailed": false
+}

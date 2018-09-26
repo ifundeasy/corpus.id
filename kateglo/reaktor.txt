@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suatu (seorang) yang mengadakan reaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "sarana atau alat pembangkit tenaga (seperti atom dan nuklir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaktor",
+  "related": [],
+  "detailed": false
+}

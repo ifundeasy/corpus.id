@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketetapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) tetap; ketentuan; kepastian;"
+      },
+      {
+        "type": "desc",
+        "text": "keteguhan (hati, niat, dsb); ketabahan (hati); kekerasan (hati, kemauan);"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan; beslit (pengangkatan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketetapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun meteorologi pertanian tambahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun meteorologi pertanian yang memberi keterangan meteorologi dan biologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20meteorologi%20pertanian%20tambahan",
+  "related": [],
+  "detailed": false
+}

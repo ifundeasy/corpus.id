@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan dinas yang dikerjakan di luar jam (waktu) dinas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sd) bagian kampung yang merupakan kesatuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jeruk limau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jeruk sambal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jeruk%20limau",
+  "related": [],
+  "detailed": false
+}

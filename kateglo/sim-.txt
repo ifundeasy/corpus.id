@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "sim-",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "sin-"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sim-",
+  "related": [],
+  "detailed": false
+}

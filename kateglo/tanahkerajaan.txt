@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah kerajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah milik raja;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah milik negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20kerajaan",
+  "related": [],
+  "detailed": false
+}

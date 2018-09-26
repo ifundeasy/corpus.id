@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mesti",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "pasti; tentu;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak boleh tidak; harus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesti",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cedera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perselisihan; pertengkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "cacat (luka) sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "ada cacatnya; rusak;"
+      },
+      {
+        "type": "desc",
+        "text": "merana (karena berpenyakitan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rugi;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bercedera"
+      },
+      {
+        "type": "link",
+        "text": "mencedera"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cedera",
+  "related": [],
+  "detailed": false
+}

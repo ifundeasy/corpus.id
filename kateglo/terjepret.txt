@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terjepret",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terkena lontaran benda (batu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) terpotret;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terjepret",
+  "related": [],
+  "detailed": false
+}

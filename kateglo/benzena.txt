@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benzena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "zat cair tanpa warna, mudah terbakar, berbau harum, dipergunakan untuk membuat zat warna, bahan peledak, obat, minyak wangi, lak, dan sebagai pelarut organik; C6H6;"
+      },
+      {
+        "type": "desc",
+        "text": "benzol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benzena",
+  "related": [],
+  "detailed": false
+}

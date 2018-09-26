@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lindung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berlindung"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "belut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lindung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang adat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang untuk membayar ongkos perkara, ongkos administrasi, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20adat",
+  "related": [],
+  "detailed": false
+}

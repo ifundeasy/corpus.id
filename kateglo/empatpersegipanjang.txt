@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "empat persegi panjang",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "empat persegi yang dua sisinya tidak sama panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empat%20persegi%20panjang",
+  "related": [],
+  "detailed": false
+}

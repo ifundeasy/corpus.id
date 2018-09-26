@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian sebuah ketel uap tempat berlangsung pembakaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20api",
+  "related": [],
+  "detailed": false
+}

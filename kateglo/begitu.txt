@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "begitu",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "seperti itu; demikian itu;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat; terlalu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) segera setelah ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=begitu",
+  "related": [],
+  "detailed": false
+}

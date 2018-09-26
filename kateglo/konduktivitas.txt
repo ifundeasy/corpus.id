@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konduktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan menghantar panas (listrik, suara); keterhantaran panas (listrik, suara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konduktivitas",
+  "related": [],
+  "detailed": false
+}

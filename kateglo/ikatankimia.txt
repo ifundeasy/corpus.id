@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikatan kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) ikatan antaratom yang terjadi karena fungsi gelombang elektron suatu atom tumpang tindih dengan fungsi gelombang elektron atom yang lain atau karena suatu elektron dapat menjadi milik bersama kedua inti atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikatan%20kimia",
+  "related": [],
+  "detailed": false
+}

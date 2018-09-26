@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radio kaset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat penerima radio yang menjadi satu dengan mesin perekam, dapat dipakai secara berganti-ganti dengan memindah-mindahkan panel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radio%20kaset",
+  "related": [],
+  "detailed": false
+}

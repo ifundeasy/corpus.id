@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "referensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumber acuan (rujukan, petunjuk);"
+      },
+      {
+        "type": "desc",
+        "text": "buku-buku yang dianjurkan oleh dosen kepada mahasiswanya untuk dibaca;"
+      },
+      {
+        "type": "desc",
+        "text": "buku perpustakaan yang tidak boleh dibawa ke luar, harus dibaca di tempat yang telah disediakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan antara referen dan lambang (bentuk bahasa) yang dipakai untuk mewakilinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=referensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pincang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "timpang kakinya atau timpang jalannya (karena pembawaan sejak lahir, karena terkilir, kena beling, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak seimbang; tidak sebanding; ada kurangnya (cacatnya dsb); tidak sebagaimana mestinya (tentang keadaan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tetap peraturan bunyinya atau jalannya (tentang arloji, mesin mobil, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "sepincang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pincang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "brahmana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendeta agama Hindu;"
+      },
+      {
+        "type": "desc",
+        "text": "kasta tertinggi dalam agama Hindu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang masuk golongan pendeta dalam agama Hindu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=brahmana",
+  "related": [],
+  "detailed": false
+}

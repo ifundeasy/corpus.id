@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinetokardiografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman grafis tentang getaran lambat dari dinding data depan pada daerah jantung yang menunjukkan gerakan absolut pada titik tertentu pada dada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinetokardiografi",
+  "related": [],
+  "detailed": false
+}

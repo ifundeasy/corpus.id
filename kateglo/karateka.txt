@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karateka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) pemain karate;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karateka",
+  "related": [],
+  "detailed": false
+}

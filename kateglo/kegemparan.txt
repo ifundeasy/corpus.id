@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegemparan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal gempar;"
+      },
+      {
+        "type": "desc",
+        "text": "suara (keadaan) yang gempar (ribut, geger, seru);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegemparan",
+  "related": [],
+  "detailed": false
+}

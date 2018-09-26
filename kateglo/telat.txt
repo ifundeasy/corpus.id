@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kasip; terlambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telat",
+  "related": [],
+  "detailed": false
+}

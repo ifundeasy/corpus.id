@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tawanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditawan (ditangkap, ditahan);"
+      },
+      {
+        "type": "desc",
+        "text": "rampasan; jarahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawanan",
+  "related": [],
+  "detailed": false
+}

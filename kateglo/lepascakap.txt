@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lepas cakap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkata seenaknya (kurang sopan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepas%20cakap",
+  "related": [],
+  "detailed": false
+}

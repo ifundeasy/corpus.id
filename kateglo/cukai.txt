@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cukai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak atau bea yang dikenakan pada barang impor dan barang konsumsi;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagian dari hasil tanah (seperti sawah, ladang) yang wajib diberikan kepada tuan (pemilik) tanah sebagai ongkos tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cukai",
+  "related": [],
+  "detailed": false
+}

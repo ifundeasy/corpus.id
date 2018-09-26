@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia struktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang susunan dan ikatan atom dalam molekul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20struktur",
+  "related": [],
+  "detailed": false
+}

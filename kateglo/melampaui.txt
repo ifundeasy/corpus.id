@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melampaui",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melalui; melewati;"
+      },
+      {
+        "type": "desc",
+        "text": "melebihi (batas, ketentuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "melintasi; mengatasi (kesukaran, percobaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "melanggar (adat, aturan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melampaui",
+  "related": [],
+  "detailed": false
+}

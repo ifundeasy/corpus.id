@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa nyaman dan ringan (tentang perasaan badan);"
+      },
+      {
+        "type": "desc",
+        "text": "merasa nyaman (tentang udara);"
+      },
+      {
+        "type": "desc",
+        "text": "nyaman dan sehat (tentang kesehatan badan);"
+      },
+      {
+        "type": "desc",
+        "text": "baik tumbuhnya (tentang tumbuhan dsb, dipakai juga dalam arti kiasan);"
+      },
+      {
+        "type": "desc",
+        "text": "masih baru; tidak layu (tentang sayuran dsb, dipakai juga dalam arti kiasan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segar",
+  "related": [],
+  "detailed": false
+}

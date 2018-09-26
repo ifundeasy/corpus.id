@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam parit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit infeksi yang beberapa kali kambuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20parit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan utama yang dimakan sehari-hari (seperti nasi);"
+      },
+      {
+        "type": "desc",
+        "text": "ransum;"
+      },
+      {
+        "type": "desc",
+        "text": "kisi-kisi; terali;"
+      },
+      {
+        "type": "desc",
+        "text": "jari-jari roda; anak jentera; kasau pada payung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruji",
+  "related": [],
+  "detailed": false
+}

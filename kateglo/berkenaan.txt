@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkenaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertepatan (dengan); sehubungan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan (dengan); berkaitan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "setuju; sesuai; cocok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkenaan",
+  "related": [],
+  "detailed": false
+}

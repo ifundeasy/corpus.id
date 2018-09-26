@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retail",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha bersama dalam bidang perniagaan dalam jumlah kecil kepada pengguna akhir; eceran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retail",
+  "related": [],
+  "detailed": false
+}

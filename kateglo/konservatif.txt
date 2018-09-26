@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konservatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kolot;"
+      },
+      {
+        "type": "desc",
+        "text": "bersikap mempertahankan keadaan, kebiasaan, dan tradisi yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konservatif",
+  "related": [],
+  "detailed": false
+}

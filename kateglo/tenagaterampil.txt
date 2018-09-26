@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga terampil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerja terampil karena melalui pengalaman tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20terampil",
+  "related": [],
+  "detailed": false
+}

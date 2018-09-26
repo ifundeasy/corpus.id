@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak gelap; kurang terang; suram;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilah besi untuk menguatkan sambungan balok dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelam",
+  "related": [],
+  "detailed": false
+}

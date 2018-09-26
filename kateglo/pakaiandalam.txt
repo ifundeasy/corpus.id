@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian dalam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang khusus dikenakan pada bagian dalam, tertutup oleh baju dan celana, seperti kaus dalam, singlet, celana dalam, kutang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20dalam",
+  "related": [],
+  "detailed": false
+}

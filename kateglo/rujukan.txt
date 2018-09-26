@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan lanjutan mengenai suatu hal;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan sumber yang dipakai untuk mendapatkan keterangan lebih lanjut; acuan; referensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rujukan",
+  "related": [],
+  "detailed": false
+}

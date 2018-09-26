@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "brahmin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "brahmana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=brahmin",
+  "related": [],
+  "detailed": false
+}

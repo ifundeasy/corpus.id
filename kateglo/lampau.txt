@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lampau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lalu; lewat;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lebih (banyak, berat, dsb); sangat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampau",
+  "related": [],
+  "detailed": false
+}

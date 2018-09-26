@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor atom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah proton di dalam nukleus sebuah atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20atom",
+  "related": [],
+  "detailed": false
+}

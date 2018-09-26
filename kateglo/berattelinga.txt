@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berat telinga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang baik pendengarannya; pekak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat%20telinga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gudang surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan surat yang tak-aktif atau yang sudah jarang dipakai secara terpusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gudang%20surat",
+  "related": [],
+  "detailed": false
+}

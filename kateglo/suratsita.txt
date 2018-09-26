@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat sita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat perintah yang dikeluarkan oleh pengadilan (polisi dsb) untuk menahan (mengambil dsb) barang-barang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20sita",
+  "related": [],
+  "detailed": false
+}

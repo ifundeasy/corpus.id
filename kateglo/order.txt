@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "order",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah untuk melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "pesanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=order",
+  "related": [],
+  "detailed": false
+}

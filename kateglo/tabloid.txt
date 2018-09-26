@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabloid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar ukuran kecil (setengah dari ukuran surat kabar biasa) yang banyak memuat berita secara singkat, padat, dan bergambar, mudah dibaca umum; surat kabar sensasi; surat kabar kuning;"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan dalam bentuk ringkas dan padat (tentang kritik, paparan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabloid",
+  "related": [],
+  "detailed": false
+}

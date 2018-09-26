@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seluk-beluk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sangkut-paut (berbagai-bagai pertalian, seperti pertalian kekeluargaan, utang piutang);"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu (seperti hal yang sulit-sulit, rahasia) yang bertalian dengan suatu hal (pekerjaan, perkara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kesulitan atau keruwetan (karena berliku-liku, libat-melibat, sangkut-menyangkut, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seluk-beluk",
+  "related": [],
+  "detailed": false
+}

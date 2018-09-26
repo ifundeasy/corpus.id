@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebanyakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal banyak; banyaknya; jumlahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang terbanyak; sebagian besar;"
+      },
+      {
+        "type": "desc",
+        "text": "biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "biasanya; pada umumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "terlampau banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebanyakan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyuruh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memerintah (supaya melakukan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "memerintah supaya pergi ke ... (untuk melakukan sesuatu); mengutus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyuruh",
+  "related": [],
+  "detailed": false
+}

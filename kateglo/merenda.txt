@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merenda",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat renda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merenda",
+  "related": [],
+  "detailed": false
+}

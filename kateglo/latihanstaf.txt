@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "latihan staf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil) latihan taktis dengan para peserta, terdiri atas personel staf satuan, markas, dan perhubungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latihan%20staf",
+  "related": [],
+  "detailed": false
+}

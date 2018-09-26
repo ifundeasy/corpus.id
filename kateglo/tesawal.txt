@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tes yang diselenggarakan sebelum pelajaran diberikan untuk mengetahui seberapa jauh kemampuan siswa tentang bahan pelajaran yang akan diajarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20awal",
+  "related": [],
+  "detailed": false
+}

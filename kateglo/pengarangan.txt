@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses menjadi arang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membuat arang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarangan",
+  "related": [],
+  "detailed": false
+}

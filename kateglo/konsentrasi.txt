@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsentrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemusatan perhatian atau pikiran pada suatu hal;"
+      },
+      {
+        "type": "desc",
+        "text": "pemusatan tenaga, kekuatan, pasukan, dsb di suatu tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "pemusatan beberapa penerbitan dalam satu kekuasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) persentase kandungan bahan di dalam satu larutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsentrasi",
+  "related": [],
+  "detailed": false
+}

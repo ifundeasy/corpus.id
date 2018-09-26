@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rayu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai perasaan iba (sedih dsb); pilu hati; rawan hati;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa pilu; terharu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "hiburan atau bujukan (janji muluk dsb) untuk menyenangkan hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rayu",
+  "related": [],
+  "detailed": false
+}

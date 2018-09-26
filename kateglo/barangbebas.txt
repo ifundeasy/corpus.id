@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) barang yang jumlahnya tidak terbatas yang diperoleh tanpa pengorbanan dan yang diperlukan bagi kepentingan hidup manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20bebas",
+  "related": [],
+  "detailed": false
+}

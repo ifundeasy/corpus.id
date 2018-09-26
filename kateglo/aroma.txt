@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aroma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bau-bauan yang harum (yang berasal dari tumbuh-tumbuhan atau akar-akaran);"
+      },
+      {
+        "type": "desc",
+        "text": "bahan pewangi makanan atau minuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aroma",
+  "related": [],
+  "detailed": false
+}

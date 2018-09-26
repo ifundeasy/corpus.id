@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "damar;"
+      },
+      {
+        "type": "desc",
+        "text": "leher;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "(Pr) pertama; perdana (tentang pertunjukan film, drama, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gala",
+  "related": [],
+  "detailed": false
+}

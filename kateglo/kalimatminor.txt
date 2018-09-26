@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat minor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang dipakai secara terbatas, dapat lengkap, dapat pula tidak lengkap, seperti panggilan, judul, semboyan, pepatah, dan kalimat telegram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20minor",
+  "related": [],
+  "detailed": false
+}

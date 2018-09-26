@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kandang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat tinggal binatang; ruang berpagar tempat memelihara binatang;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang yang diberi pagar atau batas dsb; garis dsb pada tepi halaman buku; kalangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) garasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tempat tinggal; kampung; negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kandang",
+  "related": [],
+  "detailed": false
+}

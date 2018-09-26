@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pseudonim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang digunakan seseorang, seperti penulis, pengarang untuk menyembunyikan identitas sebenarnya; nama samaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pseudonim",
+  "related": [],
+  "detailed": false
+}

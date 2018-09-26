@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesusastraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal susastra;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu atau pengetahuan tentang segala hal yang bertalian dengan susastra;"
+      },
+      {
+        "type": "desc",
+        "text": "buku-buku tentang sejarah susastra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesusastraan",
+  "related": [],
+  "detailed": false
+}

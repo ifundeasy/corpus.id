@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "misiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai penyebaran agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misiologi",
+  "related": [],
+  "detailed": false
+}

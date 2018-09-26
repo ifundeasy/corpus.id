@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembaptisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membaptis;"
+      },
+      {
+        "type": "desc",
+        "text": "peresmian menjadi Kristen di gereja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembaptisan",
+  "related": [],
+  "detailed": false
+}

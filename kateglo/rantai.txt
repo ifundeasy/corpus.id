@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tali dari cincin yang berkaitan, biasanya dibuat dari logam, plastik, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kalung;"
+      },
+      {
+        "type": "desc",
+        "text": "ikatan; pertalian;"
+      },
+      {
+        "type": "desc",
+        "text": "belenggu; kungkungan; kekuasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) deret atom yang terikat dengan ikatan homopoler, misal rantai karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rantai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek coriolis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) efek benda yang bergerak di atas permukaan bumi ke kanan (kiri) di belahan bumi sebelah utara (selasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20coriolis",
+  "related": [],
+  "detailed": false
+}

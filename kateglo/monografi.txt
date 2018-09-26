@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan (karangan, uraian) mengenai satu bagian dari suatu ilmu atau mengenai suatu masalah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monografi",
+  "related": [],
+  "detailed": false
+}

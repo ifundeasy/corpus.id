@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atribut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda kelengkapan (berupa baret, lencana, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lambang;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat yang menjadi ciri khas (suatu benda atau orang);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penjelas;"
+      },
+      {
+        "type": "desc",
+        "text": "adjektiva yang menerangkan nomina dalam frasa nominal;"
+      },
+      {
+        "type": "desc",
+        "text": "kata berkelas tertentu yang mempunyai fungsi menerangkan nomina dalam frasa nominal, misal sekarang dalam pemuda sekarang;"
+      },
+      {
+        "type": "desc",
+        "text": "kategori variabel kualitatif (seperti laki-laki atau perempuan menunjukkan jenis kelamin);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) ciri atau sifat yang terdapat pada setiap benda purbakala, yang dapat dijadikan dasar untuk menentukan kelompok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atribut",
+  "related": [],
+  "detailed": false
+}

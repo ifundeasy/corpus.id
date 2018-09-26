@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "invertebrata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool) binatang yang tidak ber-tulang punggung, termasuk ameba, cacing, lalat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=invertebrata",
+  "related": [],
+  "detailed": false
+}

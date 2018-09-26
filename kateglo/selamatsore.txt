@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selamat sore",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah-mudahan selamat pada sore hari (ini);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selamat%20sore",
+  "related": [],
+  "detailed": false
+}

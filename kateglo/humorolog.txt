@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humorolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) ahli humor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humorolog",
+  "related": [],
+  "detailed": false
+}

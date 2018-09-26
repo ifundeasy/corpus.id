@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ratu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "raja wanita; permaisuri;"
+      },
+      {
+        "type": "desc",
+        "text": "wanita pemenang perlombaan yang menyangkut kegiatan khas kewanitaan (seperti dalam perlombaan memakai kebaya);"
+      },
+      {
+        "type": "desc",
+        "text": "wanita yang paling menonjol dalam bidangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ratu",
+  "related": [],
+  "detailed": false
+}

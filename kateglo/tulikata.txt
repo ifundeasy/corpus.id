@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuli kata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mampu memahami makna dari kata yang didengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuli%20kata",
+  "related": [],
+  "detailed": false
+}

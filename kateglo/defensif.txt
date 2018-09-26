@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "defensif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersikap bertahan;"
+      },
+      {
+        "type": "desc",
+        "text": "dipakai atau dimaksudkan untuk bertahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=defensif",
+  "related": [],
+  "detailed": false
+}

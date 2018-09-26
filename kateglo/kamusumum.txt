@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kata-kata yang digunakan dalam pelbagai ragam bahasa dengan keterangan makna dan penggunaannya, dengan menghindarkan istilah teknis atau kata yang digunakan dalam lingkungan terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20umum",
+  "related": [],
+  "detailed": false
+}

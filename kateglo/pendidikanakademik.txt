@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan akademik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan akademis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20akademik",
+  "related": [],
+  "detailed": false
+}

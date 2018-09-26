@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multinegara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terdiri atas banyak negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multinegara",
+  "related": [],
+  "detailed": false
+}

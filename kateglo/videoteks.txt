@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "videoteks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayanan data melalui jaringan telepon yang menyangkut kegiatan, seperti jadwal kereta api, acara bioskop melalui terminal video;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=videoteks",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kelam; suram; tidak nyata;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "awan lembap yang melayang di dekat permukaan tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) uap air sebagai hasil kondensasi yang masih dekat dengan tanah yang terjadi karena peristiwa pemanasan atau pendinginan udara, biasanya menyebabkan jarak pandang di permukaan bumi berkurang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengabutkan"
+      },
+      {
+        "type": "desc",
+        "text": "(Min) kombinasi beberapa macam gas yang terjadi di dalam tambang bawah tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabut",
+  "related": [],
+  "detailed": false
+}

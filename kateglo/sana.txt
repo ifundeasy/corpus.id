@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sana",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "penunjuk tempat yang jauh (atau dianggap jauh) dari pembicara;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) dia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sana",
+  "related": [],
+  "detailed": false
+}

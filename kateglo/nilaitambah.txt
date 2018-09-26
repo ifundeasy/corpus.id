@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai tambah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selisih harga antara bahan baku dan harga barang jadi setelah proses pengolahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20tambah",
+  "related": [],
+  "detailed": false
+}

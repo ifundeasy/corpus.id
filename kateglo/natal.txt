@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "natal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelahiran seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "kelahiran Isa Almasih (Yesus Kristus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=natal",
+  "related": [],
+  "detailed": false
+}

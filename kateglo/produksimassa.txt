@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi massa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuatan barang dalam jumlah besar-besaran, biasanya dengan mesin, baik yang berupa ulangan produk lama maupun produk yang coraknya telah diberi variasi, misal dalam hal warna dan perlengkapannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20massa",
+  "related": [],
+  "detailed": false
+}

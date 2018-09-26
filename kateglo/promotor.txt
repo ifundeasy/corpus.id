@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "promotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menjadi penganjur atau pendorong suatu usaha (gerakan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "guru besar yang memimpin dan mengarahkan orang yang akan mencapai gelar doktor;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertanggung jawab atas keuangan suatu pertandingan olahraga, termasuk mencari dana, mengadakan kontrak, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=promotor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyembur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyemburkan;"
+      },
+      {
+        "type": "desc",
+        "text": "obat-obatan dsb yang disemburkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyemburkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyembur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seperangkat atau sistem lambang (tanda) yang menggambarkan bilangan (tentang aljabar), nada (tentang musik), dan ujaran (tentang fonetik);"
+      },
+      {
+        "type": "desc",
+        "text": "proses pelambangan bilangan, nada, atau ujaran dengan tanda (huruf);"
+      },
+      {
+        "type": "desc",
+        "text": "catatan pendek yang perlu diketahui atau untuk mengingatkan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikro",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil; tipis; sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan jumlah yang sedikit atau ukuran yang kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikro",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepedihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa pedih;"
+      },
+      {
+        "type": "desc",
+        "text": "kesakitan hati;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepedihan",
+  "related": [],
+  "detailed": false
+}

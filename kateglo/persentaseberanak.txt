@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persentase beranak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) angka yang menunjukkan persentase banyaknya induk yang beranak per banyaknya induk yang dikawinkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persentase%20beranak",
+  "related": [],
+  "detailed": false
+}

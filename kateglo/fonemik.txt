@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonemik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu bahasa (linguistik) tentang sistem fonem;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem fonem suatu bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "prosedur untuk menentukan fonem suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonemik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disertasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan ilmiah yang ditulis untuk memperoleh gelar doktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disertasi",
+  "related": [],
+  "detailed": false
+}

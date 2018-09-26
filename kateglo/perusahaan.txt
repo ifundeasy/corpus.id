@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan (pekerjaan dsb) yang diselenggarakan dengan peralatan atau dengan cara teratur dengan tujuan mencari keuntungan (dengan menghasilkan sesuatu, mengolah atau membuat barang-barang, berdagang, memberikan jasa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi berbadan hukum yang mengadakan transaksi atau usaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan",
+  "related": [],
+  "detailed": false
+}

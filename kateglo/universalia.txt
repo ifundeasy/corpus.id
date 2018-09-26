@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "universalia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang bersifat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=universalia",
+  "related": [],
+  "detailed": false
+}

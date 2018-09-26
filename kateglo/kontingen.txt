@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontingen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rombongan (olahragawan, pramuka, pasukan militer, dsb) yang dikirim untuk bergabung dengan kelompok yang lebih besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontingen",
+  "related": [],
+  "detailed": false
+}

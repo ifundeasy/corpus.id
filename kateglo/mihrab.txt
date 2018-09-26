@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mihrab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang kecil di langgar atau di masjid, tempat imam berdiri waktu salat berjamaah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mihrab",
+  "related": [],
+  "detailed": false
+}

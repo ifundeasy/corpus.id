@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal sungai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal kecil yang dibuat khusus untuk berlayar di sungai (bentuknya berbeda dengan kapal laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20sungai",
+  "related": [],
+  "detailed": false
+}

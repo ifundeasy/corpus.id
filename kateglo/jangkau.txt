@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jangkau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak mendatar maksimum yang dapat dicapai peluru atau proyektil;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) jarak terbesar antara dua zarah sebelum interaksinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangkau",
+  "related": [],
+  "detailed": false
+}

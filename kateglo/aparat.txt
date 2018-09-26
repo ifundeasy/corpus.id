@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aparat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat; perkakas;"
+      },
+      {
+        "type": "desc",
+        "text": "badan pemerintahan; instansi pemerintah; pegawai negeri; alat negara;"
+      },
+      {
+        "type": "desc",
+        "text": "perlengkapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aparat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerabat;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipercayakan (dititipkan) kepada orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "keamanan; ketenteraman;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat dipercaya (boleh dipercaya); setia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) bidang hukum; kekuatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amanah",
+  "related": [],
+  "detailed": false
+}

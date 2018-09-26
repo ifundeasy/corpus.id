@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cat kuku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cat pewarna kuku; kuteks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cat%20kuku",
+  "related": [],
+  "detailed": false
+}

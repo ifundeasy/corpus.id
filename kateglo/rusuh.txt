@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rusuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak aman karena banyak gangguan keamanan (seperti pencurian, perampokan, pembegalan);"
+      },
+      {
+        "type": "desc",
+        "text": "kacau; ribut; gaduh; huru-hara;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sopan (tentang kelakuan, perkataan, dsb); ceroboh;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat kasar (tentang permainan bola);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak beraturan; tidak menurut aturan;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu gelisah (khawatir, sedih, susah), tidak tenteram hatinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rusuh",
+  "related": [],
+  "detailed": false
+}

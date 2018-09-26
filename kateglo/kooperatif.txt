@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kooperatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kerja sama;"
+      },
+      {
+        "type": "desc",
+        "text": "bersedia membantu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kooperatif",
+  "related": [],
+  "detailed": false
+}

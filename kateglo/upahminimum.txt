@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah minimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah paling rendah yang menurut undang-undang atau persetujuan serikat buruh harus dibayarkan oleh perusahaan kepada karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20minimum",
+  "related": [],
+  "detailed": false
+}

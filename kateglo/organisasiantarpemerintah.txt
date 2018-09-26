@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi antarpemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga yang anggotanya terdiri atas perutusan pemerintah resmi; lembaga bangsa-bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20antarpemerintah",
+  "related": [],
+  "detailed": false
+}

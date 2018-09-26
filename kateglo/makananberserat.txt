@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan berserat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang mengandung serat (khusus dari tanaman yang menstimulasi gerakan pencernaan untuk mengeluarkan sisa makanan, terdapat dalam beberapa jenis buah dan sayuran, misal kol, selada hijau, padi-padian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20berserat",
+  "related": [],
+  "detailed": false
+}

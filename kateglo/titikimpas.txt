@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik impas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik yang menunjukkan hasil penjualan hanya untuk menutup harga pokok produk (tidak ada untung atau rugi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20impas",
+  "related": [],
+  "detailed": false
+}

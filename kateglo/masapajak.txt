@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu untuk menghitung jumlah pajak yang harus dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20pajak",
+  "related": [],
+  "detailed": false
+}

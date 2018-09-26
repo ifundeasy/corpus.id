@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah kurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang kurang subur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20kurus",
+  "related": [],
+  "detailed": false
+}

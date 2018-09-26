@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang raja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang sangat berharga yang wajib dipersembahkan kepada raja, misal cula badak, gading;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20raja",
+  "related": [],
+  "detailed": false
+}

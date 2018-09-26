@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menaksikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menumpangkan pada taksi;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan (mobil pribadi dsb) sebagai taksi; menambangkan mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menaksikan",
+  "related": [],
+  "detailed": false
+}

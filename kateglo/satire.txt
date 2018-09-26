@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satire",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "gaya bahasa yang dipakai dalam kesusastraan untuk menyatakan sindiran terhadap suatu keadaan atau seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "sindiran atau ejekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satire",
+  "related": [],
+  "detailed": false
+}

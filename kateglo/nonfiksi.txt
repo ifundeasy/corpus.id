@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonfiksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) yang tidak bersifat fiksi, tetapi berdasarkan fakta dan kenyataan (tentang karya sastra, karangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonfiksi",
+  "related": [],
+  "detailed": false
+}

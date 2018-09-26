@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengganggu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggoda; mengusik;"
+      },
+      {
+        "type": "desc",
+        "text": "merintangi; menyebabkan tidak berjalan sebagaimana mestinya (tentang keadaan umum, kesehatan badan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "merisaukan (tentang hati, pikiran);"
+      },
+      {
+        "type": "desc",
+        "text": "merusak suasana;"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangkan kekacauan (kerusuhan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengganggu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus jabatan nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang berisi informasi mengenai semua jabatan yang ada dalam masyarakat, seperti nama jabatan, uraian tugas, kode jabatan, dan syarat-syarat jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20jabatan%20nasional",
+  "related": [],
+  "detailed": false
+}

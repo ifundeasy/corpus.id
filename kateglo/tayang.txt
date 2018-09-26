@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tayang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tayang bincang"
+      },
+      {
+        "type": "link",
+        "text": "menayangkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tayang",
+  "related": [],
+  "detailed": false
+}

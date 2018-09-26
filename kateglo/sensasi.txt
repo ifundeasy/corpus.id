@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang membuat perasaan terharu; yang merangsang emosi;"
+      },
+      {
+        "type": "desc",
+        "text": "yang merusuhkan (menggemparkan); kegemparan; keonaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensasi",
+  "related": [],
+  "detailed": false
+}

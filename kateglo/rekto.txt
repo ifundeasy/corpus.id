@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halaman sebelah kanan pada buku atau naskah terbuka, biasanya bernomor halaman ganjil;"
+      },
+      {
+        "type": "desc",
+        "text": "sisi pertama pada kertas cetak atau bergaris jika dilipat dan dijilid; bagian depan atau bagian muka lembaran kertas cetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekto",
+  "related": [],
+  "detailed": false
+}

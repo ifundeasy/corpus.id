@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "impedans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) nisbah antara beda potensial elektrik pada ujung- ujung suatu komponen dan arus yang melalui komponen tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=impedans",
+  "related": [],
+  "detailed": false
+}

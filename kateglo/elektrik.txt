@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektrik",
+  "related": [],
+  "detailed": false
+}

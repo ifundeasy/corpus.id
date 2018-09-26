@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit komersial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit jangka pendek dengan suku bunga tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20komersial",
+  "related": [],
+  "detailed": false
+}

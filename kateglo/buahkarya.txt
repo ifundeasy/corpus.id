@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah karya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil karya, ciptaan (tentang puisi, prosa, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20karya",
+  "related": [],
+  "detailed": false
+}

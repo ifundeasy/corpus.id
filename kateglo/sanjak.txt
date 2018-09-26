@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanjak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan pendek dengan bentuk tertentu (seperti syair, pantun, gurindam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanjak",
+  "related": [],
+  "detailed": false
+}

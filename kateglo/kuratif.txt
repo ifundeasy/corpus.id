@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuratif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(dapat) menolong menyembuhkan (penyakit dsb); mempunyai daya untuk mengobati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuratif",
+  "related": [],
+  "detailed": false
+}

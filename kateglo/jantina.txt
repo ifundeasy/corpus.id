@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jantina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akr)"
+      },
+      {
+        "type": "desc",
+        "text": "kelamin (seks);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "biseksual (dari jantan dan betina);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jantina",
+  "related": [],
+  "detailed": false
+}

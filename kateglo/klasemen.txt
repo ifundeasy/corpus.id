@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klasemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan ke dalam kelas (golongan, tingkatan); pengelasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klasemen",
+  "related": [],
+  "detailed": false
+}

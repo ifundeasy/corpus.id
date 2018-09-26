@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ofset gulungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) proses cetak ofset yang kertasnya masuk ke dalam mesin cetak dari gulungan kertas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ofset%20gulungan",
+  "related": [],
+  "detailed": false
+}

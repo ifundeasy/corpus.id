@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda kutip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda petik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20kutip",
+  "related": [],
+  "detailed": false
+}

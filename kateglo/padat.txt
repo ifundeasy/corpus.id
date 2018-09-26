@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat penuh hingga tidak berongga; padu; mampat; pejal;"
+      },
+      {
+        "type": "desc",
+        "text": "penuh sesak; penuh tumpat;"
+      },
+      {
+        "type": "desc",
+        "text": "rapat sekali (tentang penduduk dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada waktu luang; berhimpitan sehingga tidak ada waktu sela;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) mempunyai isi dan bentuk yang tetap (tidak cair dan tidak berupa gas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padat",
+  "related": [],
+  "detailed": false
+}

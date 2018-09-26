@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gaji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah kerja yang dibayar dalam waktu yang tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "balas jasa yang diterima pekerja dalam bentuk uang berdasarkan waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaji",
+  "related": [],
+  "detailed": false
+}

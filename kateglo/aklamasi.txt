@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aklamasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan setuju secara lisan dari seluruh peserta rapat dsb terhadap suatu usul tanpa melalui pemungutan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aklamasi",
+  "related": [],
+  "detailed": false
+}

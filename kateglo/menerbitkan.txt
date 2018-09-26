@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menerbitkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menimbulkan (perselisihan dsb); membangkitkan (amarah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendatangkan (kebakaran, kerugian, bahaya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan (majalah, buku, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menerbitkan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain lakan yang halus dibuat dari bulu (domba);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membanat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banat",
+  "related": [],
+  "detailed": false
+}

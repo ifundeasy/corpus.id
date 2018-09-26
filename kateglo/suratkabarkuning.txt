@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kabar kuning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar sensasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kabar%20kuning",
+  "related": [],
+  "detailed": false
+}

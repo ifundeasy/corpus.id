@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orkestrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni mengolah karya musik sehingga dapat dimainkan oleh orkes, misal musik untuk piano digubah untuk orkes; instrumentasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orkestrasi",
+  "related": [],
+  "detailed": false
+}

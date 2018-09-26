@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keren",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampak gagah dan tangkas;"
+      },
+      {
+        "type": "desc",
+        "text": "galak; garang; lekas marah;"
+      },
+      {
+        "type": "desc",
+        "text": "lekas berlari cepat (tentang kuda);"
+      },
+      {
+        "type": "desc",
+        "text": "perlente (berpakaian bagus, berdandan rapi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keren",
+  "related": [],
+  "detailed": false
+}

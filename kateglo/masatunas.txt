@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa tunas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) masa antara waktu terjadinya infeksi dan timbulnya gejala-gejala penyakit; masa inkubasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20tunas",
+  "related": [],
+  "detailed": false
+}

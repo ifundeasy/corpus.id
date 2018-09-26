@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saudara kandung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saudara seibu (baik seayah maupun tidak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saudara%20kandung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kategori gramatikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "golongan satuan bahasa yang dibedakan atas bentuk, fungsi, dan makna, misal kelas kata atau jenis kata;"
+      },
+      {
+        "type": "desc",
+        "text": "golongan satuan bahasa yang diungkapkan dengan morfem terikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategori%20gramatikal",
+  "related": [],
+  "detailed": false
+}

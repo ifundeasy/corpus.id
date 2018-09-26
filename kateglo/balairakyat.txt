@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung pertemuan untuk kegiatan warga desa (rapat, pesta, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20rakyat",
+  "related": [],
+  "detailed": false
+}

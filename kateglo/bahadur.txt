@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahadur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "pahlawan; satria;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gagah berani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahadur",
+  "related": [],
+  "detailed": false
+}

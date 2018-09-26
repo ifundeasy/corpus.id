@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sian",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "sedemikian;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(warna) biru kehijau-hijauan sebagai salah satu warna primer fotografi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sian",
+  "related": [],
+  "detailed": false
+}

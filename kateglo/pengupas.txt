@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengupas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengupas;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengupas (tentang buah, telur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengulas (menganalisis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengupas",
+  "related": [],
+  "detailed": false
+}

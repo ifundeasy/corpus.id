@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puskesmas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akr) pusat kesehatan masyarakat; poliklinik di tingkat kecamatan tempat rakyat menerima pelayanan kesehatan dan penyuluhan mengenai keluarga berencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puskesmas",
+  "related": [],
+  "detailed": false
+}

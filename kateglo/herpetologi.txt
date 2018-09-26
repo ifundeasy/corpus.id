@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herpetologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang zoologi yang berkenaan dengan reptil dan amfibi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herpetologi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekologi populasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang ekologi yang menitikberatkan hubungan antara kelompok makhluk, jumlah individu, dan faktor penentuan besar populasi dan penyebarannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekologi%20populasi",
+  "related": [],
+  "detailed": false
+}

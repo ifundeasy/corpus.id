@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inspektorat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (lembaga, pemerintah) yang melakukan pekerjaan pemeriksaan;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor inspeksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspektorat",
+  "related": [],
+  "detailed": false
+}

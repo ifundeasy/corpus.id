@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tampak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat dilihat; kelihatan;"
+      },
+      {
+        "type": "desc",
+        "text": "memperlihatkan diri; muncul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tampak",
+  "related": [],
+  "detailed": false
+}

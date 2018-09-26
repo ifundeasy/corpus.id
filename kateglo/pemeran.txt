@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memerankan sesuatu dalam film, sandiwara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjalankan peranan tertentu dalam suatu peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeran",
+  "related": [],
+  "detailed": false
+}

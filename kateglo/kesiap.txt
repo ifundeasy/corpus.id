@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kesiap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk) →"
+      },
+      {
+        "type": "link",
+        "text": "terkesiap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesiap",
+  "related": [],
+  "detailed": false
+}

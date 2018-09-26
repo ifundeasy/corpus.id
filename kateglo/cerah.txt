@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cerah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terang (tentang hari, bulan, warna); jernih (tentang kaca);"
+      },
+      {
+        "type": "desc",
+        "text": "berseri (tentang muka);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) baik; bahagia;"
+      },
+      {
+        "type": "desc",
+        "text": "retak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerah",
+  "related": [],
+  "detailed": false
+}

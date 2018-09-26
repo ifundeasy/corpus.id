@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah yang dikeringkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20kering",
+  "related": [],
+  "detailed": false
+}

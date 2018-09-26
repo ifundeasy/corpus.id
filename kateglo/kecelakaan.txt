@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecelakaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal celaka; bencana; kemalangan; kesusahan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendapat celaka;"
+      },
+      {
+        "type": "desc",
+        "text": "kejadian (peristiwa) yang menyebabkan orang celaka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecelakaan",
+  "related": [],
+  "detailed": false
+}

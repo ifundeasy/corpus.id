@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "program akademik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "program dalam sistem persekolahan yang hanya mempersiapkan sejumlah mata pelajaran yang diperuntukkan bagi siswa yang ingin melanjutkan studi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=program%20akademik",
+  "related": [],
+  "detailed": false
+}

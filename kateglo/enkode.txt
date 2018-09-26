@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enkode",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyampaikan pesan dalam bentuk lain (seperti menyampaikan berita dalam bentuk sandi); mengkodekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enkode",
+  "related": [],
+  "detailed": false
+}

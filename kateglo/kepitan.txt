@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mengepit;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dikepit;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh yang digunakan untuk mengepit (seperti ketiak);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengepit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepitan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biopsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pemeriksaan terhadap organisme, organ, atau jaringan yang hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biopsi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berselisih jalan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpapasan bertemu di jalan, tetapi masing-masing menempuh jalannya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berselisih%20jalan",
+  "related": [],
+  "detailed": false
+}

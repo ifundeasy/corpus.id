@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyekolahkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan ke sekolah; mengirimkan ke sekolah (untuk belajar);"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh belajar ke sekolah; memberikan biaya sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyekolahkan",
+  "related": [],
+  "detailed": false
+}

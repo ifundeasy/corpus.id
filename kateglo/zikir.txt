@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zikir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puji-pujian kepada Allah yang diucapkan berulang-ulang;"
+      },
+      {
+        "type": "desc",
+        "text": "doa atau puji-pujian berlagu (dilakukan pada perayaan Maulid Nabi);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan mengucapkan zikir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zikir",
+  "related": [],
+  "detailed": false
+}

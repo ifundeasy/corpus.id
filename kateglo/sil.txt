@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan menyimpan barang di sebuah gudang yang disewakan untuk umum dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sil",
+  "related": [],
+  "detailed": false
+}

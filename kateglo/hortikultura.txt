@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hortikultura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk-beluk kegiatan atau seni bercocok tanam sayur-sayuran, buah-buahan, atau tanaman hias;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hortikultura",
+  "related": [],
+  "detailed": false
+}

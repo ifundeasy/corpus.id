@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "padat karya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang berasaskan pemanfaatan tenaga kerja yang tersedia (dalam jumlah yang besar);"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan pembangunan proyek yang lebih banyak menggunakan tenaga manusia jika dibandingkan dengan modal atau mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padat%20karya",
+  "related": [],
+  "detailed": false
+}

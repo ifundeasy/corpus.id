@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "besi batang untuk landasan jalan kereta api (trem dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang lurus (baik dsb); aturan (kebiasaan umum);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rel",
+  "related": [],
+  "detailed": false
+}

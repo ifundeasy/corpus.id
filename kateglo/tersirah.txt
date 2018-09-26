@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersirah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "telah merah;"
+      },
+      {
+        "type": "desc",
+        "text": "mati;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapati mayat yang telah dikubur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersirah",
+  "related": [],
+  "detailed": false
+}

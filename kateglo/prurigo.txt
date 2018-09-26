@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prurigo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit kronis dengan gejala timbulnya bintil-bintil dan rasa gatal yang luar biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prurigo",
+  "related": [],
+  "detailed": false
+}

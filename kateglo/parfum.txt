@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parfum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak wangi; bau wangi-wangian yang berupa cairan, padatan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "zat pewangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parfum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urinometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur berat jenis urine;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urinometer",
+  "related": [],
+  "detailed": false
+}

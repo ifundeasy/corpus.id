@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonmigas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "di luar gas dan bumi (tentang barang produksi, dsb) yang tidak tergolong gas dan bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonmigas",
+  "related": [],
+  "detailed": false
+}

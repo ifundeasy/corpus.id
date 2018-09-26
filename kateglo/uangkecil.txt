@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang nilainya kecil (dalam bentuk uang kertas dan uang logam) seperti uang ratusan, lima puluhan, dan dua puluh lima rupiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kecil",
+  "related": [],
+  "detailed": false
+}

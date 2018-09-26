@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggaji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar (memberi) gaji;"
+      },
+      {
+        "type": "desc",
+        "text": "mempekerjakan orang dengan membayar gaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggaji",
+  "related": [],
+  "detailed": false
+}

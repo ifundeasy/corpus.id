@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turun takhta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meletakkan jabatan raja (tidak menjadi raja lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turun%20takhta",
+  "related": [],
+  "detailed": false
+}

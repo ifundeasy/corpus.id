@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geladak embarkasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geladak tempat penumpang kapal melakukan embarkasi ke sekoci penolong, atau geladak tempat penumpang kelas naik atau melaporkan diri ke kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak%20embarkasi",
+  "related": [],
+  "detailed": false
+}

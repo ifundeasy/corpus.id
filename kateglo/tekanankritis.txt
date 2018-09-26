@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan kritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan yang menentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20kritis",
+  "related": [],
+  "detailed": false
+}

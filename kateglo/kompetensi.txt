@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompetensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kewenangan (kekuasaan) untuk menentukan (memutuskan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kemampuan menguasai gramatika suatu bahasa secara abstrak atau batiniah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompetensi",
+  "related": [],
+  "detailed": false
+}

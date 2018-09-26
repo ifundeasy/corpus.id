@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tembus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlubang sampai ke sisi yang lain; tembuk;"
+      },
+      {
+        "type": "desc",
+        "text": "masuk sampai (ke luar) ke; melantas;"
+      },
+      {
+        "type": "desc",
+        "text": "merembes (meresap) ke sisi yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "terobos (tentang barisan, pertahanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kena benar (tentang dugaan, ramalan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembus",
+  "related": [],
+  "detailed": false
+}

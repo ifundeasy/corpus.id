@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "abjad fonetis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem lambang yang mempertalikan satu lambang dengan satu bunyi bahasa yang dihasilkan alat ucap manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abjad%20fonetis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megaohm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) tahanan listrik yang terdiri atas sejuta ohm;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megaohm",
+  "related": [],
+  "detailed": false
+}

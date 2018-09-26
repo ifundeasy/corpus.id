@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan pada permukaan air yang tampak bagaikan padi di sawah luas tertiup angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20laut",
+  "related": [],
+  "detailed": false
+}

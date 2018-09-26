@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wajah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian depan dari kepala; roman muka; muka;"
+      },
+      {
+        "type": "desc",
+        "text": "tokoh (pemain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) apa-apa yang tampak lebih dulu;"
+      },
+      {
+        "type": "desc",
+        "text": "gambaran; corak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wajah",
+  "related": [],
+  "detailed": false
+}

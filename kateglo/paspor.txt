@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paspor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan yang dikeluarkan oleh pemerintah untuk seorang warga negara yang akan mengadakan perjalanan ke luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paspor",
+  "related": [],
+  "detailed": false
+}

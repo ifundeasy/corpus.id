@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengumbaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk mengumbar (misal ternak) secara bebas (di padang rumput dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengumbaran",
+  "related": [],
+  "detailed": false
+}

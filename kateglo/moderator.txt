@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moderator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertindak sebagai penengah (hakim, wasit, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin sidang (rapat, diskusi) yang menjadi pengarah pada acara pembicaraan atau pendiskusian masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) alat pada mesin yang mengatur atau mengontrol aliran bahan bakar atau sumber tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moderator",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "suara yang diberikan dalam pemilihan;"
+      },
+      {
+        "type": "desc",
+        "text": "kertas yang memuat nama calon untuk dipilih yang dibagi-bagikan kepada para pemilih agar mereka dapat menentukan pilihannya atau menambahkan nama yang belum dicantumkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balot",
+  "related": [],
+  "detailed": false
+}

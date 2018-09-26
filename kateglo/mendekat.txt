@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendekat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "datang menghampiri;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir akan tiba;"
+      },
+      {
+        "type": "desc",
+        "text": "mau berdamai (bersahabat, bergaul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendekat",
+  "related": [],
+  "detailed": false
+}

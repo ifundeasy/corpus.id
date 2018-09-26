@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba komposit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang terdiri atas dua bagian yang dalam struktur kalimat dipisahkan oleh objek dari verba itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20komposit",
+  "related": [],
+  "detailed": false
+}

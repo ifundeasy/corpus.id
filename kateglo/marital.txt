@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marital",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan perkawinan atau kedudukan perkawinan;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan seorang suami dan peranannya dalam perkawinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marital",
+  "related": [],
+  "detailed": false
+}

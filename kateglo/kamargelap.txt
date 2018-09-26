@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang kedap cahaya untuk mencuci film;"
+      },
+      {
+        "type": "desc",
+        "text": "bilik di dalam penjara yang ditutup rapat-rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20gelap",
+  "related": [],
+  "detailed": false
+}

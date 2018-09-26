@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ideologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan konsep bersistem yang dijadikan asas pendapat (kejadian) yang memberikan arah dan tujuan untuk kelangsungan hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "cara berpikir seseorang atau suatu golongan;"
+      },
+      {
+        "type": "desc",
+        "text": "paham, teori, dan tujuan yang merupakan satu program sosial politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ideologi",
+  "related": [],
+  "detailed": false
+}

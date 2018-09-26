@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syekh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan kepada orang Arab (terutama orang Arab keturunan sahabat Nabi);"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan orang Arab yang berasal dari Hadramaut;"
+      },
+      {
+        "type": "desc",
+        "text": "ulama besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syekh",
+  "related": [],
+  "detailed": false
+}

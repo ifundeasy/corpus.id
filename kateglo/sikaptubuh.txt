@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sikap tubuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sikap%20tubuh",
+  "related": [],
+  "detailed": false
+}

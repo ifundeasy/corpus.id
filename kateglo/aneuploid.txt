@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aneuploid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan perangkat kromosom yang karena penambahan atau pengurangan satu kromosom jumlahnya menjadi bukan pengalihan tepat angka dasar genomnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aneuploid",
+  "related": [],
+  "detailed": false
+}

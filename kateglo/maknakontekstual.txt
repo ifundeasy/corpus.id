@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna kontekstual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna yang didasarkan atas hubungan antara ujaran dan situasi pemakaian ujaran itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20kontekstual",
+  "related": [],
+  "detailed": false
+}

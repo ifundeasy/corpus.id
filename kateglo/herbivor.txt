@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herbivor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) hewan pemakan tumbuh-tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herbivor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kernet tembak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kernet pengganti jika kernet tetap berhalangan; kernet tidak tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kernet%20tembak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari instansi yang mengurusi suatu urusan;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro",
+  "related": [],
+  "detailed": false
+}

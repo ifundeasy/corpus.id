@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertingkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai tingkat; berlenggek;"
+      },
+      {
+        "type": "desc",
+        "text": "berpangkat-pangkat; berjenjang; merupakan tingkatan (naik-naik);"
+      },
+      {
+        "type": "desc",
+        "text": "naik setingkat demi setingkat; bertambah tinggi (sukar dsb) sedikit demi sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertingkat",
+  "related": [],
+  "detailed": false
+}

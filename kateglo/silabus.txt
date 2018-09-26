@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silabus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik)"
+      },
+      {
+        "type": "desc",
+        "text": "kerangka unsur kursus pendidikan, disajikan dalam aturan yang logis, atau dalam tingkat kesulitan yang makin meningkat;"
+      },
+      {
+        "type": "desc",
+        "text": "ikhtisar suatu pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silabus",
+  "related": [],
+  "detailed": false
+}

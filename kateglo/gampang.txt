@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gampang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah; tidak sukar;"
+      },
+      {
+        "type": "desc",
+        "text": "enteng; remeh; sepele;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gampang",
+  "related": [],
+  "detailed": false
+}

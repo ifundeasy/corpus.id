@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengamanan arsip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) pemeliharaan surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengamanan%20arsip",
+  "related": [],
+  "detailed": false
+}

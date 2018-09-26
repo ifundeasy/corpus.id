@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang surut atmosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan atmosfer yang disebabkan oleh perubahan gravitasi bulan dan perubahan gravitasi matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20surut%20atmosfer",
+  "related": [],
+  "detailed": false
+}

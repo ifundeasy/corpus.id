@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit berupa bintik-bintik dan menimbulkan rasa gatal;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merah kekuning-kuningan (tentang warna bulu ayam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biring",
+  "related": [],
+  "detailed": false
+}

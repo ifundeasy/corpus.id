@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akr) bukti pelanggaran lalu lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tilang",
+  "related": [],
+  "detailed": false
+}

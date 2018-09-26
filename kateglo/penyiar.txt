@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyiar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyiarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyeru pada radio;"
+      },
+      {
+        "type": "desc",
+        "text": "pemancar (radio);"
+      },
+      {
+        "type": "desc",
+        "text": "penerbit dan penjual (buku dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyiar",
+  "related": [],
+  "detailed": false
+}

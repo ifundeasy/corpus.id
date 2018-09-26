@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa vokalis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipe bahasa yang dalam fonotaktiknya mengharuskan kata-kata berakhir pada vokal, misal bahasa Jepang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20vokalis",
+  "related": [],
+  "detailed": false
+}

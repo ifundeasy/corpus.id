@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pingit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berpingit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pingit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggal waktu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kurang dari waktu yang biasa (tentang waktu kerja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggal%20waktu",
+  "related": [],
+  "detailed": false
+}

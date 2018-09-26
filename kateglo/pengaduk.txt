@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengaduk;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengaduk (semen dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaduk",
+  "related": [],
+  "detailed": false
+}

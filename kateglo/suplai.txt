@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suplai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbekalan; pembekalan;"
+      },
+      {
+        "type": "desc",
+        "text": "persediaan barang-barang yang dibutuhkan dan dapat diperoleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suplai",
+  "related": [],
+  "detailed": false
+}

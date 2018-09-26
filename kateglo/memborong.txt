@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memborong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membeli semuanya (seluruhnya); membeli banyak-banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "menangani suatu pekerjaan seluruhnya sampai selesai sambil menyediakan semua bahan dan peralatannya sekalian;"
+      },
+      {
+        "type": "desc",
+        "text": "merangkap berbagai jabatan; melakukan berbagai pekerjaan seorang diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memborong",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gombang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guci besar; tempayan besar; situn;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampan; elok rupanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gombang",
+  "related": [],
+  "detailed": false
+}

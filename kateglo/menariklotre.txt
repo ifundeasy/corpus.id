@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik lotre",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuka lotre; mengundi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menang lotre (undian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20lotre",
+  "related": [],
+  "detailed": false
+}

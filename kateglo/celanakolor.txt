@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "celana kolor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "celana (dalam) yang berkolor pada bagian pinggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celana%20kolor",
+  "related": [],
+  "detailed": false
+}

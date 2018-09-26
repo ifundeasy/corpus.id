@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis haluan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petunjuk yang harus dituruti;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kap) garis bidang tegak yang sejajar dengan garis bujur kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20haluan",
+  "related": [],
+  "detailed": false
+}

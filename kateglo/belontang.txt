@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belontang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membelontang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan belodok, Gobius ciridipunctatus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belontang",
+  "related": [],
+  "detailed": false
+}

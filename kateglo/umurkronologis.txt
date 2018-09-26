@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur kronologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "umur menurut kalender (biasa dipakai untuk mengukur taraf perkembangan kognitif seseorang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20kronologis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebelas",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 11 (Arab) atau XI (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-11 sesudah ke-10 dan sebelum ke-12;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 10 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebelas",
+  "related": [],
+  "detailed": false
+}

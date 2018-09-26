@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hidrometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kecepatan arus air yang mengalir;"
+      },
+      {
+        "type": "desc",
+        "text": "timbangan air; alat untuk menimbang berat air, biasanya berupa batang kaca berongga dan berskala, yang akan terbenam sebagian dalam cairan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur berat jenis atau kepekatan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidrometer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "ibu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buta aksara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umi",
+  "related": [],
+  "detailed": false
+}

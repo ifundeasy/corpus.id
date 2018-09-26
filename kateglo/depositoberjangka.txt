@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deposito berjangka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) simpanan di bank yang penarikannya dapat dilakukan setelah masa tertentu yang diperjanjikan atau setelah pemberitahuan sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deposito%20berjangka",
+  "related": [],
+  "detailed": false
+}

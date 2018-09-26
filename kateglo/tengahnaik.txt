@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tengah naik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mulai naik kira-kira pukul 09.00 (tentang matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "berumur sekitar 14—15 tahun (tentang anak-anak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengah%20naik",
+  "related": [],
+  "detailed": false
+}

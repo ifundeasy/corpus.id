@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kas harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari persediaan uang tunai yang dipakai untuk transaksi sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kas%20harian",
+  "related": [],
+  "detailed": false
+}

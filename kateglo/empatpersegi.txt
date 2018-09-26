@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "empat persegi",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bidang yang dibatasi empat garis lurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empat%20persegi",
+  "related": [],
+  "detailed": false
+}

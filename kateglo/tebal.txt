@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tebal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berjarak lebih besar antara permukaan yang berlawanan jika dibandingkan dengan benda lainnya yang sejenis (tentang barang yang pipih atau berhelai-helai, seperti kertas, papan, kain, lapisan);"
+      },
+      {
+        "type": "desc",
+        "text": "kasar atau nyata kelihatan (tentang garis, huruf cetak, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "padat dan banyak (tentang awan, mendung);"
+      },
+      {
+        "type": "desc",
+        "text": "lebat (tentang rambut, janggut, tanaman);"
+      },
+      {
+        "type": "desc",
+        "text": "teguh dan kuat sekali (tentang iman, kepercayaan, keyakinan, keinsafan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Plectorhyncidae;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebal",
+  "related": [],
+  "detailed": false
+}

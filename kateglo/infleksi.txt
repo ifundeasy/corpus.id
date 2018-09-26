@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) perubahan bentuk kata (dalam bahasa fleksi) yang menunjukkan berbagai hubungan gramatikal (seperti deklinasi nomina, pronomina, adjektiva, dan konjugasi verba);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infleksi",
+  "related": [],
+  "detailed": false
+}

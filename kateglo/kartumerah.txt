@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kartu merah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) kartu yang dikeluarkan oleh wasit kepada pemain atau pelatih (dalam sepak bola atau voli) sebagai tanda pengusiran ke luar lapangan karena pelanggaran yang dilakukan sehingga pemain harus meninggalkan lapangan dan tidak dapat bertanding pada putaran berikutnya, sedangkan pelatih tidak dapat mendampingi pemain selama pertandingan berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20merah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabel las",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabel yang menghubungkan tang las dengan pesawat las yang memberikan arus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabel%20las",
+  "related": [],
+  "detailed": false
+}

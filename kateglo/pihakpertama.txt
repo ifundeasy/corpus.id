@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pihak pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pihak kesatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pihak%20pertama",
+  "related": [],
+  "detailed": false
+}

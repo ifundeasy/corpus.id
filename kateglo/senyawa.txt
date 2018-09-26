@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senyawa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "padu benar; sudah menjadi satu arti (tentang kata majemuk); sudah menjadi satu zat (tentang unsur kimia);"
+      },
+      {
+        "type": "desc",
+        "text": "senyawaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senyawa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelatihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan melatih; kegiatan atau pekerjaan melatih;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat melatih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelatihan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlintas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dilalui (dilampaui, diatasi);"
+      },
+      {
+        "type": "desc",
+        "text": "terbayang, teringat, dsb dalam angan-angan, pikiran, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlintas",
+  "related": [],
+  "detailed": false
+}

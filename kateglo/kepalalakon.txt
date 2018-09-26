@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala lakon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeran utama (pemegang peranan penting) dalam sebuah lakon (sandiwara, film, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20lakon",
+  "related": [],
+  "detailed": false
+}

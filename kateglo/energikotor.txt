@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi kotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "energi yang terkandung dalam bahan makanan yang dapat dimanfaatkan oleh binatang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20kotor",
+  "related": [],
+  "detailed": false
+}

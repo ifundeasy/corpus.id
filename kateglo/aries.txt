@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Aries",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron)"
+      },
+      {
+        "type": "desc",
+        "text": "nama gugus bintang di belahan langit sebelah utara khatulistiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astrol) zodiak pertama yang digambarkan dengan domba jantan sebagai lambang bagi orang yang lahir antara tanggal 21 Maret dan 19 April; Mesa; Hamal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Aries",
+  "related": [],
+  "detailed": false
+}

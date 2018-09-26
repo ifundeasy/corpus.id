@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ternak komersial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ternak yang dapat diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ternak%20komersial",
+  "related": [],
+  "detailed": false
+}

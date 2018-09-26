@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biomassa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah keseluruhan benda hidup dalam suatu perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biomassa",
+  "related": [],
+  "detailed": false
+}

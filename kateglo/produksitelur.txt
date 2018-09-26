@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi telur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah telur yang dihasilkan oleh perusahaan peternakan dalam waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20telur",
+  "related": [],
+  "detailed": false
+}

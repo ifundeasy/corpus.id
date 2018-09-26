@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "timbang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berat sebelah; sama berat;"
+      }
+    ],
+    "l": [
+      {
+        "type": "link",
+        "text": "ketimbang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timbang",
+  "related": [],
+  "detailed": false
+}

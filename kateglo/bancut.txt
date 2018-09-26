@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bancut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terbancut"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) kerdil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bancut",
+  "related": [],
+  "detailed": false
+}

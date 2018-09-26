@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memeper",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyimpang dari arahnya (tentang perahu, kapal);"
+      },
+      {
+        "type": "desc",
+        "text": "hanyut dibawa arus (kapal, perahu) dengan rusuknya ke muka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memeper",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "korps musik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "himpunan pemain musik yang merupakan satu kesatuan lengkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korps%20musik",
+  "related": [],
+  "detailed": false
+}

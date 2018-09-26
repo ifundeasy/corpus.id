@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memperjualbelikan saham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20saham",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentuk tubuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern)"
+      },
+      {
+        "type": "desc",
+        "text": "bangun tubuh; perawakan;"
+      },
+      {
+        "type": "desc",
+        "text": "imbangan bentuk tubuh ternak dilihat dari perbandingan kepala, leher, badan, dan anggota tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk%20tubuh",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelurahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pemerintahan yang paling bawah yang dipimpin oleh seorang lurah;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor (rumah) lurah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelurahan",
+  "related": [],
+  "detailed": false
+}

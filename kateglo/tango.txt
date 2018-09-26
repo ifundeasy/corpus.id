@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tango",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarian rakyat Argentina yang kemudian menjadi dansa, dilakukan di ruang dansa dengan irama 4/4;"
+      },
+      {
+        "type": "desc",
+        "text": "irama musik untuk mengiringi tari tango;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tango",
+  "related": [],
+  "detailed": false
+}

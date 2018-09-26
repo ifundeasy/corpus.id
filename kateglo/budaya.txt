@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "budaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pikiran; akal budi;"
+      },
+      {
+        "type": "desc",
+        "text": "adat istiadat;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu mengenai kebudayaan yang sudah berkembang (beradab, maju);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sesuatu yang sudah menjadi kebiasaan yang sudah sukar diubah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=budaya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perguruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah; gedung-gedung tempat belajar;"
+      },
+      {
+        "type": "desc",
+        "text": "pengajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perguruan",
+  "related": [],
+  "detailed": false
+}

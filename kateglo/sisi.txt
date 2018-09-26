@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "samping (kanan atau kiri); sebelah;"
+      },
+      {
+        "type": "desc",
+        "text": "tepi; pinggir;"
+      },
+      {
+        "type": "desc",
+        "text": "rusuk;"
+      },
+      {
+        "type": "desc",
+        "text": "garis lurus yang membatasi suatu bidang; segi;"
+      },
+      {
+        "type": "desc",
+        "text": "pihak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sisi",
+  "related": [],
+  "detailed": false
+}

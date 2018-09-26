@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memasukkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membawa (menyuruh, membiarkan, dsb) masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "mendaftarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyampaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "menempatkan; mencantumkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menaruh uang dalam perusahaan dsb; menanam modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memasukkan",
+  "related": [],
+  "detailed": false
+}

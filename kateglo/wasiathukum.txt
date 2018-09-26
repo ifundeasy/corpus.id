@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wasiat hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wasiat yang dibuat di muka notaris dan diumumkan setelah si pembuat meninggal dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wasiat%20hukum",
+  "related": [],
+  "detailed": false
+}

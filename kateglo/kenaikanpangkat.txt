@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenaikan pangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) tindakan resmi dalam administrasi kepegawaian yang mengakibatkan perubahan pangkat pegawai negeri sipil, yakni pangkatnya menjadi lebih tinggi daripada pangkat semula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenaikan%20pangkat",
+  "related": [],
+  "detailed": false
+}

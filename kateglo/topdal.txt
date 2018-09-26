@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "topdal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) buku catatan harian yang memuat segala yang terjadi dalam pelayaran (keadaan cuaca, angin, kecepatan kapal, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=topdal",
+  "related": [],
+  "detailed": false
+}

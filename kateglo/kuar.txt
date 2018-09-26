@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menguarkan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung yang keluar dari persembunyiannya pada malam hari; kuak;"
+      },
+      {
+        "type": "desc",
+        "text": "lingsa yang baru menetas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) diperoleh dari hubungan yang tidak sah (tentang anak); haram jadah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuar",
+  "related": [],
+  "detailed": false
+}

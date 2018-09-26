@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang mikro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mikrogelombang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20mikro",
+  "related": [],
+  "detailed": false
+}

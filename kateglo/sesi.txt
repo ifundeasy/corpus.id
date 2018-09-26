@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "babak; tahap;"
+      },
+      {
+        "type": "desc",
+        "text": "sidang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesi",
+  "related": [],
+  "detailed": false
+}

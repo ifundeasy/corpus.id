@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembiakan subur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) pembiakan yang menghasilkan jumlah keturunan yang maksimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembiakan%20subur",
+  "related": [],
+  "detailed": false
+}

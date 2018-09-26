@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indikatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat atau mengandung indikasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) berhubungan dengan bentuk verba yang menggambarkan keadaan nyata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indikatif",
+  "related": [],
+  "detailed": false
+}

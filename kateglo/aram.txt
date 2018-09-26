@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aram",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "aram-aram"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "aram temaram"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aram",
+  "related": [],
+  "detailed": false
+}

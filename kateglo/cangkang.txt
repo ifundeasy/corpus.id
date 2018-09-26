@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cangkang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kulit telur;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah siput atau kerang;"
+      },
+      {
+        "type": "desc",
+        "text": "kulit keras yang menutupi badan (pada penyu, kura-kura, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang sopan; kurang ajar terutama suka menjawab dengan keras apabila dimarahi (dinasihati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cangkang",
+  "related": [],
+  "detailed": false
+}

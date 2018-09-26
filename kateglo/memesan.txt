@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memesan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi pesan (nasihat, petunjuk, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh (meminta) supaya dikirim (disediakan, dibuatkan) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memesan",
+  "related": [],
+  "detailed": false
+}

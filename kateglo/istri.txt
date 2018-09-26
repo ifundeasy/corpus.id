@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wanita (perempuan) yang telah menikah atau yang bersuami;"
+      },
+      {
+        "type": "desc",
+        "text": "wanita yang dinikahi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istri",
+  "related": [],
+  "detailed": false
+}

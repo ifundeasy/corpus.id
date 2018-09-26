@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geladak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai kapal atau lantai perahu; dek;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah (tempat) menginap kuli (terbuat dari papan);"
+      },
+      {
+        "type": "desc",
+        "text": "liar;"
+      },
+      {
+        "type": "desc",
+        "text": "(kas) jalang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komandan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala (pemimpin) pasukan (di suatu daerah, kota, atau benteng);"
+      },
+      {
+        "type": "desc",
+        "text": "kepala (pemimpin) sekelompok pasukan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala pasukan polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komandan",
+  "related": [],
+  "detailed": false
+}

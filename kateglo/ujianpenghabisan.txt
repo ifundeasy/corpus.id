@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian penghabisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang diselenggarakan pada saat siswa akan meninggalkan suatu tingkat pendidikan tertentu; ujian akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20penghabisan",
+  "related": [],
+  "detailed": false
+}

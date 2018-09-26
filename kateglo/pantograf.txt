@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk membesarkan dan mengecilkan gambar;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) konstruksi berbentuk belah ketupat yang dipasang di atas kereta api listrik, gunanya untuk mengalirkan arus listrik dari kabel ke motor-motor kereta api itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantograf",
+  "related": [],
+  "detailed": false
+}

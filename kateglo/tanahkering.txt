@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah perladangan (tegalan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20kering",
+  "related": [],
+  "detailed": false
+}

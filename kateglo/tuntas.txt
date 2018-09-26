@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuntas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "habis (setelah dicurahkan); tidak mengalir lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "selesai secara menyeluruh; sempurna (sama sekali);"
+      },
+      {
+        "type": "desc",
+        "text": "singkat dan tegas (jelas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuntas",
+  "related": [],
+  "detailed": false
+}

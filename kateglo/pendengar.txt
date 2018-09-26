@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendengar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mendengar atau mendengarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "indra untuk mendengar; telinga;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mendengarkan (pidato, musik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pelajar (mahasiswa) yang ikut mendengarkan pelajaran (kuliah), tetapi tidak terdaftar sebagai pelajar (mahasiswa) biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendengar",
+  "related": [],
+  "detailed": false
+}

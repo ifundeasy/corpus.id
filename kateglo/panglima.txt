@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panglima",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hulubalang; pemimpin pasukan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin kesatuan tentara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panglima",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hopagen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "agen polisi;"
+      },
+      {
+        "type": "desc",
+        "text": "agen utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hopagen",
+  "related": [],
+  "detailed": false
+}

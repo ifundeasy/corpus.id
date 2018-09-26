@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spirit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semangat;"
+      },
+      {
+        "type": "desc",
+        "text": "jiwa; sukma; roh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spirit",
+  "related": [],
+  "detailed": false
+}

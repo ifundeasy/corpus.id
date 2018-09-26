@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gerak badan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "olahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerak%20badan",
+  "related": [],
+  "detailed": false
+}

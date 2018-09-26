@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "restorasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengembalian atau pemulihan kepada keadaan semula (tentang gedung bersejarah, kedudukan raja, negara); pemugaran;"
+      },
+      {
+        "type": "desc",
+        "text": "gerbong kereta api yang dijadikan restoran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=restorasi",
+  "related": [],
+  "detailed": false
+}

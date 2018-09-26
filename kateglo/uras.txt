@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "param (bedak) yang mengandung obat; air obat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sembuh; waras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uras",
+  "related": [],
+  "detailed": false
+}

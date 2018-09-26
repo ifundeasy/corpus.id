@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan relaksasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan yang diukur dalam kedudukan otot-otot yang kendur dengan volume tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20relaksasi",
+  "related": [],
+  "detailed": false
+}

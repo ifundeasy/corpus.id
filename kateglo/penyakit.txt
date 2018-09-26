@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyebabkan terjadinya gangguan pada makhluk hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "gangguan kesehatan yang disebabkan oleh bakteri, virus, atau kelainan sistem faal atau jaringan pada organ tubuh (pada makhluk hidup);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kebiasaan yang buruk; sesuatu yang mendatangkan keburukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kas) kurang ajar (kata afektif dalam makian); bangsat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit",
+  "related": [],
+  "detailed": false
+}

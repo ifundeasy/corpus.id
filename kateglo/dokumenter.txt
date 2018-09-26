@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dokumenter",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat dokumentasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokumenter",
+  "related": [],
+  "detailed": false
+}

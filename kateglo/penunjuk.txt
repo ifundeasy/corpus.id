@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penunjuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menunjuk(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menunjuk(kan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penunjuk",
+  "related": [],
+  "detailed": false
+}

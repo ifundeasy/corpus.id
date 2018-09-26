@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kargo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "muatan barang yang diangkut dengan kapal laut, pesawat udara, atau pengangkut lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kargo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balik kiri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "membalikkan badan (dalam baris-berbaris) dengan memutarnya ke kiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balik%20kiri",
+  "related": [],
+  "detailed": false
+}

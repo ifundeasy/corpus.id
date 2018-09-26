@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masak sekolah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah pandai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masak%20sekolah",
+  "related": [],
+  "detailed": false
+}

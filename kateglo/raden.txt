@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "raden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "gelar putra dan putri raja;"
+      },
+      {
+        "type": "desc",
+        "text": "gelar keturunan raja (untuk kerabat yang sudah jauh);"
+      },
+      {
+        "type": "desc",
+        "text": "sapaan atau panggilan kepada bangsawan (keturunan raja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raden",
+  "related": [],
+  "detailed": false
+}

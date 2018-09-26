@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sela-menyela",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berselang-selang;"
+      },
+      {
+        "type": "desc",
+        "text": "berselang-seling;"
+      },
+      {
+        "type": "desc",
+        "text": "menyelang-nyeling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sela-menyela",
+  "related": [],
+  "detailed": false
+}

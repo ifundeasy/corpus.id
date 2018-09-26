@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang angkasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angkasa luar; bentangan langit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20angkasa",
+  "related": [],
+  "detailed": false
+}

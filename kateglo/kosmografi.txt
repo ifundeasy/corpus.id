@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosmografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang seluruh susunan alam;"
+      },
+      {
+        "type": "desc",
+        "text": "pemerian (penggambaran) secara umum tentang jagat raya termasuk bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmografi",
+  "related": [],
+  "detailed": false
+}

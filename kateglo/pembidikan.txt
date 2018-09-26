@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembidikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berlatih membidik;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membidik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembidikan",
+  "related": [],
+  "detailed": false
+}

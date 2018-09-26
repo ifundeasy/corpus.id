@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekor ASEAN",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekor yang berlaku untuk peringkat negara di Asia Tenggara (ASEAN); hasil terbaik (tertinggi) yang pernah dicapai orang di negara Asia Tenggara (ASEAN);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekor%20ASEAN",
+  "related": [],
+  "detailed": false
+}

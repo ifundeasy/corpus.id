@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengaduk semen",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencampur semen, pasir, dan kapur dengan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengaduk%20semen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antarruang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "antara ruang yang satu dan yang lain yang terdapat pada tempat yang berdekatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antarruang",
+  "related": [],
+  "detailed": false
+}

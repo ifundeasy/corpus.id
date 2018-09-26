@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebangsaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri-ciri yang menandai golongan bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bangsa; mengenai (yang bertalian dengan) bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan (sifat) sebagai orang mulia (bangsawan);"
+      },
+      {
+        "type": "desc",
+        "text": "kesadaran diri sebagai warga dari suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebangsaan",
+  "related": [],
+  "detailed": false
+}

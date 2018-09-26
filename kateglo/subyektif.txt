@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subyektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "subjektif"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subyektif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suara sumbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara yang tidak sedap didengar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) suara yang bernada bermusuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suara%20sumbang",
+  "related": [],
+  "detailed": false
+}

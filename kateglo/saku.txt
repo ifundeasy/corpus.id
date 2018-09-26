@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantong (pada baju, celana, rok, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "saku-saku"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyakukan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saku",
+  "related": [],
+  "detailed": false
+}

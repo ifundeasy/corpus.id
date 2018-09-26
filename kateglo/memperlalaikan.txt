@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memperlalaikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat (menyebabkan dsb) lalai (lupa, tidak sadar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengundurkan (maksud, niat, dsb); mempertangguhkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menghibur (hati, sedih, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memperlalaikan",
+  "related": [],
+  "detailed": false
+}

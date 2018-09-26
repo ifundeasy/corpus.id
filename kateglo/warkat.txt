@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat;"
+      },
+      {
+        "type": "desc",
+        "text": "isi surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warkat",
+  "related": [],
+  "detailed": false
+}

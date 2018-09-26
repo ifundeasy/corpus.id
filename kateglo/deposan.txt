@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deposan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyimpan uang di bank secara deposito;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deposan",
+  "related": [],
+  "detailed": false
+}

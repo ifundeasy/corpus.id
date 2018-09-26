@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seleksi habitat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyebaran individu pada habitat yang diinginkan sesuai dengan kemampuannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seleksi%20habitat",
+  "related": [],
+  "detailed": false
+}

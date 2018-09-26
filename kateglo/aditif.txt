@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aditif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan atau dihasilkan dengan penambahan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang ditambahkan pada suatu produk, misal sebagai penambah warna, penyedap rasa, pengawet pada makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aditif",
+  "related": [],
+  "detailed": false
+}

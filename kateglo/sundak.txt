@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sundak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "menyundak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) (ujung) sengat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sundak",
+  "related": [],
+  "detailed": false
+}

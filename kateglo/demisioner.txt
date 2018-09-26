@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demisioner",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tanpa kekuasaan (misal suatu kabinet dsb yang telah mengembalikan mandat kepada kepala negara, tetapi masih melaksanakan tugas sehari-hari sambil menunggu dilantiknya kabinet yang baru);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demisioner",
+  "related": [],
+  "detailed": false
+}

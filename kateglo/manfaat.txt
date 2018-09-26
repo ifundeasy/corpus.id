@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manfaat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guna; faedah;"
+      },
+      {
+        "type": "desc",
+        "text": "laba; untung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manfaat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentimental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai sentimen; dipengaruhi oleh rasa sentimen; bersifat menyentuh perasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah terpengaruh oleh perasaan; sangat perasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentimental",
+  "related": [],
+  "detailed": false
+}

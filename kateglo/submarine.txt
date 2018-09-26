@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "submarine",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tumbuh hidup atau bergerak di bawah permukaan laut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal selam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=submarine",
+  "related": [],
+  "detailed": false
+}

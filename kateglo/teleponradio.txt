@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon nirkabel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20radio",
+  "related": [],
+  "detailed": false
+}

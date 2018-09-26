@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sontek",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyontek"
+      },
+      {
+        "type": "link",
+        "text": "menyontek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sontek",
+  "related": [],
+  "detailed": false
+}

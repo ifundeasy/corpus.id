@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuan rumah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang empunya rumah; kepala rumah tangga;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengadakan perjamuan sebagai lawan kata tamu; orang yang menerima tamu;"
+      },
+      {
+        "type": "desc",
+        "text": "yang empunya negeri; penduduk asli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuan%20rumah",
+  "related": [],
+  "detailed": false
+}

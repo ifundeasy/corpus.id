@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "raja (perempuan); ratu;"
+      },
+      {
+        "type": "desc",
+        "text": "permaisuri;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kaya; gani;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi rendah suara; nada; laras; lagu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rani",
+  "related": [],
+  "detailed": false
+}

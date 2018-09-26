@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suci; bersih; murni;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berkilat atau bersinar karena tersaput sesuatu (tentang kaca, barang logam, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat kena air atau tidak dapat basah (seperti daun keladi);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat kena penyakit; kebal (dari penyakit);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "terhindar (dari bahaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalis",
+  "related": [],
+  "detailed": false
+}

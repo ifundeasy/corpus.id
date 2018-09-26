@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ligas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meligas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ligas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leukosit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) sel darah tanpa warna (berfungsi untuk membinasakan bakteri yang memasuki tubuh); sel darah putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukosit",
+  "related": [],
+  "detailed": false
+}

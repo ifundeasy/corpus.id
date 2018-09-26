@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "embus;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tiup-tiup"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiup",
+  "related": [],
+  "detailed": false
+}

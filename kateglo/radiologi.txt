@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengobatan yang menggunakan sinar X atau sinar radioaktif untuk mengetahui penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang radioaktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiologi",
+  "related": [],
+  "detailed": false
+}

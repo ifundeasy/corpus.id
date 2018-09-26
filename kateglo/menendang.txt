@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menendang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyepak; mendepak (dengan kaki);"
+      },
+      {
+        "type": "desc",
+        "text": "mengusir; memecat; mengeluarkan (dari kantor, perusahaan, organisasi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendesak (mendorong) kuat-kuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menendang",
+  "related": [],
+  "detailed": false
+}

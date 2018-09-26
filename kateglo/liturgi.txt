@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liturgi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kris)"
+      },
+      {
+        "type": "desc",
+        "text": "ibadat umum di gereja;"
+      },
+      {
+        "type": "desc",
+        "text": "tata cara kebaktian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liturgi",
+  "related": [],
+  "detailed": false
+}

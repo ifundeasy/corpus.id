@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ingsar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insar",
+  "related": [],
+  "detailed": false
+}

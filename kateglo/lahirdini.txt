@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahir dini",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lahir sebelum waktunya; lahir prematur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahir%20dini",
+  "related": [],
+  "detailed": false
+}

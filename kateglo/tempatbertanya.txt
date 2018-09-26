@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempat bertanya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditanyai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempat%20bertanya",
+  "related": [],
+  "detailed": false
+}

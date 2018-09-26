@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mintakat iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) daerah yang memiliki kebiasaan cuaca yang sama di dalam jangka waktu yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mintakat%20iklim",
+  "related": [],
+  "detailed": false
+}

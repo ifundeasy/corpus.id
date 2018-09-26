@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuan besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala perusahaan (perkebunan, pabrik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) orang yang berpangkat tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "gubernur jenderal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuan%20besar",
+  "related": [],
+  "detailed": false
+}

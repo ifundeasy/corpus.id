@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banjir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berair banyak dan deras, kadang-kadang meluap (tentang kali dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang banyak dan mengalir deras; air bah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) peristiwa terbenamnya daratan (yang biasanya kering) karena volume air yang meningkat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) datang (ada) banyak sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjir",
+  "related": [],
+  "detailed": false
+}

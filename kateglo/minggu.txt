@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Minggu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari pertama dalam jangka waktu satu minggu; Ahad;"
+      },
+      {
+        "type": "desc",
+        "text": "(ditulis dengan huruf kecil) jangka waktu yang lamanya tujuh hari;"
+      },
+      {
+        "type": "link",
+        "text": "depan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Minggu",
+  "related": [],
+  "detailed": false
+}

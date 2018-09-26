@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sidi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kris)"
+      },
+      {
+        "type": "desc",
+        "text": "anggota yang sah dari gereja;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sempurna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidi",
+  "related": [],
+  "detailed": false
+}

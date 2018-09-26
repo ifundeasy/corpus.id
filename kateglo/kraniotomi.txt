@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kraniotomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) operasi tulang tengkorak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kraniotomi",
+  "related": [],
+  "detailed": false
+}

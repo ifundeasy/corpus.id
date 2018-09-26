@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang terdapat di sebuah pasar, melayani simpan pinjam uang para pedagang dan umum, serta mengelola peredaran uang di pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20pasar",
+  "related": [],
+  "detailed": false
+}

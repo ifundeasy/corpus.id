@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ladung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mengalir atau meluik (seperti embun di atas daun); terhenti;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "timah pemberat kail, jala, batu duga, dsb supaya tenggelam di dalam air;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) lekuk; keluk;"
+      },
+      {
+        "type": "desc",
+        "text": "tumpukan padi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ladung",
+  "related": [],
+  "detailed": false
+}

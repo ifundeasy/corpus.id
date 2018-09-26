@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat jerih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang lelah; upah; persen;"
+      },
+      {
+        "type": "desc",
+        "text": "buah hati; yang dicintai; pelerai demam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20jerih",
+  "related": [],
+  "detailed": false
+}

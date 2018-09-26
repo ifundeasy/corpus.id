@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat tumbuh dengan baik (lekas besar); tidak merana (tentang tumbuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "baik dan sehat (tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "gemuk (tentang tanah, yaitu banyak mengandung zat yang baik untuk tumbuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "hidup dengan baik (berkembang biak, bertambah maju, besar, kuat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) senang hidupnya (mudah mencari rezeki dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subur",
+  "related": [],
+  "detailed": false
+}

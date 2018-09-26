@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersedan-sedan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tersedan-sedan;"
+      },
+      {
+        "type": "desc",
+        "text": "tersedan-sedan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersedan-sedan",
+  "related": [],
+  "detailed": false
+}

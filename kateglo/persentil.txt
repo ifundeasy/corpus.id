@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persentil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai dalam skala seratus yang menunjukkan distribusi sama atau lebih dari nilai itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persentil",
+  "related": [],
+  "detailed": false
+}

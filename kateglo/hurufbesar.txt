@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf kapital;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20besar",
+  "related": [],
+  "detailed": false
+}

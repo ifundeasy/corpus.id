@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang cara memelihara dan memperkembangkan hewan ternak (babi, domba, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20ternak",
+  "related": [],
+  "detailed": false
+}

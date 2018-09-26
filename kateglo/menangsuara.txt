@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menang suara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menang dalam pe-milihan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih unggul daripada yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menang%20suara",
+  "related": [],
+  "detailed": false
+}

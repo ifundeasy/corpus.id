@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taman nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawasan pelestarian alam yang dikelola, dimanfaatkan untuk kegiatan ilmu pengetahuan, pendidikan dan pelatihan, serta rekreasi dan pariwisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman%20nasional",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang (uang dsb) yang menjadi kekayaan; barang milik seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "kekayaan berwujud dan tidak berwujud yang bernilai dan yang menurut hukum dimiliki perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta",
+  "related": [],
+  "detailed": false
+}

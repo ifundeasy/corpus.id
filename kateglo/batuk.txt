@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "batuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit pada jalan pernapasan atau paru-paru yang kerap kali menimbulkan rasa gatal pada tenggorok sehingga merangsang penderita mengeluarkan bunyi yang keras seperti menyalak (ada banyak macam namanya);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan bunyi yang keras seperti menyalak yang disebabkan oleh penyakit pada jalan pernapasan atau paru-paru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batuk",
+  "related": [],
+  "detailed": false
+}

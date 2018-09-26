@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tetes hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "butir curahan berupa air yang garis tengahnya lebih besar dari 0,5 mm;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetes%20hujan",
+  "related": [],
+  "detailed": false
+}

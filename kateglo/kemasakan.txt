@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemasakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan) masak (yang sebenarnya atau kiasan);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu masak; lebih dari masak (tentang masakan, buah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kematangan jiwa seseorang dalam proses perkembangan ke arah dewasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemasakan",
+  "related": [],
+  "detailed": false
+}

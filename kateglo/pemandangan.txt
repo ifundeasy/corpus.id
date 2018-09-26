@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penglihatan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memandang;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan alam yang indah dipandang;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan (dalam arti apa-apa yang diketahui); pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "ikhtisar, uraian, atau pembicaraan mengenai suatu hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandangan",
+  "related": [],
+  "detailed": false
+}

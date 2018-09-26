@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "referendum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyerahan suatu masalah kepada orang banyak supaya mereka yang menentukannya (jadi, tidak diputuskan oleh rapat atau oleh parlemen); penyerahan suatu persoalan supaya diputuskan dengan pemungutan suara umum (semua anggota suatu perkumpulan atau segenap rakyat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=referendum",
+  "related": [],
+  "detailed": false
+}

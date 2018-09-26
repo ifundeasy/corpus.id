@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pentameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "baris sajak yang terdiri atas lima matra;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran lima kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pentameter",
+  "related": [],
+  "detailed": false
+}

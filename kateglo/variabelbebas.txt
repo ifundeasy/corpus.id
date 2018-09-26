@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "variabel bebas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "faktor, hal, atau unsur yang dianggap dapat menentukan variabel lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=variabel%20bebas",
+  "related": [],
+  "detailed": false
+}

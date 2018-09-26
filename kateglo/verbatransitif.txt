@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba transitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang memiliki objek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20transitif",
+  "related": [],
+  "detailed": false
+}

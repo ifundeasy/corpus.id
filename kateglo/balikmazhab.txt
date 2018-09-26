@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balik mazhab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meninggalkan ajaran mazhab tertentu kemudian mengikuti ajaran mazhab yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balik%20mazhab",
+  "related": [],
+  "detailed": false
+}

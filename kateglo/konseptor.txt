@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konseptor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mencetuskan atau mula-mula memiliki gagasan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyusun konsep;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konseptor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gentar; sangat takut;"
+      },
+      {
+        "type": "desc",
+        "text": "berasa hampir seperti getir (pahit, agak pedas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketar",
+  "related": [],
+  "detailed": false
+}

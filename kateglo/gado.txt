@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gado",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "gaduh"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggado"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gado",
+  "related": [],
+  "detailed": false
+}

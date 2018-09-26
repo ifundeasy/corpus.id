@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semua",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "segala; sekalian;"
+      },
+      {
+        "type": "desc",
+        "text": "sekaliannya; semuanya;"
+      },
+      {
+        "type": "desc",
+        "text": "belaka; semata;"
+      },
+      {
+        "type": "desc",
+        "text": "segenap; seluruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semua",
+  "related": [],
+  "detailed": false
+}

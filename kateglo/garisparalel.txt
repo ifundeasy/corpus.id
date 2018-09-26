@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis paralel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis lintang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20paralel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurikulum kegiatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurikulum yang program belajarnya disusun melalui kegiatan tertentu yang dilakukan anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurikulum%20kegiatan",
+  "related": [],
+  "detailed": false
+}

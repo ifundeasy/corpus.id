@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "halus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lumat; kecil-kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak kasar; lembut; licin;"
+      },
+      {
+        "type": "desc",
+        "text": "baik (budi bahasa); sopan; beradab; tidak kasar (tentang perbuatan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tampak dan tidak dapat diraba; berupa roh;"
+      },
+      {
+        "type": "desc",
+        "text": "bermutu; baik (tentang barang tenunan, ukir-ukiran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halus",
+  "related": [],
+  "detailed": false
+}

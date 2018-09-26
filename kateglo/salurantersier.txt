@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran tersier",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran yang secara langsung memberikan air ke sawah yang akan diairi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20tersier",
+  "related": [],
+  "detailed": false
+}

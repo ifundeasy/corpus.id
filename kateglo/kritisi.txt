@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kritisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaum kritikus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kritisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seremonial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat upacara; bersifat seremoni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seremonial",
+  "related": [],
+  "detailed": false
+}

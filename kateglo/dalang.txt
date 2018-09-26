@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dalang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memainkan wayang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang mengatur (merencanakan, memimpin) suatu gerakan dengan sembunyi-sembunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dalang",
+  "related": [],
+  "detailed": false
+}

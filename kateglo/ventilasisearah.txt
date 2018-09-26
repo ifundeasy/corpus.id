@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ventilasi searah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem ventilasi tambang dengan cara meletakkan sumuran naik yang berfungsi sebagai pengisap udara tambang pada tepi batas daerah penambangan dan terletak jauh dari sumuran turun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilasi%20searah",
+  "related": [],
+  "detailed": false
+}

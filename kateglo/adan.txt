@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adan",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "azan"
+      },
+      {
+        "type": "link",
+        "text": "adnan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adan",
+  "related": [],
+  "detailed": false
+}

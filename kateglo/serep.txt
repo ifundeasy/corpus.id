@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persediaan untuk mengganti apabila ada yang perlu diganti (misal rusak, hilang); cadangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyerepi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serep",
+  "related": [],
+  "detailed": false
+}

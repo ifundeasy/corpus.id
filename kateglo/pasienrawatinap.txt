@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasien rawat inap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasien opname; pasien dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien%20rawat%20inap",
+  "related": [],
+  "detailed": false
+}

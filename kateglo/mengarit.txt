@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengarit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyabit (rumput, padi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mencari rumput (untuk makanan ternak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengarit",
+  "related": [],
+  "detailed": false
+}

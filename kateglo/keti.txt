@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keti",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan seratus ribu; sepuluh laksa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bola yang dibuat dari kayu;"
+      },
+      {
+        "type": "link",
+        "text": "keti-keti"
+      },
+      {
+        "type": "link",
+        "text": "mengeti"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keti",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggal berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mencantumkan dalam surat kabar atau media cetak lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggal%20berita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersuspensi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah mengalami suspensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersuspensi",
+  "related": [],
+  "detailed": false
+}

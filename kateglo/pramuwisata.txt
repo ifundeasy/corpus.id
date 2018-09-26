@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pramuwisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas pariwisata yang berkewajiban memberi petunjuk dan informasi yang diperlukan wisatawan; pemandu wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pramuwisata",
+  "related": [],
+  "detailed": false
+}

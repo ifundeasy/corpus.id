@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iritasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kejengkelan (hati);"
+      },
+      {
+        "type": "desc",
+        "text": "gangguan;"
+      },
+      {
+        "type": "desc",
+        "text": "perangsangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iritasi",
+  "related": [],
+  "detailed": false
+}

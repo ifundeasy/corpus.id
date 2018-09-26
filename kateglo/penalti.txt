@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penalti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "tendangan atau tembakan hukuman karena melanggar peraturan permainan di daerah depan gawang pada batas yang tentu (dalam sepak bola, polo air, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hukuman; denda (karena lalai membayar pajak, utang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penalti",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deselerasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daya pengurangan kecepatan (mobil, sepeda motor, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deselerasi",
+  "related": [],
+  "detailed": false
+}

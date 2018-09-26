@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inkompatibilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal tidak dapat dirangkap (tentang jabatan);"
+      },
+      {
+        "type": "desc",
+        "text": "ketidakcocokan; ketidaksesuaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inkompatibilitas",
+  "related": [],
+  "detailed": false
+}

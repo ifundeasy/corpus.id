@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "royalti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang jasa yang dibayar oleh penerbit kepada pengarang untuk setiap buku yang diterbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian produksi atau penghasilan yang dibayarkan kepada orang yang mempunyai hak memberi izin pengusahaan (eksplorasi) minyak dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "uang jasa yang dibayarkan oleh orang (perusahaan) atas barang yang diproduksinya kepada orang (perusahaan) yang mempunyai hak paten atas barang tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=royalti",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "khatam Alquran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selesai atau tamat membaca Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khatam%20Alquran",
+  "related": [],
+  "detailed": false
+}

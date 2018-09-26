@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) kaya;"
+      },
+      {
+        "type": "desc",
+        "text": "harta (benda) yang menjadi milik orang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) kekuasaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekayaan",
+  "related": [],
+  "detailed": false
+}

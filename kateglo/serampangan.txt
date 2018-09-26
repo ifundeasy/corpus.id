@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serampangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sembarangan saja; seenaknya saja; asal saja (tentang bekerja, berkata-kata);"
+      },
+      {
+        "type": "desc",
+        "text": "merawak; membabi buta; tanpa ada perhitungan (tentang sikap, perbuatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dengan semau-maunya; sewenang-wenang;"
+      },
+      {
+        "type": "desc",
+        "text": "sepintas lintas; tidak dengan cermat (teliti); asal saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serampangan",
+  "related": [],
+  "detailed": false
+}

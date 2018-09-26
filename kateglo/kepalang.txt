@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepalang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tanggung; tidak cukup; kurang;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah terlanjur (dalam keadaan tanggung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepalang",
+  "related": [],
+  "detailed": false
+}

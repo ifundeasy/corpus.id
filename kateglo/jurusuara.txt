@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas mengatur sistem vokal (pemberian suara) dalam pembuatan film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jatah waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lamanya waktu yang disediakan untuk mengucap atau menyajikan sesuatu (makalah, laporan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jatah%20waktu",
+  "related": [],
+  "detailed": false
+}

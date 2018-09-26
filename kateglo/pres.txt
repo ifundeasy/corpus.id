@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pres",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin cetak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat kempa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pres",
+  "related": [],
+  "detailed": false
+}

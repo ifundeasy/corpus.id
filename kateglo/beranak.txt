@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beranak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai anak;"
+      },
+      {
+        "type": "desc",
+        "text": "melahirkan anak;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan anaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beranak",
+  "related": [],
+  "detailed": false
+}

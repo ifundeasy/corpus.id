@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porselen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tembikar;"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang dari tembikar (seperti piring, cangkir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porselen",
+  "related": [],
+  "detailed": false
+}

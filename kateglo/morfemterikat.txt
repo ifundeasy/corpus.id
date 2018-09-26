@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem terikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang tidak mempunyai potensi untuk berdiri sendiri dan yang se-lalu terikat dengan morfem lain untuk membentuk ujaran, misal ber-, meng-, -kan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20terikat",
+  "related": [],
+  "detailed": false
+}

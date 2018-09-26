@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mimikri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindakan menirukan (misal menirukan suara kera, jalannya katak);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) penyesuaian diri (dengan mengubah warna dsb) sesuai dengan alam sekitarnya untuk melindungi diri dari bahaya (misal pada bunglon);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mimikri",
+  "related": [],
+  "detailed": false
+}

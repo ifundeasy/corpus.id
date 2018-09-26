@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "advertensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan dalam media massa cetak atau elektronik, antara lain, untuk menawarkan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=advertensi",
+  "related": [],
+  "detailed": false
+}

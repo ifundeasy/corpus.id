@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang memuat informasi yang singkat dan padat tentang berbagai hal yang diperlukan oleh pemakai (mencakup kamus, ensiklopedia, atlas, dsb) buku acuan; buku referensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20rujukan",
+  "related": [],
+  "detailed": false
+}

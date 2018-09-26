@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berduel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan duel (perang tanding);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berkelahi seorang lawan seorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berduel",
+  "related": [],
+  "detailed": false
+}

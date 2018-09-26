@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jodoh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang cocok menjadi suami atau istri; pasangan hidup; imbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang cocok sehingga menjadi sepasang; pasangan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cocok; tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jodoh",
+  "related": [],
+  "detailed": false
+}

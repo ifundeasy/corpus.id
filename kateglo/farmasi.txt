@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara dan teknologi pembuatan obat serta cara penyimpanan, penyediaan, dan penyalurannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmasi",
+  "related": [],
+  "detailed": false
+}

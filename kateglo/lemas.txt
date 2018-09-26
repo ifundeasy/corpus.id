@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah dilentukkan (tidak kaku); lentur;"
+      },
+      {
+        "type": "desc",
+        "text": "halus (tentang bahasa);"
+      },
+      {
+        "type": "desc",
+        "text": "lemah-lembut (tentang tingkah laku);"
+      },
+      {
+        "type": "desc",
+        "text": "susah bernapas atau tidak dapat bernapas (karena terkena asap gas, tenggelam dalam air, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemas",
+  "related": [],
+  "detailed": false
+}

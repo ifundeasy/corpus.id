@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ukuran zaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilaian menurut keadaan waktu atau masa tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ukuran%20zaman",
+  "related": [],
+  "detailed": false
+}

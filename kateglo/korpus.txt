@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korpus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (manusia atau binatang yang mati);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) himpunan karangan dengan tema, masalah, pengarang, atau bentuk yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kumpulan ujaran yang tertulis atau lisan yang digunakan untuk menyokong atau menguji hipotesis tentang struktur bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korpus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita berantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) rangkaian cerita yang cerita pertamanya membuahkan cerita kedua dan selanjutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20berantai",
+  "related": [],
+  "detailed": false
+}

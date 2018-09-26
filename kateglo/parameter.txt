@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran seluruh populasi dalam penelitian yang harus diperkirakan dari yang terdapat di dalam percontoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parameter",
+  "related": [],
+  "detailed": false
+}

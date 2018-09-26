@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak ekuitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) bagian produksi minyak bumi yang menjadi hak perusahaan minyak dalam hal konsesi yang dimiliki bersama oleh pemerintah dan perusahaan minyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20ekuitas",
+  "related": [],
+  "detailed": false
+}

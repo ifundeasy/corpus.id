@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anatomi deskriptif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu mengenai struktur organ tubuh normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anatomi%20deskriptif",
+  "related": [],
+  "detailed": false
+}

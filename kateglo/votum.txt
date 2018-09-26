@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "votum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara (dalam pemilihan);"
+      },
+      {
+        "type": "desc",
+        "text": "hari pemungutan suara (untuk menentukan sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) pembacaan ayat-ayat suci pada acara kebaktian di gereja Protestan sebelum khotbah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=votum",
+  "related": [],
+  "detailed": false
+}

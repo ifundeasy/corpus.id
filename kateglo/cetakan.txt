@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang telah dicetak; hasil mencetak;"
+      },
+      {
+        "type": "desc",
+        "text": "penerbitan (buku dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "acuan (kue dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang sudah jadi; bentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetakan",
+  "related": [],
+  "detailed": false
+}

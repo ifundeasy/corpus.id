@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membayari",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "membayar untuk orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membayari",
+  "related": [],
+  "detailed": false
+}

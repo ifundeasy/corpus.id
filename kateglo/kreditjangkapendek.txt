@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit jangka pendek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit yang berjangka (waktu) maksimum satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20jangka%20pendek",
+  "related": [],
+  "detailed": false
+}

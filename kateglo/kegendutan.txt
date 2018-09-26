@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegendutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal gendut;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu gendut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegendutan",
+  "related": [],
+  "detailed": false
+}

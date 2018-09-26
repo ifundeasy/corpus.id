@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menguis"
+      },
+      {
+        "type": "desc",
+        "text": "ujian lisan atau tertulis yang singkat;"
+      },
+      {
+        "type": "desc",
+        "text": "acara hiburan dalam radio atau televisi yang berupa perlombaan adu cepat menjawab pertanyaan; cepat tepat; cerdas cermat;"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam majalah) daftar pertanyaan sederhana yang berhadiah (kadang-kadang mengandung promosi dagang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spektrograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menguraikan warna;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membuat spektrogram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektrograf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengker",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "link",
+        "text": "menyengker"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sd) batas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengker",
+  "related": [],
+  "detailed": false
+}

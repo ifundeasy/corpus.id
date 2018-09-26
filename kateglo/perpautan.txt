@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpautan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertalian; perhubungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpautan",
+  "related": [],
+  "detailed": false
+}

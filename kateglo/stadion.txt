@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stadion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapangan olahraga yang dikelilingi tempat duduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stadion",
+  "related": [],
+  "detailed": false
+}

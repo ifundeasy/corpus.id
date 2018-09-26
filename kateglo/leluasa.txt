@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leluasa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lapang;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terbatas (terlarang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "boleh berbuat sesuka hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leluasa",
+  "related": [],
+  "detailed": false
+}

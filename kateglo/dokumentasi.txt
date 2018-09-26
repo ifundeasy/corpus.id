@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dokumentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumpulan, pemilihan, pengolahan, dan penyimpanan informasi dalam bidang pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian atau pengumpulan bukti dan keterangan (seperti gambar, kutipan, guntingan koran, dan bahan referensi lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokumentasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sewa beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "membeli secara mencicil (mengangsur), dan sebelum terbayar lunas dianggap sebagai menyewa barang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sewa%20beli",
+  "related": [],
+  "detailed": false
+}

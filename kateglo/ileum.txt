@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ileum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian ketiga usus halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ileum",
+  "related": [],
+  "detailed": false
+}

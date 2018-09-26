@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mana",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan salah seorang atau salah satu benda atau hal dari suatu kelompok (kumpulan);"
+      },
+      {
+        "type": "desc",
+        "text": "(di belakang di, dari, ke) kata tanya untuk menanyakan tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menanyakan keadaan atau cara sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kata ganti untuk menyatakan tempat yang tidak tentu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga hidup yang tidak berpribadi dan ada pada manusia, binatang, tumbuhan, dan segala macam benda, biasanya untuk jimat atau fetis, serta membawa keberuntungan bagi pemiliknya, tetapi akan menimbulkan kerugian bagi orang yang tidak menghiraukannya (menurut pandangan orang Melanesia);"
+      },
+      {
+        "type": "desc",
+        "text": "keuntungan atau manfaat yang datang tiba-tiba;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan yang diterima orang Israel dalam perjalanan mereka di padang gurun (dalam Kitab Perjanjian Lama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mana",
+  "related": [],
+  "detailed": false
+}

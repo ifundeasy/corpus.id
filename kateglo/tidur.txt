@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tidur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan berhenti (mengaso) badan dan kesadarannya (biasanya dengan memejamkan mata);"
+      },
+      {
+        "type": "desc",
+        "text": "hendak (mulai) mengistirahatkan badan dan kesadarannya;"
+      },
+      {
+        "type": "desc",
+        "text": "berbaring; terbaring (tidak berdiri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tidur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vikariat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah vikaris;"
+      },
+      {
+        "type": "desc",
+        "text": "jabatan vikaris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vikariat",
+  "related": [],
+  "detailed": false
+}

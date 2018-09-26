@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ijab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan tanda penyerahan dari pihak yang menyerahkan dalam suatu perjanjian (kontrak, jual beli);"
+      },
+      {
+        "type": "desc",
+        "text": "kata-kata yang diucapkan oleh wali mempelai perempuan pada waktu menikahkan mempelai perempuan;"
+      },
+      {
+        "type": "desc",
+        "text": "penawaran ketika membeli (lawan kabul);"
+      },
+      {
+        "type": "desc",
+        "text": "lulus atau diterima (tentang permohonan dalam salat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijab",
+  "related": [],
+  "detailed": false
+}

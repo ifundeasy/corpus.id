@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "memori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesadaran akan pengalaman masa lampau yang hidup kembali; ingatan;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan yang berisi penjelasan;"
+      },
+      {
+        "type": "desc",
+        "text": "peringatan; keterangan;"
+      },
+      {
+        "type": "desc",
+        "text": "peranti komputer yang dapat menyimpan dan merekam informasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memori",
+  "related": [],
+  "detailed": false
+}

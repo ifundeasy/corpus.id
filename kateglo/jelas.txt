@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terang; nyata; gamblang; mintalah yang -- tentang hal itu;"
+      },
+      {
+        "type": "desc",
+        "text": "tegas; tidak ragu-ragu atau bimbang (tentang sikap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelas",
+  "related": [],
+  "detailed": false
+}

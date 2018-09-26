@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persiaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) pengumuman; proklamasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persiaran",
+  "related": [],
+  "detailed": false
+}

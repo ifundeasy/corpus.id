@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selangkup",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelangkupi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selangkup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang dipakai sebagai alat komunikasi dalam perdagangan oleh orang yang memiliki bahasa ibu yang berbeda-beda;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa perantara yang terbentuk dari berbagai bahasa yang intinya berasal dari satu bahasa tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20pasar",
+  "related": [],
+  "detailed": false
+}

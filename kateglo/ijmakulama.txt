@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ijmak ulama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesesuaian pendapat para ulama (tentang suatu hukum dalam agama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijmak%20ulama",
+  "related": [],
+  "detailed": false
+}

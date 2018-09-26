@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanggap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "segera mengetahui (keadaan) dan memperhatikan sungguh-sungguh;"
+      },
+      {
+        "type": "desc",
+        "text": "cepat dapat mengetahui dan menyadari gejala yang timbul;"
+      },
+      {
+        "type": "link",
+        "text": "menanggap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggap",
+  "related": [],
+  "detailed": false
+}

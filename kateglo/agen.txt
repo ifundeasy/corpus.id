@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "orang atau perusahaan perantara yang meng-usahakan penjualan bagi perusahaan lain atas nama peng-usaha; perwakilan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kaki tangan atau mata-mata negara asing;"
+      },
+      {
+        "type": "desc",
+        "text": "(Adm) wakil pengusaha yang merundingkan, memberi-kan jasa layanan, atau menutup perjanjian asuransi dengan ketentuan yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen",
+  "related": [],
+  "detailed": false
+}

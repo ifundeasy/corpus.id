@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hulubalang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala laskar; pemimpin pasukan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala negeri (distrik);"
+      },
+      {
+        "type": "desc",
+        "text": "prajurit pengawal;"
+      },
+      {
+        "type": "desc",
+        "text": "polisi desa; dubalang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hulubalang",
+  "related": [],
+  "detailed": false
+}

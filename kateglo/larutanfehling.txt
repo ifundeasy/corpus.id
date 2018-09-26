@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan Fehling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "reagensia yang digunakan sebagai penguji untuk gula dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20Fehling",
+  "related": [],
+  "detailed": false
+}

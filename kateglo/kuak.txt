@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kerbau atau bunyi katak;"
+      },
+      {
+        "type": "desc",
+        "text": "burung yang keluar dari persembunyian pada malam hari; kuar;"
+      },
+      {
+        "type": "desc",
+        "text": "katak besar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menguak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuak",
+  "related": [],
+  "detailed": false
+}

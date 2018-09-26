@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ceramah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato oleh seseorang di hadapan banyak pendengar, mengenai suatu hal, pengetahuan, dsb;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka bercakap-cakap (tidak pendiam); ramah;"
+      },
+      {
+        "type": "desc",
+        "text": "cerewet; banyak cakap; nyinyir;"
+      },
+      {
+        "type": "desc",
+        "text": "ramah;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat suka menggerutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ceramah",
+  "related": [],
+  "detailed": false
+}

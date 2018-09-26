@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "faks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) →"
+      },
+      {
+        "type": "link",
+        "text": "faksmile"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faks",
+  "related": [],
+  "detailed": false
+}

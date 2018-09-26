@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limfopenia",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "limfositopenia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limfopenia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deposito",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang disimpan dalam rekening;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan menyimpan uang di bank;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) kredit yang diberikan bank kepada seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) hak atas saldo uang di bank bagi mereka yang telah menyimpannya di bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deposito",
+  "related": [],
+  "detailed": false
+}

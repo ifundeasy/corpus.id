@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skolastikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pujangga, sarjana, orang terpelajar, pelajar, mahasiswa, atau guru yang pandai berbicara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang pandai akan keindahan berdeklamasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skolastikus",
+  "related": [],
+  "detailed": false
+}

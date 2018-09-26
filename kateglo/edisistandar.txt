@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "edisi yang kualitas terbitannya lebih baik daripada edisi lain yang lebih murah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20standar",
+  "related": [],
+  "detailed": false
+}

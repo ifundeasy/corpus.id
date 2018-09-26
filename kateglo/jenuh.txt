@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jenuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jemu; bosan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) padat udara (tentang senyawa yang terdiri atas karbon dan hidrogen);"
+      },
+      {
+        "type": "desc",
+        "text": "kenyang; puas sekali (sehingga menjadi bosan);"
+      },
+      {
+        "type": "desc",
+        "text": "penuh (sehingga tidak mampu memuat tambahan lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenuh",
+  "related": [],
+  "detailed": false
+}

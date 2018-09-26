@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebun binatang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memelihara berbagai binatang untuk perlindungan, pembiakan penelitian dan sebagai tempat rekreasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebun%20binatang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setempat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "(di) tempat (negeri, kota, dsb) itu sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setempat",
+  "related": [],
+  "detailed": false
+}

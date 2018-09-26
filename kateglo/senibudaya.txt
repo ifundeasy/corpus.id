@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni budaya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "perihal kesenian dan kebudayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20budaya",
+  "related": [],
+  "detailed": false
+}

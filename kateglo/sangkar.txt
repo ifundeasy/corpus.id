@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sangkar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurungan;"
+      },
+      {
+        "type": "desc",
+        "text": "diagonal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangkar",
+  "related": [],
+  "detailed": false
+}

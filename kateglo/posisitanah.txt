@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "posisi tegak lurus dari tanah ke pesawat terbang yang berada di atas tanah tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20tanah",
+  "related": [],
+  "detailed": false
+}

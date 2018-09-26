@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "permutasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan atau proses mengubah letak urutan benda; perubahan urutan (angka-angka dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) proses perubahan deret unsur-unsur kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permutasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerekut",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kerekot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerekut",
+  "related": [],
+  "detailed": false
+}

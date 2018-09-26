@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menimbang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengukur (menentukan) berat benda (dengan neraca dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memikirkan baik-baik untuk menentukan baik buruknya, salah tidaknya, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengingat (akan); mengindahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menimbang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "link",
+        "text": "arasy"
+      },
+      {
+        "type": "desc",
+        "text": "dalam bahaya (tentang raja dalam permainan catur);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyentuh (pada); berbatas (pada); sampai (ke);"
+      },
+      {
+        "type": "link",
+        "text": "aras kerdan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) tingkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aras",
+  "related": [],
+  "detailed": false
+}

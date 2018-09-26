@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemofilia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit yang darah penderitanya cenderung tidak mau membeku sehingga akan terus-menerus mengalir apabila penderita terluka (kelainan ini biasanya bersifat turun-temurun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemofilia",
+  "related": [],
+  "detailed": false
+}

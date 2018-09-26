@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batu bintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu yang berasal dari meteor;"
+      },
+      {
+        "type": "desc",
+        "text": "batu yang mengandung hablur (kristal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batu%20bintang",
+  "related": [],
+  "detailed": false
+}

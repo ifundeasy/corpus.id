@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran lebar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran dengan kelebaran lebih dari garis perkenaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20lebar",
+  "related": [],
+  "detailed": false
+}

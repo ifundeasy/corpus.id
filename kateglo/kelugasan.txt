@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelugasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal mengenai yang pokok (yang penting, yang perlu);"
+      },
+      {
+        "type": "desc",
+        "text": "kesederhanaan; keluguan; kepolosan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal tidak berbelit-belit (tentang bahasa, kalimat);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bersifat pendapat pribadi; keobjektifan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelugasan",
+  "related": [],
+  "detailed": false
+}

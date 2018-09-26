@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "suci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabil",
+  "related": [],
+  "detailed": false
+}

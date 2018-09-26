@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepekerjaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sama jenis pekerjaannya; sama tempat pekerjaannya; sejawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepekerjaan",
+  "related": [],
+  "detailed": false
+}

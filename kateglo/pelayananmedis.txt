@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayanan medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pelayanan yang diterima seseorang dalam hubungannya dengan pencegahan, diagnosis, dan pengobatan suatu gangguan kesehatan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayanan%20medis",
+  "related": [],
+  "detailed": false
+}

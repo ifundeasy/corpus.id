@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekurangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak mempunyai (sesuatu yang diperlukan); tidak cukup mendapat (beroleh) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "menderita karena kurang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kurang;"
+      },
+      {
+        "type": "desc",
+        "text": "barang apa yang kurang; yang menjadi kurang (yang belum dibayar, digenapi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekurangan",
+  "related": [],
+  "detailed": false
+}

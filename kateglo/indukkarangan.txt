@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "induk karangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan utama di surat kabar atau majalah; tajuk rencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induk%20karangan",
+  "related": [],
+  "detailed": false
+}

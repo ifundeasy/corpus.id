@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "emas hitam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "pasir besi;"
+      },
+      {
+        "type": "desc",
+        "text": "aspal;"
+      },
+      {
+        "type": "desc",
+        "text": "batu bara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emas%20hitam",
+  "related": [],
+  "detailed": false
+}

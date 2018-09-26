@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gerbang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggerbang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pintu masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) rangkaian elektronis yang memiliki satu keluaran dan satu atau lebih masukan serta dirancang agar keluaran hanya bekerja ketika terdapat kombinasi pulsa tertentu pada masukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerbang",
+  "related": [],
+  "detailed": false
+}

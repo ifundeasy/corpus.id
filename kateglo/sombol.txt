@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sombol",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyombol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sombol",
+  "related": [],
+  "detailed": false
+}

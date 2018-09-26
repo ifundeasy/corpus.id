@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) makanan tambahan yang dibuat dari bahan makanan ternak asal hewani dan nabati dalam perbandingan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20buatan",
+  "related": [],
+  "detailed": false
+}

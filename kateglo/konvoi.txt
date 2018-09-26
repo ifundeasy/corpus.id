@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konvoi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iring-iringan mobil (kapal) dengan pengawalan bersenjata;"
+      },
+      {
+        "type": "desc",
+        "text": "iring-iringan kendaraan (dalam suatu perjalanan bersama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konvoi",
+  "related": [],
+  "detailed": false
+}

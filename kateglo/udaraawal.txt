@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara tekan yang digunakan untuk menjalankan motor diesel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20awal",
+  "related": [],
+  "detailed": false
+}

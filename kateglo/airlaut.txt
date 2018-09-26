@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air di laut yang biasanya mempunyai kadar garam 30—35%;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20laut",
+  "related": [],
+  "detailed": false
+}

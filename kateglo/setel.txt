@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua benda atau lebih yang selalu dipakai bersama-sama, yang satu menjadi pelengkap yang lain; perangkat (alat makan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "selengkap (pakaian dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyetel"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setel",
+  "related": [],
+  "detailed": false
+}

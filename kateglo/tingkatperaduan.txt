@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tingkat peraduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai yang lebih tinggi letaknya untuk tempat tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tingkat%20peraduan",
+  "related": [],
+  "detailed": false
+}

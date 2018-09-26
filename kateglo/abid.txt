@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berkesudahan; kekal; abadi;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "beribadah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang taat kepada Tuhan; orang yang saleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abid",
+  "related": [],
+  "detailed": false
+}

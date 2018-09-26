@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghujani",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melepas (peluru, panah, pukulan, dsb) banyak-banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "melontarkan (pernyataan, tuduhan, dsb) banyak-banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "menjatuhkan hujan buatan pada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghujani",
+  "related": [],
+  "detailed": false
+}

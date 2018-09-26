@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat kekuasaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "instansi (organisasi) yang menjalankan kekuasaan negara (seperti kepolisian, kejaksaan, pengadilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20kekuasaan",
+  "related": [],
+  "detailed": false
+}

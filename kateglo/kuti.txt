@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "menguti"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "kuti-kuti"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuti",
+  "related": [],
+  "detailed": false
+}

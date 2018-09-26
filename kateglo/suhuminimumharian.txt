@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu minimum harian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu terendah yang terjadi dalam waktu sehari atau selama 24 jam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20minimum%20harian",
+  "related": [],
+  "detailed": false
+}

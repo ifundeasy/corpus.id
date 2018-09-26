@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa berfleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa fleksi (flektif);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20berfleksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dasar warna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "latar warna yang menjadi alas gambar yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dasar%20warna",
+  "related": [],
+  "detailed": false
+}

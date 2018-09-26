@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyeru",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memanggil atau menarik perhatian dengan suara nyaring;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyeru",
+  "related": [],
+  "detailed": false
+}

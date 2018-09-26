@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadilan militer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan peradilan khusus yang berkuasa memeriksa dan memutus perkara tindak pidana yang dilakukan oleh anggotaTNI;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadilan%20militer",
+  "related": [],
+  "detailed": false
+}

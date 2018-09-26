@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anggap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menganggap"
+      },
+      {
+        "type": "link",
+        "text": "beranggapan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggap",
+  "related": [],
+  "detailed": false
+}

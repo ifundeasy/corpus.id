@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpijit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dipijit (diurut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpijit",
+  "related": [],
+  "detailed": false
+}

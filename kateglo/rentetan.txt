@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rentetan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian; untaian;"
+      },
+      {
+        "type": "desc",
+        "text": "deretan; runtunan; seri;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi senapan dsb yang berturut-turut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentetan",
+  "related": [],
+  "detailed": false
+}

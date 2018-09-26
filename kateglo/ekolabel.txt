@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekolabel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sertifikat terhadap produk khusus untuk kriteria lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekolabel",
+  "related": [],
+  "detailed": false
+}

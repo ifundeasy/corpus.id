@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikografis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) bersifat (secara, berdasarkan) kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikografis",
+  "related": [],
+  "detailed": false
+}

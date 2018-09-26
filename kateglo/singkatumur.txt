@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkat umur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak panjang umurnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkat%20umur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontestan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peserta kontes (perlombaan, pemilihan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontestan",
+  "related": [],
+  "detailed": false
+}

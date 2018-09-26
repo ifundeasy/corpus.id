@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon yang tidak diaktifkan sehingga hanya membayar biaya pemasangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20tidur",
+  "related": [],
+  "detailed": false
+}

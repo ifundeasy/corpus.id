@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spektator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penonton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektator",
+  "related": [],
+  "detailed": false
+}

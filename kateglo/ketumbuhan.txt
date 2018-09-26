@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketumbuhan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ditumbuhi (oleh);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit cacar (ada bermacam-macam seperti, ~ bungkus, ~ jintan, ~ jagung);"
+      },
+      {
+        "type": "desc",
+        "text": "bisul di dalam daging (tidak tampak di kulit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketumbuhan",
+  "related": [],
+  "detailed": false
+}

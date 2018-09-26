@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perceraian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpisahan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bercerai (antara suami istri); perpecahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perceraian",
+  "related": [],
+  "detailed": false
+}

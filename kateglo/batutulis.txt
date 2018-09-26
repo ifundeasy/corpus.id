@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batu tulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu tipis untuk tempat menulis;"
+      },
+      {
+        "type": "desc",
+        "text": "batuan berkristal halus sebagai bahan pembuat atap rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "batu bertulis; batu bersurat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batu%20tulis",
+  "related": [],
+  "detailed": false
+}

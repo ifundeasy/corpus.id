@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stadium infeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa penyakit mulai menjalar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stadium%20infeksi",
+  "related": [],
+  "detailed": false
+}

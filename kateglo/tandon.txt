@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tandon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang tanggungan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang persediaan; sediaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) barang cadangan; sediaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tandon",
+  "related": [],
+  "detailed": false
+}

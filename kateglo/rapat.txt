@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rapat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir tidak berantara; dekat sekali (tidak renggang);"
+      },
+      {
+        "type": "desc",
+        "text": "kerap (tentang tanaman, anyaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tertutup benar-benar hingga tidak bercelah;"
+      },
+      {
+        "type": "desc",
+        "text": "berhampiran sekali; dekat benar;"
+      },
+      {
+        "type": "desc",
+        "text": "karib; erat (tentang persahabatan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan (kumpulan) untuk membicarakan se suatu; sidang; majelis;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan menjalar, kulitnya dibuat obat; kayu rapat; Parameria barbata;"
+      },
+      {
+        "type": "desc",
+        "text": "kulit dari kayu rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat",
+  "related": [],
+  "detailed": false
+}

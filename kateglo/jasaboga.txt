@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jasa boga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha yang melayani pesanan hidangan untuk pesta, pertemuan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pemasok hidangan untuk pesta, pertemuan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa%20boga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "refraktometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur indeks refraksi;"
+      },
+      {
+        "type": "desc",
+        "text": "pengukur indeks pembiasan pada cairan yang dapat digunakan untuk mengukur kadar garam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=refraktometer",
+  "related": [],
+  "detailed": false
+}

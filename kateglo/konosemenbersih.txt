@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konosemen bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "konosemen tanpa penjelasan (mengenai kemasan barang-barangnya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konosemen%20bersih",
+  "related": [],
+  "detailed": false
+}

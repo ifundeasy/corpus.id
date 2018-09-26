@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bayi;"
+      },
+      {
+        "type": "link",
+        "text": "mengorok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orok",
+  "related": [],
+  "detailed": false
+}

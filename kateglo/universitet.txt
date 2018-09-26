@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "universitet",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "universitas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=universitet",
+  "related": [],
+  "detailed": false
+}

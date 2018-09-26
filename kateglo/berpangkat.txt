@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpangkat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai pangkat;"
+      },
+      {
+        "type": "desc",
+        "text": "berkedudukan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpangkat",
+  "related": [],
+  "detailed": false
+}

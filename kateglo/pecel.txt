@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pecel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang terdiri atas sayuran, seperti kacang panjang, bayam, taoge yang disiram dengan kuah sambal kacang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecel",
+  "related": [],
+  "detailed": false
+}

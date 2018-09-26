@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan kelipatan sejuta yang dilambangkan dengan enam nol (000.000) di belakang angka 1 s.d. 999;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juta",
+  "related": [],
+  "detailed": false
+}

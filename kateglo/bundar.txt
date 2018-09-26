@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bundar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk lingkaran (melengkung) dengan jari-jari yang sama;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sikat untuk membersihkan pakaian dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bundar",
+  "related": [],
+  "detailed": false
+}

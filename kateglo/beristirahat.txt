@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beristirahat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhenti sebentar untuk melepaskan lelah;"
+      },
+      {
+        "type": "desc",
+        "text": "berlibur untuk mengaso;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beristirahat",
+  "related": [],
+  "detailed": false
+}

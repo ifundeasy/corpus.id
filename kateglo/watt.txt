@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "watt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) satuan tenaga listrik yang diperlukan arus dari satu ampere dan tegangan satu volt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=watt",
+  "related": [],
+  "detailed": false
+}

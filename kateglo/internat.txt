@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "internat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asrama sekolah;"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah yang sekaligus me-nyediakan pondokan bagi pelajarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=internat",
+  "related": [],
+  "detailed": false
+}

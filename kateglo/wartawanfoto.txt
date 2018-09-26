@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wartawan foto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wartawan pencari berita dengan menggunakan kamera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wartawan%20foto",
+  "related": [],
+  "detailed": false
+}

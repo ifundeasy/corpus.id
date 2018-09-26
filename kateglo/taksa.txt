@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taksa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai makna lebih dari satu; kabur atau meragukan (tentang makna); ambigu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksa",
+  "related": [],
+  "detailed": false
+}

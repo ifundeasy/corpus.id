@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kerjakan; lakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "bikin;"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "(cak) bagi; untuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buat",
+  "related": [],
+  "detailed": false
+}

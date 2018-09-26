@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli gempa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli seismologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20gempa",
+  "related": [],
+  "detailed": false
+}

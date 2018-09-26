@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imajinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daya pikir untuk membayangkan (dalam angan-angan) atau menciptakan gambar (lukisan, karangan, dsb) kejadian berdasarkan kenyataan atau pengalaman seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "khayalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imajinasi",
+  "related": [],
+  "detailed": false
+}

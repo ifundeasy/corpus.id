@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ringkas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak banyak memerlukan tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "singkat (tentang perkataan, cerita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ringkas",
+  "related": [],
+  "detailed": false
+}

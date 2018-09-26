@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengartikelkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat jadi artikel (pada buku undang-undang);"
+      },
+      {
+        "type": "desc",
+        "text": "menuliskan dalam bentuk karangan di koran, majalah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengartikelkan",
+  "related": [],
+  "detailed": false
+}

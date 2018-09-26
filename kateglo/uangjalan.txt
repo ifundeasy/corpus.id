@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang untuk biaya perjalanan (ongkos kendaraan, biaya menginap, makan, dsb) diberikan kepada karyawan yang bertugas ke luar kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20jalan",
+  "related": [],
+  "detailed": false
+}

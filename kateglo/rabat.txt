@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potongan harga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rabat",
+  "related": [],
+  "detailed": false
+}

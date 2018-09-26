@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "kaum kerabat raja (orang bangsawan);"
+      },
+      {
+        "type": "link",
+        "text": "kalau"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(Mk) dengan sepertinya; dengan selayaknya; dengan kira-kira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentana",
+  "related": [],
+  "detailed": false
+}

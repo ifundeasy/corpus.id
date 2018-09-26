@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar bagan suatu daerah yang merupakan dasar bagi pembuatan peta selanjutnya sesuai dengan kebutuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20dasar",
+  "related": [],
+  "detailed": false
+}

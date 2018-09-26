@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama produk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) tanda pengenal produk yang membedakannya dari produk lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20produk",
+  "related": [],
+  "detailed": false
+}

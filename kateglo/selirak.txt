@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selirak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "berselirak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selirak",
+  "related": [],
+  "detailed": false
+}

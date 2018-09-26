@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menafsirkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menerangkan maksud ayat-ayat Alquran atau kitab suci lain;"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap maksud perkataan (kalimat dsb) tidak menurut apa adanya saja, melainkan diterapkan juga apa yang tersirat (dengan mengutarakan pendapatnya sendiri); mengartikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menafsirkan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "habis bulan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "akhir bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=habis%20bulan",
+  "related": [],
+  "detailed": false
+}

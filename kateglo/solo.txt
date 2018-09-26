@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "solo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian (lagu, musik) tunggal (yang dinyanyikan atau dimainkan oleh satu orang);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tunggal (melakukan sesuatu dsb seorang diri); sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=solo",
+  "related": [],
+  "detailed": false
+}

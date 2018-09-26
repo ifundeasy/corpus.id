@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunggal",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "satu-satunya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bukan jamak (bukan majemuk); mufrad;"
+      },
+      {
+        "type": "desc",
+        "text": "utuh; bulat-bulat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "yang menjadi satu (tentang kata majemuk);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebelah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu meja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang dipasang dengan diletakkan di atas meja, biasanya meja tulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20meja",
+  "related": [],
+  "detailed": false
+}

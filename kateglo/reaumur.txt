@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Reaumur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "skala termometer dengan titik didih 80o dan titik beku 0o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Reaumur",
+  "related": [],
+  "detailed": false
+}

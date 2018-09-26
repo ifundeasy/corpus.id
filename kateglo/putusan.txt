@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memutuskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putusan",
+  "related": [],
+  "detailed": false
+}

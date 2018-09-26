@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ayam sayur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayam yang biasa dipiara secara dilepaskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayam%20sayur",
+  "related": [],
+  "detailed": false
+}

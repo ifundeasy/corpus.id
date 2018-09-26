@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subfilum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) bagian primer dari filum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subfilum",
+  "related": [],
+  "detailed": false
+}

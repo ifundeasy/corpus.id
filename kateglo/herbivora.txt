@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herbivora",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "herbivor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herbivora",
+  "related": [],
+  "detailed": false
+}

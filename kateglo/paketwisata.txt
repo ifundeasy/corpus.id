@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paket wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan acara dalam perjalanan wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paket%20wisata",
+  "related": [],
+  "detailed": false
+}

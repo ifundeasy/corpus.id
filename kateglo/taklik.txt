@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taklik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjanjian (kawin dsb); pernyataan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menaklik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taklik",
+  "related": [],
+  "detailed": false
+}

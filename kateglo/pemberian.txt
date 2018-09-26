@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemberian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diberikan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang didapat dari orang lain (karena diberi);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memberi atau memberikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemberian",
+  "related": [],
+  "detailed": false
+}

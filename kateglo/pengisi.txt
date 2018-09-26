@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengisi;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang diisikan; perkakas dsb untuk mengisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengisi",
+  "related": [],
+  "detailed": false
+}

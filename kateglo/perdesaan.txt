@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdesaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah (kawasan) desa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdesaan",
+  "related": [],
+  "detailed": false
+}

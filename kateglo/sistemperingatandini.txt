@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem peringatan dini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tata cara pemberitahuan seawal mungkin tentang datangnya ancaman, bahaya, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20peringatan%20dini",
+  "related": [],
+  "detailed": false
+}

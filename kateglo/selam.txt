@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(perihal) masuk ke dalam air;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) cabang olahraga renang yang masuk ke dalam air sampai ke kedalaman yang jauh dari permukaan air;"
+      },
+      {
+        "type": "desc",
+        "text": "(perihal) masuk ke dalam air;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) cabang olahraga renang yang masuk ke dalam air sampai ke kedalaman yang jauh dari permukaan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selam",
+  "related": [],
+  "detailed": false
+}

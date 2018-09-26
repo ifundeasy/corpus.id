@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infleksibel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) hanya mempunyai satu bentuk dan tidak dapat memperoleh infleksi untuk menun-jukkan kasus, jenis, jumlah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infleksibel",
+  "related": [],
+  "detailed": false
+}

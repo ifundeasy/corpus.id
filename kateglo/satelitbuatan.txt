@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satelit buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satelit yang sengaja dibuat dan ditempatkan dalam orbit untuk keperluan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satelit%20buatan",
+  "related": [],
+  "detailed": false
+}

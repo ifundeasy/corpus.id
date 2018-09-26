@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jarang ada; aneh; tidak biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "amat indah;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat rumit; sulit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) kerabu; subang kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelik",
+  "related": [],
+  "detailed": false
+}

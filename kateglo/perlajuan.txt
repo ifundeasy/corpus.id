@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlajuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mempercepat gerakan, waktu, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlajuan",
+  "related": [],
+  "detailed": false
+}

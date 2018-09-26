@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "instruksi presiden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan yang dikeluarkan oleh presiden mengenai pelaksanaan suatu keputusan presiden yang memuat aturan-aturan teknis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instruksi%20presiden",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonformal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat di luar kegiatan resmi sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonformal",
+  "related": [],
+  "detailed": false
+}

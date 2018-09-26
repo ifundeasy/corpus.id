@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "loteng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian rumah bertingkat yang sebelah atas; tingkat rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "langit-langit rumah (dari papan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=loteng",
+  "related": [],
+  "detailed": false
+}

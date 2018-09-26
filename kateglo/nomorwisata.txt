@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "objek wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20wisata",
+  "related": [],
+  "detailed": false
+}

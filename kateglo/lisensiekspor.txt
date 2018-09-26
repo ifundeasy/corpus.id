@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lisensi ekspor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat izin yang diberikan oleh pemerintah untuk mengekspor barang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lisensi%20ekspor",
+  "related": [],
+  "detailed": false
+}

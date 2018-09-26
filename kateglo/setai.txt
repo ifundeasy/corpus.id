@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "bersetai-setai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seriat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "berhenti (tentang hujan); reda;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaring besar (untuk menangkap udang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seriat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa yang lamanya dua belas bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan yang menyatakan tarikh;"
+      },
+      {
+        "type": "desc",
+        "text": "masa dua belas bulan yang ke ...;"
+      },
+      {
+        "type": "desc",
+        "text": "masa dua belas bulan untuk ...;"
+      },
+      {
+        "type": "desc",
+        "text": "musim (dalam arti masa selama tanaman atau tumbuh-tumbuhan hidup);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bertahun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun",
+  "related": [],
+  "detailed": false
+}

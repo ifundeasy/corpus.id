@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merentas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentas",
+  "related": [],
+  "detailed": false
+}

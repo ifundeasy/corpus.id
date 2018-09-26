@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arbitrase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag)"
+      },
+      {
+        "type": "desc",
+        "text": "pembelian dan penjualan secara simultan atas barang yang sama di dalam dua pasar atau lebih dengan harapan akan memperoleh laba dari perbedaan harganya;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha perantara dalam meleraikan sengketa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arbitrase",
+  "related": [],
+  "detailed": false
+}

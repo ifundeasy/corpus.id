@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lowongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan (jabatan) yang terluang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lowongan",
+  "related": [],
+  "detailed": false
+}

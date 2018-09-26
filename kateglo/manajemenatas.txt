@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajemen atas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok manajer yang meliputi pejabat pimpinan tertinggi beserta pembantunya yang terdekat dalam perusahaan atau organisasinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajemen%20atas",
+  "related": [],
+  "detailed": false
+}

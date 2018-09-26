@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deposito primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) hak atas saldo uang dari bank yang terjadi karena penyimpanan uang atau cek tunai di bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deposito%20primer",
+  "related": [],
+  "detailed": false
+}

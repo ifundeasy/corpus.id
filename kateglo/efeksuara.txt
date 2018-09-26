@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "efek yang dibuat untuk menciptakan kesan suatu kejadian dalam pertunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20suara",
+  "related": [],
+  "detailed": false
+}

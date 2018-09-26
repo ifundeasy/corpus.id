@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian militer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian seragam bagi militer; dilengkapi dengan atributnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20militer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemintasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memintas(i) atau memintaskan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat harimau tampak melintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemintasan",
+  "related": [],
+  "detailed": false
+}

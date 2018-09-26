@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka lebar (tentang mulut, lubang, luka, dsb); menganga;"
+      },
+      {
+        "type": "desc",
+        "text": "berasa berdesing di telinga (seperti pada sakit demam);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit (sakit) kencing nanah; sifilis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengang",
+  "related": [],
+  "detailed": false
+}

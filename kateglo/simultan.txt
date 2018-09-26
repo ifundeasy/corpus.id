@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simultan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terjadi atau berlaku pada waktu yang bersamaan; serentak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) secara serentak dilakukan (tentang pertandingan catur, biasanya seorang pemain catur melawan beberapa pemain sekaligus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simultan",
+  "related": [],
+  "detailed": false
+}

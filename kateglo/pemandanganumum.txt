@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandangan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicaraan mengenai suatu hal dalam rapat (DPR, MPR, dsb), pada saat para anggota mendapat kesempatan mengemukakan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandangan%20umum",
+  "related": [],
+  "detailed": false
+}

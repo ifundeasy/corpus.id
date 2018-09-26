@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heban",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengheban"
+      },
+      {
+        "type": "link",
+        "text": "hebat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heban",
+  "related": [],
+  "detailed": false
+}

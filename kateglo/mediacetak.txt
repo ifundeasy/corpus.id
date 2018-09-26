@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "media cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarana media massa yang dicetak dan diterbitkan secara berkala seperti surat kabar, majalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=media%20cetak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengesat kaki, terbuat dari sabut kelapa dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengeset"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) malas; tidak rajin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keset",
+  "related": [],
+  "detailed": false
+}

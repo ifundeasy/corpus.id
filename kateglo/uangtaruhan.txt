@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang taruhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang simpanan; uang hasil bertaruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20taruhan",
+  "related": [],
+  "detailed": false
+}

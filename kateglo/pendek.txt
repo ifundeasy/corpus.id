@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pendek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dekat jaraknya dari ujung ke ujung;"
+      },
+      {
+        "type": "desc",
+        "text": "dekat jaraknya dari sebelah bawah; tidak tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "sebentar (tentang waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "ringkas; singkat (tentang cerita dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendek",
+  "related": [],
+  "detailed": false
+}

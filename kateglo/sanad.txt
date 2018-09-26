@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "sandaran, hubungan, atau rangkaian perkara yang dapat dipercayai;"
+      },
+      {
+        "type": "desc",
+        "text": "rentetan rawi hadis sampai kepada Nabi Muhammad saw.;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanad",
+  "related": [],
+  "detailed": false
+}

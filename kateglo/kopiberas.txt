@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kopi beras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biji kopi kering yang sudah dibuang kulit tanduk dan kulit arinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopi%20beras",
+  "related": [],
+  "detailed": false
+}

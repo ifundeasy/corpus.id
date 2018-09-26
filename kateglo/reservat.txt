@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reservat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebidang tanah yang telah dicadangkan untuk tujuan tertentu (taman nasional, taman margasatwa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reservat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur kependidikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat kemajuan anak jika dibandingkan dengan kemajuan anak yang sudah duduk di kelas tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20kependidikan",
+  "related": [],
+  "detailed": false
+}

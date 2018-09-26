@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hidangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dihidangkan (makanan, minuman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang diperlihatkan (diperdengarkan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidangan",
+  "related": [],
+  "detailed": false
+}

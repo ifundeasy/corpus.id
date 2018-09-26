@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khatib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyampaikan khotbah (pada waktu salat Jumat dsb); juru khotbah;"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai masjid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khatib",
+  "related": [],
+  "detailed": false
+}

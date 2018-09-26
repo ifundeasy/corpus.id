@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interkonsonantal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) muncul di antara konsonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interkonsonantal",
+  "related": [],
+  "detailed": false
+}

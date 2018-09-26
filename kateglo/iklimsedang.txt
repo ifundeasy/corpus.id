@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim sedang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(daerah) berhawa sedang, tidak terlalu panas dan tidak terlalu dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20sedang",
+  "related": [],
+  "detailed": false
+}

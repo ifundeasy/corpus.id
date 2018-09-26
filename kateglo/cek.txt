@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan terhadap kakak perempuan; encek;"
+      },
+      {
+        "type": "desc",
+        "text": "perintah tertulis pemegang rekening kepada bank dsb yang ditunjuknya supaya membayar sejumlah uang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengecek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek",
+  "related": [],
+  "detailed": false
+}

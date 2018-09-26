@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang meja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang ongkos perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20meja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "albuminuria",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) terdapatnya albumin dalam air kencing, biasanya berkaitan dengan penyakit ginjal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=albuminuria",
+  "related": [],
+  "detailed": false
+}

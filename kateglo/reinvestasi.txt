@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reinvestasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penanaman modal kembali (dari laba yang diperoleh dari investasi terdahulu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reinvestasi",
+  "related": [],
+  "detailed": false
+}

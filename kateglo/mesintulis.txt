@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin tulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin tik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20tulis",
+  "related": [],
+  "detailed": false
+}

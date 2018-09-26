@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaksi luar negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian redaksi berita luar negeri dari suatu terbitan pers;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaksi%20luar%20negeri",
+  "related": [],
+  "detailed": false
+}

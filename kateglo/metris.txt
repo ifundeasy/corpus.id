@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan ritme; tersusun dalam ritme (tidak dalam proses biasa);"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan ukuran (sistem desimal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metris",
+  "related": [],
+  "detailed": false
+}

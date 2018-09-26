@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kayu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang batangnya keras;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian batang (cabang, dahan, dsb) pokok yang keras (yang biasa dipakai untuk bahan bangunan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gulungan (geblokan) kain putih, cita, dsb;"
+      },
+      {
+        "type": "link",
+        "text": "kayu-kayu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kayu",
+  "related": [],
+  "detailed": false
+}

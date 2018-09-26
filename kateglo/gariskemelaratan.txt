@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis kemelaratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas keperluan hidup minimum seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20kemelaratan",
+  "related": [],
+  "detailed": false
+}

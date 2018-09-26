@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "celomes",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "lemah; berpenyakitan; merana;"
+      },
+      {
+        "type": "desc",
+        "text": "cerewet; banyak omong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celomes",
+  "related": [],
+  "detailed": false
+}

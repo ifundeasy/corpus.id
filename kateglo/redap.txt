@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "redap",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "redup"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gendang (rebana) kecil; dap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemegang kas (uang); orang yang bertugas menerima dan membayarkan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasir",
+  "related": [],
+  "detailed": false
+}

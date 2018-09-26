@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor pengadilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor tempat memeriksa suatu perkara (mengadili tertuduh atau tergugat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20pengadilan",
+  "related": [],
+  "detailed": false
+}

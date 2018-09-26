@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diafon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan fonologis abstrak yang dirumuskan untuk menandai kesepadanan antara sistem bunyi dari dialek yang berbeda, misal dalam bahasa Melayu diafon //a// yang direalisasikan dalam dialek Melayu Riau [rupe] dan dalam dialek lain [rupa], [rupe], dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diafon",
+  "related": [],
+  "detailed": false
+}

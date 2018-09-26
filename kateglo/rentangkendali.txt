@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rentang kendali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man)"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah karyawan yang ada di bawah seorang manajer atau pemimpin;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah karyawan yang ada di bawah seorang manajer atau pemimpin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentang%20kendali",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aestetika",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "estetika"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aestetika",
+  "related": [],
+  "detailed": false
+}

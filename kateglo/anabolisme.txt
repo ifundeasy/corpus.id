@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anabolisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "pembentukan zat organik kompleks dari yang sederhana;"
+      },
+      {
+        "type": "desc",
+        "text": "asimilasi zat makanan oleh organisme untuk membangun atau memulihkan jaringan dan bagian-bagian hidup lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anabolisme",
+  "related": [],
+  "detailed": false
+}

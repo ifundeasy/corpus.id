@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis perforasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) garis cacah lubang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20perforasi",
+  "related": [],
+  "detailed": false
+}

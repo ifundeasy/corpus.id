@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbintang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada bintangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai bintang;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai rasi; berzodiak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbintang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aerodinamik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan aerodinamika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aerodinamik",
+  "related": [],
+  "detailed": false
+}

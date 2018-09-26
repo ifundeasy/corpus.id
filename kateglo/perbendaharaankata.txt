@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbendaharaan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya kata yang dimiliki; kosakata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbendaharaan%20kata",
+  "related": [],
+  "detailed": false
+}

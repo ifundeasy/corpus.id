@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor departemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perwakilan suatu departemen pada tingkat kabupaten atau kota madya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20departemen",
+  "related": [],
+  "detailed": false
+}

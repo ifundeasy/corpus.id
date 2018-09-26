@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwira tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat tertinggi dalam angkatan darat, satu tingkat di atas kelompok perwira menengah, meliputi jenderal besar, jenderal, letnan jenderal, mayor jenderal, dan brigadir jenderal;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat tertinggi dalam angkatan laut, satu tingkat di atas kelompok perwira menengah, meliputi laksamana besar, laksamana, laksamana madya, laksamana muda, dan laksamana pertama;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat tertinggi dalam angkatan udara, satu tingkat di atas kelompok perwira menengah, meliputi marsekal besar, marsekal, marsekal madya, marsekal muda, dan marsekal pertama;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat tertinggi dalam kepolisian, satu tingkat di atas kelompok perwira menengah, meliputi jenderal polisi, komisaris jenderal polisi, inspektur jenderal polisi, dan brigadir jenderal polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwira%20tinggi",
+  "related": [],
+  "detailed": false
+}

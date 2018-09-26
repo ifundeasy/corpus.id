@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konteks linguistis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) konteks yang memberikan makna yang paling cocok pada unsur bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konteks%20linguistis",
+  "related": [],
+  "detailed": false
+}

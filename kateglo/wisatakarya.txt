@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata karya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kunjungan kerja; tur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20karya",
+  "related": [],
+  "detailed": false
+}

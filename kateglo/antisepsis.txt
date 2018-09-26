@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antisepsis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara mencegah infeksi, pertumbuhan mikro-organisme, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan atau kondisi bebas dari mikro-organisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antisepsis",
+  "related": [],
+  "detailed": false
+}

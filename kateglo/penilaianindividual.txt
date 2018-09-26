@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penilaian individual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "atasan langsung yang secara individual menilai perilaku dan prestasi kerja bawahannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penilaian%20individual",
+  "related": [],
+  "detailed": false
+}

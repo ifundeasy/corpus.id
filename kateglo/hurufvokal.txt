@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf vokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf untuk melambangkan fonem vokal, yaitu a, i, u, e, dan o; huruf hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20vokal",
+  "related": [],
+  "detailed": false
+}

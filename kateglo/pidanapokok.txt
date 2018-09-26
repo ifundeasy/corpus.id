@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidana pokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidana yang dapat dijatuhkan tersendiri oleh hakim, misal pidana mati, pidana penjara, pidana kurungan, dan pidana denda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidana%20pokok",
+  "related": [],
+  "detailed": false
+}

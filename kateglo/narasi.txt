@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "narasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengisahan suatu cerita atau kejadian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) cerita atau deskripsi suatu kejadian atau peristiwa; kisahan;"
+      },
+      {
+        "type": "desc",
+        "text": "tema suatu karya seni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=narasi",
+  "related": [],
+  "detailed": false
+}

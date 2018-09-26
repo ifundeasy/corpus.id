@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putusan sela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) putusan sementara yang dijatuhkan oleh hakim sebelum ia menjatuhkan putusan akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putusan%20sela",
+  "related": [],
+  "detailed": false
+}

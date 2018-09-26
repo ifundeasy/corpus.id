@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterpelajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal terpelajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterpelajaran",
+  "related": [],
+  "detailed": false
+}

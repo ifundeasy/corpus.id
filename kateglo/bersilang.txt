@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersilang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling memotong (memalang) antara dua garis dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berselisih jalan dsb; berpapasan;"
+      },
+      {
+        "type": "desc",
+        "text": "berselang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersilang",
+  "related": [],
+  "detailed": false
+}

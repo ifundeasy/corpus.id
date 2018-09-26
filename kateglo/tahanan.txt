@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menahan (merintangi dsb); hambatan; rintangan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang ditahan karena dituduh melakukan tindak pidana atau kejahatan; barang dsb yang ditahan;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaga pemasyarakatan; tempat menahan; penjara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahanan",
+  "related": [],
+  "detailed": false
+}

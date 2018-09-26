@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketatausahaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tata usaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketatausahaan",
+  "related": [],
+  "detailed": false
+}

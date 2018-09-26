@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsultasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertukaran pikiran untuk mendapatkan kesimpulan (nasihat, saran, dsb) yang sebaik-baiknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsultasi",
+  "related": [],
+  "detailed": false
+}

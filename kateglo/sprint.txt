@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sprint",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lari cepat (dalam jarak dekat);"
+      },
+      {
+        "type": "desc",
+        "text": "cara lari atlet secepat mungkin untuk menempuh seluruh jarak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sprint",
+  "related": [],
+  "detailed": false
+}

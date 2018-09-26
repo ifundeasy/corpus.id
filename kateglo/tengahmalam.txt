@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tengah malam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu malam hari sekitar pukul 24.00;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengah%20malam",
+  "related": [],
+  "detailed": false
+}

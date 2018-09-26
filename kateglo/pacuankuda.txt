@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pacuan kuda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balapan kuda;"
+      },
+      {
+        "type": "desc",
+        "text": "gelanggang tempat kuda berpacu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pacuan%20kuda",
+  "related": [],
+  "detailed": false
+}

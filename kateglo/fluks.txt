@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fluks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cucuran cairan dari tubuh (diare);"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan bersinambung atau gerakan terus-menerus (misal arus);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah besaran (misal massa, bahang) yang mengalir melalui luasan tertentu yang tegak lurus terhadap aliran itu per satuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fluks",
+  "related": [],
+  "detailed": false
+}

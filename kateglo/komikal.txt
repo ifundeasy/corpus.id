@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komikal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk komik (cerita bergambar);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bersifat komik; lucu; menggelikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komikal",
+  "related": [],
+  "detailed": false
+}

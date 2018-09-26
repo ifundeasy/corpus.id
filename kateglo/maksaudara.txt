@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mak saudara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama panggilan kekerabatan untuk saudara perempuan ibu atau saudara perempuan bapak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mak%20saudara",
+  "related": [],
+  "detailed": false
+}

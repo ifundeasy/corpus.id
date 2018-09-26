@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengorek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengorek;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengorek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengorek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "idealisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran ilmu filsafat yang menganggap pikiran atau cita-cita sebagai satu-satunya hal yang benar yang dapat dicamkan dan dipahami;"
+      },
+      {
+        "type": "desc",
+        "text": "hidup atau berusaha hidup menurut cita-cita, menurut patokan yang dianggap sempurna;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) aliran yang mementingkan khayal atau fantasi untuk menunjukkan keindahan dan kesempurnaan meskipun tidak sesuai dengan kenyataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=idealisme",
+  "related": [],
+  "detailed": false
+}

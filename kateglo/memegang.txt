@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memegang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memaut dengan tangan; menggenggam (uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai (uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengemudi (menyetir);"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap (pencuri);"
+      },
+      {
+        "type": "desc",
+        "text": "memakai (mempergunakan, mempunyai) senjata dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menguasai; mengurus atau memimpin (perusahaan, pemerintahan, dsb); memangku (jabatan dsb); menjabat (pangkat, pekerjaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan (aturan, janji, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memegang",
+  "related": [],
+  "detailed": false
+}

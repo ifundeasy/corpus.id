@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstruksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan (model, tata letak) suatu bangunan (jembatan, rumah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) susunan dan hubungan kata dalam kalimat atau kelompok kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstruksi",
+  "related": [],
+  "detailed": false
+}

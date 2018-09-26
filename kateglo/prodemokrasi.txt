@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prodemokrasi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setuju pada demokrasi (tentang pemerintahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prodemokrasi",
+  "related": [],
+  "detailed": false
+}

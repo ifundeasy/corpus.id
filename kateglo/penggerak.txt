@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menggerakkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menggerakkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggerak",
+  "related": [],
+  "detailed": false
+}

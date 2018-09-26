@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gagal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak berhasil; tidak tercapai (maksudnya);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagal",
+  "related": [],
+  "detailed": false
+}

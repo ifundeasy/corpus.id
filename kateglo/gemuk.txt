@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gemuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar karena banyak dagingnya (tentang tubuh dsb); tambun;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "lemak;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung banyak zat makanan bagi tumbuh-tumbuhan (tentang tanah) sehingga baik untuk ditanami; subur;"
+      },
+      {
+        "type": "desc",
+        "text": "pupuk;"
+      },
+      {
+        "type": "desc",
+        "text": "sebangsa minyak untuk melumas bagian-bagian mesin dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gemuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puerperium",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "puerpera"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puerperium",
+  "related": [],
+  "detailed": false
+}

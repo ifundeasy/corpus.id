@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rahasia; kode;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) perubahan fonologis yang terjadi pada sebuah kata karena pengaruh afiksasi atau karena pengaruh fonem yang ada di dekatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wanita yang telah melahirkan seseorang; mak;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan untuk wanita yang sudah bersuami;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan yang takzim kepada wanita baik yang sudah bersuami maupun yang belum;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang pokok (besar, asal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang utama di antara beberapa hal lain; yang terpenting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu",
+  "related": [],
+  "detailed": false
+}

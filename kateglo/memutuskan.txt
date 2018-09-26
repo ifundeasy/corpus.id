@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memutuskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan (menyebabkan) putus (tidak bersambung atau berhubungan lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "menetapkan; menentukan;"
+      },
+      {
+        "type": "desc",
+        "text": "menghentikan (tentang arus atau sesuatu yang sedang bekerja);"
+      },
+      {
+        "type": "desc",
+        "text": "membatalkan, mengurungkan, meniadakan (tentang janji, hubungan kasih);"
+      },
+      {
+        "type": "desc",
+        "text": "menyudahi, mengakhiri (tentang yang sebenarnya belum berakhir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memutuskan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bolak-balik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berulang-aling pergi dan pulang; berulang kali bergerak dari satu arah ke arah lain;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan kedua sisi kertas dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berputar balik (tentang perkataan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bolak-balik",
+  "related": [],
+  "detailed": false
+}

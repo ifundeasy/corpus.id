@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satuan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok orang yang melakukan suatu kegiatan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satuan%20kerja",
+  "related": [],
+  "detailed": false
+}

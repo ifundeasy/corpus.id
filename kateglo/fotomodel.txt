@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fotomodel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wanita atau pria yang menjadi model dalam foto (gambar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fotomodel",
+  "related": [],
+  "detailed": false
+}

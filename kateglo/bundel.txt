@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bundel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan beberapa benda yang sejenis diikat menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "berkas (surat-menyurat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) simpul; buhul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bundel",
+  "related": [],
+  "detailed": false
+}

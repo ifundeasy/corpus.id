@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intertidal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) daerah antara pasang tertinggi dan surut terendah di pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intertidal",
+  "related": [],
+  "detailed": false
+}

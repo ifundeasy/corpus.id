@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis seismik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis arah gempa bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20seismik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "restriksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembatasan dalam lapangan produksi (impor, pemberian kredit, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=restriksi",
+  "related": [],
+  "detailed": false
+}

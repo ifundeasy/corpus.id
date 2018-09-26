@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "solvabilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) kemampuan perusahaan untuk membayar utang-utangnya karena jumlah aktivanya melebihi utang-utang tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=solvabilitas",
+  "related": [],
+  "detailed": false
+}

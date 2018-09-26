@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan taklangsung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "material yang dimanfaatkan dalam produksi dan distribusi, tetapi bukan merupakan bagian produk sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20taklangsung",
+  "related": [],
+  "detailed": false
+}

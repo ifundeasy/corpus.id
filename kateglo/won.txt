@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "won",
+  "tags": {
+    "l": [
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=won",
+  "related": [],
+  "detailed": false
+}

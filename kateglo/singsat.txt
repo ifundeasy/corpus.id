@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singsat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Sd)"
+      },
+      {
+        "type": "link",
+        "text": "menyingsatkan"
+      },
+      {
+        "type": "link",
+        "text": "singset"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singsat",
+  "related": [],
+  "detailed": false
+}

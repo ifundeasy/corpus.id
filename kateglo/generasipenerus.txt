@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "generasi penerus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "generasi yang akan melanjutkan generasi sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generasi%20penerus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdoa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengucapkan (memanjatkan) doa kepada Tuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdoa",
+  "related": [],
+  "detailed": false
+}

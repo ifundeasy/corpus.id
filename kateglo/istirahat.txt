@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istirahat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "istirahat singkat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istirahat",
+  "related": [],
+  "detailed": false
+}

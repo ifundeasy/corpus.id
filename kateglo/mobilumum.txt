@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil untuk keperluan pengangkutan umum (seperti bus, taksi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20umum",
+  "related": [],
+  "detailed": false
+}

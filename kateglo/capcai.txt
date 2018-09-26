@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "capcai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Cn)"
+      },
+      {
+        "type": "desc",
+        "text": "masakan yang terdiri atas sayur (wortel, sawi hijau, bunga kol, dsb) ditambah bakso, kembang tahu, udang dsb, dan diberi bumbu tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) campur aduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=capcai",
+  "related": [],
+  "detailed": false
+}

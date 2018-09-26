@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kertas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang terbuat dari kertas (bukan logam), dikeluarkan oleh bank pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kertas",
+  "related": [],
+  "detailed": false
+}

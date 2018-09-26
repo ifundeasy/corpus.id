@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mimbar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggung kecil tempat berkhotbah (berpidato);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tempat melahirkan pikiran dan menyatakan pendapat (seperti surat kabar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mimbar",
+  "related": [],
+  "detailed": false
+}

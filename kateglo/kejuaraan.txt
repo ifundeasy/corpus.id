@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejuaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertandingan (perlombaan) untuk memperebutkan gelar juara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejuaraan",
+  "related": [],
+  "detailed": false
+}

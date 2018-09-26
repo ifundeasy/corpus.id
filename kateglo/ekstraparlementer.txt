@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstraparlementer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "di luar parlemen, asal mula pembentukan partai politik berdasarkan prakarsa orang-orang yang berada di luar parlemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstraparlementer",
+  "related": [],
+  "detailed": false
+}

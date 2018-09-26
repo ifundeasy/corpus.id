@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberi suara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyatakan setuju atau tidak; turut mengundi (dalam pemungutan suara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberi%20suara",
+  "related": [],
+  "detailed": false
+}

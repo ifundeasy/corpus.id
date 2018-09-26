@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laktat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) senyawa yang mengandung gugus yang berasal dari asam laktat, DOC.CHO.CH3;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laktat",
+  "related": [],
+  "detailed": false
+}

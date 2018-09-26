@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pengajaran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan untuk mengajar (bagi guru);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pengajaran",
+  "related": [],
+  "detailed": false
+}

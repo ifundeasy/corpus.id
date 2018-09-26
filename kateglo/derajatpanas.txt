@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "derajat panas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "suhu; temperatur (tentang udara, tubuh, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derajat%20panas",
+  "related": [],
+  "detailed": false
+}

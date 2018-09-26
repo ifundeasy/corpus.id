@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termoelektris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan atau bergantung pada fenomena yang menyangkut hubungan antara temperatur dan keadaan elektris dalam logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termoelektris",
+  "related": [],
+  "detailed": false
+}

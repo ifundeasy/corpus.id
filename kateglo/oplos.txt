@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oplos",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencampur obat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oplos",
+  "related": [],
+  "detailed": false
+}

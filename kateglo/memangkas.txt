@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memangkas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memotong ujung (tumbuh-tumbuhan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menggunting (rambut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memangkas",
+  "related": [],
+  "detailed": false
+}

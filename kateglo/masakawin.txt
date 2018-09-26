@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa kawin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) jarak waktu antara perkawinan pertama sampai perkawinan terakhir pada masa bunting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20kawin",
+  "related": [],
+  "detailed": false
+}

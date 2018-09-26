@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergaulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bergaul;"
+      },
+      {
+        "type": "desc",
+        "text": "kehidupan bermasyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergaulan",
+  "related": [],
+  "detailed": false
+}

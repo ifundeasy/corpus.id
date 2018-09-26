@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monosakarida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gula sederhana yang tidak dapat diuraikan lagi menjadi gula lainnya, misal glukosa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monosakarida",
+  "related": [],
+  "detailed": false
+}

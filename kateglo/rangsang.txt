@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rangsang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dapat mempengaruhi indra (pencium, peraba, perasa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dapat membangkitkan perasaan tertentu (kegembiraan, kesedihan, keberanian, kehangatan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merangsang"
+      },
+      {
+        "type": "desc",
+        "text": "ranting kering (mati) yang telah jatuh;"
+      },
+      {
+        "type": "desc",
+        "text": "rintangan dari ranting-ranting berduri yang dipasang pada batang pohon (supaya tidak dapat dipanjat orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rangsang",
+  "related": [],
+  "detailed": false
+}

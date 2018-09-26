@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reklamasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantahan atau sanggahan (dengan nada keras);"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) usaha memperluas tanah (pertanian) dengan memanfaatkan daerah yang semula tidak berguna (misal dengan cara menguruk daerah rawa-rawa);"
+      },
+      {
+        "type": "desc",
+        "text": "pengurukan (tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reklamasi",
+  "related": [],
+  "detailed": false
+}

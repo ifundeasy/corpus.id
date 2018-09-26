@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayaran samudra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayaran antara satu negara dan negara lain melalui lautan luas yang dilakukan dengan armada kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayaran%20samudra",
+  "related": [],
+  "detailed": false
+}

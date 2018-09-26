@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan berita",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berita yang masih mentah yang dapat diolah menjadi pemberitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20berita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis kelamin;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan alat kelamin, seperti sanggama;"
+      },
+      {
+        "type": "desc",
+        "text": "berahi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seks",
+  "related": [],
+  "detailed": false
+}

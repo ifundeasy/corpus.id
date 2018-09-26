@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hanya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "cuma;"
+      },
+      {
+        "type": "desc",
+        "text": "kecuali;"
+      },
+      {
+        "type": "desc",
+        "text": "tetapi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lebih dari;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lain dari;"
+      },
+      {
+        "type": "desc",
+        "text": "saja (biasanya digunakan bersama \"saja\" untuk mengeraskan makna);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hanya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rias",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hati batang pisang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "hias;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rias",
+  "related": [],
+  "detailed": false
+}

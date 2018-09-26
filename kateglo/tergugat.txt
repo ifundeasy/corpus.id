@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tergugat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "digugat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) orang yang digugat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tergugat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endokrin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersekresi ke dalam tubuh, ke dalam darah atau limfa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelenjar yang tidak mempunyai saluran untuk mengalirkan hasil sekresinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endokrin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesehatan jasmani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan sehat badan (tubuh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesehatan%20jasmani",
+  "related": [],
+  "detailed": false
+}

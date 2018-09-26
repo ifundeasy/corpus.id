@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersalin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berganti;"
+      },
+      {
+        "type": "desc",
+        "text": "berubah (rupa, warna);"
+      },
+      {
+        "type": "desc",
+        "text": "melahirkan anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersalin",
+  "related": [],
+  "detailed": false
+}

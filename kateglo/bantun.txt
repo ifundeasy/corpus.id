@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bantun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membantun"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "sebantun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantun",
+  "related": [],
+  "detailed": false
+}

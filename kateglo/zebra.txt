@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zebra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuda yang badannya bergaris-garis hitam putih atau cokelat tua putih, terdapat di Afrika; Equus zebra;"
+      },
+      {
+        "type": "link",
+        "text": "ikan zebra"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zebra",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senyap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada suara (bunyi) sedikit pun; sunyi; lengang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada kegiatan; sepi (perniagaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terdengar suara apa-apa; tidak berkata-kata; diam;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak diperbincangkan lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senyap",
+  "related": [],
+  "detailed": false
+}

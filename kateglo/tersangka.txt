@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersangka",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "diduga; dicurigai;"
+      },
+      {
+        "type": "desc",
+        "text": "tertuduh; terdakwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersangka",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bernilai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai nilai (harga uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bermutu; berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bernilai",
+  "related": [],
+  "detailed": false
+}

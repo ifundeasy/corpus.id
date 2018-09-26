@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawanan; kumpulan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok atau golongan prajurit (laskar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "regu (olahraga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasukan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar bebas terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar sekuritas yang secara terbuka mencantumkan harga dan syarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20bebas%20terbuka",
+  "related": [],
+  "detailed": false
+}

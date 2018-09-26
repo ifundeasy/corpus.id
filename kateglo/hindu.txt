@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "Hindu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "agama yang berkitab suci Weda;"
+      },
+      {
+        "type": "desc",
+        "text": "kebudayaan yang berdasarkan agama Hindu;"
+      },
+      {
+        "type": "desc",
+        "text": "penduduk asli India;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Hindu",
+  "related": [],
+  "detailed": false
+}

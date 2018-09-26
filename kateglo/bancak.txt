@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bancak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selamatan; kenduri;"
+      },
+      {
+        "type": "desc",
+        "text": "hidangan yang disediakan dalam selamatan;"
+      },
+      {
+        "type": "desc",
+        "text": "selamatan bagi anak-anak dalam merayakan ulang tahun atau memperingati hari kelahiran disertai pembagian makanan atau kue-kue;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bancak",
+  "related": [],
+  "detailed": false
+}

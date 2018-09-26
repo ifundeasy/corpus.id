@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pantun kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pantun yang hanya terdiri atas dua baris, bersajak a-a, masing-masing merupakan sampiran dan isi; karmina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantun%20kilat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertantang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merasa berkewajiban karena dapat tantangan untuk melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah ditantang;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat tantangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertantang",
+  "related": [],
+  "detailed": false
+}

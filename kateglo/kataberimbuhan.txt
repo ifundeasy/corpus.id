@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata berimbuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang sudah mendapat imbuhan atau afiks (prefiks, infiks, sufiks, atau konfiks);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20berimbuhan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modal ekuitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) modal yang diperoleh melalui pasar modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modal%20ekuitas",
+  "related": [],
+  "detailed": false
+}

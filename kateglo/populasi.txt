@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "populasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh jumlah orang atau penduduk di suatu daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah orang atau pribadi yang mempunyai ciri-ciri yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah penghuni, baik manusia maupun makhluk hidup lainnya pada suatu satuan ruang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok orang, benda, atau hal yang menjadi sumber pengambilan sampel; suatu kumpulan yang memenuhi syarat tertentu yang berkaitan dengan masalah penelitian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=populasi",
+  "related": [],
+  "detailed": false
+}

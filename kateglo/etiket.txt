@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etiket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "carik kertas yang ditempelkan pada kemasan barang (dagangan) yang memuat keterangan (misal nama, sifat, isi, asal) mengenai barang tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "tata cara (adat sopan santun, dsb) dalam masyarakat beradab dalam memelihara hubungan baik antara sesama manusianya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etiket",
+  "related": [],
+  "detailed": false
+}

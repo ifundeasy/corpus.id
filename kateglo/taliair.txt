@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tali air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selokan; saluran air; bendar;"
+      },
+      {
+        "type": "desc",
+        "text": "ceruk kecil sepanjang tepi kusen dengan tembok;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran arus;"
+      },
+      {
+        "type": "desc",
+        "text": "pengairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tali%20air",
+  "related": [],
+  "detailed": false
+}

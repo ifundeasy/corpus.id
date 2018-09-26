@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembekal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi bekal, bahan-bahan, barang-barang yang dipesan; pemasok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembekal",
+  "related": [],
+  "detailed": false
+}

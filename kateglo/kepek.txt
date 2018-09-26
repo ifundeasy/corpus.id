@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepek",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kempek"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pipih; pesek;"
+      },
+      {
+        "type": "desc",
+        "text": "lekuk yang tidak dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepek",
+  "related": [],
+  "detailed": false
+}

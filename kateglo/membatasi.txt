@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membatasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi batas; menentukan (menandai dsb) batas;"
+      },
+      {
+        "type": "desc",
+        "text": "menceraikan; mengantarai; menyekat;"
+      },
+      {
+        "type": "desc",
+        "text": "menentukan banyaknya (besarnya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menerangkan arti sesuatu dengan tepat dan jelas; membuat batasan definisi;"
+      },
+      {
+        "type": "desc",
+        "text": "mengurangi; merintangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membatasi",
+  "related": [],
+  "detailed": false
+}

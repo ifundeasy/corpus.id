@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audio",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat dapat didengar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat peraga yang bersifat dapat didengar (misal radio);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audio",
+  "related": [],
+  "detailed": false
+}

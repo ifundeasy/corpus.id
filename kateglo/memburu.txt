@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memburu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengejar atau menyusul (hendak menangkap dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengejar untuk menangkap binatang dalam hutan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berusaha keras supaya mendapat (uang, pangkat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berusaha keras supaya dapat ikut (menumpang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memburu",
+  "related": [],
+  "detailed": false
+}

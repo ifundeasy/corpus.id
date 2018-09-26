@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lepap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terlepap"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu kecil yang leper (ceper) lunasnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepap",
+  "related": [],
+  "detailed": false
+}

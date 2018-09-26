@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berharga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai harga;"
+      },
+      {
+        "type": "desc",
+        "text": "berguna; bermanfaat;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai harga tinggi; mahal harganya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bernilai; tinggi nilainya; penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berharga",
+  "related": [],
+  "detailed": false
+}

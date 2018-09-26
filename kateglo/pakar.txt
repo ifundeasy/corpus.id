@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(orang) ahli; spesialis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakar",
+  "related": [],
+  "detailed": false
+}

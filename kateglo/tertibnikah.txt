@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertib nikah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "aturan dalam pernikahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertib%20nikah",
+  "related": [],
+  "detailed": false
+}

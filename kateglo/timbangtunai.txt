@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "timbang tunai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pembelian dengan membayar tunai; membayar kontan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timbang%20tunai",
+  "related": [],
+  "detailed": false
+}

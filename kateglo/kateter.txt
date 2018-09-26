@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kateter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "slang kecil yang dapat dimasukkan ke dalam alat berongga atau saluran;"
+      },
+      {
+        "type": "desc",
+        "text": "pipa karet yang biasa dimasukkan ke dalam saluran kandung kencing untuk penyembuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kateter",
+  "related": [],
+  "detailed": false
+}

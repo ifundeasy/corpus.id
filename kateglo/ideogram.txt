@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ideogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tanda grafis yang dipakai untuk menggambarkan bagian ujaran, ada logogram dan piktogram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ideogram",
+  "related": [],
+  "detailed": false
+}

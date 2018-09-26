@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasukan sandi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasukan dalam kesatuan Angkatan Darat Republik Indonesia yang dapat bergerak cepat; Komando Pasukan Khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasukan%20sandi",
+  "related": [],
+  "detailed": false
+}

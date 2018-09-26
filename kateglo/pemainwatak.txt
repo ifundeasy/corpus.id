@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemain watak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain yang memerankan watak tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemain%20watak",
+  "related": [],
+  "detailed": false
+}

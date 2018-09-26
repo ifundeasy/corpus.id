@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintah (aturan) yang melarang suatu perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang terlarang karena dipandang keramat atau suci;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang terlarang karena kekecualian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larangan",
+  "related": [],
+  "detailed": false
+}

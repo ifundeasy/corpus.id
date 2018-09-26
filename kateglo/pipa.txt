@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pipa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang bentuknya bulat panjang, tengahnya berongga dari ujung ke ujung, digunakan untuk mengalirkan barang cair atau gas; pembuluh; buluh-buluh;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyambung rokok (dibuat dari tulang, gading, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cerobong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pipa",
+  "related": [],
+  "detailed": false
+}

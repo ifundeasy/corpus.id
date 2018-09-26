@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak enak dipandang mata; buruk (tentang wajah);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menyenangkan (tidak menenteramkan, tidak membahagiakan, dsb); jahat; tidak baik (tentang watak);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tercemar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelek",
+  "related": [],
+  "detailed": false
+}

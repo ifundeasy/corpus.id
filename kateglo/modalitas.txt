@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "klasifikasi pernyataan menurut hal menyungguhkan atau mengingkari kemungkinan atau keharusan;"
+      },
+      {
+        "type": "desc",
+        "text": "cara pembicara menyatakan sikap terhadap suatu situasi dalam suatu komunikasi antarpribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "makna kemungkinan, keharusan, kenyataan, dsb yang dinyatakan dalam kalimat (dalam bahasa Indonesia dinyatakan dengan kata barangkali, harus, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modalitas",
+  "related": [],
+  "detailed": false
+}

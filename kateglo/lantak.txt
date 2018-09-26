@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lantak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melantak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kayu yang digunakan untuk menahan tanah longsor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lantak",
+  "related": [],
+  "detailed": false
+}

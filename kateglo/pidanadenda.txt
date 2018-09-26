@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidana denda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidana berupa pembayaran sejumlah uang oleh terpidana berdasarkan putusan pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidana%20denda",
+  "related": [],
+  "detailed": false
+}

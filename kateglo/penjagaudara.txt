@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjaga udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjaga yang ditempatkan untuk memberi peringatan apabila pesawat terbang musuh mendekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjaga%20udara",
+  "related": [],
+  "detailed": false
+}

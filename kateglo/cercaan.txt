@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cercaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cercaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pancawarna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lima warna;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bermacam-macam warna; berwarna-warni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancawarna",
+  "related": [],
+  "detailed": false
+}

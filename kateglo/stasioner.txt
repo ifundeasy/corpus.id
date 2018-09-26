@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stasioner",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tetap; tidak berubah; ajek (tentang jumlah, nilai, ukuran, posisi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasioner",
+  "related": [],
+  "detailed": false
+}

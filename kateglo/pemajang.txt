@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemajang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memajang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memajang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemajang",
+  "related": [],
+  "detailed": false
+}

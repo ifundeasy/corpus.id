@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "takhta kerajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kursi kerajaan (tempat duduk raja); singgasana;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan raja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takhta%20kerajaan",
+  "related": [],
+  "detailed": false
+}

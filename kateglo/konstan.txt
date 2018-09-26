@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tetap tidak berubah; terus-menerus;"
+      },
+      {
+        "type": "link",
+        "text": "konstanta"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstan",
+  "related": [],
+  "detailed": false
+}

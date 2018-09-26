@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melaporkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberitahukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melaporkan",
+  "related": [],
+  "detailed": false
+}

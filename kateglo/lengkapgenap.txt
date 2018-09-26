@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengkap genap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lengkap benar (tidak kurang sedikit juga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkap%20genap",
+  "related": [],
+  "detailed": false
+}

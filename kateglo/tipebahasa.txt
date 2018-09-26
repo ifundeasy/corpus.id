@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) jenis bahasa yang oleh klasifikasi tipologis dianggap mempunyai kemiripan struktural, lepas dari sejarah dan lokasi pemakaiannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20bahasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil berlapis baja yang beroda-gigi yang bergerak (berputar) di atas roda rantai yang melingkari roda-roda giginya dilengkapi dengan senjata berat pada bagian atas tengah di atas ruang kemudi dan dapat digerakkan berputar ke arah sasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tank",
+  "related": [],
+  "detailed": false
+}

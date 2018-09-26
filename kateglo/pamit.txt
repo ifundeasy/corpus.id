@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pamit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "permisi akan pergi (berangkat, pulang); minta diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pamit",
+  "related": [],
+  "detailed": false
+}

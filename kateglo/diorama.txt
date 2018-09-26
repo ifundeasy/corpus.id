@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diorama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajian pemandangan dalam ukuran kecil yang dilengkapi dengan patung dan perincian lingkungan seperti aslinya serta dipadukan dengan latar yang berwarna alami; pola atau corak tiga dimensi suatu adegan atau pemandangan yang dihasilkan dengan menempatkan objek dan tokoh di depan latar belakang dengan perspektif yang sebenarnya sehingga dapat menggambarkan keadaan yang sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "pameran spesimen satwa liar atau pemandangan dalam ukuran aslinya yang dilengkapi dengan lingkungan alam asli dan latar yang bercat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diorama",
+  "related": [],
+  "detailed": false
+}

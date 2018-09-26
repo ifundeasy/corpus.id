@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cicik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencicik"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) jijik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cicik",
+  "related": [],
+  "detailed": false
+}

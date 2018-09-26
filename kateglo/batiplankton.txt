@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "batiplankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "plankton yang hidup di daerah kedalaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batiplankton",
+  "related": [],
+  "detailed": false
+}

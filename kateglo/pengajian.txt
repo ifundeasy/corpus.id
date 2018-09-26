@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengajian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengajaran (agama Islam);"
+      },
+      {
+        "type": "desc",
+        "text": "pembacaan Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengajian",
+  "related": [],
+  "detailed": false
+}

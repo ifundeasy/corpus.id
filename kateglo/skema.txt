@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagan; rangka; kerangka (rancangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "garis besar; denah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skema",
+  "related": [],
+  "detailed": false
+}

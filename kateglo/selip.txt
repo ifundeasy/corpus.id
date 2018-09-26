@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selip",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelip"
+      },
+      {
+        "type": "desc",
+        "text": "tergelincir (tentang mobil dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berselisih jalan;"
+      },
+      {
+        "type": "link",
+        "text": "menyelip"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selip",
+  "related": [],
+  "detailed": false
+}

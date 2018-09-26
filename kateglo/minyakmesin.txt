@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak mesin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) minyak pelumas bantalan motor, mesin, dsb, kecuali untuk mesin uap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20mesin",
+  "related": [],
+  "detailed": false
+}

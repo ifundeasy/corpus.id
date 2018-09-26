@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ayam gulai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayam tua berumur lebih dari satu tahun;"
+      },
+      {
+        "type": "desc",
+        "text": "daging ayam yang digulai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayam%20gulai",
+  "related": [],
+  "detailed": false
+}

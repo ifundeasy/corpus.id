@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelogok",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggelogok"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ancaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelogok",
+  "related": [],
+  "detailed": false
+}

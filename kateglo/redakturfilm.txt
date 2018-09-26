@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaktur film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota redaksi yang ditugasi menyiapkan karangan atau tinjauan dunia film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur%20film",
+  "related": [],
+  "detailed": false
+}

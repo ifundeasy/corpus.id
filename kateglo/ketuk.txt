@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi seperti bunyi pukulan pada pintu, meja, dsb yang dibuat dari kayu;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kotek ayam betina sesudah bertelur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik gamelan Jawa, berbentuk seperti bonang, tetapi lebih pipih dan berdinding lebih rendah daripada kenong, berfungsi sebagai pemberi tekanan dalam musik gamelan;"
+      },
+      {
+        "type": "desc",
+        "text": "beduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketuk",
+  "related": [],
+  "detailed": false
+}

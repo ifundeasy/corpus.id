@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "institusional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai lembaga atau bersifat kelem-bagaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=institusional",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "formalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk (peraturan, tata cara, prosedur, kebiasaan) yang berlaku;"
+      },
+      {
+        "type": "desc",
+        "text": "sekadar mengikuti tata cara; basa-basi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=formalitas",
+  "related": [],
+  "detailed": false
+}

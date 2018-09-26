@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang geografi fisik yang berhubungan dengan gunung-gunung (pengaruh adanya gunung, lembah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orografi",
+  "related": [],
+  "detailed": false
+}

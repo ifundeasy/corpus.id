@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prapromosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian pendahuluan sebelum promosi dalam program doktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prapromosi",
+  "related": [],
+  "detailed": false
+}

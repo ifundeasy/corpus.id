@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata benda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20benda",
+  "related": [],
+  "detailed": false
+}

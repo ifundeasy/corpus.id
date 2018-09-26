@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak sulung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak yang pertama (yang tertua);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20sulung",
+  "related": [],
+  "detailed": false
+}

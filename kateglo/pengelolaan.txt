@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengelolaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengelola;"
+      },
+      {
+        "type": "desc",
+        "text": "proses melakukan kegiatan tertentu dengan menggerakkan tenaga orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "proses yang membantu merumuskan kebijaksanaan dan tujuan organisasi;"
+      },
+      {
+        "type": "desc",
+        "text": "proses yang memberikan pengawasan pada semua hal yang terlibat dalam pelaksanaan kebijaksanaan dan pencapaian tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengelolaan",
+  "related": [],
+  "detailed": false
+}

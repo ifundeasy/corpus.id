@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfemik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "teknik penganalisisan bahasa ke dalam morfem, termasuk deskripsi mengenai bentuk dan susunannya (istilah ini digunakan di dalam kajian sinkronis, aspek kesejarahan mengenai pembentukan kata yang tercakup di dalam bidang morfologi);"
+      },
+      {
+        "type": "desc",
+        "text": "morfologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfemik",
+  "related": [],
+  "detailed": false
+}

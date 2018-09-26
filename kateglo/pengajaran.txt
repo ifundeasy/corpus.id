@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengajar atau mengajarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal mengajar; segala sesuatu mengenai mengajar;"
+      },
+      {
+        "type": "desc",
+        "text": "peringatan (tentang pengalaman, peristiwa yang dialami atau dilihatnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengajaran",
+  "related": [],
+  "detailed": false
+}

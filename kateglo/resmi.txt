@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resmi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sah (dari pemerintah atau dari yang berwajib); ditetapkan (diumumkan, disahkan) oleh pemerintah atau instansi yang bersangkutan;"
+      },
+      {
+        "type": "desc",
+        "text": "formal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resmi",
+  "related": [],
+  "detailed": false
+}

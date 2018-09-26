@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur sosial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taraf kesanggupan anak dalam bergaul dengan orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20sosial",
+  "related": [],
+  "detailed": false
+}

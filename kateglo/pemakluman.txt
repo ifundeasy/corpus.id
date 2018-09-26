@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemakluman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan; pengumuman; proklamasi;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memaklumkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemakluman",
+  "related": [],
+  "detailed": false
+}

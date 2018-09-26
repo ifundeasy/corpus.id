@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buyut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ibu dari nenek (urutannya;"
+      },
+      {
+        "type": "desc",
+        "text": "anak dari cucu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat keramat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buyut",
+  "related": [],
+  "detailed": false
+}

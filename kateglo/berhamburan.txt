@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhamburan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(keluar) bertaburan ke sana-sini;"
+      },
+      {
+        "type": "desc",
+        "text": "berserak-serak di sana-sini;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan (pergi, lari, dsb) ke berbagai arah;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan (pergi, lari, dsb) beramai-ramai (bersamaan waktu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bercucuran; bertitik-titik (tentang air mata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhamburan",
+  "related": [],
+  "detailed": false
+}

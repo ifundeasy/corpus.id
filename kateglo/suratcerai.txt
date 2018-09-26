@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat cerai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang menyatakan bahwa sepasang suami istri telah sah bercerai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20cerai",
+  "related": [],
+  "detailed": false
+}

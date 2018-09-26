@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah matang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang telah mengalami penyelesaian untuk urusan permohonan hak pemilikan, surat balik nama, dsb; tanah yang sudah siap dipakai untuk mendirikan bangunan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20matang",
+  "related": [],
+  "detailed": false
+}

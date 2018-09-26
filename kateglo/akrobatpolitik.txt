@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akrobat politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan yang dikeluarkan hari ini, bisa bertentangan dengan pernyataan beberapa saat kemudian;"
+      },
+      {
+        "type": "desc",
+        "text": "kader politik yang menyeberang ke partai lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akrobat%20politik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patroli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perondaan (oleh polisi, tentara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "polisi (tentara dsb) yang sedang meronda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patroli",
+  "related": [],
+  "detailed": false
+}

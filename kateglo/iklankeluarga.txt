@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklan yang berisi berita keluarga, misal kelahiran, ulang tahun, pertunangan, perkawinan, perceraian, atau kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20keluarga",
+  "related": [],
+  "detailed": false
+}

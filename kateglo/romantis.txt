@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "romantis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat seperti dalam cerita roman (percintaan); bersifat mesra; mengasyikkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=romantis",
+  "related": [],
+  "detailed": false
+}

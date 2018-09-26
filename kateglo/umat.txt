@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "para penganut (pemeluk, pengikut) suatu agama; penganut nabi;"
+      },
+      {
+        "type": "desc",
+        "text": "makhluk manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umat",
+  "related": [],
+  "detailed": false
+}

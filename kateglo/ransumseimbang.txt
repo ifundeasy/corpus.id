@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ransum seimbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum makanan dengan imbangan kalori protein yang disesuaikan dengan kebutuhan ternak menurut umur dan jenisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ransum%20seimbang",
+  "related": [],
+  "detailed": false
+}

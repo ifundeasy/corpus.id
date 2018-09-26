@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembekuan darah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mengentalnya gumpalan darah untuk menghentikan pendarahan pada luka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembekuan%20darah",
+  "related": [],
+  "detailed": false
+}

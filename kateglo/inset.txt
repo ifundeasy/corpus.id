@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peta, gambar, atau foto kecil yang terdapat di dalam peta (koran, gambar, foto) yang lebih besar;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman tambahan yang disisipkan dalam buku dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inset",
+  "related": [],
+  "detailed": false
+}

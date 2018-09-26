@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumpek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesak; sempit;"
+      },
+      {
+        "type": "desc",
+        "text": "pengap;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak enak (melihat dsb) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "resah, risau (tentang hati dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumpek",
+  "related": [],
+  "detailed": false
+}

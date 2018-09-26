@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksara fonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem tulisan yang menggunakan satu lambang satu fonem (bunyi yang membedakan arti) secara konsisten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara%20fonemis",
+  "related": [],
+  "detailed": false
+}

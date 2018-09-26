@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang normal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang konsumsi yang bertambah pembelian atau pemakaiannya apabila pendapatan konsumen bertambah dan sebaliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20normal",
+  "related": [],
+  "detailed": false
+}

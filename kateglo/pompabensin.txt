@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pompa bensin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menjual bensin dengan pompa pengisap bensin melalui tangki bensin;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pengisap bensin pada motor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pompa%20bensin",
+  "related": [],
+  "detailed": false
+}

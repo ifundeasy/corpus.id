@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oplah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah barang cetakan yang diedarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah barang cetakan yang dicetak dari perangkat acuan pelat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oplah",
+  "related": [],
+  "detailed": false
+}

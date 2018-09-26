@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan periklanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Kom) bahan berupa gambar, foto, dan teks pesan iklan yang merupakan bahan yang memberi bentuk pada suatu iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20periklanan",
+  "related": [],
+  "detailed": false
+}

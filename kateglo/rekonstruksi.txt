@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekonstruksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengembalian seperti semula;"
+      },
+      {
+        "type": "desc",
+        "text": "penyusunan (penggambaran) kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekonstruksi",
+  "related": [],
+  "detailed": false
+}

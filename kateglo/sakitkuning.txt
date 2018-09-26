@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit kuning",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit yang menyebabkan seluruh tubuh berwarna kuning; icterus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20kuning",
+  "related": [],
+  "detailed": false
+}

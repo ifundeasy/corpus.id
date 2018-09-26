@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selingar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelingar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selingar",
+  "related": [],
+  "detailed": false
+}

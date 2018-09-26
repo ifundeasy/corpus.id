@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkatup rapat-rapat (kuat-kuat);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pisau kecil tidak berhulu, melainkan berlandas kayu (untuk menuai padi); ani-ani;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk melicinkan kayu; serut;"
+      },
+      {
+        "type": "desc",
+        "text": "kepiting berkaki enam dan bersepit, hidup di lumpur di tepi pantai, sungai, parit, atau di pematang sawah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengetam"
+      },
+      {
+        "type": "link",
+        "text": "mengetam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "afirmasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penetapan yang positif; penegasan; peneguhan;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan atau pengakuan yang sungguh-sungguh (di bawah ancaman hukum) oleh orang yang menolak melakukan sumpah; pengakuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afirmasi",
+  "related": [],
+  "detailed": false
+}

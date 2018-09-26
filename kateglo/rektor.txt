@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketua perguruan tinggi (universitas, institut);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) pemimpin atau kepala di biara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rektor",
+  "related": [],
+  "detailed": false
+}

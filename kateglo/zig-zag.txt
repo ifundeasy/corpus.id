@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zig-zag",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berliku-liku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zig-zag",
+  "related": [],
+  "detailed": false
+}

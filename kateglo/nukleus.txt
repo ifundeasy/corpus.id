@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nukleus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari sel yang dianggap penting sekali untuk melangsungkan kehidupan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) inti; inti atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nukleus",
+  "related": [],
+  "detailed": false
+}

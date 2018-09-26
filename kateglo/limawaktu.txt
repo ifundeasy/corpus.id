@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lima waktu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "salat lima kali sehari semalam (Subuh, Lohor, Asar, Magrib, Isya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lima%20waktu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyikat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membersihkan dengan sikat;"
+      },
+      {
+        "type": "desc",
+        "text": "menyisir rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "menggemburkan tanah dengan sikat (garu);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) merampas atau menyerobot habis-habisan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menghabiskan sama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyikat",
+  "related": [],
+  "detailed": false
+}

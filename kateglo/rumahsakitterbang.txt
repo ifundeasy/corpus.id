@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat perawatan orang yang sakit, berupa pesawat terbang berisi perlengkapan medis lengkap dengan dokter dan perawatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20terbang",
+  "related": [],
+  "detailed": false
+}

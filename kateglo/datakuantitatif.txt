@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "data kuantitatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "data berbentuk angka yang diperoleh dari perhitungan data kualitatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data%20kuantitatif",
+  "related": [],
+  "detailed": false
+}

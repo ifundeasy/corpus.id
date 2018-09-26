@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gondok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gemuk pendek (tentang badan, leher, barang);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit bengkak pada leher depan karena kelenjar yang menjadi besar; beguk;"
+      },
+      {
+        "type": "desc",
+        "text": "mendongkol; marah yang tertahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gondok",
+  "related": [],
+  "detailed": false
+}

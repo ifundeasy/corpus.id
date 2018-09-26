@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berserak"
+      },
+      {
+        "type": "desc",
+        "text": "parau (tentang suara karena banyak berkata-kata dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sendat jalan suaranya;"
+      },
+      {
+        "type": "desc",
+        "text": "sendat jalan pernapasannya (karena berlendir dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung elang malam (atau burung hantu) yang bunyinya serak (seperti suara orang yang serak);"
+      },
+      {
+        "type": "link",
+        "text": "serak serik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serak",
+  "related": [],
+  "detailed": false
+}

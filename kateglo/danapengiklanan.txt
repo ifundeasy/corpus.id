@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana pengiklanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) anggaran yang tersedia untuk melakukan program (kegiatan) periklanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20pengiklanan",
+  "related": [],
+  "detailed": false
+}

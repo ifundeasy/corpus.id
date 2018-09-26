@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu untuk surat-menyurat melalui pos (tidak bersampul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20pos",
+  "related": [],
+  "detailed": false
+}

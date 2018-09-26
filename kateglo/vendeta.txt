@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vendeta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permusuhan turun-temurun yang bermula dari terbunuhnya seorang anggota keluarga sehingga keluarga dari yang terbunuh melakukan pembalasan dengan membunuh si pelaku atau salah seorang dari anggota keluarganya;"
+      },
+      {
+        "type": "desc",
+        "text": "perselisihan atau dendam kesumat yang terjadi antara dua kelompok secara terus-menerus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vendeta",
+  "related": [],
+  "detailed": false
+}

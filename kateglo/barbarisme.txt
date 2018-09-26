@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barbarisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham, sifat, atau perbuatan yang tidak sesuai dengan tata aturan peradaban;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penyimpangan dalam ucapan, tata bahasa, atau perbendaharaan kata dari ragam standar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barbarisme",
+  "related": [],
+  "detailed": false
+}

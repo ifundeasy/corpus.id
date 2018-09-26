@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata ulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang terjadi sebagai hasil reduplikasi, seperti rumah-rumah, tetamu, dag-dig-dug;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20ulang",
+  "related": [],
+  "detailed": false
+}

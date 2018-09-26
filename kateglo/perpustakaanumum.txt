@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang seluruhnya atau sebagian dari dananya disediakan oleh masyarakat dan penggunaannya tidak terbatas pada kelompok tertentu dan bebas digunakan oleh siapa pun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20umum",
+  "related": [],
+  "detailed": false
+}

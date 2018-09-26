@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "transkripsi halus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) transkripsi yang mencoba menandai perbedaan fonetis yang ada selengkap mungkin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transkripsi%20halus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi aeronautika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang hubungan cuaca dan penerbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20aeronautika",
+  "related": [],
+  "detailed": false
+}

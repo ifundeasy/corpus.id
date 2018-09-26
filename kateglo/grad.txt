@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat (tentang sudut, suhu);"
+      },
+      {
+        "type": "desc",
+        "text": "martabat (kebangsaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grad",
+  "related": [],
+  "detailed": false
+}

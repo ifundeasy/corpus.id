@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tutup (alat untuk menutup);"
+      },
+      {
+        "type": "desc",
+        "text": "pengunci (karangan, rapat, surat, dsb); bagian akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penutup",
+  "related": [],
+  "detailed": false
+}

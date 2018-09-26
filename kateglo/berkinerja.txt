@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkinerja",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memperlihatkan prestasi;"
+      },
+      {
+        "type": "desc",
+        "text": "berkemampuan (dengan menggunakan tenaga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkinerja",
+  "related": [],
+  "detailed": false
+}

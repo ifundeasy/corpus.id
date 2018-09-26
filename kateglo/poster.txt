@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "plakat yang dipasang di tempat umum (berupa pengumuman atau iklan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poster",
+  "related": [],
+  "detailed": false
+}

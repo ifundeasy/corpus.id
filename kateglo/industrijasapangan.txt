@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri jasa pangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang memberikan jasa dalam hal pangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20jasa%20pangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencatat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuliskan sesuatu untuk peringatan (dalam buku catatan);"
+      },
+      {
+        "type": "desc",
+        "text": "menuliskan apa yang sudah ditulis atau diucapkan orang lain; menyalin;"
+      },
+      {
+        "type": "desc",
+        "text": "memasukkan ke dalam buku (daftar); mendaftar;"
+      },
+      {
+        "type": "desc",
+        "text": "memperoleh atau mencapai (hasil, kemenangan, rekor);"
+      },
+      {
+        "type": "desc",
+        "text": "memasukkan (suara, ujaran) ke dalam pita perekam; merekam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencatat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gila",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit ingatan (kurang beres ingatannya); sakit jiwa (sarafnya terganggu atau pikirannya tidak normal);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak biasa; tidak sebagaimana mestinya; berbuat yang bukan-bukan (tidak masuk akal);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) terlalu; kurang ajar (dipakai sebagai kata seru, kata afektif); ungkapan kagum (hebat);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "terlanda perasaan sangat suka (gemar, asyik, cinta, kasih sayang);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak masuk akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gila",
+  "related": [],
+  "detailed": false
+}

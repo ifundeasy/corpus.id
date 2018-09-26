@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelagis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang hidup di lapisan permukaan perairan pantai atau di perairan pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelagis",
+  "related": [],
+  "detailed": false
+}

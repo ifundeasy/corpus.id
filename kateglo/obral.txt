@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "obral",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual barang secara besar-besaran dengan harga murah (dengan maksud menghabiskan barang, mengosongkan gudang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengeluarkan (memakai dsb) secara banyak-banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obral",
+  "related": [],
+  "detailed": false
+}

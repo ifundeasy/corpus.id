@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembebasan seseorang dari hukuman (tuntutan, denda, dsb) karena suatu kesalahan; ampun;"
+      },
+      {
+        "type": "desc",
+        "text": "ungkapan permintaan ampun atau penyesalan;"
+      },
+      {
+        "type": "desc",
+        "text": "ungkapan permintaan izin untuk melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maaf",
+  "related": [],
+  "detailed": false
+}

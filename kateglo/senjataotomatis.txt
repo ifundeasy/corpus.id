@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata otomatis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata yang pengoperasiannya dilakukan secara otomatis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20otomatis",
+  "related": [],
+  "detailed": false
+}

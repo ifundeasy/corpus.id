@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "capang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang melengkung (tentang tanduk, kumis);"
+      },
+      {
+        "type": "desc",
+        "text": "panjang dan lebar (tentang telinga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=capang",
+  "related": [],
+  "detailed": false
+}

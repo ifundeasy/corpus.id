@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "merger",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyatuan usaha sehingga tercapai pemilikan dan/atau pengawasan bersama; penggabungan;"
+      },
+      {
+        "type": "desc",
+        "text": "penggabungan dua atau lebih perusahaan di bawah satu pemilikan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengambilalihan seluruh aktiva dan pasiva yang dimiliki suatu perusahaan untuk digabungkan dengan perusahaan yang mengambil alih atau perusahaan yang baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merger",
+  "related": [],
+  "detailed": false
+}

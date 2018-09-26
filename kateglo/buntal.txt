@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buntal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "gembung; buncit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut berbisa yang dapat menggembungkan perutnya bila tersentuh, bermacam-macam jenisnya seperti -- duri, -- landak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buntal",
+  "related": [],
+  "detailed": false
+}

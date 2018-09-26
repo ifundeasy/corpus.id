@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mempersendikan gerak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sendi yang memungkinkan gerak ke satu arah (seperti lengan bawah), ke dua arah (seperti rahang bawah), dan ke segala arah (seperti lengan dan paha);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mempersendikan%20gerak",
+  "related": [],
+  "detailed": false
+}

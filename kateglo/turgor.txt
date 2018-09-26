@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turgor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "tegangan dalam sel tumbuhan apabila vakuola penuh dengan zat cair;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) ketegangan jaringan yang disebabkan terlampau banyak diisi darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turgor",
+  "related": [],
+  "detailed": false
+}

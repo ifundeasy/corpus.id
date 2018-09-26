@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlunta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terlunta-lunta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlunta",
+  "related": [],
+  "detailed": false
+}

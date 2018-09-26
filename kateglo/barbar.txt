@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barbar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak beradab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barbar",
+  "related": [],
+  "detailed": false
+}

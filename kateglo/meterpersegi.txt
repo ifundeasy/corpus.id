@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meter persegi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran luas, panjang dan lebar masing-masing 1 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meter%20persegi",
+  "related": [],
+  "detailed": false
+}

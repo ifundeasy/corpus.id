@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piezometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tekanan udara pada saat kompresi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piezometer",
+  "related": [],
+  "detailed": false
+}

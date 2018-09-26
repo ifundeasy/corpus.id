@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "burnout",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelelahan fisik, emosional, dan mental;"
+      },
+      {
+        "type": "desc",
+        "text": "stres dan kelelahan emosional, frustasi, dan keletihan yang terjadi jika rangkaian peristiwa dalam suatu hubungan, misi, cara hidup, pekerjaan, atau bisnis tidak menghasilkan sesuatu yang sesuai dengan harapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burnout",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rada",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "rada-rada"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rada",
+  "related": [],
+  "detailed": false
+}

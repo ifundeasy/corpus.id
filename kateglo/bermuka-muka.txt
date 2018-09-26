@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermuka-muka",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhadapan muka; di depan muka; di depan orang;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "terus terang; terang-terangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hanya lahirnya saja baik, hatinya tidak; hanya bermanis-manis;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "berhalaman-halaman; berlembar-lembar (tentang buku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermuka-muka",
+  "related": [],
+  "detailed": false
+}

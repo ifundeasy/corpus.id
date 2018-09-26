@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr)"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang aturan, norma kehidupan masyarakat, serta adat-istiadat yang dibuat oleh penguasa dalam suatu masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang hukum (undang-undang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20hukum",
+  "related": [],
+  "detailed": false
+}

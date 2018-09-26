@@ -1,0 +1,77 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dalam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jauh ke bawah (dari permukaan); jauh masuk ke tengah (dari tepi);"
+      },
+      {
+        "type": "desc",
+        "text": "paham benar-benar (tentang ilmu pengetahuan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sampai ke lubuk hati; betul-betul terasakan di hati (tentang cinta, dendam, penderitaan, sakit hati);"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung makna (maksud) yang sukar dipahami (tentang perkataan);"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung arti (maksud tertentu);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang di dalam, bukan bagian luar;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan daerah (negeri, keluarga) sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "jeluk;"
+      },
+      {
+        "type": "desc",
+        "text": "batin;"
+      },
+      {
+        "type": "desc",
+        "text": "yang tidak tampak dari luar (tentang penyakit dsb);"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menandai tempat yang mengandung isi;"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menandai sesuatu yang dianggap mengandung isi (kiasan);"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menunjukkan kebalikan dari makna di luar;"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menandai waktu dalam jangka tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "di antara; di kalangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dalam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istaz",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ustaz;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istaz",
+  "related": [],
+  "detailed": false
+}

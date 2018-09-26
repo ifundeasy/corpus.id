@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilokalori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah kalor yang diperlukan untuk menaikkan suhu satu kg air, 1o C;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilokalori",
+  "related": [],
+  "detailed": false
+}

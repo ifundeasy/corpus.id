@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggilan (untuk memanggil, menarik perhatian, dsb); panggilan dengan suara nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "ujaran yang biasa digunakan dengan penegasan atau intonasi tinggi seperti ketika marah;"
+      },
+      {
+        "type": "desc",
+        "text": "bengis;"
+      },
+      {
+        "type": "desc",
+        "text": "sengit; hebat;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "serba;"
+      },
+      {
+        "type": "desc",
+        "text": "pohon yang kayunya dapat dijadikan papan dsb untuk bahan bangunan rumah dsb); Schima bancana;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu seru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seru",
+  "related": [],
+  "detailed": false
+}

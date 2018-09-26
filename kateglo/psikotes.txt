@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikotes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prosedur pemeriksaan yang telah mengalami pembakuan, yang dimaksudkan untuk menyelidiki dan menetapkan sifat-sifat psikis khusus individu; pengujian mental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikotes",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homoseksual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan tertarik terhadap orang dari jenis kelamin yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homoseksual",
+  "related": [],
+  "detailed": false
+}

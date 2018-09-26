@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tebasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditebas;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menebas;"
+      },
+      {
+        "type": "desc",
+        "text": "pembelian hasil tanaman sebelum dipetik;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebasan",
+  "related": [],
+  "detailed": false
+}

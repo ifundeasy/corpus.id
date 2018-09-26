@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "efektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ada efeknya (akibatnya, pengaruhnya, kesannya);"
+      },
+      {
+        "type": "desc",
+        "text": "manjur atau mujarab (tentang obat);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat membawa hasil; berhasil guna (tentang usaha, tindakan); mangkus;"
+      },
+      {
+        "type": "desc",
+        "text": "mulai berlaku (tentang undang-undang, peraturan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efektif",
+  "related": [],
+  "detailed": false
+}

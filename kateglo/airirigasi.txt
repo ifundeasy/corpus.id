@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air irigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian air pada tanah dalam proses irigasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20irigasi",
+  "related": [],
+  "detailed": false
+}

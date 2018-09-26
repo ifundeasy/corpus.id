@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrobus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrobus",
+  "related": [],
+  "detailed": false
+}

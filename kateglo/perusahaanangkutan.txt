@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan angkutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang bergerak di bidang jasa angkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20angkutan",
+  "related": [],
+  "detailed": false
+}

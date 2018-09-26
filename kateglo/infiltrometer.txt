@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infiltrometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ukur kecepatan cairan yang menembus bahan berpori-pori (misal penembusan air ke dalam tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infiltrometer",
+  "related": [],
+  "detailed": false
+}

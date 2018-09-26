@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komprehensif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat mampu menangkap (menerima) dengan baik;"
+      },
+      {
+        "type": "desc",
+        "text": "luas dan lengkap (tentang ruang lingkup atau isi);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai dan memperlihatkan wawasan yang luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komprehensif",
+  "related": [],
+  "detailed": false
+}

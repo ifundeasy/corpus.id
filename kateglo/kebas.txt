@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kebas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa kaku kakinya (karena lelah);"
+      },
+      {
+        "type": "desc",
+        "text": "kesemutan (tentang kaki, tangan, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengebas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebas",
+  "related": [],
+  "detailed": false
+}

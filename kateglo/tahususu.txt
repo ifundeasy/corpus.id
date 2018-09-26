@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahu susu",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "produk olahan dengan bahan baku susu skim yang memiliki nilai gizi sangat baik, bentuk dan warnanya menyerupai tahu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahu%20susu",
+  "related": [],
+  "detailed": false
+}

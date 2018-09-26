@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koresponden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelapor atau wartawan yang tinggal dan bertugas di tempat lain yang secara teratur mengirimkan berita ke redaksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koresponden",
+  "related": [],
+  "detailed": false
+}

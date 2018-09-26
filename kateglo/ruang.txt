@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ruang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sela-sela antara dua (deret) tiang atau sela-sela antara empat tiang (di bawah kolong rumah);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) rongga yang berbatas atau terlingkung oleh bidang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) rongga yang tidak berbatas, tempat segala yang ada;"
+      },
+      {
+        "type": "desc",
+        "text": "petak dalam buah (durian, petai); pangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang",
+  "related": [],
+  "detailed": false
+}

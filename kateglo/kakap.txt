@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kakap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut yang buas, berbadan lebar dan pipih berwarna putih atau merah, panjangnya dapat mencapai satu meter, dagingnya enak, hidupnya di laut dekat pantai, kadang-kadang masuk sungai; Lates calcarifer;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) berukuran besar atau tinggi secara fisik atau kualitas (tentang penjahat, perusahaan, dsb); penting (tentang berita dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perahu yang sempit dan rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "kapal perang lama, bentuknya seperti kakap;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengakap"
+      },
+      {
+        "type": "desc",
+        "text": "daun sirih yang di bawah, kasar dan kaku; sirih kerakap;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) pegang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kakap",
+  "related": [],
+  "detailed": false
+}

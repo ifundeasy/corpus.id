@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "glosarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus dalam bentuk yang ringkas;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar kata dengan penjelasannya dalam bidang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=glosarium",
+  "related": [],
+  "detailed": false
+}

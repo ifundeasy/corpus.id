@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konsultasi medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perundingan antara pemberi dan penerima layanan kesehatan yang bertujuan mencari penyebab timbulnya penyakit dan menentukan cara pengobatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsultasi%20medis",
+  "related": [],
+  "detailed": false
+}

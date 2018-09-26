@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wali kelas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) guru yang diserahi tugas membina murid dalam satu kelas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wali%20kelas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karkas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging bertulang;"
+      },
+      {
+        "type": "desc",
+        "text": "pelepasan daging dari tulang;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh ternak yang disembelih selain kepala, kulit, jeroan, kaki bawah, ekor, dan bulu (tentang ayam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karkas",
+  "related": [],
+  "detailed": false
+}

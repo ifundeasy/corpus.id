@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran khusus tentang iklan oleh stasiun radio atau televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20iklan",
+  "related": [],
+  "detailed": false
+}

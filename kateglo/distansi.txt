@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "distansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distansi",
+  "related": [],
+  "detailed": false
+}

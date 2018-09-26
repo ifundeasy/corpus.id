@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah litoral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah perairan yang dangkal dekat pantai, yang menunjang kehidupan tanaman berakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20litoral",
+  "related": [],
+  "detailed": false
+}

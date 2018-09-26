@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian untuk menyatakan kebaktian, kesetiaan, dsb; kurban;"
+      },
+      {
+        "type": "desc",
+        "text": "orang, binatang, dsb yang menjadi menderita (mati dsb) akibat suatu kejadian, perbuatan jahat, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korban",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekam kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman mengenai kesehatan pasien;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekam%20kesehatan",
+  "related": [],
+  "detailed": false
+}

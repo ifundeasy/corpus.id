@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "misi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perutusan yang dikirimkan oleh suatu negara ke negara lain untuk melakukan tugas khusus dalam bidang diplomatik, politik, perdagangan, kesenian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tugas yang dirasakan orang sebagai suatu kewajiban untuk melakukannya demi agama, ideologi, patriotisme, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) kegiatan menyebarkan Kabar Gembira (Injil) dan mendirikan jemaat setempat, dilakukan atas dasar pengutusan sebagai kelanjutan misi Kristus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misi",
+  "related": [],
+  "detailed": false
+}

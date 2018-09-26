@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tata istilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat peraturan pembentukan istilah dan kumpulan istilah yang dihasilkannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tata%20istilah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berteka-teki",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengucapkan teka-teki supaya ditebak; bersoal jawab dengan menggunakan teka-teki; mempunyai teka-teki; ada teka-tekinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berteka-teki",
+  "related": [],
+  "detailed": false
+}

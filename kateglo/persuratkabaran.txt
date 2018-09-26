@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persuratkabaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal surat kabar; hal mengenai surat kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persuratkabaran",
+  "related": [],
+  "detailed": false
+}

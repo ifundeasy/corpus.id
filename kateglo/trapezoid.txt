@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trapezoid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segi empat tanpa sisi sejajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trapezoid",
+  "related": [],
+  "detailed": false
+}

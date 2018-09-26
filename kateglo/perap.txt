@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "memerap"
+      },
+      {
+        "type": "link",
+        "text": "terperap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perap",
+  "related": [],
+  "detailed": false
+}

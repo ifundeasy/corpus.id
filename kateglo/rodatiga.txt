@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "roda tiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda yang mempunyai tiga roda;"
+      },
+      {
+        "type": "desc",
+        "text": "becak; bemo; helicak; bajaj;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roda%20tiga",
+  "related": [],
+  "detailed": false
+}

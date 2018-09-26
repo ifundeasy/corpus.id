@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekening",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hitungan pembayaran (uang berlangganan, uang sewa, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekening",
+  "related": [],
+  "detailed": false
+}

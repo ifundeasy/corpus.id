@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga masyarakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerja yang berasal dari masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20masyarakat",
+  "related": [],
+  "detailed": false
+}

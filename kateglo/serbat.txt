@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serbat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman segar (nyaman);"
+      },
+      {
+        "type": "desc",
+        "text": "minuman panas yang terbuat dari jahe, gula, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serbat",
+  "related": [],
+  "detailed": false
+}

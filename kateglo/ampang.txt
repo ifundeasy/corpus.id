@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gampang; mudah; ringan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pematang dsb penahan air; bendungan;"
+      },
+      {
+        "type": "desc",
+        "text": "keranjang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampang",
+  "related": [],
+  "detailed": false
+}

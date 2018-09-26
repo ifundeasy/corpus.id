@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wulung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "biru kehitam-hitaman;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung elang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wulung",
+  "related": [],
+  "detailed": false
+}

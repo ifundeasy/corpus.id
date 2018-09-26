@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sayur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daun-daunan (seperti sawi), tumbuh-tumbuhan (taoge), polong atau bijian (kapri, buncis) dsb yang dapat dimasak;"
+      },
+      {
+        "type": "desc",
+        "text": "masakan yang berkuah (seperti gulai, sup);"
+      },
+      {
+        "type": "link",
+        "text": "sayur babi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pandu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penunjuk jalan; perintis jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "mualim (di kapal);"
+      },
+      {
+        "type": "desc",
+        "text": "kapal penunjuk jalan (dalam pelabuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "anggota perkumpulan pemuda yang berpakaian seragam khusus, bertujuan mendidik anggotanya supaya menjadi orang yang berjiwa kesatria, gagah berani, dan suka menolong sesama makhluk;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memandu"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) tanda di jendela tampilan tempat kegiatan komputer terjadi atau ditampilkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandu",
+  "related": [],
+  "detailed": false
+}

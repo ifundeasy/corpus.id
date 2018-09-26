@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mnemonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) sandi untuk mempermudah ingatan menyusun tata olah komputer dalam bahasa rakitan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) rumus atau ungkapan untuk membantu mengingat-ingat sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mnemonik",
+  "related": [],
+  "detailed": false
+}

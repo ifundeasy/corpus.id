@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asisten ahli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkat atau jabatan dosen setingkat di bawah lektor muda (di perguruan tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asisten%20ahli",
+  "related": [],
+  "detailed": false
+}

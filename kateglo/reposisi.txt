@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penempatan kembali ke posisi semula; penataan kembali posisi yang ada; penempatan ke posisi yang berbeda atau baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reposisi",
+  "related": [],
+  "detailed": false
+}

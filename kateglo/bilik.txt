@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anyaman dari bilah bambu (untuk dinding dsb); gedek; tepas; sasak;"
+      },
+      {
+        "type": "desc",
+        "text": "ruangan kecil yang tersekat; kamar;"
+      },
+      {
+        "type": "desc",
+        "text": "kesatuan beberapa rumah keluarga yang berpusat pada rumah anak tertua (di Lampung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilik",
+  "related": [],
+  "detailed": false
+}

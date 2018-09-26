@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memanggil",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengajak (meminta) datang (kembali, mendekat, dsb) dengan menyerukan nama dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mengundang; menyilakan datang (ke perjamuan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menyebut; menamakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memanggil",
+  "related": [],
+  "detailed": false
+}

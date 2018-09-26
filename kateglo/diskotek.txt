@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskotek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung tempat menyimpan koleksi piringan hitam;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaga yang menyimpan koleksi piringan hitam untuk tujuan ilmiah;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang atau gedung hiburan tempat mendengarkan musik (dari piringan hitam) atau berdansa mengikuti irama musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskotek",
+  "related": [],
+  "detailed": false
+}

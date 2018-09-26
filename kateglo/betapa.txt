@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "betapa",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan cara, perbuatan, pendapat, dsb; bagaimana;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata seru penanda rasa heran, kagum, sedih, dsb; alangkah; sungguh;"
+      },
+      {
+        "type": "desc",
+        "text": "meskipun;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagaimana; seperti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=betapa",
+  "related": [],
+  "detailed": false
+}

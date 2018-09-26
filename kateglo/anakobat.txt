@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak obat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak (orang) sakit yang sedang dalam perawatan dokter; pasien;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20obat",
+  "related": [],
+  "detailed": false
+}

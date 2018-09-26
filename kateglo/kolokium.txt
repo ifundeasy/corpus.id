@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolokium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan keahlian; seminar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) kegiatan belajar (pada tataran pendidikan sarjana) yang dilakukan dalam bentuk seminar untuk membahas proyek penelitian bertaraf lanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolokium",
+  "related": [],
+  "detailed": false
+}

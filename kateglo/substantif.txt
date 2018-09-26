@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "substantif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nomina; kata benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=substantif",
+  "related": [],
+  "detailed": false
+}

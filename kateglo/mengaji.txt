@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengaji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendaras (membaca) Alquran;"
+      },
+      {
+        "type": "desc",
+        "text": "belajar membaca tulisan Arab;"
+      },
+      {
+        "type": "desc",
+        "text": "belajar; mempelajari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengaji",
+  "related": [],
+  "detailed": false
+}

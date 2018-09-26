@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orat-oret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "coret-coret;"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan tidak beraturan (dengan cat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orat-oret",
+  "related": [],
+  "detailed": false
+}

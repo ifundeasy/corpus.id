@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percengkihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cengkih; perihal pengusahaan dan pembudidayaan cengkih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percengkihan",
+  "related": [],
+  "detailed": false
+}

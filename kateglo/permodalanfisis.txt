@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permodalan fisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemodalan berdasarkan pengamatan dan pengukuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permodalan%20fisis",
+  "related": [],
+  "detailed": false
+}

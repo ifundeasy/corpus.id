@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memerkosa;"
+      },
+      {
+        "type": "desc",
+        "text": "memalsukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakut",
+  "related": [],
+  "detailed": false
+}

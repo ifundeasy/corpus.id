@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonemis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan fonem;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan fonemik;"
+      },
+      {
+        "type": "desc",
+        "text": "berbeda dipandang dari sudut bahasa (dikatakan tentang bunyi-bunyi yang berbeda karena mampu menyatakan kontras makna);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonemis",
+  "related": [],
+  "detailed": false
+}

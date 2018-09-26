@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meminjam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai barang (uang dsb) orang lain untuk waktu tertentu (kalau sudah sampai waktunya harus dikembalikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meminjam",
+  "related": [],
+  "detailed": false
+}

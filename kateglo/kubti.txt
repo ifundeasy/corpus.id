@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Kubti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama mazhab Kristen di Mesir;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang dipakai pada upacara agama dalam mazhab Kristen di Mesir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Kubti",
+  "related": [],
+  "detailed": false
+}

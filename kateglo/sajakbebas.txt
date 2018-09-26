@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang baitnya tidak terikat pada jumlah larik tertentu serta jumlah kata setiap lariknya dan iramanya tidak tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20bebas",
+  "related": [],
+  "detailed": false
+}

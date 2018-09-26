@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli membuat komik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komikus",
+  "related": [],
+  "detailed": false
+}

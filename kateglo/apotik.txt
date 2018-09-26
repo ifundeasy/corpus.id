@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apotik",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "apotek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apotik",
+  "related": [],
+  "detailed": false
+}

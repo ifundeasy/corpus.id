@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warid",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "beribadah mengikuti cara yang dilakukan oleh Nabi Muhammad saw.;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) urat nadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lauk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging, ikan, dsb (selain sayur) yang dimakan sebagai teman nasi;"
+      },
+      {
+        "type": "desc",
+        "text": "daging atau ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lauk",
+  "related": [],
+  "detailed": false
+}

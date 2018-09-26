@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "instrumentalia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan musik tanpa nyanyian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instrumentalia",
+  "related": [],
+  "detailed": false
+}

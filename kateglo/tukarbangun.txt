@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tukar bangun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertukar tanah dan bangunan dengan tanah dan bangunan di tempat lain yang sesuai harganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukar%20bangun",
+  "related": [],
+  "detailed": false
+}

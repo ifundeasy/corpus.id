@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah sublitoral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pantai yang biasanya mempunyai kedalaman kurang dari 200 m;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah pantai yang mencakup permukaan air sampai ke batas terendah tempat tanaman dapat tumbuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20sublitoral",
+  "related": [],
+  "detailed": false
+}

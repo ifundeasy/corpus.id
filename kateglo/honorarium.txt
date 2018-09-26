@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "honorarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah sebagai imbalan jasa (yang diberikan kepada pengarang, penerjemah, dokter, pengacara, konsultan, tenaga honorer); upah di luar gaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=honorarium",
+  "related": [],
+  "detailed": false
+}

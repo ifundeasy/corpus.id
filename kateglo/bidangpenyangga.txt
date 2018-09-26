@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bidang penyangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebidang tanah yang ditanami rumput atau tanaman lain yang tahan erosi (biasanya mengikuti kontur daerah pertanian, bertujuan mengurangi aliran permukaan dan erosi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidang%20penyangga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru resep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menangani resep obat; orang yang paham tentang resep obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20resep",
+  "related": [],
+  "detailed": false
+}

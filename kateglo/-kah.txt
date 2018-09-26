@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "-kah",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "yang digunakan untuk mengukuhkan pertanyaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam ragam standar) digunakan untuk memperhalus pertanyaan dan ditambahkan pada kata tanya apa, mana, bagaimana, berapa, di mana, mengapa, siapa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-kah",
+  "related": [],
+  "detailed": false
+}

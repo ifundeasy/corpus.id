@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koreografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni mencipta dan menggubah tari (balet);"
+      },
+      {
+        "type": "desc",
+        "text": "seni tari (balet);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koreografi",
+  "related": [],
+  "detailed": false
+}

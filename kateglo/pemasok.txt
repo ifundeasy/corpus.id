@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemasok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau organisasi yang memasok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemasok",
+  "related": [],
+  "detailed": false
+}

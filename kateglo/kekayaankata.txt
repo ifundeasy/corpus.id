@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekayaan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah kosakata dalam suatu bahasa; perbendaharaan kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekayaan%20kata",
+  "related": [],
+  "detailed": false
+}

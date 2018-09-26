@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polarimetri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengukuran dengan polarimeter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polarimetri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telenovela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "novel yang ditayangkan di layar televisi, biasanya dibagi menjadi beberapa episode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telenovela",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tube",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pipa dari gelas (karet dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tabung tertutup untuk tapal gigi (tinta stensil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tube",
+  "related": [],
+  "detailed": false
+}

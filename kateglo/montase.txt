@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "montase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komposisi gambar yang dihasilkan dari pencampuran unsur beberapa sumber;"
+      },
+      {
+        "type": "desc",
+        "text": "karya sastra, musik, atau seni yang terjadi dari bermacam-macam unsur;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar berurutan yang dihasilkan dalam film untuk melukiskan gagasan yang berkaitan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemilihan dan pengaturan pemandangan untuk pembuatan film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=montase",
+  "related": [],
+  "detailed": false
+}

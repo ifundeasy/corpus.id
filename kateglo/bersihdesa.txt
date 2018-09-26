@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersih desa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "membersihkan desa dari gangguan alam dsb dengan upacara adat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersih%20desa",
+  "related": [],
+  "detailed": false
+}

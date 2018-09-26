@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan setempat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hujan yang jatuh di atas daerah terbatas, misal hanya jatuh di atas daerah seluas beberapa kilometer persegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20setempat",
+  "related": [],
+  "detailed": false
+}

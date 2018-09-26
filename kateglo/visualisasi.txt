@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "visualisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengungkapan suatu gagasan atau perasaan dengan menggunakan bentuk gambar, tulisan (kata dan angka), peta, grafik, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "proses pengubahan konsep menjadi gambar untuk disajikan lewat televisi oleh produsen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=visualisasi",
+  "related": [],
+  "detailed": false
+}

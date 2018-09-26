@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paduan suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian bersama (biasanya terdiri atas suara sopran, alto, tenor, dan bariton);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paduan%20suara",
+  "related": [],
+  "detailed": false
+}

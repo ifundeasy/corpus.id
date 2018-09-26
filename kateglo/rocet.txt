@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rocet",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "banyak coretan (tentang tulisan);"
+      },
+      {
+        "type": "desc",
+        "text": "kusut atau kacau (tentang pekerjaan, administrasi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rocet",
+  "related": [],
+  "detailed": false
+}

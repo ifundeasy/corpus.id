@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rodong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "karib (tentang persahabatan dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sahabat karib;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merodong"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rodong",
+  "related": [],
+  "detailed": false
+}

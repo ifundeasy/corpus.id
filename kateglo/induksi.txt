@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "induksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode pemikiran yang bertolak dari kaidah (hal-hal atau peristiwa) khusus untuk menentukan hukum (kaidah) yang umum; penarikan kesimpulan berdasarkan keadaan yang khusus untuk diperlakukan secara umum; penentuan kaidah umum berdasarkan kaidah khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "proses pembangkitan tenaga listrik (elektrik) di dalam sirkulasi tertutup oleh arus (gerak) magnetik melalui gerak putar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induksi",
+  "related": [],
+  "detailed": false
+}

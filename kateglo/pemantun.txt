@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemantun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang pantun; orang yang berpantun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemantun",
+  "related": [],
+  "detailed": false
+}

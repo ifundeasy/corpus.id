@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absen",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak masuk (sekolah, kerja, dsb); tidak hadir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absen",
+  "related": [],
+  "detailed": false
+}

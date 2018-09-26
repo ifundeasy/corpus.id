@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebagian dari energi potensial yang dilepaskan dan dipakai untuk pekerjaan yang berguna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20bebas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gerbang wisata",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tempat awal memasuki daerah wisata atau tempat akhir keluar meninggalkan daerah wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gerbang%20wisata",
+  "related": [],
+  "detailed": false
+}

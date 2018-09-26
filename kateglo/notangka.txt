@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "not angka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "not yang dilambangkan dengan angka, misal 1 (do), 2 (re);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=not%20angka",
+  "related": [],
+  "detailed": false
+}

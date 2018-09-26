@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "populer (tentang lagu-lagu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hit",
+  "related": [],
+  "detailed": false
+}

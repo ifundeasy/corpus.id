@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baris baru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baris permulaan lagi (berganti baris);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baris%20baru",
+  "related": [],
+  "detailed": false
+}

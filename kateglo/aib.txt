@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aib",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "malu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "cela; noda; salah; keliru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aib",
+  "related": [],
+  "detailed": false
+}

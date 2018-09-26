@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemasak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya memasak; juru masak;"
+      },
+      {
+        "type": "desc",
+        "text": "(alat) yang dipakai untuk memasak;"
+      },
+      {
+        "type": "desc",
+        "text": "bumbu; rempah-rempah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemasak",
+  "related": [],
+  "detailed": false
+}

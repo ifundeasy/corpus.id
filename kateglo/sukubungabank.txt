@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suku bunga bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suku bunga atau tarif yang dibenarkan oleh bank atas pinjaman uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suku%20bunga%20bank",
+  "related": [],
+  "detailed": false
+}

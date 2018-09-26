@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarah acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas yang mengatur susunan acara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarah%20acara",
+  "related": [],
+  "detailed": false
+}

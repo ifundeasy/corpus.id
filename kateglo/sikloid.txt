@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sikloid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mendekati bundar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) lintasan yang dilalui oleh suatu titik pada keliling lingkaran jika titik itu bergulir sepanjang garis lurus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) lintasan yang dilalui oleh suatu titik pada keliling lingkaran jika titik itu bergulir sepanjang garis lurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sikloid",
+  "related": [],
+  "detailed": false
+}

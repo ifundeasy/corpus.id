@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelahiran sebelum kawin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelahiran yang terjadi pada seorang wanita yang belum pernah menikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelahiran%20sebelum%20kawin",
+  "related": [],
+  "detailed": false
+}

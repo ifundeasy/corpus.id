@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mencipta, memimpin, atau menampilkan musik; pencipta atau pemain musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musikus",
+  "related": [],
+  "detailed": false
+}

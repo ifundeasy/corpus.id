@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkemahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal berkemah;"
+      },
+      {
+        "type": "desc",
+        "text": "himpunan kemah (pramuka, pasukan, dsb); tempat berkemah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkemahan",
+  "related": [],
+  "detailed": false
+}

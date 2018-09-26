@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekskavator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk melakukan ekskavasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekskavator",
+  "related": [],
+  "detailed": false
+}

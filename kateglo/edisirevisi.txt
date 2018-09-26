@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi revisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan ulang buku dsb dengan perubahan baru dalam naskah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20revisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "televisi kabel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sinyal televisi yang ditransmisikan ke rumah-rumah dengan kabel dan dibayar secara berlangganan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=televisi%20kabel",
+  "related": [],
+  "detailed": false
+}

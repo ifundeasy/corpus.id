@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banjir bulanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "debit maksimum yang terjadi di dalam sungai selama bulan kalender;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjir%20bulanan",
+  "related": [],
+  "detailed": false
+}

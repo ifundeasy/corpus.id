@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "protein hewani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "protein yang dihasilkan dari hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protein%20hewani",
+  "related": [],
+  "detailed": false
+}

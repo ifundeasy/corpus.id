@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat peluncur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal terbang yang tidak bermotor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20peluncur",
+  "related": [],
+  "detailed": false
+}

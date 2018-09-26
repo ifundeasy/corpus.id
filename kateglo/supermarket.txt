@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "supermarket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar swalayan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=supermarket",
+  "related": [],
+  "detailed": false
+}

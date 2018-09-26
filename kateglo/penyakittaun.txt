@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit taun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang berjangkit dan menular; penyakit sampar;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit muntah-muntah dan selalu buang air; kolera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20taun",
+  "related": [],
+  "detailed": false
+}

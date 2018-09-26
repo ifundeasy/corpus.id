@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengontrol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengontrol;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang (bertugas) mengontrol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengontrol",
+  "related": [],
+  "detailed": false
+}

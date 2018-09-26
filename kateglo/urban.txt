@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urban",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan kota; bersifat kekotaan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berpindah dari desa ke kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urban",
+  "related": [],
+  "detailed": false
+}

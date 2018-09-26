@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar dengan transaksi tanpa pengendalian harga dan kadang-kadang bertentangan dengan peraturan perundang-undangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20gelap",
+  "related": [],
+  "detailed": false
+}

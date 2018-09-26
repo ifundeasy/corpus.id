@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megaton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran daya ledak sebesar satu ton dinamit (= 1.000.000 ton TNT);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megaton",
+  "related": [],
+  "detailed": false
+}

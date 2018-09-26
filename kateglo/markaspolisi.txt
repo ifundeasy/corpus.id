@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "markas polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "markas yang menjadi pusat kepolisian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=markas%20polisi",
+  "related": [],
+  "detailed": false
+}

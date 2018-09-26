@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Sd, ark)"
+      },
+      {
+        "type": "desc",
+        "text": "biru;"
+      },
+      {
+        "type": "desc",
+        "text": "(orang yang) kurang adat (tidak sopan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paul",
+  "related": [],
+  "detailed": false
+}

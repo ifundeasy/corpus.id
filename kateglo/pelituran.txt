@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelituran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara mengecat dengan pelitur;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memelitur;"
+      },
+      {
+        "type": "desc",
+        "text": "(yang) bercat pelitur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelituran",
+  "related": [],
+  "detailed": false
+}

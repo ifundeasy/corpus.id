@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan hawa (suhu, kelembapan, awan, hujan, dan sinar matahari) pada suatu daerah dalam jangka waktu yang agak lama (30 tahun) di suatu daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) suasana; keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim",
+  "related": [],
+  "detailed": false
+}

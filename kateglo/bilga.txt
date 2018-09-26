@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian kapal yang berada di dalam air (di tengah-tengah, antara tingkat atas, dan tingkat bawah);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penampungan cairan (air, minyak) untuk menjaga agar ruangan tertentu, misal palka, kamar mesin tetap kering;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilga",
+  "related": [],
+  "detailed": false
+}

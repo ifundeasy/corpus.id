@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perambuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemasangan rambu (jalan);"
+      },
+      {
+        "type": "desc",
+        "text": "hal rambu (jalan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perambuan",
+  "related": [],
+  "detailed": false
+}

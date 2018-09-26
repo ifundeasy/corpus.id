@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor cabang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor yang mengurus kepentingan suatu perusahaan (instansi) di tempat lain atau yang kedudukannya berada di bawah kantor pusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20cabang",
+  "related": [],
+  "detailed": false
+}

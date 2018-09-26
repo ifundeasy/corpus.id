@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genetika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang biologi yang menerangkan sifat turun-temurun;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran tentang pewarisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genetika",
+  "related": [],
+  "detailed": false
+}

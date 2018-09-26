@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inventor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mencipta atau merancang sesuatu (yang sebelumnya tidak ada); pereka cipta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inventor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terang cuaca",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "udara baik (tidak mendung, tidak redup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terang%20cuaca",
+  "related": [],
+  "detailed": false
+}

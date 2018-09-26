@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeringan buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeringan dengan mesin pengering (tidak melalui sinar matahari atau api);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeringan%20buatan",
+  "related": [],
+  "detailed": false
+}

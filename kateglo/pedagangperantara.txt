@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pedagang perantara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang yang menjualkan barang dari pedagang besar kepada pedagang kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedagang%20perantara",
+  "related": [],
+  "detailed": false
+}

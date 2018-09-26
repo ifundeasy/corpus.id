@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koran masuk desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar yang ditujukan kepada masyarakat desa, umumnya menggunakan dua bahasa (Indonesia dan daerah) dan dua aksara (aksara Latin dan aksara daerah setempat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koran%20masuk%20desa",
+  "related": [],
+  "detailed": false
+}

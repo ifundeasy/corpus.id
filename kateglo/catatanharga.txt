@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "catatan harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) harga permintaan dan penawaran sekuritas atau barang yang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catatan%20harga",
+  "related": [],
+  "detailed": false
+}

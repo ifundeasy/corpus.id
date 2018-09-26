@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lelap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "nyenyak (tidur); tidak sadarkan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang; lenyap;"
+      },
+      {
+        "type": "desc",
+        "text": "lalu tidak boleh ditebus (tentang gadaian);"
+      },
+      {
+        "type": "desc",
+        "text": "beku (tentang minyak kelapa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lelap",
+  "related": [],
+  "detailed": false
+}

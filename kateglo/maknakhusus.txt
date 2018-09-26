@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makna kata atau istilah yang pemakaiannya terbatas pada bidang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20khusus",
+  "related": [],
+  "detailed": false
+}

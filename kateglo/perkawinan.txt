@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkawinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (urusan dsb) kawin; pernikahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan hewan jantan dan betina secara seksual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkawinan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rancangan atau buram surat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ide atau pengertian yang diabstrakkan dari peristiwa konkret;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) gambaran mental dari objek, proses, atau apa pun yang ada di luar bahasa, yang digunakan oleh akal budi untuk memahami hal-hal lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsep",
+  "related": [],
+  "detailed": false
+}

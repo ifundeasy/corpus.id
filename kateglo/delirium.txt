@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "delirium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gangguan mental yang ditandai oleh ilusi, halusinasi, ketegangan otak, dan kegelisahan fisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=delirium",
+  "related": [],
+  "detailed": false
+}

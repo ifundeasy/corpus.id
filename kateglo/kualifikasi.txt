@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kualifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan khusus untuk memperoleh suatu keahlian;"
+      },
+      {
+        "type": "desc",
+        "text": "keahlian yang diperlukan untuk melakukan sesuatu (menduduki jabatan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembatasan; penyisihan (dalam olah raga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kualifikasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang berisikan hal-ihwal keluarga, seperti kelahiran, ulang tahun, perkawinan, perceraian, dan kematian (biasanya disiarkan melalui radio);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20keluarga",
+  "related": [],
+  "detailed": false
+}

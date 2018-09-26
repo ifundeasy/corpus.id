@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah tin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah-buahan dalam kaleng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20tin",
+  "related": [],
+  "detailed": false
+}

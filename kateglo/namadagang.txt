@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cap atau tanda untuk setiap barang produksi pabrik atau perusahaan yang bersangkutan dan digunakan dalam dunia perdagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20dagang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengadaan, perawatan, distribusi, dan penyediaan (untuk mengganti) perlengkapan, perbekalan, dan ketenagaan;"
+      },
+      {
+        "type": "desc",
+        "text": "segi ilmu kemiliteran mengenai pengadaan, perawatan, dan transportasi peralatan, pembekalan, dan pasukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) segala persiapan dan tindakan yang diperlukan untuk memperlengkapi pasukan dengan alat dan perbekalan agar dpt bertempur dalam kondisi yang paling baik dan menguntungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "penanganan seluk-beluk operasi militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logistik",
+  "related": [],
+  "detailed": false
+}

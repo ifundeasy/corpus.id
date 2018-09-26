@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan sungai yang besar sekali, tidak bersisik, seperti limbat atau ikan sembilang; ikan darat, Mystus nemurus;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "melengkung sedikit seperti pisang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) beruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baung",
+  "related": [],
+  "detailed": false
+}

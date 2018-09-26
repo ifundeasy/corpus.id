@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) wilayah keuskupan yang akan menjadi paroki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasi",
+  "related": [],
+  "detailed": false
+}

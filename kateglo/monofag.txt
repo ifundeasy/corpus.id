@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monofag",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio) bersifat makan satu jenis makanan (tentang hewan), misal beruang panda makan tunas bambu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monofag",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsertina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik tiup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsertina",
+  "related": [],
+  "detailed": false
+}

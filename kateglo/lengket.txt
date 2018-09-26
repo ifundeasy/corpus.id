@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengket",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lekat;"
+      },
+      {
+        "type": "link",
+        "text": "lengket-lengket"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengket",
+  "related": [],
+  "detailed": false
+}

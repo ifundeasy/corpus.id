@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan (tempat, wujud, rupa, dsb) yang semula; pangkal permulaan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mula-mula sekali; semula;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan syarat; apabila;"
+      },
+      {
+        "type": "desc",
+        "text": "pokoknya; yang penting;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sembarangan; seenaknya saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asal",
+  "related": [],
+  "detailed": false
+}

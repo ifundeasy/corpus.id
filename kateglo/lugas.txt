@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lugas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai yang pokok-pokok (yang perlu-perlu) saja;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat seperti apa adanya; lugu; serba bersahaja; serba sederhana;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbelit-belit;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bersifat pribadi; objektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lugas",
+  "related": [],
+  "detailed": false
+}

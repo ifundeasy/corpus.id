@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersurat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah ditulis; tertulis;"
+      },
+      {
+        "type": "desc",
+        "text": "telah ditakdirkan;"
+      },
+      {
+        "type": "desc",
+        "text": "eksplisit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersurat",
+  "related": [],
+  "detailed": false
+}

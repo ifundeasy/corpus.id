@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "irama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan berturut-turut secara teratur; turun naik lagu (bunyi dsb) yang beraturan; ritme;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) alunan yang ter-cipta oleh kalimat yang berimbang, selingan bangun kalimat, dan panjang pendek serta kemerduan bunyi (dalam prosa); ritme;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) ukuran waktu atau tempo;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) alunan yang terjadi karena perulangan dan pergantian kesatuan bunyi dalam arus panjang pendek bunyi, keras lembut tekanan, dan tinggi rendah nada (dalam puisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=irama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pokok kayu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala tumbuhan yang berbatang keras dan besar (seperti jati, pohon mangga);"
+      },
+      {
+        "type": "desc",
+        "text": "batang kayu (pohon) dari pangkal ke atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pokok%20kayu",
+  "related": [],
+  "detailed": false
+}

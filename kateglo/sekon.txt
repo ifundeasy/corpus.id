@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "detik (1/60 menit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekon",
+  "related": [],
+  "detailed": false
+}

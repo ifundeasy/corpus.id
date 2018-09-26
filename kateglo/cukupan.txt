@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cukupan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedang-sedang saja; tidak kurang dan tidak berlebih-lebihan;"
+      },
+      {
+        "type": "desc",
+        "text": "lumayan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cukupan",
+  "related": [],
+  "detailed": false
+}

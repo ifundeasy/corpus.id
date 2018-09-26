@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anggur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menganggur"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "keratan cabang atau batang yang akan ditanam; setek;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan memanjat (menjalar) yang buahnya kecil-kecil sebesar kelereng dan berangkai;"
+      },
+      {
+        "type": "desc",
+        "text": "buah anggur;"
+      },
+      {
+        "type": "desc",
+        "text": "minuman dari sari buah anggur yang difermentasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggur",
+  "related": [],
+  "detailed": false
+}

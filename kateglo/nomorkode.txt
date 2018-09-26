@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor kode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor atau angka yang disamarkan dalam kalimat atau puisi sebagai kode untuk menentukan nomor undian yang akan menang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20kode",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lukisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil melukis; gambar(an) yang indah-indah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) cerita atau uraian yang melukiskan sesuatu (hal, kejadian, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lukisan",
+  "related": [],
+  "detailed": false
+}

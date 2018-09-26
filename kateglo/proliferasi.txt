@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proliferasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "pembiakan yang subur;"
+      },
+      {
+        "type": "desc",
+        "text": "perbanyakan bentuk yang sama, terutama sel dan kista yang abnormal;"
+      },
+      {
+        "type": "desc",
+        "text": "pertumbuhan dan pertambahan sel yang sangat cepat (dalam keadaan abnormal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proliferasi",
+  "related": [],
+  "detailed": false
+}

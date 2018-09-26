@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persoalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbahasan; perdebatan; perbincangan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal-hal; perkara; masalah; problem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persoalan",
+  "related": [],
+  "detailed": false
+}

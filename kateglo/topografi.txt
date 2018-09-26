@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "topografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kajian atau penguraian yang terperinci tentang keadaan muka bumi pada suatu daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "pemetaan yang terperinci tentang muka bumi pada daerah tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan muka bumi pada suatu kawasan atau daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "uraian tentang suatu bagian tubuh sampai ke segala hal ihwal anatominya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=topografi",
+  "related": [],
+  "detailed": false
+}

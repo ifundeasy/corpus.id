@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bobot isi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat per satuan isi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobot%20isi",
+  "related": [],
+  "detailed": false
+}

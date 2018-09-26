@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "genre prosa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam sastra yang meliputi novel, roman, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genre%20prosa",
+  "related": [],
+  "detailed": false
+}

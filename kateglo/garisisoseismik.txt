@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis isoseismik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis yang menghubungkan titik intensitas gempa yang sama; garis lengkung tertutup di sekeliling episentrum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20isoseismik",
+  "related": [],
+  "detailed": false
+}

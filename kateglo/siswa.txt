@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "murid (terutama pada tingkat sekolah dasar dan menengah); pelajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siswa",
+  "related": [],
+  "detailed": false
+}

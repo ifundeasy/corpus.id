@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari pikiran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari%20pikiran",
+  "related": [],
+  "detailed": false
+}

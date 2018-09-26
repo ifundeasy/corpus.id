@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umban",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pengumban"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umban",
+  "related": [],
+  "detailed": false
+}

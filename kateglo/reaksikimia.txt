@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "reaksi kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan materi yang menyangkut struktur dalam molekul suatu zat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaksi%20kimia",
+  "related": [],
+  "detailed": false
+}

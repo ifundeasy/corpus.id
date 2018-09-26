@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parlementer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan (berhubungan, bersifat) parlemen; ada parlemennya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parlementer",
+  "related": [],
+  "detailed": false
+}

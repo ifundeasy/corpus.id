@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infanteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil) angkatan bersenjata yang termasuk dalam kesatuan pasukan berjalan kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infanteri",
+  "related": [],
+  "detailed": false
+}

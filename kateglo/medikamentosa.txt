@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medikamentosa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) berkenaan dengan obat-obatan dalam pengobatan atau perawatan penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medikamentosa",
+  "related": [],
+  "detailed": false
+}

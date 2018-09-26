@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beasiswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tunjangan yang diberikan kepada pelajar atau mahasiswa sebagai bantuan biaya belajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beasiswa",
+  "related": [],
+  "detailed": false
+}

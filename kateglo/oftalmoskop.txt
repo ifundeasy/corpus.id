@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oftalmoskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memeriksa bagian dalam mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oftalmoskop",
+  "related": [],
+  "detailed": false
+}

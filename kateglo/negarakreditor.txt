@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara kreditor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang memberikan pinjaman, biasanya berupa uang, kepada negara lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20kreditor",
+  "related": [],
+  "detailed": false
+}

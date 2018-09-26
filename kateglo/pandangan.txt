@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pandangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil perbuatan memandang (memperhatikan, melihat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "benda atau orang yang dipandang (disegani, dihormati, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandangan",
+  "related": [],
+  "detailed": false
+}

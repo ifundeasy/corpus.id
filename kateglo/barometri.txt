@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) studi tentang hal yang berhubungan dengan pengukuran tekanan atmosfer dan yang dititikberatkan pada hal-hal yang bersangkutan dengan koreksi berbagai barometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometri",
+  "related": [],
+  "detailed": false
+}

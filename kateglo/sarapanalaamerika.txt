@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarapan ala Amerika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makan pagi yang terdiri atas telur, roti, dan potongan daging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarapan%20ala%20Amerika",
+  "related": [],
+  "detailed": false
+}

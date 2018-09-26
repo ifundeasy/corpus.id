@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor yang diberikan polisi lalu lintas bagi kendaraan bermotor dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20polisi",
+  "related": [],
+  "detailed": false
+}

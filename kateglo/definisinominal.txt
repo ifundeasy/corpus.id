@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "definisi nominal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "definisi berupa makna kata dengan keterangan turunan dan pemakaian kata itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=definisi%20nominal",
+  "related": [],
+  "detailed": false
+}

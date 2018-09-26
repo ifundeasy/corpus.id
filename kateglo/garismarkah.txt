@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis markah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis tanda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20markah",
+  "related": [],
+  "detailed": false
+}

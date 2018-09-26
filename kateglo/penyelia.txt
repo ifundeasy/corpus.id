@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyelia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawas; supervisor;"
+      },
+      {
+        "type": "desc",
+        "text": "manajer yang bertanggung jawab atas pekerjaan karyawan secara tepat dan efisien sesuai dengan tugas yang ditentukan oleh atasannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyelia",
+  "related": [],
+  "detailed": false
+}

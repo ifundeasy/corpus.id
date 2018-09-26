@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran jarak, ada beberapa macam, seperti -- Belanda = 1.000 m, -- Jerman = 7.420 m, -- Inggris = 1.609 m; batu; pal;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) surat-surat pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mil",
+  "related": [],
+  "detailed": false
+}

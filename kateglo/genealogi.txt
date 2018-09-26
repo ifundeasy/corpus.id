@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genealogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis keturunan manusia dalam hubungan keluarga sedarah;"
+      },
+      {
+        "type": "desc",
+        "text": "garis pertumbuhan binatang (tumbuhan, bahasa, dsb) dari bentuk-bentuk sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genealogi",
+  "related": [],
+  "detailed": false
+}

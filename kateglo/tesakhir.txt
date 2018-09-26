@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tes yang diberikan setelah selesai pelaksanaan kegiatan belajar mengajar untuk mengetahui kemampuan siswa tentang bahan pelajaran yang diajarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20akhir",
+  "related": [],
+  "detailed": false
+}

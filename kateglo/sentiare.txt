@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentiare",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran luas 0,01 are (disingkat ca);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentiare",
+  "related": [],
+  "detailed": false
+}

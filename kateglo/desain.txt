@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerangka bentuk; rancangan;"
+      },
+      {
+        "type": "desc",
+        "text": "motif; pola; corak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desain",
+  "related": [],
+  "detailed": false
+}

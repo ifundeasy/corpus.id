@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kawasan berikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah tertentu yang terikat (terkena) peraturan khusus pabean;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawasan%20berikat",
+  "related": [],
+  "detailed": false
+}

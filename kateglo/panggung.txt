@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panggung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai (terbuat dari papan, bambu, dsb) yang diberi bertiang;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan yang agak tinggi, lantainya bertiang;"
+      },
+      {
+        "type": "desc",
+        "text": "lantai yang agak tinggi tempat bermain sandiwara, berpidato, dsb; pentas;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang agak tinggi (di stadion, gelanggang pacuan kuda, dsb) untuk menonton; tribune;"
+      },
+      {
+        "type": "link",
+        "text": "memanggung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panggung",
+  "related": [],
+  "detailed": false
+}

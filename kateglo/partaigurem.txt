@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai gurem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20gurem",
+  "related": [],
+  "detailed": false
+}

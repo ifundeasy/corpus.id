@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuantitatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan jumlah atau banyaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "berdasarkan bagian dari energi yang tidak dapat dibagi lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuantitatif",
+  "related": [],
+  "detailed": false
+}

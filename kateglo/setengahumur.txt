@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setengah umur",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "setengah tua (kira-kira berusia 35 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setengah%20umur",
+  "related": [],
+  "detailed": false
+}

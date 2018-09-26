@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "curahan golakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hidm) curahan yang ditimbulkan oleh gerak golakan dalam atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curahan%20golakan",
+  "related": [],
+  "detailed": false
+}

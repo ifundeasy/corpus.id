@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dahulu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(waktu) yang telah lalu; (masa) lampau;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih awal; paling depan;"
+      },
+      {
+        "type": "desc",
+        "text": "yang mula-mula (dikerjakan, diperbuat, dsb); dulu;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih awal; sebelum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dahulu",
+  "related": [],
+  "detailed": false
+}

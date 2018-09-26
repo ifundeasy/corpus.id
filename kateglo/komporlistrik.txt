@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kompor listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perapian yang menggunakan tenaga listrik sebagai pembangkit panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompor%20listrik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memfilter optik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Kim) medium (kaca, film, larutan) yang dapat meneruskan sinar dengan cara penyaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memfilter%20optik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metabolik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "metabolis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metabolik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kimia patologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang kimia tentang aspek kimia dari sifat penyakit, khususnya yang menyangkut perubahan fungsi (faali) dan struktur (morfologi) yang diakibatkan oleh penyakit itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia%20patologi",
+  "related": [],
+  "detailed": false
+}

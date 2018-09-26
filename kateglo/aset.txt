@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang mempunyai nilai tukar;"
+      },
+      {
+        "type": "desc",
+        "text": "modal; kekayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aset",
+  "related": [],
+  "detailed": false
+}

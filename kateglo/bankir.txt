@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bankir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengusahakan bank;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memperdagangkan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) orang yang menjadi penyokong dalam urusan keuangan; cukong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bankir",
+  "related": [],
+  "detailed": false
+}

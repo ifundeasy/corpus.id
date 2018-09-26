@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skalar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) besaran yang hanya memiliki ukuran dan tidak memiliki arah, seperti massa dan daya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skalar",
+  "related": [],
+  "detailed": false
+}

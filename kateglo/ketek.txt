@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "monyet; kera;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) ketiak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) kecil; sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "perahu bermotor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketek",
+  "related": [],
+  "detailed": false
+}

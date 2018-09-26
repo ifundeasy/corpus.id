@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuti di luar tanggungan negara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cuti yang diberikan kepada pegawai negeri atau karyawan untuk bepergian ke luar negeri atau melanjutkan studi dengan biaya sendiri selama 3 tahun (dapat diperpanjang 1 tahun), tidak mendapat gaji, dan masa kerja selama ia bercuti tidak dihitung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuti%20di%20luar%20tanggungan%20negara",
+  "related": [],
+  "detailed": false
+}

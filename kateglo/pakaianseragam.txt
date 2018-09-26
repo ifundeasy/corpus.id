@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian seragam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang warna dan potongannya sama dan dimiliki oleh lebih dari satu orang yang seprofesi atau seperkumpulan (seorganisasi), dsb (seperti pakaian pramuka, tentara, kelompok penari, pemain sepak bola, dan pelajar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20seragam",
+  "related": [],
+  "detailed": false
+}

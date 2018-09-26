@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masnawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jenis puisi asal Parsi, berirama dua-dua, dan berisi pujaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masnawi",
+  "related": [],
+  "detailed": false
+}

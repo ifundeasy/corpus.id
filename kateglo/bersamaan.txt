@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersamaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbarengan; bertepatan;"
+      },
+      {
+        "type": "desc",
+        "text": "sejenis; seragam; serupa;"
+      },
+      {
+        "type": "desc",
+        "text": "sejalan; sesuai;"
+      },
+      {
+        "type": "desc",
+        "text": "setara; sama; sebanding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersamaan",
+  "related": [],
+  "detailed": false
+}

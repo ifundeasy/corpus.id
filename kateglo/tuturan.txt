@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dituturkan; ucapan; ujaran (cerita) dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "cucuran atap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuturan",
+  "related": [],
+  "detailed": false
+}

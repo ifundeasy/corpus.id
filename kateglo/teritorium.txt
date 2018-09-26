@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teritorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teritorium",
+  "related": [],
+  "detailed": false
+}

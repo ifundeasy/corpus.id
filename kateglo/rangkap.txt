@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rangkap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merangkap"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua tiga helai melekat menjadi satu; lipat dua (tiga dsb); kembar; ganda;"
+      },
+      {
+        "type": "desc",
+        "text": "jodoh; pasangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rangkap",
+  "related": [],
+  "detailed": false
+}

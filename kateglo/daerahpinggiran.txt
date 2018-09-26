@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pinggiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang terletak di pinggir kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pinggiran",
+  "related": [],
+  "detailed": false
+}

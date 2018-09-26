@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "golongan obat yang tidak bersifat racun dan tidak mempunyai interaksi dengan bahan makanan sehingga dapat dibeli bebas (biasanya ditandai dengan warna lingkaran hijau dengan garis tepi hitam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20bebas",
+  "related": [],
+  "detailed": false
+}

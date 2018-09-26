@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfofonemik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "telaah tentang perubahan-perubahan fonem yang terjadi sebagai akibat pertemuan (hubungan) morfem dengan morfem lain; morfofonologi;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan fonem yang terjadi sebagai akibat pertemuan (hubungan) morfem dengan morfem lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfofonemik",
+  "related": [],
+  "detailed": false
+}

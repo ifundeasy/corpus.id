@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "tawanan;"
+      },
+      {
+        "type": "desc",
+        "text": "hamba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benduan",
+  "related": [],
+  "detailed": false
+}

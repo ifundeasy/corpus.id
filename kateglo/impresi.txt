@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "impresi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesan;"
+      },
+      {
+        "type": "desc",
+        "text": "efek pada indra;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) efek atau pengaruh yang dalam terhadap pikiran atau perasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) lekukan pada suatu struktur karena adanya tekanan struktur lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=impresi",
+  "related": [],
+  "detailed": false
+}

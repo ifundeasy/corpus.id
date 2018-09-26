@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bantuan humaniter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantuan langsung dan cepat untuk menghapus atau meringankan penderitaan karena situasi darurat yang akut, seperti bencana alam, musim kering, banjir, dan wabah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantuan%20humaniter",
+  "related": [],
+  "detailed": false
+}

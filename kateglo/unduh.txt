@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unduh",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengunduh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unduh",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagan organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organogram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita bergambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang diperjelas dengan gambar atau ilustrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20bergambar",
+  "related": [],
+  "detailed": false
+}

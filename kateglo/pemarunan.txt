@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemarunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memarun;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memarun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemarunan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tilik-menilik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling menilik;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menilik;"
+      },
+      {
+        "type": "desc",
+        "text": "saling menilik (menenung);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menilik (menenung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tilik-menilik",
+  "related": [],
+  "detailed": false
+}

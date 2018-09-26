@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagi",
+  "tags": {
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan tujuan; untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan perihal; akan (hal); tentang (hal); menurut (pendapat);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan dari sesuatu yang utuh; penggal; pecah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) suatu operasi aljabar yang biasa dinyatakan simbol titik dua (:) atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misal a:b = c (a dibagi b sama dengan c), berarti a = c x b;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "internis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter ahli penyakit dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=internis",
+  "related": [],
+  "detailed": false
+}

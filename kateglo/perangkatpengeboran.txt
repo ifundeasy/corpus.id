@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkat pengeboran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) unit pengebor minyak yang terdiri atas derek dan peralatan permukaan, kecuali unit daya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkat%20pengeboran",
+  "related": [],
+  "detailed": false
+}

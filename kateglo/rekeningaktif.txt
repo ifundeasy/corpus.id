@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekening aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) rekening bank yang sering kali bermutasi berupa penyetoran atau penarikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekening%20aktif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda tanya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (“) yang terdapat pada akhir kalimat tanya;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang memerlukan jawaban atau yang kebenarannya masih diragukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20tanya",
+  "related": [],
+  "detailed": false
+}

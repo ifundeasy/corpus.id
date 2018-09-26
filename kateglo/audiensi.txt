@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kunjungan kehormatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengunjung atau pendengar suatu ceramah dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rankine",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) satuan suhu pada skala mutlak yang menggunakan ukuran skala Fahrenheit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rankine",
+  "related": [],
+  "detailed": false
+}

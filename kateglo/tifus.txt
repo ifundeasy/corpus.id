@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tifus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit usus yang cepat menular (disertai demam dengan ruam-ruam pada tubuh dan gangguan atas kesadaran diri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tifus",
+  "related": [],
+  "detailed": false
+}

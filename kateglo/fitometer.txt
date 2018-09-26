@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fitometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang dapat digunakan untuk mengukur faktor fisik habitat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fitometer",
+  "related": [],
+  "detailed": false
+}

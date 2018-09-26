@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mercu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang tertinggi (paling atas); puncak;"
+      },
+      {
+        "type": "desc",
+        "text": "menara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mercu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "avifauna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai varietas burung dalam suatu kawasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=avifauna",
+  "related": [],
+  "detailed": false
+}

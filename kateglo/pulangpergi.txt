@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pulang pergi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "belum ada kepastian;"
+      },
+      {
+        "type": "desc",
+        "text": "pulang balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pulang%20pergi",
+  "related": [],
+  "detailed": false
+}

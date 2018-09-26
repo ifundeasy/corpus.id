@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taksonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klasifikasi bidang ilmu; kaidah dan prinsip yang meliputi pengklasifikasian objek;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang biologi yang menelaah penamaan, perincian, dan pengelompokan makhluk hidup berdasarkan persamaan dan pembedaan sifatnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) klasifikasi unsur bahasa menurut hubungan hierarkis; urutan satuan fonologis atau gramatikal yang dimungkinkan dalam satuan bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksonomi",
+  "related": [],
+  "detailed": false
+}

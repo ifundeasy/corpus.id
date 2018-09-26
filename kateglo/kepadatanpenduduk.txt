@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadatan penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah rata-rata penduduk per satu satuan luas tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadatan%20penduduk",
+  "related": [],
+  "detailed": false
+}

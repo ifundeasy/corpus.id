@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar kurs resmi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar harga jual-beli semua sekuritas yang ditawarkan di bursa sekuritas pada suatu hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20kurs%20resmi",
+  "related": [],
+  "detailed": false
+}

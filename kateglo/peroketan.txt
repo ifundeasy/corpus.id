@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peroketan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal roket;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan meroket;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peroketan",
+  "related": [],
+  "detailed": false
+}

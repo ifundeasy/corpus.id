@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "administrator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "direktur perusahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengurus; penata usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) pengusaha atau pembesar setempat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) orang yang mempunyai kemampuan memerintah yang sangat baik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) pemimpin di bidang pelaksanaan peraturan, prosedur, dan kebijakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=administrator",
+  "related": [],
+  "detailed": false
+}

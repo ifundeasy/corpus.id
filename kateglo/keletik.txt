@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keletik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi benda kecil yang jatuh ke lantai;"
+      },
+      {
+        "type": "link",
+        "text": "geletik"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat diairi (tentang sawah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keletik",
+  "related": [],
+  "detailed": false
+}

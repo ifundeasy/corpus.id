@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang pasang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) gerakan yang menggelembung pada permukaan laut dan menimbulkan gempuran dahsyat di tepi pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20pasang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam biologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian waktu kerja dan waktu istirahat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20biologis",
+  "related": [],
+  "detailed": false
+}

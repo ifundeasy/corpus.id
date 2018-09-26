@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "spektrum molekul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) spektrum yang memperlihatkan transisi antara tingkat energi elektronik, rotasi, dan vibrasi molekul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektrum%20molekul",
+  "related": [],
+  "detailed": false
+}

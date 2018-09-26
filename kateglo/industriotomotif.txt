@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri otomotif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang memproduksi barang yang menggunakan motor (seperti mobil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20otomotif",
+  "related": [],
+  "detailed": false
+}

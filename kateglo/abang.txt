@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kakak laki-laki; saudara laki-laki yang lebih tua;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada orang laki-laki yang lebih tua atau tidak dikenal;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan istri kepada suami;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan untuk penjual sayur, penjual ikan, pengemudi becak, dsb;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abang",
+  "related": [],
+  "detailed": false
+}

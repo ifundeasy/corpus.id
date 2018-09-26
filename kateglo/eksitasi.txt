@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangsangan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan terangsang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) penambahan tenaga pada suatu sistem yang mengalihkannya dari keadaan dasarnya ke suatu keadaan dengan tenaga yang lebih tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksitasi",
+  "related": [],
+  "detailed": false
+}

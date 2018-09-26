@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "berkaru"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengaru"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karu",
+  "related": [],
+  "detailed": false
+}

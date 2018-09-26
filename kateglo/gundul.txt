@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gundul",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berambut (tentang kepala);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ditumbuhi bulu atau bulu-bulunya telah rontok (tentang binatang);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ditumbuhi tanaman (tentang daerah, tanah);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berdaun (tentang pohon);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gundul",
+  "related": [],
+  "detailed": false
+}

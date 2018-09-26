@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yuk",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ukulele"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk mengajak; ayo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yuk",
+  "related": [],
+  "detailed": false
+}

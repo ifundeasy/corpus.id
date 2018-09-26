@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limpasan bawah permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limpasan yang meresap ke dalam tanah, tidak terus ke permukaan air tanah, tetapi mengalir di bawah permukaan menuju ke sungai sebagian mengalir dengan cepat ke sungai dan sebagian akan terlambat sampainya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limpasan%20bawah%20permukaan",
+  "related": [],
+  "detailed": false
+}

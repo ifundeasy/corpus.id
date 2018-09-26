@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "olahan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka bertingkah;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mengolah;"
+      },
+      {
+        "type": "desc",
+        "text": "tatanan mengolah siaran berita (radio, televisi) setelah pengambilan peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=olahan",
+  "related": [],
+  "detailed": false
+}

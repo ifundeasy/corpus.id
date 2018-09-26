@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tutur kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan (yang diucapkan); kata yang diujarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutur%20kata",
+  "related": [],
+  "detailed": false
+}

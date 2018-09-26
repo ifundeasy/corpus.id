@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bumbun",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "rimbun; rindang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "dangau tempat pemburu mengintai buruannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) timbunan padi, tanah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bumbun",
+  "related": [],
+  "detailed": false
+}

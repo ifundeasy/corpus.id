@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ke-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "yang mempunyai sifat atau ciri;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dituju dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "telah mengalami atau menderita keadaan atau kejadian (dengan tidak sengaja atau dengan tiba-tiba);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat atau sanggup;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat atau urutan;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ke-",
+  "related": [],
+  "detailed": false
+}

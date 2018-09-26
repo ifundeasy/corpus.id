@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengajak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta (menyilakan, menyuruh, dsb) supaya turut (datang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menantang (berkelahi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membangkitkan hati supaya melakukan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengajak",
+  "related": [],
+  "detailed": false
+}

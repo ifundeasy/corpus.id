@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pabrik roti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pabrik tempat membuat roti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pabrik%20roti",
+  "related": [],
+  "detailed": false
+}

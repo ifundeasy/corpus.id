@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang harian ganda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) pasang yang terjadi dua kali dalam sehari sehingga terjadi dua kali air tinggi dan dua kali air rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20harian%20ganda",
+  "related": [],
+  "detailed": false
+}

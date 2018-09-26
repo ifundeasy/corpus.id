@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyetel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutar untuk menyesuaikan jarum jam (tentang arloji);"
+      },
+      {
+        "type": "desc",
+        "text": "memasang (membunyikan) radio dengan menepatkan gelombangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "memasang (mengatur dsb) roda, mesin, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "mencocokkan supaya sesuai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyetel",
+  "related": [],
+  "detailed": false
+}

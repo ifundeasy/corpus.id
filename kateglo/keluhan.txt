@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang dikeluhkan; keluh kesah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluhan",
+  "related": [],
+  "detailed": false
+}

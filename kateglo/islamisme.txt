@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "islamisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajaran Islam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=islamisme",
+  "related": [],
+  "detailed": false
+}

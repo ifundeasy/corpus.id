@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecil hati",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "(merasa) tersinggung; marah;"
+      },
+      {
+        "type": "desc",
+        "text": "(merasa) tawar hatinya; kecewa;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang keberanian; takut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecil%20hati",
+  "related": [],
+  "detailed": false
+}

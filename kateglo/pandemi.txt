@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pandemi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wabah yang berjangkit serempak di mana-mana, meliputi daerah geografi yang luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandemi",
+  "related": [],
+  "detailed": false
+}

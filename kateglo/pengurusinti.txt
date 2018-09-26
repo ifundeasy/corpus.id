@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus inti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus tetap yang biasanya terdiri atas ketua, sekretaris, dan bendahara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20inti",
+  "related": [],
+  "detailed": false
+}

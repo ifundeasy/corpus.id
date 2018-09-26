@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gendang raya; beduk (dalam masjid, surau, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menabuh bunyi-bunyian (gamelan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi beduk sebagai alamat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabuh",
+  "related": [],
+  "detailed": false
+}

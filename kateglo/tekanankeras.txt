@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan keras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan yang paling keras dalam sistem empat tekanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20keras",
+  "related": [],
+  "detailed": false
+}

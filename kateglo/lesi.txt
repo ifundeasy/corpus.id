@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lesi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "putih benar;"
+      },
+      {
+        "type": "desc",
+        "text": "pucat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lesi",
+  "related": [],
+  "detailed": false
+}

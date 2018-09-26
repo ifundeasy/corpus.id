@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekerapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perulangan yang berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "frekuensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekerapan",
+  "related": [],
+  "detailed": false
+}

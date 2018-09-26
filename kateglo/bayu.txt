@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bayu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angin;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berubah rasa karena telah basi (tentang makanan, minuman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) hamba; sahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bayu",
+  "related": [],
+  "detailed": false
+}

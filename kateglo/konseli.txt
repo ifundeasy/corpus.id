@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konseli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membutuhkan nasihat (arahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konseli",
+  "related": [],
+  "detailed": false
+}

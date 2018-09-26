@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repetitor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membantu mahasiswa mempelajari lagi bahan-bahan pelajaran yang akan diujikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repetitor",
+  "related": [],
+  "detailed": false
+}

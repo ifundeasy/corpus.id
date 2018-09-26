@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapor masuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melapor kepada pramuhotel untuk masuk atau menginap di hotel bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapor%20masuk",
+  "related": [],
+  "detailed": false
+}

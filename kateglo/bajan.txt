@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bajan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat seperti kuali;"
+      },
+      {
+        "type": "desc",
+        "text": "penggoreng; wajan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bajan",
+  "related": [],
+  "detailed": false
+}

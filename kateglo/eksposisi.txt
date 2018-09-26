@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uraian (paparan) yang bertujuan menjelaskan maksud dan tujuan (misal suatu karangan);"
+      },
+      {
+        "type": "desc",
+        "text": "pameran (barang hasil industri, karya seni, kerajinan tangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) bagian awal karya sastra yang berisi keterangan tentang tokoh dan latar; paparan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksposisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komisaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditunjuk oleh anggota (pemegang saham dsb) untuk melakukan suatu tugas, terutama menjadi anggota pengurus perkumpulan, perusahaan perseroan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pejabat pemerintah yang ditunjuk dan ditugasi sebagai wakil pemerintah suatu negara menjadi anggota persatuan antarnegara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) petugas partai politik pada tingkatan desa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komisaris",
+  "related": [],
+  "detailed": false
+}

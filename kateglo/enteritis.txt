@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enteritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "radang usus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) penyakit hewan dengan gejala radang pada usus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enteritis",
+  "related": [],
+  "detailed": false
+}

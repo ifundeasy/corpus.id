@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gait",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggait"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gait",
+  "related": [],
+  "detailed": false
+}

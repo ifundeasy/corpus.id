@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tablet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat dalam bentuk butiran atau pipih; gentel (obat padat); pil;"
+      },
+      {
+        "type": "desc",
+        "text": "lempeng tanah liat;"
+      },
+      {
+        "type": "desc",
+        "text": "bidang papan kayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tablet",
+  "related": [],
+  "detailed": false
+}

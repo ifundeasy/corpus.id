@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "padam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mati (tentang api); tidak menyala atau tidak berkobar lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "reda (tentang kemarahan); tenang kembali (tentang hawa nafsu, berahi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "aman kembali (tentang huru hara, kerusuhan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi lemah (tentang semangat);"
+      },
+      {
+        "type": "link",
+        "text": "merah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koleksi rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koleksi buku yang tidak boleh dipinjam ke luar perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koleksi%20rujukan",
+  "related": [],
+  "detailed": false
+}

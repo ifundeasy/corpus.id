@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sayuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayur-mayur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayuran",
+  "related": [],
+  "detailed": false
+}

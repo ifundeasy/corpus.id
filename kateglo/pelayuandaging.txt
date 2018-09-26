@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayuan daging",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) penyimpanan daging segar selama dua sampai enam minggu pada suhu 34o sampai 38o F sebelum daging itu dijual kepada konsumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayuan%20daging",
+  "related": [],
+  "detailed": false
+}

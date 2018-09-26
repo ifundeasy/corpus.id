@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nota pengiriman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokumen yang berisi laporan penyerahan jumlah dan jenis barang kepada pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota%20pengiriman",
+  "related": [],
+  "detailed": false
+}

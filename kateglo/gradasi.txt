@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gradasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan derajat atau tingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat dalam peralihan suatu keadaan pada keadaan lain; tingkat perubahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) penyusutan dan perataan bumi yang disebabkan oleh peristiwa erosi, pengangkutan, dan pengendapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gradasi",
+  "related": [],
+  "detailed": false
+}

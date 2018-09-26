@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sasau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang pikir; sasar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyasau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasau",
+  "related": [],
+  "detailed": false
+}

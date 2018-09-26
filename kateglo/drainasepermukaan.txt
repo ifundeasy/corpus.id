@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "drainase permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengendalian air permukaan yang menggenangi permukaan tanah; pembuangan air dari permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=drainase%20permukaan",
+  "related": [],
+  "detailed": false
+}

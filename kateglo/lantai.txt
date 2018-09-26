@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian bawah (alas, dasar) suatu ruangan atau bangunan (terbuat dari papan, semen, ubin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tingkatan pada gedung bertingkat;"
+      },
+      {
+        "type": "desc",
+        "text": "geladak perahu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lantai",
+  "related": [],
+  "detailed": false
+}

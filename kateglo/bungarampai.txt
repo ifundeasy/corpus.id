@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga rampai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beberapa jenis bunga harum yang dicampur;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan karangan atau cerita pilihan; antologi;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan lagu pilihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20rampai",
+  "related": [],
+  "detailed": false
+}

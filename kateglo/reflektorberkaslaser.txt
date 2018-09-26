@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "reflektor berkas laser",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memantulkan berkas laser yang dipancarkan melalui teleskop di bumi untuk mengukur waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reflektor%20berkas%20laser",
+  "related": [],
+  "detailed": false
+}

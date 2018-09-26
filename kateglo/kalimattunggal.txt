@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang hanya terdiri atas satu klausa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20tunggal",
+  "related": [],
+  "detailed": false
+}

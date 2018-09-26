@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakalaureat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar akademis yang diberikan oleh perguruan tinggi kepada mahasiswa yang telah lulus ujian sarjana muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakalaureat",
+  "related": [],
+  "detailed": false
+}

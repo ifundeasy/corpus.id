@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkolasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkolasi",
+  "related": [],
+  "detailed": false
+}

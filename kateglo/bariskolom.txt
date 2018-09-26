@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baris kolom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deretan huruf yang menjorok ke dalam 5,5 titik lajur surat kabar dan iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baris%20kolom",
+  "related": [],
+  "detailed": false
+}

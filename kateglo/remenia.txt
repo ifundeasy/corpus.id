@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remenia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang buahnya enak dimakan, kayunya dibuat bahan rumah; Bouea burmanica;"
+      },
+      {
+        "type": "desc",
+        "text": "buah remenia;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu remenia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remenia",
+  "related": [],
+  "detailed": false
+}

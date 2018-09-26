@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat pemberitaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) tempat pengumpulan berita yang masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20pemberitaan",
+  "related": [],
+  "detailed": false
+}

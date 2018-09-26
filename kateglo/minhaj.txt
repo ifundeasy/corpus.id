@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minhaj",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "cara; metode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minhaj",
+  "related": [],
+  "detailed": false
+}

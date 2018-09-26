@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kondisi ekonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan baik atau lancar dan tersendatnya perjalanan ekonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondisi%20ekonomi",
+  "related": [],
+  "detailed": false
+}

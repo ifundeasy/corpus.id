@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang belum mendalami keahlian pada jenis penyakit tertentu (bukan spesialis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20umum",
+  "related": [],
+  "detailed": false
+}

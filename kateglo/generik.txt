@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "generik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "umum; lazim;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan kekhasan sifat yang dimiliki oleh suatu kelompok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generik",
+  "related": [],
+  "detailed": false
+}

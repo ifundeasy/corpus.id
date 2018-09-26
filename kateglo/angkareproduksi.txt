@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka reproduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) banyaknya bayi perempuan yang akan menggantikan ibunya dalam satu generasi pada masa yang akan datang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20reproduksi",
+  "related": [],
+  "detailed": false
+}

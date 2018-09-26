@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konstituen terdekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "konstituen langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstituen%20terdekat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subunit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari kesatuan;"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi kerja di bawah unit; bagian unit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subunit",
+  "related": [],
+  "detailed": false
+}

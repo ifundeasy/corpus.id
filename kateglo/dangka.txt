@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dangka",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "berdangka"
+      },
+      {
+        "type": "link",
+        "text": "terdangka-dangka"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dangka",
+  "related": [],
+  "detailed": false
+}

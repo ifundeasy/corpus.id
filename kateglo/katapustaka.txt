@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata pustaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang hanya dipakai dalam gaya kesusastraan, misal kata gerangan, sudilah kiranya, seraya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20pustaka",
+  "related": [],
+  "detailed": false
+}

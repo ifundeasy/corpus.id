@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penangkis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menangkis;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menangkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penangkis",
+  "related": [],
+  "detailed": false
+}

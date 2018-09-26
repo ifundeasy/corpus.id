@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muntah darah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan darah dari mulut (karena sakit dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muntah%20darah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan menengah kejuruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan yang mengutamakan pengembangan kemampuan peserta didik untuk melaksanakan jenis pekerjaan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk satuan pendidikan menengah yang diselenggarakan untuk melanjutkan dan meluaskan pendidikan dasar serta mempersiapkan siswa untuk memasuki lapangan kerja dan mengembangkan sikap profesional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20menengah%20kejuruan",
+  "related": [],
+  "detailed": false
+}

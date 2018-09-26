@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periferi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas luar lingkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "batas luar suatu permukaan rata;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan sekitar suatu benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periferi",
+  "related": [],
+  "detailed": false
+}

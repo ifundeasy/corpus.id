@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkapalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kapal; yang berkaitan dengan kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan kapal; armada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkapalan",
+  "related": [],
+  "detailed": false
+}

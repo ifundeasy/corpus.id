@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "curah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya air dsb yang turun (tercurah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curah",
+  "related": [],
+  "detailed": false
+}

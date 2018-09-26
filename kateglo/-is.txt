@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "-is",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bergerak atau ahli dalam (insani);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-is",
+  "related": [],
+  "detailed": false
+}

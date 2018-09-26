@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membuang obat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuang tembakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membuang%20obat",
+  "related": [],
+  "detailed": false
+}

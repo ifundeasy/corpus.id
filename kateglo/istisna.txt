@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "istisna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengecualian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istisna",
+  "related": [],
+  "detailed": false
+}

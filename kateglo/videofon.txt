@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "videofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon berkamera yang mempunyai layar kaca sehingga dapat melihat lawan bicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=videofon",
+  "related": [],
+  "detailed": false
+}

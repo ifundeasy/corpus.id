@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah borongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upah yang dibayarkan kepada karyawan bukan atas dasar satuan waktu (hari, minggu, bulan) melainkan atas dasar satuan barang (tugas) yang harus dikerjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20borongan",
+  "related": [],
+  "detailed": false
+}

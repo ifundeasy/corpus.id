@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu sein",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu isyarat pada kendaraan (untuk belok atau berhenti dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20sein",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bumpet",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek; kecil;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tersumbat; tertutup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bumpet",
+  "related": [],
+  "detailed": false
+}

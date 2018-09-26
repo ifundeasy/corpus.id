@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memeras;"
+      },
+      {
+        "type": "desc",
+        "text": "perkakas untuk memeras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeras",
+  "related": [],
+  "detailed": false
+}

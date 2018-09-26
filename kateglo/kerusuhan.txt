@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerusuhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal rusuh (tidak aman); keributan; kekacauan; huru-hara;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal rusuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerusuhan",
+  "related": [],
+  "detailed": false
+}

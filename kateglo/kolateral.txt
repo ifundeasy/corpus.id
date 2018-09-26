@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolateral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sejalan; berdampingan; sejajar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) mempunyai asal-usul yang sama atau berasal dari satu keturunan (tentang garis kefamilian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolateral",
+  "related": [],
+  "detailed": false
+}

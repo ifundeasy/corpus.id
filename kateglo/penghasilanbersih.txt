@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penghasilan bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluruh penghasilan setelah dikurangi biaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghasilan%20bersih",
+  "related": [],
+  "detailed": false
+}

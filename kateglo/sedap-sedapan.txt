@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sedap-sedapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan (penganan) yang enak-enak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedap-sedapan",
+  "related": [],
+  "detailed": false
+}

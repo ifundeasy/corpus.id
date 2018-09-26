@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hubungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan berhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "kontak;"
+      },
+      {
+        "type": "desc",
+        "text": "sangkut-paut;"
+      },
+      {
+        "type": "desc",
+        "text": "ikatan; pertalian (keluarga, persahabatan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hubungan",
+  "related": [],
+  "detailed": false
+}

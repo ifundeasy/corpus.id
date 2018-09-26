@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal terbang; mesin terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "balon besar yang dapat dikemudikan, bentuknya seperti cerutu, mula-mula ditemukan oleh Zeppelin (1859—1917);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20terbang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggundulan hutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembabatan habis hutan di suatu kawasan yang bukan bersifat sementara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggundulan%20hutan",
+  "related": [],
+  "detailed": false
+}

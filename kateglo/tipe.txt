@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tipe",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "model; contoh; corak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe",
+  "related": [],
+  "detailed": false
+}

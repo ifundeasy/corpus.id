@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dandan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "mengenakan pakaian dan hiasan serta alat-alat rias;"
+      },
+      {
+        "type": "desc",
+        "text": "memperbaiki; menjadikan baik (rapi);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggung tambahan pada geladak perahu (untuk berbagai-bagai maksud);"
+      },
+      {
+        "type": "desc",
+        "text": "tali yang besar;"
+      },
+      {
+        "type": "desc",
+        "text": "kabel;"
+      },
+      {
+        "type": "desc",
+        "text": "merampas milik seseorang dengan kekerasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dandan",
+  "related": [],
+  "detailed": false
+}

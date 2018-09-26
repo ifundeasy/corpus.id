@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempoh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhenti (tidak bekerja lagi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengaso; beristirahat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tidak masuk kerja (bersekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) libur; vakansi (waktu --, hari --);"
+      },
+      {
+        "type": "desc",
+        "text": "bervakansi; berlibur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempoh",
+  "related": [],
+  "detailed": false
+}

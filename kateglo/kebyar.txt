@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kebyar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "link",
+        "text": "berkebyaran"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tari Bali yang dilakukan secara tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebyar",
+  "related": [],
+  "detailed": false
+}

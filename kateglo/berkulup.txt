@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkulup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kulup; ada kulupnya;"
+      },
+      {
+        "type": "desc",
+        "text": "belum (tidak) dikhitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkulup",
+  "related": [],
+  "detailed": false
+}

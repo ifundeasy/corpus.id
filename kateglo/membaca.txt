@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membaca",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat serta memahami isi dari apa yang tertulis (dengan melisankan atau hanya dalam hati);"
+      },
+      {
+        "type": "desc",
+        "text": "mengeja atau melafalkan apa yang tertulis;"
+      },
+      {
+        "type": "desc",
+        "text": "mengucapkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengetahui; meramalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memperhitungkan; memahami;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membaca",
+  "related": [],
+  "detailed": false
+}

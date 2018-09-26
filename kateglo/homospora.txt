@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homospora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot) yang memiliki hanya satu macam spora;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homospora",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mimpi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang terlihat atau dialami dalam tidur;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) angan-angan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mimpi",
+  "related": [],
+  "detailed": false
+}

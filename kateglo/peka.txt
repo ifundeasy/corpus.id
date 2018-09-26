@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah merasa; mudah terangsang;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah bergerak (tentang neraca peralatan mekanis);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lalai;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah menerima atau meneruskan pengaruh (cuaca dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peka",
+  "related": [],
+  "detailed": false
+}

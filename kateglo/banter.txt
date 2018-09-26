@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banter",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat; keras (dalam keadaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi (tentang harga);"
+      },
+      {
+        "type": "desc",
+        "text": "lekas; cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "lama; lambat (tentang waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak (tentang jumlah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banter",
+  "related": [],
+  "detailed": false
+}

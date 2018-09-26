@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mediastinum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) sekat dada di bagian tengah rongga dada yang memisahkan paru-paru kiri dan kanan; selaput paru-paru tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mediastinum",
+  "related": [],
+  "detailed": false
+}

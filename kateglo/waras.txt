@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "waras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sembuh jasmani; sehat;"
+      },
+      {
+        "type": "desc",
+        "text": "sehat rohani (mental, ingatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waras",
+  "related": [],
+  "detailed": false
+}

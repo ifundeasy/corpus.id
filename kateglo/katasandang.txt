@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata sandang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "artikel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20sandang",
+  "related": [],
+  "detailed": false
+}

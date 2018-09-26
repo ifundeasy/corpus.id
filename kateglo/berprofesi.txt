@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berprofesi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai profesi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berprofesi",
+  "related": [],
+  "detailed": false
+}

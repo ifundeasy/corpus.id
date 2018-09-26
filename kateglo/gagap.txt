@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gagap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gangguan bicara (kesalahan dalam ucapan dengan mengulang-ulang bunyi, suku kata, atau kata);"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) kelainan wicara berupa pengulangan konsonan dan suku kata secara spasmodis, disebabkan oleh gangguan psikofisiologis dan lebih banyak terjadi pada pria;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggagap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagap",
+  "related": [],
+  "detailed": false
+}

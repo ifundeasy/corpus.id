@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takbir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "seruan atau ucapan Allahu Akbar 'Allah Mahabesar';"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) penyingkapan; takwil (biasanya tentang mimpi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takbir",
+  "related": [],
+  "detailed": false
+}

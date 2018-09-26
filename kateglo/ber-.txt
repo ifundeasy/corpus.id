@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ber-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "mempunyai;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan atau memakai;"
+      },
+      {
+        "type": "desc",
+        "text": "menghasilkan;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam jumlah atau kelipatan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengakui dan/atau memanggil sebagai;"
+      },
+      {
+        "type": "desc",
+        "text": "bertindak atau bekerja sebagai;"
+      },
+      {
+        "type": "desc",
+        "text": "berada dalam keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan perbuatan timbal-balik;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan perbuatan mengenai diri sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ber-",
+  "related": [],
+  "detailed": false
+}

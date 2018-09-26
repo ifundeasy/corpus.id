@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takaful",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjaminan;"
+      },
+      {
+        "type": "desc",
+        "text": "asuransi berdasarkan syariat Islam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takaful",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersisir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "merapikan rambut dengan sisir;"
+      },
+      {
+        "type": "desc",
+        "text": "memakai sisir;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah disisir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersisir",
+  "related": [],
+  "detailed": false
+}

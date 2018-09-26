@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "edukasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(perihal) pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edukasi",
+  "related": [],
+  "detailed": false
+}

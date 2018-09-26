@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tambahan di luar yang resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat; luar biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstra",
+  "related": [],
+  "detailed": false
+}

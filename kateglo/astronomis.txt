@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "astronomis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat astronomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=astronomis",
+  "related": [],
+  "detailed": false
+}

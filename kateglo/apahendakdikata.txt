@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "apa hendak dikata",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "tidak ada lagi yang dapat dikatakan (diperbuat) karena semuanya sudah terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apa%20hendak%20dikata",
+  "related": [],
+  "detailed": false
+}

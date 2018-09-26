@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "wilayah kekuasaan lembaga keagamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bulatan; lingkungan (daerah);"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk melakukan konsentrasi selama bersemadi, berbentuk lukisan di atas kain atau lukisan di atas tanah yang digambari dengan taburan beras berwarna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandala",
+  "related": [],
+  "detailed": false
+}

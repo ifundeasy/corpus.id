@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf miring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang letaknya miring, tetapi tidak menyerupai tulisan tangan seperti pada kursif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20miring",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sandi suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata rahasia atau bunyi khusus yang digunakan untuk menjawab panggilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandi%20suara",
+  "related": [],
+  "detailed": false
+}

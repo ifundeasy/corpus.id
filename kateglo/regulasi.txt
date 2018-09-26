@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengaturan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regulasi",
+  "related": [],
+  "detailed": false
+}

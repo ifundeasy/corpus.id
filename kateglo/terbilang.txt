@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbilang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat dihitung;"
+      },
+      {
+        "type": "desc",
+        "text": "termasuk dalam hitungan (golongan, lingkungan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terpandang; terkemuka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbilang",
+  "related": [],
+  "detailed": false
+}

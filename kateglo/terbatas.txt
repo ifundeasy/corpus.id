@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbatas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "telah dibatasi (ditentukan batas-batasnya); tertentu (tidak boleh lebih);"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit; tidak luas; tidak leluasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbatas",
+  "related": [],
+  "detailed": false
+}

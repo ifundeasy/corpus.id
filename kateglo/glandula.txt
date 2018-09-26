@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "glandula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kelenjar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=glandula",
+  "related": [],
+  "detailed": false
+}

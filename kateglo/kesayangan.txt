@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesayangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cinta kasih;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kesukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang, binatang, dsb yang sangat disayang;"
+      },
+      {
+        "type": "desc",
+        "text": "kekasih;"
+      },
+      {
+        "type": "desc",
+        "text": "perasaan menyesal (tidak rela, tidak ikhlas, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesayangan",
+  "related": [],
+  "detailed": false
+}

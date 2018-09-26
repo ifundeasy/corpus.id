@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "condong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miring (tentang barang yang tegak);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergeser dari titik kulminasi (tentang matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "cenderung (kepada); memihak (kepada); suka atau tertarik hatinya (kepada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=condong",
+  "related": [],
+  "detailed": false
+}

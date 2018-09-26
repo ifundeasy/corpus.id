@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengeblog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membuat blog; bloger;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengeblog",
+  "related": [],
+  "detailed": false
+}

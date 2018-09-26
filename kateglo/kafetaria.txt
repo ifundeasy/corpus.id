@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kafetaria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "restoran yang menyajikan aneka masakan, makanan, dan minuman di gerai dengan sistem swalayan bagi para pengunjung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kafetaria",
+  "related": [],
+  "detailed": false
+}

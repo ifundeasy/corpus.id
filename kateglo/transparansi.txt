@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transparansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tembus cahaya; nyata; jelas;"
+      },
+      {
+        "type": "desc",
+        "text": "barang (plastik dsb) yang tembus cahaya yang dipakai untuk menayangkan tulisan (gambar) pada layar proyektor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transparansi",
+  "related": [],
+  "detailed": false
+}

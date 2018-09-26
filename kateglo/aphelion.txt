@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aphelion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron) titik pada garis edar suatu planet yang terjauh dari matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aphelion",
+  "related": [],
+  "detailed": false
+}

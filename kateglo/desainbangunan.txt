@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "desain bangunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerangka bentuk suatu bangunan (rumah, taman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "motif bangunan; pola bangunan; corak bangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desain%20bangunan",
+  "related": [],
+  "detailed": false
+}

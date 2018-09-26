@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tebar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertebaran"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tebar layar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebar",
+  "related": [],
+  "detailed": false
+}

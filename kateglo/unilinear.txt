@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unilinear",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengikuti satu garis arah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unilinear",
+  "related": [],
+  "detailed": false
+}

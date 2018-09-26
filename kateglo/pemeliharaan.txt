@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeliharaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memelihara(kan); penjagaan; perawatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendidikan, peternakan (tentang binatang);"
+      },
+      {
+        "type": "desc",
+        "text": "penyelamatan; penghindaran (dari bahaya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penjagaan harta kekayaan, terutama alat produksi tahan lama dalam perusahaan agar tetap dalam kondisi yang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeliharaan",
+  "related": [],
+  "detailed": false
+}

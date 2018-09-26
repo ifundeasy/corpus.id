@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perikatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertalian; perhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "perserikatan; persekutuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perikatan",
+  "related": [],
+  "detailed": false
+}

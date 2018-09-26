@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penolok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran (timbangan) yang dipakai sebagai patokan (standar);"
+      },
+      {
+        "type": "desc",
+        "text": "imbangan (yang sama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penolok",
+  "related": [],
+  "detailed": false
+}

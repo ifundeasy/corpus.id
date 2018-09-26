@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teguran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajakan bercakap-cakap; sapaan;"
+      },
+      {
+        "type": "desc",
+        "text": "celaan; kritik; ajaran (sentilan, jeweran);"
+      },
+      {
+        "type": "desc",
+        "text": "peringatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teguran",
+  "related": [],
+  "detailed": false
+}

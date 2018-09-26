@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peremasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang yang dibuat dari emas;"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan emas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peremasan",
+  "related": [],
+  "detailed": false
+}

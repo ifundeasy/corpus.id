@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prakarya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan tangan (pelatihan di sekolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakarya",
+  "related": [],
+  "detailed": false
+}

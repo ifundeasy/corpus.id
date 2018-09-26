@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ranah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah rata; dataran rendah; lembah;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang berpaya-paya;"
+      },
+      {
+        "type": "desc",
+        "text": "elemen atau unsur yang dibatasi; bidang disiplin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) lingkungan yang memungkinkan terjadinya percakapan, merupakan kombinasi antara partisipan, topik, dan tempat (misal keluarga, pendidikan, tempat kerja, keagamaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) bagian (satuan) perilaku manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ranah",
+  "related": [],
+  "detailed": false
+}

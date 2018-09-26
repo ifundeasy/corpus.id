@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tegangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan yang diakibatkan oleh tarikan;"
+      },
+      {
+        "type": "desc",
+        "text": "gaya pada tali atau batang yang menunjang beban atau yang disebabkan oleh rentangan antara dua titik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) ketidakpastian yang berkelanjutan atau suasana yang makin mendebarkan yang diakibatkan oleh jalinan alur dalam cerita rekaan atau lakon;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) keadaan mencekam sebagai akibat perasaan khawatir, terhambat, frustrasi, atau terlalu bergelora;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) arus (aliran) listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tegangan",
+  "related": [],
+  "detailed": false
+}

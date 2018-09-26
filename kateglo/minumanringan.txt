@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minuman ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman yang tidak mengandung alkohol, misal teh botol, teh kotak, gula asam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minuman%20ringan",
+  "related": [],
+  "detailed": false
+}

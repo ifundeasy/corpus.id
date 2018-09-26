@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dsb); banjir;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dsb) biasa dipakai pada permulaan kalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bt) kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bah",
+  "related": [],
+  "detailed": false
+}

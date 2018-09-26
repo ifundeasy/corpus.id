@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putusan pengadilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) pernyataan hakim dalam sidang pengadilan yang dapat berupa pemidanaan, putusan bebas, atau lepas dari segala tuntutan hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putusan%20pengadilan",
+  "related": [],
+  "detailed": false
+}

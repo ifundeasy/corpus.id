@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "integrasi kelompok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr) penyesuaian perbedaan tingkah laku warga suatu kelompok bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=integrasi%20kelompok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumber",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat keluar (air atau zat cair); sumur;"
+      },
+      {
+        "type": "desc",
+        "text": "asal (dalam berbagai arti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber",
+  "related": [],
+  "detailed": false
+}

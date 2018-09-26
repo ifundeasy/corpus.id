@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengutil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengutil;"
+      },
+      {
+        "type": "desc",
+        "text": "pencopet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengutil",
+  "related": [],
+  "detailed": false
+}

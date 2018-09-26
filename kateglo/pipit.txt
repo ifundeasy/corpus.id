@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pipit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung kecil (banyak macamnya seperti -- rumah, -- uban);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian serunai dsb yang dikulum apabila hendak meniupnya;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memipit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pipit",
+  "related": [],
+  "detailed": false
+}

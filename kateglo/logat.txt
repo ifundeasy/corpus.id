@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata (dalam arti yang sebenarnya);"
+      },
+      {
+        "type": "desc",
+        "text": "dialek;"
+      },
+      {
+        "type": "desc",
+        "text": "cara mengucapkan kata (aksen) atau lekuk lidah yang khas;"
+      },
+      {
+        "type": "desc",
+        "text": "perbendaharaan kata;"
+      },
+      {
+        "type": "desc",
+        "text": "kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logat",
+  "related": [],
+  "detailed": false
+}

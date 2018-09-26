@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahir mati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kematian yang terjadi pada bayi yang dilahirkan (cukup masanya dalam kandungan) tanpa ada tanda-tanda kehidupan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahir%20mati",
+  "related": [],
+  "detailed": false
+}

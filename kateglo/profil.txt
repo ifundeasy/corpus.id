@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "profil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pandangan dari samping (tentang wajah orang);"
+      },
+      {
+        "type": "desc",
+        "text": "lukisan (gambar) orang dari samping; sketsa biografis;"
+      },
+      {
+        "type": "desc",
+        "text": "penampang (tanah, gunung, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "grafik atau ikhtisar yang memberikan fakta tentang hal-hal khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=profil",
+  "related": [],
+  "detailed": false
+}

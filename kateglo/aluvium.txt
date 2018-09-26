@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aluvium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "zaman geologi yang paling muda dari zaman kuarter atau zaman geologi yang sekarang;"
+      },
+      {
+        "type": "desc",
+        "text": "lempung, pasir halus, pasir, kerikil, atau butir batuan lain yang terendapkan oleh air mengalir (banjir, arus sungai, arus laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aluvium",
+  "related": [],
+  "detailed": false
+}

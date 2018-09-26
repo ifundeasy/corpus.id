@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vulgata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) versi resmi Alkitab dalam bahasa Latin untuk gereja Katolik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vulgata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "halaman belakang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) halaman terakhir surat kabar dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halaman%20belakang",
+  "related": [],
+  "detailed": false
+}

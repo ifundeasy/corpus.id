@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghisab",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung; membilang;"
+      },
+      {
+        "type": "desc",
+        "text": "memeriksa;"
+      },
+      {
+        "type": "desc",
+        "text": "memedulikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghisab",
+  "related": [],
+  "detailed": false
+}

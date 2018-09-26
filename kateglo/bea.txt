@@ -1,0 +1,57 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bea",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak; cukai;"
+      },
+      {
+        "type": "desc",
+        "text": "biaya; ongkos;"
+      },
+      {
+        "type": "desc",
+        "text": "-- ekspor;"
+      },
+      {
+        "type": "desc",
+        "text": "-- emisi;"
+      },
+      {
+        "type": "desc",
+        "text": "-- impor;"
+      },
+      {
+        "type": "desc",
+        "text": "-- keluar;"
+      },
+      {
+        "type": "desc",
+        "text": "-- masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "-- meterai;"
+      },
+      {
+        "type": "desc",
+        "text": "-- pelabuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "-- retribusi;"
+      },
+      {
+        "type": "desc",
+        "text": "-- warisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bea",
+  "related": [],
+  "detailed": false
+}

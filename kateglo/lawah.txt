@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lawah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka luas (tentang pemandangan); lantang; banglas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "lawah-lawah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawah",
+  "related": [],
+  "detailed": false
+}

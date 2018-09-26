@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurva",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis lengkung;"
+      },
+      {
+        "type": "desc",
+        "text": "grafik yang menggambarkan variabel (misal yang memperlihatkan perkembangan) yang dipengaruhi oleh keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "garis yang terdiri atas persambungan titik-titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva",
+  "related": [],
+  "detailed": false
+}

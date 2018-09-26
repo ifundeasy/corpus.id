@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "kelas petinju yang berat badannya di atas 8l kg;"
+      },
+      {
+        "type": "desc",
+        "text": "kelas atau golongan yang sukar ditandingi (diatasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20berat",
+  "related": [],
+  "detailed": false
+}

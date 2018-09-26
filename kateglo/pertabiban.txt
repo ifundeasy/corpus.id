@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertabiban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bertabib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertabiban",
+  "related": [],
+  "detailed": false
+}

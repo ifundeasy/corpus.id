@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuplet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bait sajak (nyanyian) yang terdiri atas dua baris atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuplet",
+  "related": [],
+  "detailed": false
+}

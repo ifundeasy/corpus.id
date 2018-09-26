@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "torek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit telinga bernanah yang menyebabkan tuli;"
+      },
+      {
+        "type": "desc",
+        "text": "tuli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=torek",
+  "related": [],
+  "detailed": false
+}

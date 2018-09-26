@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyuluh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menerangi (dengan suluh);"
+      },
+      {
+        "type": "desc",
+        "text": "mencari ikan (lebah dsb) dengan suluh;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) mencari keterangan; menyelidiki; memata-matai;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi petunjuk, penjelasan, penggunaan, dsb (tentang bahasa, hukum, dsb) dalam waktu tertentu, dan diakhiri dengan tes;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyuluh",
+  "related": [],
+  "detailed": false
+}

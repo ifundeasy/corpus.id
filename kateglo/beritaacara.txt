@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan laporan yang dibuat (oleh polisi) mengenai waktu terjadi, tempat, keterangan, dan petunjuk lain tentang suatu perkara atau peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20acara",
+  "related": [],
+  "detailed": false
+}

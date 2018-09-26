@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "publisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli dalam bidang publikasi;"
+      },
+      {
+        "type": "desc",
+        "text": "penyiar berita; wartawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=publisis",
+  "related": [],
+  "detailed": false
+}

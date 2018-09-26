@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moratorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penangguhan pembayaran utang didasarkan pada undang-undang agar dapat mencegah krisis keuangan yang semakin hebat;"
+      },
+      {
+        "type": "desc",
+        "text": "penundaan; penangguhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moratorium",
+  "related": [],
+  "detailed": false
+}

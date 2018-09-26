@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meramal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat nasib orang dengan membuka ramal;"
+      },
+      {
+        "type": "desc",
+        "text": "menduga; menelaah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meramal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri berat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang seluruhnya menggunakan tenaga mesin berukuran besar, seperti pabrik besi dan baja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20berat",
+  "related": [],
+  "detailed": false
+}

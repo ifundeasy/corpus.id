@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dolar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang, seperti Amerika Serikat, Hongkong, Australia, Singapura (lihat lampiran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dolar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bentuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lengkung; lentur;"
+      },
+      {
+        "type": "desc",
+        "text": "bangun; gambaran;"
+      },
+      {
+        "type": "desc",
+        "text": "rupa; wujud;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem; susunan (pemerintahan, perserikatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "wujud yang ditampilkan (tampak);"
+      },
+      {
+        "type": "desc",
+        "text": "acuan atau susunan kalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi benda yang berkeluk (cincin, gelang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk",
+  "related": [],
+  "detailed": false
+}

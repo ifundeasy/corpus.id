@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarang picisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang yang menulis sesuatu untuk majalah, roman, novel picisan, dengan penuh sensasi (misal kejahatan, petualangan, atau kekejaman);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarang%20picisan",
+  "related": [],
+  "detailed": false
+}

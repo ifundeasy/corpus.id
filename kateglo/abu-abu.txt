@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abu-abu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna antara hitam dan putih (serupa dengan warna abu kayu bakar); kelabu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna abu;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Neothunnus rarua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abu-abu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang secara potensial dapat berdiri sendiri dalam suatu bangun kalimat, misal saya, duduk, kursi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20bebas",
+  "related": [],
+  "detailed": false
+}

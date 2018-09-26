@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang muatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap)"
+      },
+      {
+        "type": "desc",
+        "text": "ruang di kapal untuk menampung muatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tangki untuk menampung muatan cair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20muatan",
+  "related": [],
+  "detailed": false
+}

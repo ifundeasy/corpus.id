@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjuta-juta",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "beberapa juta;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) banyak sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjuta-juta",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "volt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan potensial listrik yang diperlukan untuk mengalirkan satu ampere arus listrik melalui rintangan satu ohm;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan potensial motor listrik (diberikan menurut nama penemunya Allessandro Volta, orang Italia, hidup tahun 1745—1827);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=volt",
+  "related": [],
+  "detailed": false
+}

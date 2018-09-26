@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita bergambar (dalam majalah, surat kabar, atau berbentuk buku) yang umumnya mudah dicerna dan lucu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komik",
+  "related": [],
+  "detailed": false
+}

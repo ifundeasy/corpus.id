@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lunak dan halus (tidak keras); lemas (tidak kaku); lemah (mudah dilentuk);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak keras atau tidak nyaring (tentang suara, bunyi);"
+      },
+      {
+        "type": "desc",
+        "text": "baik hati (halus budi bahasanya); tidak bengis; tidak pemarah;"
+      },
+      {
+        "type": "desc",
+        "text": "kecil sekali; sangat kecil (halus);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) halus dan enak didengar; tidak kasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembut",
+  "related": [],
+  "detailed": false
+}

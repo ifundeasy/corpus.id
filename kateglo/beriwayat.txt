@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beriwayat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengemukakan riwayat; bercerita;"
+      },
+      {
+        "type": "desc",
+        "text": "ada riwayatnya; mengandung sejarah; bersejarah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) sangat penting; sangat berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beriwayat",
+  "related": [],
+  "detailed": false
+}

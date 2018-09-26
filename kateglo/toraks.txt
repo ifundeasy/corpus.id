@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toraks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "dada;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) bagian kedua atau bagian di belakang kepala pada tubuh serangga yang terdapat tiga pasang kaki dan satu atau dua pasang sayap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toraks",
+  "related": [],
+  "detailed": false
+}

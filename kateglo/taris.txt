@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lantai (dari plester, semen, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "ikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taris",
+  "related": [],
+  "detailed": false
+}

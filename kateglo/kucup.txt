@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kucup",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kecup"
+      },
+      {
+        "type": "link",
+        "text": "mengucup"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kucup",
+  "related": [],
+  "detailed": false
+}

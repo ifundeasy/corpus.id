@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan melintas;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan yang dilintasi atau dilalui;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penyeberangan; pelintasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) tempat kedudukan titik-titik yang dilewati zarah atau sistem zarah yang bergerak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) daerah sepanjang kolam renang yang dibatasi dengan tali sebagai pemisah dari lintasan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintasan",
+  "related": [],
+  "detailed": false
+}

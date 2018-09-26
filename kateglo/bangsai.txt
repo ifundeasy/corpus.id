@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangsai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rapuh dan buruk; lapuk (tentang kayu); busuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kurus kering (tentang badan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bernas (tentang padi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangsai",
+  "related": [],
+  "detailed": false
+}

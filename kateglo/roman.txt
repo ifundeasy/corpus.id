@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "roman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rupa muka; wajah;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan prosa yang melukiskan perbuatan pelakunya menurut watak dan isi jiwa masing-masing;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) (cerita) percintaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sekam (padi); tangkai padi (merang);"
+      },
+      {
+        "type": "desc",
+        "text": "lihat huruf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mabuk darah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa pening karena melihat darah;"
+      },
+      {
+        "type": "desc",
+        "text": "jatuh pingsan karena banyak mengeluarkan darah;"
+      },
+      {
+        "type": "desc",
+        "text": "mengamuk karena telah melihat darah;"
+      },
+      {
+        "type": "desc",
+        "text": "suka membunuh orang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mabuk%20darah",
+  "related": [],
+  "detailed": false
+}

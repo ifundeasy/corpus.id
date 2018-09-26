@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju katak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jas berlengan pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20katak",
+  "related": [],
+  "detailed": false
+}

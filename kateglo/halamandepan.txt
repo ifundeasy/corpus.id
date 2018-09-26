@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "halaman depan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "halaman permukaan sebuah buku sebelum bab pertama;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman pertama surat kabar dsb yang memuat berita penting atau utama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halaman%20depan",
+  "related": [],
+  "detailed": false
+}

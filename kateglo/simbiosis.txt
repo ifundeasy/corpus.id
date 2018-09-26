@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simbiosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan yang menguntungkan pada pembentuk dua jenis zat, apabila kedua zat tersebut dapat bersama-sama dalam lingkungan serupa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) keadaan hidup bersama secara erat antara dua organisme yang berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simbiosis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak menjalankan pekerjaan (tugas) lagi (sebagai pegawai, pekerja, tentara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonaktif",
+  "related": [],
+  "detailed": false
+}

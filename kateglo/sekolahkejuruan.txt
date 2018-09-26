@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah kejuruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah tempat belajar bidang tertentu, seperti ekonomi, pertanian, dan teknik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20kejuruan",
+  "related": [],
+  "detailed": false
+}

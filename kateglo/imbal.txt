@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imbal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miring ke satu pihak; bengot (tidak bundar benar);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak seimbang; berat sebelah; pincang (tidak seba-gaimana mestinya);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "imbal balik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imbal",
+  "related": [],
+  "detailed": false
+}

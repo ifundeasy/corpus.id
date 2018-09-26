@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis roi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang menentukan batas jalan umum atau batas tanah yang di atasnya dapat atau tidak dapat didirikan bangunan; garis cadang; sempadan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20roi",
+  "related": [],
+  "detailed": false
+}

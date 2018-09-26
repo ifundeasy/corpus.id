@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pilis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat tradisional (berwarna agak hitam) yang dipaliskan atau dilekatkan di dahi dan di pelipis (untuk sakit kepala, wanita yg baru melahirkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "garis silang di dahi untukmenangkal penyakit (berdasarkan kepercayaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pilis",
+  "related": [],
+  "detailed": false
+}

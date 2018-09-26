@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis isosintagmis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) isoglos pada peta bahasa yang membatasi wilayah dengan ciri-ciri sintaksis yang serupa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20isosintagmis",
+  "related": [],
+  "detailed": false
+}

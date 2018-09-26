@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limpasan permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limpasan yang masuk ke sungai dari permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limpasan%20permukaan",
+  "related": [],
+  "detailed": false
+}

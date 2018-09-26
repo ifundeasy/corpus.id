@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "carik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cabik; robek;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "helai (penggolong untuk surat, kertas);"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) juru tulis kepala desa; kerani;"
+      },
+      {
+        "type": "link",
+        "text": "carik duwe"
+      },
+      {
+        "type": "link",
+        "text": "carik pecatu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=carik",
+  "related": [],
+  "detailed": false
+}

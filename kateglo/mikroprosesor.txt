@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikroprosesor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) pengolah elektronika yang dibuat di dalam satu cip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikroprosesor",
+  "related": [],
+  "detailed": false
+}

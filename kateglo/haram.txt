@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlarang (oleh agama Islam); tidak halal;"
+      },
+      {
+        "type": "desc",
+        "text": "suci; terpelihara; terlindung;"
+      },
+      {
+        "type": "desc",
+        "text": "sama sekali tidak; sungguh-sungguh tidak;"
+      },
+      {
+        "type": "desc",
+        "text": "terlarang oleh undang-undang; tidak sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haram",
+  "related": [],
+  "detailed": false
+}

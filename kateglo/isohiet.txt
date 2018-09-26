@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isohiet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) garis pada peta yang menghubungkan tempat yang mempunyai jumlah curah hujan yang sama dalam satu periode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isohiet",
+  "related": [],
+  "detailed": false
+}

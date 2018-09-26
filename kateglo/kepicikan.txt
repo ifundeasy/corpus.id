@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepicikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekurangan (tentang pengetahuan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kekurangan (uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal tidak luas atau lebar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepicikan",
+  "related": [],
+  "detailed": false
+}

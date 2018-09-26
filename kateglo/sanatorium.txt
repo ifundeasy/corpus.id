@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanatorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang juga berfungsi sebagai tempat merawat penderita penyakit paru-paru dengan kombinasi penyembuhan diet dan senam yang ketat;"
+      },
+      {
+        "type": "desc",
+        "text": "peristirahatan untuk menyembuhkan orang yang berpenyakit tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penyembuhan orang yang berpenyakit kronis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanatorium",
+  "related": [],
+  "detailed": false
+}

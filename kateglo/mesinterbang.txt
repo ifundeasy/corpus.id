@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal terbang; pesawat udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20terbang",
+  "related": [],
+  "detailed": false
+}

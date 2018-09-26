@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kinesimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menyelidiki permukaan tubuh untuk mengetes kepekaan kulit;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur banyaknya (kuantitas) gerakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kinesimeter",
+  "related": [],
+  "detailed": false
+}

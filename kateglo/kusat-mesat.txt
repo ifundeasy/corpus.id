@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kusat-mesat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) sangat kusut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kusat-mesat",
+  "related": [],
+  "detailed": false
+}

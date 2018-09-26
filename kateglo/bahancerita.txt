@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan cerita",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat disusun menjadi sebuah cerita, kisah, atau dongeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20cerita",
+  "related": [],
+  "detailed": false
+}

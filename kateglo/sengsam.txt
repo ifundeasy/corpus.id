@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengsam",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tersengsam"
+      },
+      {
+        "type": "link",
+        "text": "sengsem"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengsam",
+  "related": [],
+  "detailed": false
+}

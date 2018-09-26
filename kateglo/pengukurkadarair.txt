@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengukur kadar air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk mengukur kadar air suatu bahan atau suatu hasil pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengukur%20kadar%20air",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiovisual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat dapat didengar dan dilihat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat peraga bersifat dapat didengar dan dilihat, seperti film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiovisual",
+  "related": [],
+  "detailed": false
+}

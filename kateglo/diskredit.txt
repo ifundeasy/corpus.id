@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskredit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mendiskreditkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskredit",
+  "related": [],
+  "detailed": false
+}

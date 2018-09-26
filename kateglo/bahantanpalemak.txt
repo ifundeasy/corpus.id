@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan tanpa lemak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan kering dari air susu setelah diambil lemaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20tanpa%20lemak",
+  "related": [],
+  "detailed": false
+}

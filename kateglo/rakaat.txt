@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rakaat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari salat (satu kali berdiri, satu kali rukuk, dan dua kali sujud);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rakaat",
+  "related": [],
+  "detailed": false
+}

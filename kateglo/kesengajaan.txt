@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesengajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (perbuatan) sengaja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesengajaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyewa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai (meminjam, menampung dsb) dengan membayar uang sewa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyewa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vital",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat penting (untuk kehidupan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vital",
+  "related": [],
+  "detailed": false
+}

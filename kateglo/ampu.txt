@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengampu"
+      },
+      {
+        "type": "link",
+        "text": "empu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampu",
+  "related": [],
+  "detailed": false
+}

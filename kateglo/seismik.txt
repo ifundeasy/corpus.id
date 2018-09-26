@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seismik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan (bertalian) dengan gempa bumi; garis --; peta --;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seismik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang khusus untuk mengangkut surat pos dan benda pos lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20pos",
+  "related": [],
+  "detailed": false
+}

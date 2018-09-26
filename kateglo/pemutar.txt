@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemutar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memutar;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memutar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemutar",
+  "related": [],
+  "detailed": false
+}

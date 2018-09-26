@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang perbani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasang yang terjadi pada saat kedudukan bulan tegak lurus terhadap matahari; pasang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20perbani",
+  "related": [],
+  "detailed": false
+}

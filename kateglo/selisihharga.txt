@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selisih harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) selisih yang berasal dari perubahan harga bahan atau tenaga kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selisih%20harga",
+  "related": [],
+  "detailed": false
+}

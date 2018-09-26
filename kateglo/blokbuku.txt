@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "blok buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "setumpuk kuras dalam urutan yang merupakan seluruh isi buku, dijilid bersama atau terpisah dengan sampulnya;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian sisi buku berupa halaman atau kuras yang telah disusun berurut dan dijahit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blok%20buku",
+  "related": [],
+  "detailed": false
+}

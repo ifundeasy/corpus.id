@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbuku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai buku;"
+      },
+      {
+        "type": "desc",
+        "text": "berbongkah (bergumpal) kecil-kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbuku",
+  "related": [],
+  "detailed": false
+}

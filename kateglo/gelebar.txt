@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelebar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tergelebar"
+      },
+      {
+        "type": "link",
+        "text": "tergelebar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelebar",
+  "related": [],
+  "detailed": false
+}

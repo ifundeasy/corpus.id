@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak angket",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak DPR untuk mengadakan penyelidikan tentang ketidakberesan di dalam lembaga pemerintah atau tentang tindakan-tindakan para anggota dewan tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20angket",
+  "related": [],
+  "detailed": false
+}

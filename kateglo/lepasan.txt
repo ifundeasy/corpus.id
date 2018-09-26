@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lepasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang telah dilepas(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "tamatan atau lulusan (sekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bekas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepasan",
+  "related": [],
+  "detailed": false
+}

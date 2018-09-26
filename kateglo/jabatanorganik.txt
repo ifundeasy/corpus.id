@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jabatan organik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan yang telah ditetapkan dalam peraturan gaji yang berlaku dan termasuk formasi yang telah ditentukan oleh jawatan yang bersangkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jabatan%20organik",
+  "related": [],
+  "detailed": false
+}

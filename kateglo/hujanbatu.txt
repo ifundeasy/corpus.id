@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hujan batu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyak batu yang berjatuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "hujan es;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hujan%20batu",
+  "related": [],
+  "detailed": false
+}

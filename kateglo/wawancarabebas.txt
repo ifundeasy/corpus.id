@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wawancara bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara yang susunan pertanyaannya tidak ditentukan lebih dahulu dan pembicaraannya bergantung kepada suasana wawancara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara%20bebas",
+  "related": [],
+  "detailed": false
+}

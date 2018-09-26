@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jangkir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "jari kaki burung yang paling belakang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "jongkar-jangkir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangkir",
+  "related": [],
+  "detailed": false
+}

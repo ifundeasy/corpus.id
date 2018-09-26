@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cabutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu (benda) yang sudah dicabut;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil mencabut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cabutan",
+  "related": [],
+  "detailed": false
+}

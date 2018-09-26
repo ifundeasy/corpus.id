@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontrak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjanjian (secara tertulis) antara dua pihak dalam perdagangan, sewa-menyewa, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "persetujuan yang bersanksi hukum antara dua pihak atau lebih untuk melakukan atau tidak melakukan kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontrak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yudikatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan fungsi dan pelaksanaan lembaga peradilan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan badan yang bertugas mengadili perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yudikatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perlus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "teperlus"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlus",
+  "related": [],
+  "detailed": false
+}

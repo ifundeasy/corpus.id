@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelodar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggelodar"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keruh berlumpur (tentang air);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelodar",
+  "related": [],
+  "detailed": false
+}

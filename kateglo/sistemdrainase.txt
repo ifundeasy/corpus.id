@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem drainase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem pengarusan (agar air tergenang segera lenyap dengan cara meresap ke tanah atau mengalir melalui saluran); sistem penyaliran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20drainase",
+  "related": [],
+  "detailed": false
+}

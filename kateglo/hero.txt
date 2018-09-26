@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hero",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dihormati karena keberanian (pribadi yang mulia dsb); pahlawan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dikagumi karena kecakapan, prestasi, atau karena sebagai idola;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) tokoh utama dalam novel, puisi, dsb yang mampu menimbulkan rasa simpati pembaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hero",
+  "related": [],
+  "detailed": false
+}

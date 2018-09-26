@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 500 gr;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) hari ke-3 pasaran Jawa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pon",
+  "related": [],
+  "detailed": false
+}

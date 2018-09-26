@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sahifah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "lembaran yang bertulis; surat;"
+      },
+      {
+        "type": "desc",
+        "text": "dokumen;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman (buku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sahifah",
+  "related": [],
+  "detailed": false
+}

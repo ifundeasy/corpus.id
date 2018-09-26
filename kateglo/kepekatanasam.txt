@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepekatan asam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) persentase kandungan asam dalam cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepekatan%20asam",
+  "related": [],
+  "detailed": false
+}

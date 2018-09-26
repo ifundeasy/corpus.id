@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Indonesia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama negara kepulauan di Asia Tenggara yang terletak di antara benua Asia dan benua Australia;"
+      },
+      {
+        "type": "desc",
+        "text": "bangsa, budaya, bahasa yang ada di negara Indonesia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Indonesia",
+  "related": [],
+  "detailed": false
+}

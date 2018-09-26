@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aeromovel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta api yang dijalankan dengan tenaga magnet di bagian bawahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aeromovel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang berada di bank berupa tabungan, deposito, dan rekening dalam valuta asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kuasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adegan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemunculan tokoh baru atau pergantian susunan (layar) pada pertunjukan wayang;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian babak dalam lakon (sandiwara film);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adegan",
+  "related": [],
+  "detailed": false
+}

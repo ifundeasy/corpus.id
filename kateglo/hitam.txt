@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hitam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna dasar yang serupa dengan warna arang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna arang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitam",
+  "related": [],
+  "detailed": false
+}

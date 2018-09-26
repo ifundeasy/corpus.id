@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) cerita dari zaman dahulu yang hidup di kalangan rakyat dan diwariskan secara lisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20rakyat",
+  "related": [],
+  "detailed": false
+}

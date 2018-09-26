@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "X",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-24 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "lambang bilangan sepuluh angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "(dengan huruf kapital bergaris atas) lambang bilangan 10.000 angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "pengganti nama orang atau sesuatu yang tidak (belum) diketahui nama sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "pengganti nama orang yang sedang dibicarakan walaupun nama orang tersebut sudah diketahui (untuk menjaga nama baiknya);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) kesatuan yang tidak (belum) diketahui; bilangan khayal;"
+      },
+      {
+        "type": "link",
+        "text": "sinar X"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=X",
+  "related": [],
+  "detailed": false
+}

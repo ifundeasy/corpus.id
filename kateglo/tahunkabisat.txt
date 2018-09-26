@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun kabisat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun yang lamanya 366 hari (karena bulan Februari 29 hari), terjadi empat tahun sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20kabisat",
+  "related": [],
+  "detailed": false
+}

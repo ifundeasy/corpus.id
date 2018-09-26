@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air gravitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air yang masuk atau keluar dari tanah karena pengaruh kekuatan gaya tarik bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20gravitasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpucuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar pucuknya;"
+      },
+      {
+        "type": "desc",
+        "text": "ada pucuknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpucuk",
+  "related": [],
+  "detailed": false
+}

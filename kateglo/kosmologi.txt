@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosmologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu (cabang astronomi yang menyelidiki asal-usul, struktur, dan hubungan ruang waktu dari alam semesta;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang asal-usul kejadian bumi, hubungannya dengan sistem matahari, serta hubungan sistem matahari dengan jagat raya;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu (cabang dari metafisika) yang menyelidiki alam semesta sebagai sistem yang beraturan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmologi",
+  "related": [],
+  "detailed": false
+}

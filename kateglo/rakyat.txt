@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk suatu negara;"
+      },
+      {
+        "type": "desc",
+        "text": "orang kebanyakan; orang biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pasukan (balatentara);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) anak buah; bawahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rakyat",
+  "related": [],
+  "detailed": false
+}

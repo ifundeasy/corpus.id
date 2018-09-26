@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sutradara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi pengarahan dan bertanggung jawab atas masalah artistik dan teknis dalam pementasan drama, pembuatan film, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sutradara",
+  "related": [],
+  "detailed": false
+}

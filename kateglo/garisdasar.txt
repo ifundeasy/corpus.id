@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis alas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20dasar",
+  "related": [],
+  "detailed": false
+}

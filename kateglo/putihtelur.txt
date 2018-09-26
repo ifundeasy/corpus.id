@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putih telur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian telur yang putih warnanya;"
+      },
+      {
+        "type": "desc",
+        "text": "albumen (zat yang susunan isinya sebagai protein);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putih%20telur",
+  "related": [],
+  "detailed": false
+}

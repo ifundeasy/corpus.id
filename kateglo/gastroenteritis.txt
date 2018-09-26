@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gastroenteritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang pada lambung dan usus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gastroenteritis",
+  "related": [],
+  "detailed": false
+}

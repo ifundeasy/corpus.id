@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akuisisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perolehan; pemerolehan;"
+      },
+      {
+        "type": "desc",
+        "text": "masukan (tentang data komputer);"
+      },
+      {
+        "type": "desc",
+        "text": "pemindahan kepemilikan perusahaan atau aset (dalam industri perbankan terjadi apabila pembelian saham di atas 50%); pengambilalihan kepemilikan perusahaan atau aset;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) cara memperbesar perusahaan dengan cara memiliki perusahaan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuisisi",
+  "related": [],
+  "detailed": false
+}

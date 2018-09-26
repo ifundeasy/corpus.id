@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersenyawa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terpadu (menjadi satu zat, satu arti, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersenyawa",
+  "related": [],
+  "detailed": false
+}

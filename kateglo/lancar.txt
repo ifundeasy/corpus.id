@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lancar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tersangkut-sangkut; tidak terputus-putus;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tersendat-sendat; fasih;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tertunda-tunda; (berlangsung) dengan baik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "pelancar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lancar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian untuk paduan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantata",
+  "related": [],
+  "detailed": false
+}

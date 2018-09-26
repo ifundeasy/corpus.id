@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandiwara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan lakon atau cerita (yang dimainkan oleh orang); drama; teater; tonil;"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan drama (teater, tonil);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kejadian (politik dsb) yang hanya dipertunjukkan untuk mengelabui mata, tidak sungguh-sungguh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandiwara",
+  "related": [],
+  "detailed": false
+}

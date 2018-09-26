@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembantah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyangkal;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang membantah;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka membantah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembantah",
+  "related": [],
+  "detailed": false
+}

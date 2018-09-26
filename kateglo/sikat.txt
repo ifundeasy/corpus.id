@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembersih yang dibuat dari bulu (ijuk, serabut, dsb) diberi berdasar dan berpegangan (bermacam-macam rupanya);"
+      },
+      {
+        "type": "desc",
+        "text": "sisir rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian (pisang) yang tumbuh dalam satu sisir (bagian dari tandan);"
+      },
+      {
+        "type": "desc",
+        "text": "penggaruk untuk menggemburkan tanah sesudah dibajak atau dicangkul; garu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ki) rampas;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) makan sampai habis-habisan;"
+      },
+      {
+        "type": "link",
+        "text": "pohon"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sikat",
+  "related": [],
+  "detailed": false
+}

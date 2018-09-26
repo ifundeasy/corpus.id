@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ziarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kunjungan ke tempat yang dianggap keramat atau mulia (makam dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berziarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ziarah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absorpsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyerapan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) daya jaringan untuk menyerap benda-benda lain dari luar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) hilangnya zat energi atau foton ke dalam suatu bahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absorpsi",
+  "related": [],
+  "detailed": false
+}

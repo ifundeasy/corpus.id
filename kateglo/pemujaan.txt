@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemujaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memuja;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat memuja (seperti kuil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemujaan",
+  "related": [],
+  "detailed": false
+}

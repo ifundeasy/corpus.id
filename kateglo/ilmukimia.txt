@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang unsur dan ciri-ciri zat, serta reaksi yang menyebabkan timbulnya zat-zat baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20kimia",
+  "related": [],
+  "detailed": false
+}

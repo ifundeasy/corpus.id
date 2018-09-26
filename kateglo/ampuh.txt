@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai kekuatan gaib yang luar biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "manjur; mujarab;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai daya pengaruh yang luar biasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) banjir; bah; sebak;"
+      },
+      {
+        "type": "link",
+        "text": "pengampuh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampuh",
+  "related": [],
+  "detailed": false
+}

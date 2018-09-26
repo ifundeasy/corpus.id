@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aransemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "penyesuaian komposisi musik dengan nomor suara penyanyi atau instrumen lain yang didasarkan pada sebuah komposisi yang telah ada sehingga esensi musiknya tidak berubah;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha yang dilakukan terhadap sebuah karya musik untuk suatu pergelaran yang pengerjaannya bukan sekadar perluasan teknis, tetapi juga menyangkut pencapaian nilai artistik yang dikandungnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aransemen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cocok tanam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengusahakan sawah ladang (tanam-tanaman); bertani;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknologi untuk menggarap tanah dan tanaman sampai menghasilkan (panen) untuk keperluan hidup manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cocok%20tanam",
+  "related": [],
+  "detailed": false
+}

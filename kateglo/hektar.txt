@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hektar",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "hektare"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hektar",
+  "related": [],
+  "detailed": false
+}

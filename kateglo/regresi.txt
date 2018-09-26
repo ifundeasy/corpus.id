@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regresi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(urutan dsb) mundur; urutan berbalik ke belakang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) penyusutan luas (air) laut yang disebabkan oleh faktor tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) proses berbalik ke tahap perkembangan perilaku sebelumnya yang dialami orang karena frustasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Hid) hubungan rata-rata antara variabel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regresi",
+  "related": [],
+  "detailed": false
+}

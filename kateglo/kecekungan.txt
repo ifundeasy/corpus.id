@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecekungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cekung;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu cekung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecekungan",
+  "related": [],
+  "detailed": false
+}

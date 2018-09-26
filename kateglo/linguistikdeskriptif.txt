@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "linguistik deskriptif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bidang linguistik yang menyelidiki sistem bahasa pada waktu tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "pendekatan linguistik dengan mempergunakan teknik penelitian lapangan dan tata istilah yang sesuai untuk bahasa yang diselidiki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=linguistik%20deskriptif",
+  "related": [],
+  "detailed": false
+}

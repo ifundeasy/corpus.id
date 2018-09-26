@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berobat jalan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berobat tanpa dirawat di rumah sakit (klinik dsb), tetapi menjalani pengobatan secara teratur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berobat%20jalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelembapan mutlak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah massa uap air yang ada dalam suatu satuan volume di udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelembapan%20mutlak",
+  "related": [],
+  "detailed": false
+}

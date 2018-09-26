@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kancing baju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20baju",
+  "related": [],
+  "detailed": false
+}

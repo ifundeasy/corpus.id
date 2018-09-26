@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "me-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "menjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "berfungsi sebagai atau menyerupai;"
+      },
+      {
+        "type": "desc",
+        "text": "makan atau minum;"
+      },
+      {
+        "type": "desc",
+        "text": "menuju;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari atau mengumpulkan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "menimbulkan kesan seperti seseorang atau sesuatu yang;"
+      },
+      {
+        "type": "desc",
+        "text": "dasar verba;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat; menghasilkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=me-",
+  "related": [],
+  "detailed": false
+}

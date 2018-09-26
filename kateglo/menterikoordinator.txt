@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menteri Koordinator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "Menteri Negara yang mengoordinasi kerja beberapa departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menteri%20Koordinator",
+  "related": [],
+  "detailed": false
+}

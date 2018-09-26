@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "propfan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis mesin pesawat terbang berbaling-baling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=propfan",
+  "related": [],
+  "detailed": false
+}

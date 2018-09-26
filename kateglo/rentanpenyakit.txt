@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rentan penyakit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah terkena penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentan%20penyakit",
+  "related": [],
+  "detailed": false
+}

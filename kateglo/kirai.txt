@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kirai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengirai"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur; carik (yang paling panjang);"
+      },
+      {
+        "type": "desc",
+        "text": "pohon nipah, daunnya dapat dibuat atap; Metroxylon rumphii;"
+      },
+      {
+        "type": "desc",
+        "text": "daun kirai;"
+      },
+      {
+        "type": "desc",
+        "text": "cerai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kirai",
+  "related": [],
+  "detailed": false
+}

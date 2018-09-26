@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zona",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salah satu dari lima bagian besar permukaan bumi yang dibatasi oleh garis khayal di sekeliling bumi, sejajar dengan khatulistiwa (satu zona tropik, dua zona sedang, dan dua zona kutub); jalur iklim;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang ditandai dengan kehidupan jenis binatang atau tumbuhan tertentu yang juga ditentukan oleh kondisi tertentu di sekitarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah (dalam kota) dengan pembatasan khusus; kawasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zona",
+  "related": [],
+  "detailed": false
+}

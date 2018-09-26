@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomina predikatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nomina atau pronomina yang berfungsi sebagai predikat, misal guru dalam Simon menjadi guru, dan dia dalam itu dia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomina%20predikatif",
+  "related": [],
+  "detailed": false
+}

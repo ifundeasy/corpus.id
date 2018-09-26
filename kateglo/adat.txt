@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aturan (perbuatan dsb) yang lazim diturut atau dilakukan sejak dahulu kala;"
+      },
+      {
+        "type": "desc",
+        "text": "cara (kelakuan dsb) yang sudah menjadi kebiasaan; kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "wujud gagasan kebudayaan yang terdiri atas nilai-nilai budaya, norma, hukum, dan aturan yang satu dengan lainnya berkaitan menjadi suatu sistem;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) cukai menurut peraturan yang berlaku (di pelabuhan dsb);"
+      },
+      {
+        "type": "link",
+        "text": "mengadat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberhasilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) berhasil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberhasilan",
+  "related": [],
+  "detailed": false
+}

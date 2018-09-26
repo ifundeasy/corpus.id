@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang dapat ditangkap oleh indra pencium (seperti anyir, harum, busuk);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada baunya; mengeluarkan bau;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran luas tanah 7.096 m2 atau 500 tombak persegi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bau",
+  "related": [],
+  "detailed": false
+}

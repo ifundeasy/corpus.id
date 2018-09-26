@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan nonformal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segenap bentuk pelatihan yang diberikan secara terorganisasi di luar pendidikan formal, misal kursus keterampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20nonformal",
+  "related": [],
+  "detailed": false
+}

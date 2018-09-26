@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian hamil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian wanita yang biasanya dipakai pada waktu hamil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20hamil",
+  "related": [],
+  "detailed": false
+}

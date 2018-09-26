@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "depresi utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) depresi induk, tempat terjadinya beberapa depresi lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depresi%20utama",
+  "related": [],
+  "detailed": false
+}

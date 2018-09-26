@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang digunakan untuk menghiasi gedung (jalan, kota, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "barang dagangan yang dipamerkan di etalase;"
+      },
+      {
+        "type": "desc",
+        "text": "pelaminan; puadai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajangan",
+  "related": [],
+  "detailed": false
+}

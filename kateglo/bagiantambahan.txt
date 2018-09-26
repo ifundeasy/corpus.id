@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian tambahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian karangan yang pada umumnya terdiri atas daftar pustaka, lampiran, indeks, dan riwayat hidup pengarang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian%20tambahan",
+  "related": [],
+  "detailed": false
+}

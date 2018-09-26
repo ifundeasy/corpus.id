@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "desc",
+        "text": "lembap; tidak kering benar;"
+      },
+      {
+        "type": "desc",
+        "text": "kumal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demek",
+  "related": [],
+  "detailed": false
+}

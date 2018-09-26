@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siap potong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kondisi ternak yang sudah menggambarkan perlemakan pada bagian-bagian tubuh tertentu sehingga ternak tersebut siap dipotong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siap%20potong",
+  "related": [],
+  "detailed": false
+}

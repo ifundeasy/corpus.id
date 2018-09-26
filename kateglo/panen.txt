@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemungutan (pemetikan) hasil sawah atau ladang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) beroleh keuntungan atau rezeki (dengan mudah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panen",
+  "related": [],
+  "detailed": false
+}

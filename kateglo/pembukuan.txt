@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembukuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencatatan dalam buku;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) proses pemindahan transaksi dari jurnal ke buku besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembukuan",
+  "related": [],
+  "detailed": false
+}

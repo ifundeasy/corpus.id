@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intens",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hebat atau sangat kuat (tentang kekuatan, efek, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi (tentang mutu);"
+      },
+      {
+        "type": "desc",
+        "text": "bergelora, penuh semangat, berapi-api, berkobar-kobar (tentang perasaan);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat emosional (tentang orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intens",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyambut lembu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membeli lembu dengan janji akan dibayar kemudian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyambut%20lembu",
+  "related": [],
+  "detailed": false
+}

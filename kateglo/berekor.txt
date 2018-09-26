@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berekor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada ekornya;"
+      },
+      {
+        "type": "desc",
+        "text": "berturut-turut memanjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berkelanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berekor",
+  "related": [],
+  "detailed": false
+}

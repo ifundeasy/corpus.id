@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkiraan; persangkaan;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kira-kira; lebih kurang; barang (dalam arti lebih kurang);"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agak",
+  "related": [],
+  "detailed": false
+}

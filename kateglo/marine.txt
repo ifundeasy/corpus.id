@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marine",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan laut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "angkatan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marine",
+  "related": [],
+  "detailed": false
+}

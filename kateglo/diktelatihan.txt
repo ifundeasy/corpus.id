@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dikte latihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dikte untuk belajar menulis tepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dikte%20latihan",
+  "related": [],
+  "detailed": false
+}

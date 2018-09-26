@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ukuran pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) penetapan berat ringannya hukuman oleh hakim dalam batas maksimum dan minimum yang ditentukan oleh undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ukuran%20pidana",
+  "related": [],
+  "detailed": false
+}

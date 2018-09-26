@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "algoritme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prosedur sistematis untuk memecahkan masalah matematis dalam langkah-langkah terbatas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) urutan logis pengambilan keputusan untuk pemecahan masalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=algoritme",
+  "related": [],
+  "detailed": false
+}

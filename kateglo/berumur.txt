@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berumur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai umur;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(sudah) dewasa; (sudah) agak tua (lebih dari 40 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berumur",
+  "related": [],
+  "detailed": false
+}

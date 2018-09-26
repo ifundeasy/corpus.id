@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rangkung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merangkung"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "rangkungan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rangkung",
+  "related": [],
+  "detailed": false
+}

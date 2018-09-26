@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "julang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjulang"
+      },
+      {
+        "type": "link",
+        "text": "julang hulu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=julang",
+  "related": [],
+  "detailed": false
+}

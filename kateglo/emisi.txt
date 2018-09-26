@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pancaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) pemancaran cahaya, panas, atau elektron dari suatu permukaan benda padat atau cair; pemancaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) pengeluaran (surat berharga seperti saham, obligasi) oleh perusahaan pada saat perusahaan yang bersangkutan memerlukan tambahan modal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Keu) pengeluaran mata uang logam atau kertas oleh bank sentral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emisi",
+  "related": [],
+  "detailed": false
+}

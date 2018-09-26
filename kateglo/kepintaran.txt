@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepintaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepandaian; kecakapan;"
+      },
+      {
+        "type": "desc",
+        "text": "kecerdikan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemahiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepintaran",
+  "related": [],
+  "detailed": false
+}

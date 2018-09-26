@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desentralisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem pemerintahan yang lebih banyak memberikan kekuasaan kepada pemerintah daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "penyerahan sebagian wewenang pimpinan kepada bawahan (atau pusat kepada cabang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desentralisasi",
+  "related": [],
+  "detailed": false
+}

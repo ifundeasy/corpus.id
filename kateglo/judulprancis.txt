@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "judul prancis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halaman buku yang terletak di bagian kanan sebelum halaman judul utama yang hanya memuat judul buku saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=judul%20prancis",
+  "related": [],
+  "detailed": false
+}

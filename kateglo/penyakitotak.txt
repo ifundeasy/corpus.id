@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit otak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sakit ingatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20otak",
+  "related": [],
+  "detailed": false
+}

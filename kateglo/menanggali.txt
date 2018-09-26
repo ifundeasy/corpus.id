@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanggali",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melucuti (baju, pakaian, perhiasan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membongkar (pabrik, mesin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi tanggal; membubuhi tanggal; menarikhkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanggali",
+  "related": [],
+  "detailed": false
+}

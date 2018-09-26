@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peninjauan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan meninjau;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang dipakai untuk meninjau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peninjauan",
+  "related": [],
+  "detailed": false
+}

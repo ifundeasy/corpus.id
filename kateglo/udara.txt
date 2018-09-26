@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "campuran berbagai gas yang tidak berwarna dan tidak berbau (seperti oksigen dan nitrogen) yang memenuhi ruang di atas bumi seperti yang kita hirup apabila kita bernapas; hawa;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang di atas bumi yang berisi hawa; angkasa;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan hawa (cuaca, hari);"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang berhubungan dengan penerbangan;"
+      },
+      {
+        "type": "desc",
+        "text": "suasana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara",
+  "related": [],
+  "detailed": false
+}

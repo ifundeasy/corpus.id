@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vokal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai suara;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bunyi bahasa yang dihasilkan oleh arus udara dari paru-paru melalui pita suara dan penyempitan pada saluran suara di atas glotis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan fonologis yang diwujudkan dalam lafal tanpa pergeseran, seperti [a, i, u, e, o];"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berani mengemukakan pendapat; berani bersuara (mengkritik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal",
+  "related": [],
+  "detailed": false
+}

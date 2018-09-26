@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semangkuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ukuran satu mangkuk (cangkir, cawan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semangkuk",
+  "related": [],
+  "detailed": false
+}

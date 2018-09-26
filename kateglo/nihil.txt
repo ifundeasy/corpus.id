@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nihil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kosong sama sekali; tidak ada apa-apa;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tidak ada yang tidak hadir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nihil",
+  "related": [],
+  "detailed": false
+}

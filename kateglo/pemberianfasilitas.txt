@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemberian fasilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurangan harga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemberian%20fasilitas",
+  "related": [],
+  "detailed": false
+}

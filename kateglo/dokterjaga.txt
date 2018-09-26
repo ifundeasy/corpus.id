@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter jaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang mendapat giliran bertugas atau berpraktik pada hari atau waktu tertentu (pada hari libur dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20jaga",
+  "related": [],
+  "detailed": false
+}

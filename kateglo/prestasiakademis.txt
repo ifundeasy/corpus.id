@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prestasi akademis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil pelajaran yang diperoleh dari kegiatan belajar di sekolah atau perguruan tinggi yang bersifat kognitif dan biasanya ditentukan melalui pengukuran dan penilaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prestasi%20akademis",
+  "related": [],
+  "detailed": false
+}

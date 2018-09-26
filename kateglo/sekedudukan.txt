@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekedudukan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sama tingkatan atau jabatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekedudukan",
+  "related": [],
+  "detailed": false
+}

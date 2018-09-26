@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anggota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tubuh (terutama tangan dan kaki);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari sesuatu yang berangkai;"
+      },
+      {
+        "type": "desc",
+        "text": "orang (badan) yang menjadi bagian atau masuk dalam suatu golongan (perserikatan, dewan, panitia, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggota",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkat perwira pertama peringkat pertama dalam ketentaraan, satu tingkat di bawah mayor, satu tingkat di atas letnan satu (tanda pangkatnya tiga balok emas lurus mendatar yang ditempatkan di bahu baju);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai atau memimpin (regu, kapal, dll);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapten",
+  "related": [],
+  "detailed": false
+}

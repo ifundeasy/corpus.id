@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahalul",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "mencukur atau menggunting rambut kepala;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Isl) dalam keadaan menjadi boleh; diperbolehkan seseorang melakukan pekerjaan atau kegiatan yang tadinya terlarang selama mengerjakan ibadah haji atau umrah (ditandai dengan bercukur atau memotong beberapa helai rambut);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl) penghalalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahalul",
+  "related": [],
+  "detailed": false
+}

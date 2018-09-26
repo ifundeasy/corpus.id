@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "glukosida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa glukosa (misal glukosa-alfa-glukosida atau maltosa);"
+      },
+      {
+        "type": "desc",
+        "text": "penyusunan tumbuhan netral tidak bernitrogen, yang diuraikan oleh kalor, asam encer, alkali, enzim, bakterium, atau jamur membentuk zat (glukosa) dan senyawa lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=glukosida",
+  "related": [],
+  "detailed": false
+}

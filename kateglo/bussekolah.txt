@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang khusus melayani angkutan murid-murid sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20sekolah",
+  "related": [],
+  "detailed": false
+}

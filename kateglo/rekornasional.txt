@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekor nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekor yang berlaku untuk peringkat nasional (negara); hasil yang terbaik (tertinggi) yang pernah dicapai orang di dalam suatu negara (seperti Indonesia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekor%20nasional",
+  "related": [],
+  "detailed": false
+}

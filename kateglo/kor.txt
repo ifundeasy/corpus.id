@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paduan suara; nyanyian bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "set",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permainan yang tertentu waktu atau hitungannya; babak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengeset"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa benda yang dipakai selalu bersama-sama yang satu menjadi pelengkap yang lain; perangkat; setel;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) muslihat; tindak; strategi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=set",
+  "related": [],
+  "detailed": false
+}

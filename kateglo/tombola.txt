@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tombola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan lotre dengan berbagai hadiah, biasanya diadakan di pasar amal dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tombola",
+  "related": [],
+  "detailed": false
+}

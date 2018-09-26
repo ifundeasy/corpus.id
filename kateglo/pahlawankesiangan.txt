@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pahlawan kesiangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang baru mau bekerja (berjuang) setelah peperangan (masa sulit) berakhir;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang ketika masa perjuangan tidak melakukan apa-apa, tetapi setelah peperangan selesai menyatakan diri pejuang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pahlawan%20kesiangan",
+  "related": [],
+  "detailed": false
+}

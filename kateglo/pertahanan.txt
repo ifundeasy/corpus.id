@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bertahan (mempertahankan);"
+      },
+      {
+        "type": "desc",
+        "text": "pembelaan (negara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kubu atau benteng (yang dipakai untuk membela diri atau menangkis serangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertahanan",
+  "related": [],
+  "detailed": false
+}

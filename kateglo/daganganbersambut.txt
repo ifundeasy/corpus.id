@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dagangan bersambut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dagangan yang diambil dengan berutang; dagangan yang dimanfaatkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dagangan%20bersambut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transliterasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyalinan dengan penggantian huruf dari abjad yang satu ke abjad yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transliterasi",
+  "related": [],
+  "detailed": false
+}

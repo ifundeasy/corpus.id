@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasien jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasien luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien%20jalan",
+  "related": [],
+  "detailed": false
+}

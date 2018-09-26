@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melabuhkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menurunkan (kelambu, tirai, layar panggung, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberhentikan (perahu, kapal, dsb di pelabuhan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membuang atau mencampakkan ke air (laut dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyalurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjerumuskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melabuhkan",
+  "related": [],
+  "detailed": false
+}

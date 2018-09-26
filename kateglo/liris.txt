@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "emosional (tentang sajak, lagu, dsb); penuh perasaan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "corak batik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liris",
+  "related": [],
+  "detailed": false
+}

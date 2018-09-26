@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukuman buang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukuman yang dijatuhkan kepada terpidana dengan dibuang ke tempat yang terpencil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukuman%20buang",
+  "related": [],
+  "detailed": false
+}

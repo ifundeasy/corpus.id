@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serawak",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "batu"
+      },
+      {
+        "type": "desc",
+        "text": "penganan yang terbuat dari pisang, dicampur dengan tepung dan telur, kemudian diberi kuah gula hitam bercampur santan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serawak",
+  "related": [],
+  "detailed": false
+}

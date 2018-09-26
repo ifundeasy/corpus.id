@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita resmi negara yang biasa diterbitkan pemerintah, berisi pengumuman yang ditujukan kepada seluruh warga negara mengenai berlakunya undang-undang, keputusan presiden, peraturan pemerintah, atau produk legislatif lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20negara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lubang kecil;"
+      },
+      {
+        "type": "link",
+        "text": "liang-liuk"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 37,5 g;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liang",
+  "related": [],
+  "detailed": false
+}

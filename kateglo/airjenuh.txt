@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air jenuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air yang dapat diserap oleh badan tanah yang mengandung air tanpa pemuaian butir tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20jenuh",
+  "related": [],
+  "detailed": false
+}

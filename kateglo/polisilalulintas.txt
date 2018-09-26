@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polisi lalu lintas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "polisi yang memelihara keamanan dan keselamatan lalu lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisi%20lalu%20lintas",
+  "related": [],
+  "detailed": false
+}

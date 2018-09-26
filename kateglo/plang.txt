@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan nama yang memuat data atau keterangan tentang suatu hal, misal plang proyek, plang dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plang",
+  "related": [],
+  "detailed": false
+}

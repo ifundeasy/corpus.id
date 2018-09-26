@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendataan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mendata;"
+      },
+      {
+        "type": "desc",
+        "text": "pengumpulan data; pencarian data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendataan",
+  "related": [],
+  "detailed": false
+}

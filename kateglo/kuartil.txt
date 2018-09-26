@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuartil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) nilai yang menandai batas interval dari sebaran frekuensi yang berderet dalam empat bagian sebaran yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuartil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musabaqah tilawatil Quran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan membaca Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musabaqah%20tilawatil%20Quran",
+  "related": [],
+  "detailed": false
+}

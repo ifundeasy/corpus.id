@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertentangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhadapan; berhadap-hadapan;"
+      },
+      {
+        "type": "desc",
+        "text": "berlawanan; tidak selaras;"
+      },
+      {
+        "type": "desc",
+        "text": "bersalahan (dengan); tidak sesuai (tidak selaras, tidak cocok) dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "berselisih pendapat (paham dsb); bermusuhan; tidak sepaham (sependapat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertentangan",
+  "related": [],
+  "detailed": false
+}

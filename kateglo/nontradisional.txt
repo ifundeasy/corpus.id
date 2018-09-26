@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nontradisional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak mengikuti tradisi atau tidak secara turun-temurun (pandangan hidup, kesenian, dsb); modern;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak merupakan (sesuatu) yang sudah lazim (biasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nontradisional",
+  "related": [],
+  "detailed": false
+}

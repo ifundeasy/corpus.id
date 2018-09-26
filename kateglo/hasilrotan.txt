@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil rotan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak sebesar 10% dari hasil rotan yang akan dijual ke luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20rotan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemarin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari sebelum hari ini;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemarin",
+  "related": [],
+  "detailed": false
+}

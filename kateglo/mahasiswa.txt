@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mahasiswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang belajar di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahasiswa",
+  "related": [],
+  "detailed": false
+}

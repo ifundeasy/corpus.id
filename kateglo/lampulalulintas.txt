@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu lalu lintas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu berwarna merah, kuning, dan hijau yang dipasang di perempatan atau persimpangan jalan untuk mengatur lalu lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20lalu%20lintas",
+  "related": [],
+  "detailed": false
+}

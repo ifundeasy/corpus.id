@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang membuat aktif;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) sesuatu, biasanya suatu katalis, yang menyebabkan zat atau sistem menjadi aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaktif",
+  "related": [],
+  "detailed": false
+}

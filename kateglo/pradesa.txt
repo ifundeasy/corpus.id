@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pradesa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah terpencil (yang penduduknya masih terbelakang); yang belum menjadi desa; calon desa;"
+      },
+      {
+        "type": "desc",
+        "text": "pemukiman yang belum dapat digolongkan desa karena keadaan administrasi pemerintahannya belum memenuhi syarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pradesa",
+  "related": [],
+  "detailed": false
+}

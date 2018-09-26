@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang melayani angkutan penumpang di dalam kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20kota",
+  "related": [],
+  "detailed": false
+}

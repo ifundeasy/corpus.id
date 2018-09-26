@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nanofarad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) satu per satu miliar (1/1.000.000.000);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nanofarad",
+  "related": [],
+  "detailed": false
+}

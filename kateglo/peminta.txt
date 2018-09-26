@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peminta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang meminta;"
+      },
+      {
+        "type": "desc",
+        "text": "permintaan;"
+      },
+      {
+        "type": "desc",
+        "text": "nasib (yang ditentukan Tuhan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peminta",
+  "related": [],
+  "detailed": false
+}

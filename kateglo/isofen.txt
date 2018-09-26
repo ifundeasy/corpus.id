@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isofen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis pada peta yang menghubungkan tempat yang pada tanggal yang sama mempunyai tanaman sejenis dan tingkatan yang sama (kalau yang satu berbunga, pada waktu yang sama yang lain juga berbunga, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isofen",
+  "related": [],
+  "detailed": false
+}

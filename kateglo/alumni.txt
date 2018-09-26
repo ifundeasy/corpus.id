@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alumni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang-orang yang telah mengikuti atau tamat dari suatu sekolah atau perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alumni",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pres ban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penambalan ban dalam dengan cara pemanasan dan penekanan (pembebanan) pada bagian tambalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pres%20ban",
+  "related": [],
+  "detailed": false
+}

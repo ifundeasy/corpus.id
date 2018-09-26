@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "patuh dan taat kepada Allah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "badak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warak",
+  "related": [],
+  "detailed": false
+}

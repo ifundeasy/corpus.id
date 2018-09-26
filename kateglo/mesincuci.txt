@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin cuci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin yang dipergunakan untuk mencuci pakaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20cuci",
+  "related": [],
+  "detailed": false
+}

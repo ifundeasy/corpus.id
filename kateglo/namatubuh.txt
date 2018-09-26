@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama tubuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama daging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20tubuh",
+  "related": [],
+  "detailed": false
+}

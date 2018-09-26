@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bubus",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membubus"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "bubus tumbang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bubus",
+  "related": [],
+  "detailed": false
+}

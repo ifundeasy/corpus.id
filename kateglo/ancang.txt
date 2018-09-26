@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ancang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ancang-ancang"
+      },
+      {
+        "type": "link",
+        "text": "ancang ekstrinsik"
+      },
+      {
+        "type": "link",
+        "text": "ancang intrinsik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ancang",
+  "related": [],
+  "detailed": false
+}

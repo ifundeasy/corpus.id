@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perslah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "uraian atau keterangan tentang peristiwa (hal, perkara, rapat, dsb); laporan;"
+      },
+      {
+        "type": "desc",
+        "text": "siaran radio yang menceritakan keadaan suatu peristiwa (seperti sepak bola, upacara di istana, yang langsung disiarkan dari tempat peristiwa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perslah",
+  "related": [],
+  "detailed": false
+}

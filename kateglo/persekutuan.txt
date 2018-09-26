@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persekutuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal bersekutu; persatuan; perhimpunan; ikatan (orang-orang yang sama kepentingannya);"
+      },
+      {
+        "type": "desc",
+        "text": "perseroan dagang; kongsi; maskapai;"
+      },
+      {
+        "type": "desc",
+        "text": "perserikatan (negara-negara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persekutuan",
+  "related": [],
+  "detailed": false
+}

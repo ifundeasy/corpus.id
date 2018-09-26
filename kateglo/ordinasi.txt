@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ordinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan; ketentuan;"
+      },
+      {
+        "type": "desc",
+        "text": "pentahbisan menjadi pendeta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ordinasi",
+  "related": [],
+  "detailed": false
+}

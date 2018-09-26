@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunjang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menunjang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kaki dari lutut ke bawah; tungkai bawah;"
+      },
+      {
+        "type": "link",
+        "text": "menunjang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjang",
+  "related": [],
+  "detailed": false
+}

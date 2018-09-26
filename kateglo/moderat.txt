@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moderat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "selalu menghindarkan perilaku atau pengungkapan yang ekstrem;"
+      },
+      {
+        "type": "desc",
+        "text": "berkecenderungan ke arah dimensi atau jalan tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moderat",
+  "related": [],
+  "detailed": false
+}

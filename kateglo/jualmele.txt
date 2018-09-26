@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual mele",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membeli suatu barang untuk kemudian dijual lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20mele",
+  "related": [],
+  "detailed": false
+}

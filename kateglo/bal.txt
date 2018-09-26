@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "bola;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran jumlah (bahan pakaian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bandela; karung (tentang beras dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) bungkusan yang terbuat dari bahan lunak, tidak kaku, berbentuk kotak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bal",
+  "related": [],
+  "detailed": false
+}

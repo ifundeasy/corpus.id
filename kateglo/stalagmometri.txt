@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stalagmometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) metode pengukuran tegangan permukaan cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stalagmometri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata yang menggunakan mesiu (senapan, pistol, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20api",
+  "related": [],
+  "detailed": false
+}

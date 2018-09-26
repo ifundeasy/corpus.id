@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atelir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bengkel tempat kerja para seniman; sanggar; studio;"
+      },
+      {
+        "type": "desc",
+        "text": "bengkel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atelir",
+  "related": [],
+  "detailed": false
+}

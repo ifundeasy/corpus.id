@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Masehi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "Kristen; Nasrani; agama -- , agama Kristen (Nasrani); orang -- , pengikut Isa Almasih (Yesus Kristus); orang Kristen (Nasrani);"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan waktu yang dimulai sejak lahirnya Yesus Kristus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Masehi",
+  "related": [],
+  "detailed": false
+}

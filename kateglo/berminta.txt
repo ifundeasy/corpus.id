@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berminta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "yang diminta (bukan dibeli);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berminta",
+  "related": [],
+  "detailed": false
+}

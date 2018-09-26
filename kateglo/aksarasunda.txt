@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksara Sunda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aksara yang digunakan untuk menuliskan bahasa Sunda, huruf bermula dengan ha berakhir dengan nga (bentuk dan kaidah penulisannya sama dengan aksara Jawa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksara%20Sunda",
+  "related": [],
+  "detailed": false
+}

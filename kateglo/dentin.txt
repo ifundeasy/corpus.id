@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dentin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan berzat kapur mirip dengan bahan tulang, tetapi lebih keras dan padat (tugas utamanya membentuk bagian terpenting dari gigi);"
+      },
+      {
+        "type": "desc",
+        "text": "tulang gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dentin",
+  "related": [],
+  "detailed": false
+}

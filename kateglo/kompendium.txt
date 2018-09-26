@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompendium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar karangan ilmiah yang lengkap dan padat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompendium",
+  "related": [],
+  "detailed": false
+}

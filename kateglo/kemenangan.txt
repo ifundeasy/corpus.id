@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemenangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal menang;"
+      },
+      {
+        "type": "desc",
+        "text": "keunggulan; kelebihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemenangan",
+  "related": [],
+  "detailed": false
+}

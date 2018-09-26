@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemegang jabatan orang lain untuk sementara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjabat",
+  "related": [],
+  "detailed": false
+}

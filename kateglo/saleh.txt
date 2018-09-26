@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saleh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "taat dan sungguh-sungguh menjalankan ibadah;"
+      },
+      {
+        "type": "desc",
+        "text": "suci dan beriman;"
+      },
+      {
+        "type": "desc",
+        "text": "datang;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saleh",
+  "related": [],
+  "detailed": false
+}

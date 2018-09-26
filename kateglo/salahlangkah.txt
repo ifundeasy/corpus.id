@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah langkah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keliru melangkah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sial; malang;"
+      },
+      {
+        "type": "desc",
+        "text": "tersesat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20langkah",
+  "related": [],
+  "detailed": false
+}

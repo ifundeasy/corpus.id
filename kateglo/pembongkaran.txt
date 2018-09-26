@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembongkaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membongkar (rumah liar oleh pihak yang berwajib, barang-barang dari gudang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pembukaan rahasia dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembongkaran",
+  "related": [],
+  "detailed": false
+}

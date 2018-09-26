@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyabungan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengadu;"
+      },
+      {
+        "type": "desc",
+        "text": "ungkapan rasa tidak senang atau tidak puas akan hal-hal yang tidak begitu penting, tetapi perlu diperhatikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaduan",
+  "related": [],
+  "detailed": false
+}

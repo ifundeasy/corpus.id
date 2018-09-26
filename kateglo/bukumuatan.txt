@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku muatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku berisi daftar barang muatan kapal (kapal terbang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20muatan",
+  "related": [],
+  "detailed": false
+}

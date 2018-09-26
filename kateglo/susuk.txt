@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyemat (dari kayu dsb); tusuk; pasak; susuh;"
+      },
+      {
+        "type": "desc",
+        "text": "jarum emas, intan, dsb yang dimasukkan ke dalam kulit, bibir, dahi, dsb disertai mantra agar tampak menjadi cantik, menarik, manis, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk; bangun;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyusuk"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesak; asak;"
+      },
+      {
+        "type": "link",
+        "text": "susukan"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) uang kelebihan pembayaran; sisa uang pembayaran yang masih harus dikembalikan pada pembeli; uang penyongsong; uang kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kutat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkutat"
+      },
+      {
+        "type": "link",
+        "text": "berkutat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermesin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermesin",
+  "related": [],
+  "detailed": false
+}

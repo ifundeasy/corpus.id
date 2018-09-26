@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sungkit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bersungkit"
+      },
+      {
+        "type": "link",
+        "text": "menyungkit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sungkit",
+  "related": [],
+  "detailed": false
+}

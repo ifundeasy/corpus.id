@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lampin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain popok bayi;"
+      },
+      {
+        "type": "desc",
+        "text": "bebat bayi; ambet;"
+      },
+      {
+        "type": "desc",
+        "text": "lapis atau alas (terbuat dari kain, kertas, dsb) untuk memegang barang yang panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampin",
+  "related": [],
+  "detailed": false
+}

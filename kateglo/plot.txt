@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jalan (alur) cerita (dalam novel, sandiwara, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plot",
+  "related": [],
+  "detailed": false
+}

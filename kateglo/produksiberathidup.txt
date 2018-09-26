@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi berat hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) produksi ternak dari suatu usaha peternakan yang dinyatakan dalam berat hidupnya (penimbangan ternak pada waktu masih hidup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20berat%20hidup",
+  "related": [],
+  "detailed": false
+}

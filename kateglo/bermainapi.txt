@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermain api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan permainan dengan api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermain%20api",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "digresi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "peristiwa yang menyimpang dari pokok masalah yang sedang dihadapi dalam karya sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang tidak langsung bertalian dengan tema dan alur karya sastra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=digresi",
+  "related": [],
+  "detailed": false
+}

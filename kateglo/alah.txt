@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) tewas;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengalah"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan ketidakpedulian; ah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alah",
+  "related": [],
+  "detailed": false
+}

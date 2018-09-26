@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggamak-gamak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memegang-megang (hendak mengetahui berapa besar dan beratnya);"
+      },
+      {
+        "type": "desc",
+        "text": "menaksir (harganya);"
+      },
+      {
+        "type": "desc",
+        "text": "memegang-megang senjata (seolah-olah hendak mengancam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggamak-gamak",
+  "related": [],
+  "detailed": false
+}

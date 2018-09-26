@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air surut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air turun (tentang laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20surut",
+  "related": [],
+  "detailed": false
+}

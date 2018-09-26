@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe tenaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ternak yang dikembangbiakkan dengan tujuan pokok untuk mendapatkan tenaganya (sebagai penarik pedati, penarik roda, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20tenaga",
+  "related": [],
+  "detailed": false
+}

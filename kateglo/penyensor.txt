@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyensor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau badan yang ditugasi memeriksa atau mempertimbangkan berita, surat, buku, film, dsb yang akan disiarkan supaya tidak bertentangan dengan norma, peraturan, atau hukum yang berlaku;"
+      },
+      {
+        "type": "desc",
+        "text": "penyiasat; pengkritik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyensor",
+  "related": [],
+  "detailed": false
+}

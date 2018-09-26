@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbulutangkisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (mengenai) bulu tangkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbulutangkisan",
+  "related": [],
+  "detailed": false
+}

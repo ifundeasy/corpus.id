@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pulau karang berbentuk lingkaran (biasanya di tengahnya terdapat danau atau laguna);"
+      },
+      {
+        "type": "desc",
+        "text": "karang koral yang berbentuk lingkaran (gelang) atau ladam kuda;"
+      },
+      {
+        "type": "desc",
+        "text": "pulau kecil berbentuk gelang yang terjadi karena puncak suatu bukit karang menonjol di atas muka laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atol",
+  "related": [],
+  "detailed": false
+}

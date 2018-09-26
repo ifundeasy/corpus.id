@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laknat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kutuk;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang terkutuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laknat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kaidah Amagat-Leduc",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) volume suatu campuran gas sama dengan jumlah volume yang akan diisi tiap-tiap gas itu pada suhu dan tekanan campuran gas tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaidah%20Amagat-Leduc",
+  "related": [],
+  "detailed": false
+}

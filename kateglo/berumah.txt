@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berumah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "diam (di); tinggal (di);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berumah",
+  "related": [],
+  "detailed": false
+}

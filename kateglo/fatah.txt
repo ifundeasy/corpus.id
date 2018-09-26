@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fatah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "penaklukan;"
+      },
+      {
+        "type": "desc",
+        "text": "kemenangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuka;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda diakritik berupa garis di atas huruf Arab yang menyatakan bunyi [a];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fatah",
+  "related": [],
+  "detailed": false
+}

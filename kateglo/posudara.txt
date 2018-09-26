@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pos udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman surat dsb melalui angkutan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pos%20udara",
+  "related": [],
+  "detailed": false
+}

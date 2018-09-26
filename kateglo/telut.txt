@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertelut"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempan (tentang senjata); terlut; telap;"
+      },
+      {
+        "type": "link",
+        "text": "menelut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telut",
+  "related": [],
+  "detailed": false
+}

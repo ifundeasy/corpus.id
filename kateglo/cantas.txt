@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cantas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gagah, tampan;"
+      },
+      {
+        "type": "desc",
+        "text": "berani, tegas; terampil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cantas",
+  "related": [],
+  "detailed": false
+}

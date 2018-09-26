@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seni",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "halus (tentang rabaan); kecil dan halus; tipis dan halus;"
+      },
+      {
+        "type": "desc",
+        "text": "lembut dan tinggi (tentang suara);"
+      },
+      {
+        "type": "desc",
+        "text": "mungil dan elok (tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "keahlian membuat karya yang bermutu (dilihat dari segi kehalusannya, keindahannya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "karya yang diciptakan dengan keahlian yang luar biasa, seperti tari, lukisan, ukiran; seniman tari sering juga menciptakan -- susastra yang indah;"
+      },
+      {
+        "type": "desc",
+        "text": "kesanggupan akal untuk menciptakan sesuatu yang bernilai tinggi (luar biasa);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berkesanggupan luar biasa; genius;"
+      },
+      {
+        "type": "link",
+        "text": "ular"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni",
+  "related": [],
+  "detailed": false
+}

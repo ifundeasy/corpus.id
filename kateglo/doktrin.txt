@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "doktrin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajaran (tentang asas suatu aliran politik, keagamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pendirian segolongan ahli ilmu pengetahuan, keagamaan, ketatanegaraan) secara bersistem, khususnya dalam penyusunan kebijakan negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=doktrin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "retribusi yang harus diberikan pendatang karena mengambil hasil hutan atau membuka ladang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20tanah",
+  "related": [],
+  "detailed": false
+}

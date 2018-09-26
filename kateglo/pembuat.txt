@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang membuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuat",
+  "related": [],
+  "detailed": false
+}

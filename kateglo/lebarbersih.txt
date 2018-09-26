@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebar bersih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kap) lebar kapal terbesar diukur pada tiang tengah kapal dari sisi dalam ke sisi kulit kapal, diukur dari sisi luar ke sisi kapal (bagi kulit kapal yang terbuat dari kayu atau bukan logam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar%20bersih",
+  "related": [],
+  "detailed": false
+}

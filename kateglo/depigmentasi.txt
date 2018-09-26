@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "depigmentasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hilangnya pigmen;"
+      },
+      {
+        "type": "desc",
+        "text": "penghilangan pigmen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depigmentasi",
+  "related": [],
+  "detailed": false
+}

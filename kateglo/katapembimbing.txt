@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata pembimbing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang dicantumkan pada sudut atas (kanan dan kiri) yang menyatakan lema pertama dan lema terakhir pada satu halaman kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20pembimbing",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cekluk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tercekluk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cekluk",
+  "related": [],
+  "detailed": false
+}

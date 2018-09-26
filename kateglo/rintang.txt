@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rintang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merintang"
+      },
+      {
+        "type": "desc",
+        "text": "sibuk; melakukan sesuatu; asyik;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat gemar (minum, madat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rintang",
+  "related": [],
+  "detailed": false
+}

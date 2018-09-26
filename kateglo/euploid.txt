@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "euploid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Bio) memiliki jumlah kromosom yang besarnya merupakan kelipatan jumlah pada monoploid atau haploid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=euploid",
+  "related": [],
+  "detailed": false
+}

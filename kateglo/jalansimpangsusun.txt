@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan simpang susun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan (lintas) searah yang dibangun bersimpang dan bersusun (sehingga jalannya kendaraan tidak terganggu oleh kendaraan lain yang datang dari arah kiri atau kanan, atau di depan yang mau berbelok);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20simpang%20susun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "potret udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "potret yang dibuat melalui pesawat udara (tentang keadaan di permukaan bumi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=potret%20udara",
+  "related": [],
+  "detailed": false
+}

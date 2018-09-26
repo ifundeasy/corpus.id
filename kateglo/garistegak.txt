@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis tegak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang membentuk sudut 90o dengan garis lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20tegak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "badan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tubuh (jasad manusia keseluruhan); jasmani; raga; awak;"
+      },
+      {
+        "type": "desc",
+        "text": "batang tubuh manusia, tidak termasuk anggota dan kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian utama dari suatu benda; awak;"
+      },
+      {
+        "type": "desc",
+        "text": "diri (sendiri);"
+      },
+      {
+        "type": "desc",
+        "text": "sekumpulan orang yang merupakan kesatuan untuk mengerjakan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan",
+  "related": [],
+  "detailed": false
+}

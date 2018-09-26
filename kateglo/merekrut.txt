@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merekrut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendaftar (memasukkan) calon anggota baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merekrut",
+  "related": [],
+  "detailed": false
+}

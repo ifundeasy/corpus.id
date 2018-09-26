@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salivasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengeluaran liur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salivasi",
+  "related": [],
+  "detailed": false
+}

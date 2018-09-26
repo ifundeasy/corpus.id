@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah wakaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang dihibahkan untuk sesuatu yang berguna bagi umum (masjid, madrasah, rumah sakit, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20wakaf",
+  "related": [],
+  "detailed": false
+}

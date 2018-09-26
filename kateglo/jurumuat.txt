@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru muat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas kapal yang mengawasi pemuatan dan pembongkaran muatan di kapal dan bertanggung jawab atas keberesan penyerahan muatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20muat",
+  "related": [],
+  "detailed": false
+}

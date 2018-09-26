@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berdesak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kertas diremas-remas dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desak",
+  "related": [],
+  "detailed": false
+}

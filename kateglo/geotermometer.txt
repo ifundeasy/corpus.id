@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geotermometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "termometer yang dipakai untuk mengukur panas pada tempat yang sangat dalam di bawah permukaan (misal dalam tambang-tambang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geotermometer",
+  "related": [],
+  "detailed": false
+}

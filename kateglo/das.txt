@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "das",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi tembakan senapan;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi tembakan (tiap kali keluar dari senapan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=das",
+  "related": [],
+  "detailed": false
+}

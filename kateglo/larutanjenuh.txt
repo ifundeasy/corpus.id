@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan jenuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan dengan kadar maksimum zat terlarut pada suhu tertentu dan dalam keadaan seimbang kadarnya tidak berubah walaupun lebih banyak zat terlarut yang ditambahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20jenuh",
+  "related": [],
+  "detailed": false
+}

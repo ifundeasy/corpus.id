@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur lambat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang diperuntukkan bagi kendaraan yang dikemudikan dengan kecepatan rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20lambat",
+  "related": [],
+  "detailed": false
+}

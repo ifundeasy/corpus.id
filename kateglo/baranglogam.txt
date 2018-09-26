@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang logam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang dari logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20logam",
+  "related": [],
+  "detailed": false
+}

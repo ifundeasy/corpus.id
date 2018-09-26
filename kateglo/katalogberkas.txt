@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "katalog berkas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "katalog yang dibuat pada slip kertas yang diikat dalam jilid berkas untuk memungkinkan adanya penyisipan bahan baru yang tepat susunannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalog%20berkas",
+  "related": [],
+  "detailed": false
+}

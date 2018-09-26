@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zero",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka nol; kosong; sifar;"
+      },
+      {
+        "type": "desc",
+        "text": "titik di antara positif (+) dan negatif (–) pada suatu alat pengukur (meter, suhu, dsb); yang terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zero",
+  "related": [],
+  "detailed": false
+}

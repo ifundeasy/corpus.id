@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "proses verbal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita acara (laporan mengenai suatu perkara, yaitu waktu terjadinya, tempat terjadinya, keterangan, dan petunjuk lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proses%20verbal",
+  "related": [],
+  "detailed": false
+}

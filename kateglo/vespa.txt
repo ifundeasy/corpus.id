@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vespa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan bermotor beroda dua, rodanya lebih kecil daripada sepeda motor dan tidak beruji kawat; sekuter;"
+      },
+      {
+        "type": "desc",
+        "text": "merek dagang kendaraan bermotor beroda dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vespa",
+  "related": [],
+  "detailed": false
+}

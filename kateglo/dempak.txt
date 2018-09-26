@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dempak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rendah papak; tidak merunjung (tentang rumah, topi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "papak (tentang haluan perahu);"
+      },
+      {
+        "type": "desc",
+        "text": "lebar bilahnya (tentang pisau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pendek gemuk (tentang tubuh);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berdempak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dempak",
+  "related": [],
+  "detailed": false
+}

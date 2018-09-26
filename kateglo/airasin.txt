@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air asin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air dengan salinitas yang lebih dari 40 per mil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20asin",
+  "related": [],
+  "detailed": false
+}

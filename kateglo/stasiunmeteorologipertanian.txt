@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun meteorologi pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun meteorologi yang mengamati unsur cuaca dan pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20meteorologi%20pertanian",
+  "related": [],
+  "detailed": false
+}

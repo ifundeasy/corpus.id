@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangka atau bagian rangka tubuh manusia atau binatang;"
+      },
+      {
+        "type": "desc",
+        "text": "duri ikan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) barang yang menyerupai tulang atau rangka;"
+      },
+      {
+        "type": "link",
+        "text": "tulang daing"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tulang",
+  "related": [],
+  "detailed": false
+}

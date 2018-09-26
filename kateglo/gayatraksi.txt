@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya traksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaya yang diberikan oleh mesin penggerak pada roda supaya bergerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20traksi",
+  "related": [],
+  "detailed": false
+}

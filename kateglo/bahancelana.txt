@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan celana",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kain (cita dsb) untuk dibuat celana; bakal celana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20celana",
+  "related": [],
+  "detailed": false
+}

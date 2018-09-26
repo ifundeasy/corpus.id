@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian penutup badan bagian atas (banyak ragam dan namanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju",
+  "related": [],
+  "detailed": false
+}

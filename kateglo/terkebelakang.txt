@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkebelakang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbelakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkebelakang",
+  "related": [],
+  "detailed": false
+}

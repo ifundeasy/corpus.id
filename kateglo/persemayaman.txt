@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persemayaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat duduk;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kediaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persemayaman",
+  "related": [],
+  "detailed": false
+}

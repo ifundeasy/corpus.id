@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bidang linguistik tentang pengucapan (penghasilan) bunyi ujar;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem bunyi suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonetik",
+  "related": [],
+  "detailed": false
+}

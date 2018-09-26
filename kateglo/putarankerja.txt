@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putaran kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang diperlukan seorang pekerja untuk mengulangi lagi pekerjaan yang menjadi garapannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putaran%20kerja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menelegram",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengirimkan berita dengan telegraf; mengetuk kawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menelegram",
+  "related": [],
+  "detailed": false
+}

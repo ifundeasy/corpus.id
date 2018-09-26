@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cemas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tenteram hati (karena khawatir, takut); gelisah;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "link",
+        "text": "cemas-cemas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cemas",
+  "related": [],
+  "detailed": false
+}

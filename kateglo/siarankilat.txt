@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita (selebaran) penting yang disiarkan dengan segera sesudah terjadi sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20kilat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiogoniometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menentukan arah kedatangan gelombang radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiogoniometer",
+  "related": [],
+  "detailed": false
+}

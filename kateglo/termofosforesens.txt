@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termofosforesens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemanasan cahaya yang disebabkan oleh penyerapan radiasi dan berlangsung terus untuk waktu yang cukup lama setelah radiasi ini berhenti;"
+      },
+      {
+        "type": "desc",
+        "text": "pemancaran cahaya tanpa pemanasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termofosforesens",
+  "related": [],
+  "detailed": false
+}

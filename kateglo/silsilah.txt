@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silsilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asal-usul suatu keluarga berupa bagan; susur galur (keturunan);"
+      },
+      {
+        "type": "desc",
+        "text": "catatan yang menggambarkan hubungan keluarga ternak sampai beberapa generasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggambaran hubungan antara bahasa induk dan bahasa-bahasa turunan dalam keluarga bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silsilah",
+  "related": [],
+  "detailed": false
+}

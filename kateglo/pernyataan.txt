@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pernyataan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal menyatakan; tindakan menyatakan;"
+      },
+      {
+        "type": "desc",
+        "text": "permakluman; pemberitahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pernyataan",
+  "related": [],
+  "detailed": false
+}

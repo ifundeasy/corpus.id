@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amit",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pengamitan"
+      },
+      {
+        "type": "desc",
+        "text": "izin; permisi (untuk pergi atau lewat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amit",
+  "related": [],
+  "detailed": false
+}

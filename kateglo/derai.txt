@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "derai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi titik-titik air hujan yang jatuh di kaca dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) butir-butir (tanah, emas, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berderai-derai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derai",
+  "related": [],
+  "detailed": false
+}

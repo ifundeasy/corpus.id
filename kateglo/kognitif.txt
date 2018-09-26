@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kognitif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan atau melibatkan kognisi;"
+      },
+      {
+        "type": "desc",
+        "text": "berdasar kepada pengetahuan faktual yang empiris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kognitif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot) daun yang berubah bentuk menjadi kelopak bunga; daun kelopak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepal",
+  "related": [],
+  "detailed": false
+}

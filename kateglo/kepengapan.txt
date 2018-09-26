@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepengapan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalami keadaan pengap;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan pengap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepengapan",
+  "related": [],
+  "detailed": false
+}

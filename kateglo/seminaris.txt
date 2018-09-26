@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seminaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siswa pada seminari; calon paderi dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seminaris",
+  "related": [],
+  "detailed": false
+}

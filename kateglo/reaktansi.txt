@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaktansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlawanan terhadap arus bolakbalik;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) bagian impedans yang disebabkan oleh kapasitor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaktansi",
+  "related": [],
+  "detailed": false
+}

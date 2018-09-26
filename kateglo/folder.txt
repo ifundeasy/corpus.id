@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "folder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selebaran (barang cetakan) yang dilipat sedemikian rupa sehingga bagian yang tercetak tidak terkena lipatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=folder",
+  "related": [],
+  "detailed": false
+}

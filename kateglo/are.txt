@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "are",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran luas 100 m2;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=are",
+  "related": [],
+  "detailed": false
+}

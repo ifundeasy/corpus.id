@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adaptor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghubungkan dua bagian benda, misal yang berbeda diameternya;"
+      },
+      {
+        "type": "desc",
+        "text": "alat listrik yang memungkinkan sesuatu dapat dipakai untuk tujuan tertentu yang berbeda dari tujuan yang dirancang semula, misal alat yang mengubah arus bolak-balik menjadi arus searah untuk pemanfaatan listrik tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang dapat menyesuaikan jenis dan besar tegangan listrik untuk suatu alat lain;"
+      },
+      {
+        "type": "desc",
+        "text": "alat berbentuk tabung yang menyempit pada salah satu ujungnya dan dibengkokkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat atau peranti yang dipasang pada kamera sehingga kamera itu dapat dipakai untuk keperluan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adaptor",
+  "related": [],
+  "detailed": false
+}

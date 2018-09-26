@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga gila",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang terlalu mahal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20gila",
+  "related": [],
+  "detailed": false
+}

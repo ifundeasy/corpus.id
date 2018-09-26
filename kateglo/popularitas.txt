@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "popularitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal populer; kepopuleran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=popularitas",
+  "related": [],
+  "detailed": false
+}

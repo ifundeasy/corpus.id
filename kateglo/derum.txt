@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "derum",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menderum"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi guruh (iringan mobil dsb) yang kedengaran dari jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derum",
+  "related": [],
+  "detailed": false
+}

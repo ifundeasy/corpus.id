@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manuver",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil)"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan yang tangkas dan cepat dari pasukan (kapal dsb) dalam perang;"
+      },
+      {
+        "type": "desc",
+        "text": "latihan perang-perangan oleh militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manuver",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "auskultasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindakan mendengarkan suara bagian dalam tubuh untuk suatu diagnosis, lazimnya dengan stetoskop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=auskultasi",
+  "related": [],
+  "detailed": false
+}

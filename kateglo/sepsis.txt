@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepsis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keracunan yang disebabkan oleh hasil proses pembusukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepsis",
+  "related": [],
+  "detailed": false
+}

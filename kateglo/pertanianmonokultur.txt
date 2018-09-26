@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanian monokultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha pertanian untuk satu jenis tanaman pada sebidang lahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanian%20monokultur",
+  "related": [],
+  "detailed": false
+}

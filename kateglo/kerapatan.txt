@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerapatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan rapat; kepekatan; kekentalan;"
+      },
+      {
+        "type": "desc",
+        "text": "rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerapatan",
+  "related": [],
+  "detailed": false
+}

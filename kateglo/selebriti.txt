@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selebriti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang terkenal atau masyhur (biasanya tentang artis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selebriti",
+  "related": [],
+  "detailed": false
+}

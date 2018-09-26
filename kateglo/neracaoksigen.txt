@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "neraca oksigen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kandungan oksigen yang berada dalam bahan-bahan pembentuk bahan peledak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neraca%20oksigen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ijazah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat tanda tamat belajar; sijil;"
+      },
+      {
+        "type": "desc",
+        "text": "izin yang diberikan oleh guru kepada muridnya untuk mengajarkan ilmu yang diperoleh si murid dari gurunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijazah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keserongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal serong;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kecurangan; ketidakjujuran; kepalsuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keserongan",
+  "related": [],
+  "detailed": false
+}

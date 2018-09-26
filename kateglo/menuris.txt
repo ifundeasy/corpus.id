@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menuris",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggores (menoreh, menakik) tidak berapa dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "mencacar (imunisasi terhadap penyakit cacar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menuris",
+  "related": [],
+  "detailed": false
+}

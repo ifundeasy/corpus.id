@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk verba yang mengungkapkan suasana kejiwaan sehubungan dengan perbuatan menurut tafsiran pembicara tentang apa yang diucapkannya;"
+      },
+      {
+        "type": "desc",
+        "text": "nilai yang paling besar frekuensinya dalam suatu deretan nilai;"
+      },
+      {
+        "type": "desc",
+        "text": "angka statistik yang paling sering muncul dalam populasi atau sampel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modus",
+  "related": [],
+  "detailed": false
+}

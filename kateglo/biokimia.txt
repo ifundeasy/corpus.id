@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biokimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa kimia dan proses kimia yang terdapat dalam sel atau tubuh makhluk hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biokimia",
+  "related": [],
+  "detailed": false
+}

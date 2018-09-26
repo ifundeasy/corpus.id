@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan takaran barang cair (bensin dsb) 3,785 liter (AS) atau 4,546 liter (Ing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benalu; pasilan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyakatkan"
+      },
+      {
+        "type": "link",
+        "text": "suku"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakat",
+  "related": [],
+  "detailed": false
+}

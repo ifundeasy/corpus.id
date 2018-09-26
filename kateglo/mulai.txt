@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mulai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengawali berbuat (bertindak, melakukan, dsb);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sejak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mulai",
+  "related": [],
+  "detailed": false
+}

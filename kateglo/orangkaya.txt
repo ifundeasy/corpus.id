@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang kaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang banyak hartanya; hartawan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berpangkat (berkedudukan) tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada istri orang berpangkat atau orang yang patut dihormati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20kaya",
+  "related": [],
+  "detailed": false
+}

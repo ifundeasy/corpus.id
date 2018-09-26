@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merayap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkerumun banyak seperti rayap;"
+      },
+      {
+        "type": "desc",
+        "text": "bergerak maju dengan tangan dan kaki serta badan bertumpu ke tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "bergerak perlahan-lahan;"
+      },
+      {
+        "type": "desc",
+        "text": "menjalar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merayap",
+  "related": [],
+  "detailed": false
+}

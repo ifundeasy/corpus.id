@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "restitusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ganti kerugian; pembayaran kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "penyerahan bagian pembayaran yang masih bersisa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) penyesuaian spontan kepala bayi dengan badannya sesudah kepala keluar dari rahim ibu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=restitusi",
+  "related": [],
+  "detailed": false
+}

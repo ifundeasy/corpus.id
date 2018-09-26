@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampar hewan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit menular pada binatang ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampar%20hewan",
+  "related": [],
+  "detailed": false
+}

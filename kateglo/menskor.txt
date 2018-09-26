@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menskor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan skor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menskor",
+  "related": [],
+  "detailed": false
+}

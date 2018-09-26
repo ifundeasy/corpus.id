@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "praktik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelaksanaan secara nyata apa yang disebut dalam teori;"
+      },
+      {
+        "type": "desc",
+        "text": "pelaksanaan pekerjaan (tentang dokter, pengacara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan menerapkan teori (keyakinan dsb); pelaksanaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=praktik",
+  "related": [],
+  "detailed": false
+}

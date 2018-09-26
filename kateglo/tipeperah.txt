@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe perah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ternak yang dipelihara khusus untuk menghasilkan air susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20perah",
+  "related": [],
+  "detailed": false
+}

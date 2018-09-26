@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pungutan wajib, biasanya berupa uang yang harus dibayar oleh penduduk sebagai sumbangan wajib kepada negara atau pemerintah sehubungan dengan pendapatan, pemilikan, harga beli barang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "hak untuk mengusahakan sesuatu dengan membayar sewa kepada negara; pak;"
+      },
+      {
+        "type": "desc",
+        "text": "kedai; lepau;"
+      },
+      {
+        "type": "desc",
+        "text": "los tempat berjualan (di Madura);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak",
+  "related": [],
+  "detailed": false
+}

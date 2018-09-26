@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karaoke",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jp) jenis hiburan dengan menyanyikan lagu-lagu populer dengan iringan musik yang telah direkam terlebih dahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karaoke",
+  "related": [],
+  "detailed": false
+}

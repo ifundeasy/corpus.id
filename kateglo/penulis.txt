@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menulis;"
+      },
+      {
+        "type": "desc",
+        "text": "pengarang;"
+      },
+      {
+        "type": "desc",
+        "text": "panitera; sekretaris; setia usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "pelukis; penggambar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penulis",
+  "related": [],
+  "detailed": false
+}

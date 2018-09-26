@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu maksimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu tertinggi yang terjadi dalam suatu jangka waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20maksimum",
+  "related": [],
+  "detailed": false
+}

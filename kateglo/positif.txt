@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "positif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pasti; tegas; tentu;"
+      },
+      {
+        "type": "desc",
+        "text": "yakin;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat nyata dan membangun;"
+      },
+      {
+        "type": "desc",
+        "text": "menunjukkan adanya penyakit, kondisi tertentu, dsb (tentang hasil pemeriksaan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) lebih besar daripada nol;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "potret yang sudah jadi (bukan klise atau film);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) bermuatan listrik lebih tinggi daripada yang lain (tentang kutub), yang merupakan sumber arus listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menyangkal (membantah, dsb); mengiakan (tentang kalimat, pernyataan, ucapan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=positif",
+  "related": [],
+  "detailed": false
+}

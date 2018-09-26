@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekaryaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala yang berhubungan dengan karya seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) karya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekaryaan",
+  "related": [],
+  "detailed": false
+}

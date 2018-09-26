@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magrib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barat arah matahari terbenam;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu matahari terbenam;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu salat wajib menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis dengan kapital) salat wajib sebanyak tiga rakaat pada waktu menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magrib",
+  "related": [],
+  "detailed": false
+}

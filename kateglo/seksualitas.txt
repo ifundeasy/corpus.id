@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seksualitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri, sifat, atau peranan seks;"
+      },
+      {
+        "type": "desc",
+        "text": "dorongan seks;"
+      },
+      {
+        "type": "desc",
+        "text": "kehidupan seks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seksualitas",
+  "related": [],
+  "detailed": false
+}

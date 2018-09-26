@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tinjau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meninjau"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tinjau belukar"
+      },
+      {
+        "type": "link",
+        "text": "tinjau karang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinjau",
+  "related": [],
+  "detailed": false
+}

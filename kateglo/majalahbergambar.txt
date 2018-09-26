@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah bergambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majalah yang memuat reportase berdasarkan gambar suatu peristiwa atau suatu karangan khusus yang berisi foto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20bergambar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koenzim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa nonprotein tahan panas yang akan membentuk bagian aktif sistem enzim setelah bereaksi dengan apoenzim;"
+      },
+      {
+        "type": "desc",
+        "text": "katalis untuk mengaktifkan enzim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koenzim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumbangan wajib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumbangan berupa uang dsb yang harus dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumbangan%20wajib",
+  "related": [],
+  "detailed": false
+}

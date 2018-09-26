@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deflasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "penambahan nilai mata uang, antara lain, dengan pengurangan jumlah uang kertas yang beredar dengan tujuan mengembalikan daya beli uang yang nilainya menurun; gejala perekonomian yang merupakan akibat keadaan tersebut, seperti penurunan produksi, langkanya lapangan kerja, rendahnya daya beli masyarakat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pemindahan atau pengangkutan bahan (pasir, abu) oleh angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deflasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarjana utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar akademis yang diperoleh seseorang setelah menyelesaikan pendidikan program magister;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarjana%20utama",
+  "related": [],
+  "detailed": false
+}

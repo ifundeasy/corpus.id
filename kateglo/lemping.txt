@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganan yang tipis dan pipih (misal -- sagu, -- pulut);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk benda-benda yang berbentuk gulungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemping",
+  "related": [],
+  "detailed": false
+}

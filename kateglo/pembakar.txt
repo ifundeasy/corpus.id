@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang membakar;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembakar",
+  "related": [],
+  "detailed": false
+}

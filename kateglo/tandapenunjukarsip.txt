@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda penunjuk arsip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda batas, biasanya terbuat dari karton tebal, yang menunjukkan letak kelompok surat dalam tempat penyimpanannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20penunjuk%20arsip",
+  "related": [],
+  "detailed": false
+}

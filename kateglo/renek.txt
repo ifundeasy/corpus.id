@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renek",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merenek"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis tumbuhan pelir anjing, Challattia griffithia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renek",
+  "related": [],
+  "detailed": false
+}

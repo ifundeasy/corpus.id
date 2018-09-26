@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdagangan transit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdagangan barang dengan terus mengirimkannya ke tempat atau negara lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdagangan%20transit",
+  "related": [],
+  "detailed": false
+}

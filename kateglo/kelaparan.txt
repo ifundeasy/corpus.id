@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelaparan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal lapar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita lapar (karena tidak ada yang dimakan);"
+      },
+      {
+        "type": "desc",
+        "text": "kekurangan makan;"
+      },
+      {
+        "type": "desc",
+        "text": "sakit bengkak karena kekurangan makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelaparan",
+  "related": [],
+  "detailed": false
+}

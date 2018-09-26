@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nasionalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham (ajaran) untuk mencintai bangsa dan negara sendiri; sifat kenasionalan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesadaran keanggotaan dalam suatu bangsa yang secara potensial atau aktual bersama-sama mencapai, mempertahankan, dan mengabadikan identitas, integritas, kemakmuran, dan kekuatan bangsa itu; semangat kebangsaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasionalisme",
+  "related": [],
+  "detailed": false
+}

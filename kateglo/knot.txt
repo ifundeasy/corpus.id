@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "knot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) satuan ukuran kecepatan gerak maju kapal dalam mil laut per jam 1.825 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=knot",
+  "related": [],
+  "detailed": false
+}

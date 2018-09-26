@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta kuda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta beroda dua yang ditarik oleh kuda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20kuda",
+  "related": [],
+  "detailed": false
+}

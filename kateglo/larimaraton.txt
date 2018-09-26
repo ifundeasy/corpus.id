@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lari maraton",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lomba lari jarak jauh (dengan menempuh jarak 5 km, 10 km, 40,195 km dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lari%20maraton",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balai (gedung, rumah, ruang) tempat mengurus suatu pekerjaan (perusahaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor",
+  "related": [],
+  "detailed": false
+}

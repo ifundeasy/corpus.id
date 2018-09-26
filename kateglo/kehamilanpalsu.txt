@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehamilan palsu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tidak ada kehamilan, tetapi menunjukkan beberapa tanda dan gejala kehamilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehamilan%20palsu",
+  "related": [],
+  "detailed": false
+}

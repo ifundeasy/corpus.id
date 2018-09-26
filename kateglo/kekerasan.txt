@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekerasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) keras;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan seseorang atau kelompok orang yang menyebabkan cedera atau matinya orang lain atau menyebabkan kerusakan fisik atau barang orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "paksaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekerasan",
+  "related": [],
+  "detailed": false
+}

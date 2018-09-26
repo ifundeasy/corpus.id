@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecik",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kecil"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "biji sawo (manila dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecik",
+  "related": [],
+  "detailed": false
+}

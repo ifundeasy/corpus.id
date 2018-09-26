@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spektakel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan; tontonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektakel",
+  "related": [],
+  "detailed": false
+}

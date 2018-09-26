@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pagu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "para-para (di dapur);"
+      },
+      {
+        "type": "desc",
+        "text": "loteng (di rumah, tempat menyimpan barang-barang);"
+      },
+      {
+        "type": "desc",
+        "text": "langit-langit (rumah); plafon;"
+      },
+      {
+        "type": "desc",
+        "text": "batas tertinggi (tentang anggaran); plafon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pagu",
+  "related": [],
+  "detailed": false
+}

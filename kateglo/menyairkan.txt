@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyairkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengarang syair;"
+      },
+      {
+        "type": "desc",
+        "text": "melagukan syair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyairkan",
+  "related": [],
+  "detailed": false
+}

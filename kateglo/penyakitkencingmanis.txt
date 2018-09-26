@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit kencing manis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diabetes;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20kencing%20manis",
+  "related": [],
+  "detailed": false
+}

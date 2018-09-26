@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pedamaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mencari damar; tempat yang banyak damarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "suluh dari damar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedamaran",
+  "related": [],
+  "detailed": false
+}

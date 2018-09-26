@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekonomi pedesaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ekonomi yang berdasarkan hasil produksi dari daerah pedesaan, biasanya bersifat tradisional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonomi%20pedesaan",
+  "related": [],
+  "detailed": false
+}

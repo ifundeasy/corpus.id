@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "enak-enak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "asyik (tentang berbuat sesuatu);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lelap-lelapnya; pulas-pulasnya (tentang tidur);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "leha-leha; berpangku tangan; bersantai-santai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enak-enak",
+  "related": [],
+  "detailed": false
+}

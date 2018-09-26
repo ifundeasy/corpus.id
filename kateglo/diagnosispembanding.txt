@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagnosis pembanding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diagnosis yang dilakukan dengan membanding-bandingkan tanda klinis suatu penyakit dengan tanda klinis penyakit lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagnosis%20pembanding",
+  "related": [],
+  "detailed": false
+}

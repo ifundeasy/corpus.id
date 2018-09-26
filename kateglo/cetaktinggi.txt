@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode pencetakan yang huruf dan/atau gambarnya menonjol lebih tinggi di atas permukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20tinggi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "probabilitas kelahiran menurut paritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) kemungkinan bagi seorang wanita yang pada awal tahun mempunyai sejumlah anak tertentu akan melahirkan anak lagi pada tahun itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=probabilitas%20kelahiran%20menurut%20paritas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "candi apit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "candi yang letaknya diapit oleh candi lain dalam satu kompleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=candi%20apit",
+  "related": [],
+  "detailed": false
+}

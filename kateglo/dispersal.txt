@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dispersal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) penyebaran dan/atau pergerakan menjauhi tempat kelahiran atau kepadatan populasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dispersal",
+  "related": [],
+  "detailed": false
+}

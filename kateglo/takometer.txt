@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) alat untuk mengukur banyaknya putaran per detik atau kecepatan sudut poros yang berputar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takometer",
+  "related": [],
+  "detailed": false
+}

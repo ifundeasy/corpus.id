@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang logam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpotong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terpenggal; kena potong;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dipotong (dipenggal, diputus);"
+      },
+      {
+        "type": "desc",
+        "text": "kena pengurangan (tentang gaji, harga);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja sudah digunting (tentang bahan pakaian);"
+      },
+      {
+        "type": "desc",
+        "text": "kena tebang (tentang pohon, kayu);"
+      },
+      {
+        "type": "desc",
+        "text": "teriris (tentang roti, daging, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terpendekkan (tentang kata, kalimat, nama);"
+      },
+      {
+        "type": "desc",
+        "text": "terselang (tentang perkataan orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpotong",
+  "related": [],
+  "detailed": false
+}

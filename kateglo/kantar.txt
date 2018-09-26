@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantar",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "berkantaran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta milik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang yang menjadi milik atau kepunyaan orang atau badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20milik",
+  "related": [],
+  "detailed": false
+}

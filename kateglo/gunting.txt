@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gunting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas untuk memotong kain (rambut dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "model (baju);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gunting",
+  "related": [],
+  "detailed": false
+}

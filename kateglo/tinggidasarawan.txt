@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinggi dasar awan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Met) tinggi yang diukur dari titik di bumi sampai ke awan yang terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggi%20dasar%20awan",
+  "related": [],
+  "detailed": false
+}

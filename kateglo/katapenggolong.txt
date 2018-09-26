@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata penggolong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata untuk menggolongkan nomina, biasanya mengikuti bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20penggolong",
+  "related": [],
+  "detailed": false
+}

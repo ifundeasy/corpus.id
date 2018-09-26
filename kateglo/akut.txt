@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "timbul secara mendadak dan cepat memburuk (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "memerlukan pemecahan segera; mendesak (tentang keadaan atau hal); gawat;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang dari 90o (tentang sudut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akut",
+  "related": [],
+  "detailed": false
+}

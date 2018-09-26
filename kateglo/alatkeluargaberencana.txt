@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat keluarga berencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencegah kehamilan atau mengatur kelahiran (seperti pil, kondom, spiral);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20keluarga%20berencana",
+  "related": [],
+  "detailed": false
+}

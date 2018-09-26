@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sufiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "afiks yang ditambahkan pada bagian belakang kata dasar, misal -an, -kan, dan -i; akhiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sufiks",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelut",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kelut-melut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelut",
+  "related": [],
+  "detailed": false
+}

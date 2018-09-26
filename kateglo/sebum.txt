@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sebum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak yang berfungsi melindungi elemen rambut dan mengatur keseimbangan kelembapan;"
+      },
+      {
+        "type": "desc",
+        "text": "lemak yang dihasilkan oleh kelenjar lemak kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebum",
+  "related": [],
+  "detailed": false
+}

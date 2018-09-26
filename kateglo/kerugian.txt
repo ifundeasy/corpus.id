@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerugian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menanggung atau menderita rugi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal rugi;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dianggap mendatangkan rugi (tentang kerusakan);"
+      },
+      {
+        "type": "desc",
+        "text": "ganti rugi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerugian",
+  "related": [],
+  "detailed": false
+}

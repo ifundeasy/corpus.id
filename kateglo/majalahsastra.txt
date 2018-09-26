@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah sastra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan khas secara berkala dan khusus membicarakan masalah sastra, resensi, buku (novel) kontemporer, atau kegiatan dalam bidang seni sastra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20sastra",
+  "related": [],
+  "detailed": false
+}

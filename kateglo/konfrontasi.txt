@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfrontasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berhadap-hadapan langsung (antara saksi dan terdakwa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "permusuhan; pertentangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) cara menentang musuh atau kesulitan dengan berhadapan langsung dan terang-terangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfrontasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca (,) yang dipakai untuk memisahkan unsur dalam suatu perincian, memisahkan nama orang dari gelar akademik yang mengiringinya, memisahkan anak kalimat yang mendahului induk kalimat, mengapit keterangan tambahan atau keterangan aposisi dalam kalimat, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan tidak sadar sama sekali dan tidak mampu memberi reaksi terhadap suatu rangsangan (karena keracunan, sakit parah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Astrol) bagian yang seperti kabut di sekitar kepala komet (bintang berekor);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koma",
+  "related": [],
+  "detailed": false
+}

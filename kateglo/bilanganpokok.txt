@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan pokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dipakai untuk membilang atau untuk menunjukkan berapa banyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20pokok",
+  "related": [],
+  "detailed": false
+}

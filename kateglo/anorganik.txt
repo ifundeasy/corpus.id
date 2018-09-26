@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anorganik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai atau terdiri atas benda selain manusia, tumbuhan, dan hewan; mengenai benda tidak hidup;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) elemen yang meliputi air, gas, asam, dan mineral, kecuali karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anorganik",
+  "related": [],
+  "detailed": false
+}

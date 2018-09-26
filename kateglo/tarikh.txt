@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tarikh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhitungan tahun;"
+      },
+      {
+        "type": "desc",
+        "text": "angka (bilangan) tahun;"
+      },
+      {
+        "type": "desc",
+        "text": "tanggal (hari, bulan, dan tahun);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) sejarah; tambo; riwayat; ahli --; ahli sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarikh",
+  "related": [],
+  "detailed": false
+}

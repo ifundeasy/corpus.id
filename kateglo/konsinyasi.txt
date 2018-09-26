@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsinyasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larangan bagi tentara untuk meninggalkan kesatrian (dalam keadaan siaga);"
+      },
+      {
+        "type": "desc",
+        "text": "larangan meninggalkan tempat kerja karena harus siap bertugas sewaktu-waktu atau harus menyelesaikan tugas yang mendesak;"
+      },
+      {
+        "type": "desc",
+        "text": "berkumpulnya sejumlah petugas di suatu tempat untuk menggarap pekerjaan secara intensif serta tidak dibenarkan meninggalkan tempat kerja selama kegiatan berlangsung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) penitipan uang kepada pengadilan (misal apabila penagih utang menolak menerima pembayaran);"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) penitipan barang dagangan kepada agen atau orang untuk dijualkan dengan pembayaran kemudian; jual titip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsinyasi",
+  "related": [],
+  "detailed": false
+}

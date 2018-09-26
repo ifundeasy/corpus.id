@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lambat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "perlahan-lahan (geraknya, jalannya, dsb); tidak cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "memerlukan waktu banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tepat pada waktunya; ketinggalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lambat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perenggang waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perintang waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perenggang%20waktu",
+  "related": [],
+  "detailed": false
+}

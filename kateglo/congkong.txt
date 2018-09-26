@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "congkong",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencongkong"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) rumah jaga; gardu;"
+      },
+      {
+        "type": "desc",
+        "text": "tarahan kayu; tatal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=congkong",
+  "related": [],
+  "detailed": false
+}

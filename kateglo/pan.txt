@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (tempat) untuk memanggang (kue dsb), terbuat dari seng tebal (bekas kaleng, drum, dsb); pemanggang;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp, cak) kapan (pertanyaan untuk menyungguhkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "engku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan terhadap keluarga raja; sebutan (kata sapaan) untuk orang yang patut dihormati (guru dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "paman; mamak (dari pihak ibu);"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan (kata sapaan) kepada kakek (datuk); angku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=engku",
+  "related": [],
+  "detailed": false
+}

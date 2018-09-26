@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeliharaan medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) interaksi yang terjadi antara pemberi dan penerima pelayanan kesehatan selama si penerima mengalami gangguan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeliharaan%20medis",
+  "related": [],
+  "detailed": false
+}

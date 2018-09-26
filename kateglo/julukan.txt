@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "julukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang diberikan sehubungan dengan keistimewaannya dsb; gelar kehormatan;"
+      },
+      {
+        "type": "desc",
+        "text": "nama sindiran; nama ejekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=julukan",
+  "related": [],
+  "detailed": false
+}

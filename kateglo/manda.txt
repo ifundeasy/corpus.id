@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "mamanda;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mau; mau atau tahan (menderita);"
+      },
+      {
+        "type": "link",
+        "text": "mandi"
+      },
+      {
+        "type": "desc",
+        "text": "kanda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manda",
+  "related": [],
+  "detailed": false
+}

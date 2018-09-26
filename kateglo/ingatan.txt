@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ingatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang diingat (teringat); apa yang terbayang dalam pikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (daya batin) untuk mengingat atau menyimpan sesuatu yang pernah diketahui (dipahami, dipelajari, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pikiran (dalam arti angan-angan); kesadaran;"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang terbit dalam hati (seperti niat atau cita-cita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ingatan",
+  "related": [],
+  "detailed": false
+}

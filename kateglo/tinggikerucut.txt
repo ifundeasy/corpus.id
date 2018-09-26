@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinggi kerucut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) jarak puncak berupa panjang garis dari puncak yang tegak lurus pada alas, antara puncak dan titik potongnya dengan alas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggi%20kerucut",
+  "related": [],
+  "detailed": false
+}

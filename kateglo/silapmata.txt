@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "silap mata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "salah penglihatan;"
+      },
+      {
+        "type": "desc",
+        "text": "silau;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sadar;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang hati-hati;"
+      },
+      {
+        "type": "desc",
+        "text": "sulap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silap%20mata",
+  "related": [],
+  "detailed": false
+}

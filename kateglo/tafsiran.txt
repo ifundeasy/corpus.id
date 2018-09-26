@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tafsiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelasan atau pendapat (tentang suatu kata, kalimat, cerita, dsb); interpretasi; hasil menafsirkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tafsiran",
+  "related": [],
+  "detailed": false
+}

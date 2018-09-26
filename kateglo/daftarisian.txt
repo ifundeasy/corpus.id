@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar isian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas yang berisi kolom untuk diisi dengan berbagai keterangan (misal nama, umur, pekerjaan, dan pendidikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20isian",
+  "related": [],
+  "detailed": false
+}

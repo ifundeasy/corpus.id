@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deklamasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyajian sajak yang disertai lagu dan gaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklamasi",
+  "related": [],
+  "detailed": false
+}

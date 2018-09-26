@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lema",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau frasa masukan dalam kamus di luar definisi atau penjelasan lain yang diberikan dalam entri;"
+      },
+      {
+        "type": "desc",
+        "text": "butir masukan; entri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lema",
+  "related": [],
+  "detailed": false
+}

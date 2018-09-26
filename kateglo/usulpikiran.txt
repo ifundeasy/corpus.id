@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usul pikiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asas (pokok) pikiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usul%20pikiran",
+  "related": [],
+  "detailed": false
+}

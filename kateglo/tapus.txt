@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon yang kayunya baik untuk perkakas rumah; Elateriospermum tapos;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu tapos;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menapus"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapus",
+  "related": [],
+  "detailed": false
+}

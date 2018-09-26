@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekrut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "calon serdadu (dalam tentara);"
+      },
+      {
+        "type": "desc",
+        "text": "anggota baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekrut",
+  "related": [],
+  "detailed": false
+}

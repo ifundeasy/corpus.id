@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banda",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "harta banda"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) kekayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banda",
+  "related": [],
+  "detailed": false
+}

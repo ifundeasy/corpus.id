@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lancap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rata dan licin;"
+      },
+      {
+        "type": "link",
+        "text": "terlancap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lancap",
+  "related": [],
+  "detailed": false
+}

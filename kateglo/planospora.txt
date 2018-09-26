@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "planospora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "spora yang dapat bergerak aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=planospora",
+  "related": [],
+  "detailed": false
+}

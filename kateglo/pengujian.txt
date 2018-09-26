@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengujian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menguji;"
+      },
+      {
+        "type": "desc",
+        "text": "(Keu) pemeriksaan atas transaksi keuangan; audit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengujian",
+  "related": [],
+  "detailed": false
+}

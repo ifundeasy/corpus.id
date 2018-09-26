@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gandar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tongkat untuk memikul; pikulan;"
+      },
+      {
+        "type": "desc",
+        "text": "sumbu; poros;"
+      },
+      {
+        "type": "desc",
+        "text": "tangkai timba sumur;"
+      },
+      {
+        "type": "desc",
+        "text": "tangan (lengan) neraca (timbangan dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggandar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gandar",
+  "related": [],
+  "detailed": false
+}

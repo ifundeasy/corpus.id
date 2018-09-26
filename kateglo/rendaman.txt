@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rendaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(barang dsb) yang sudah (sedang) direndam;"
+      },
+      {
+        "type": "desc",
+        "text": "hal merendam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rendaman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang berkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diperoleh dengan jalan halal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20berkat",
+  "related": [],
+  "detailed": false
+}

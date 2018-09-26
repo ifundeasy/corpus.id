@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telinga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organ tubuh untuk mendengar;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pendengaran yang terletak di kanan kiri kepala (manusia atau binatang); kuping;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian barang atau nama sesuatu yang rupanya seperti telinga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telinga",
+  "related": [],
+  "detailed": false
+}

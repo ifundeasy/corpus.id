@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pematang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan kecil yang agak ditinggikan (di sawah, di tempat yang berpaya-paya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) bagian tanah di sisi kotak penggalian yang dibiarkan sehingga tempat yang digali tampak dan dapat terus diteliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pematang",
+  "related": [],
+  "detailed": false
+}

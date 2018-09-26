@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turbiditas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekeruhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turbiditas",
+  "related": [],
+  "detailed": false
+}

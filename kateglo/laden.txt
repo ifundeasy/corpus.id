@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laden",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meladeni"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laden",
+  "related": [],
+  "detailed": false
+}

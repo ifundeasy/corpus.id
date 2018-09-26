@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi dalam suatu wilayah yang mempunyai kekuasaan tertinggi yang sah dan ditaati oleh rakyat;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok sosial yang menduduki wilayah atau daerah tertentu yang diorganisasi di bawah lembaga politik dan pemerintah yang efektif, mempunyai kesatuan politik, berdaulat sehingga berhak menentukan tujuan nasionalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara",
+  "related": [],
+  "detailed": false
+}

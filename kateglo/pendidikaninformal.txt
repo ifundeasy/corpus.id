@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan informal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan atau pelatihan yang terdapat di dalam keluarga atau masyarakat dalam bentuk yang tidak terorganisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20informal",
+  "related": [],
+  "detailed": false
+}

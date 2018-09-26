@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alias",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "disebut juga; sama dengan (digunakan pada nama);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama samaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alias",
+  "related": [],
+  "detailed": false
+}

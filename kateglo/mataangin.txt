@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arah jarum pedoman; asal angin datang (yaitu utara, timur, selatan, barat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20angin",
+  "related": [],
+  "detailed": false
+}

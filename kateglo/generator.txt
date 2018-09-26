@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "generator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembangkit tenaga (listrik, uap, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=generator",
+  "related": [],
+  "detailed": false
+}

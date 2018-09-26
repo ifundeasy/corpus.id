@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cendekia",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tajam pikiran; lekas mengerti (kalau diberi tahu sesuatu); cerdas; pandai;"
+      },
+      {
+        "type": "desc",
+        "text": "cepat mengerti situasi dan pandai mencari jalan keluar (pandai menggunakan kesempatan); cerdik;"
+      },
+      {
+        "type": "desc",
+        "text": "terpelajar; cerdik pandai; cerdik cendekia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cendekia",
+  "related": [],
+  "detailed": false
+}

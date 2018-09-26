@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lendungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) jarak vertikal antara titik paling bawah kabel yang melendung ke garis yang ditarik antara ujung pangkal garis tersebut di tiang pendukung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lendungan",
+  "related": [],
+  "detailed": false
+}

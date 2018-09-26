@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarang periboga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengarang yang menulis masalah makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarang%20periboga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masalah; persoalan;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan (yang perlu diselesaikan atau dibereskan);"
+      },
+      {
+        "type": "desc",
+        "text": "tindak pidana;"
+      },
+      {
+        "type": "desc",
+        "text": "tentang; mengenai;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) karena;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkara",
+  "related": [],
+  "detailed": false
+}

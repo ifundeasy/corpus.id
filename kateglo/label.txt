@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "label",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepotong kertas (kain, logam, kayu, dsb) yang ditempelkan pada barang dan menjelaskan tentang nama barang, nama pemilik, tujuan, alamat, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "etiket; merek dagang;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk singkat tentang zat yang terkandung dalam obat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk kelas kata, sumber kata, dsb dalam kamus;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan analisis pengujian mutu fisik, fisiologis, dan genetik dari benih dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=label",
+  "related": [],
+  "detailed": false
+}

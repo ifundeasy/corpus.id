@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temperas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertemperasan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan darat, Cyslocheilichtys apogon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temperas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang memuat karangan untuk seluruh keluarga, dari yang ringan (bacaan anak-anak) sampai ke soal-soal rumah tangga (resep, mebel, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20keluarga",
+  "related": [],
+  "detailed": false
+}

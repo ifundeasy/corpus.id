@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panas-panas tahi ayam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hangat-hangat tahi ayam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panas-panas%20tahi%20ayam",
+  "related": [],
+  "detailed": false
+}

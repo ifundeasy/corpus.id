@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu duga berangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkiraan waktu berangkat kapal dari suatu tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20duga%20berangkat",
+  "related": [],
+  "detailed": false
+}

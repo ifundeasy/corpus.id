@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelau",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "menjelau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelau",
+  "related": [],
+  "detailed": false
+}

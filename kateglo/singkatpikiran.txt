@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkat pikiran",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "singkat akal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkat%20pikiran",
+  "related": [],
+  "detailed": false
+}

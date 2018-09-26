@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "denyutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan turun naik (urat nadi, ubun-ubun, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denyutan",
+  "related": [],
+  "detailed": false
+}

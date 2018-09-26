@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah agama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah yang memberi pendidikan dalam hal keagamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20agama",
+  "related": [],
+  "detailed": false
+}

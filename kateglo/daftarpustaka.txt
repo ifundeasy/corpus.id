@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar pustaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar yang mencantumkan judul buku, nama pengarang, penerbit, dsb yang ditempatkan pada bagian akhir suatu karangan atau buku, dan disusun menurut abjad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20pustaka",
+  "related": [],
+  "detailed": false
+}

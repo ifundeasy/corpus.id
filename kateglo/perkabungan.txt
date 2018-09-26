@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian (kabung dsb) yang dipakai dalam berkabung;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan berkabung (berduka cita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkabungan",
+  "related": [],
+  "detailed": false
+}

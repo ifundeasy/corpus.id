@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "birokrat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai yang bertindak secara birokratis;"
+      },
+      {
+        "type": "desc",
+        "text": "seorang yang menjadi bagian dari birokrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=birokrat",
+  "related": [],
+  "detailed": false
+}

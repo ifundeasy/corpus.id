@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teks naratif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teks yang tidak bersifat dialog, dan isinya merupakan suatu kisah sejarah, deretan peristiwa, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks%20naratif",
+  "related": [],
+  "detailed": false
+}

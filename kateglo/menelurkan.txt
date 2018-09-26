@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menelurkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan telur;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) melahirkan; menerbitkan (koran dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menghasilkan; menciptakan (syair dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengadakan (persetujuan, perjanjian, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menelurkan",
+  "related": [],
+  "detailed": false
+}

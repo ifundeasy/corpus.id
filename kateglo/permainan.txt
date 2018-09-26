@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permainan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang digunakan untuk bermain; barang atau sesuatu yang dipermainkan; mainan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal bermain; perbuatan bermain (bulu tangkis dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan yang dilakukan dengan tidak sungguh-sungguh (hanya untuk main-main);"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan, tontonan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perhiasan yang digantungkan pada kalung dsb, seperti medalion;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) perempuan yang diajak untuk bersenang-senang saja (tidak untuk dijadikan istri yang sah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permainan",
+  "related": [],
+  "detailed": false
+}

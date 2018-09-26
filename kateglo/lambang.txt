@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu seperti tanda (lukisan, lencana, dsb) yang menyatakan suatu hal atau mengandung maksud tertentu; simbol;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda pengenal yang tetap (menyatakan sifat, keadaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "huruf atau tanda yang digunakan untuk menyatakan unsur, senyawa, sifat, atau satuan matematika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lambang",
+  "related": [],
+  "detailed": false
+}

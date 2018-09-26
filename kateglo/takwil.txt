@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takwil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan; penjelasan (seperti tafsir, takbir);"
+      },
+      {
+        "type": "desc",
+        "text": "penafsiran makna ayat Alquran, mengandung pengertian yang tersirat (implisit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takwil",
+  "related": [],
+  "detailed": false
+}

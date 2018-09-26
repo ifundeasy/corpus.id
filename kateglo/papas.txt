@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "papas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memapas"
+      },
+      {
+        "type": "link",
+        "text": "berpapasan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papas",
+  "related": [],
+  "detailed": false
+}

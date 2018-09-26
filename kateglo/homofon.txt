@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang sama lafalnya dengan kata lain, tetapi berbeda ejaan dan maknanya (seperti masa dan massa, sangsi dan sanksi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homofon",
+  "related": [],
+  "detailed": false
+}

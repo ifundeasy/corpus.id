@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benih bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) benih yang bersih varietas dan bersih fisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benih%20bersih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pengontrol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "perkakas untuk mengamat-amati atau mengawasi sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "perkakas untuk mengatur; transformator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pengontrol",
+  "related": [],
+  "detailed": false
+}

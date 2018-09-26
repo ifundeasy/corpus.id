@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) air yang terdapat di bawah permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20tanah",
+  "related": [],
+  "detailed": false
+}

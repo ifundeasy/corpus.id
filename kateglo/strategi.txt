@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "strategi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu dan seni menggunakan semua sumber daya bangsa(-bangsa) untuk melaksanakan kebijaksanaan tertentu dalam perang dan damai;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu dan seni memimpin bala tentara untuk menghadapi musuh dalam perang, dalam kondisi yang menguntungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "rencana yang cermat mengenai kegiatan untuk mencapai sasaran khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang baik menurut siasat perang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=strategi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diagnostik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu untuk menentukan jenis penyakit berdasarkan gejala yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagnostik",
+  "related": [],
+  "detailed": false
+}

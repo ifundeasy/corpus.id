@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penutupan tajuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "luas tanah yang tertutup tajuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penutupan%20tajuk",
+  "related": [],
+  "detailed": false
+}

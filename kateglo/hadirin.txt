@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hadirin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua orang yang hadir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadirin",
+  "related": [],
+  "detailed": false
+}

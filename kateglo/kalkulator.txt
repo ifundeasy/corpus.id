@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalkulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat hitung;"
+      },
+      {
+        "type": "desc",
+        "text": "juru hitung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalkulator",
+  "related": [],
+  "detailed": false
+}

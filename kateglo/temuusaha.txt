@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "temu usaha",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pertemuan para pengusaha untuk membicarakan masalah perdagangan, produksi, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temu%20usaha",
+  "related": [],
+  "detailed": false
+}

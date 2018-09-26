@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemelihara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memelihara(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang suka memelihara dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemelihara",
+  "related": [],
+  "detailed": false
+}

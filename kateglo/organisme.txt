@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) segala jenis makhluk hidup (tumbuhan, hewan, dsb); susunan yang bersistem dari berbagai bagian jasad hidup untuk suatu tujuan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisme",
+  "related": [],
+  "detailed": false
+}

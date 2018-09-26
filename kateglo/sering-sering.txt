@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sering-sering",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sering kali;"
+      },
+      {
+        "type": "desc",
+        "text": "kadang-kadang; sekali-sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sering-sering",
+  "related": [],
+  "detailed": false
+}

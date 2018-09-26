@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemplang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengemplang"
+      },
+      {
+        "type": "desc",
+        "text": "kerupuk yang dibuat dari sagu dan ikan, bentuknya bulat;"
+      },
+      {
+        "type": "desc",
+        "text": "penganan terbuat dari sagu yang diberi garam atau singkong diparut, dikukus, dijemur, kemudian digoreng, biasanya dibentuk dengan kepalan tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemplang",
+  "related": [],
+  "detailed": false
+}

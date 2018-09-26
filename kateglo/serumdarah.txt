@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serum darah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) bagian cairan darah setelah pengeluaran fibrin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serum%20darah",
+  "related": [],
+  "detailed": false
+}

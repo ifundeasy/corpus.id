@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terintervensi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dijadikan sasaran intervensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terintervensi",
+  "related": [],
+  "detailed": false
+}

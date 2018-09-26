@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang bandar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dipertaruhkan dalam perjudian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20bandar",
+  "related": [],
+  "detailed": false
+}

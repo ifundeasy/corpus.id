@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkolator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memasak kopi dengan tempat kopi yang berlubang, yang menyebabkan air panas dapat masuk ke dalamnya dan mengisap sari kopi itu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) bejana kaca panjang berbentuk kerucut dengan dasar dikecilkan, seperti tabung untuk mengekstrak obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkolator",
+  "related": [],
+  "detailed": false
+}

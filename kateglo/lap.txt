@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggosok (biasanya dari kain); penyeka; penghapus;"
+      },
+      {
+        "type": "desc",
+        "text": "putaran (dalam balap mobil atau motor);"
+      },
+      {
+        "type": "desc",
+        "text": "jarak sepanjang kolam renang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lap",
+  "related": [],
+  "detailed": false
+}

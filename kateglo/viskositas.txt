@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "viskositas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan menjadi viskose;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat fisik zat yang bergantung pada geseran molekul komponennya; kekentalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=viskositas",
+  "related": [],
+  "detailed": false
+}

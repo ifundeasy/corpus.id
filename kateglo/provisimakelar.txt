@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "provisi makelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "imbalan yang dipungut makelar atas transaksi jual beli (tanah dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=provisi%20makelar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galaktometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengukur kerapatan yang telah ditera untuk membaca persentase krim yang digunakan dalam pengujian mutu susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galaktometer",
+  "related": [],
+  "detailed": false
+}

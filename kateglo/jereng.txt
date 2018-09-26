@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jereng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "juling;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjereng"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jereng",
+  "related": [],
+  "detailed": false
+}

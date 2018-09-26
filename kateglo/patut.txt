@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik; layak; pantas; senonoh;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai benar (dengan); sepadan (dengan); seimbang (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "masuk akal; wajar;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah seharusnya (sepantasnya, selayaknya);"
+      },
+      {
+        "type": "desc",
+        "text": "tentu saja; sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patut",
+  "related": [],
+  "detailed": false
+}

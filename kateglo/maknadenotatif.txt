@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna denotatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makna yang bersifat denotasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20denotatif",
+  "related": [],
+  "detailed": false
+}

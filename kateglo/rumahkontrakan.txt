@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah kontrakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah yang disewa dengan waktu yang ditentukan (misal 1 tahun, 2 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20kontrakan",
+  "related": [],
+  "detailed": false
+}

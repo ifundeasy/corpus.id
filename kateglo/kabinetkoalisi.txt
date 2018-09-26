@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabinet koalisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabinet yang menterinya terdiri atas anggota beberapa partai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabinet%20koalisi",
+  "related": [],
+  "detailed": false
+}

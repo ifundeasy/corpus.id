@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkategori",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dikategorikan;"
+      },
+      {
+        "type": "desc",
+        "text": "termasuk kategori;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkategori",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "contoh barang dagangan untuk dinilai mutunya (bobotnya, warnanya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "binatang, orang, atau tumbuhan yang bentuk atau rupanya sangat menyimpang dari yang biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "makhluk yang berukuran luar biasa (sangat besar);"
+      },
+      {
+        "type": "desc",
+        "text": "makhluk yang menakutkan, hanya terdapat dalam dongeng, seperti ular naga raksasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monster",
+  "related": [],
+  "detailed": false
+}

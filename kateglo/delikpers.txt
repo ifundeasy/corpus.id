@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "delik pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan dalam surat kabar atau media pers lainnya yang melanggar undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=delik%20pers",
+  "related": [],
+  "detailed": false
+}

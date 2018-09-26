@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurikulum muatan lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurikulum yang berisi mata pelajaran yang disesuaikan dengan kepentingan daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurikulum%20muatan%20lokal",
+  "related": [],
+  "detailed": false
+}

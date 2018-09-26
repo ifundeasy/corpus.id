@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil ambulans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil khusus untuk mengangkut orang sakit, korban kecelakaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20ambulans",
+  "related": [],
+  "detailed": false
+}

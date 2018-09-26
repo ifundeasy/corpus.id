@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nomor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka sebagai tanda atau lambang bilangan;"
+      },
+      {
+        "type": "desc",
+        "text": "angka yang menunjukkan kedudukan dalam urutan, kumpulan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis lomba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor",
+  "related": [],
+  "detailed": false
+}

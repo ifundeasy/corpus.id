@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sejuta",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 1.000.000 (Arab) atau M (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-1.000.000 sesudah ke-999999;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 1000 kali 1000;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejuta",
+  "related": [],
+  "detailed": false
+}

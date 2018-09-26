@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter spesialis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang mengkhususkan keahliannya dalam satu macam penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20spesialis",
+  "related": [],
+  "detailed": false
+}

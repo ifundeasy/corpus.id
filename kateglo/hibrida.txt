@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hibrida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "turunan yang dihasilkan dari perkawinan antara dua jenis yang berlainan (tentang hewan atau tumbuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kata kompleks yang bagian-bagiannya berasal dari bahasa berbeda, seperti dwifungsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hibrida",
+  "related": [],
+  "detailed": false
+}

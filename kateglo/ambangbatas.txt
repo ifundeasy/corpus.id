@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ambang batas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkatan batas yang masih dapat diterima atau ditoleransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambang%20batas",
+  "related": [],
+  "detailed": false
+}

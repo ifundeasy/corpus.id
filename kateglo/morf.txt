@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "fonem atau untaian fonem yang berasosiasi dengan suatu makna;"
+      },
+      {
+        "type": "desc",
+        "text": "anggota morfem yang tidak dikaitkan dengan distribusinya (seperti i pada kata kenai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morf",
+  "related": [],
+  "detailed": false
+}

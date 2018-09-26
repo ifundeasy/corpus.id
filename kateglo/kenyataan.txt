@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenyataan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang nyata; yang benar-benar ada;"
+      },
+      {
+        "type": "desc",
+        "text": "terbukti; bukti(nya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenyataan",
+  "related": [],
+  "detailed": false
+}

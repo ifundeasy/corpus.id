@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pernikahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan) nikah;"
+      },
+      {
+        "type": "desc",
+        "text": "upacara nikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pernikahan",
+  "related": [],
+  "detailed": false
+}

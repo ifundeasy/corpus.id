@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak mentah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak bumi yang belum diolah atau belum disuling;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran rumit mineral hidrokarbon yang diperoleh dari endapan geologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20mentah",
+  "related": [],
+  "detailed": false
+}

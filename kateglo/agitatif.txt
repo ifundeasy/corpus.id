@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agitatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat agitasi (tentang tulisan, pidato, dsb); bersifat menghasut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agitatif",
+  "related": [],
+  "detailed": false
+}

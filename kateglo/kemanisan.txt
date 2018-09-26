@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemanisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa manis;"
+      },
+      {
+        "type": "desc",
+        "text": "kebaikan; kecantikan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlalu manis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemanisan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerusakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal rusak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menderita rusak (kecelakaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerusakan",
+  "related": [],
+  "detailed": false
+}

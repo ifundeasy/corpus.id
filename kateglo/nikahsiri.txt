@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nikah siri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernikahan yang hanya disaksikan oleh seorang modin dan saksi, tidak melalui Kantor Urusan Agama, menurut agama Islam sudah sah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nikah%20siri",
+  "related": [],
+  "detailed": false
+}

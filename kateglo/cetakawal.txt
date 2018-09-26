@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "cetakan dengan atau tanpa tinta yang masih akan ditumpangi cetakan warna lain;"
+      },
+      {
+        "type": "desc",
+        "text": "terbitan pendahuluan sebuah artikel atau karya tulis lain yang akan diterbitkan dalam bentuk buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20awal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dumping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) sistem penjualan barang di pasaran luar negeri dalam jumlah banyak dengan harga yang rendah sekali (dengan tujuan agar harga pembelian di dalam negeri tidak diturunkan sehingga akhirnya dapat menguasai pasaran luar negeri dan dapat menguasai harga kembali);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dumping",
+  "related": [],
+  "detailed": false
+}

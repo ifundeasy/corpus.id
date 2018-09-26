@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "istilah khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "istilah yang pemakaiannya dan/atau maknanya terbatas pada bidang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=istilah%20khusus",
+  "related": [],
+  "detailed": false
+}

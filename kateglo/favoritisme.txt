@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "favoritisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengunjukan rasa suka, senang, kasih, dsb terhadap seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=favoritisme",
+  "related": [],
+  "detailed": false
+}

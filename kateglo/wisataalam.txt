@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata alam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perjalanan yang memanfaatkan potensi sumber daya alam dan tata lingkungannya sebagai objek tujuan wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20alam",
+  "related": [],
+  "detailed": false
+}

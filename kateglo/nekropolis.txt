@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nekropolis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekuburan besar dari suatu kota kuno;"
+      },
+      {
+        "type": "desc",
+        "text": "kota yang telah mendekati kehancuran karena kepadatan penduduk dan kemunduran mental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nekropolis",
+  "related": [],
+  "detailed": false
+}

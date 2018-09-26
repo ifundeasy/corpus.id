@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ragam bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) variasi bahasa menurut pemakaian, yang berbeda-beda menurut topik yang dibicarakan, menurut hubungan pembicara, kawan bicara, dan orang yang dibicarakan, serta menurut medium pembicaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragam%20bahasa",
+  "related": [],
+  "detailed": false
+}

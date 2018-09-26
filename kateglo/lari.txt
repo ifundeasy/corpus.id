@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lari",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melangkah dengan kecepaatn tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang; lenyap;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi (keluar) tidak dengan cara sah (baik-baik); kabur;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi (berpindah) untuk menyelamatkan diri;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "arah; tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) panjang suatu bidang;"
+      },
+      {
+        "type": "desc",
+        "text": "bergeser;"
+      },
+      {
+        "type": "link",
+        "text": "lari-lari"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lari",
+  "related": [],
+  "detailed": false
+}

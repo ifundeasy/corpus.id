@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tubuh sebelah depan di antara perut dan leher;"
+      },
+      {
+        "type": "desc",
+        "text": "rongga tubuh tempat letak jantung dan paru-paru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dada",
+  "related": [],
+  "detailed": false
+}

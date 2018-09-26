@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laboratoris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan hasil penelitian dari laboratorium;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "laboran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laboratoris",
+  "related": [],
+  "detailed": false
+}

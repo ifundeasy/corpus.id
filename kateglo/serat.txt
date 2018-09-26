@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sendat; tidak licin; tidak lancar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) sel atau jaringan serupa benang atau pita panjang, berasal dari hewan atau tumbuhan (ulat, batang pisang, daun nanas, kulit kayu, dsb), digunakan untuk membuat kertas, tekstil, dan sikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rundung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merundung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rundung",
+  "related": [],
+  "detailed": false
+}

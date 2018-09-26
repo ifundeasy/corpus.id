@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alur cerita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jalinan peristiwa dalam cerita untuk memperoleh efek tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alur%20cerita",
+  "related": [],
+  "detailed": false
+}

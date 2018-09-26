@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis;"
+      },
+      {
+        "type": "desc",
+        "text": "kelas; golongan;"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan ciri yang didukung oleh ciri-ciri anggota kelasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) tataran dalam taksonomi yang ada di bawah keluarga dan di atas spesies; marga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genus",
+  "related": [],
+  "detailed": false
+}

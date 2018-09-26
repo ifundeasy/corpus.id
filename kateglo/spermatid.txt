@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spermatid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) sel haploid yang langsung berkembang menjadi sel mani yang berfungsi tanpa melalui pembelahan sel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spermatid",
+  "related": [],
+  "detailed": false
+}

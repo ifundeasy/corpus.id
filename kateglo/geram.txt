@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "marah sekali; gemas;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeram"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geram",
+  "related": [],
+  "detailed": false
+}

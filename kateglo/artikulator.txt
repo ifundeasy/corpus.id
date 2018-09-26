@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artikulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bagian alat ucap yang dapat bergerak, misal bagian lidah dan bibir bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artikulator",
+  "related": [],
+  "detailed": false
+}

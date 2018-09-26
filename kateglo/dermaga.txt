@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tembok rendah yang memanjang di tepi pantai menjorok ke laut di kawasan pelabuhan (untuk pangkalan dan bongkar muat barang); kade;"
+      },
+      {
+        "type": "desc",
+        "text": "tembok penahan ombak (di pelabuhan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermaga",
+  "related": [],
+  "detailed": false
+}

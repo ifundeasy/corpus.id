@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan bulat positif terkecil dari bilangan seluruhnya (bilangan satu);"
+      },
+      {
+        "type": "desc",
+        "text": "standar atau dasar ukuran (takaran, sukatan, uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok orang (tentara, alat-alat, dsb) yang merupakan keutuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat; unit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satuan",
+  "related": [],
+  "detailed": false
+}

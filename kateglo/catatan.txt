@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "catatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mencatat;"
+      },
+      {
+        "type": "desc",
+        "text": "peringatan; syarat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) kata di dalam sebuah buku yang masih perlu dijelaskan (kata itu diberi tanda, yang diulang pada tempat lain dan di belakang tanda diberi penjelasan, biasanya dicetak dengan huruf yang lebih kecil daripada teksnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catatan",
+  "related": [],
+  "detailed": false
+}

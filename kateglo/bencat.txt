@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bencat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gencat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bencat",
+  "related": [],
+  "detailed": false
+}

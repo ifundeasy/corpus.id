@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan kaleng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang diawetkan dan dikemas dalam kaleng tertutup rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20kaleng",
+  "related": [],
+  "detailed": false
+}

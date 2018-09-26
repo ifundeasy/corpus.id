@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proses",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "runtunan perubahan (peristiwa) dalam perkembangan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian tindakan, pembuatan, atau pengolahan yang menghasilkan produk;"
+      },
+      {
+        "type": "desc",
+        "text": "perkara dalam pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proses",
+  "related": [],
+  "detailed": false
+}

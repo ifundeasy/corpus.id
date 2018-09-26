@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terapeutik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan terapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapeutik",
+  "related": [],
+  "detailed": false
+}

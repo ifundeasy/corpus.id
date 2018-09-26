@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lalu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan lewat;"
+      },
+      {
+        "type": "desc",
+        "text": "berkata (langsung) semaunya;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lewat; sudah lampau;"
+      },
+      {
+        "type": "desc",
+        "text": "habis; selesai;"
+      },
+      {
+        "type": "desc",
+        "text": "lintas (dapat masuk terus); lulus;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kemudian; lantas;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak boleh ditebus kembali (tentang barang gadaian);"
+      },
+      {
+        "type": "desc",
+        "text": "berlangsung; berlanjut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lalu",
+  "related": [],
+  "detailed": false
+}

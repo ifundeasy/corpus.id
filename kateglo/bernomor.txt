@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bernomor",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai nomor; ada nomornya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bernomor",
+  "related": [],
+  "detailed": false
+}

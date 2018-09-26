@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesepak bola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain sepak bola;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesepak%20bola",
+  "related": [],
+  "detailed": false
+}

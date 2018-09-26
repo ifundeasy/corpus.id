@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosmetik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan kecantikan (tentang corak kulit);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat (bahan) untuk mempercantik wajah, kulit, rambut, dsb (seperti bedak, pemerah bibir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmetik",
+  "related": [],
+  "detailed": false
+}

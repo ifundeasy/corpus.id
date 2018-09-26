@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tinggi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jauh jaraknya dari posisi sebelah bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "panjang (tentang badan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah agak jauh ke atas (tentang matahari); sudah hampir tengah hari;"
+      },
+      {
+        "type": "desc",
+        "text": "luhur; mulia;"
+      },
+      {
+        "type": "desc",
+        "text": "yang sebelah atas (tentang tingkatan, pangkat, derajat, mutu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lanjut (tentang umur); banyak atau mahal (tentang harga, nilai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah maju (tentang kecerdasan, peradaban, dsb); sudah jauh pada tingkatan atas (tentang pengetahuan, pelajaran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sombong (tentang perkataan, tabiat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggi",
+  "related": [],
+  "detailed": false
+}

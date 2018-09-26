@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi pendahuluan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) surat kabar yang dicetak dan dikirimkan lebih dahulu daripada lembaran yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20pendahuluan",
+  "related": [],
+  "detailed": false
+}

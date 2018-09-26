@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wiweka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat berhati-hati;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sikap berhati-hati (terhadap segala masalah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wiweka",
+  "related": [],
+  "detailed": false
+}

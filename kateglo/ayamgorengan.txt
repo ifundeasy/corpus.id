@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ayam gorengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayam yang masih muda, biasanya berumur kurang dari sepuluh minggu, cocok untuk digoreng (tidak terlalu keras);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayam%20gorengan",
+  "related": [],
+  "detailed": false
+}

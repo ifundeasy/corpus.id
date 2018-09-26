@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertekur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tekur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertekur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang pengurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat pengurus;"
+      },
+      {
+        "type": "desc",
+        "text": "segenap anggota pengurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20pengurus",
+  "related": [],
+  "detailed": false
+}

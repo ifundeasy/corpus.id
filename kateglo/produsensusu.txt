@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produsen susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peternak (orang) yang mengusahakan ternak sapi perah atau ternak perah yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "sapi perah atau ternak perah lain yang memiliki kemampuan memproduksi air susu tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produsen%20susu",
+  "related": [],
+  "detailed": false
+}

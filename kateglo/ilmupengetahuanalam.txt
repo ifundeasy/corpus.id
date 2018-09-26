@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu pengetahuan alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu yang mencakupi biologi, fisika, dan kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20pengetahuan%20alam",
+  "related": [],
+  "detailed": false
+}

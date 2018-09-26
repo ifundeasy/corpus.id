@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang elektromagnetik dengan frekuensi radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20radio",
+  "related": [],
+  "detailed": false
+}

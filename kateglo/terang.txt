@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan dapat dilihat (didengar); nyata; jelas;"
+      },
+      {
+        "type": "desc",
+        "text": "cerah; bersinar;"
+      },
+      {
+        "type": "desc",
+        "text": "siang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "bersih (tentang halaman atau kebun) karena dibersihkan (disiangi, ditebangi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jernih; bersih (tentang udara, langit);"
+      },
+      {
+        "type": "desc",
+        "text": "sah (tentang bukti, barang-barang, dsb); sudah tidak meragukan (menyangsikan lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "terbukti (kebenarannya, kesalahannya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cahaya; sinar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan rapat, misal parlemen, yang menyatakan pendapat atau keinginan para anggota rapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mosi",
+  "related": [],
+  "detailed": false
+}

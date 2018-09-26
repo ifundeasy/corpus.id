@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkat tangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengangkat kedua belah tangan ke atas seperti ketika orang mulai salat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mengacungkan tangan ke atas tanda menunjukkan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak, ki) menyerah (tidak akan melawan lagi); takluk;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak, ki) tidak sanggup menghadapi; putus asa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkat%20tangan",
+  "related": [],
+  "detailed": false
+}

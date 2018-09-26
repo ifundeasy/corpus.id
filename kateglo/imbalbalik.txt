@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "imbal balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) sistem perdagangan timbal-balik antara dua negara, negara A menjual suatu produk ke negara B, negara B wajib membeli produk dari negara A;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imbal%20balik",
+  "related": [],
+  "detailed": false
+}

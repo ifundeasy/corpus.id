@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya katak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "gaya dada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20katak",
+  "related": [],
+  "detailed": false
+}

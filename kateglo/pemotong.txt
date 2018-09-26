@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemotong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memotong (menyembelih, memenggal);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memotong (menyembelih, memenggal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemotong",
+  "related": [],
+  "detailed": false
+}

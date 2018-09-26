@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyumpah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengangkat sumpah; bersumpah; menyatakan sesuatu dengan sumpah;"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh bersumpah; mengambil sumpah; menyumpahi;"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan kata-kata kotor (kutuk dsb); memaki-maki kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenakan perkataan (harapan dsb) yang tidak baik kepada; mengutuk; memaki-maki; menyumpah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyumpah",
+  "related": [],
+  "detailed": false
+}

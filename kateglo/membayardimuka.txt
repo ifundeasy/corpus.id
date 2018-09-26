@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membayar di muka",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar sebelum menerima barang atau jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membayar%20di%20muka",
+  "related": [],
+  "detailed": false
+}

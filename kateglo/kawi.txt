@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa Jawa Kuno;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa Jawa yang lazim dipakai dalam kesusastraan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) pengarang; pujangga;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuat; kukuh; sakti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawi",
+  "related": [],
+  "detailed": false
+}

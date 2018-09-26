@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juragan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebutan orang upahan terhadap majikan; tuan; nyonya;"
+      },
+      {
+        "type": "desc",
+        "text": "pemilik perusahaan (terutama perusahaan batik);"
+      },
+      {
+        "type": "desc",
+        "text": "pemilik dan pemimpin perahu (kapal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juragan",
+  "related": [],
+  "detailed": false
+}

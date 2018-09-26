@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orientasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peninjauan untuk menentukan sikap (arah, tempat, dsb) yang tepat dan benar;"
+      },
+      {
+        "type": "desc",
+        "text": "pandangan yang mendasari pikiran, perhatian atau kecenderungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orientasi",
+  "related": [],
+  "detailed": false
+}

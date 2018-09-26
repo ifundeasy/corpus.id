@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanggungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggungan (tanggung jawab);"
+      },
+      {
+        "type": "desc",
+        "text": "garansi;"
+      },
+      {
+        "type": "desc",
+        "text": "asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanggungan",
+  "related": [],
+  "detailed": false
+}

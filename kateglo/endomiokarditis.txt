@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endomiokarditis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "radang pada endokardia dan miokardia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endomiokarditis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seminari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga pendidikan bagi para calon pendeta (padri, pastor) Katolik Roma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seminari",
+  "related": [],
+  "detailed": false
+}

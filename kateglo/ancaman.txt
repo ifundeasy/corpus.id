@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ancaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diancamkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (hal dsb) mengancam;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) usaha yang dilaksanakan secara konsepsional melalui tindak politik dan/atau kejahatan yang diperkirakan dapat membahayakan tatanan serta kepentingan negara dan bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ancaman",
+  "related": [],
+  "detailed": false
+}

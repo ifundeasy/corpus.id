@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "talam (tetampan) besar tempat menghidangkan makanan; dulang;"
+      },
+      {
+        "type": "link",
+        "text": "menabak"
+      },
+      {
+        "type": "desc",
+        "text": "kuali (belanga) tempat memasak nasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabak",
+  "related": [],
+  "detailed": false
+}

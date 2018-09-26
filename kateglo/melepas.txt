@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melepas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan lepas; membiarkan (lalu, pergi, berangkat, berlayar, dibeli, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengantarkan orang (berjalan, berangkat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberhentikan (dari pekerjaan); memecat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melepas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amat",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "terlalu; sangat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengamati"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amat",
+  "related": [],
+  "detailed": false
+}

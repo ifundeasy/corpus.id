@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diuresis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pengeluaran air seni secara berlebihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diuresis",
+  "related": [],
+  "detailed": false
+}

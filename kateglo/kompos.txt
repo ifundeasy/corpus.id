@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pupuk campuran yang terdiri atas bahan organik (seperti daun dan jerami yang membusuk) dan kotoran hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompos",
+  "related": [],
+  "detailed": false
+}

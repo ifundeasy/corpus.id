@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "omnivor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makhluk pemakan tumbuhan dan pemakan da-ging (bahan nabati dan hewan); pemakan segala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=omnivor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspresivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "kekayaan ekspresi; isi ekspresi;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan mengekspresi dan kemauan mengekspresikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspresivitas",
+  "related": [],
+  "detailed": false
+}

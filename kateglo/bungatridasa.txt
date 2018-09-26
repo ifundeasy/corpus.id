@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bunga tridasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) bunga yang diperhitungkan berdasarkan ketentuan bahwa 1 bulan sama dengan 30 hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunga%20tridasa",
+  "related": [],
+  "detailed": false
+}

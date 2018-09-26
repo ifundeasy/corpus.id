@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anaerobik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat hidup tanpa memerlukan oksigen (tentang bakteri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anaerobik",
+  "related": [],
+  "detailed": false
+}

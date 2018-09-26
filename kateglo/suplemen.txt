@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suplemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(sesuatu) yang ditambahkan untuk melengkapi; tambahan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian ekstra pada surat kabar, majalah, dsb; lampiran pelengkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suplemen",
+  "related": [],
+  "detailed": false
+}

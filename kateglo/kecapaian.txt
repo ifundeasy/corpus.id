@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecapaian",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa sangat capai (lelah, letih); kelelahan; keletihan;"
+      },
+      {
+        "type": "desc",
+        "text": "perasaan sangat capai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecapaian",
+  "related": [],
+  "detailed": false
+}

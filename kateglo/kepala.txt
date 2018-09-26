@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tubuh yang di atas leher (pada manusia dan beberapa jenis hewan merupakan tempat otak, pusat jaringan saraf, dan beberapa pusat indra);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tubuh yang di atas leher tempat tumbuhnya rambut;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bagian suatu benda yang sebelah atas (ujung, depan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bagian yang terutama (yang penting, yang pokok, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pemimpin; ketua (kantor, pekerjaan, perkumpulan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) otak (pikiran, akal, budi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala",
+  "related": [],
+  "detailed": false
+}

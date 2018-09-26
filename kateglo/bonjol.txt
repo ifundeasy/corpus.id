@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bonjol",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "bonggol"
+      },
+      {
+        "type": "link",
+        "text": "boncol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bonjol",
+  "related": [],
+  "detailed": false
+}

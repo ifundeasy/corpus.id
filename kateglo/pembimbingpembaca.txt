@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembimbing pembaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota staf profesional, berpengalaman, dan cendekia yang diberi tugas membimbing pembaca dalam memilih buku, menarik perhatian pembaca, menjalin hubungan erat dengan lembaga pendidikan, dan secara umum mengembangkan daya guna buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembimbing%20pembaca",
+  "related": [],
+  "detailed": false
+}

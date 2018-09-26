@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontribusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang iuran (kepada perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sumbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontribusi",
+  "related": [],
+  "detailed": false
+}

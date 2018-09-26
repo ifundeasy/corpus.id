@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mbok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan (ragam kromo ngoko) terhadap wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan terhadap orang tua wanita; ibu;"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan terhadap wanita tua yang kedudukan sosialnya lebih rendah daripada yang menyebutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mbok",
+  "related": [],
+  "detailed": false
+}

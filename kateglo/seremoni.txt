@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seremoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upacara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seremoni",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "afiks homofon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "afiks yang wujud atau bunyinya sama, tetapi merupakan dua morfem atau lebih yang berbeda, misal se- pada setiba, seratus, sebesar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afiks%20homofon",
+  "related": [],
+  "detailed": false
+}

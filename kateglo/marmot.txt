@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marmot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang pengerat dari suku tupai-tupaian Sciuridae; Marmota;"
+      },
+      {
+        "type": "desc",
+        "text": "binatang sebesar tikus besar, pemakan rumput, sayuran, dsb; Arctomys marmota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marmot",
+  "related": [],
+  "detailed": false
+}

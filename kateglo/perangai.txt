@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perangai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat batin manusia yang mempengaruhi segenap pikiran dan perbuatan; watak;"
+      },
+      {
+        "type": "desc",
+        "text": "cara berbuat; tingkah laku; kelakuan;"
+      },
+      {
+        "type": "desc",
+        "text": "cara khas seseorang dalam beraksi terhadap berbagai macam fenomena;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangai",
+  "related": [],
+  "detailed": false
+}

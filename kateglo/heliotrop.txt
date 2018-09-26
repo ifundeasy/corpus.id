@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heliotrop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang memantulkan sinar matahari ke sebuah titik yang jauh (pada pengukuran derajat untuk memberi isyarat);"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan yang mengarahkan dirinya ke matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "tanaman hias berbunga kecil-kecil berwarna putih atau kebiru-biruan; Heliotropium peruvianum;"
+      },
+      {
+        "type": "desc",
+        "text": "batu permata hijau dengan bercak-bercak merah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ungu kemerah-merahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heliotrop",
+  "related": [],
+  "detailed": false
+}

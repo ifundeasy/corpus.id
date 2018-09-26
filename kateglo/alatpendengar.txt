@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pendengar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organ tubuh yang dipakai untuk mendengar; telinga;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) bagian pesawat telepon dsb yang ditempelkan pada telinga; perkakas yang dipasang di telinga untuk memperkuat atau mempertajam pendengaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pendengar",
+  "related": [],
+  "detailed": false
+}

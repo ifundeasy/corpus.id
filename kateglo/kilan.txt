@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "jengkal;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "terkilan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilan",
+  "related": [],
+  "detailed": false
+}

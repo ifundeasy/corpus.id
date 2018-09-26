@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memberkaskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat berkas perkara untuk diajukan ke kejaksaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memberkaskan",
+  "related": [],
+  "detailed": false
+}

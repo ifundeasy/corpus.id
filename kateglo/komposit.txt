@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komposit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan; campuran;"
+      },
+      {
+        "type": "desc",
+        "text": "paduan serat gelas dan karbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komposit",
+  "related": [],
+  "detailed": false
+}

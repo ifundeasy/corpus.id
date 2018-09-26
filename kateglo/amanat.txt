@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amanat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesan; perintah (dari atas);"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan (dari pemerintah);"
+      },
+      {
+        "type": "desc",
+        "text": "wejangan (dari orang yang terkemuka);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) keseluruhan makna atau isi pembicaraan; konsep dan perasaan yang disampaikan pembicara untuk dimengerti dan diterima pendengar atau pembaca;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) gagasan yang mendasari karya sastra; pesan yang ingin disampaikan pengarang kepada pembaca atau pendengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amanat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "realisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham atau ajaran yang selalu bertolak dari kenyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran kesenian yang berusaha melukiskan (menceritakan sesuatu sebagaimana kenyataannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=realisme",
+  "related": [],
+  "detailed": false
+}

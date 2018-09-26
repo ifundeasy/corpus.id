@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadilan tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan yang berkuasa mengadili perkara banding yang berasal dari pengadilan negeri dalam daerah hukumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadilan%20tinggi",
+  "related": [],
+  "detailed": false
+}

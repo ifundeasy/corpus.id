@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atraksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menarik perhatian; daya tarik;"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan; tontonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atraksi",
+  "related": [],
+  "detailed": false
+}

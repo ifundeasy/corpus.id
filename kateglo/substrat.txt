@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "substrat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "landasan; alas; dasar; dasar hidup jasad;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) senyawa yang mengalami perubahan oleh hasil kerja enzim; zat yang diubah oleh enzim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=substrat",
+  "related": [],
+  "detailed": false
+}

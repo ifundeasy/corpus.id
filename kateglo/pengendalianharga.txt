@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengendalian harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penetapan batas harga barang untuk menghindari kenaikan harga sehingga sesuai dengan daya beli rakyat dan biasanya dilakukan jika persediaan barang-barang sangat terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengendalian%20harga",
+  "related": [],
+  "detailed": false
+}

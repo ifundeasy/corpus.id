@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lekemia",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "leukemia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lekemia",
+  "related": [],
+  "detailed": false
+}

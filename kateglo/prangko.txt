@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prangko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda pembayaran biaya pos (biasanya berupa kertas persegi bergambar);"
+      },
+      {
+        "type": "desc",
+        "text": "ongkos kirimnya telah dibayar oleh pengirim (tentang barang dagangan yang dikirimkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prangko",
+  "related": [],
+  "detailed": false
+}

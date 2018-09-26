@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menilai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memperkirakan atau menentukan nilainya; menghargai;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi nilai; menganggap;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi angka (biji);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menilai",
+  "related": [],
+  "detailed": false
+}

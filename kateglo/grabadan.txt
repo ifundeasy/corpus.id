@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grabadan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha tani kecil;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjualan hasil pertanian di pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grabadan",
+  "related": [],
+  "detailed": false
+}

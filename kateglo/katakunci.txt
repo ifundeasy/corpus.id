@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata kunci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau ungkapan yang mewakili konsep atau gagasan yang menandai suatu zaman atau suatu kelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau ungkapan yang mewakili konsep yang telah disebutkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20kunci",
+  "related": [],
+  "detailed": false
+}

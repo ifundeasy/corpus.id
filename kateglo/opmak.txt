@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opmak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "penyusunan jenis huruf dari isi surat kabar, majalah beserta judul-judulnya;"
+      },
+      {
+        "type": "desc",
+        "text": "rias muka dengan alat kecantikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opmak",
+  "related": [],
+  "detailed": false
+}

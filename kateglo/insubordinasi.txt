@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insubordinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlawanan atau pemberontakan terhadap atasan dalam hubungan dinas, misal awak kapal melawan nakho-da;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan membangkang atau tidak tunduk pada perintah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) pembangkangan; pendurhakaan; ketidaktaatan; ke-tidakpatuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insubordinasi",
+  "related": [],
+  "detailed": false
+}

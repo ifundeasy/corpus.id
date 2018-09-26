@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bukti pengesahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) keterangan yang menyatakan bahwa warkat tetap sah walaupun tanda tangan pada saham dicantumkan di tempat yang salah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukti%20pengesahan",
+  "related": [],
+  "detailed": false
+}

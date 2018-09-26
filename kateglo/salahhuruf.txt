@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah huruf",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Graf) penamaan huruf yang berbeda dari gaya yang dipakai dalam berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20huruf",
+  "related": [],
+  "detailed": false
+}

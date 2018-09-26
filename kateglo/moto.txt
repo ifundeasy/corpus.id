@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat, frasa, atau kata yang digunakan sebagai semboyan, pedoman, atau prinsip seperti \"berani karena benar\";"
+      },
+      {
+        "type": "desc",
+        "text": "kalimat, frasa, atau kata yang tertera di atas sesuatu yang menggambarkan sifat atau kegunaan benda itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moto",
+  "related": [],
+  "detailed": false
+}

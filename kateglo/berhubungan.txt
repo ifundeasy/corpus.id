@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhubungan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersangkutan (dengan); ada sangkut pautnya (dengan); bertalian (dengan); berkaitan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "bertemu (dengan); mengadakan hubungan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "bersambung;"
+      },
+      {
+        "type": "desc",
+        "text": "tukar-menukar atau beri-memberi (kabar, pikiran, dsb) dengan perantaraan telepon, surat-menyurat, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhubungan",
+  "related": [],
+  "detailed": false
+}

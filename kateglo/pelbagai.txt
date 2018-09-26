@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelbagai",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "berbagai-bagai; beberapa;"
+      },
+      {
+        "type": "desc",
+        "text": "beraneka macam; bermacam-macam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelbagai",
+  "related": [],
+  "detailed": false
+}

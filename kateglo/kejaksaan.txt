@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejaksaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor jaksa;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan menuntut perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejaksaan",
+  "related": [],
+  "detailed": false
+}

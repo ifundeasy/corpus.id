@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buas dan suka melawan (menyerang, menggigit, menanduk, dsb tentang binatang); ganas; garang;"
+      },
+      {
+        "type": "desc",
+        "text": "suka marah, mencaci maki, dsb;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "penggalak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galak",
+  "related": [],
+  "detailed": false
+}

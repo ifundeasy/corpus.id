@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak tempuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak yang dapat ditempuh tanpa berhenti oleh kapal (pesawat, dsb) dengan sejumlah bahan bakar tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20tempuh",
+  "related": [],
+  "detailed": false
+}

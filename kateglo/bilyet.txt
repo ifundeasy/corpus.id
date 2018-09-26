@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilyet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu; karcis;"
+      },
+      {
+        "type": "desc",
+        "text": "kertas berharga seperti yang dikeluarkan oleh bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilyet",
+  "related": [],
+  "detailed": false
+}

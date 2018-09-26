@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat berupa jam yang biasanya dipakai untuk mengukur jarak yang telah ditempuh (dengan berjalan kaki dengan cara mencatat setiap langkah pejalan kaki itu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedometer",
+  "related": [],
+  "detailed": false
+}

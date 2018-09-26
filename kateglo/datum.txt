@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "datum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggal; hari bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=datum",
+  "related": [],
+  "detailed": false
+}

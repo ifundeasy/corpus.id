@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang administrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya untuk mengurus surat-surat dsb yang diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20administrasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jurusan;"
+      },
+      {
+        "type": "desc",
+        "text": "tujuan; maksud;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "arah-arah"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) orang yang menjadi pembantu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arah",
+  "related": [],
+  "detailed": false
+}

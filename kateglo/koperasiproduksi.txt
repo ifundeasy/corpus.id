@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koperasi produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koperasi yang membuat barang dan dijual bersama-sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koperasi%20produksi",
+  "related": [],
+  "detailed": false
+}

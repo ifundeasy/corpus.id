@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa kini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa yang terbaru (paling akhir); mutakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20kini",
+  "related": [],
+  "detailed": false
+}

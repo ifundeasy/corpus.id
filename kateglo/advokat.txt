@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "advokat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli hukum yang berwenang sebagai penasihat atau pembela perkara dalam pengadilan; pengacara;"
+      },
+      {
+        "type": "link",
+        "text": "avokad"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=advokat",
+  "related": [],
+  "detailed": false
+}

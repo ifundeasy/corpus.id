@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tangkai (daun, bunga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hulu (pisau, golok, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) batang tumbuh-tumbuhan yang menjalar atau melilit (seperti sirih); sulur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) tangkai utama perbungaan atau bunga tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermarkas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai markas; berkedudukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermarkas",
+  "related": [],
+  "detailed": false
+}

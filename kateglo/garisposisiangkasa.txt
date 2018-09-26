@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis posisi angkasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) garis posisi yang didapat dari pengamatan suatu benda angkasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20posisi%20angkasa",
+  "related": [],
+  "detailed": false
+}

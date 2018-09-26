@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga perdana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang ditawarkan pertama kali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20perdana",
+  "related": [],
+  "detailed": false
+}

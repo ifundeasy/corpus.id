@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radar bistatis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) radar yang mempunyai alat pemancar sinyal terpisah dari alat penangkap sinyal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radar%20bistatis",
+  "related": [],
+  "detailed": false
+}

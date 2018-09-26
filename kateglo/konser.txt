@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konser",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan musik di depan umum;"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan oleh sekelompok pemain musik yang terjadi dari beberapa komposisi perseorangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konser",
+  "related": [],
+  "detailed": false
+}

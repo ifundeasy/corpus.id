@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengikis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerik (menghilangkan, menghapuskan, dsb) dengan benda tajam (seperti pisau);"
+      },
+      {
+        "type": "desc",
+        "text": "menghilangkan sedikit demi sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "menghabiskan (sedikit demi sedikit);"
+      },
+      {
+        "type": "desc",
+        "text": "memberantas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengikis",
+  "related": [],
+  "detailed": false
+}

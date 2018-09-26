@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lanting",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melanting"
+      },
+      {
+        "type": "link",
+        "text": "berlanting"
+      },
+      {
+        "type": "link",
+        "text": "melanting"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah di atas rawa-rawa tempat memelihara itik (di Kalimantan Selatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanting",
+  "related": [],
+  "detailed": false
+}

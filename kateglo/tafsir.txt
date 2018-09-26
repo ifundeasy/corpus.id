@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tafsir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan atau penjelasan tentang ayat-ayat Alquran agar maksudnya lebih mudah dipahami;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tafsir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelengset",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "belengset;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelengset",
+  "related": [],
+  "detailed": false
+}

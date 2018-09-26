@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwalian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang berhubungan dengan wali;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeliharaan dan pengawasan anak yatim dan hartanya;"
+      },
+      {
+        "type": "desc",
+        "text": "pembimbing (negara, daerah, dsb) yang belum bisa berdiri sendiri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwalian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekanseliran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan kanselir;"
+      },
+      {
+        "type": "desc",
+        "text": "(segala) yang berhubungan dengan jabatan kanselir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekanseliran",
+  "related": [],
+  "detailed": false
+}

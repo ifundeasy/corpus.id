@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panggilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "imbauan; ajakan; undangan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal (perbuatan, cara) memanggil;"
+      },
+      {
+        "type": "desc",
+        "text": "(orang) yang dipanggil untuk bekerja dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan nama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panggilan",
+  "related": [],
+  "detailed": false
+}

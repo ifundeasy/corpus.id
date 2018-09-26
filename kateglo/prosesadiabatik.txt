@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "proses adiabatik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) proses yang terjadi pada suatu sistem apabila selama berlangsungnya proses tidak ada panas (kalor) yang masuk atau keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proses%20adiabatik",
+  "related": [],
+  "detailed": false
+}

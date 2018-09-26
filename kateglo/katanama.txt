@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomina;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20nama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi ayam jika ditangkap atau kesakitan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) kalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keok",
+  "related": [],
+  "detailed": false
+}

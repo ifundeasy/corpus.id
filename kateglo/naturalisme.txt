@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naturalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha untuk menerapkan pandangan ilmiah tentang dunia alamiah pada filsafat dan seni;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran dalam seni yang menggambarkan sesuatu sebagaimana adanya;"
+      },
+      {
+        "type": "desc",
+        "text": "karya seni rupa yang memiliki sifat kebenaran fisik dari alam;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran yang tidak mengakui adanya kekuatan lain selain alam;"
+      },
+      {
+        "type": "desc",
+        "text": "teknik atau cara menampilkan pandangan objektif tentang manusia secara teliti dan jujur (baik atau buruk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naturalisme",
+  "related": [],
+  "detailed": false
+}

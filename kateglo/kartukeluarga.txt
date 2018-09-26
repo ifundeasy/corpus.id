@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu keluarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang harus dimiliki oleh setiap keluarga di suatu kelurahan yang memuat nama semua anggota keluarga dengan jenis kelamin, hubungan keluarga, umur, dan pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20keluarga",
+  "related": [],
+  "detailed": false
+}

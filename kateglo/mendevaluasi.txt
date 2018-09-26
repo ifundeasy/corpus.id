@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendevaluasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menurunkan nilai uang (terhadap uang luar negeri atau terhadap emas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendevaluasi",
+  "related": [],
+  "detailed": false
+}

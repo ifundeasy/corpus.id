@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abrakadabra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan pemain sulap dalam pertunjukan sulap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abrakadabra",
+  "related": [],
+  "detailed": false
+}

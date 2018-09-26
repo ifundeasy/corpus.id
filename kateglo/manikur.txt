@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manikur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai pekerjaan merawat tangan dan kuku (biasanya dilakukan di salon);"
+      },
+      {
+        "type": "desc",
+        "text": "perawatan tangan dan kuku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manikur",
+  "related": [],
+  "detailed": false
+}

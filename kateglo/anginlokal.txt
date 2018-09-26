@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angin lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "angin yang bertiup dalam daerah terbatas yang disebabkan oleh keadaan setempat;"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan udara yang untuk sementara waktu memperoleh sifat tertentu yang disebabkan oleh keadaan setempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angin%20lokal",
+  "related": [],
+  "detailed": false
+}

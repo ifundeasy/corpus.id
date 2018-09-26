@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kesan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bekas (kaki dsb); jejak;"
+      },
+      {
+        "type": "desc",
+        "text": "yang terasa (terpikir) sesudah melihat (mendengar) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesan",
+  "related": [],
+  "detailed": false
+}

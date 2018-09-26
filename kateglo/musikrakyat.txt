@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musik rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik yang dibuat dan diteruskan di antara rakyat umum;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk musik dengan musik rakyat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musik%20rakyat",
+  "related": [],
+  "detailed": false
+}

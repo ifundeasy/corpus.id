@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gradual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berangsur-angsur; sedikit demi sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit; kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gradual",
+  "related": [],
+  "detailed": false
+}

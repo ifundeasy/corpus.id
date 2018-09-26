@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "data relevan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "data yang ada hubungan langsung dengan persoalan yang sedang diteliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=data%20relevan",
+  "related": [],
+  "detailed": false
+}

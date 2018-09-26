@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fraseologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara memakai kata atau frasa di dalam konstruksi yang lebih luas, baik dalam bentuk tulis maupun ujar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fraseologi",
+  "related": [],
+  "detailed": false
+}

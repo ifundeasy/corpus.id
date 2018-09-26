@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga catut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga (karcis dsb) yang dibeli pada tukang catut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20catut",
+  "related": [],
+  "detailed": false
+}

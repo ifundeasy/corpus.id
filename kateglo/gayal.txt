@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gayal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "liat (tentang daging dsb); membingkas; melenting;"
+      },
+      {
+        "type": "desc",
+        "text": "ulet; tidak mudah putus asa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "khayal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gayal",
+  "related": [],
+  "detailed": false
+}

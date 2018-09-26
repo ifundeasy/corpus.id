@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpuasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan puasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpuasa",
+  "related": [],
+  "detailed": false
+}

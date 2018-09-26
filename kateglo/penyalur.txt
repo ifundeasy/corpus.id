@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyalur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjual (toko, perusahaan, dsb yang ditunjuk produsen atau pemerintah);"
+      },
+      {
+        "type": "desc",
+        "text": "orang (perusahaan dsb) yang menyalurkan); perantara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyalur",
+  "related": [],
+  "detailed": false
+}

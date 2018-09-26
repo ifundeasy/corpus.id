@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karikatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar olok-olok yang mengandung pesan, sindirin, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karikatur",
+  "related": [],
+  "detailed": false
+}

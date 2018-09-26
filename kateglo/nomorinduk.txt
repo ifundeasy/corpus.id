@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor menurut catatan dalam buku induk (buku pokok catatan daftar nama dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20induk",
+  "related": [],
+  "detailed": false
+}

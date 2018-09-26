@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "permaisuri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "istri raja;"
+      },
+      {
+        "type": "desc",
+        "text": "istri raja yang utama (bila raja mempunyai lebih dari satu istri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permaisuri",
+  "related": [],
+  "detailed": false
+}

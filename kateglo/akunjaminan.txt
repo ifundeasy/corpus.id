@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun jaminan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) akun yang dijadikan tanggungan terhadap setiap kewajiban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20jaminan",
+  "related": [],
+  "detailed": false
+}

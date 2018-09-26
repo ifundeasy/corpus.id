@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lipemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) lipid di dalam darah yang berlebihan jumlahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lipemia",
+  "related": [],
+  "detailed": false
+}

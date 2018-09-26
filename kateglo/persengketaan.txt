@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persengketaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hak bersengketa; perbantahan; pertengkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "perselisihan;"
+      },
+      {
+        "type": "desc",
+        "text": "perebutan sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persengketaan",
+  "related": [],
+  "detailed": false
+}

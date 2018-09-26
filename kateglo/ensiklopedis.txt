@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ensiklopedis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mencakup (meliputi) berbagai bidang ilmu; mempunyai pengetahuan luas (mencakup berbagai bidang ilmu);"
+      },
+      {
+        "type": "desc",
+        "text": "menurut (mengikuti) cara ensiklopedia; berdasarkan ensiklopedia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ensiklopedis",
+  "related": [],
+  "detailed": false
+}

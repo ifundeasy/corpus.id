@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skenario",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana lakon sandiwara atau film berupa adegan demi adegan yang tertulis secara terperinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skenario",
+  "related": [],
+  "detailed": false
+}

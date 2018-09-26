@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembaca berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas yang membaca siaran berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembaca%20berita",
+  "related": [],
+  "detailed": false
+}

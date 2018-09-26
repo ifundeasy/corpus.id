@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemburu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang kerjanya berburu binatang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (perkakas, perlengkapan, dsb) untuk berburu (mengejar dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemburu",
+  "related": [],
+  "detailed": false
+}

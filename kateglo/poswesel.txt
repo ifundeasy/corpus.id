@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pos wesel",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "wesel"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pos%20wesel",
+  "related": [],
+  "detailed": false
+}

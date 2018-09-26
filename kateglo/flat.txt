@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "flat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat tinggal yang terdiri atas ruang duduk, kamar tidur, kamar mandi, dan dapur, dibangun secara berderet-deret (bergandeng-gandeng) pada setiap lantai bangunan bertingkat; apartemen; rumah pangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan bertingkat, terbagi dalam beberapa tempat tinggal (masing-masing untuk satu keluarga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flat",
+  "related": [],
+  "detailed": false
+}

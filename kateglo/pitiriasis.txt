@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pitiriasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) bentuk penyakit kulit bersisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pitiriasis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hadis sahih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadis yang benar (dapat ditelusuri dan diandalkan orang-orang yang meriwayatkannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadis%20sahih",
+  "related": [],
+  "detailed": false
+}

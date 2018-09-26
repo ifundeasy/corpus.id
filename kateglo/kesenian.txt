@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesenian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal seni; keindahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesenian",
+  "related": [],
+  "detailed": false
+}

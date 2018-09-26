@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elektro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang berkaitan atau yang diadakan dengan tenaga listrik (dalam gabungan kata);"
+      },
+      {
+        "type": "desc",
+        "text": "elektronika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elektro",
+  "related": [],
+  "detailed": false
+}

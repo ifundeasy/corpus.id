@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "besar hati; merasa gagah (karena mempunyai keunggulan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau menurut; mendaga; membangkang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak mudah dikerjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangga",
+  "related": [],
+  "detailed": false
+}

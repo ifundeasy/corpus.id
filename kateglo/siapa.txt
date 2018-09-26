@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siapa",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan nomina insan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menanyakan nama orang;"
+      },
+      {
+        "type": "desc",
+        "text": "seseorang yang tidak tentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siapa",
+  "related": [],
+  "detailed": false
+}

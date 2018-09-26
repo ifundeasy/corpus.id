@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manasik haji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berhubungan dengan ibadah haji, seperti ihram, tawaf, sai, wukuf;"
+      },
+      {
+        "type": "desc",
+        "text": "peragaan pelaksanaan ibadah haji sesuai dengan rukun-rukunnya (biasanya menggunakan Kakbah tiruan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manasik%20haji",
+  "related": [],
+  "detailed": false
+}

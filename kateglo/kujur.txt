@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kujur",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sekujur"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kejang; kaku;"
+      },
+      {
+        "type": "desc",
+        "text": "lembing (pendek) untuk menangkap ikan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kujur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "belah (pecah, cedera, lecet, dsb) pada kulit karena kena barang yang tajam dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita luka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luka",
+  "related": [],
+  "detailed": false
+}

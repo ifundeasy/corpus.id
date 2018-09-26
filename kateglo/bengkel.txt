@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengkel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memperbaiki mobil, sepeda, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pabrik kecil; tempat tukang bekerja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) tempat berlatih sandiwara dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat melakukan suatu kegiatan dengan arah dan tujuan yang pasti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengkel",
+  "related": [],
+  "detailed": false
+}

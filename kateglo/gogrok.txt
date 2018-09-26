@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gogrok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jatuh;"
+      },
+      {
+        "type": "desc",
+        "text": "hilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gogrok",
+  "related": [],
+  "detailed": false
+}

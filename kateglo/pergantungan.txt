@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergantungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bergantung;"
+      },
+      {
+        "type": "desc",
+        "text": "alat atau tempat untuk bergantung;"
+      },
+      {
+        "type": "desc",
+        "text": "orang, perusahaan, dsb yang diharapkan dapat memberi pertolongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergantungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengakui",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengaku akan (kesalahan, dosa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan sah (benar, berlaku, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan berhak (atas);"
+      },
+      {
+        "type": "desc",
+        "text": "memasuki (tentang setan, jin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengakui",
+  "related": [],
+  "detailed": false
+}

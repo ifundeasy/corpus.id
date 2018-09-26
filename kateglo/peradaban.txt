@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peradaban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemajuan (kecerdasan, kebudayaan) lahir batin;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang menyangkut sopan santun, budi bahasa, dan kebudayaan suatu bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peradaban",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jangat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kulit luar (rotan, kayu, binatang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kulit rotan yang sudah diraut untuk tikar dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tali dari kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangat",
+  "related": [],
+  "detailed": false
+}

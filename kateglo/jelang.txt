@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjelang"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) cair; encer (tentang susu dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelang",
+  "related": [],
+  "detailed": false
+}

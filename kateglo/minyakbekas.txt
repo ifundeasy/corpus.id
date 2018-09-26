@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak bekas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak lumas yang sudah digunakan melumasi mesin atau peralatan mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20bekas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bubar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bercerai-berai ke mana-mana (tentang orang ramai yang berkumpul); berserak-serak ke sana kemari;"
+      },
+      {
+        "type": "desc",
+        "text": "selesai; usai (tentang pasar, rapat, upacara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "selesai tugas; berhenti bertugas (tentang panitia, dewan, kabinet, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ditiadakan (tentang perserikatan, kongsi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bubar",
+  "related": [],
+  "detailed": false
+}

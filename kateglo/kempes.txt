@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempes",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kempis"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempes",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resimen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasukan tentara yang terdiri atas beberapa batalion yang biasanya dikepalai oleh seorang perwira menengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resimen",
+  "related": [],
+  "detailed": false
+}

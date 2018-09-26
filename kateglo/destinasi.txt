@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "destinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat tujuan; tempat tujuan pengiriman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=destinasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beradik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memanggil orang dengan sebutan adik;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai adik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beradik",
+  "related": [],
+  "detailed": false
+}

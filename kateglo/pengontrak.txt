@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengontrak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengontrak (rumah, toko, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengontrak",
+  "related": [],
+  "detailed": false
+}

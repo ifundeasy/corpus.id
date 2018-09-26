@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deklarasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan ringkas dan jelas (tentang suatu hal);"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan lengkap tentang uang, biaya perjalanan, barang yang masuk, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklarasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidana khusus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindak kejahatan kriminal (tentang korupsi, subversi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidana%20khusus",
+  "related": [],
+  "detailed": false
+}

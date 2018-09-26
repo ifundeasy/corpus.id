@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jurai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "secarik yang panjang (kain dsb); lajur;"
+      },
+      {
+        "type": "desc",
+        "text": "seikat barang yang berjuntai seperti benang, rambut, setangkai kacang;"
+      },
+      {
+        "type": "desc",
+        "text": "rentetan; deretan yang berturut-turut;"
+      },
+      {
+        "type": "link",
+        "text": "jurai-jurai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurai",
+  "related": [],
+  "detailed": false
+}

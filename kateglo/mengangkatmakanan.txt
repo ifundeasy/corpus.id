@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengangkat makanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghidangkan makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengambil piring (sisa makanan dsb) sesudah selesai makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengangkat%20makanan",
+  "related": [],
+  "detailed": false
+}

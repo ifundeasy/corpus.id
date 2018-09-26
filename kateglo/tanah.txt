@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permukaan bumi atau lapisan bumi yang di atas sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan bumi di suatu tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "permukaan bumi yang diberi batas;"
+      },
+      {
+        "type": "desc",
+        "text": "daratan;"
+      },
+      {
+        "type": "desc",
+        "text": "permukaan bumi yg terbatas yg ditempati suatu bangsa yg diperintah suatu negara atau menjadi daerah negara; negeri; negara;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan-bahan dari bumi; bumi sebagai bahan sesuatu (pasir, napal, cadas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar (warna, cat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) satuan ukuran panjang yang sama dengan depa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah",
+  "related": [],
+  "detailed": false
+}

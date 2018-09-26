@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "swasensor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upaya dari kalangan pers sendiri yang mencoba menyensor cerita-cerita yang akan dimuat dalam surat kabar (majalah)nya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=swasensor",
+  "related": [],
+  "detailed": false
+}

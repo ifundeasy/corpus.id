@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alternator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "generator elektris yang digunakan untuk menghasilkan arus bolak-balik; dinamo;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) peranti mekanis, elektris, atau elektromekanis yang memasok arus bolak-balik (rangga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alternator",
+  "related": [],
+  "detailed": false
+}

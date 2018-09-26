@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang berusaha mendapatkan keterangan secara rahasia, terutama rahasia militer negara lain; mata-mata;"
+      },
+      {
+        "type": "desc",
+        "text": "petugas kepolisian yang mengadakan pengusutan secara rahasia terhadap orang-orang yang dicurigai; agen polisi rahasia; detektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spion",
+  "related": [],
+  "detailed": false
+}

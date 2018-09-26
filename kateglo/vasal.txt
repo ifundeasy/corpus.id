@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vasal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat terikat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara (daerah) taklukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vasal",
+  "related": [],
+  "detailed": false
+}

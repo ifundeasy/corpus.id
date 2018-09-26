@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersebar luas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah disebarluaskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersebar%20luas",
+  "related": [],
+  "detailed": false
+}

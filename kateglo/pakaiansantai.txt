@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian santai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang dikenakan pada saat santai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20santai",
+  "related": [],
+  "detailed": false
+}

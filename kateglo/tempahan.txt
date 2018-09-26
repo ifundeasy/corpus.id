@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tempahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesanan (tentang penginapan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bukan kodian (tentang baju, peci);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempahan",
+  "related": [],
+  "detailed": false
+}

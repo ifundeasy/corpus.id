@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homili",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "khotbah yang berkaitan dengan isi Kitab Suci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homili",
+  "related": [],
+  "detailed": false
+}

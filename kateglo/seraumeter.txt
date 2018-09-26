@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seraumeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghitung jumlah kilat di dalam radius yang telah ditentukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seraumeter",
+  "related": [],
+  "detailed": false
+}

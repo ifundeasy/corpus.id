@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resistan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sifat suatu inang yang mampu mengurangi, menahan, ataupun mengatasi perkembangan penyakit yang menyerangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "tahan terhadap penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resistan",
+  "related": [],
+  "detailed": false
+}

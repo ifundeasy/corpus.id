@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda hubung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda garis (-) untuk menghubungkan unsur kata yang terpisah oleh pergantian baris, memisahkan bentuk ulang, atau menggabungkan unsur bentuk majemuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20hubung",
+  "related": [],
+  "detailed": false
+}

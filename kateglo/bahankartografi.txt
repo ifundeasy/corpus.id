@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan kartografi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "semua bahan yang secara keseluruhan atau sebagian menggambarkan bumi atau benda angkasa dalam semua skala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20kartografi",
+  "related": [],
+  "detailed": false
+}

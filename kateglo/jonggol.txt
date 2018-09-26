@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jonggol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sos)"
+      },
+      {
+        "type": "desc",
+        "text": "warga desa yang tidak mempunyai sawah dan tanah sendiri;"
+      },
+      {
+        "type": "link",
+        "text": "jonggolan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jonggol",
+  "related": [],
+  "detailed": false
+}

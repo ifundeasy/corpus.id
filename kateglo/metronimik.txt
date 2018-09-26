@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metronimik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "diturunkan dari nama ibu atau nenek-moyang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama keturunan dari ibu atau nenek mo-yang ibu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metronimik",
+  "related": [],
+  "detailed": false
+}

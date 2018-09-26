@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satelit bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satelit buatan yang mengorbit di angkasa luar, mengedari bumi untuk keperluan penelitian dan pengembangan ilmu pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satelit%20bumi",
+  "related": [],
+  "detailed": false
+}

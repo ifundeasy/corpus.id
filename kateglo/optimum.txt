@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "optimum",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam kondisi yang terbaik (yang paling menguntungkan); optimal;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kondisi atau derajat yang terbaik atau yang paling menguntungkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) keadaan faktor lingkungan yang merupakan derajat kesesuaian tertinggi untuk pertumbuhan dan perkembangbiakan makhluk secara penuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=optimum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata sapaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang digunakan untuk menyapa seseorang (misal kata Anda, Saudara, Tuan, Nyonya, Ibu, Bapak, Kakak, dan Adik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20sapaan",
+  "related": [],
+  "detailed": false
+}

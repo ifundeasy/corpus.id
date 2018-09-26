@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ukuran vital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran yang dianggap penting yang menyangkut besar lingkaran dada, pinggang, dan pinggul (khusus bagi wanita yang ikut sayembara kecantikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ukuran%20vital",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membuang dadu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjatuhkan dadu untuk mengundi atau untuk bermain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membuang%20dadu",
+  "related": [],
+  "detailed": false
+}

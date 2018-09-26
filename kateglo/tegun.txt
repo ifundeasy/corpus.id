@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tegun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertegun"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuat dan tegar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tegun",
+  "related": [],
+  "detailed": false
+}

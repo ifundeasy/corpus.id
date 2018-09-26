@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perlu",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "harus; usah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penting (ada gunanya, harus ada, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "butuh (akan); membutuhkan; berhajat (akan);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "untuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlu",
+  "related": [],
+  "detailed": false
+}

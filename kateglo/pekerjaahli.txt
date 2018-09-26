@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja ahli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) pekerja yang sudah dididik dan sudah memiliki keterampilan untuk melakukan suatu pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja%20ahli",
+  "related": [],
+  "detailed": false
+}

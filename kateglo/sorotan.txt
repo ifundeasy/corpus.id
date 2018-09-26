@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sorotan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pancaran sinar (cahaya);"
+      },
+      {
+        "type": "desc",
+        "text": "tanggapan (atas ucapan, gagasan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sorotan",
+  "related": [],
+  "detailed": false
+}

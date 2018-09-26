@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepeningan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menderita pening (pusing);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pening;"
+      },
+      {
+        "type": "desc",
+        "text": "menderita pening (pusing);"
+      },
+      {
+        "type": "desc",
+        "text": "perihal pening;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepeningan",
+  "related": [],
+  "detailed": false
+}

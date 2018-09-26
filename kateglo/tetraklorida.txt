@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetraklorida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klorida yang mengandung empat atom klorin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetraklorida",
+  "related": [],
+  "detailed": false
+}

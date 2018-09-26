@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak bersuara (berbicara);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bergerak (tetap di tempat);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbuat (berusaha) apa-apa;"
+      },
+      {
+        "type": "link",
+        "text": "berdiam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diam",
+  "related": [],
+  "detailed": false
+}

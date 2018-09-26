@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guntingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menggunting;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang telah digunting;"
+      },
+      {
+        "type": "desc",
+        "text": "potongan; model baju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guntingan",
+  "related": [],
+  "detailed": false
+}

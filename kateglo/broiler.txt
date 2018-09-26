@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "broiler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk memanggang daging atau ayam;"
+      },
+      {
+        "type": "desc",
+        "text": "ayam pedaging muda yang besarnya cocok untuk dimasak pada pemanggangan;"
+      },
+      {
+        "type": "desc",
+        "text": "ayam yang cepat pertumbuhannya yang dipiara khusus sebagai ayam potong; ayam pedaging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=broiler",
+  "related": [],
+  "detailed": false
+}

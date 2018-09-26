@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nasional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kebangsaan; berkenaan atau berasal dari bangsa sendiri; meliputi suatu bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasional",
+  "related": [],
+  "detailed": false
+}

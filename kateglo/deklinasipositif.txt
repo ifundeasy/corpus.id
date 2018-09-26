@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deklinasi positif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) deklinasi yang terletak di belahan utara langit, diukur mulai dari ekuator sampai ke kutub utara langit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklinasi%20positif",
+  "related": [],
+  "detailed": false
+}

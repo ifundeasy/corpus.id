@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "antar-mengantar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling mengantar; kirim-mengirim;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai pekerjaan mengantarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "berturut-turut, tetapi tidak tentu antaranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antar-mengantar",
+  "related": [],
+  "detailed": false
+}

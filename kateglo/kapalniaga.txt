@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal niaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang khusus mengangkut barang dagangan; kapal dagang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20niaga",
+  "related": [],
+  "detailed": false
+}

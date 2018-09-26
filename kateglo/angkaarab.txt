@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka Arab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka yang berasal dari ejaan Arab yang sekarang menjadi angka internasional (1, 2, 3, dst); angka biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20Arab",
+  "related": [],
+  "detailed": false
+}

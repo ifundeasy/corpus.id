@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selirat",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "berselirat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selirat",
+  "related": [],
+  "detailed": false
+}

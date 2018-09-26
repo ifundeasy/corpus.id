@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 1.000 m (disingkat km);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pengukur kecepatan mobil; spidometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilometer",
+  "related": [],
+  "detailed": false
+}

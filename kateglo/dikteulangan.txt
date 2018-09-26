@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dikte ulangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dikte untuk mengetahui kecakapan orang menuliskan kata-kata yang sudah dipelajari ejaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dikte%20ulangan",
+  "related": [],
+  "detailed": false
+}

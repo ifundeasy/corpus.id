@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek kosong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cek yang tidak dapat diuangkan karena uang yang disimpan di bank yang dimaksudkan sudah tidak ada lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20kosong",
+  "related": [],
+  "detailed": false
+}

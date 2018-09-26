@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku ilmiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang isinya menguraikan suatu bidang ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20ilmiah",
+  "related": [],
+  "detailed": false
+}

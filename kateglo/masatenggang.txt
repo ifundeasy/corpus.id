@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa tenggang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu penanggungan pengembalian pokok pinjaman dan/atau bunga selama jangka waktu tertentu, guna mencapai akselerasi penanaman modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20tenggang",
+  "related": [],
+  "detailed": false
+}

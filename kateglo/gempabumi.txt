@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gempa bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gempa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempa%20bumi",
+  "related": [],
+  "detailed": false
+}

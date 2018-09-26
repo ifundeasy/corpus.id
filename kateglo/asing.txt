@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asing",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "aneh; tidak biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "belum biasa; kaku;"
+      },
+      {
+        "type": "desc",
+        "text": "datang dari luar (negeri, daerah, lingkungan);"
+      },
+      {
+        "type": "desc",
+        "text": "tersendiri; terpisah sendiri; terpencil;"
+      },
+      {
+        "type": "desc",
+        "text": "lain; berlainan; berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asing",
+  "related": [],
+  "detailed": false
+}

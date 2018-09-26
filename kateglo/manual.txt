@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dilakukan dengan tangan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku petunjuk praktis tentang suatu jenis pekerjaan atau tentang cara kerja suatu alat atau peranti tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manual",
+  "related": [],
+  "detailed": false
+}

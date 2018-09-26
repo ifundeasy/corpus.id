@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam perbaikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang dipergunakan oleh suatu perangkat peralatan atau alat untuk menunggu suku cadang, memperbaiki, dan memeliharanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20perbaikan",
+  "related": [],
+  "detailed": false
+}

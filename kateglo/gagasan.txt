@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gagasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil pemikiran; ide;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagasan",
+  "related": [],
+  "detailed": false
+}

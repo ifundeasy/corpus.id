@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usaha niaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan jual beli barang dan jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usaha%20niaga",
+  "related": [],
+  "detailed": false
+}

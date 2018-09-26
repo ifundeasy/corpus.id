@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sagai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, Caranx armatus;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Alectis indica;"
+      },
+      {
+        "type": "link",
+        "text": "sakai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sagai",
+  "related": [],
+  "detailed": false
+}

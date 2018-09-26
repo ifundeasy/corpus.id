@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemungkinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang mungkin; keadaan yang memungkinkan sesuatu terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang mungkin terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemungkinan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modeling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal menjadi (gadis, pria) model;"
+      },
+      {
+        "type": "desc",
+        "text": "sekolah (kursus) yang mendidik gadis atau pria model;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modeling",
+  "related": [],
+  "detailed": false
+}

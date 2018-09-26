@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdagang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjual beli; berniaga;"
+      },
+      {
+        "type": "desc",
+        "text": "mengembara ke negeri orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdagang",
+  "related": [],
+  "detailed": false
+}

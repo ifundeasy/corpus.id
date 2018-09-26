@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mudarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang tidak menguntungkan; rugi; keru-gian;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berhasil; gagal;"
+      },
+      {
+        "type": "desc",
+        "text": "merugikan; tidak berguna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mudarat",
+  "related": [],
+  "detailed": false
+}

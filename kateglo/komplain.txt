@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komplain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) keluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komplain",
+  "related": [],
+  "detailed": false
+}

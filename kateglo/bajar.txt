@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bajar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pembayaran utang (di Madura);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bajar",
+  "related": [],
+  "detailed": false
+}

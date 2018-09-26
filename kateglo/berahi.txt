@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berahi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perasaan cinta kasih antara dua orang yang berlainan jenis kelamin; asyik;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat suka; sangat tertarik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) gejala yang timbul secara berkala pada ternak betina sebagai perwujudan berahi untuk dikawinkan; entrus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berahi",
+  "related": [],
+  "detailed": false
+}

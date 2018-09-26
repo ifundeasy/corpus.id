@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang luks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang mewah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20luks",
+  "related": [],
+  "detailed": false
+}

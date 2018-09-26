@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersekolah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "belajar di sekolah; pergi ke sekolah;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat pendidikan atau pengajaran di sekolah; berpelajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) belajar (pada); berguru (pada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersekolah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arboreal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan pohon;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(organisme) yang hidup pada pohon atau di bawah naungan pohon (seperti saprofit atau parasit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arboreal",
+  "related": [],
+  "detailed": false
+}

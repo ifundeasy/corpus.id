@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian ihram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang khusus dikenakan pada waktu melaksanakan ibadah haji, terdiri atas dua helai kain putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20ihram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meter kecepatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "takometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meter%20kecepatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuku",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "tuku takal"
+      },
+      {
+        "type": "link",
+        "text": "tengku"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuku",
+  "related": [],
+  "detailed": false
+}

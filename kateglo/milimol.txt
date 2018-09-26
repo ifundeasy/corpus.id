@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milimol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu perseribu mol, mengandung 6,02 X 1020 molekul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milimol",
+  "related": [],
+  "detailed": false
+}

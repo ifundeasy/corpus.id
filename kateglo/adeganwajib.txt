@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adegan wajib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen) adegan yang diharapkan terjadi (dilakonkan) sehingga sesuai dengan keinginan penonton;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adegan%20wajib",
+  "related": [],
+  "detailed": false
+}

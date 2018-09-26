@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fonetik artikulatoris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang fonetik yang menyelidiki bunyi berdasarkan alat-alat ucap dalam artikulasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonetik%20artikulatoris",
+  "related": [],
+  "detailed": false
+}

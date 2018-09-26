@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gawang pada permainan bola;"
+      },
+      {
+        "type": "desc",
+        "text": "masuknya bola ke dalam gawang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) tercapai maksudnya (tujuan); berhasil (tentang mosi, rancangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gol",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan dihitung dari 1 ke atas (1, 2, 3, ...);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20asli",
+  "related": [],
+  "detailed": false
+}

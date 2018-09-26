@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siap pakai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(tentang tamatan sekolah dsb) terampil dan profesional serta dapat langsung (tanpa pelatihan lagi) menjalankan pekerjaan;"
+      },
+      {
+        "type": "desc",
+        "text": "persediaan (obat dsb) yang telah di siapkan sebelumnya jika sewaktu-waktu diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siap%20pakai",
+  "related": [],
+  "detailed": false
+}

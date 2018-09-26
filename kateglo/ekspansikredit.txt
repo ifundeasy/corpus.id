@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ekspansi kredit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) penambahan jumlah kredit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspansi%20kredit",
+  "related": [],
+  "detailed": false
+}

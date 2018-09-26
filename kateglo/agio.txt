@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) selisih lebih antara hasil penjualan saham pada waktu emisi dan nilai nominalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agio",
+  "related": [],
+  "detailed": false
+}

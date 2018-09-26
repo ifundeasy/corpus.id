@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peku",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "sepeku"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peku",
+  "related": [],
+  "detailed": false
+}

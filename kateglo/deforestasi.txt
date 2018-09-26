@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deforestasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penebangan hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deforestasi",
+  "related": [],
+  "detailed": false
+}

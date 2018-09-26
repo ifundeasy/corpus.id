@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pintar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pandai; cakap;"
+      },
+      {
+        "type": "desc",
+        "text": "cerdik; banyak akal;"
+      },
+      {
+        "type": "desc",
+        "text": "mahir (melakukan atau mengerjakan sesuatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahanan alur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "volume air yang dapat disimpan sementara dalam alur sewaktu banjir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahanan%20alur",
+  "related": [],
+  "detailed": false
+}

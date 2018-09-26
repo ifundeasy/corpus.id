@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bola keranjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang olahraga yang berupa permainan bola dengan dua buah keranjang bertiang, nilai diperoleh apabila dapat memasukkan bola ke keranjang lawan (satu kali masuk nilainya dua);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bola%20keranjang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "klausa transitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "klausa yang verbanya selalu disertai objek, misal mereka memilih perempuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klausa%20transitif",
+  "related": [],
+  "detailed": false
+}

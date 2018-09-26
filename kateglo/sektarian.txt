@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sektarian",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan anggota (pendukung, penganut) suatu sekte atau mazhab;"
+      },
+      {
+        "type": "desc",
+        "text": "picik, terkungkung pada satu aliran saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sektarian",
+  "related": [],
+  "detailed": false
+}

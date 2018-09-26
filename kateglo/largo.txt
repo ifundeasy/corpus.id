@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "largo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "tempo sangat lambat dalam bermain musik atau bernyanyi;"
+      },
+      {
+        "type": "desc",
+        "text": "lebar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=largo",
+  "related": [],
+  "detailed": false
+}

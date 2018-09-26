@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tawan",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menawan"
+      },
+      {
+        "type": "desc",
+        "text": "tersedu-sedu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "akar tawan hutan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawan",
+  "related": [],
+  "detailed": false
+}

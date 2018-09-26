@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wali kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala kota madya; kepala wilayah kota administratif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wali%20kota",
+  "related": [],
+  "detailed": false
+}

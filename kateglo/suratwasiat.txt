@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat wasiat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang berisi pesan, pernyataan, dsb seseorang untuk dilaksanakan sesudah ia meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20wasiat",
+  "related": [],
+  "detailed": false
+}

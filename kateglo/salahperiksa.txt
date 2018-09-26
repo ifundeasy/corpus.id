@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah periksa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keliru memeriksanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berbuat sesuatu yang kurang pantas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20periksa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intelektual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cerdas, berakal, dan berpikiran jernih berdasarkan ilmu pengetahuan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(yang) mempunyai kecerdasan tinggi; cendekiawan;"
+      },
+      {
+        "type": "desc",
+        "text": "totalitas pengertian atau kesadaran, terutama yang menyangkut pemikiran dan pemahaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intelektual",
+  "related": [],
+  "detailed": false
+}

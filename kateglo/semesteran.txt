@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semesteran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tengah tahunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semesteran",
+  "related": [],
+  "detailed": false
+}

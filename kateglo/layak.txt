@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "layak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "wajar; pantas; patut;"
+      },
+      {
+        "type": "desc",
+        "text": "mulia; terhormat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang dibelah memanjang dari ekor ke kepala, lalu dikeringkan tanpa diberi garam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layak",
+  "related": [],
+  "detailed": false
+}

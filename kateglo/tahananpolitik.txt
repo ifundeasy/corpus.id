@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahanan politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditahan karena alasan politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahanan%20politik",
+  "related": [],
+  "detailed": false
+}

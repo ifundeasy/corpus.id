@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menutup muka; topeng;"
+      },
+      {
+        "type": "desc",
+        "text": "kain penutup mulut dan hidung (seperti yang dipakai oleh dokter, perawat di rumah sakit); topeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masker",
+  "related": [],
+  "detailed": false
+}

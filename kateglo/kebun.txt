@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kebun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebidang tanah yang ditanami pohon musiman (buah-buahan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tanah luas yang ditanami kopi, karet, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanda petik tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca ('...') yang mengapit petikan yang tersusun di dalam petikan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda%20petik%20tunggal",
+  "related": [],
+  "detailed": false
+}

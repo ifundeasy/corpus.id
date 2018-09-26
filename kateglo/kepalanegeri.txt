@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ibu negeri (kota);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengepalai suatu negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20negeri",
+  "related": [],
+  "detailed": false
+}

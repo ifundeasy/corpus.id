@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "federalistis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat federal (tentang bentuk pemerintahan, organisasi, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=federalistis",
+  "related": [],
+  "detailed": false
+}

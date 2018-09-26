@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sangat",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "terlebih-lebih (halnya, keadaannya, dsb); amat; terlalu;"
+      },
+      {
+        "type": "desc",
+        "text": "payah (tentang penyakit); teruk;"
+      },
+      {
+        "type": "desc",
+        "text": "sungguh-sungguh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangat",
+  "related": [],
+  "detailed": false
+}

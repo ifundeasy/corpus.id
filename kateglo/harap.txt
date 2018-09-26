@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mohon; minta; hendaklah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "keinginan supaya sesuatu terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harap",
+  "related": [],
+  "detailed": false
+}

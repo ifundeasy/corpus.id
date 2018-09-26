@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur mental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "umur menurut rata-rata perkembangan mental anak-anak (orang-orang) seusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20mental",
+  "related": [],
+  "detailed": false
+}

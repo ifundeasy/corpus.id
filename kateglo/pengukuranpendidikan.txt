@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengukuran pendidikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengukuran dari segi pendidikan, meliputi proses penilaian dan ujian program sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengukuran%20pendidikan",
+  "related": [],
+  "detailed": false
+}

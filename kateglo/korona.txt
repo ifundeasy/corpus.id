@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korona",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron)"
+      },
+      {
+        "type": "desc",
+        "text": "cahaya semu di sekitar matahari, bulan, atau sumber cahaya yang terjadi karena penyebaran cahaya oleh titik-titik atau bagian kecil benda dalam atmosfer;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran sinar yang mengelilingi matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) lapisan gas tipis di bagian luar matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "mahkota;"
+      },
+      {
+        "type": "desc",
+        "text": "struktur seperti mahkota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korona",
+  "related": [],
+  "detailed": false
+}

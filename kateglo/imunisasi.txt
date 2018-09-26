@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imunisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pengimunan; pengebalan (terhadap penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imunisasi",
+  "related": [],
+  "detailed": false
+}

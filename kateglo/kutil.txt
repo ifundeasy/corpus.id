@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kutil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bintil merah kecil, seperti jerawat pada kulit;"
+      },
+      {
+        "type": "desc",
+        "text": "sisa kecil kelapa yang diparut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengutil"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutil",
+  "related": [],
+  "detailed": false
+}

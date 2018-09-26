@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "peluk; lekap;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) dekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekap",
+  "related": [],
+  "detailed": false
+}

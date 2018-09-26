@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah uang yang dibayarkan anggota perkumpulan kepada bendahara setiap bulan (untuk biaya administrasi, rapat anggota, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iuran",
+  "related": [],
+  "detailed": false
+}

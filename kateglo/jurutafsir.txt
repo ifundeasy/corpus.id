@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru tafsir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memberi ulasan (komentar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20tafsir",
+  "related": [],
+  "detailed": false
+}

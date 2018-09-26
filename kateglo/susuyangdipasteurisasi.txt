@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "susu yang dipasteurisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susu yang diawetkan dengan cara memanaskan pada temperatur 80oC selama 30 menit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susu%20yang%20dipasteurisasi",
+  "related": [],
+  "detailed": false
+}

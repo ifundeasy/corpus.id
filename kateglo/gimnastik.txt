@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gimnastik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senam; gerak badan; olahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gimnastik",
+  "related": [],
+  "detailed": false
+}

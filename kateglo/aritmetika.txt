@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aritmetika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengkajian bilangan bulat positif melalui penjumlahan, pengurangan, perkalian, dan pembagian, serta pemakaian hasilnya dalam kehidupan sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aritmetika",
+  "related": [],
+  "detailed": false
+}

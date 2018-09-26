@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis serang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang membatasi daerah serang dengan daerah belakang dalam permainan bola voli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20serang",
+  "related": [],
+  "detailed": false
+}

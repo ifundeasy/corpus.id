@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spesialistis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat keahlian dalam keterampilan atau suatu cabang ilmu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spesialistis",
+  "related": [],
+  "detailed": false
+}

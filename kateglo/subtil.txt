@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subtil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "halus; lembut;"
+      },
+      {
+        "type": "desc",
+        "text": "perbedaan yang tidak kentara;"
+      },
+      {
+        "type": "desc",
+        "text": "cerdik; bijaksana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subtil",
+  "related": [],
+  "detailed": false
+}

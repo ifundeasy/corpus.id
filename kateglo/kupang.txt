@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kupang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang zaman dahulu yang nilainya berbeda-beda berdasarkan daerah sirkulasinya, misal di Penang 10 sen, di Kelantan 12½ sen, di Padang 50 sen, di Agam 30 sen, di Payakumbuh 40 sen;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat emas (sekitar ½ real = 10 g);"
+      },
+      {
+        "type": "desc",
+        "text": "siput laut yang dahulu digunakan sebagai mata uang, Mytilus;"
+      },
+      {
+        "type": "desc",
+        "text": "gelinggang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kupang",
+  "related": [],
+  "detailed": false
+}

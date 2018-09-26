@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan serap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "absorben;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20serap",
+  "related": [],
+  "detailed": false
+}

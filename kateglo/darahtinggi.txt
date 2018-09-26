@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "darah tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tekanan darah yang berada di atas normal, tekanan sistolik lebih tinggi dari 160 mm Hg;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh tekanan darah yang naik secara tidak normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=darah%20tinggi",
+  "related": [],
+  "detailed": false
+}

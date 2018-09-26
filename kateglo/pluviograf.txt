@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pluviograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penakar hujan yang dapat merekam banyaknya curahan yang terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pluviograf",
+  "related": [],
+  "detailed": false
+}

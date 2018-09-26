@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilamana",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata penghubung yang digunakan untuk pengandaian, bersifat temporal, dsb; pada waktu apa;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(kl) kata tanya yang digunakan dalam ragam sastra untuk menanyakan waktu; bila; kapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilamana",
+  "related": [],
+  "detailed": false
+}

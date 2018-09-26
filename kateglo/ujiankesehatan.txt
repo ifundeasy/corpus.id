@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) pemeriksaan dan penilaian kesehatan (baik jasmani maupun rohani);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20kesehatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "regulasi hipotonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan menyesuaikan hidup bagi organisme yang hidup dalam air asin dengan cara mempertahankan kandungan garam di dalam cairan tubuh agar tetap lebih rendah daripada air;"
+      },
+      {
+        "type": "desc",
+        "text": "kemampuan menyesuaikan hidup yang terdapat pada hewan air tawar dengan cara mempertahankan kandungan garam dalam cairan tubuh agar tetap lebih tinggi daripada air di luar tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regulasi%20hipotonik",
+  "related": [],
+  "detailed": false
+}

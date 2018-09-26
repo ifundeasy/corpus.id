@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "abar-abar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abar",
+  "related": [],
+  "detailed": false
+}

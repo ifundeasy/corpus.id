@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pikir punya pikir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalau dipikir-pikir dengan sesungguhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "setelah dipikir dengan sungguh-sungguh ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikir%20punya%20pikir",
+  "related": [],
+  "detailed": false
+}

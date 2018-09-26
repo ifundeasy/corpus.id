@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian atau tempat pada kromosom yang diduduki oleh gen; lokus gen;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) tempat kedudukan titik-titik atau himpunan titik yang koordinatnya memenuhi persamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokus",
+  "related": [],
+  "detailed": false
+}

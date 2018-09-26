@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selisir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelisir"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen) komposisi tembang yang sering dipakai untuk cakapan atau teks tembang, gending, tiap bait terdiri atas 4 baris yang masing-masing berisi 8 suku kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selisir",
+  "related": [],
+  "detailed": false
+}

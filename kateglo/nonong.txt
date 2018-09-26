@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nong-nong;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menonong"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonong",
+  "related": [],
+  "detailed": false
+}

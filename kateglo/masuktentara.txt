@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masuk tentara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi anggota angkatan bersenjata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masuk%20tentara",
+  "related": [],
+  "detailed": false
+}

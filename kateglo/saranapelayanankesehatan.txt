@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarana pelayanan kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarana yang menyediakan bentuk pelayanan yang sifatnya lebih luas daripada bidang klinik, bersifat preventif, promotif, dan rehabilitatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarana%20pelayanan%20kesehatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha percetakan dan penerbitan;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha pengumpulan dan penyiaran berita;"
+      },
+      {
+        "type": "desc",
+        "text": "penyiaran berita melalui surat kabar, majalah, dan radio;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bergerak dalam penyiaran berita;"
+      },
+      {
+        "type": "desc",
+        "text": "medium penyiaran berita, seperti surat kabar, majalah, radio, televisi, dan film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pers",
+  "related": [],
+  "detailed": false
+}

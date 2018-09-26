@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tentamen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian mata kuliah tertentu sebelum dapat menempuh ujian akhir (untuk mencapai tingkat studi tertentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tentamen",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "endonan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengendon;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat mengendon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endonan",
+  "related": [],
+  "detailed": false
+}

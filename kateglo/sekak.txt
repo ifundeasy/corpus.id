@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan catur;"
+      },
+      {
+        "type": "desc",
+        "text": "raja (dalam permainan catur);"
+      },
+      {
+        "type": "desc",
+        "text": "kata yang diucapkan pemain catur untuk mengingatkan bahwa ia akan mematikan raja;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) main catur;"
+      },
+      {
+        "type": "desc",
+        "text": "permainan catur;"
+      },
+      {
+        "type": "desc",
+        "text": "raja (dalam permainan catur);"
+      },
+      {
+        "type": "desc",
+        "text": "kata yang diucapkan pemain catur untuk mengingatkan bahwa ia akan mematikan raja;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) main catur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "catatan dividen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) besarnya dividen yang dibayarkan selama lima tahun berturut-turut (termasuk tunggakan serta cara pembayarannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catatan%20dividen",
+  "related": [],
+  "detailed": false
+}

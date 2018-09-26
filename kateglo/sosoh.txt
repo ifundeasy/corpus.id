@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sosoh",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyosoh"
+      },
+      {
+        "type": "link",
+        "text": "bersosoh"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sosoh",
+  "related": [],
+  "detailed": false
+}

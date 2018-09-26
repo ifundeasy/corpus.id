@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka kematian neonatal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) bilangan yang menunjukkan jumlah kematian bayi (di bawah umur 1 bulan atau 28 hari) dari setiap 1.000 kelahiran (bayi) hidup selama satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20kematian%20neonatal",
+  "related": [],
+  "detailed": false
+}

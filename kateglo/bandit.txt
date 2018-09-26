@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bandit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjahat; pencuri;"
+      },
+      {
+        "type": "desc",
+        "text": "tokoh penjahat dalam cerita drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandit",
+  "related": [],
+  "detailed": false
+}

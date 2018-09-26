@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buntang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka lebar tidak berkedip (tentang mata); melotot; terbeliak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) bangkai;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian alat tenun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buntang",
+  "related": [],
+  "detailed": false
+}

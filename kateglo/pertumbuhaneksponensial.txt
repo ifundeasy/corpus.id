@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertumbuhan eksponensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peningkatan yang berupa persentase tetap terhadap keseluruhan pada suatu waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertumbuhan%20eksponensial",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagram lingkaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diagram yang menyatakan suatu peristiwa dalam bentuk lingkaran (360o) yang dipotong-potong menjadi segmen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagram%20lingkaran",
+  "related": [],
+  "detailed": false
+}

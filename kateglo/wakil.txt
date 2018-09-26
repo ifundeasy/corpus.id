@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wakil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang dikuasakan menggantikan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dipilih sebagai utusan negara; duta;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menguruskan perdagangan dsb untuk orang lain; agen;"
+      },
+      {
+        "type": "desc",
+        "text": "jabatan yang kedua setelah yang tersebut di depannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wakil",
+  "related": [],
+  "detailed": false
+}

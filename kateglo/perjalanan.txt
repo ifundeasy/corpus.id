@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjalanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (cara, gerakan, dsb) berjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepergian (perihal bepergian) dari suatu tempat dsb ke tempat dsb yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "jarak (jauh) yang dicapai dengan berjalan dalam waktu yang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan; kelakuan; tingkah laku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjalanan",
+  "related": [],
+  "detailed": false
+}

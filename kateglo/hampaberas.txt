@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hampa beras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "butir-butir padi yang hampa (tidak berisi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hampa%20beras",
+  "related": [],
+  "detailed": false
+}

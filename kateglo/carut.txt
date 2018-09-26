@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "carut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keji, kotor, cabul (tentang perkataan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "luka bekas goresan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=carut",
+  "related": [],
+  "detailed": false
+}

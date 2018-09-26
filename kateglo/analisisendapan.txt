@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis endapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) pemisahan partikel yang tergantung pada tingkat pengendapan dalam cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20endapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak mineral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak yang berasal dari mineral, seperti minyak dan gas bumi, serpih minyak, dan batu bara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20mineral",
+  "related": [],
+  "detailed": false
+}

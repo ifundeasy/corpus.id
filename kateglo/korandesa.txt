@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koran desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar yang diterbitkan semata-mata bagi lingkungan kecil masyarakat dan wilayahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koran%20desa",
+  "related": [],
+  "detailed": false
+}

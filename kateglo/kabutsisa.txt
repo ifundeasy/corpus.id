@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabut sisa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Min) campuran gas yang masih tertinggal di dalam tambang setelah terjadi ledakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabut%20sisa",
+  "related": [],
+  "detailed": false
+}

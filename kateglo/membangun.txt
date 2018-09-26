@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membangun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bangkit berdiri; naik (tentang awan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendirikan (mengadakan gedung dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membina;"
+      },
+      {
+        "type": "desc",
+        "text": "(bersifat) memperbaiki;"
+      },
+      {
+        "type": "desc",
+        "text": "membayar bangun (denda, ganti rugi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membangun",
+  "related": [],
+  "detailed": false
+}

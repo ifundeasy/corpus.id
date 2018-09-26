@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem dasar terikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem dasar yang hanya dapat menjadi kata bila bergabung dengan afiks atau dengan morfem lain, misal juang, temu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20dasar%20terikat",
+  "related": [],
+  "detailed": false
+}

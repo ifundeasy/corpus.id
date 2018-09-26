@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunggu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertunggu"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "tunggu taman"
+      },
+      {
+        "type": "link",
+        "text": "menunggu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggu",
+  "related": [],
+  "detailed": false
+}

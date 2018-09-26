@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetakan awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang baru selesai dicetak dan dikirimkan oleh percetakan kepada penerbit sebelum oplah seluruhnya diserahkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetakan%20awal",
+  "related": [],
+  "detailed": false
+}

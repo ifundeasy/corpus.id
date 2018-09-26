@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "pengapit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapit",
+  "related": [],
+  "detailed": false
+}

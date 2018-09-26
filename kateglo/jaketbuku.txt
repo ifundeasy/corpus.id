@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jaket buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampul pelindung kulit buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jaket%20buku",
+  "related": [],
+  "detailed": false
+}

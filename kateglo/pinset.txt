@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pinset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyepit kecil, biasanya digunakan oleh dokter, perawat, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinset",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permakaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memakamkan (mayat); pekuburan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permakaman",
+  "related": [],
+  "detailed": false
+}

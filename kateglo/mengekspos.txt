@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengekspos",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membeberkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memamerkan barang-barang yang akan dijual (benda-benda antik, hasil seni, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengekspos",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "utang kayu ara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "utang yang tidak akan dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utang%20kayu%20ara",
+  "related": [],
+  "detailed": false
+}

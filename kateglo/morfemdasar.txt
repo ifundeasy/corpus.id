@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang dapat diperluas dengan dibubuhi afiks, misal juang dalam berjuang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20dasar",
+  "related": [],
+  "detailed": false
+}

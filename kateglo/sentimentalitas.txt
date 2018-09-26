@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentimentalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat keadaan sentimen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentimentalitas",
+  "related": [],
+  "detailed": false
+}

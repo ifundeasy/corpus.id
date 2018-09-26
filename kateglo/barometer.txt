@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tekanan udara, dipakai untuk meramalkan keadaan cuaca dan mengetahui ketinggian suatu tempat dari permukaan laut;"
+      },
+      {
+        "type": "desc",
+        "text": "tolok ukur; ukuran (baik buruk dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometer",
+  "related": [],
+  "detailed": false
+}

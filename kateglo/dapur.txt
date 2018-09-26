@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dapur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat memasak;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membakar batu bata, batu kapur, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tungku; perapian (pada lokomotif dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ark) masyarakat desa dalam prasasti Jawa Kuno;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dapur",
+  "related": [],
+  "detailed": false
+}

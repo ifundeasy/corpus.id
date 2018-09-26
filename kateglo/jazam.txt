@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jazam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "memotong; memenggal;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda baca huruf Arab (o) yang ditaruh di atas huruf, menyatakan bahwa huruf itu mati atau tidak diucapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jazam",
+  "related": [],
+  "detailed": false
+}

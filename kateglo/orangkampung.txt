@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang kampung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau penduduk yang tinggal di kampung (bukan di kota);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20kampung",
+  "related": [],
+  "detailed": false
+}

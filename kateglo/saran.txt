@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat (usul, anjuran, cita-cita) yang dikemukakan untuk dipertimbangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saran",
+  "related": [],
+  "detailed": false
+}

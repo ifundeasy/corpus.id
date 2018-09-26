@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah minum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedai tempat minum-minum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20minum",
+  "related": [],
+  "detailed": false
+}

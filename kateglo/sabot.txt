@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sabot",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyabot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ransum penumbuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum yang diberikan kepada ayam setelah masa pertumbuhan murni sampai dengan menjelang produksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ransum%20penumbuh",
+  "related": [],
+  "detailed": false
+}

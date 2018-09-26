@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpelihara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terjaga (terawat) baik;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dan mudah dipelihara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpelihara",
+  "related": [],
+  "detailed": false
+}

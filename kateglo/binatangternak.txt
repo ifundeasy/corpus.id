@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "binatang ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang yang (biasa) diternakkan untuk diambil manfaatnya (seperti lembu dan kambing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=binatang%20ternak",
+  "related": [],
+  "detailed": false
+}

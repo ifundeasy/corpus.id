@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lekuk (tentang tanah, dahi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi rendah dan dalam (seperti tanah tempat air lalu);"
+      },
+      {
+        "type": "desc",
+        "text": "lembah; tanah rendah;"
+      },
+      {
+        "type": "link",
+        "text": "melembang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembang",
+  "related": [],
+  "detailed": false
+}

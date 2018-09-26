@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "potong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggal; kerat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) kata penggolong bilangan bagi berbagai-bagai benda (seperti baju, kain, bungkusan, dan barang);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) memotong (mengerat, memenggal, menyembelih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=potong",
+  "related": [],
+  "detailed": false
+}

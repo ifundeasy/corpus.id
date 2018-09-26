@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beban yang menjadi tanggung jawab;"
+      },
+      {
+        "type": "desc",
+        "text": "garansi; jaminan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang keselamatannya (kehidupannya) harus ditanggung;"
+      },
+      {
+        "type": "desc",
+        "text": "akibat dari perbuatan dsb yang harus ditanggung;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dijadikan jaminan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menanggung;"
+      },
+      {
+        "type": "desc",
+        "text": "beban (dalam arti kiasan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggungan",
+  "related": [],
+  "detailed": false
+}

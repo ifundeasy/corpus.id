@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karangan tertulis yang membahas masalah tertentu yang dikemukakan dalam suatu seminar untuk mendapat pembahasan lebih lanjut; makalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20kerja",
+  "related": [],
+  "detailed": false
+}

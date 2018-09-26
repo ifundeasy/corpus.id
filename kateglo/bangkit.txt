@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangkit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bangun (dari tidur, duduk) lalu berdiri;"
+      },
+      {
+        "type": "desc",
+        "text": "bangun (hidup) kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "timbul atau terbit (tentang marah);"
+      },
+      {
+        "type": "desc",
+        "text": "kambuh (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "beterbangan ke udara (tentang debu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai memuai (tentang adonan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangkit",
+  "related": [],
+  "detailed": false
+}

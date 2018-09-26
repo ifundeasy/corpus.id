@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wacana langsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kutipan wacana yang sebenarnya dibatasi oleh intonasi atau pungtuasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wacana%20langsung",
+  "related": [],
+  "detailed": false
+}

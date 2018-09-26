@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kertang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kotor karena ada sesuatu yang melekat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) bunyi seperti bunyi kaleng dipukul;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Epinephelus pantherinus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertang",
+  "related": [],
+  "detailed": false
+}

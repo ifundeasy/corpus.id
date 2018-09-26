@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus dwibahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kata atau gabungan kata suatu bahasa yang disusun secara alfabetis dengan penjelasan makna dan contoh pemakaiannya di dalam bahasa lain yang menjadi bahasa sasaran; kamus yang disusun dengan menggunakan (terdiri atas) dua bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20dwibahasa",
+  "related": [],
+  "detailed": false
+}

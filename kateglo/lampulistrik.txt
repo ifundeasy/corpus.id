@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu yang menggunakan tenaga listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20listrik",
+  "related": [],
+  "detailed": false
+}

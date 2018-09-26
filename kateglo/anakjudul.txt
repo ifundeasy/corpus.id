@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak judul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tambahan pada judul buku dsb (biasanya berupa kata-kata penjelas terhadap judul);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20judul",
+  "related": [],
+  "detailed": false
+}

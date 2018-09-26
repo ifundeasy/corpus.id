@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah angka kemenangan; kedudukan atau hasil pertandingan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) angka perolehan dalam tes (ujian, ulangan); biji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta situasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peta yang menggambarkan letak bangunan (kantor, perumahan penduduk satu per satu, dsb) di sebuah kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20situasi",
+  "related": [],
+  "detailed": false
+}

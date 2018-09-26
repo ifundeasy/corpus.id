@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juak",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "juak-juak"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berjuak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "menjuak"
+      },
+      {
+        "type": "link",
+        "text": "berjuak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "editorial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kom)"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai atau berhubungan dengan editor atau pengeditan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "artikel dalam surat kabar atau majalah yang mengungkapkan pendirian editor atau pimpinan surat kabar (majalah) tersebut mengenai beberapa pokok masalah; tajuk rencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=editorial",
+  "related": [],
+  "detailed": false
+}

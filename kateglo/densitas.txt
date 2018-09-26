@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "densitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerapatan; kepadatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=densitas",
+  "related": [],
+  "detailed": false
+}

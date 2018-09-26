@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang mengalir (tentang hawa, air, listrik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sungai kecil; selokan;"
+      },
+      {
+        "type": "desc",
+        "text": "saluran untuk benda cair yang mengalir (seperti pipa air);"
+      },
+      {
+        "type": "desc",
+        "text": "haluan; pendapat; paham (politik, pandangan hidup, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gerakan maju zat alir (fluida), misal gas, uap, atau cairan secara berkesinambungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan pantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan yang khusus digunakan untuk kapal berlabuh dalam negeri yang mengadakan pelayaran antarpulau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20pantai",
+  "related": [],
+  "detailed": false
+}

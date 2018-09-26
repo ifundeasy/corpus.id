@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekameter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 10 m (disingkat dam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekameter",
+  "related": [],
+  "detailed": false
+}

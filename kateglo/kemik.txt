@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyok; lekuk;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergumam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemik",
+  "related": [],
+  "detailed": false
+}

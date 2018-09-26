@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasar utama di kota besar yang merupakan pusat penyalur barang kebutuhan untuk pasar lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20induk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pompa angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pompa untuk memasukkan udara ke dalam ban sepeda, mobil, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pompa%20angin",
+  "related": [],
+  "detailed": false
+}

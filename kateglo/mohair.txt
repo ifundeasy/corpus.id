@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mohair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenunan yang dibuat dari bulu kambing angora;"
+      },
+      {
+        "type": "desc",
+        "text": "bulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mohair",
+  "related": [],
+  "detailed": false
+}

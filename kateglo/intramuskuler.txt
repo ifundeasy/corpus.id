@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intramuskuler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) mengenai pemasuk-an (tentang suntikan) ke dalam otot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intramuskuler",
+  "related": [],
+  "detailed": false
+}

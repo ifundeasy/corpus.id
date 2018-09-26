@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sebat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyebat"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jk) cepat; tangkas;"
+      },
+      {
+        "type": "desc",
+        "text": "susah bernapas seperti orang yang menderita penyakit asma;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) sesak napas karena hidung atau tenggorokan tersumbat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebat",
+  "related": [],
+  "detailed": false
+}

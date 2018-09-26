@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat penyeduh kopi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencampur kopi, gula, dan air panas sehingga dapat langsung diminum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20penyeduh%20kopi",
+  "related": [],
+  "detailed": false
+}

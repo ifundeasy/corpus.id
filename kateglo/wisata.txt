@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wisata",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bepergian bersama-sama (untuk memperluas pengetahuan, bersenang-senang, dsb); bertamasya;"
+      },
+      {
+        "type": "desc",
+        "text": "piknik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sel tumor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sel yang tumbuh tidak normal pada beberapa bagian tubuh, dapat tumbuh jinak atau ganas, dan tumbuhnya tidak dipengaruhi oleh jaringan sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sel%20tumor",
+  "related": [],
+  "detailed": false
+}

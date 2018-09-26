@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "osmometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tekanan osmosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=osmometer",
+  "related": [],
+  "detailed": false
+}

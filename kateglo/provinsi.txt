@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "provinsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah atau daerah yang dikepalai oleh gubernur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=provinsi",
+  "related": [],
+  "detailed": false
+}

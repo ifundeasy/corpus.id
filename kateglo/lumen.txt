@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "rongga di dalam pembuluh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) satuan ukuran kekuatan cahaya (lampu, lilin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lumen",
+  "related": [],
+  "detailed": false
+}

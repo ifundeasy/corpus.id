@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kursi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat duduk yang berkaki dan bersandaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kedudukan, jabatan (dalam parlemen, kabinet, pengurus, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursi",
+  "related": [],
+  "detailed": false
+}

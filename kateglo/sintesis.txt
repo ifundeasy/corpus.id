@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sintesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paduan (campuran) berbagai pengertian atau hal sehingga merupakan kesatuan yang selaras;"
+      },
+      {
+        "type": "desc",
+        "text": "penentuan hukum yang umum berdasarkan hukum yang khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "reaksi kimia antara dua atau lebih zat membentuk satu zat baru;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penggabungan unsur-unsur untuk membentuk ujaran dengan menggunakan alat-alat bahasa yang ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sintesis",
+  "related": [],
+  "detailed": false
+}

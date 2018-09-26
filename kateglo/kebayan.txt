@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kebayan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "pegawai desa yang pekerjaannya menyampaikan perintah dan menjaga keamanan desa;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) orang perempuan tua yang biasa berperan sebagai perantara hubungan antara pria dan wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) orang yang pekerjaannya disuruh-suruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebayan",
+  "related": [],
+  "detailed": false
+}

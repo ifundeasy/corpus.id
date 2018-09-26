@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polisi ekonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "polisi yang mengamati pelanggaran aturan yang mengenai perekonomian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisi%20ekonomi",
+  "related": [],
+  "detailed": false
+}

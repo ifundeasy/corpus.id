@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepopuleran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (yang bersifat, berciri) populer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepopuleran",
+  "related": [],
+  "detailed": false
+}

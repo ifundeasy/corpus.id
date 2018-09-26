@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa kurang percaya (sangsi, curiga, tidak yakin, ragu-ragu);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang percaya, sangsi, curiga, tidak yakin, ragu-ragu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syak",
+  "related": [],
+  "detailed": false
+}

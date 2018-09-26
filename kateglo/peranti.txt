@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peranti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat; perkakas;"
+      },
+      {
+        "type": "desc",
+        "text": "syarat;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan (untuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peranti",
+  "related": [],
+  "detailed": false
+}

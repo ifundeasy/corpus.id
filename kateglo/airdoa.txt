@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air doa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang sudah diberi doa (mantra);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20doa",
+  "related": [],
+  "detailed": false
+}

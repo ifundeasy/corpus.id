@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan di bidang penyuluhan kesehatan umum dengan tujuan menyadarkan dan mengubah sikap serta perilaku masyarakat agar tercapai tingkat kesehatan yang diinginkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20kesehatan",
+  "related": [],
+  "detailed": false
+}

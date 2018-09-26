@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersendi-sendi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersendi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersendi-sendi",
+  "related": [],
+  "detailed": false
+}

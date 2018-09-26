@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artikel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karya tulis lengkap, misal laporan berita atau esai dalam majalah, surat kabar, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) bagian undang-undang atau peraturan yang berupa ketentuan; pasal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) unsur yang dipakai untuk membatasi atau memodifikasi nomina, misal the dalam bahasa Inggris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artikel",
+  "related": [],
+  "detailed": false
+}

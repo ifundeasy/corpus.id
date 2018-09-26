@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan sabit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan yang tampak seperti sabit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20sabit",
+  "related": [],
+  "detailed": false
+}

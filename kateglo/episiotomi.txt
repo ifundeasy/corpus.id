@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "episiotomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) operasi memperbesar kerampang dan vagina untuk melancarkan persalinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=episiotomi",
+  "related": [],
+  "detailed": false
+}

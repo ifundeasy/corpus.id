@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aksiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegunaan ilmu pengetahuan bagi kehidupan manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "kajian tentang nilai, khususnya etika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksiologi",
+  "related": [],
+  "detailed": false
+}

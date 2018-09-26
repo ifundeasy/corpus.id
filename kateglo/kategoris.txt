@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kategoris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tepat; kena; langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategoris",
+  "related": [],
+  "detailed": false
+}

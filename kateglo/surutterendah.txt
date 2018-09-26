@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surut terendah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "batas permukaan air laut pada waktu surut terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surut%20terendah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kisi-kisi; jerjak (pada jendela, pintu, sangkar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "langkan yang berkisi-kisi (pada beranda, jembatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pagar pada tepi kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terali",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anta",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "sifat, tabiat;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(Ar) kamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anta",
+  "related": [],
+  "detailed": false
+}

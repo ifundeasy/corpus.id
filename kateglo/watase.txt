@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "watase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah satuan tenaga listrik yang diukur dengan watt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=watase",
+  "related": [],
+  "detailed": false
+}

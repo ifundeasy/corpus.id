@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beranggota",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai anggota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beranggota",
+  "related": [],
+  "detailed": false
+}

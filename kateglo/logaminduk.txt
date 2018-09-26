@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "logam induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "logam yang akan dilas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logam%20induk",
+  "related": [],
+  "detailed": false
+}

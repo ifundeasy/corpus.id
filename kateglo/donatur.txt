@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "donatur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang secara tetap memberikan sumbangan berupa uang kepada suatu perkumpulan dsb; penyumbang tetap; penderma tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=donatur",
+  "related": [],
+  "detailed": false
+}

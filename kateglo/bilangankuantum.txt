@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan kuantum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) bilangan catu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20kuantum",
+  "related": [],
+  "detailed": false
+}

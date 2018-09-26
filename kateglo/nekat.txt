@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nekat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkeras hati; dengan keras atau kuat kemauan;"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu berani (dengan tidak berpikir panjang lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mempedulikan apa-apa lagi (karena putus harap, hilang akal, malu sekali, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tetap tidak mau (mengalah, menurut, menyerah, dsb); bersikeras; mengotot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nekat",
+  "related": [],
+  "detailed": false
+}

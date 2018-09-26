@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hiperamnesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan tidak ingat apa-apa selain kejadian yang telah lama berselang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hiperamnesi",
+  "related": [],
+  "detailed": false
+}

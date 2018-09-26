@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahanan kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penahanan di dalam kota (yang ditahan tidak diizinkan meninggalkan kota);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahanan%20kota",
+  "related": [],
+  "detailed": false
+}

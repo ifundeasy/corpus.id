@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lamun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melamun"
+      },
+      {
+        "type": "desc",
+        "text": "tetapi; namun;"
+      },
+      {
+        "type": "desc",
+        "text": "biarpun; meskipun;"
+      },
+      {
+        "type": "desc",
+        "text": "asal(kan); jikalau;"
+      },
+      {
+        "type": "link",
+        "text": "melamun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lamun",
+  "related": [],
+  "detailed": false
+}

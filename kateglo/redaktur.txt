@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "redaktur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menangani bidang redaksi (misal -- artistik, -- fotografi, -- interior);"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin (kepala atau penerbit) surat kabar dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur",
+  "related": [],
+  "detailed": false
+}

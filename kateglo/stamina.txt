@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stamina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan dan energi fisik seseorang yang memungkinkan dia dapat bertahan dalam bekerja atau dalam kesehatan tubuh; daya tahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) ketabahan dan ketahanan mental; keuletan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stamina",
+  "related": [],
+  "detailed": false
+}

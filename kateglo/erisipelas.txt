@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "erisipelas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit kulit yang akut dan bersifat menular disertai demam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erisipelas",
+  "related": [],
+  "detailed": false
+}

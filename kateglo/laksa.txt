@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laksa",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "sepuluh ribu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "lauk yang mengandung banyak kuah bercampur soun, daging ayam, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laksa",
+  "related": [],
+  "detailed": false
+}

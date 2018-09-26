@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang jasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan sebagai pembalas jasa (hadiah, uang pensiun, bonus);"
+      },
+      {
+        "type": "desc",
+        "text": "bunga uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20jasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdosis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai dosis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdosis",
+  "related": [],
+  "detailed": false
+}

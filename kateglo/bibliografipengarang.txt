@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi pengarang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi yang mendaftar buku, artikel, dan karya tulis lainnya tentang pengarang tertentu, dapat berupa bibliografi dan kritik terhadap karya pengarang itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20pengarang",
+  "related": [],
+  "detailed": false
+}

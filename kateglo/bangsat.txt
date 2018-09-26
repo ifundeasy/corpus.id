@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangsat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepinding; kutu busuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) orang yang bertabiat jahat (terutama yang suka mencuri, mencopet, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) jembel; miskin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangsat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat Tarawih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat sunah yang dilakukan pada bulan Ramadan, yang waktunya sesudah salat isya hingga menjelang fajar, dapat dikerjakan sendiri, baik di rumah maupun di masjid, atau dengan berjamaah dan tanpa azan atau iqamat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20Tarawih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kutikula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan paling luar tubuh atau kulit permukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) bagian tumbuhan yang merupakan lapisan yang jernih, sangat tipis, dan biasanya lapisan itu berupa lilin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) lapisan pada permukaan kulit yang terdiri atas bagian sel yang telah mati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutikula",
+  "related": [],
+  "detailed": false
+}

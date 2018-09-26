@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendaratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mendarat atau mendaratkan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat mendarat(kan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendaratan",
+  "related": [],
+  "detailed": false
+}

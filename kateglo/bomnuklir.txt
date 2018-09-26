@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bom nuklir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bom yang diledakkan dengan tenaga nuklir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bom%20nuklir",
+  "related": [],
+  "detailed": false
+}

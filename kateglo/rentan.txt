@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rentan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mudah terkena penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "peka; mudah merasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rentan",
+  "related": [],
+  "detailed": false
+}

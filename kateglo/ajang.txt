@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ajang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk makan sesuatu (piring dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "medan; tempat (untuk bertempur dsb);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "untuk; bagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ajang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detergen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan pembersih pakaian (seperti sabun yang tidak dibuat dari lemak atau soda dan berupa tepung atau cairan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detergen",
+  "related": [],
+  "detailed": false
+}

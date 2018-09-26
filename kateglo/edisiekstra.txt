@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "edisi ekstra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "edisi yang diterbitkan di luar edisi tetap untuk menyiarkan suatu berita penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edisi%20ekstra",
+  "related": [],
+  "detailed": false
+}

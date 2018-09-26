@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak orang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak orang lain (bukan anak saudara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20orang",
+  "related": [],
+  "detailed": false
+}

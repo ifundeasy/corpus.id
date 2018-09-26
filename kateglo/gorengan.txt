@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gorengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang apa yang digoreng;"
+      },
+      {
+        "type": "desc",
+        "text": "gulai daging atau jeroan yang diberi rempah-rempah, kecap, dan santan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) permainan (membawa, menggiring) bola (dalam sepak bola);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gorengan",
+  "related": [],
+  "detailed": false
+}

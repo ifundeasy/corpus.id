@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "loloh",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meloloh"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) longgar (tentang baju, cincin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=loloh",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cacat naskah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) bagian naskah yang mengandung keburukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacat%20naskah",
+  "related": [],
+  "detailed": false
+}

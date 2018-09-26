@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "higrometer listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "higrometer yang menggunakan elemen elektronik yang peka terhadap kelembapan udara sebagai alat duga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrometer%20listrik",
+  "related": [],
+  "detailed": false
+}

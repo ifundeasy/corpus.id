@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oksidator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghasil oksidasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oksidator",
+  "related": [],
+  "detailed": false
+}

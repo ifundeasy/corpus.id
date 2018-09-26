@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumbu punggung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis yang menghubungkan titik-titik dengan kelengkungan maksimum dari daerah antisiklon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumbu%20punggung",
+  "related": [],
+  "detailed": false
+}

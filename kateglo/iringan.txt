@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi; lambung; samping;"
+      },
+      {
+        "type": "desc",
+        "text": "yang mengiringi (mengikuti, menyertai) (tentang lagu, orkes, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "iring-iringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iringan",
+  "related": [],
+  "detailed": false
+}

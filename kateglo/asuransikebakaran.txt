@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi kebakaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanggungan kebakaran (tentang rumah dsb yang terbakar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20kebakaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berperai-perai"
+      },
+      {
+        "type": "desc",
+        "text": "tidak masuk bekerja, sekolah, dsb; libur;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak usah membayar; gratis;"
+      },
+      {
+        "type": "link",
+        "text": "berperai-perai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perai",
+  "related": [],
+  "detailed": false
+}

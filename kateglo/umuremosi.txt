@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur emosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taraf kesanggupan seseorang untuk mengalami perasaan-perasaan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20emosi",
+  "related": [],
+  "detailed": false
+}

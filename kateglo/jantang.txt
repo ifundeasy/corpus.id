@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jantang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "menjantang"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "terjantang"
+      },
+      {
+        "type": "link",
+        "text": "kaki jantang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jantang",
+  "related": [],
+  "detailed": false
+}

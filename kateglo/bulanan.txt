@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiap-tiap bulan (tentang gaji, laporan, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulanan",
+  "related": [],
+  "detailed": false
+}

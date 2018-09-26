@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertib acara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "aturan dalam sidang (rapat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "acara; program;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertib%20acara",
+  "related": [],
+  "detailed": false
+}

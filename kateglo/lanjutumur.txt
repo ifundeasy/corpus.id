@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lanjut umur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tua; lanjut usia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanjut%20umur",
+  "related": [],
+  "detailed": false
+}

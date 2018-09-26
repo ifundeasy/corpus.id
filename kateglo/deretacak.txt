@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deret acak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) deret bilangan yang dianggap telah ditarik secara acak dari suatu sebaran tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deret%20acak",
+  "related": [],
+  "detailed": false
+}

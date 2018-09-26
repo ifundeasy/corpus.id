@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemain cadangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain yang dicadangkan (dipersiapkan) untuk menggantikan pemain lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemain%20cadangan",
+  "related": [],
+  "detailed": false
+}

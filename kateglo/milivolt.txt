@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milivolt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu perseribu volt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milivolt",
+  "related": [],
+  "detailed": false
+}

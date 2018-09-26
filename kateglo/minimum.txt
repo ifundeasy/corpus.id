@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang paling kecil (sedikit, kurang); yang paling rendah (tentang nilai, harga, upah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minimum",
+  "related": [],
+  "detailed": false
+}

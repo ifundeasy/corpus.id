@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kardiolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter ahli penyakit jantung; dokter ahli kardiologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kardiolog",
+  "related": [],
+  "detailed": false
+}

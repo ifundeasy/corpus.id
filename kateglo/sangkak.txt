@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sangkak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang kayu; dahan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bertelur ayam yang dibuat dari anyaman bambu berbentuk kerucut terbalik; sarang ayam; petarangan;"
+      },
+      {
+        "type": "link",
+        "text": "menyangkak"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyangkak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangkak",
+  "related": [],
+  "detailed": false
+}

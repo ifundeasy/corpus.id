@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyegel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membubuhkan meterai;"
+      },
+      {
+        "type": "desc",
+        "text": "membubuhkan cap (dengan lak dsb) pada surat rahasia;"
+      },
+      {
+        "type": "desc",
+        "text": "menutup rumah (bangunan, barang, dsb) yang disita dengan menempelkan segel pada pintu dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyegel",
+  "related": [],
+  "detailed": false
+}

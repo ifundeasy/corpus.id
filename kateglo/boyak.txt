@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "boyak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hambar (tidak sedap) rasanya (lagi) karena sudah kering atau busuk (tentang tembakau);"
+      },
+      {
+        "type": "desc",
+        "text": "menjemukan; membosankan; tidak menyenangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bangkrut; remuk; berantakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=boyak",
+  "related": [],
+  "detailed": false
+}

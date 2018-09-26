@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyaji makalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyajikan makalah dalam suatu pertemuan ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyaji%20makalah",
+  "related": [],
+  "detailed": false
+}

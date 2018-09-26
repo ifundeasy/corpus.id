@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perihelion",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron) titik pada garis edar suatu benda langit yang terdekat ke matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perihelion",
+  "related": [],
+  "detailed": false
+}

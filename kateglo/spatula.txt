@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spatula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sendok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spatula",
+  "related": [],
+  "detailed": false
+}

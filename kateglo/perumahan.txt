@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perumahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan beberapa buah rumah; rumah-rumah tempat tinggal;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyediakan rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah kosong (untuk mendirikan rumah);"
+      },
+      {
+        "type": "desc",
+        "text": "kayu tempat mata ketam (serut);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pendirian; maksud;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perumahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagram balok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diagram yang dinyatakan dalam tiga dimensi, lebar, tinggi, dan dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) gambar sketsa untuk menjelaskan sesuatu dengan melukiskan bagiannya, cara kerjanya, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagram%20balok",
+  "related": [],
+  "detailed": false
+}

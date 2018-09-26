@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gas yang terjadi dari cairan (air dsb) apabila dipanaskan; bentuk gas suatu zat;"
+      },
+      {
+        "type": "link",
+        "text": "menguap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uap",
+  "related": [],
+  "detailed": false
+}

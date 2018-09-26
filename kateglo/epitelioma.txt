@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epitelioma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tumor yang berasal dari epitel, biasanya berupa kanker kulit, kadang-kadang kanker selaput lendir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epitelioma",
+  "related": [],
+  "detailed": false
+}

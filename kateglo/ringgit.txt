@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ringgit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "mata uang dari perak yang harganya Rp2,50;"
+      },
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      },
+      {
+        "type": "desc",
+        "text": "rigi-rigi (seperti pada lereng roda geretan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ringgit",
+  "related": [],
+  "detailed": false
+}

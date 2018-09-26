@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "timbrung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw) →"
+      },
+      {
+        "type": "link",
+        "text": "menimbrung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timbrung",
+  "related": [],
+  "detailed": false
+}

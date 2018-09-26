@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telan",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menelan"
+      },
+      {
+        "type": "link",
+        "text": "menelan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telan",
+  "related": [],
+  "detailed": false
+}

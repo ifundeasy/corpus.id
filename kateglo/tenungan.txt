@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ramalan (tentang nasib orang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menenung atau mencelakakan orang dengan ilmu hitam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepailitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pailit (bangkrut);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) keadaan atau kondisi seseorang atau badan hukum yang tidak mampu lagi membayar kewajibannya (dalam hal utang-utangnya) kepada si piutang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepailitan",
+  "related": [],
+  "detailed": false
+}

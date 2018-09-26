@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarung (bantal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kupasan; tafsiran; komentar;"
+      },
+      {
+        "type": "desc",
+        "text": "sambungan; lanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulasan",
+  "related": [],
+  "detailed": false
+}

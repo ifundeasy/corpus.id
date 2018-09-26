@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "analeptik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk memulihkan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analeptik",
+  "related": [],
+  "detailed": false
+}

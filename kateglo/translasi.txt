@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "translasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemindahan semua titik di dalam bidang tertentu pada jarak dan arah yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=translasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ablaut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) perubahan vokal untuk menandai pelbagai fungsi gramatikal, misal untuk mengungkapkan perubahan kala, aspek, jumlah, dsb (seperti dalam bahasa Inggris drink, drank, drunk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ablaut",
+  "related": [],
+  "detailed": false
+}

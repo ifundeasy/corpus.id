@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akademis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai (berhubungan dengan) akademi;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat ilmiah; bersifat ilmu pengetahuan; bersifat teori, tanpa arti praktis yang langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akademis",
+  "related": [],
+  "detailed": false
+}

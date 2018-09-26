@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya ongkos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) biaya perkara seperti ongkos pemanggilan saksi dan biaya meterai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20ongkos",
+  "related": [],
+  "detailed": false
+}

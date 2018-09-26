@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dialek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) variasi bahasa yang berbeda-beda menurut pemakai (misal bahasa dari suatu daerah tertentu, kelompok sosial tertentu, atau kurun waktu tertentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialek",
+  "related": [],
+  "detailed": false
+}

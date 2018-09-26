@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vitalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan untuk bertahan hidup; daya hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kehidupan (dalam seni, sastra, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vitalitas",
+  "related": [],
+  "detailed": false
+}

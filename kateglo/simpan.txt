@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpan",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyimpan"
+      },
+      {
+        "type": "desc",
+        "text": "singkat; pendek (tentang cerita, pembicaraan, dsb); ringkas;"
+      },
+      {
+        "type": "desc",
+        "text": "terkemas (tentang barang dagangan dsb); beres;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpan",
+  "related": [],
+  "detailed": false
+}

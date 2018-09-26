@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Anda",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "sapaan untuk orang yang diajak berbicara atau berkomunikasi (tidak membedakan tingkat, kedudukan, dan umur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Anda",
+  "related": [],
+  "detailed": false
+}

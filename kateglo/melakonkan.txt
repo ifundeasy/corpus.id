@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melakonkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memainkan lakon (sandiwara);"
+      },
+      {
+        "type": "desc",
+        "text": "mengarang (menyadur) cerita menjadi lakon sandiwara;"
+      },
+      {
+        "type": "desc",
+        "text": "memainkan sebuah cerita sebagai sandiwara;"
+      },
+      {
+        "type": "desc",
+        "text": "menceritakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melakonkan",
+  "related": [],
+  "detailed": false
+}

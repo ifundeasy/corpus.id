@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bayangan hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah di belakang atau di sekitar gunung, yang jumlah curah hujannya lebih sedikit daripada curah hujan di muka gunung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bayangan%20hujan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "derajat kekerabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran jauh dekatnya hubungan keluarga atau kekerabatan antara dua bangsa atau individu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derajat%20kekerabatan",
+  "related": [],
+  "detailed": false
+}

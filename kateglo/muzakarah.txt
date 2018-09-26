@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muzakarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertukaran pikiran tentang suatu masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "pengulangan pelajaran secara bersama-sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muzakarah",
+  "related": [],
+  "detailed": false
+}

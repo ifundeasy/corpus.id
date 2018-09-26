@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uji banding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengujian dengan cara membanding-bandingkan dua barang atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uji%20banding",
+  "related": [],
+  "detailed": false
+}

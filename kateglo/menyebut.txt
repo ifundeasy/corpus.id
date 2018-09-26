@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyebut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi nama (kepada); menyatakan nama sesuatu; menamakan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengucapkan nama (benda, orang, dsb); memanggil nama;"
+      },
+      {
+        "type": "desc",
+        "text": "melisankan (kata dsb); mengucapkan; melafalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memperkatakan (menceritakan dsb); mengatakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyebut",
+  "related": [],
+  "detailed": false
+}

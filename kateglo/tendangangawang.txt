@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tendangan gawang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) sepakan di depan gawang sendiri karena bola yang melewati garis gawang telah menyentuh kaki lawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tendangan%20gawang",
+  "related": [],
+  "detailed": false
+}

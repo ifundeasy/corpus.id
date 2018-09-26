@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanian komersial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanian yang bertujuan memenuhi keperluan perdagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanian%20komersial",
+  "related": [],
+  "detailed": false
+}

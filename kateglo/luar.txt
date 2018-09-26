@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah, tempat, dsb yang tidak merupakan bagian dari sesuatu itu sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "bukan dari lingkungan (keluarga, negeri, daerah, dsb) sendiri; asing;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian (sisi, permukaan, dsb) yang tidak di dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luar",
+  "related": [],
+  "detailed": false
+}

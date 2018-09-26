@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multiseluler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "terdiri atas banyak sel;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak mengandung ruang yang kosong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multiseluler",
+  "related": [],
+  "detailed": false
+}

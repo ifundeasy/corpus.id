@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taja",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menaja"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taja",
+  "related": [],
+  "detailed": false
+}

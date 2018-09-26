@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beka",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berbeka"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(Mk) kelak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beka",
+  "related": [],
+  "detailed": false
+}

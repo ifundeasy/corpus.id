@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang berdaging; tidak gemuk (tentang tubuh dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tandus; tidak subur (tentang tanah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang berkayu; kurang lebat daunnya (tentang pohon, tebu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurus",
+  "related": [],
+  "detailed": false
+}

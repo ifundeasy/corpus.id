@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cukup umur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah dewasa; sampai umur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cukup%20umur",
+  "related": [],
+  "detailed": false
+}

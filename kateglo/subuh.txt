@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu antara terbit fajar dan menjelang terbit matahari; waktu subuh;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu salat wajib setelah terbit fajar sampai menjelang matahari terbit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis kapital) salat wajib sebanyak dua rakaat pada waktu antara terbit fajar dan menjelang terbit matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subuh",
+  "related": [],
+  "detailed": false
+}

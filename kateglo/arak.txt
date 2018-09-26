@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman keras, biasanya dibuat dari beras yang difermentasikan;"
+      },
+      {
+        "type": "desc",
+        "text": "zat cair mengandung alkohol (seperti wiski, brendi, rum) yang diperoleh dari penyulingan anggur serta zat cair lain dengan kadar etanol rendah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berarak"
+      },
+      {
+        "type": "link",
+        "text": "berarak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air sagu dsb untuk mengeraskan pakaian dsb; tajin;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) jera; kapok;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) huruf Jepang yang mulai dipakai sekitar abad-abad pertama Masehi, tiap huruf menggambarkan kata atau morfem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanji",
+  "related": [],
+  "detailed": false
+}

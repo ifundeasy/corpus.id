@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal bawah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang dihasilkan dengan lidah di bagian bawah mulut, misal [a];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20bawah",
+  "related": [],
+  "detailed": false
+}

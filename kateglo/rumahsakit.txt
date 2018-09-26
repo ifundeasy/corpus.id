@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumah sakit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung tempat merawat orang sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "gedung tempat menyediakan dan memberikan pelayanan kesehatan yang meliputi berbagai masalah kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakteri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makhluk hidup terkecil bersel tunggal, terdapat di mana-mana, dapat berkembang biak dengan kecepatan luar biasa dengan jalan membelah diri, ada yang berbahaya dan ada yang tidak, dapat menyebabkan peragian, pembusukan, dan penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) benih penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteri",
+  "related": [],
+  "detailed": false
+}

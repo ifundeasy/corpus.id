@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas dsb yang bertulis (berbagai-bagai isi, maksudnya);"
+      },
+      {
+        "type": "desc",
+        "text": "secarik kertas dsb sebagai tanda atau keterangan; kartu;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditulis; yang tertulis; tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat",
+  "related": [],
+  "detailed": false
+}

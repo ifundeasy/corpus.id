@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkisar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpusing, berputar (tentang roda, baling-baling, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berpindah; beralih; bergeser; bertukar;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai; bertumpu pada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkisar",
+  "related": [],
+  "detailed": false
+}

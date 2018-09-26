@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "autobiograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seseorang yang menulis sendiri autobiografinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=autobiograf",
+  "related": [],
+  "detailed": false
+}

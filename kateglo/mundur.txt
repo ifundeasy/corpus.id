@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mundur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan (bergerak) ke belakang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berkurang (mutu, kecakapan, dsb); menjadi buruk (kurang sehat, kurang baik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang maju laku, ramai, dsb (tentang perdagangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mundur",
+  "related": [],
+  "detailed": false
+}

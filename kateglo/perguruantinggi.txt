@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perguruan tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat pendidikan dan pengajaran tingkat tinggi (seperti sekolah tinggi, akademi, universitas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perguruan%20tinggi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan akademis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendidikan yang berhubungan dengan bidang ilmu (studi) seperti bahasa, ilmu-ilmu sosial, matematika, ilmu pengetahuan alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20akademis",
+  "related": [],
+  "detailed": false
+}

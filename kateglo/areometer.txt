@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "areometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur bobot jenis cairan berdasarkan gaya apung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=areometer",
+  "related": [],
+  "detailed": false
+}

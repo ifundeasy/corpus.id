@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "promovendus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sarjana yang menyusun disertasi dan mempertahankannya untuk memperoleh gelar doktor di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=promovendus",
+  "related": [],
+  "detailed": false
+}

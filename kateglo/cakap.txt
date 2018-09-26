@@ -1,0 +1,51 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cakap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "sanggup melakukan sesuatu; mampu; dapat;"
+      },
+      {
+        "type": "desc",
+        "text": "pandai; mahir;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai kemampuan dan kepandaian untuk mengerjakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "bagus rupanya; cantik; rupawan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagus; elok (potongan atau halus bahannya tentang pakaian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "patut; serasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tangkas; cekatan (tidak lamban);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bicara; omong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cakap",
+  "related": [],
+  "detailed": false
+}

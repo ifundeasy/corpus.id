@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam bursa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) waktu perdagangan yang telah ditetapkan di bursa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20bursa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahap banjir daratan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahap permulaan pembentukan banjir waktu air sedang mengalir di permukaan tanah, lalu berkumpul di dalam alur-alur kecil untuk mengalir ke dalam selokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahap%20banjir%20daratan",
+  "related": [],
+  "detailed": false
+}

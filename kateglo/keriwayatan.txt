@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keriwayatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal riwayat; asal-usul cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keriwayatan",
+  "related": [],
+  "detailed": false
+}

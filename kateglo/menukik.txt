@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menukik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terbang (terjun dsb) arah ke bawah dengan kepala di bawah; membidik (memandang dsb) arah ke bawah;"
+      },
+      {
+        "type": "desc",
+        "text": "menakik;"
+      },
+      {
+        "type": "link",
+        "text": "~ api"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menukik",
+  "related": [],
+  "detailed": false
+}

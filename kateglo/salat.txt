@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "rukun Islam kedua, berupa ibadah kepada Allah Swt., wajib dilakukan oleh setiap muslim mukalaf, dengan syarat, rukun, dan bacaan tertentu, dimulai dengan takbir dan diakhiri dengan salam;"
+      },
+      {
+        "type": "desc",
+        "text": "doa kepada Allah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat",
+  "related": [],
+  "detailed": false
+}

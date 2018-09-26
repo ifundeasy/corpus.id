@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang harus ditagih dari orang lain; piutang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) catatan pada pos pembukuan yang menambah nilai aktiva atau mengurangi jumlah kewajiban; jumlah yang mengurangi deposito pemegang rekening pada banknya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) volume air yang mengalir dari suatu saluran melalui penampang lintang tertentu dalam satuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debit",
+  "related": [],
+  "detailed": false
+}

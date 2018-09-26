@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wakaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah negara yang tidak dapat diserahkan kepada siapa pun dan digunakan untuk tujuan amal;"
+      },
+      {
+        "type": "desc",
+        "text": "benda bergerak atau tidak bergerak yang disediakan untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas;"
+      },
+      {
+        "type": "desc",
+        "text": "hadiah atau pemberian yang bersifat suci;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) penghentian sebentar (waktu membaca kalimat dsb); jeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wakaf",
+  "related": [],
+  "detailed": false
+}

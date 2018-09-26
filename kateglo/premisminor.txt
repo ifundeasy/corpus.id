@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "premis minor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "premis yang berisi term yang akan menjadi subjek sebuah kesimpulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premis%20minor",
+  "related": [],
+  "detailed": false
+}

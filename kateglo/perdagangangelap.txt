@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perdagangan gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdagangan yang dilakukan secara tidak sah (tanpa membayar cukai dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdagangan%20gelap",
+  "related": [],
+  "detailed": false
+}

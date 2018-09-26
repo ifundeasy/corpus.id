@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpang siur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "silang-menyilang tidak keruan (tentang jalan, garis);"
+      },
+      {
+        "type": "desc",
+        "text": "lilit-melilit tidak keruan (tentang sulur, pita, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat rapat dan silang-menyilang (seperti kawat telepon di kota-kota besar);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak seluk-beluknya (liku-likunya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpang%20siur",
+  "related": [],
+  "detailed": false
+}

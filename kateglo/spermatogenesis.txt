@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spermatogenesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "sel sperma yang matang dalam spesies jantan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses pembentukan mani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spermatogenesis",
+  "related": [],
+  "detailed": false
+}

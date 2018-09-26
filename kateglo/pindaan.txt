@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pindaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil atau cara memperbaiki (membetulkan, mengoreksi, mengubah);"
+      },
+      {
+        "type": "desc",
+        "text": "yang diperbaiki (dibetulkan, dikoreksi, diubah);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil meniru (mencontoh, meneladan); tiruan;"
+      },
+      {
+        "type": "desc",
+        "text": "yang ditiru (dicontoh, diteladani);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pindaan",
+  "related": [],
+  "detailed": false
+}

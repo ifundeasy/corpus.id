@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "postar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suplir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=postar",
+  "related": [],
+  "detailed": false
+}

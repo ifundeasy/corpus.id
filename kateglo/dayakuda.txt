@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya kuda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan tenaga (untuk mengukur mesin dsb) yang sama dengan tenaga angkat 75 kg barang setinggi 1 m per detik (1 DK = 0,3736 kilowatt);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20kuda",
+  "related": [],
+  "detailed": false
+}

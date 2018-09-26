@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uraian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan atau penjelasan mengenai suatu hal;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan panjang lebar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uraian",
+  "related": [],
+  "detailed": false
+}

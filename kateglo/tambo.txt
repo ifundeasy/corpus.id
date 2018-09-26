@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tambo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejarah; babad; hikayat; riwayat kuno;"
+      },
+      {
+        "type": "desc",
+        "text": "uraian sejarah suatu daerah yang sering kali bercampur dengan dongeng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambo",
+  "related": [],
+  "detailed": false
+}

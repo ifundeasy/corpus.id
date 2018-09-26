@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laki",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kas)"
+      },
+      {
+        "type": "desc",
+        "text": "suami (imbangan bini);"
+      },
+      {
+        "type": "desc",
+        "text": "pria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laki",
+  "related": [],
+  "detailed": false
+}

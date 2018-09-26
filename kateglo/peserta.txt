@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peserta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ikut serta atau yang mengambil bagian (misal dalam kongres, seminar, lokakarya, dan pertandingan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peserta",
+  "related": [],
+  "detailed": false
+}

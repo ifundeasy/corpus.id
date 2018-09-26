@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "top",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu dari Siam atau Indo Cina;"
+      },
+      {
+        "type": "desc",
+        "text": "baju kebaya; baju top;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tertinggi atau teratas; puncak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=top",
+  "related": [],
+  "detailed": false
+}

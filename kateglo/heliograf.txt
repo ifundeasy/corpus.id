@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heliograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat perekam penyinaran matahari yang merekam lamanya penyinaran dan memberikan ukuran jumlah penyinaran secara kualitatif;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membuat isyarat dengan pertolongan sinar matahari dan cermin yang dapat diputar-putar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heliograf",
+  "related": [],
+  "detailed": false
+}

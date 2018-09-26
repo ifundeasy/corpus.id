@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahagia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan atau perasaan senang dan tenteram (bebas dari segala yang menyusahkan);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "beruntung; berbahagia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahagia",
+  "related": [],
+  "detailed": false
+}

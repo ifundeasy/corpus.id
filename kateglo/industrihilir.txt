@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri hilir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang memproduksi barang yang siap dipakai oleh konsumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20hilir",
+  "related": [],
+  "detailed": false
+}

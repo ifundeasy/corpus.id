@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus kas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pengeluaran dan pemasukan uang tunai perusahaan atas dasar harian, mingguan, dan jangka waktu lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20kas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manzilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manzil;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manzilah",
+  "related": [],
+  "detailed": false
+}

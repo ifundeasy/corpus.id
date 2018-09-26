@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstremis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ekstrem;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang melampaui batas kebiasaan (hukum dsb) dalam membela atau menuntut sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pejuang pada masa perang kemerdekaan melawan Belanda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstremis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepedasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal rasa pedas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa sangat pedas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepedasan",
+  "related": [],
+  "detailed": false
+}

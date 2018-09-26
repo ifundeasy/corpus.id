@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketelanjuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterlaluan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang sudah telanjur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketelanjuran",
+  "related": [],
+  "detailed": false
+}

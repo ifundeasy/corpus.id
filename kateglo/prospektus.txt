@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prospektus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan tertulis dan terperinci mengenai kegiatan baru perusahaan atau organisasi, yang disebarluaskan kepada umum atau disampaikan kepada kelompok tertentu; iklan; buku selebaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prospektus",
+  "related": [],
+  "detailed": false
+}

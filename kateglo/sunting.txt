@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sunting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hiasan (bunga dsb) yang dicocokkan di rambut atau di belakang telinga;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyunting"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sunting",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaran mahasiswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang terutama membicarakan perihal kemahasiswaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaran%20mahasiswa",
+  "related": [],
+  "detailed": false
+}

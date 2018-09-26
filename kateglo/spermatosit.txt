@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spermatosit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "sel yang berubah menjadi spermatozoid tanpa mengalami pembelahan sel lebih dahulu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) sel yang mengalami meiosis kemudian membentuk sel sperma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spermatosit",
+  "related": [],
+  "detailed": false
+}

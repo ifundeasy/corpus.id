@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dadar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telur yang diaduk (dikocok) bersama bumbu (bawang, merica, garam, dsb) kemudian digoreng, berbentuk pipih;"
+      },
+      {
+        "type": "desc",
+        "text": "pelatihan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pelatihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dadar",
+  "related": [],
+  "detailed": false
+}

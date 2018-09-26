@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memutus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memotong hingga putus;"
+      },
+      {
+        "type": "desc",
+        "text": "menghentikan (tentang arus);"
+      },
+      {
+        "type": "desc",
+        "text": "menghalangi; merusakkan (tentang jalan);"
+      },
+      {
+        "type": "desc",
+        "text": "memintas; memotong (tentang jalan);"
+      },
+      {
+        "type": "desc",
+        "text": "menyela (tentang perkataan orang);"
+      },
+      {
+        "type": "desc",
+        "text": "membatalkan; mengurungkan (tentang janji, hubungan kasih);"
+      },
+      {
+        "type": "desc",
+        "text": "menyudahi; mengakhiri (tentang yang sebenarnya belum berakhir);"
+      },
+      {
+        "type": "desc",
+        "text": "mencabut (tentang nyawa);"
+      },
+      {
+        "type": "desc",
+        "text": "membunuh; mematikan (tentang hidup atau nyawa, umur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memutus",
+  "related": [],
+  "detailed": false
+}

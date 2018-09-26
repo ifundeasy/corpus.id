@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berturut-turut; berurutan; bersambungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serial",
+  "related": [],
+  "detailed": false
+}

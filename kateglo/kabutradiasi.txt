@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kabut radiasi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabut yang terjadi karena pendinginan permukaan bumi sehingga udara di dekatnya cukup dingin untuk mengembunkan uap air yang terdapat di dalamnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabut%20radiasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "liter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan dasar ukuran isi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) alas kandang (ayam,ternak, dsb) dibuat dari kulit gabah, jerami, dsb yang dicampur dengan kapur, berfungsi menjaga agar kandang tetap kering;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=liter",
+  "related": [],
+  "detailed": false
+}

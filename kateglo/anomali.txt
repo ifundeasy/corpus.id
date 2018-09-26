@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anomali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidaknormalan; penyimpangan dari normal; kelainan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penyimpangan atau kelainan, dipandang dari sudut konvensi gramatikal atau semantis suatu bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) penyimpangan dari keseragaman sifat fisik, sering menjadi perhatian ekplorasi (misal anomali waktu-lintas, anomali magnetik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anomali",
+  "related": [],
+  "detailed": false
+}

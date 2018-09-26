@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tunai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang kontan (uang kertas dan uang logam yang tersedia dan langsung dapat digunakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tunai",
+  "related": [],
+  "detailed": false
+}

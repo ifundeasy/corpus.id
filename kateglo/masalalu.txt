@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa lalu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa yang telah lewat; masa terdahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20lalu",
+  "related": [],
+  "detailed": false
+}

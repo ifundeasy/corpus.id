@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 1.000 kg;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi 1 m3;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran besar kapal 2,83 m3;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah air yang dipindahkan oleh kapal 1.016 kg atau 35 kaki kubik;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) seribu rupiah;"
+      },
+      {
+        "type": "link",
+        "text": "tona"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ton",
+  "related": [],
+  "detailed": false
+}

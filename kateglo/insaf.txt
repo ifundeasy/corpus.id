@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insaf",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sadar (akan); mengerti benar (akan); yakin benar (akan);"
+      },
+      {
+        "type": "desc",
+        "text": "sadar akan kekeliruannya dan bertekad akan memperbaiki dirinya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "belas kasihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insaf",
+  "related": [],
+  "detailed": false
+}

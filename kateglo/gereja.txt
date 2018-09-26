@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gereja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung (rumah) tempat berdoa dan melakukan upacara agama Kristen;"
+      },
+      {
+        "type": "desc",
+        "text": "badan (organisasi) umat Kristen yang sama kepercayaan, ajaran, dan tata cara ibadahnya ( -- Katolik, -- Protestan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gereja",
+  "related": [],
+  "detailed": false
+}

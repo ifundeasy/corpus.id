@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "naskah berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) lembaran kertas yang berisi laporan mengenai hal atau peristiwa yang terjadi di masyarakat sebagai hasil olahan wartawan yang siap dimuat pada media massa cetak atau media massa elektronik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naskah%20berita",
+  "related": [],
+  "detailed": false
+}

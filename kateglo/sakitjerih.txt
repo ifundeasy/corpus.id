@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakit jerih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit sesak napas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakit%20jerih",
+  "related": [],
+  "detailed": false
+}

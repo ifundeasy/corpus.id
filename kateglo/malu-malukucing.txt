@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "malu-malu kucing",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berpura-pura malu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malu-malu%20kucing",
+  "related": [],
+  "detailed": false
+}

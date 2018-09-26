@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam esek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit demam yang mengakibatkan kulit kering dan bersisik-sisik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20esek",
+  "related": [],
+  "detailed": false
+}

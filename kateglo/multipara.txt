@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multipara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) pernah melahirkan bayi lebih dari satu kali (tentang wanita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multipara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membaca;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang gemar dan berbakat membacakan (puisi, cerita, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) orang yang oleh pencetak diberi tugas untuk membaca cetak coba dengan kopinya untuk meyakinkan bahwa semua pembetulan sudah dikerjakan dengan baik;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menggunakan bahan bacaan di perpustakaan; anggota perpustakaan yang sering meminjam buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembaca",
+  "related": [],
+  "detailed": false
+}

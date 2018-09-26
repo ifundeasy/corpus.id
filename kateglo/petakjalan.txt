@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "petak jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian jalan kereta api yang terletak di antara dua stasiun yang bersebelahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petak%20jalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) jangka waktu (biasanya sekitar 60 hari) sejak sapi perah tidak berproduksi sampai saatnya diperah kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20kering",
+  "related": [],
+  "detailed": false
+}

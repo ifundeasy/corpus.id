@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah penalti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) bagian lapangan sepak bola di muka gawang yang diberi berbatas, apabila terjadi pelanggaran oleh salah seorang pemain dari kesebelasan yang sedang mempertahankan gawangnya di daerah itu, kesebelasan itu dikenakan hukuman berupa tendangan bebas ke arah gawang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20penalti",
+  "related": [],
+  "detailed": false
+}

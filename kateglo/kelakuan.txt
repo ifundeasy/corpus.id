@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelakuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan; tingkah laku; perangai;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal; keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelakuan",
+  "related": [],
+  "detailed": false
+}

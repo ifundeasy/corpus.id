@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piagam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat (tulisan pada batu, tembaga, dsb) resmi yang berisi pernyataan pemberian hak, tanah, dsb atau berisi pernyataan dan peneguhan mengenai suatu hal (tentang ikrar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ijazah; diploma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piagam",
+  "related": [],
+  "detailed": false
+}

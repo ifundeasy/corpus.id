@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang kelompok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang yang dilakukan dalam suatu kelompok untuk membicarakan masalah yang lebih khusus atau satu bidang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20kelompok",
+  "related": [],
+  "detailed": false
+}

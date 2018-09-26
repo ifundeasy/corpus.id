@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta penumpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta (gerbong) untuk mengangkut penumpang (orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20penumpang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "predisposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecenderungan khusus ke arah suatu keadaan atau perkembangan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "kecenderungan untuk menerima atau menolak sesuatu berdasarkan pengalaman dan norma yang dimilikinya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan mudah terjangkit oleh penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=predisposisi",
+  "related": [],
+  "detailed": false
+}

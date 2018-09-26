@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hengit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "terhengit-hengit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hengit",
+  "related": [],
+  "detailed": false
+}

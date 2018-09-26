@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurva ketercurian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurva yang menunjukkan hubungan antara perolehan pada berat jenis tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurva%20ketercurian",
+  "related": [],
+  "detailed": false
+}

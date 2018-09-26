@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pepet",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memepet"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tanda \"u\" untuk menyatakan bunyi /? / dalam kata seperti segar, lekas;"
+      },
+      {
+        "type": "desc",
+        "text": "buntu; tertutup;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hilang akal; tidak bisa mencari jalan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pepet",
+  "related": [],
+  "detailed": false
+}

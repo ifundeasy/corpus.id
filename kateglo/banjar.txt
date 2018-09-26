@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "banjar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jajar; deret; leret; baris;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian desa setingkat dengan rukun warga atau dukuh yang dikepalai oleh seorang kelian;"
+      },
+      {
+        "type": "desc",
+        "text": "balai tempat dilakukannya berbagai kegiatan masyarakat setempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjar",
+  "related": [],
+  "detailed": false
+}

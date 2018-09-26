@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyebabkan (menimbulkan) kesusahan, kerugian, atau penderitaan; kecelakaan; bahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) gangguan; godaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bencana",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kalimat inti yang hanya terdiri atas unsur-unsur wajib berdasarkan tipe verba predikatnya yang dihasilkan atau disusun dengan kaidah-kaidah dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20dasar",
+  "related": [],
+  "detailed": false
+}

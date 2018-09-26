@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghitung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari jumlahnya (sisanya, pendapatannya) dengan menjumlahkan, mengurangi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "membilang untuk mengetahui berapa jumlahnya (banyaknya);"
+      },
+      {
+        "type": "desc",
+        "text": "menentukan atau menetapkan menurut (berdasarkan) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghitung",
+  "related": [],
+  "detailed": false
+}

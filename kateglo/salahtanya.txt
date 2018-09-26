@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah tanya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang sopan dalam bertanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20tanya",
+  "related": [],
+  "detailed": false
+}

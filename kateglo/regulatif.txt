@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regulatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan peraturan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regulatif",
+  "related": [],
+  "detailed": false
+}

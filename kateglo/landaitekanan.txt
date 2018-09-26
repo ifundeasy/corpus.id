@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "landai tekanan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Fis) laju pengurangan tekanan dalam ruang pada waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=landai%20tekanan",
+  "related": [],
+  "detailed": false
+}

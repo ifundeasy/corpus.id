@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tukik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menukik"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) takik;"
+      },
+      {
+        "type": "desc",
+        "text": "anak penyu;"
+      },
+      {
+        "type": "link",
+        "text": "menukik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukik",
+  "related": [],
+  "detailed": false
+}

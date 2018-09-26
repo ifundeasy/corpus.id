@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepuluh",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 10 (Arab) atau X (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-10 sesudah ke-9 sebelum ke-11;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 9 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepuluh",
+  "related": [],
+  "detailed": false
+}

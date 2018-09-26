@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor kebetulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faktor yang tidak terduga yang dapat mempengaruhi hasil penelitian karena selisih antara keadaan sampel dan keadaan populasi yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20kebetulan",
+  "related": [],
+  "detailed": false
+}

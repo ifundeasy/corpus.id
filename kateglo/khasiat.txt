@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khasiat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faedah (kegunaan) yang bersifat khas; kekuatan (kegunaan, faedah) yang istimewa (tentang obat, azimat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khasiat",
+  "related": [],
+  "detailed": false
+}

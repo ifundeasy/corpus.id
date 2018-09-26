@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka lebar (tentang mulut);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkap untuk menangkap gajah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem pengarsipan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara penyimpanan arsip (dapat berupa sistem abjad, sistem nomor, atau sistem pokok soal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20pengarsipan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkalian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbanyakan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil kali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkalian",
+  "related": [],
+  "detailed": false
+}

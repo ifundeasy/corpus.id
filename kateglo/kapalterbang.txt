@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal atau pesawat yang dapat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20terbang",
+  "related": [],
+  "detailed": false
+}

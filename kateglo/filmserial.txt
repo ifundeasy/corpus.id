@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "film serial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film yang ceritanya berseri (beruntun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=film%20serial",
+  "related": [],
+  "detailed": false
+}

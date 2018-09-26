@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reminisensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kenang-kenangan;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan mengenang; pengenangan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal berpikir dan bercerita tentang pengalaman atau kejadian masa lampau;"
+      },
+      {
+        "type": "desc",
+        "text": "halaman atau ruang dalam sebuah buku yang dapat digunakan untuk membangkitkan ingatan seseorang akan tulisan orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reminisensi",
+  "related": [],
+  "detailed": false
+}

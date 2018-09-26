@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat tukar atau standar pengukur nilai (kesatuan hitungan) yang sah, dikeluarkan oleh pemerintah suatu negara berupa kertas, emas, perak, atau logam lain yang dicetak dengan bentuk dan gambar tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "harta; kekayaan;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "(kl) sepertiga tali (= 8a sen uang zaman Hindia Belanda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang",
+  "related": [],
+  "detailed": false
+}

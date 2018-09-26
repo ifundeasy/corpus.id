@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daerah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permukaan bumi dalam kaitannya dengan keadaan alam dsb yang khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan pemerintah; wilayah;"
+      },
+      {
+        "type": "desc",
+        "text": "selingkungan tempat yang dipakai untuk tujuan khusus; kawasan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat sekeliling atau yang termasuk dalam lingkungan suatu kota (wilayah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat dalam satu lingkungan yang sama keadaannya (iklimnya, hasilnya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang terkena peristiwa yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian permukaan tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah",
+  "related": [],
+  "detailed": false
+}

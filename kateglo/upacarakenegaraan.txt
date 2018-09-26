@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upacara kenegaraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "upacara yang bersifat resmi, dilakukan oleh Pemerintah Pusat, berhubungan dengan peristiwa penting yang menyangkut negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upacara%20kenegaraan",
+  "related": [],
+  "detailed": false
+}

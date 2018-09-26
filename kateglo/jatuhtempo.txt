@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jatuh tempo",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "batas waktu pembayaran atau penerimaan sesuatu dengan yang telah ditetapkan; sudah lewat waktunya; kedaluwarsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jatuh%20tempo",
+  "related": [],
+  "detailed": false
+}

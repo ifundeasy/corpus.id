@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpisahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "beda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) kebun; ladang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir; dekat;"
+      },
+      {
+        "type": "desc",
+        "text": "antara;"
+      },
+      {
+        "type": "desc",
+        "text": "sela-sela antara tempat duduk perempuan dan laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parak",
+  "related": [],
+  "detailed": false
+}

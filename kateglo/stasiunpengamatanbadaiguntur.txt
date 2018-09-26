@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun pengamatan badai guntur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun meteorologi tambahan yang mengamati hasil-hasil yang berhubungan dengan badai guntur, pengamatan ini biasanya dilakukan secara sukarela oleh pengamat sukarela;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20pengamatan%20badai%20guntur",
+  "related": [],
+  "detailed": false
+}

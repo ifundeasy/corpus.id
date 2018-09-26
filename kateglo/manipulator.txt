@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manipulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan manipulasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manipulator",
+  "related": [],
+  "detailed": false
+}

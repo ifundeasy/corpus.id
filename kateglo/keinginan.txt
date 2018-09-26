@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keinginan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang apa yang diingini (diinginkan);"
+      },
+      {
+        "type": "desc",
+        "text": "peri-hal ingin; hasrat; kehendak; harapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keinginan",
+  "related": [],
+  "detailed": false
+}

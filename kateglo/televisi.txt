@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "televisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem penyiaran gambar yang disertai dengan bunyi (suara) melalui kabel atau melalui angkasa dengan menggunakan alat yang mengubah cahaya (gambar) dan bunyi (suara) menjadi gelombang listrik dan mengubahnya kembali menjadi berkas cahaya yang dapat dilihat dan bunyi yang dapat didengar;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat penerima gambar siaran televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=televisi",
+  "related": [],
+  "detailed": false
+}

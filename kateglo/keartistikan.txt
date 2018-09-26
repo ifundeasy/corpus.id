@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keartistikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal artistik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keartistikan",
+  "related": [],
+  "detailed": false
+}

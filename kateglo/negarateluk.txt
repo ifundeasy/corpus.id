@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "negara teluk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "negara yang termasuk kawasan Teluk Persia, seperti Oman, Qatar, Bahrain, dan Kuwait;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negara%20teluk",
+  "related": [],
+  "detailed": false
+}

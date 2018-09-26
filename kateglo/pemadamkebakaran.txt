@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemadam kebakaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasukan yang bertugas memadamkan kebakaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemadam%20kebakaran",
+  "related": [],
+  "detailed": false
+}

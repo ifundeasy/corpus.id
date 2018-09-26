@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taman hiburan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang mempunyai berbagai jenis hiburan dan pertunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taman%20hiburan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyusun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bertugas menyusun;"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk menyusun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyusun",
+  "related": [],
+  "detailed": false
+}

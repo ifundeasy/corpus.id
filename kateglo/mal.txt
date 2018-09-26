@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala atau bagian atas (dari tiang batu, kaki meja, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ganja (tentang keris);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar atau bagian pada pangkal (tentang bilah senjata);"
+      },
+      {
+        "type": "desc",
+        "text": "harta benda (uang, barang); khazanah;"
+      },
+      {
+        "type": "desc",
+        "text": "dana;"
+      },
+      {
+        "type": "desc",
+        "text": "cetakan jambangan keramik yang terbuat dari kayu atau seng yang tebal;"
+      },
+      {
+        "type": "desc",
+        "text": "gedung atau kelompok gedung yang berisi macam-macam toko dengan dihubungkan oleh lorong (jalan penghubung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mal",
+  "related": [],
+  "detailed": false
+}

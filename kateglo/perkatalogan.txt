@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkatalogan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal katalog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkatalogan",
+  "related": [],
+  "detailed": false
+}

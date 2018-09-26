@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membuat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menciptakan (menjadikan, menghasilkan); membikin;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan; mengerjakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan (untuk); memakai (untuk);"
+      },
+      {
+        "type": "desc",
+        "text": "menyebabkan; mendatangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membuat",
+  "related": [],
+  "detailed": false
+}

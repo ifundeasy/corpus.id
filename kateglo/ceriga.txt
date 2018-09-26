@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ceriga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "pedang pendek (seperti golok yang agak lengkung sedikit); sewar;"
+      },
+      {
+        "type": "link",
+        "text": "curiga"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ceriga",
+  "related": [],
+  "detailed": false
+}

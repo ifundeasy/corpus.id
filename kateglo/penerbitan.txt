@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerbitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menerbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemunculan;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan (pekerjaan dsb) menerbitkan (buku dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerbitan",
+  "related": [],
+  "detailed": false
+}

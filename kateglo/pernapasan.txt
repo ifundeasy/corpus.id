@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pernapasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal bernapas;"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan energi di dalam karbohidrat oleh makhluk hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pernapasan",
+  "related": [],
+  "detailed": false
+}

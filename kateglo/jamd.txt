@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam D",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu tanda dimulainya suatu gerakan, operasi, serangan, dsb yang ditetapkan oleh komandan dan diketahui oleh komandan bawahannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20D",
+  "related": [],
+  "detailed": false
+}

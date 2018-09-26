@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merah cina",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ikan laut, Caesio pinjalu;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Caesio erythropterus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merah%20cina",
+  "related": [],
+  "detailed": false
+}

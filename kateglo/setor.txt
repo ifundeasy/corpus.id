@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setor",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyetor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setor",
+  "related": [],
+  "detailed": false
+}

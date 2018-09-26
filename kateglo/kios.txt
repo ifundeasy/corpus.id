@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kios",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko kecil (tempat berjual buku, koran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kios",
+  "related": [],
+  "detailed": false
+}

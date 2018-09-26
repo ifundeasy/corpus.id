@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "ketang kenari"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "erat mengikat (seperti memakai ikat pinggang yang erat);"
+      },
+      {
+        "type": "desc",
+        "text": "sempit atau ketat (tentang baju);"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut; kendang, Scatophagus argus;"
+      },
+      {
+        "type": "link",
+        "text": "ketang tanduk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketang",
+  "related": [],
+  "detailed": false
+}

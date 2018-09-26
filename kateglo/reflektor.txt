@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reflektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang memantulkan cahaya (suara atau panas);"
+      },
+      {
+        "type": "desc",
+        "text": "teleskop yang berkaca cekung untuk memantulkan dan memfokuskan cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reflektor",
+  "related": [],
+  "detailed": false
+}

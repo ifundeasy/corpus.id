@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semaksimalnya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "semaksimal mungkin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semaksimalnya",
+  "related": [],
+  "detailed": false
+}

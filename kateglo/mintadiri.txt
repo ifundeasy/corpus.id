@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minta diri",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mohon agar diizinkan pergi (pulang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minta%20diri",
+  "related": [],
+  "detailed": false
+}

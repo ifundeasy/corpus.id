@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan baku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan untuk diolah melalui proses produksi menjadi barang jadi; bahan kebutuhan pokok untuk membuat sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20baku",
+  "related": [],
+  "detailed": false
+}

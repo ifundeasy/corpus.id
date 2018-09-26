@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laju mula",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecepatan gerakan yang mula-mula sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laju%20mula",
+  "related": [],
+  "detailed": false
+}

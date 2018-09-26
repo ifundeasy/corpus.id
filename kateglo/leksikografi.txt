@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang ilmu bahasa mengenai teknik penyusunan kamus;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal penyusunan kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikografi",
+  "related": [],
+  "detailed": false
+}

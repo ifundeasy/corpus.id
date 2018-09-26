@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "curah hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya hujan yang tercurah (turun) di suatu daerah dalam jangka waktu tertentu; limpah(an) hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curah%20hujan",
+  "related": [],
+  "detailed": false
+}

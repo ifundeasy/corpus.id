@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nisbah kegiatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) perbandingan yang menunjukkan hasil bagian produksi yang dianggarkan dan yang senyatanya telah diselesaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisbah%20kegiatan",
+  "related": [],
+  "detailed": false
+}

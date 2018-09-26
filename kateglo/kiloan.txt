@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kiloan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "timbangan dalam kilogram;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiloan",
+  "related": [],
+  "detailed": false
+}

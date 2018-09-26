@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "-i",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan; berdasar pada;"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan;"
+      },
+      {
+        "type": "desc",
+        "text": "berulang-ulang;"
+      },
+      {
+        "type": "desc",
+        "text": "di; pada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-i",
+  "related": [],
+  "detailed": false
+}

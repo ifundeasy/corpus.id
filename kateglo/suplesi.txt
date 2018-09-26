@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suplesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penambahan;"
+      },
+      {
+        "type": "desc",
+        "text": "tambahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suplesi",
+  "related": [],
+  "detailed": false
+}

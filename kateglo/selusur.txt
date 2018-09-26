@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selusur",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelusur"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berpegang pada jembatan dsb; langkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selusur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beras campur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang berasal dari dua atau lebih varietas padi atau gabah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beras%20campur",
+  "related": [],
+  "detailed": false
+}

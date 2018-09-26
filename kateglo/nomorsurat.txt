@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda berupa angka atau gabungan angka huruf yang dicantumkan pada surat keluar dari suatu organisasi, instansi, atau badan usaha, sesuai dengan nomor berkas atau buku agenda surat keluar yang bertalian dengan surat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20surat",
+  "related": [],
+  "detailed": false
+}

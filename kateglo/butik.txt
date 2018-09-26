@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "butik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko pakaian eksklusif yang menjual pakaian modern, yang sesuai dengan mode mutakhir, dengan segala kelengkapannya (terutama untuk wanita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=butik",
+  "related": [],
+  "detailed": false
+}

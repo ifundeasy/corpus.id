@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sejenis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebangsa; semacam; serupa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sejenis",
+  "related": [],
+  "detailed": false
+}

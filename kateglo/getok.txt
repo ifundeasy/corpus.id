@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "getok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "link",
+        "text": "menggetok"
+      },
+      {
+        "type": "link",
+        "text": "getok tular"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=getok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepresidenan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berkenaan dengan presiden (kepala negara);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kediaman (istana) presiden;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepresidenan",
+  "related": [],
+  "detailed": false
+}

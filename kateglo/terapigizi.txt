@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terapi gizi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) usaha untuk memulihkan kesehatan seseorang dengan perbaikan gizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi%20gizi",
+  "related": [],
+  "detailed": false
+}

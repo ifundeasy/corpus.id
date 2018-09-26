@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabung surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabung%20surat",
+  "related": [],
+  "detailed": false
+}

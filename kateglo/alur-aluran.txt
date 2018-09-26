@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alur-aluran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aluran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alur-aluran",
+  "related": [],
+  "detailed": false
+}

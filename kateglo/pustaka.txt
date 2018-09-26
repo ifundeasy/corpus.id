@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pustaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab; buku;"
+      },
+      {
+        "type": "desc",
+        "text": "buku primbon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pustaka",
+  "related": [],
+  "detailed": false
+}

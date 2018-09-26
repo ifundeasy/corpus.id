@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segitiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang yang bersisi tiga;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bangun yang dibentuk dengan menghubungkan tiga buah titik P1, P2, dan P3 yang tidak segaris (sebagai titik sudutnya) dengan ruas-ruas garis P1 P2, P2 P3, dan P3 P1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segitiga",
+  "related": [],
+  "detailed": false
+}

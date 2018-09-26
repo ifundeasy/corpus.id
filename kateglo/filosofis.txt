@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filosofis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan filsafat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filosofis",
+  "related": [],
+  "detailed": false
+}

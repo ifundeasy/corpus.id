@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aspirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harapan dan tujuan untuk keberhasilan pada masa yang akan datang;"
+      },
+      {
+        "type": "desc",
+        "text": "ilham yang timbul dalam mencipta;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) artikulasi konsonan hambat yang disertai letupan napas yang cukup keras sehingga dapat didengar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aspirasi",
+  "related": [],
+  "detailed": false
+}

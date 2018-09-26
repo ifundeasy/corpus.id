@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan lingkungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) perubahan atau keadaan lingkungan yang mempengaruhi organisme tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20lingkungan",
+  "related": [],
+  "detailed": false
+}

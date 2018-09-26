@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "man",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 80 pon atau 36,2874 kg;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) paman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=man",
+  "related": [],
+  "detailed": false
+}

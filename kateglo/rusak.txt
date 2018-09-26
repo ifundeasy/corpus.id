@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rusak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah tidak sempurna (baik, utuh) lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) luka-luka; bercalar-calar; calar balar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) busuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak dapat berjalan lagi (tentang mobil, mesin);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak beraturan lagi (tentang bahasa, adat);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak utuh lagi (perkawinan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terganggu (ingatannya);"
+      },
+      {
+        "type": "desc",
+        "text": "hancur; binasa;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rusak",
+  "related": [],
+  "detailed": false
+}

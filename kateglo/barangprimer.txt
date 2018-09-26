@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang merupakan kebutuhan pokok manusia (misal beras, pakaian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20primer",
+  "related": [],
+  "detailed": false
+}

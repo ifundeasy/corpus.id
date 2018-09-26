@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konon",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "agaknya (biasanya di belakang kata tanya); gerangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata orang; kabarnya; katanya;"
+      },
+      {
+        "type": "desc",
+        "text": "barangkali; mungkin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) kabar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) istimewa pula; apalagi; jangan lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konon",
+  "related": [],
+  "detailed": false
+}

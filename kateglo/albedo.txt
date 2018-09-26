@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "albedo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "fraksi (bagian) pantulan cahaya yang datang ke suatu permukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "faktor pantulan (refleksi) sebuah permukaan seperti parafin terhadap neutron;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=albedo",
+  "related": [],
+  "detailed": false
+}

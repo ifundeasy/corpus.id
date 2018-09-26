@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menakar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengukur banyaknya barang cair, beras, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "membatasi jumlah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menakar",
+  "related": [],
+  "detailed": false
+}

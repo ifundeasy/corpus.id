@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tikaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang pasangan lotre dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tikaman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teater",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung atau ruangan tempat pertunjukan film, sandiwara, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ruangan besar dengan deretan kursi-kursi ke samping dan ke belakang untuk mengikuti kuliah atau untuk peragaan ilmiah;"
+      },
+      {
+        "type": "desc",
+        "text": "pementasan drama sebagai suatu seni atau profesi; seni drama; sandiwara; drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teater",
+  "related": [],
+  "detailed": false
+}

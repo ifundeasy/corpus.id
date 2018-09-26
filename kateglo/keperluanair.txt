@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keperluan air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) jumlah air yang diperoleh tanaman per satuan luas untuk pertumbuhan biasa, sesuai dengan keadaan lapangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keperluan%20air",
+  "related": [],
+  "detailed": false
+}

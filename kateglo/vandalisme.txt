@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vandalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan merusak dan menghancurkan hasil karya seni dan barang berharga lainnya (keindahan alam dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perusakan dan penghancuran secara kasar dan ganas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vandalisme",
+  "related": [],
+  "detailed": false
+}

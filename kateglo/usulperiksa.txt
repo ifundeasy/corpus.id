@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usul periksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan yang teliti; pertanyaan dsb (untuk menyelidiki dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dengan diselidiki (diperiksa) baik-baik;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dengan sewenang-wenang; dengan begitu saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usul%20periksa",
+  "related": [],
+  "detailed": false
+}

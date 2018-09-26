@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adika",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih; lebih baik; terbaik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar untuk orang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adika",
+  "related": [],
+  "detailed": false
+}

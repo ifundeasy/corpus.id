@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sketsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lukisan cepat (hanya garis-garis besarnya);"
+      },
+      {
+        "type": "desc",
+        "text": "gambar rancangan; rengrengan; denah; bagan;"
+      },
+      {
+        "type": "desc",
+        "text": "pelukisan dengan kata-kata mengenai suatu hal secara garis besar; tulisan singkat; ikhtisar ringkas;"
+      },
+      {
+        "type": "desc",
+        "text": "adegan pendek pada suatu pertunjukan drama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sketsa",
+  "related": [],
+  "detailed": false
+}

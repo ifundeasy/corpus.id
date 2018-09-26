@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "higrometer kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "higrometer yang bekerjanya berdasarkan sifat penyerapan uap air dari zat kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrometer%20kimia",
+  "related": [],
+  "detailed": false
+}

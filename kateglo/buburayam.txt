@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bubur ayam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bubur dari beras dicampur daging ayam dan kecap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bubur%20ayam",
+  "related": [],
+  "detailed": false
+}

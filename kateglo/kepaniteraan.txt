@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepaniteraan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal jabatan panitera;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor panitera;"
+      },
+      {
+        "type": "desc",
+        "text": "urusan tulis-menulis (dalam perkumpulan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepaniteraan",
+  "related": [],
+  "detailed": false
+}

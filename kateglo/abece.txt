@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abece",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "a-b-c (abjad Latin);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) hal-hal pokok yang pertama-tama harus diketahui dari suatu keadaan atau perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abece",
+  "related": [],
+  "detailed": false
+}

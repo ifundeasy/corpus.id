@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengolah tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "menggarap tanah untuk ditanami;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengolah%20tanah",
+  "related": [],
+  "detailed": false
+}

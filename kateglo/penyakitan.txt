@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakitan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sakit-sakit selalu; selalu menderita penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakitan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibadat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ibadah;"
+      },
+      {
+        "type": "desc",
+        "text": "segala usaha lahir dan batin sesuai dengan perintah Tuhan untuk mendapatkan kebahagiaan dan keseimbangan hidup, baik untuk diri sendiri, keluarga, masyarakat maupun terhadap alam semesta;"
+      },
+      {
+        "type": "desc",
+        "text": "upacara keagamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibadat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terigu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biji-bijian sebangsa beras (padi); gandum;"
+      },
+      {
+        "type": "desc",
+        "text": "tepung gandum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terigu",
+  "related": [],
+  "detailed": false
+}

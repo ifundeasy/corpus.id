@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku panduan wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku petunjuk, khusus diterbitkan dengan bentuk dan teknik penyajian isi yang praktis, terutama memuat berbagai macam keterangan mengenai objek wisata, sarana wisata, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20panduan%20wisata",
+  "related": [],
+  "detailed": false
+}

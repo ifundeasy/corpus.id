@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "membran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selaput, kulit tipis, atau lembaran bahan tipis yang merupakan pemisah;"
+      },
+      {
+        "type": "desc",
+        "text": "rentangan selaput atau kulit yang dapat membangkitkan atau menangkap getaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) lapisan pemisah tipis antara dua fase cair yang berbeda yang memengaruhi peralihan molekul dan ion;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) lembaran (lempengan) tipis yang lentuk; pelat getar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membran",
+  "related": [],
+  "detailed": false
+}

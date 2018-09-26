@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita atau keterangan mengenai kejadian atau peristiwa yang hangat; kabar;"
+      },
+      {
+        "type": "desc",
+        "text": "laporan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan; pengumuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita",
+  "related": [],
+  "detailed": false
+}

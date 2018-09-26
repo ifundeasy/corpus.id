@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga penjualan di pasaran umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20pasar",
+  "related": [],
+  "detailed": false
+}

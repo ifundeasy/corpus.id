@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inventaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm)"
+      },
+      {
+        "type": "desc",
+        "text": "daftar yang memuat semua barang milik kantor (sekolah, perusahaan, kapal, dsb) yang dipakai dalam melaksanakan tugas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) daftar ternak yang menyebutkan macam, ukurannya, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inventaris",
+  "related": [],
+  "detailed": false
+}

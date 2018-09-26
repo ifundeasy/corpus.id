@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim benua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "iklim yang dipengaruhi oleh sifat daratan luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20benua",
+  "related": [],
+  "detailed": false
+}

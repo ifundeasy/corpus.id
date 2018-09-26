@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radikal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara mendasar (sampai kepada hal yang prinsip);"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) amat keras menuntut perubahan (undang-undang, pemerintahan);"
+      },
+      {
+        "type": "desc",
+        "text": "maju dalam berpikir atau bertindak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) gugus atom yang dapat masuk ke dalam berbagai reaksi sebagai satu satuan, yang bereaksi seakan-akan satu unsur saja, misal CH3- (metil), C2H5- (etil), SO4 (sulfat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radikal",
+  "related": [],
+  "detailed": false
+}

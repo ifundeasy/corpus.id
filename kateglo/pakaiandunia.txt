@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian dunia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat kebiasaan dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20dunia",
+  "related": [],
+  "detailed": false
+}

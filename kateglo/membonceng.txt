@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membonceng",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ikut naik (kendaraan beroda dua);"
+      },
+      {
+        "type": "desc",
+        "text": "ikut naik tanpa membayar;"
+      },
+      {
+        "type": "desc",
+        "text": "ikut serta (makan, bertamasya, membaca koran, dsb) dengan tidak turut membayar atau mengeluarkan biaya;"
+      },
+      {
+        "type": "desc",
+        "text": "ikut-ikutan (menepuk dada, menganggap diri berjasa, mendapat nama, kedudukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memanfaatkan kekuasaan (pengaruh kewibawaan dsb) orang lain untuk mencapai tujuannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membonceng",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapat umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepercayaan dan sikap orang yang umumnya berkisar pada masalah yang berhubungan dengan fakta dan keinginan; pendapat sebagian besar masyarakat; opini publik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapat%20umum",
+  "related": [],
+  "detailed": false
+}

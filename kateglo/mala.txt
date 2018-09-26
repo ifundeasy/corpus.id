@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bencana; celaka; sengsara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) air rembesan dari bangkai yang telah membusuk; danur;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "layu; merana;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) kotor; cemar; noda; penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda larangan yang mempunyai kekuatan magis (di Timor);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mala",
+  "related": [],
+  "detailed": false
+}

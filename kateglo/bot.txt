@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis sepatu yang menutup seluruh kaki, kadang-kadang sampai ke tungkai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nanometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu per satu miliar meter (1/1.000.000.000 m), dilambangkan dengan nm;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nanometer",
+  "related": [],
+  "detailed": false
+}

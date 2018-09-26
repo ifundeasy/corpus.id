@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "toleransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat atau sikap toleran;"
+      },
+      {
+        "type": "desc",
+        "text": "batas ukur untuk penambahan atau pengurangan yang masih diperbolehkan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyimpangan yang masih dapat diterima dalam pengukuran kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toleransi",
+  "related": [],
+  "detailed": false
+}

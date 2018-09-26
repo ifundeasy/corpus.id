@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa hendak muntah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) volume zat cair yang mengalir melalui permukaan per satuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indebitum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) pembayaran yang dilakukan karena adanya kekhilafan, yakni menyangka adanya utang padahal tidak ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indebitum",
+  "related": [],
+  "detailed": false
+}

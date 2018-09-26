@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spiritualisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran filsafat yang mengutamakan kerohanian;"
+      },
+      {
+        "type": "desc",
+        "text": "kepercayaan untuk memanggil roh orang yang sudah meninggal;"
+      },
+      {
+        "type": "desc",
+        "text": "spiritisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spiritualisme",
+  "related": [],
+  "detailed": false
+}

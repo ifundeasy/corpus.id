@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat penenang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk menenangkan (meredakan ketegangan) jiwa dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20penenang",
+  "related": [],
+  "detailed": false
+}

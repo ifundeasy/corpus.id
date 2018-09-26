@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian resmi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang hanya dikenakan pada upacara atau acara resmi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20resmi",
+  "related": [],
+  "detailed": false
+}

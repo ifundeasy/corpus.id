@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian sarung keris sebelah atas (dibuat dari kayu kemuning);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyampirkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampir",
+  "related": [],
+  "detailed": false
+}

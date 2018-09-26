@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fakultas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian perguruan tinggi tempat mempelajari suatu bidang ilmu yang terdiri atas beberapa jurusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fakultas",
+  "related": [],
+  "detailed": false
+}

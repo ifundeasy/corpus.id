@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda (kata-kata, tulisan) yang disepakati untuk maksud tertentu (untuk menjamin kerahasiaan berita, pemerintah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan peraturan yang bersistem;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan prinsip yang bersistem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kode",
+  "related": [],
+  "detailed": false
+}

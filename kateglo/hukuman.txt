@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukuman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siksa dsb yang dikenakan kepada orang yang melanggar undang-undang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "keputusan yang dijatuhkan oleh hakim;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil atau akibat menghukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukuman",
+  "related": [],
+  "detailed": false
+}

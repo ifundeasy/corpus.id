@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ahimsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajaran agama Hindu dan Buddha untuk tidak menyakiti makhluk apa pun dan menghindari kekerasan;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran Mahatma Gandhi yang melarang membunuh (menyakiti) dan menggunakan kekerasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahimsa",
+  "related": [],
+  "detailed": false
+}

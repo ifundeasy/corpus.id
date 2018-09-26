@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unjuk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengunjuk"
+      },
+      {
+        "type": "link",
+        "text": "unjuk beri tahu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unjuk",
+  "related": [],
+  "detailed": false
+}

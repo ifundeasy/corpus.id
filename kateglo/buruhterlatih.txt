@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh terlatih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang sudah dilatih untuk keterampilan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20terlatih",
+  "related": [],
+  "detailed": false
+}

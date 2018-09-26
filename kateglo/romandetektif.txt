@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "roman detektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita roman yang mengisahkan perbuatan detektif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=roman%20detektif",
+  "related": [],
+  "detailed": false
+}

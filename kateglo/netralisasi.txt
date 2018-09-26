@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "netralisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal menjadikan netral (tentang negara, daerah); hal menjadikan tidak terikat (bebas); penetralan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal menawarkan (racun, bisa, dsb); hal melenyapkan (pengaruh, bau, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kondisi hilangnya kontras antara dua fonem dalam lingkungan fonologis tertentu, misal dalam bahasa Indonesia hilangnya kontras antara /d/ dan /t/ pada posisi akhir;"
+      },
+      {
+        "type": "desc",
+        "text": "kondisi hilangnya kontras semantis antara beberapa unsur dalam konteks tertentu, misal aktor yang dapat dinetralisasi untuk menyatakan laki-laki ataupun perempuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=netralisasi",
+  "related": [],
+  "detailed": false
+}

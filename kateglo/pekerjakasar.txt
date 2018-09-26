@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pekerja kasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang melakukan pekerjaannya dengan tenaga fisik (seperti pemikul barang, kuli bangunan, pekerja perbaikan jalan); kuli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerja%20kasar",
+  "related": [],
+  "detailed": false
+}

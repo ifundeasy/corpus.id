@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna luas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna ujaran yang lebih luas daripada makna pusatnya, misal makna sekolah dalam kalimat ia bersekolah lagi di Seskoal (Sekolah Staf dan Komando Angkatan Laut) yang lebih luas daripada makna 'gedung tempat belajar';"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20luas",
+  "related": [],
+  "detailed": false
+}

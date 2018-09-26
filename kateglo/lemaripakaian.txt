@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lemari pakaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lemari tempat menyimpan pakaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemari%20pakaian",
+  "related": [],
+  "detailed": false
+}

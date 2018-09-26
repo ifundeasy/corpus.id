@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membesit"
+      },
+      {
+        "type": "link",
+        "text": "terbesit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besit",
+  "related": [],
+  "detailed": false
+}

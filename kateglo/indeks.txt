@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "indeks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar kata atau istilah penting yang terdapat dalam buku cetakan (biasanya pada bagian akhir buku) tersusun menurut abjad yang memberikan informasi mengenai halaman tempat kata atau istilah itu ditemukan;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar harga sekarang dibandingkan dengan harga sebelumnya menurut persentase untuk mengetahui turun naiknya harga barang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kom) (artikel) daftar berita penting hari itu (dalam majalah, surat kabar) yang dimuat di halaman depan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) rasio antara dua unsur kebahasaan tertentu yang mungkin menjadi ukuran suatu ciri tertentu; penunjuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks",
+  "related": [],
+  "detailed": false
+}

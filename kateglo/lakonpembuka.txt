@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lakon pembuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen) lakon yang terdiri atas satu babak yang disajikan pada awal pertunjukan sebelum pementasan yang sesungguhnya dimulai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lakon%20pembuka",
+  "related": [],
+  "detailed": false
+}

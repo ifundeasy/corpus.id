@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "celam-celum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar masuk dengan bebas (ke dalam rumah dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tentu (sebentar di sana, sebentar di sini);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celam-celum",
+  "related": [],
+  "detailed": false
+}

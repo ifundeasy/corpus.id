@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual gadai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual (tanah dsb) dengan pembayaran kontan dengan syarat bahwa setelah jangka waktu tertentu pemilik (penjual) berhak membelinya kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20gadai",
+  "related": [],
+  "detailed": false
+}

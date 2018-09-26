@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanker minyak bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal khusus yang mengangkut produk minyak bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanker%20minyak%20bumi",
+  "related": [],
+  "detailed": false
+}

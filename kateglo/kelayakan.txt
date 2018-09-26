@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelayakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal layak (patut, pantas); kepantasan; kepatutan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal yang dapat (pantas, patut) dikerjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelayakan",
+  "related": [],
+  "detailed": false
+}

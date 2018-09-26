@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "konser atau pertunjukan yang ditampilkan seorang pemain musik atau kelompok kecil pemain musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resital",
+  "related": [],
+  "detailed": false
+}

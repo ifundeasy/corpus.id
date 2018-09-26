@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panleukopenia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit akut karena sejenis virus, terutama yang berasal dari kucing, ditandai dengan demam, diare, dehidrasi, dan rusaknya sel darah putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panleukopenia",
+  "related": [],
+  "detailed": false
+}

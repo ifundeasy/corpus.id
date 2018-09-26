@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekor Asia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekor yang berlaku untuk peringkat Asia; hasil terbaik (tertinggi) yang pernah dicapai orang di Asia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekor%20Asia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tayangan berupa tulisan di layar televisi, berupa imbauan, pengumuman, teks terjemahan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telop",
+  "related": [],
+  "detailed": false
+}

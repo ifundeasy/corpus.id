@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah ternak yang dihasilkan oleh perusahaan peternakan, biasanya hasil dalam satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20ternak",
+  "related": [],
+  "detailed": false
+}

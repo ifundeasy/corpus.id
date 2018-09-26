@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kacang miang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kacang merah yang gatal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang suka menghasut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kacang%20miang",
+  "related": [],
+  "detailed": false
+}

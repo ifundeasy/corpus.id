@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geladak kompas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "geladak yang berada di atas anjungan kapal, tempat terpasangnya kompas standar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geladak%20kompas",
+  "related": [],
+  "detailed": false
+}

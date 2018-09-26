@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis bentuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pola ciri-ciri yang terjadi dari pola nada, gerak nada dengan atau tanpa tekanan yang meliputi sebagian atau seluruh ujaran tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontur",
+  "related": [],
+  "detailed": false
+}

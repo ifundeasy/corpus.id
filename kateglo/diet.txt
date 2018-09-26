@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) aturan makanan khusus untuk kesehatan dsb (biasanya atas petunjuk dokter);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diet",
+  "related": [],
+  "detailed": false
+}

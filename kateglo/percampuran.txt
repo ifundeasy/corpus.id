@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percampuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bercampur;"
+      },
+      {
+        "type": "desc",
+        "text": "pergaulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percampuran",
+  "related": [],
+  "detailed": false
+}

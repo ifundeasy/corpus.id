@@ -1,0 +1,61 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah hilang nyawanya; tidak hidup lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bernyawa; tidak pernah hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berair (tentang mata air, sumur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berasa lagi (tentang kulit dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "padam (tentang lampu, api, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terus; buntu (tentang jalan, pikiran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat berubah lagi; tetap (tentang harga, simpul, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah tidak dipergunakan lagi (tentang bahasa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak ada gerak atau kegiatan, seperti bubar (tentang perkumpulan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "diam atau berhenti (tentang angin dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ramai (tentang pasar, perdagangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bergerak (tentang mesin, arloji, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mati",
+  "related": [],
+  "detailed": false
+}

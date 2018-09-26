@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dini",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pagi sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "sebelum waktunya;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat agama; religius;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dini",
+  "related": [],
+  "detailed": false
+}

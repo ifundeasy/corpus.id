@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bega",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "edar; putar;"
+      },
+      {
+        "type": "link",
+        "text": "membega"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bega",
+  "related": [],
+  "detailed": false
+}

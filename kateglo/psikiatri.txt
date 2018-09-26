@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikiatri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang (spesialisasi) ilmu kedokteran yang berhubungan dengan penyakit jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikiatri",
+  "related": [],
+  "detailed": false
+}

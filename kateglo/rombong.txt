@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rombong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakul besar yang bertutup, terutama yang dibuat dari daun mengkuang (untuk tempat padi);"
+      },
+      {
+        "type": "desc",
+        "text": "kambut besar dari daun pandan tempat menyimpan padi atau beras;"
+      },
+      {
+        "type": "desc",
+        "text": "kambut kecil dari daun pandan tempat menyimpan sirih dengan alat-alatnya atau tempat menyimpan jahitan;"
+      },
+      {
+        "type": "link",
+        "text": "merombong"
+      },
+      {
+        "type": "desc",
+        "text": "kereta dorong untuk berjualan pedagang kaki lima;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rombong",
+  "related": [],
+  "detailed": false
+}

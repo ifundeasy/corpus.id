@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asuransi atas jiwa ternak yang polisnya dapat dibayarkan kepada pemilik ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20ternak",
+  "related": [],
+  "detailed": false
+}

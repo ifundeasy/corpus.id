@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "malam Minggu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "malam hari menjelang hari Minggu (Senin dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malam%20Minggu",
+  "related": [],
+  "detailed": false
+}

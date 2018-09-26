@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sindrom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "himpunan gejala atau tanda yang terjadi serentak (muncul bersama-sama) dan menandai ketidaknormalan tertentu; hal-hal (seperti emosi atau tindakan) yang biasanya secara bersama-sama membentuk pola yang dapat diidentifikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sindrom",
+  "related": [],
+  "detailed": false
+}

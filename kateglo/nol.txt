@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nol",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan O;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan persiapan sebelum memasuki tingkat pertama dalam urutan kelas;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak ada kenyataan; omong kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak ada hasil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nol",
+  "related": [],
+  "detailed": false
+}

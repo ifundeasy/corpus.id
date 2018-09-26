@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tribune",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panggung untuk tempat berbicara;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang agak tinggi untuk duduk para penonton (di stadion, gedung parlemen, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tribune",
+  "related": [],
+  "detailed": false
+}

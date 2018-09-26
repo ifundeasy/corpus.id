@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jarem",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "masih terasa agak nyeri (bekas dipijat, dipukul, bekas luka, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "rumput"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarem",
+  "related": [],
+  "detailed": false
+}

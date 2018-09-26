@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "litoral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah pantai yang terletak antara pasang tertinggi dan surut terendah;"
+      },
+      {
+        "type": "desc",
+        "text": "vegetasi yang tumbuh di lingkungan atau kedalaman laut antara garis pandang mata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=litoral",
+  "related": [],
+  "detailed": false
+}

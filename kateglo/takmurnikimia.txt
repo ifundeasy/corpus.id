@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "takmurni kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan kimia asing yang terdapat dalam bahan semipenghantar, baik yang dimasukkan dengan sengaja maupun tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takmurni%20kimia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warta sepekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majalah yang terbit sepekan (seminggu) sekali; majalah mingguan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warta%20sepekan",
+  "related": [],
+  "detailed": false
+}

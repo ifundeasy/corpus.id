@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju maskat",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "maskat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20maskat",
+  "related": [],
+  "detailed": false
+}

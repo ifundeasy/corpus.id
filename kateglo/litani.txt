@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "litani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "doa yang tertentu kata-katanya dan diungkapkan secara sambut-menyambut pada upacara kebaktian di gereja, mula-mula oleh pendeta yang memimpin misa, kemudian disambut oleh seluruh jemaat (doa ini sering dinyanyikan);"
+      },
+      {
+        "type": "desc",
+        "text": "puisi atau prosa berirama yang berisi doa, permohonan, mantra, bentuk yang sama dapat pula dituangkan dalam suatu komposisi musik, misal litani ciptaan Mozart;"
+      },
+      {
+        "type": "desc",
+        "text": "pembawaan puisi secara bersama dan bersahut-sahutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=litani",
+  "related": [],
+  "detailed": false
+}

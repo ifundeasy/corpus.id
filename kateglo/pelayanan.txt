@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal atau cara melayani;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha melayani kebutuhan orang lain dengan memperoleh imbalan (uang); jasa;"
+      },
+      {
+        "type": "desc",
+        "text": "kemudahan yang diberikan sehubungan dengan jual beli barang atau jasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayanan",
+  "related": [],
+  "detailed": false
+}

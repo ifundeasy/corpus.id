@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tempuh",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertempuh-tempuh"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengganti barang yang dirusakkan atau pengganti kerugian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tempuh",
+  "related": [],
+  "detailed": false
+}

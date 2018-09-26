@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keruh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "buram karena kotor; tidak bening; tidak jernih (tentang air dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kusut tidak keruan; kalut; kacau; tidak beres;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "dengkur; dengkus; dengus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keruh",
+  "related": [],
+  "detailed": false
+}

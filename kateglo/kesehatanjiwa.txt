@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesehatan jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan sehat jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesehatan%20jiwa",
+  "related": [],
+  "detailed": false
+}

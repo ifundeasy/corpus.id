@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang susunan, sifat, dan reaksi suatu unsur atau zat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimia",
+  "related": [],
+  "detailed": false
+}

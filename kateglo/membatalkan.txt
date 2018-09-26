@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membatalkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyatakan batal (tidak sah);"
+      },
+      {
+        "type": "desc",
+        "text": "mengurungkan; menunda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membatalkan",
+  "related": [],
+  "detailed": false
+}

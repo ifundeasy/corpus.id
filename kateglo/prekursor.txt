@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prekursor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) senyawa yang mendahului senyawa lain dalam jalur metabolisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prekursor",
+  "related": [],
+  "detailed": false
+}

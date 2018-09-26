@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metropolis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kota yang menjadi pusat kegiatan tertentu, baik pemerintahan maupun industri dan perdagangan; metropolitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metropolis",
+  "related": [],
+  "detailed": false
+}

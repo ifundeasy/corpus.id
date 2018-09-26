@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lira",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan mata uang Italia;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik Yunani Kuno dengan rangka berbentuk huruf U dan berdawai, dianggap sebagai pendahulu biola, dimainkan dengan berbagai cara, yakni diletakkan di bahu (da spalla), diletakkan di lengan (lira dabraccio), model yang lebih besar dengan 9—15 dawai yang diletakkan di antara lutut (da gamba), lira senor (lira iomperfetta), lira bas (lira perfecta);"
+      },
+      {
+        "type": "desc",
+        "text": "burung mirip ayam hutan, kicauannya indah dan dapat menirukan suara burung lain; Menuridae;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lira",
+  "related": [],
+  "detailed": false
+}

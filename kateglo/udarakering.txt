@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang tidak mengandung uap air;"
+      },
+      {
+        "type": "desc",
+        "text": "udara yang kelembapannya kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20kering",
+  "related": [],
+  "detailed": false
+}

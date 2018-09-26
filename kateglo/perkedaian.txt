@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkedaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berkedai;"
+      },
+      {
+        "type": "desc",
+        "text": "jendela di toko tempat mengedaikan barang dagangan; etalase;"
+      },
+      {
+        "type": "desc",
+        "text": "hal berkedai;"
+      },
+      {
+        "type": "desc",
+        "text": "barang dagangan yang dikedaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkedaian",
+  "related": [],
+  "detailed": false
+}

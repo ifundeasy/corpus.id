@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah laboratorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekolah (dasar dan menengah) yang langsung di bawah pengawasan suatu lembaga pendidikan guru untuk mengadakan latihan praktik, peragaan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20laboratorium",
+  "related": [],
+  "detailed": false
+}

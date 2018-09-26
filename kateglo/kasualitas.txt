@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasualitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecelakaan, terutama yang menyangkut hilangnya nyawa seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasualitas",
+  "related": [],
+  "detailed": false
+}

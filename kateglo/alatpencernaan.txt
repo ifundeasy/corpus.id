@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pencernaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organ tubuh yang berfungsi sebagai pencerna makanan sehingga menjadi lumat dan cair serta dapat terserap ke dalam darah untuk diedarkan ke seluruh tubuh; perut besar; lambung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pencernaan",
+  "related": [],
+  "detailed": false
+}

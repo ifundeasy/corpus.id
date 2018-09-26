@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pipet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pipa kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuluh kaca yang ujung pangkalnya kecil (untuk mengisap dan memindahkan benda cair);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) alat untuk mengisap minuman dari botol dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pipet",
+  "related": [],
+  "detailed": false
+}

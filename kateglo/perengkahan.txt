@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perengkahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan merengkah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tek) proses di dalam reaktor kilang yang memecahkan molekul hidrokarbon besar (dalam bahan) menjadi molekul hidrokarbon yang lebih kecil yang bertitik lebih rendah dan stabil lewat pemanasan, peningkatan tekanan, atau penggunaan katalisator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perengkahan",
+  "related": [],
+  "detailed": false
+}

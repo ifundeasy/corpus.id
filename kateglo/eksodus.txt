@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksodus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kedua dari Alkitab;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan meninggalkan tempat asal (kampung halaman, kota, negeri) oleh penduduk secara besar-besaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksodus",
+  "related": [],
+  "detailed": false
+}

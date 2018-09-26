@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keduniaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang bersifat dunia (tidak kekal dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai dunia;"
+      },
+      {
+        "type": "desc",
+        "text": "kesenangan hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keduniaan",
+  "related": [],
+  "detailed": false
+}

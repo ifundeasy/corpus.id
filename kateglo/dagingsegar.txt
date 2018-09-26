@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daging segar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daging yang baru dihasilkan dari pemotongan ternak (belum diawetkan dan belum disimpan lama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daging%20segar",
+  "related": [],
+  "detailed": false
+}

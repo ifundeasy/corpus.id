@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reuni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan kembali (bekas teman sekolah, kawan seperjuangan, dsb) setelah berpisah cukup lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reuni",
+  "related": [],
+  "detailed": false
+}

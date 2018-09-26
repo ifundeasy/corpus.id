@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "omnibus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=omnibus",
+  "related": [],
+  "detailed": false
+}

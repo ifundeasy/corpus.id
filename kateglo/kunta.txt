@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kunta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) lembing yang dilemparkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kunta",
+  "related": [],
+  "detailed": false
+}

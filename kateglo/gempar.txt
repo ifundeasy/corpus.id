@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gempar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "geger atau ramai sekali (karena ada kabar buruk, kerusuhan, hal yang ajaib, keributan);"
+      },
+      {
+        "type": "desc",
+        "text": "seru; hebat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempar",
+  "related": [],
+  "detailed": false
+}

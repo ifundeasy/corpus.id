@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "domein",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "domain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=domein",
+  "related": [],
+  "detailed": false
+}

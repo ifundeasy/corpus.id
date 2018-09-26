@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajer periklanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karyawan eksekutif dalam perusahaan produsen yang menangani periklanan serta memilih media;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajer%20periklanan",
+  "related": [],
+  "detailed": false
+}

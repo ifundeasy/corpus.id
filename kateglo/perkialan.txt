@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkialan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan untuk memperlihatkan suatu perbuatan (perasaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hal berkial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkialan",
+  "related": [],
+  "detailed": false
+}

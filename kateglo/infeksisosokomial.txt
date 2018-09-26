@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "infeksi sosokomial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) infeksi yang terjadi selama penderita dirawat di rumah sakit atau infeksi yang diderita oleh seseorang akibat dirawat di rumah sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infeksi%20sosokomial",
+  "related": [],
+  "detailed": false
+}

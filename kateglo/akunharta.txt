@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun harta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) akun untuk suatu aktiva tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20harta",
+  "related": [],
+  "detailed": false
+}

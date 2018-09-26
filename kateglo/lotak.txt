@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lotak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mulai busuk;"
+      },
+      {
+        "type": "desc",
+        "text": "lusuh (karena tua, usang, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lotak",
+  "related": [],
+  "detailed": false
+}

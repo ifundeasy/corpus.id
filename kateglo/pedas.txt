@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rasa seperti rasa cabai (lombok dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terasa seperti cabai atau merica;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tajam atau keras (tentang kritik dsb); menyakitkan hati (tentang perkataan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedas",
+  "related": [],
+  "detailed": false
+}

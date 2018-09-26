@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak silinder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pet) minyak kental yang digunakan untuk melumas silinder dan katup mesin uap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20silinder",
+  "related": [],
+  "detailed": false
+}

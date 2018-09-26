@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keliru",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "salah;"
+      },
+      {
+        "type": "desc",
+        "text": "khilaf; silap;"
+      },
+      {
+        "type": "desc",
+        "text": "sesat;"
+      },
+      {
+        "type": "desc",
+        "text": "tertukar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keliru",
+  "related": [],
+  "detailed": false
+}

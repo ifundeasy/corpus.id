@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air hidroskopik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) air yang diserap oleh partikel tanah dari atmosfer berkelembapan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20hidroskopik",
+  "related": [],
+  "detailed": false
+}

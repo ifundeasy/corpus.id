@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rambah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "babat; tebang; pangkas (tentang tumbuh-tumbuhan, pohon-pohonan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "babak untuk setiap jarak (dalam olahraga panahan), misal setiap jarak 8 atau 10 rambahan, tiap rambahan dilakukan dengan 3 atau 4 anak panah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rambah",
+  "related": [],
+  "detailed": false
+}

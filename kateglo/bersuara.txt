@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersuara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengeluarkan suara;"
+      },
+      {
+        "type": "desc",
+        "text": "turut menentukan sesuatu (dalam pemerintahan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengemukakan pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) dihasilkan dengan getaran pita suara, misal bunyi [b], [d], [g];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersuara",
+  "related": [],
+  "detailed": false
+}

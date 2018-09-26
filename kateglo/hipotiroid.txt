@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotiroid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gejala kekurangan hormon tiroid, akibatnya penderita menjadi malas, mengantuk, kulit kering, dan tidak tahan dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotiroid",
+  "related": [],
+  "detailed": false
+}

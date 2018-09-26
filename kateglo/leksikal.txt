@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan kata;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan leksem;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan kosakata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikal",
+  "related": [],
+  "detailed": false
+}

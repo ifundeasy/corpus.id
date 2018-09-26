@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis sentakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis yang dibuat dalam suatu daerah yang menyatakan bahwa di sepanjang garis itu terdapat perubahan kecepatan angin yang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20sentakan",
+  "related": [],
+  "detailed": false
+}

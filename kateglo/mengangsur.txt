@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengangsur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerjakan (mengumpulkan, membayar) secara sedikit-sedikit; mencicil;"
+      },
+      {
+        "type": "desc",
+        "text": "bergerak (beringsut, bergeser) sedikit-sedikit ke depan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggeserkan (mengulurkan, mendorong) ke depan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengangsur",
+  "related": [],
+  "detailed": false
+}

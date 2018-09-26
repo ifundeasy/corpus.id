@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jenak",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sejenak"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjenaki"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nyenyak; pulas (tentang tidur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku biru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang memuat nama-nama orang terkemuka;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang memuat saran, pertimbangan, dan usulan tentang suatu masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "buku laporan pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20biru",
+  "related": [],
+  "detailed": false
+}

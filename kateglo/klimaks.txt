@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klimaks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puncak dari suatu hal, kejadian, keadaan, dsb yang berkembang secara berangsur-angsur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) kejadian atau adegan yang paling menarik atau penting;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) saat keadaan memuncak atau keadaan paling gawat dalam suatu proses perkembangan penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) tingkat terakhir pertumbuhan tanaman di suatu tempat apabila telah diadakan penyesuaian yang sempurna dengan keadaan udara, jenis, serta struktur tanah sehingga tidak ada perubahan lebih lanjut yang dapat diusahakan;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat dalam perkembangan daerah urban setelah hubungan ekologi dalam daerah itu mencapai keseimbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klimaks",
+  "related": [],
+  "detailed": false
+}

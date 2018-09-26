@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat penyimpanan data (seperti data komputer);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20data",
+  "related": [],
+  "detailed": false
+}

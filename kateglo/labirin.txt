@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labirin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang penuh dengan jalan dan lorong yang berliku-liku dan simpang siur;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang sangat rumit dan berbelit-belit (tentang susunan, aturan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sistem rongga atau saluran yang berhubungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labirin",
+  "related": [],
+  "detailed": false
+}

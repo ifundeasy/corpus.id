@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikotropika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala yang dapat mempengaruhi aktivitas pikiran seperti opium, ganja, obat bius;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) zat atau obat, baik alamiah maupun sintetis dan bukan narkotika yang dapat menyebabkan perubahan khas pada aktivitas mental dan perilaku; obat yang dapat mempengaruhi atau mengubah cara berbicara ataupun tingkah laku seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikotropika",
+  "related": [],
+  "detailed": false
+}

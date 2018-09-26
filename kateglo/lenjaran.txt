@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lenjaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "judul (tembang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lenjaran",
+  "related": [],
+  "detailed": false
+}

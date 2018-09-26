@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kavaleri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barisan (pasukan) berkuda;"
+      },
+      {
+        "type": "desc",
+        "text": "pasukan kendaraan berlapis baja (tank dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kavaleri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manuskrip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "naskah tulisan tangan yang menjadi kajian filologi;"
+      },
+      {
+        "type": "desc",
+        "text": "naskah, baik tulisan tangan (dengan pena, pensil) maupun ketikam (bukan cetakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manuskrip",
+  "related": [],
+  "detailed": false
+}

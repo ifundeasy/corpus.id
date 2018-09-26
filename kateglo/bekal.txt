@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bekal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang disediakan (seperti makanan, uang) untuk digunakan dalam perjalanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang dapat digunakan kelak apabila perlu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bekal",
+  "related": [],
+  "detailed": false
+}

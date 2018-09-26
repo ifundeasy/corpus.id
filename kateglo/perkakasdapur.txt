@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkakas dapur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang diperlukan di dapur untuk masak-memasak (belanga, periuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkakas%20dapur",
+  "related": [],
+  "detailed": false
+}

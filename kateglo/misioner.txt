@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "misioner",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat misi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misioner",
+  "related": [],
+  "detailed": false
+}

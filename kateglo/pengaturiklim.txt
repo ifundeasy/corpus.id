@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengatur iklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekumpulan faktor yang menentukan keadaan iklim suatu daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem yang mengubah atau mengatur iklim suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengatur%20iklim",
+  "related": [],
+  "detailed": false
+}

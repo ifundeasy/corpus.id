@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegirangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegemaran;"
+      },
+      {
+        "type": "desc",
+        "text": "yang disukai; yang dicintai;"
+      },
+      {
+        "type": "desc",
+        "text": "kemauan; kesudian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesukaan",
+  "related": [],
+  "detailed": false
+}

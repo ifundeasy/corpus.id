@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "toko buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan rumah atau ruang tempat penjualan buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toko%20buku",
+  "related": [],
+  "detailed": false
+}

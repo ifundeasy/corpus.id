@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saya",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "orang yang berbicara atau menulis (dalam ragam resmi atau biasa); aku;"
+      },
+      {
+        "type": "desc",
+        "text": "ya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saya",
+  "related": [],
+  "detailed": false
+}

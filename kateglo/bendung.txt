@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bendung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengempang untuk menahan air di sungai (tepi laut dsb); tanggul;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) rintangan yang bersifat kontinu dan padat, letaknya tidak selalu melintangi sebuah sungai, tujuannya untuk mengalihkan, mengawasi, dan mengukur aliran air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "praktisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelaksana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=praktisi",
+  "related": [],
+  "detailed": false
+}

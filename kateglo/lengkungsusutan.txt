@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengkung susutan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lengkung yang menunjukkan laju pengurangan karena penyusutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkung%20susutan",
+  "related": [],
+  "detailed": false
+}

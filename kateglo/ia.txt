@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ia",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "orang yang dibicarakan, tidak termasuk pembicara dan kawan bicara; dia;"
+      },
+      {
+        "type": "desc",
+        "text": "benda yang dibicarakan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "ya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ia",
+  "related": [],
+  "detailed": false
+}

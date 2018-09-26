@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adenoid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "pertumbuhan mirip kelenjar pada tenggorok dan bagian belakang hidung;"
+      },
+      {
+        "type": "desc",
+        "text": "pembesaran dan peradangan pada tenggorok dan bagian belakang hidung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adenoid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemegang obligasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemegang bukti pinjaman obligasi yang meminjamkan uang berjangka panjang terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemegang%20obligasi",
+  "related": [],
+  "detailed": false
+}

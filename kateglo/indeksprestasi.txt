@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "indeks prestasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka yang menunjukkan prestasi seseorang dalam belajar atau bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks%20prestasi",
+  "related": [],
+  "detailed": false
+}

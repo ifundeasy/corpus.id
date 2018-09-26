@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baik; bagus; cantik (tentang cerita, baju, rupa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "baik hati; tidak jahat (tentang kelakuan, budi pekerti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elok",
+  "related": [],
+  "detailed": false
+}

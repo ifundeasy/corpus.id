@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "krisis kabinet",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kegentingan politik yang terjadi di Dewan Perwakilan Rakyat sehingga kabinet meletakkan jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krisis%20kabinet",
+  "related": [],
+  "detailed": false
+}

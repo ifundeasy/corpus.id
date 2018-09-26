@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "universal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "umum (berlaku untuk semua orang atau untuk seluruh dunia); bersifat (melingkupi) seluruh dunia; ruang lingkup tanggung jawab mahasiswa adalah personal, nasional, dan --; kebudayaan itu bersifat --;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kategori keilmubahasaan yang berlaku untuk semua bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=universal",
+  "related": [],
+  "detailed": false
+}

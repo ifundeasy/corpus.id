@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang merupakan pusat kegiatan pelayanan ekonomi dengan segala fasilitasnya, misal perkantoran, perdagangan, keuangan, dan rekreasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20usaha",
+  "related": [],
+  "detailed": false
+}

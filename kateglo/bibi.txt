@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bibi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adik (saudara muda) perempuan ayah atau ibu;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada perempuan yang agak tua;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) sebutan bagi wanita (setingkat dengan nyonya);"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada perempuan pembantu rumah tangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibi",
+  "related": [],
+  "detailed": false
+}

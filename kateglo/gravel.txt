@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gravel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerikil;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran pasir dan tumbukan batu merah (tentang lapangan tenis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gravel",
+  "related": [],
+  "detailed": false
+}

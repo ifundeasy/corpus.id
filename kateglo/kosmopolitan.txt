@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kosmopolitan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mempunyai wawasan dan pengetahuan yang luas;"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi dari orang-orang atau unsur-unsur yang berasal dari pelbagai bagian dunia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kosmopolitan",
+  "related": [],
+  "detailed": false
+}

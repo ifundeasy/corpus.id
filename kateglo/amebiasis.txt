@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amebiasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh ameba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amebiasis",
+  "related": [],
+  "detailed": false
+}

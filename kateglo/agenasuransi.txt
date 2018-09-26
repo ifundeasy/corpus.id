@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen asuransi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wakil perusahaan asuransi yang mencari, mengum-pulkan, dan melayani pemegang polis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20asuransi",
+  "related": [],
+  "detailed": false
+}

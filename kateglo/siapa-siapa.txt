@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siapa-siapa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siapa orang-orang (yang);"
+      },
+      {
+        "type": "desc",
+        "text": "siapa pun; siapa jua;"
+      },
+      {
+        "type": "desc",
+        "text": "barang siapa;"
+      },
+      {
+        "type": "desc",
+        "text": "orang sembarangan; orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siapa-siapa",
+  "related": [],
+  "detailed": false
+}

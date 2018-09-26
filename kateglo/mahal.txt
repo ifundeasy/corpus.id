@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mahal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tinggi harganya;"
+      },
+      {
+        "type": "desc",
+        "text": "jarang ada; sukar terdapat; tidak mudah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahal",
+  "related": [],
+  "detailed": false
+}

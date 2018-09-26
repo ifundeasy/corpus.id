@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensitif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cepat menerima rangsangan; peka;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mudah membangkitkan emosi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensitif",
+  "related": [],
+  "detailed": false
+}

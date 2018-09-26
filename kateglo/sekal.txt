@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "tangga nada; laras; tata laras;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "padat dan berisi (tentang tubuh wanita); sintal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekal",
+  "related": [],
+  "detailed": false
+}

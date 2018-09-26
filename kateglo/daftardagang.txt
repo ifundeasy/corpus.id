@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) daftar barang yang akan dijual beserta harganya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20dagang",
+  "related": [],
+  "detailed": false
+}

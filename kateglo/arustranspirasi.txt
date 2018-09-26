@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus transpirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) aliran cairan dalam sel pembuluh kayu akibat penguapan air pada daun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20transpirasi",
+  "related": [],
+  "detailed": false
+}

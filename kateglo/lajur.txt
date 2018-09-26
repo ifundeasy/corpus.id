@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lajur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deret beberapa benda (orang dsb) yang merupakan baris atau banjar;"
+      },
+      {
+        "type": "desc",
+        "text": "kolom (dalam surat kabar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "baris tebal memanjang (pada kain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) baris; garis (pertahanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lajur",
+  "related": [],
+  "detailed": false
+}

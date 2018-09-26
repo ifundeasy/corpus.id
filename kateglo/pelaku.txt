@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelaku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan suatu perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeran; pemain (sandiwara dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang melakukan suatu perbuatan, subjek (dalam suatu kalimat dsb); yang merupakan pelaku utama dalam perubahan situasi tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelaku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan darat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kota (yang bukan bandar udara atau laut) tempat mengumpulkan barang ekspor dengan fasilitas tempat pengurusan (penyelesaian) administrasi pengiriman (sebagaimana layaknya di pelabuhan biasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20darat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skatologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhatian (kecenderungan) akan hal-hal yang bersifat cabul (terutama dalam bacaan);"
+      },
+      {
+        "type": "desc",
+        "text": "pengkajian tentang kotoran (misal tinja) untuk tujuan taksonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skatologi",
+  "related": [],
+  "detailed": false
+}

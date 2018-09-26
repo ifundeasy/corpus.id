@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partikel tanya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk yang dipakai untuk menandai kalimat tanya (misal, kah, tah dalam bahasa Indonesia);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partikel%20tanya",
+  "related": [],
+  "detailed": false
+}

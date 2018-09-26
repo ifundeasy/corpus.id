@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "oposisi leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) perbedaan makna dalam pasangan leksem (lawan kata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oposisi%20leksikal",
+  "related": [],
+  "detailed": false
+}

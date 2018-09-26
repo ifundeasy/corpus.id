@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lumayan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak banyak; sedang; cukup juga;"
+      },
+      {
+        "type": "desc",
+        "text": "agak baik (cantik, pandai, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lumayan",
+  "related": [],
+  "detailed": false
+}

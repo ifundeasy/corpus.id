@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan pembukuan tentang keuangan (perusahaan, bank, dsb) secara berkala;"
+      },
+      {
+        "type": "desc",
+        "text": "pengujian efektivitas keluar masuknya uang dan penilaian kewajaran laporan yang dihasilkannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audit",
+  "related": [],
+  "detailed": false
+}

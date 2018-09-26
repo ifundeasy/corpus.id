@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pupuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyubur tanaman yang ditambahkan ke tanah untuk menyediakan senyawaan unsur yang diperlukan oleh tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "obat dari tumbuh-tumbuhan (daun-daunan dsb) yang digiling lumat-lumat, dilekatkan di dahi sebelah atas, dekat pada ubun-ubun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuk",
+  "related": [],
+  "detailed": false
+}

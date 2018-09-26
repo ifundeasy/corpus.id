@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berantai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai rantai;"
+      },
+      {
+        "type": "desc",
+        "text": "bersambung;"
+      },
+      {
+        "type": "desc",
+        "text": "saling berkait;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berantai",
+  "related": [],
+  "detailed": false
+}

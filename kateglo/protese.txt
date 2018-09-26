@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protese",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penggantian alat tubuh yang rusak dan hilang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat buatan, misal mata, gigi, anggota badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protese",
+  "related": [],
+  "detailed": false
+}

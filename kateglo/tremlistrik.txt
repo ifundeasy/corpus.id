@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "trem listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "trem yang dijalankan dengan tenaga listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trem%20listrik",
+  "related": [],
+  "detailed": false
+}

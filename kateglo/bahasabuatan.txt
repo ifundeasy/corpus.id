@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang direka dengan tujuan khusus untuk memperbaiki komunikasi internasional;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem kode berupa lambang abstrak, seperti yang dipakai dalam pemrograman komputer;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang dibuat orang untuk pemakaian tertentu, misal bahasa Esperanto dan bahasa yang dipakai dalam logika simbolis atau penggunaan komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20buatan",
+  "related": [],
+  "detailed": false
+}

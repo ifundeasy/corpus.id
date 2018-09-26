@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simposium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan dengan beberapa pembicara yang mengemukakan pidato singkat tentang topik tertentu atau tentang beberapa aspek dari topik yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan pendapat tentang sesuatu, terutama yang dihimpun dan diterbitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan konsep yang diajukan oleh beberapa orang atas permintaan suatu panitia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simposium",
+  "related": [],
+  "detailed": false
+}

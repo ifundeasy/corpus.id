@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cadang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bercadang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadiah perkawinan dari orang tua mempelai laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cadang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsumer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "organisme dalam suatu ekosistem yang memanfaatkan organisme lain sebagai makanannya;"
+      },
+      {
+        "type": "desc",
+        "text": "konsumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumer",
+  "related": [],
+  "detailed": false
+}

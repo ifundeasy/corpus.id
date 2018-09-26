@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bidasan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "gerakan membidas;"
+      },
+      {
+        "type": "desc",
+        "text": "reaksi;"
+      },
+      {
+        "type": "desc",
+        "text": "serangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidasan",
+  "related": [],
+  "detailed": false
+}

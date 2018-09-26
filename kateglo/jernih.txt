@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jernih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlihat terang (tentang air); bening; bersih; tidak keruh;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berseri (tentang muka); tidak muram;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak kacau; runtut (tentang jalan pikiran dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jernih",
+  "related": [],
+  "detailed": false
+}

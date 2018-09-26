@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi arloji dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran satuan waktu 1/60 menit; sekon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detik",
+  "related": [],
+  "detailed": false
+}

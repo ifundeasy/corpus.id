@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkaretan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan karet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkaretan",
+  "related": [],
+  "detailed": false
+}

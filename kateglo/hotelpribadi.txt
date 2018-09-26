@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hotel pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tipe akomodasi semacam hotel kecil yang umumnya dibangun di tempat peristirahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel%20pribadi",
+  "related": [],
+  "detailed": false
+}

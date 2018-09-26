@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbilang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa;"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbilang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "padi radin"
+      },
+      {
+        "type": "link",
+        "text": "raden"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radin",
+  "related": [],
+  "detailed": false
+}

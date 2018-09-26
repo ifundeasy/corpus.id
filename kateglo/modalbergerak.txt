@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modal bergerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modal yang dapat dipindah-pindahkan (seperti mobil, uang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modal%20bergerak",
+  "related": [],
+  "detailed": false
+}

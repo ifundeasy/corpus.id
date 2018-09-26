@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kotak besar (tempat sampah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kolam tempat air di kamar mandi;"
+      },
+      {
+        "type": "desc",
+        "text": "tinta cina (hitam warnanya);"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi tamparan (pukulan dsb); debak;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menyatakan perbandingan; bagaikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bak",
+  "related": [],
+  "detailed": false
+}

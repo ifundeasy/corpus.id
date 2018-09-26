@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kakak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saudara tua;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada orang (laki-laki atau perempuan) yang dianggap lebih tua;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada suami;"
+      },
+      {
+        "type": "link",
+        "text": "berkakak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kakak",
+  "related": [],
+  "detailed": false
+}

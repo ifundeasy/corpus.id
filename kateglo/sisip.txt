@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sisip",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyisip"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sisip",
+  "related": [],
+  "detailed": false
+}

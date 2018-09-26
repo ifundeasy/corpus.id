@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkiraan; perhitungan;"
+      },
+      {
+        "type": "desc",
+        "text": "aturan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) taksiran mengenai penerimaan dan pengeluaran kas yang diharapkan untuk periode yang akan datang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) rencana penjatahan sumber daya yang dinyatakan dengan angka, biasanya dalam satuan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran",
+  "related": [],
+  "detailed": false
+}

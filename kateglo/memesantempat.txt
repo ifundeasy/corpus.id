@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memesan tempat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "minta supaya disediakan tempat di hotel, gedung pertunjukan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memesan%20tempat",
+  "related": [],
+  "detailed": false
+}

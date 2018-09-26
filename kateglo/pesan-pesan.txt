@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesan-pesan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesan-pesan",
+  "related": [],
+  "detailed": false
+}

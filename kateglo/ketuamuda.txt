@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketua muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wakil ketua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketua%20muda",
+  "related": [],
+  "detailed": false
+}

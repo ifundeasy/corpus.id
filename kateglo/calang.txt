@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "calang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencalang"
+      },
+      {
+        "type": "desc",
+        "text": "tidak banyak daunnya; gundul (tentang pohon);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak memakai perhiasan (perabotan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=calang",
+  "related": [],
+  "detailed": false
+}

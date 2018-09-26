@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stereo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perekaman atau penyiaran dengan produksi suara yang lebih realistis dengan menggunakan dua saluran suara, menggunakan dua mikrofon beserta dua pengeras suara yang digunakan bersamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem atau peralatan yang menghasilkan bunyi stereo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stereo",
+  "related": [],
+  "detailed": false
+}

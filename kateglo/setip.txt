@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karet penghapus tulisan (lukisan dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) sawan; kejang-kejang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setip",
+  "related": [],
+  "detailed": false
+}

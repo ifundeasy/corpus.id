@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kronik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan peristiwa menurut urutan waktu kejadiannya; susunan waktu; yang berhubungan dengan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kronik",
+  "related": [],
+  "detailed": false
+}

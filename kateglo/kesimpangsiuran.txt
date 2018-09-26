@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesimpangsiuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang simpang-siur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesimpangsiuran",
+  "related": [],
+  "detailed": false
+}

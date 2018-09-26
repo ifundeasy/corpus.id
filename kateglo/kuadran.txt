@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuadran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "seperempat lingkaran; setiap dari empat bagian suatu bidang datar yang terbagi oleh suatu sumbu silang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat kuno untuk mengukur sudut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuadran",
+  "related": [],
+  "detailed": false
+}

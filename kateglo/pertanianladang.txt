@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanian ladang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "corak usaha tani primitif dengan menebang pohon-pohonan untuk dibakar sehingga tanah dapat ditanami;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanian%20ladang",
+  "related": [],
+  "detailed": false
+}

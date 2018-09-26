@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah-buahan dsb yang dimasak dengan dikukus atau direbus dan dibubuhi gula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periosteum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) selaput jaringan ikat pembalut tulang; selaput tulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periosteum",
+  "related": [],
+  "detailed": false
+}

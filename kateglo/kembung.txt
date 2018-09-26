@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kembung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menjadi gembung; melembung (karena kemasukan angin);"
+      },
+      {
+        "type": "desc",
+        "text": "senak dan terasa seperti berisi angin (tentang perut);"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) hal perut membesar karena berisi gas hasil fermentasi yang tidak dapat dikeluarkan melalui mulut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut yang banyak dagingnya, biasa dikeringkan; Scomber kanagurta (jantan), Scomber negluctus (betina);"
+      },
+      {
+        "type": "desc",
+        "text": "lumbung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kembung",
+  "related": [],
+  "detailed": false
+}

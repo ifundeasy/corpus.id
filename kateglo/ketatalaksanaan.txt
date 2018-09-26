@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketatalaksanaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (mengenai) tata laksana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketatalaksanaan",
+  "related": [],
+  "detailed": false
+}

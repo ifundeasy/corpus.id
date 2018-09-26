@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda langit yang mengitari bumi, bersinar pada malam hari karena pantulan sinar matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari); masa yang lamanya 1/12 tahun;"
+      },
+      {
+        "type": "link",
+        "text": "ikan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "naskah yang berupa kata-kata asli dari pengarang;"
+      },
+      {
+        "type": "desc",
+        "text": "naskah yang berupa kutipan dari kitab suci untuk pangkal ajaran atau alasan;"
+      },
+      {
+        "type": "desc",
+        "text": "naskah yang berupa bahan tertulis untuk dasar memberikan pelajaran, berpidato, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "wacana tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teks",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut puncak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) sudut dalam sebuah segitiga yang berhadapan dengan alasnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20puncak",
+  "related": [],
+  "detailed": false
+}

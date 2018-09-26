@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umpan peluru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akan) mati menjadi sasaran peluru;"
+      },
+      {
+        "type": "desc",
+        "text": "serdadu bayaran;"
+      },
+      {
+        "type": "desc",
+        "text": "prajurit kelas rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umpan%20peluru",
+  "related": [],
+  "detailed": false
+}

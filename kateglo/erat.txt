@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "erat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kuat sehingga tidak mudah lepas (tentang ikatan, pegangan);"
+      },
+      {
+        "type": "desc",
+        "text": "teguh (tentang janji, pertalian);"
+      },
+      {
+        "type": "desc",
+        "text": "karib benar (tentang persahabatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erat",
+  "related": [],
+  "detailed": false
+}

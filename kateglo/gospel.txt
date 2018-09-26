@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gospel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nyanyian atau lagu gerejawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gospel",
+  "related": [],
+  "detailed": false
+}

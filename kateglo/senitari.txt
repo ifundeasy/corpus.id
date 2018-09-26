@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni tari",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni mengenai tari-menari (gerak-gerik yang berirama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20tari",
+  "related": [],
+  "detailed": false
+}

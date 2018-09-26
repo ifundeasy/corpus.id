@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedoman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) gereja utama; katedral;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) domino;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dom",
+  "related": [],
+  "detailed": false
+}

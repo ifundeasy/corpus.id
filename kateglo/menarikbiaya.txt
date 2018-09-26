@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik biaya",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta (memungut biaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20biaya",
+  "related": [],
+  "detailed": false
+}

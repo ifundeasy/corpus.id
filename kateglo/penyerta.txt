@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyerta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyertai;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyertai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyerta",
+  "related": [],
+  "detailed": false
+}

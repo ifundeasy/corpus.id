@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korsleting",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terputusnya arus listrik karena kawat yang bermuatan arus positif dan negatif bersentuhan sehingga terjadi hubungan pendek;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) keretakan hubungan antara orang yang berkawan atau yang bersahabat;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) keadaan tidak dapat berpikir dengan baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korsleting",
+  "related": [],
+  "detailed": false
+}

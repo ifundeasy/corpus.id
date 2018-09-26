@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tuntut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menuntut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuntut",
+  "related": [],
+  "detailed": false
+}

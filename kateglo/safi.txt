@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "safi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersih; jujur; murni; tulus hati;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sahabat sejati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=safi",
+  "related": [],
+  "detailed": false
+}

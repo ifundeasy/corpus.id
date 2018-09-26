@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu mengenai asas-asas produksi, distribusi, dan pemakaian barang-barang serta kekayaan (seperti hal keuangan, perindustrian, dan perdagangan);"
+      },
+      {
+        "type": "desc",
+        "text": "pemanfaatan uang, tenaga, waktu, dsb yang berharga;"
+      },
+      {
+        "type": "desc",
+        "text": "tata kehidupan perekonomian (suatu negara);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) urusan keuangan rumah tangga (organisasi, negara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonomi",
+  "related": [],
+  "detailed": false
+}

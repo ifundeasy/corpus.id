@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anteseden",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal ihwal yang terjadi dahulu (terutama tentang riwayat hidup atau masa lampau seseorang);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) informasi dalam ingatan atau konteks yang ditunjukkan oleh suatu ungkapan, misal dalam kalimat anaknya berapa?, bentuk -nya menunjuk anteseden tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) unsur terdahulu yang ditunjuk oleh ungkapan dalam suatu klausa atau kalimat, misal Ani cantik, tetapi kelakuannya jelek, bentuk -nya menunjuk anteseden Ani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anteseden",
+  "related": [],
+  "detailed": false
+}

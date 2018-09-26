@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lowong (tidak dihuni, ditempati, dsb); kosong;"
+      },
+      {
+        "type": "desc",
+        "text": "senggang; tidak sibuk;"
+      },
+      {
+        "type": "link",
+        "text": "meluang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luang",
+  "related": [],
+  "detailed": false
+}

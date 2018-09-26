@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwajahan sampul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penataan bentuk, rupa, warna, ukuran, dsb dari sampul;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian sampul yang terdiri atas halaman sampul bagian luar yang dibuat menarik serta selaras dengan isinya dan halaman lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwajahan%20sampul",
+  "related": [],
+  "detailed": false
+}

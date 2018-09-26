@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polikultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan)"
+      },
+      {
+        "type": "desc",
+        "text": "sistem penanaman pada sebidang tanah dengan berbagai jenis tanaman (padi, palawija, tebu, dsb) berdasarkan pola urutan musim;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ikn) pemeliharaan dua atau lebih spesies ikan yang tidak bersaing dalam satu wadah pemeliharaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polikultur",
+  "related": [],
+  "detailed": false
+}

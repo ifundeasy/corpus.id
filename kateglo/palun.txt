@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "berpalun-palun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palun",
+  "related": [],
+  "detailed": false
+}

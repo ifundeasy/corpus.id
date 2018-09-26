@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cari",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bercari"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cari",
+  "related": [],
+  "detailed": false
+}

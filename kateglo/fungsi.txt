@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fungsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan (pekerjaan) yang dilakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "faal (kerja suatu bagian tubuh);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) besaran yang berhubungan, jika besaran yang satu berubah, besaran yang lain juga berubah;"
+      },
+      {
+        "type": "desc",
+        "text": "kegunaan suatu hal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) peran sebuah unsur bahasa dalam satuan sintaksis yang lebih luas (seperti nomina berfungsi sebagai subjek);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fungsi",
+  "related": [],
+  "detailed": false
+}

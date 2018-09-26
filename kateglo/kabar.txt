@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan tentang peristiwa yang biasanya belum lama terjadi; berita; warta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superfosfat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "garam fosfat (PO43-) dengan kadar fosfor maksimum;"
+      },
+      {
+        "type": "desc",
+        "text": "pupuk kalsium fosfat dengan kandungan fosfor maksimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superfosfat",
+  "related": [],
+  "detailed": false
+}

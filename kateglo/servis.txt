@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "servis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayanan; layanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pukulan permulaan untuk memainkan bola (dalam permainan bola voli, tenis, tenis meja, bulu tangkis);"
+      },
+      {
+        "type": "desc",
+        "text": "seperangkat perabot (makan, minum);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=servis",
+  "related": [],
+  "detailed": false
+}

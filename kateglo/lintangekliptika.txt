@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintang ekliptika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut antara bumi dan suatu benda langit pada bidang ekliptika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintang%20ekliptika",
+  "related": [],
+  "detailed": false
+}

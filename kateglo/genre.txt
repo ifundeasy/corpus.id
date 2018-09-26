@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genre",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) jenis, tipe, atau kelompok sastra atas dasar bentuknya; ragam sastra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genre",
+  "related": [],
+  "detailed": false
+}

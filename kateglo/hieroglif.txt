@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hieroglif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan dan abjad Mesir Kuno, yang terdiri atas 700 gambar dan lambang dalam bentuk manusia, hewan, atau benda;"
+      },
+      {
+        "type": "desc",
+        "text": "lambang tulisan (menyerupai gambar paku) yang bersifat rahasia atau teka-teki yang sukar dibaca atau dipahami maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hieroglif",
+  "related": [],
+  "detailed": false
+}

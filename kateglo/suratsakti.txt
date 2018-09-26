@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat sakti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat atau memo yang berisi dispensasi untuk memperlancar urusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20sakti",
+  "related": [],
+  "detailed": false
+}

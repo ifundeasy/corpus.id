@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tele",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertele-tele"
+      },
+      {
+        "type": "link",
+        "text": "bertele-tele"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain kelambu (tule);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tele",
+  "related": [],
+  "detailed": false
+}

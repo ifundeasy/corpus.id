@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20mati",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang biasa ditanam orang;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menanam; yang ditanam; pendaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanaman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "linting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan barang yang digulung atau dilipat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melinting"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=linting",
+  "related": [],
+  "detailed": false
+}

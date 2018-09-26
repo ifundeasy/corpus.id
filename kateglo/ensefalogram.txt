@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ensefalogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) gambar sinar r?ntgen otak yang diperoleh dengan ensefalografi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ensefalogram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terbit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "timbul, naik, keluar (tentang bulan, matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "bangkit (tentang perasaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keluar untuk diedarkan (tentang surat kabar, buku, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai memancar (tentang mata air dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai keluar (tentang air mata, peluh, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai timbul atau datang (dari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbit",
+  "related": [],
+  "detailed": false
+}

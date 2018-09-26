@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasteurisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sterilisasi kuman melalui pemanasan pada suhu 600C, selama 30 menit dengan tujuan membunuh bakteri patogen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasteurisasi",
+  "related": [],
+  "detailed": false
+}

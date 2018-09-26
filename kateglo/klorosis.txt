@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klorosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak sehat yang ditandai oleh menguningnya bagian-bagian yang biasanya berwarna hijau sebagai akibat tidak cukup terbentuknya klorofil;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) suatu bentuk anemia yang terlihat pada wanita muda yang disebabkan oleh terlampau sedikitnya hemoglobin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klorosis",
+  "related": [],
+  "detailed": false
+}

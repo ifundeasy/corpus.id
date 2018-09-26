@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "hilangnya gejala suatu penyakit secara perlahan-lahan, terutama pada penyakit infeksi;"
+      },
+      {
+        "type": "desc",
+        "text": "berkurangnya demam secara perlahan-lahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) peristiwa hancurnya sel karena selaput plasmanya rusak, hancur atau larut dan isi selnya keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lisis",
+  "related": [],
+  "detailed": false
+}

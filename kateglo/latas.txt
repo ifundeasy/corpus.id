@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) →"
+      },
+      {
+        "type": "link",
+        "text": "melatas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latas",
+  "related": [],
+  "detailed": false
+}

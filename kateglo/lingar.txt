@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lingar",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "melingar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lingar",
+  "related": [],
+  "detailed": false
+}

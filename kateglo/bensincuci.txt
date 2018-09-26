@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bensin cuci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bensin yang digunakan untuk mencuci benda yang biasanya kotor karena lemak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bensin%20cuci",
+  "related": [],
+  "detailed": false
+}

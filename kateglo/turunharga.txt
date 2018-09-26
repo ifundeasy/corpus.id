@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turun harga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkurang harganya;"
+      },
+      {
+        "type": "desc",
+        "text": "turun derajat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turun%20harga",
+  "related": [],
+  "detailed": false
+}

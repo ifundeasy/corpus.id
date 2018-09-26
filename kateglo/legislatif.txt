@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legislatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berwenang membuat undang-undang; badan -- , dewan yang berwenang membuat undang-undang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legislatif",
+  "related": [],
+  "detailed": false
+}

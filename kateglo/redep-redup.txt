@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redep-redup",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "~ alang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redep-redup",
+  "related": [],
+  "detailed": false
+}

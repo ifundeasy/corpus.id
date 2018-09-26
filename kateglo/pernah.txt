@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pernah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sudah menjalani (mengalami dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ada kalanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pernah",
+  "related": [],
+  "detailed": false
+}

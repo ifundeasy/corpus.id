@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gumboro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern)"
+      },
+      {
+        "type": "desc",
+        "text": "virus yang biasa menyerang anak ayam, dengan gejala mengantuk, bulu mengerut, menceret keputih-putihan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh virus gumboro;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gumboro",
+  "related": [],
+  "detailed": false
+}

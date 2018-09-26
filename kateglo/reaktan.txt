@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaktan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) pereaksi (kimia) seperti yang tertera dalam suatu persamaan reaksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaktan",
+  "related": [],
+  "detailed": false
+}

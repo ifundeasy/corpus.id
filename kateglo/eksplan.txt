@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksplan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) jaringan tanaman yang paling cocok untuk perlakuan kultur jaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksplan",
+  "related": [],
+  "detailed": false
+}

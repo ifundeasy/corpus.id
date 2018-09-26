@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang digunakan khusus untuk melayani perjalanan wisata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20wisata",
+  "related": [],
+  "detailed": false
+}

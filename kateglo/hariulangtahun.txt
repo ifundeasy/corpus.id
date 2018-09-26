@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari ulang tahun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari yang bertepatan dengan tanggal dan bulan lahir (seseorang atau sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "hari lahir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20ulang%20tahun",
+  "related": [],
+  "detailed": false
+}

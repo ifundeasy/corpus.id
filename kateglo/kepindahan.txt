@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepindahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal pindah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kejangkitan; ketularan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepindahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keputusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal yang berkaitan dengan putusan; segala putusan yang telah ditetapkan (sesudah dipertimbangkan, dipikirkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ketetapan; sikap terakhir (langkah yang harus dijalankan);"
+      },
+      {
+        "type": "desc",
+        "text": "kesimpulan (tentang pendapat);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil pemeriksaan (tentang ujian);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kehabisan (tentang uang, makanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) menderita kekurangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keputusan",
+  "related": [],
+  "detailed": false
+}

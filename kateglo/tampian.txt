@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tampian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penampi;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menampi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tampian",
+  "related": [],
+  "detailed": false
+}

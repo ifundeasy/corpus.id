@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu petang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu salat wajib pada petang hari antara habis waktu zuhur dan terbenam matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada petang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas (tentang sisa kenangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asar",
+  "related": [],
+  "detailed": false
+}

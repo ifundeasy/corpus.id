@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan dengan saling memegang atau mengangkat kaki untuk menjatuhkan lawan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) mengisi aliran listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cas",
+  "related": [],
+  "detailed": false
+}

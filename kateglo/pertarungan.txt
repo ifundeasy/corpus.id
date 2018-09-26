@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertarungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bertarung (bertempur, berkelahi);"
+      },
+      {
+        "type": "desc",
+        "text": "pertempuran; perkelahian;"
+      },
+      {
+        "type": "desc",
+        "text": "perjuangan;"
+      },
+      {
+        "type": "desc",
+        "text": "pertandingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertarungan",
+  "related": [],
+  "detailed": false
+}

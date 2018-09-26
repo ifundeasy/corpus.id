@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ikn) sistem budi daya dengan cara mengalirkan air terus-menerus ke lokasi pemeliharaan dan air tersebut dibuang setelah sekali dipakai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20terbuka",
+  "related": [],
+  "detailed": false
+}

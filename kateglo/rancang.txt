@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rancang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pancang yang berujung tajam untuk dicucukkan ke dalam tanah (untuk tanda, batas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pancang yang berpulut untuk menangkap burung dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "rancang bangun"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rancang",
+  "related": [],
+  "detailed": false
+}

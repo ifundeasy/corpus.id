@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang kertas bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) janji yang dibuat oleh bank untuk membayar kepada seseorang, diterbitkan berdasarkan undang-undang dan berlaku sebagai alat bayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20kertas%20bank",
+  "related": [],
+  "detailed": false
+}

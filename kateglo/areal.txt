@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "areal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan area;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) area (makna 1 dan 2);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=areal",
+  "related": [],
+  "detailed": false
+}

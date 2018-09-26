@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pantang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan dsb) yang terlarang menurut adat atau kepercayaan; pantangan;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan (minuman dsb) yang terlarang bagi penderita suatu penyakit; makanan (minuman dsb) yang sengaja dihindari; pantangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berpantang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantang",
+  "related": [],
+  "detailed": false
+}

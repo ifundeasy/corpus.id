@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "densimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur zat cair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=densimeter",
+  "related": [],
+  "detailed": false
+}

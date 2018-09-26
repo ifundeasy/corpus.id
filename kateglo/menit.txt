@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "menit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran waktu yang lamanya 1/60 jam atau enam puluh detik;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran 1/60 bagian dari satu derajat (simbol);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menit",
+  "related": [],
+  "detailed": false
+}

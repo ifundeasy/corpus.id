@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persajakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal persamaan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal puisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persajakan",
+  "related": [],
+  "detailed": false
+}

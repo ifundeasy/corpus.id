@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "real",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "nyata;"
+      },
+      {
+        "type": "link",
+        "text": "1rial"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=real",
+  "related": [],
+  "detailed": false
+}

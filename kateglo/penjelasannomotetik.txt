@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjelasan nomotetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) penjelasan berdasarkan proporsi umum yang dapat diterapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjelasan%20nomotetik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) garis pada peta yang menghubungkan tempat yang mempunyai unsur meteorologi atau klimatologi yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isogram",
+  "related": [],
+  "detailed": false
+}

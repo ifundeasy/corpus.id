@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkitab",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kitab (suci);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkitab",
+  "related": [],
+  "detailed": false
+}

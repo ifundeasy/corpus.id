@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penampang lintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bidang permukaan hasil pemotongan melintang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penampang%20lintang",
+  "related": [],
+  "detailed": false
+}

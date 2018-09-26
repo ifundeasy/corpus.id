@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasregister",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin yang digunakan dalam usaha dagang untuk menunjukkan dan merekam jumlah uang yang diterima serta mencatat sisa uang yang harus dikembalikan, biasanya berlaci tempat menyimpan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasregister",
+  "related": [],
+  "detailed": false
+}

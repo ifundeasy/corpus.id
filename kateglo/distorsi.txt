@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "distorsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemutarbalikan suatu fakta, aturan, dsb; penyimpangan;"
+      },
+      {
+        "type": "desc",
+        "text": "gangguan dalam siaran radio yang mengubah mutu siaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) perubahan bentuk yang tidak diinginkan; eroton;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) hal terkilir (kaki dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) perubahan bentuk pada benda gerabah yang disebabkan oleh pengeringan terlampau cepat dan tidak merata karena pencampuran bahan tidak merata waktu pencetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distorsi",
+  "related": [],
+  "detailed": false
+}

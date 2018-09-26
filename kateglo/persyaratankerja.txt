@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persyaratan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) persyaratan yang harus dipenuhi oleh seseorang agar dapat diterima sebagai pegawai atau karyawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persyaratan%20kerja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tengkar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertengkar"
+      },
+      {
+        "type": "link",
+        "text": "menengkar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengkar",
+  "related": [],
+  "detailed": false
+}

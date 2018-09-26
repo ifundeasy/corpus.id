@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berfatwa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi fatwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berfatwa",
+  "related": [],
+  "detailed": false
+}

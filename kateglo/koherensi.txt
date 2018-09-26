@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koherensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tersusunnya uraian atau pandangan sehingga bagian-bagiannya berkaitan satu dengan yang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) keselarasan yang mendalam antara bentuk dan isi karya sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan logis antara bagian karangan atau antara kalimat dalam satu paragraf;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) daya tarik antara molekul untuk menghindarkan terpisahnya bagian apabila ada kekuatan dari luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koherensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "indeks refraksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "indeks bias;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks%20refraksi",
+  "related": [],
+  "detailed": false
+}

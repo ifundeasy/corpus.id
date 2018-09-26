@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemeja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju laki-laki, pada umumnya berkerah dan berkancing depan, terbuat dari katun, linen, dsb (ada yang berlengan panjang, ada yang berlengan pendek);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemeja",
+  "related": [],
+  "detailed": false
+}

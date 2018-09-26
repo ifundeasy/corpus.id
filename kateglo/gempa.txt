@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gempa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guncangan; gerakan (bumi);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) peristiwa alam berupa getaran atau gerakan bergelombang pada kulit bumi yang ditimbulkan oleh tenaga asal dalam; gempa bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gempa",
+  "related": [],
+  "detailed": false
+}

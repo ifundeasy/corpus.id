@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "model atau cara menanam tanaman hias di dalam wadah yang tembus pandang dan ditata sehingga tampak seperti taman;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah berpagar untuk memelihara binatang darat yang kecil-kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terarium",
+  "related": [],
+  "detailed": false
+}

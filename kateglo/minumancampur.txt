@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minuman campur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman yang disiapkan menurut resep tertentu dengan mengaduk, mengacak, atau menggoncangkan dua (atau lebih) macam minuman (bahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minuman%20campur",
+  "related": [],
+  "detailed": false
+}

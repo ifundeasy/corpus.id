@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anulus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "daerah antara pipa bor dan dinding lubang bor;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) struktur berbentuk cincin berupa tanda atau lubang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) tempat menerima sperma pada udang betina;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) cincin sirkulus pada sisik ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anulus",
+  "related": [],
+  "detailed": false
+}

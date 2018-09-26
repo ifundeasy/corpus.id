@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengempaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengempa;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menggunakan perkakas untuk memeras, menekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengempaan",
+  "related": [],
+  "detailed": false
+}

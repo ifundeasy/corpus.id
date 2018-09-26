@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obligasi hipotek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjanjian pinjaman dengan jaminan harta tetap yang tidak bergerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obligasi%20hipotek",
+  "related": [],
+  "detailed": false
+}

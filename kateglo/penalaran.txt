@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penalaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara (perihal) menggunakan nalar; pemikiran atau cara berpikir logis; jangkauan pemikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "hal mengembangkan atau mengendalikan sesuatu dengan nalar dan bukan dengan perasaan atau pengalaman;"
+      },
+      {
+        "type": "desc",
+        "text": "proses mental dalam mengembangkan pikiran dari beberapa fakta atau prinsip;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penalaran",
+  "related": [],
+  "detailed": false
+}

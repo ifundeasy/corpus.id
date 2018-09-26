@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mantik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara berpikir yang hanya mendasarkan pikiran belaka;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan yang benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mantik",
+  "related": [],
+  "detailed": false
+}

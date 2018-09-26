@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "murid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (anak) yang sedang berguru (belajar, bersekolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=murid",
+  "related": [],
+  "detailed": false
+}

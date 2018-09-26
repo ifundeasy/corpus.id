@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majelis undangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) dewan yang berkuasa membuat undang-undang; badan legislatif dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majelis%20undangan",
+  "related": [],
+  "detailed": false
+}

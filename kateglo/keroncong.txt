@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keroncong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi seperti bunyi giring-giring;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tiruan bunyi perut yang lapar;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik petik berupa gitar kecil berdawai empat atau lima;"
+      },
+      {
+        "type": "desc",
+        "text": "irama (langgam) musik yang ciri khasnya terletak pada permainan alat musik keroncong, yaitu kendang, selo, dan gitar melodi yang dimainkan secara beruntun;"
+      },
+      {
+        "type": "desc",
+        "text": "jenis orkes yang terdiri atas biola, seruling, gitar, ukulele, banyo, selo, dan bas;"
+      },
+      {
+        "type": "link",
+        "text": "keroncongan"
+      },
+      {
+        "type": "desc",
+        "text": "bilik-bilik (bagian) bubu sebelah dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keroncong",
+  "related": [],
+  "detailed": false
+}

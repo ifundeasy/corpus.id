@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengalaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang pernah dialami (dijalani, dirasai, ditanggung, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengalaman",
+  "related": [],
+  "detailed": false
+}

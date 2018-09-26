@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aristokrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemerintahan (kekuasaan) berada di tangan kaum bangsawan;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk pemerintahan negara;"
+      },
+      {
+        "type": "desc",
+        "text": "kaum bangsawan (ningrat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aristokrasi",
+  "related": [],
+  "detailed": false
+}

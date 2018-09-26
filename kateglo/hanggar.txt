@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hanggar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tertutup tempat menaruh (menyimpan, memperbaiki, dsb) pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hanggar",
+  "related": [],
+  "detailed": false
+}

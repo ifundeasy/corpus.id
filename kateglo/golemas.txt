@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gol emas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) gol yang dihasilkan pada masa perpanjangan waktu bertanding yang menjadi penentu kemenangan bagi sebuah kesebelasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gol%20emas",
+  "related": [],
+  "detailed": false
+}

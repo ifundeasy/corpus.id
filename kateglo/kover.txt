@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kover",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengover"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampul; tutup pelindung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kover",
+  "related": [],
+  "detailed": false
+}

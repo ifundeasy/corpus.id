@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latifundium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah luas yang dimiliki secara pribadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latifundium",
+  "related": [],
+  "detailed": false
+}

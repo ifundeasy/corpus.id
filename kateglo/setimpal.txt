@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setimpal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seimbang; sebanding; sepadan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuai; layak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setimpal",
+  "related": [],
+  "detailed": false
+}

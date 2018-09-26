@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lompatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil melompat;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (hal, cara, dsb) melompat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat melompat; sesuatu yang dilompati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lompatan",
+  "related": [],
+  "detailed": false
+}

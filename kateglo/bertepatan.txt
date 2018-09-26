@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertepatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersamaan waktunya;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sama benar (dengan); cocok (sesuai) (dengan);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kebetulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertepatan",
+  "related": [],
+  "detailed": false
+}

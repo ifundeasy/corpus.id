@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pokok kalimat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi dasar atau yang diuraikan dalam kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pokok%20kalimat",
+  "related": [],
+  "detailed": false
+}

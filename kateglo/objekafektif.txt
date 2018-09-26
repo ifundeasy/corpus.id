@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "objek afektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "objek langsung yang dikenai oleh perbuatan yang terdapat dalam predikat verbal, tetapi tidak merupakan hasil perbuatan itu (berlainan dengan (berlainan dng objek efektif); mis buku dalam mereka membaca buku, jalan dalam anak-anak sedang menyeberang jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=objek%20afektif",
+  "related": [],
+  "detailed": false
+}

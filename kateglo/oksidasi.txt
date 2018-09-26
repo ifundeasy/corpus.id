@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oksidasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "penggabungan suatu zat dengan oksigen;"
+      },
+      {
+        "type": "desc",
+        "text": "pelepasan elektron dari suatu partikel (molekul);"
+      },
+      {
+        "type": "desc",
+        "text": "penguraian mineral yang mengandung logam oleh 02 dan menimbulkan karat yang merupakan satu bentuk pelapukan kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oksidasi",
+  "related": [],
+  "detailed": false
+}

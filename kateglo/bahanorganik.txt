@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan organik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang biasanya berasal dari tanaman atau binatang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20organik",
+  "related": [],
+  "detailed": false
+}

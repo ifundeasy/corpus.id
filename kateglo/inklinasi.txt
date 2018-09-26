@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inklinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) penyimpangan kedudukan sumbu bumi terhadap bidang datar sebesar 23,50 dan membentuk bidang ekliptika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inklinasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan intra vaskuler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) tekanan hidrostatik yang terdapat dalam pembuluh darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20intra%20vaskuler",
+  "related": [],
+  "detailed": false
+}

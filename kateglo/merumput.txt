@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merumput",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyabit rumput;"
+      },
+      {
+        "type": "desc",
+        "text": "sedang makan rumput (tentang lembu, kuda, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyiangi rumput yang mengganggu tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "bermain aktif (tentang pemain sepak bola);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merumput",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rehat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "istirahat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rehat",
+  "related": [],
+  "detailed": false
+}

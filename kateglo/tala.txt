@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "laras (kesesuaian nada);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk melaraskan nada; garpu tala;"
+      },
+      {
+        "type": "desc",
+        "text": "alas; dasar; lapis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tala",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberuntungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nasib; kemujuran;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan beruntung; keberhasilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberuntungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor perdana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor permulaan terbit (tentang surat kabar, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20perdana",
+  "related": [],
+  "detailed": false
+}

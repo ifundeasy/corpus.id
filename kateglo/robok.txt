@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "robok",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merobok"
+      },
+      {
+        "type": "link",
+        "text": "bersirobok"
+      },
+      {
+        "type": "link",
+        "text": "merobok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=robok",
+  "related": [],
+  "detailed": false
+}

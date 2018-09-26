@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan (mempan tentang senjata tajam);"
+      },
+      {
+        "type": "desc",
+        "text": "(dapat) kena luka; (dapat) dilukai;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas (tempat sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "bekas dari tembikar, kaca, dsb (tempat bau-bauan, gambir, tembakau, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telap",
+  "related": [],
+  "detailed": false
+}

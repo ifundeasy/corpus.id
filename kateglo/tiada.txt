@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiada",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tak ada; tidak ada;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiada",
+  "related": [],
+  "detailed": false
+}

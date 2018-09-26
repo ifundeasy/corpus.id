@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah cakap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah tutur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20cakap",
+  "related": [],
+  "detailed": false
+}

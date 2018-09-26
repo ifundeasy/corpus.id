@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran tunda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran yang direkam terlebih dahulu untuk disiarkan kemudian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20tunda",
+  "related": [],
+  "detailed": false
+}

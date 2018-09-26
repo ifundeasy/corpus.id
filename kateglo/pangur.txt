@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pangur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menggaruk (mengorek), misal kelapa; kukuran;"
+      },
+      {
+        "type": "desc",
+        "text": "kikir besar dan kasar untuk melicinkan, misal kayu; patar;"
+      },
+      {
+        "type": "desc",
+        "text": "kikir untuk meratakan gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangur",
+  "related": [],
+  "detailed": false
+}

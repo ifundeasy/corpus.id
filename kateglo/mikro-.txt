@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "mikro-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "kecil; kecil sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "membuat benda dsb yang kecil kelihatan besar;"
+      },
+      {
+        "type": "desc",
+        "text": "seperjuta unit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikro-",
+  "related": [],
+  "detailed": false
+}

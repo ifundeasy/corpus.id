@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian terkecil dari sesuatu yang dapat berdiri sendiri; satuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kadar yang digunakan untuk mengukur (menilai dsb) sesuatu; dasar ukuran;"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk barang selengkapnya dengan bagian-bagiannya (kendaraan, komputer, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unit",
+  "related": [],
+  "detailed": false
+}

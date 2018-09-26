@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebar gelombang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyimpang yang terbesar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar%20gelombang",
+  "related": [],
+  "detailed": false
+}

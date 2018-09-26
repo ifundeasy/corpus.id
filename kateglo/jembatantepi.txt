@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jembatan tepi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jembatan yang dipasang dari tepi sungai sampai ke tepi lain yang dapat dilewati kendaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jembatan%20tepi",
+  "related": [],
+  "detailed": false
+}

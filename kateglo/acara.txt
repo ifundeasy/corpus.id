@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal atau pokok yang akan dibicarakan (dalam rapat, perundingan, dsb); agenda;"
+      },
+      {
+        "type": "desc",
+        "text": "hal atau pokok isi karangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan yang dipertunjukkan, disiarkan, atau diperlombakan; programa (televisi, radio, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pemeriksaan dalam pengadilan; perkara;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) cara;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengacarakan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acara",
+  "related": [],
+  "detailed": false
+}

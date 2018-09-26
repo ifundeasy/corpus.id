@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megaproyek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan besar dengan sasaran khusus dan dengan tenggang masa yang jelas;"
+      },
+      {
+        "type": "desc",
+        "text": "proyek yang besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megaproyek",
+  "related": [],
+  "detailed": false
+}

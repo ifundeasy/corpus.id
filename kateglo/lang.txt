@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "selang;"
+      },
+      {
+        "type": "desc",
+        "text": "meja bertingkat tempat (meletakkan) barang dagangan, biasa digunakan oleh pedagang keliling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lang",
+  "related": [],
+  "detailed": false
+}

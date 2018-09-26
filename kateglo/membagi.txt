@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membagi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menceraikan (memecahkan, memisahkan, membelah) menjadi beberapa bagian (yang sama);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) memecahkan (menyederhanakan) bilangan dengan bilangan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "memecahkan (sesuatu) lalu memberikannya kepada pihak lain;"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan (sebagian) untuk orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membagi",
+  "related": [],
+  "detailed": false
+}

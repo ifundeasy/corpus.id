@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "slagorde",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "susunan pasukan atau armada untuk bertempur;"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan pimpinan dan anak buah; jajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=slagorde",
+  "related": [],
+  "detailed": false
+}

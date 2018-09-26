@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inovasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemasukan atau pengenalan hal-hal yang baru; pembaharuan;"
+      },
+      {
+        "type": "desc",
+        "text": "penemu-an baru yang berbeda dari yang sudah ada atau yang sudah dikenal sebelumnya (gagasan, metode, atau alat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inovasi",
+  "related": [],
+  "detailed": false
+}

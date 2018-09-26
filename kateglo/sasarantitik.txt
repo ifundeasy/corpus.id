@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran titik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran yang kelebaran dan kedalamannya tidak lebih daripada garis perkenaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20titik",
+  "related": [],
+  "detailed": false
+}

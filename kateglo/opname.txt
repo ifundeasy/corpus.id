@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opname",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "perawatan dengan menginap di rumah sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "pengambilan foto atau film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opname",
+  "related": [],
+  "detailed": false
+}

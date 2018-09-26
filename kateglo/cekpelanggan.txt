@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek pelanggan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) cek yang diterima dari pelanggan sebagai pembayaran seluruh atau sebagian utangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20pelanggan",
+  "related": [],
+  "detailed": false
+}

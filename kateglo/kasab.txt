@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasab",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "kasap"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "benang emas (perak dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasab",
+  "related": [],
+  "detailed": false
+}

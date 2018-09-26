@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pak",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak, kp)"
+      },
+      {
+        "type": "desc",
+        "text": "bapak;"
+      },
+      {
+        "type": "desc",
+        "text": "bungkusan dari pabrik berisi barang dalam jumlah tertentu (tentang rokok, teh, garam, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "peti berisi barang-barang; kemasan barang; bandela;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "hak mengusahakan milik (tanah dsb) orang atau memborong sesuatu yang mendatangkan hasil dengan membayar sewa (pajak) setiap tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pak",
+  "related": [],
+  "detailed": false
+}

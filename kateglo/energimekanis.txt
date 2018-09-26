@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi mekanis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan yang mampu menggerakkan atau memindahkan bagian-bagian rangkaian peralatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20mekanis",
+  "related": [],
+  "detailed": false
+}

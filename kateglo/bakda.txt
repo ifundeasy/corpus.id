@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakda",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "sesudah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "permulaan;"
+      },
+      {
+        "type": "link",
+        "text": "bakda pisang"
+      },
+      {
+        "type": "link",
+        "text": "bakda seluang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakda",
+  "related": [],
+  "detailed": false
+}

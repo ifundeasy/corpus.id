@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bercari-carian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling mencari;"
+      },
+      {
+        "type": "desc",
+        "text": "bermain saling mencari (ada yang bersembunyi dan ada yang mencari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bercari-carian",
+  "related": [],
+  "detailed": false
+}

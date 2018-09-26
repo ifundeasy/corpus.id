@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trauma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan jiwa atau cedera jasmani;"
+      },
+      {
+        "type": "desc",
+        "text": "luka berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trauma",
+  "related": [],
+  "detailed": false
+}

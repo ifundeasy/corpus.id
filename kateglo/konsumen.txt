@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemakai barang hasil produksi (bahan pakaian, makanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penerima pesan iklan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemakai jasa (pelanggan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumen",
+  "related": [],
+  "detailed": false
+}

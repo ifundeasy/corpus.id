@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermoid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan kulit atau menyerupai kulit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumor bawaan lahir berisi cairan atau lemak yang dindingnya berasal dari kulit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermoid",
+  "related": [],
+  "detailed": false
+}

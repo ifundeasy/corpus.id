@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayuran berwarna hijau yang biasa dimakan sebagai lalap atau digunakan dalam hidangan selada; Lactuca sativa;"
+      },
+      {
+        "type": "desc",
+        "text": "hidangan yang dibuat dari daun selada dengan mentimun, tomat, dsb, disiram dengan mayones dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selada",
+  "related": [],
+  "detailed": false
+}

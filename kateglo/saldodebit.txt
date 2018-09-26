@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saldo debit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa perkiraan yang timbul karena jumlah debit lebih besar daripada jumlah kredit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saldo%20debit",
+  "related": [],
+  "detailed": false
+}

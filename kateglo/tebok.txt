@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tebok",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menebok"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menampi beras; tampah (nyiru) kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebok",
+  "related": [],
+  "detailed": false
+}

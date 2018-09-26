@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyambut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyambut;"
+      },
+      {
+        "type": "desc",
+        "text": "barang atau makanan yang akan dihadiahkan (diberikan, dihidangkan, disajikan) kepada tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyambut",
+  "related": [],
+  "detailed": false
+}

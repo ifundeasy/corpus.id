@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipokrit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "munafik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang suka berpura-pura;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipokrit",
+  "related": [],
+  "detailed": false
+}

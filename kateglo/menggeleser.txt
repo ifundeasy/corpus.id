@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggeleser",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak-gerak (tidak henti-hentinya);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai berputar (tentang roda dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bergulir di permukaan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggeleser",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naziisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajaran kaum Nazi;"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran yang menyerupai ajaran partai fasis Jerman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naziisme",
+  "related": [],
+  "detailed": false
+}

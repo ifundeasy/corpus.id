@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang sitaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diambil dan ditahan oleh alat negara atau menurut keputusan hakim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20sitaan",
+  "related": [],
+  "detailed": false
+}

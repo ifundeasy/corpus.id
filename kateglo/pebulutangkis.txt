@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pebulu tangkis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain bulu tangkis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pebulu%20tangkis",
+  "related": [],
+  "detailed": false
+}

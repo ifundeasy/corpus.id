@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "autopsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pemeriksaan tubuh mayat dengan jalan pembedahan untuk mengetahui penyebab kematian, penyakit, dsb; bedah mayat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=autopsi",
+  "related": [],
+  "detailed": false
+}

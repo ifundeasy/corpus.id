@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yurisprudensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran hukum melalui peradilan;"
+      },
+      {
+        "type": "desc",
+        "text": "himpunan putusan hakim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yurisprudensi",
+  "related": [],
+  "detailed": false
+}

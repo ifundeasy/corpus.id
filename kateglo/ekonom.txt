@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekonom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli perekonomian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekonom",
+  "related": [],
+  "detailed": false
+}

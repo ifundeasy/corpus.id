@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konkordansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar alfabetis kata pokok dari sebuah buku atau karya seorang penulis dengan konteks terdekat;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar kata (disusun secara alfabetis) dalam Alkitab (kitab suci) disertai keterangan halaman buku dan kutipan naskah yang mengandung kata itu; indeks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konkordansi",
+  "related": [],
+  "detailed": false
+}

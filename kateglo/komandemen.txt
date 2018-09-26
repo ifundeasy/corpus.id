@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komandemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komando; markas komando;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komandemen",
+  "related": [],
+  "detailed": false
+}

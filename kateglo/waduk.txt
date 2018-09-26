@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "waduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perut besar tempat mencernakan makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "kolam besar tempat menyimpan air sediaan untuk berbagai kebutuhan atau mengatur pembagian air dsb (dipakai di musim kemarau);"
+      },
+      {
+        "type": "desc",
+        "text": "menara air (tempat persediaan air);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waduk",
+  "related": [],
+  "detailed": false
+}

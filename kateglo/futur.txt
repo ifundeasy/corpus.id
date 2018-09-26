@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "futur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "makan pagi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kala nanti; masa depan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=futur",
+  "related": [],
+  "detailed": false
+}

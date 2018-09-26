@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "truf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan kartu yang menggunakan kartu Eropa (bridge);"
+      },
+      {
+        "type": "desc",
+        "text": "jenis kartu yang dimenangkan atas ketiga jenis kartu lainnya dalam permainan (bridge); kartu truf;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bukti (alat dsb) yang andal yang pada saat terakhir akan mengalahkan lawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=truf",
+  "related": [],
+  "detailed": false
+}

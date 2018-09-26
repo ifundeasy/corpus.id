@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memampas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengganti rugi;"
+      },
+      {
+        "type": "desc",
+        "text": "membayar denda (karena melukai, merusak, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memampas",
+  "related": [],
+  "detailed": false
+}

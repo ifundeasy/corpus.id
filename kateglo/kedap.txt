@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kerap dan rapat sekali (tentang tenunan, ayaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tertutup rapat-rapat sehingga tidak dapat ditembus atau kemasukan air (udara);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedap",
+  "related": [],
+  "detailed": false
+}

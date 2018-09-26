@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jangkit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berjangkit"
+      },
+      {
+        "type": "link",
+        "text": "jongkat-jangkit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jangkit",
+  "related": [],
+  "detailed": false
+}

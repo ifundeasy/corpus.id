@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "preskripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang diharuskan; ketentuan (petunjuk) peraturan;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk tentang penggunaan obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=preskripsi",
+  "related": [],
+  "detailed": false
+}

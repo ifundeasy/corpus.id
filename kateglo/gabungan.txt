@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikatan; berkas;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa macam barang yang dijual atau dibeli; seperangkat (tidak satu-satu);"
+      },
+      {
+        "type": "desc",
+        "text": "himpunan atau perserikatan yang terjadi atas beberapa perkumpulan;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran dua zat atau lebih, membentuk sebuah zat baru;"
+      },
+      {
+        "type": "desc",
+        "text": "reaksi kimia pada dua unsur yang bersatu dan membentuk senyawa biner atau senyawa biner bergabung dan membentuk senyawa kompleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gabungan",
+  "related": [],
+  "detailed": false
+}

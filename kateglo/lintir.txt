@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lintir",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "melintir"
+      },
+      {
+        "type": "link",
+        "text": "pelintir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintir",
+  "related": [],
+  "detailed": false
+}

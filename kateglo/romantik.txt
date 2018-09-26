@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "romantik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "romantis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=romantik",
+  "related": [],
+  "detailed": false
+}

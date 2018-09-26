@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana ekuitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dana yang dapat diperoleh di pasar modal, baik melalui saham maupun dana pinjaman melalui emisi obligasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20ekuitas",
+  "related": [],
+  "detailed": false
+}

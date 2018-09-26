@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mematung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat patung;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerupai patung (diam tidak bergerak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mematung",
+  "related": [],
+  "detailed": false
+}

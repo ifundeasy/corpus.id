@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata sambutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato dsb yang diucapkan dalam suatu acara perayaan, pesta, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20sambutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "astrolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli ramal perbintangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=astrolog",
+  "related": [],
+  "detailed": false
+}

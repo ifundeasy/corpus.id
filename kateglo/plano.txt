@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plano",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas lembaran utuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plano",
+  "related": [],
+  "detailed": false
+}

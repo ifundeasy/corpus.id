@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perwira pertama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam ketentaraan, satu tingkat di bawah kelompok perwira menengah dan satu tingkat di atas kelompok bintara, meliputi kapten, letnan satu, dan letnan dua;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok pangkat dalam kepolisian, satu tingkat di bawah kelompok perwira menengah dan satu tingkat di atas kelompok bintara tinggi, meliputi senior inspektur polisi, inspektur polisi satu, dan inspektur polisi dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwira%20pertama",
+  "related": [],
+  "detailed": false
+}

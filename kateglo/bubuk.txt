@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bubuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang kecil yang berkulit keras, berupa kumbang yang suka makan kayu, balok, beras, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "serbuk dari barang yang lapuk;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang ditumbuk menjadi tepung halus;"
+      },
+      {
+        "type": "link",
+        "text": "membubuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bubuk",
+  "related": [],
+  "detailed": false
+}

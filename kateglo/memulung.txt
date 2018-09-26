@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memulung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat menjadi berbutir-butir (bulat kecil); menggentel (obat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "melinting (rokok dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengumpulkan barang bekas (limbah) yang terbuang (sampah) untuk dimanfaatkan sebagai bahan produksi dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memulung",
+  "related": [],
+  "detailed": false
+}

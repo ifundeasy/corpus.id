@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "momen magnetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) sifat magnet permanen atau kumparan yang dilewati arus, digunakan sebagai ukuran kuat medan magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=momen%20magnetik",
+  "related": [],
+  "detailed": false
+}

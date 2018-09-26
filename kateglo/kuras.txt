@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "kertas yang telah dicetak dan sudah dilipat sedikitnya dua kali, merupakan bagian dari buku, biasanya terdapat huruf atau angka pada bagian bawah halaman pertama sebagai pedoman bagi penjilidan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menguras"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuras",
+  "related": [],
+  "detailed": false
+}

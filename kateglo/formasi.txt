@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "formasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan (pegawai, pengurus, kabinet, pesawat terbang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) seperangkat lapisan atau strata yang memiliki ciri litologis yang sama dan mengandung sisa-sisa kehidupan (fosil) yang sama pula;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) susunan atau barisan (dalam sepak bola, bola basket, dsb) sebagai pola penyerangan atau pertahanan; penempatan pemain atau orang-orang yang akan melakukan senam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=formasi",
+  "related": [],
+  "detailed": false
+}

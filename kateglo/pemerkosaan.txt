@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerkosaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, perbuatan, cara memerkosa;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pelanggaran dengan kekerasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerkosaan",
+  "related": [],
+  "detailed": false
+}

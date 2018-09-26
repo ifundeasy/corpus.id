@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hangus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terbakar sampai menjadi hitam; gosong;"
+      },
+      {
+        "type": "desc",
+        "text": "terbakar sampai habis;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) batal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hangus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pakaryan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang berhubungan dengan seni;"
+      },
+      {
+        "type": "desc",
+        "text": "kerajinan tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaryan",
+  "related": [],
+  "detailed": false
+}

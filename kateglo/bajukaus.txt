@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "baju kaus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju yang terbuat dari kain tipis yang agak jarang tenunannya terbuat dari katun atau nilon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baju%20kaus",
+  "related": [],
+  "detailed": false
+}

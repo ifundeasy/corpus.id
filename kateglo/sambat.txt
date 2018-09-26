@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sambat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bersambat"
+      },
+      {
+        "type": "link",
+        "text": "bersambat"
+      },
+      {
+        "type": "link",
+        "text": "bersambat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sambat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orakel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ramalan atau pesan yang diberikan oleh orang suci atas petunjuk dewa pada zaman Yunani Kuno;"
+      },
+      {
+        "type": "desc",
+        "text": "keajaiban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orakel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jasa informasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jasa yang diberikan oleh perpustakaan, terutama mengenai informasi yang ada di perpustakaan itu, dilaksanakan dengan cara menyiapkan dan menyebarkan lembaran berita, survei literatur, daftar bacaan, seri, daftar isi majalah mutakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa%20informasi",
+  "related": [],
+  "detailed": false
+}

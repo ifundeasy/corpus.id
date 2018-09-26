@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membalikkan perkataan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memutarbalikkan asal perkataan (perkataan dari A dikatakan dari B, dan perkataan dari B dikatakan dari A);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membalikkan%20perkataan",
+  "related": [],
+  "detailed": false
+}

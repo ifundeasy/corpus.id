@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "setek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepotong batang yang akan ditanam;"
+      },
+      {
+        "type": "desc",
+        "text": "cara menanam pohon (jarak, singkong, dsb) dengan jalan memotong batang yang akan ditanam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setek",
+  "related": [],
+  "detailed": false
+}

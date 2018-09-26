@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sputum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) bahan seperti dahak riak, lendir, yang dikeluarkan waktu batuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sputum",
+  "related": [],
+  "detailed": false
+}

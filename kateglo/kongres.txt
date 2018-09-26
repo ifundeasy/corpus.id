@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongres",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan besar para wakil organisasi (politik, sosial, profesi) untuk mendiskusikan dan mengambil keputusan mengenai pelbagai masalah; muktamar; rapat besar;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan wakil-wakil negara untuk membicarakan satu masalah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) dewan legislatif yang terdiri atas senat dan dewan perwakilan di Amerika Serikat, yang pada dasarnya bertugas mengawasi dan mencocokkan kegiatan pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongres",
+  "related": [],
+  "detailed": false
+}

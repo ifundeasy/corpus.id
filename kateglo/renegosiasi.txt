@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "renegosiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perundingan kembali (ulang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=renegosiasi",
+  "related": [],
+  "detailed": false
+}

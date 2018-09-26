@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mursyid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menunjukkan jalan yang benar; guru agama;"
+      },
+      {
+        "type": "desc",
+        "text": "yang baik hidupnya; yang berbakti kepada Tuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mursyid",
+  "related": [],
+  "detailed": false
+}

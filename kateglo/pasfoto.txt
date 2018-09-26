@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasfoto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "foto kecil dari kepala sampai dada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasfoto",
+  "related": [],
+  "detailed": false
+}

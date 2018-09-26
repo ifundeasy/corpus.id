@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saldo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selisih (antara uang yang masuk dan yang keluar); sisa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saldo",
+  "related": [],
+  "detailed": false
+}

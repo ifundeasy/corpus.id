@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peralatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai alat perkakas; perbekalan; kelengkapan;"
+      },
+      {
+        "type": "desc",
+        "text": "perjamuan; pesta (upacara) adat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peralatan",
+  "related": [],
+  "detailed": false
+}

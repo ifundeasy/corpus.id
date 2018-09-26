@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah dinding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majalah yang tidak dirangkai, tetapi berupa lembaran yang ditempelkan pada dinding (papan tulis dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20dinding",
+  "related": [],
+  "detailed": false
+}

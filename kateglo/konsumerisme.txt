@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsumerisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan atau kebijakan untuk melindungi konsumen dengan menata metode dan standar kerja produsen, penjual, dan pengiklan;"
+      },
+      {
+        "type": "desc",
+        "text": "paham atau gaya hidup yang menganggap barang-barang (mewah) sebagai ukuran kebahagiaan, kesenangan, dsb; gaya hidup yang tidak hemat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumerisme",
+  "related": [],
+  "detailed": false
+}

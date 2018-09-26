@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekuiti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saham;"
+      },
+      {
+        "type": "desc",
+        "text": "modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekuiti",
+  "related": [],
+  "detailed": false
+}

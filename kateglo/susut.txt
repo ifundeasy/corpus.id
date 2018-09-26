@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "susut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menjadi berkurang;"
+      },
+      {
+        "type": "desc",
+        "text": "mengerut menjadi pendek, kecil, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "turun (tentang air); surut;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi kurus (tentang badan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=susut",
+  "related": [],
+  "detailed": false
+}

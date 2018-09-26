@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "upah bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah uang yang dibayarkan kepada karyawan, berupa gaji dan tunjangan sesudah dilakukan pemotongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=upah%20bersih",
+  "related": [],
+  "detailed": false
+}

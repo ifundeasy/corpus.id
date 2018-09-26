@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laboratorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat atau kamar dsb tertentu yang dilengkapi dengan peralatan untuk mengadakan percobaan (penyelidikan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laboratorium",
+  "related": [],
+  "detailed": false
+}

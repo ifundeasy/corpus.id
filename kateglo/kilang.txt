@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apitan yang berputar; penggilingan;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan (kelompok bangunan) tempat mengolah atau membuat barang-barang; pabrik;"
+      },
+      {
+        "type": "desc",
+        "text": "instalasi industri tempat minyak bumi dimurnikan menjadi produk yang lebih berguna dan yang dapat diperdagangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "air tebu atau nira yang diasamkan sebelum menjadi tuak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilang",
+  "related": [],
+  "detailed": false
+}

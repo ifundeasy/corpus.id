@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyerang"
+      },
+      {
+        "type": "link",
+        "text": "menyerang"
+      },
+      {
+        "type": "link",
+        "text": "berserang"
+      },
+      {
+        "type": "link",
+        "text": "berserang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) mandor di kapal; kepala kelasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serang",
+  "related": [],
+  "detailed": false
+}

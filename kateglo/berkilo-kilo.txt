@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkilo-kilo",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "beberapa kilogram;"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa kilometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkilo-kilo",
+  "related": [],
+  "detailed": false
+}

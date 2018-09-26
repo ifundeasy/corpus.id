@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "murni",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bercampur dengan unsur lain; tulen;"
+      },
+      {
+        "type": "desc",
+        "text": "belum mendapat pengaruh luar; polos; lugu;"
+      },
+      {
+        "type": "desc",
+        "text": "tulus; suci; sejati (tentang cinta);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) belum terpengaruh oleh dunia luar; asli;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dalam keadaan yang masih suci (perawan); belum ternoda; belum pernah menikah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=murni",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "se-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "satu;"
+      },
+      {
+        "type": "desc",
+        "text": "sama;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan; seturut; setelah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=se-",
+  "related": [],
+  "detailed": false
+}

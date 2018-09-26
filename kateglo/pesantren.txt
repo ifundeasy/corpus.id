@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pesantren",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asrama tempat santri atau tempat murid-murid belajar mengaji dsb; pondok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesantren",
+  "related": [],
+  "detailed": false
+}

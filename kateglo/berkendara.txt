@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkendara",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "duduk di atas sesuatu yang dinaiki, ditunggangi, dsb (seperti kuda atau kereta);"
+      },
+      {
+        "type": "desc",
+        "text": "menaiki (menumpang) suatu alat tunggangan (tumpangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan kendaraan, mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkendara",
+  "related": [],
+  "detailed": false
+}

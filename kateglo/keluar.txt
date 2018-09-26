@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keluar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak dari sebelah dalam ke sebelah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "tersembul;"
+      },
+      {
+        "type": "desc",
+        "text": "menampakkan diri; timbul; muncul;"
+      },
+      {
+        "type": "desc",
+        "text": "terbit;"
+      },
+      {
+        "type": "desc",
+        "text": "terlahir;"
+      },
+      {
+        "type": "desc",
+        "text": "pergi ke luar (rumah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "diumumkan;"
+      },
+      {
+        "type": "desc",
+        "text": "berhenti dari perkumpulan (pekerjaan, sekolah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "muncul sebagai pemenang pertandingan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluar",
+  "related": [],
+  "detailed": false
+}

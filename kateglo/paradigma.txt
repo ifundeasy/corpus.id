@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paradigma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "daftar semua bentukan dari sebuah kata yang memperlihatkan konjugasi dan deklinasi kata tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "model dalam teori ilmu pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kerangka berpikir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paradigma",
+  "related": [],
+  "detailed": false
+}

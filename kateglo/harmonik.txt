@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harmonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) salah satu deret bunyi yang masing-masing merupakan kelipatan bulat dari frekuensi dasar; frekuensi dasar berkaitan dengan nada dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harmonik",
+  "related": [],
+  "detailed": false
+}

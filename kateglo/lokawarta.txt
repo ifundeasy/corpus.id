@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokawarta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang lengkap dengan sarana kerja yang khusus disediakan bagi wartawan untuk meliput berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokawarta",
+  "related": [],
+  "detailed": false
+}

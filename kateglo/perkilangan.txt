@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kilang (pabrik);"
+      },
+      {
+        "type": "desc",
+        "text": "usaha membuat barang dengan kilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkilangan",
+  "related": [],
+  "detailed": false
+}

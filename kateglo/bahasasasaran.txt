@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa sasaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang menjadi medium suatu amanat yang berasal dari bahasa sumber setelah melalui proses pengalihan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang digunakan untuk mendeskripsikan makna lema yang terdapat dalam kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20sasaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sigaret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rokok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sigaret",
+  "related": [],
+  "detailed": false
+}

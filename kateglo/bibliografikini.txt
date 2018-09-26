@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi kini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar buku yang disusun bersamaan dengan waktu buku itu diterbitkan, biasanya terbit secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20kini",
+  "related": [],
+  "detailed": false
+}

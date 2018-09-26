@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epoksi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung atom oksigen dalam lingkar organik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "plastik hasil polimerisasi senyawa epoksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epoksi",
+  "related": [],
+  "detailed": false
+}

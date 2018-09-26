@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lepak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi barang jatuh ke tanah (seperti buku jatuh dari meja ke lantai);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "melepak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepak",
+  "related": [],
+  "detailed": false
+}

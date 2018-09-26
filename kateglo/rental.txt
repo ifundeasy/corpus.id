@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persewaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rental",
+  "related": [],
+  "detailed": false
+}

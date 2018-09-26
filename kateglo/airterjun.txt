@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air terjun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran air melewati jeram hingga air jatuh bebas ke dasar sungai (lereng, lembah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20terjun",
+  "related": [],
+  "detailed": false
+}

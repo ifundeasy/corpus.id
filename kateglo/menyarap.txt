@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyarap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhamburan seperti sarap;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berharga;"
+      },
+      {
+        "type": "desc",
+        "text": "memberi beralas atau berlapik barang yang tipis-tipis (seperti daun, kain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyarap",
+  "related": [],
+  "detailed": false
+}

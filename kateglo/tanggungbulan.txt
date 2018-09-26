@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggung bulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudah lebih dari pertengahan bulan (biasanya untuk mengatakan bahwa sudah tidak ada uang, belum gajian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggung%20bulan",
+  "related": [],
+  "detailed": false
+}

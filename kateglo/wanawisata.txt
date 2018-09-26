@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wanawisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wisata yang tujuan atau sasarannya adalah hutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wanawisata",
+  "related": [],
+  "detailed": false
+}

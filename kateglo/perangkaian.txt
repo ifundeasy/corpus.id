@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan merangkai; penghubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan berbagai karangan, sajak, dsb; perentetan (peristiwa, kejadian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penyusunan (kata, kalimat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkaian",
+  "related": [],
+  "detailed": false
+}

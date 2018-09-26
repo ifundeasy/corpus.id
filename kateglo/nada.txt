@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tinggi rendahnya bunyi (dalam lagu, musik, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) ungkapan keadaan jiwa atau suasana hati; makna yang tersembunyi dalam ucapan dsb; sikap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nada",
+  "related": [],
+  "detailed": false
+}

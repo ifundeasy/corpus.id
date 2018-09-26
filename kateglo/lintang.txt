@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lintang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lebar (suatu bidang);"
+      },
+      {
+        "type": "desc",
+        "text": "menurut lebar suatu bidang (ruangan, bumi, dsb); malang; melintang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) garis atau lingkaran yang dibuat dari arah timur ke barat pada peta bumi dan globe sebagai salah satu ordinat untuk menentukan letak tempat pada permukaan bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintang",
+  "related": [],
+  "detailed": false
+}

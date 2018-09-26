@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi yang sebelah belakang dari yang kita lihat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kembali; pulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balik",
+  "related": [],
+  "detailed": false
+}

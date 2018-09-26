@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gamat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teripang berukuran besar;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bergamat"
+      },
+      {
+        "type": "desc",
+        "text": "sentuh; gamit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gamat",
+  "related": [],
+  "detailed": false
+}

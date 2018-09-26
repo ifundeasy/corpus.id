@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leukositometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghitung leukosit (sel darah putih);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leukositometer",
+  "related": [],
+  "detailed": false
+}

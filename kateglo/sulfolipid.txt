@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sulfolipid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) lemak pada hidrolisis yang menghasilkan asam sulfat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sulfolipid",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lemari makan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lemari tempat menyimpan makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemari%20makan",
+  "related": [],
+  "detailed": false
+}

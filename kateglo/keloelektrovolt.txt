@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keloelektrovolt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan tenaga yang besarnya sama dengan seribu elektron volt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keloelektrovolt",
+  "related": [],
+  "detailed": false
+}

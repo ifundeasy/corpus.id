@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pezikir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan zikir;"
+      },
+      {
+        "type": "desc",
+        "text": "pembawa lagu (puji-pujian kepada Allah dan Nabi Muhammad saw.);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pezikir",
+  "related": [],
+  "detailed": false
+}

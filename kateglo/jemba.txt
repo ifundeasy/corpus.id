@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jemba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran panjang 8 (hasta);"
+      },
+      {
+        "type": "link",
+        "text": "menjemba"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemba",
+  "related": [],
+  "detailed": false
+}

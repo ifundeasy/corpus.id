@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "golok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "parang;"
+      },
+      {
+        "type": "desc",
+        "text": "pedang yang pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=golok",
+  "related": [],
+  "detailed": false
+}

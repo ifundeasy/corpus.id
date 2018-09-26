@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekstet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "gubahan lagu yang dinyanyikan oleh enam penyanyi atau dimainkan oleh enam orang pemain musik;"
+      },
+      {
+        "type": "desc",
+        "text": "grup penyanyi atau orkes yang terdiri atas enam orang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) sajak enam seuntai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekstet",
+  "related": [],
+  "detailed": false
+}

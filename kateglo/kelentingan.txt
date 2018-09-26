@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelentingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat atau daya lenting;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sifat bahan yang kembali dengan sendirinya ke bentuk semula apabila meregang atau apabila penyangganya tidak bekerja lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelentingan",
+  "related": [],
+  "detailed": false
+}

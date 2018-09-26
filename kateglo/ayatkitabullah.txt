@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ayat kitabullah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bukti yang ada di dalam Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ayat%20kitabullah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "optometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengukuran penglihatan dan penentuan kacamata yang cocok untuk memperbaiki ketajamannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=optometri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun biaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) sekelompok akun yang disusun untuk mencatat berbagai aktivitas produksi dan sering kali juga aktivitas distribusi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20biaya",
+  "related": [],
+  "detailed": false
+}

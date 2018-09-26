@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biro iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan jasa dalam bidang periklanan (antara lain mencakupi kegiatan kampanye, pengiklanan, dan pemasaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro%20iklan",
+  "related": [],
+  "detailed": false
+}

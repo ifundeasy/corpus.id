@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "awat",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "mengapa;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengawat"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang tidak kena oleh bajak (tenggala, luku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=awat",
+  "related": [],
+  "detailed": false
+}

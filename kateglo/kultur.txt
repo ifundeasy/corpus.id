@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebudayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ikn) pemeliharaan; pembudidayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kultur",
+  "related": [],
+  "detailed": false
+}

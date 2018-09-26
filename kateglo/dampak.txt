@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dampak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benturan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaruh kuat yang mendatangkan akibat (baik negatif maupun positif);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) benturan yang cukup hebat antara dua benda sehingga menyebabkan perubahan yang berarti dalam momentum (pusa) sistem yang mengalami benturan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dampak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sengau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan suara yang diucapkan dengan bunyi melalui hidung;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nasal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sengau",
+  "related": [],
+  "detailed": false
+}

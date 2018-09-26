@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan atau kesanggupan (untuk berbuat sesuatu); kekuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "wewenang atas sesuatu atau untuk menentukan (memerintah, mewakili, mengurus, dsb) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaruh (gengsi, kesaktian, dsb) yang ada pada seseorang karena jabatannya (martabatnya);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mampu; sanggup;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang diserahi wewenang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) angkus; kusa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "neraca mikro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "neraca yang sangat peka, digunakan untuk menimbang bahan dalam jumlah yang sangat besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neraca%20mikro",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenaikan pangkat pilihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kenaikan pangkat yang diberikan kepada pegawai negeri sipil yang memangku jabatan struktural atau fungsional tertentu yang telah memenuhi syarat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenaikan%20pangkat%20pilihan",
+  "related": [],
+  "detailed": false
+}

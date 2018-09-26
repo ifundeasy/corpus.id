@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dasar laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian laut mulai dari batas pasang tertinggi sampai daerah yang paling dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dasar%20laut",
+  "related": [],
+  "detailed": false
+}

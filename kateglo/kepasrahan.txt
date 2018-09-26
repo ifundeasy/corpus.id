@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepasrahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pasrah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepasrahan",
+  "related": [],
+  "detailed": false
+}

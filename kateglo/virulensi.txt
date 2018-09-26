@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "virulensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "takaran kemampuan suatu mikroorganisme (virus) untuk menimbulkan penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "keganasan; kejahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=virulensi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbentuk batang;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kayu balok dsb pengalang muara (sungai, jalan) ke pelabuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aci",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sah; berlaku; jadi; benar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pati; tepung;"
+      },
+      {
+        "type": "link",
+        "text": "mengaci"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aci",
+  "related": [],
+  "detailed": false
+}

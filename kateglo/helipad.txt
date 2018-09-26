@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "helipad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "landasan untuk helikopter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=helipad",
+  "related": [],
+  "detailed": false
+}

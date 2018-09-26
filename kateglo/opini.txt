@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat; pikiran; pendirian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opini",
+  "related": [],
+  "detailed": false
+}

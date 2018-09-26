@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interferometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk mengukur perubahan indeks bias udara (cahaya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interferometer",
+  "related": [],
+  "detailed": false
+}

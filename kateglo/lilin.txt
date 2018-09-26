@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lilin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan terbuat dari parafin, mudah mencair jika dipanaskan, dapat dipakai sebagai pelita dan/atau untuk membatik;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan yang mengandung lemak, lekat, mengental, mencair jika dipanaskan, dicetak dalam berbagai bentuk untuk alat penerang (dengan diberi sumbu di tengahnya) atau benda mainan;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) satuan kuat cahaya (satu lilin = 12,56 lumen);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) hidrokarbon padat yang mempunyai titik cair rendah dan mudah larut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lilin",
+  "related": [],
+  "detailed": false
+}

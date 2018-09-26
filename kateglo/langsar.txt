@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langsar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil (sempit) panjang; panjang ramping;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "melangsar"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) beruntung; berbahagia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langsar",
+  "related": [],
+  "detailed": false
+}

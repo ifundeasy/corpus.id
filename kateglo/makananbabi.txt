@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan babi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan untuk babi berupa bubur yang berasal dari sisa dapur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20babi",
+  "related": [],
+  "detailed": false
+}

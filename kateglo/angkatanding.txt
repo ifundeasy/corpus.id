@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka tanding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) angka (nilai) terakhir dalam satu pertandingan; nilai yang akan mengakhiri suatu pertandingan; angka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20tanding",
+  "related": [],
+  "detailed": false
+}

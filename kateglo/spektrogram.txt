@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spektrogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar atau diagram yang dihasilkan spektrograf;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) grafik bunyi yang memberikan informasi tentang perubahan dalam rentang waktu, frekuensi, dan intensitas gelombang bunyi menurut sumbu waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spektrogram",
+  "related": [],
+  "detailed": false
+}

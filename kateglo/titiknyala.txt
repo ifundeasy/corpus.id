@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik nyala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) derajat suhu terendah tempat suatu minyak menguap cukup banyak dan cukup reaktif untuk dapat terbakar seketika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20nyala",
+  "related": [],
+  "detailed": false
+}

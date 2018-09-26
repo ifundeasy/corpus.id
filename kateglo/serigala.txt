@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serigala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang liar yang bentuknya seperti anjing dan warna bulunya kuning kelabu; Canis aurens;"
+      },
+      {
+        "type": "desc",
+        "text": "anjing hutan; Canis rutilans;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serigala",
+  "related": [],
+  "detailed": false
+}

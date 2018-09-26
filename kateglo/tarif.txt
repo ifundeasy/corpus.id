@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tarif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga satuan jasa;"
+      },
+      {
+        "type": "desc",
+        "text": "aturan pungutan;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar bea masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif",
+  "related": [],
+  "detailed": false
+}

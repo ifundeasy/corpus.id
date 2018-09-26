@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan mini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang menyediakan buku dalam jumlah yang sangat terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20mini",
+  "related": [],
+  "detailed": false
+}

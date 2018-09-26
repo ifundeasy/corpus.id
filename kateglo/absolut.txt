@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absolut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak terbatas; mutlak;"
+      },
+      {
+        "type": "desc",
+        "text": "sepenuhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "tanpa syarat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dapat diragukan lagi; nyata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absolut",
+  "related": [],
+  "detailed": false
+}

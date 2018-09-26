@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rel tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rel yang hanya terdiri atas satu alur batang besi (bukan sepasang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rel%20tunggal",
+  "related": [],
+  "detailed": false
+}

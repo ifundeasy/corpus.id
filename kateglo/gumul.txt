@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gumul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bt)"
+      },
+      {
+        "type": "desc",
+        "text": "bayi yang bentuk tubuhnya bundar seperti bola;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bergumul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gumul",
+  "related": [],
+  "detailed": false
+}

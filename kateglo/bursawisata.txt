@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat yang dijadikan ajang pameran, sumber informasi, dsb (tentang kepariwisataan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20wisata",
+  "related": [],
+  "detailed": false
+}

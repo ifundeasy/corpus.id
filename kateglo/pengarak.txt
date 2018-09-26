@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengarak;"
+      },
+      {
+        "type": "desc",
+        "text": "yang mendahului;"
+      },
+      {
+        "type": "desc",
+        "text": "penggiring bola;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarak",
+  "related": [],
+  "detailed": false
+}

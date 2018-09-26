@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harmonium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik gamit seperti orgel kamar, dibunyikan dengan menekan tombol pembuka lidah-lidah yang bergetar karena angin yang dipompa (pedal kaki), banyak dipakai sebagai alat musik pengiring di gereja;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik seperti orgel kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harmonium",
+  "related": [],
+  "detailed": false
+}

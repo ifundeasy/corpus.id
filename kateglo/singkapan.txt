@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "singkapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyingkap(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) bagian batuan yang tampak di permukaan bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) bagian formasi batuan bijih atau bahan galian berharga yang dekat ke permukaan, biasanya tersingkap atau tertutup oleh lapisan penutup yang tipis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singkapan",
+  "related": [],
+  "detailed": false
+}

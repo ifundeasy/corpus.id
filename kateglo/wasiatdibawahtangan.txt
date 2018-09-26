@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wasiat di bawah tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wasiat yang dibuat sendiri, tidak di muka notaris, kepada seorang ahli waris untuk menerima sebagian atau seluruh warisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wasiat%20di%20bawah%20tangan",
+  "related": [],
+  "detailed": false
+}

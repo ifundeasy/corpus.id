@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infloresens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bot)"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok bunga pada satu kepala atau sekelompok bunga pada satu tangkai utama; bunga majemuk;"
+      },
+      {
+        "type": "desc",
+        "text": "perbungaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infloresens",
+  "related": [],
+  "detailed": false
+}

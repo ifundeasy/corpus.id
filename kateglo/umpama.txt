@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "umpama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi contoh (persamaan, perbandingan) dengan yang lain-lain;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(cak) sama halnya dengan; bagaikan; seakan-akan (seumpama);"
+      },
+      {
+        "type": "desc",
+        "text": "yang diandaikan (bukan hal yang sebenarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umpama",
+  "related": [],
+  "detailed": false
+}

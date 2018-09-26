@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "luapan perasaan yang berkembang dan surut dalam waktu singkat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan dan reaksi psikologis dan fisiologis (seperti kegembiraan, kesedihan, keharuan, kecintaan); keberanian yang bersifat subjektif);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) marah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emosi",
+  "related": [],
+  "detailed": false
+}

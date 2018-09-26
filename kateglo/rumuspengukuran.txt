@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumus pengukuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persamaan matematika yang mengukur bentuk-bentuk datar, bulat, kubik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumus%20pengukuran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencatat yang bekerja secara otomatis (misal mencatat perubahan suhu atau tekanan udara setempat);"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang bekerja dengan getaran magnet untuk mengetahui atau menemukan adanya benda logam (bom), gelombang radio, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detektor",
+  "related": [],
+  "detailed": false
+}

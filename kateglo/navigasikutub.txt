@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "navigasi kutub",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "himpunan teknik navigasi, khusus disesuaikan untuk daerah kutub yang berbeda dengan daerah lain sehingga memerlukan modifikasi dalam prinsip navigasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=navigasi%20kutub",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain yang dipakai menyeka (mengesat);"
+      },
+      {
+        "type": "desc",
+        "text": "(helai) kertas;"
+      },
+      {
+        "type": "desc",
+        "text": "lembaran kertas yang dicetak (8 atau l6 halaman);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pel",
+  "related": [],
+  "detailed": false
+}

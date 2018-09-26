@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelontong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat kelentungan yang selalu dibunyikan oleh penjaja barang dagangan untuk menarik perhatian pembeli;"
+      },
+      {
+        "type": "desc",
+        "text": "barang-barang untuk keperluan sehari-hari seperti sabun, sikat gigi, gelas, cangkir, mangkuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelontong",
+  "related": [],
+  "detailed": false
+}

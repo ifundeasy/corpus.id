@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabung pemilihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bumbung tempat memasukkan lidi yang dipakai sebagai ganti surat pemilihan;"
+      },
+      {
+        "type": "desc",
+        "text": "kotak tempat memasukkan surat suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabung%20pemilihan",
+  "related": [],
+  "detailed": false
+}

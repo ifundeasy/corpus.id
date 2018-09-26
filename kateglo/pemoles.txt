@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemoles",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (bahan, benda) untuk memoles;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memoles;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemoles",
+  "related": [],
+  "detailed": false
+}

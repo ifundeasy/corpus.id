@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sapi muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sapi yang berumur kurang dari satu tahun yang dipiara khusus untuk menghasilkan daging dengan mutu gizi tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapi%20muda",
+  "related": [],
+  "detailed": false
+}

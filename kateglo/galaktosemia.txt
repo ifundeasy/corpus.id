@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "galaktosemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kondisi yang ditandai oleh adanya kumpulan galaktosa di dalam aliran darah, diduga ada asosiasinya dengan keterbelakangan mental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=galaktosemia",
+  "related": [],
+  "detailed": false
+}

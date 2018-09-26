@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjumlahkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung berapa banyaknya (tentang sesuatu yang dikumpulkan menjadi satu);"
+      },
+      {
+        "type": "desc",
+        "text": "menyatukan bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjumlahkan",
+  "related": [],
+  "detailed": false
+}

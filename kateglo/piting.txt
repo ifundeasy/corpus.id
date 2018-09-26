@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piting",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memiting"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tampuk lampu listrik;"
+      },
+      {
+        "type": "link",
+        "text": "kepiting"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piting",
+  "related": [],
+  "detailed": false
+}

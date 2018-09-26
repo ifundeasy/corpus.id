@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seksual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan seks (jenis kelamin);"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan perkara persetubuhan antara laki-laki dan perempuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seksual",
+  "related": [],
+  "detailed": false
+}

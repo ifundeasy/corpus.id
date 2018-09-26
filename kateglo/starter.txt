@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "starter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pada mobil dsb untuk memulai menghidupkan mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) orang yang mengatur dan menguasai sepenuhnya perlombaan, dari awal sampai selesainya perlombaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=starter",
+  "related": [],
+  "detailed": false
+}

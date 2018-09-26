@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak jernih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "produk minyak yang lebih mudah menguap, seperti bensin, minyak cuci, dan minyak tanah (kerosin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20jernih",
+  "related": [],
+  "detailed": false
+}

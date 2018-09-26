@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takson",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok taksonomi, tanpa memandang tingkatannya, misal suku, marga, jenis, variabel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takson",
+  "related": [],
+  "detailed": false
+}

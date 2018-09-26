@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkeris",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai (mempergunakan) keris;"
+      },
+      {
+        "type": "desc",
+        "text": "tikam-menikam dengan keris;"
+      },
+      {
+        "type": "desc",
+        "text": "menyandang keris;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mempunyai kekuatan untuk mempertahankan diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkeris",
+  "related": [],
+  "detailed": false
+}

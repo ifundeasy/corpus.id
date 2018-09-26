@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pisah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cerai;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berpisah; bercerai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pisah",
+  "related": [],
+  "detailed": false
+}

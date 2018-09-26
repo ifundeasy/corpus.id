@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen pengarang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mewakili pengarang dalam hal urusan penjualan dan penerbitan karyanya dengan penerbit buku, dan merundingkan hak tambahan untuk penerbitan, penyiaran, dan pembuatan film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20pengarang",
+  "related": [],
+  "detailed": false
+}

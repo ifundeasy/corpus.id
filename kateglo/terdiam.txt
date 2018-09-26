@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdiam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berhenti berbunyi (berkata, bersuara);"
+      },
+      {
+        "type": "desc",
+        "text": "berhenti bergerak (tidak bergerak lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdiam",
+  "related": [],
+  "detailed": false
+}

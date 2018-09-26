@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kawin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membentuk keluarga dengan lawan jenis; bersuami atau beristri; menikah;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan hubungan kelamin; berkelamin (untuk hewan);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bersetubuh;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkawinan;"
+      },
+      {
+        "type": "link",
+        "text": "mengawin"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kawin",
+  "related": [],
+  "detailed": false
+}

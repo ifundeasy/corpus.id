@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masuk buku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dicatat dalam buku (perbelanjaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masuk%20buku",
+  "related": [],
+  "detailed": false
+}

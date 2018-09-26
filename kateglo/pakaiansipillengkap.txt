@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian sipil lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian khusus bagi pegawai, karyawan, dipakai pada acara resmi (berjas dan berdasi bagi laki-laki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20sipil%20lengkap",
+  "related": [],
+  "detailed": false
+}

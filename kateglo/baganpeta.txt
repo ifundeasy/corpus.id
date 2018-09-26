@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan peta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr) bagan berupa peta yang mengandung tanda-tanda yang menerangkan terjadinya suatu proses (misal migrasi) atau yang menggambarkan statistik penduduk, produksi, distribusi, dsb di daerah yang tercantum pada peta itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20peta",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai massa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai politik yang mengutamakan kekuatan berdasarkan keunggulan jumlah anggota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20massa",
+  "related": [],
+  "detailed": false
+}

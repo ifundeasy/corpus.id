@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radioaktif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan atau menunjukkan radioaktivitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radioaktif",
+  "related": [],
+  "detailed": false
+}

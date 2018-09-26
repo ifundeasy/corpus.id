@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "guam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sengketa; perselisihan; perkara (dalam pengadilan);"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit sariawan (radang pada selaput lendir di mulut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guam",
+  "related": [],
+  "detailed": false
+}

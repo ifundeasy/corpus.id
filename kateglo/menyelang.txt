@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyelang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyelipi;"
+      },
+      {
+        "type": "desc",
+        "text": "memotong (perkataan, pembicaraan, dsb); menyelingi;"
+      },
+      {
+        "type": "desc",
+        "text": "meminjam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyelang",
+  "related": [],
+  "detailed": false
+}

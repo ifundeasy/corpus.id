@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan penasihat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panitia yang diangkat untuk memberikan nasihat tentang suatu hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20penasihat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dekorator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengerjakan dekorasi; penghias panggung teater;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang merancang dekorasi untuk etalase, stan, dsb dan yang sekaligus mengerjakannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dekorator",
+  "related": [],
+  "detailed": false
+}

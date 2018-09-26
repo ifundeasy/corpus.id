@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kapital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modal (pokok) dalam perniagaan;"
+      },
+      {
+        "type": "desc",
+        "text": "besar (tentang huruf seperti A, B, C, dst);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapital",
+  "related": [],
+  "detailed": false
+}

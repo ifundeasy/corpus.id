@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "doi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "uang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pacar;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ia (laki-laki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=doi",
+  "related": [],
+  "detailed": false
+}

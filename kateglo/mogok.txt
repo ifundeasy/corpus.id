@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mogok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak dapat berjalan (bekerja) sebagaimana biasanya (tentang kendaraan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau bekerja (berbuat) sebagaimana biasanya (tentang orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mogok",
+  "related": [],
+  "detailed": false
+}

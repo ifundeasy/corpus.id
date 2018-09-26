@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terapi kimiawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengobatan kimiawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi%20kimiawi",
+  "related": [],
+  "detailed": false
+}

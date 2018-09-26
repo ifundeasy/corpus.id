@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diagram garis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "diagram yang menyatakan suatu peristiwa dalam bentuk kurva;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagram%20garis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bacang",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "embacang"
+      },
+      {
+        "type": "desc",
+        "text": "penganan seperti lontong, dibuat dari beras (ketan) yang diisi daging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bacang",
+  "related": [],
+  "detailed": false
+}

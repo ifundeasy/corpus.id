@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empot",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "empot-empotan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peledakan penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) pertambahan penduduk yang berlipat ganda karena angka kelahiran lebih tinggi daripada angka kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peledakan%20penduduk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "zalir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "cairan dan gas fase bahan yang hanya mampu menopang tekanan isotropik seragam tanpa mengalami erotasi atau distorsi;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang dapat mengalir dan mengalah terhadap setiap gaya yang berusaha mengubah bentuk zat tanpa mengubah volumenya, seperti air dan udara; zat alir; fluida;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zalir",
+  "related": [],
+  "detailed": false
+}

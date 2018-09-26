@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekrutmen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengerahan, misal tenaga kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekrutmen",
+  "related": [],
+  "detailed": false
+}

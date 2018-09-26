@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fajar senja nyata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "fajar pada waktu pagi hari yang dimulai pada saat pusat bulatan matahari berada pada posisi 6o di bawah ufuk sampai pada saat matahari terbit;"
+      },
+      {
+        "type": "desc",
+        "text": "fajar pada waktu senja hari yang dimulai pada waktu matahari terbenam sampai pusat bulatan matahari berada pada 6o di bawah horizon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fajar%20senja%20nyata",
+  "related": [],
+  "detailed": false
+}

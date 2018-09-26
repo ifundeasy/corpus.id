@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak ulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil pencetakan ulang buku, baik karena mengalami penyempurnaan maupun tidak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20ulang",
+  "related": [],
+  "detailed": false
+}

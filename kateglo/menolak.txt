@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menolak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mendorong; menyorongkan; mendesak ke depan (ke samping);"
+      },
+      {
+        "type": "desc",
+        "text": "mencegah (bahaya dsb); menangkal (penyakit dsb); mengelakkan atau menangkis (serangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak menerima (memberi, meluluskan, mengabulkan); menampik;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak membenarkan (pendapat);"
+      },
+      {
+        "type": "desc",
+        "text": "mengusir; menghalau;"
+      },
+      {
+        "type": "desc",
+        "text": "mengurangi; memotong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menolak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu hijau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lampu lalu lintas yang berwarna hijau, mengisyaratkan kendaraan boleh jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) isyarat (izin) untuk mejalankan suatu rencana dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20hijau",
+  "related": [],
+  "detailed": false
+}

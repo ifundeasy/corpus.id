@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aneka pertunjukan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "berbagai pertunjukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aneka%20pertunjukan",
+  "related": [],
+  "detailed": false
+}

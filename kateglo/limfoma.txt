@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limfoma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limfadenoma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limfoma",
+  "related": [],
+  "detailed": false
+}

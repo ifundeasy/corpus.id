@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemilih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memilih;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang terlampau teliti dalam memilih (suka mencela dan banyak tuntutannya);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memilih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemilih",
+  "related": [],
+  "detailed": false
+}

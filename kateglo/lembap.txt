@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lembap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung air (tentang hawa dsb); tidak kering benar (tentang tembakau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak nyaring bunyinya (seperti gendang yang kendur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembap",
+  "related": [],
+  "detailed": false
+}

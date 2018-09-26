@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil turut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil ikutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20turut",
+  "related": [],
+  "detailed": false
+}

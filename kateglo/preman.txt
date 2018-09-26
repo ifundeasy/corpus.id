@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "preman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partikelir; swasta;"
+      },
+      {
+        "type": "desc",
+        "text": "bukan tentara; sipil (tentang orang, pakaian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kepunyaan sendiri (tentang kendaraan dsb); orang -- , orang sipil, bukan militer; mobil -- , mobil pribadi (bukan mobil dinas); pakaian -- , bukan pakaian seragam militer;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sebutan kepada orang jahat (penodong, perampok, pemeras, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=preman",
+  "related": [],
+  "detailed": false
+}

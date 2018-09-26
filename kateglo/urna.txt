@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "warna;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran rambut di antara alis;"
+      },
+      {
+        "type": "desc",
+        "text": "serban;"
+      },
+      {
+        "type": "desc",
+        "text": "mahkota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urna",
+  "related": [],
+  "detailed": false
+}

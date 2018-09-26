@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gugur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jatuh sebelum masak (tentang buah-buahan); lahir sebelum waktunya (tentang bayi); runtuh (tentang tanah);"
+      },
+      {
+        "type": "desc",
+        "text": "batal; tidak jadi; tidak berlaku lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "mati dalam pertempuran;"
+      },
+      {
+        "type": "desc",
+        "text": "kalah; rontok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gugur",
+  "related": [],
+  "detailed": false
+}

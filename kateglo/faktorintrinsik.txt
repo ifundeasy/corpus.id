@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "faktor intrinsik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "faktor atau pengaruh yang datang dari dalam;"
+      },
+      {
+        "type": "desc",
+        "text": "zat yang dihasilkan oleh lambung yang mempermudah penyerapan vitamin B12 oleh tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faktor%20intrinsik",
+  "related": [],
+  "detailed": false
+}

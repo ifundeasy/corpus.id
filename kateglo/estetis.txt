@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "estetis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai keindahan; menyangkut apresiasi keindahan (alam, seni, dan sastra);"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai penilaian terhadap keindahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=estetis",
+  "related": [],
+  "detailed": false
+}

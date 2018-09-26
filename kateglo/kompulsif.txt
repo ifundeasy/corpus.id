@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompulsif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat mendorong;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat memaksa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompulsif",
+  "related": [],
+  "detailed": false
+}

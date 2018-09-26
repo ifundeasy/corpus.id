@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang linguistik yang menyelidiki kosakata dan maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikologi",
+  "related": [],
+  "detailed": false
+}

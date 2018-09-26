@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "adat pemali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "denda adat yang harus dibayar karena melanggar pantangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adat%20pemali",
+  "related": [],
+  "detailed": false
+}

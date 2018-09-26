@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembang macapat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tembang cilik;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang cilik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembang%20macapat",
+  "related": [],
+  "detailed": false
+}

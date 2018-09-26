@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "usada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu pengobatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usada",
+  "related": [],
+  "detailed": false
+}

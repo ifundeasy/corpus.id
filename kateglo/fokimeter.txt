@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fokimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencari fokus lensa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fokimeter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat salinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang disalin dari surat yang asli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20salinan",
+  "related": [],
+  "detailed": false
+}

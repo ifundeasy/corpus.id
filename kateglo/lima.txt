@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lima",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "nama bagi lambang bilangan asli 5 (angka Arab) atau V (angka Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan yang menunjukkan tingkat sesudah yang ke-4 sebelum yang ke-6;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan yang banyaknya 4 ditambah 1; jumlah bilangan yang banyaknya sama dengan jari sebuah tangan manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "urutan langsung sesudah empat atau sebelum enam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lima",
+  "related": [],
+  "detailed": false
+}

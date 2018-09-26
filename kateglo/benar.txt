@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesuai sebagaimana adanya (seharusnya); betul; tidak salah;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berat sebelah; adil;"
+      },
+      {
+        "type": "desc",
+        "text": "lurus (hati);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dipercaya (cocok dengan keadaan yang sesungguhnya); tidak bohong;"
+      },
+      {
+        "type": "desc",
+        "text": "sah;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat; sekali; sungguh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benar",
+  "related": [],
+  "detailed": false
+}

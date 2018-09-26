@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal tunda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang digunakan untuk mengantarkan kapal dagang atau kapal besar masuk atau keluar pelabuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20tunda",
+  "related": [],
+  "detailed": false
+}

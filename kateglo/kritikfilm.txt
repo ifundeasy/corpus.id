@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kritik film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kupasan dalam media massa mengenai film yang dipertunjukkan di sebuah bioskop, ditinjau dari segi kekuatan dan kelemahannya, kelebihan dan kekurangannya yang dilandasi alasan yang logis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kritik%20film",
+  "related": [],
+  "detailed": false
+}

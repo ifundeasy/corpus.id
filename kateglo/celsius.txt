@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Celsius",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan suhu dalam skala termometer yang memperlihatkan air membeku pada 0o dan mendidih pada 100o dalam keadaan normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Celsius",
+  "related": [],
+  "detailed": false
+}

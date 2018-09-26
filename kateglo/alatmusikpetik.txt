@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat musik petik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat musik yang dibunyikan dengan memetik (seperti gitar, kecapi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20musik%20petik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepatu tenis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepatu yang dirancang untuk bermain tenis, bagian alas dibuat dari karet, biasanya berwarna putih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepatu%20tenis",
+  "related": [],
+  "detailed": false
+}

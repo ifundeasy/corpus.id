@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bantam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis ayam kecil; ayam katik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantam",
+  "related": [],
+  "detailed": false
+}

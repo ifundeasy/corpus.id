@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengkreditkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual barang dengan pembayaran secara mengangsur;"
+      },
+      {
+        "type": "desc",
+        "text": "meminjamkan uang dengan mengembalikan secara mengangsur;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) meminjamkan uang dengan tanggungan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengkreditkan",
+  "related": [],
+  "detailed": false
+}

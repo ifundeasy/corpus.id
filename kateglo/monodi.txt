@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "sajak yang dinyanyikan seorang pemeran dalam tragedi Yunani;"
+      },
+      {
+        "type": "desc",
+        "text": "sajak duka yang dibawakan oleh satu orang dalam meratapi kematian seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monodi",
+  "related": [],
+  "detailed": false
+}

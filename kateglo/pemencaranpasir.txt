@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemencaran pasir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasir yang memencar dari satu tempat ke tempat lain karena pengaruh faktor luar (karena terbawa aliran air, angin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemencaran%20pasir",
+  "related": [],
+  "detailed": false
+}

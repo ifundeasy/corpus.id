@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur fisik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taraf kematangan (kesiapan) bagian-bagian tubuh seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20fisik",
+  "related": [],
+  "detailed": false
+}

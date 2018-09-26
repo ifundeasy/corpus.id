@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur cepat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian jalan yang diperuntukkan bagi kendaraan yang dikemudikan dengan kecepatan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20cepat",
+  "related": [],
+  "detailed": false
+}

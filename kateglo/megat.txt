@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelar bangsawan Melayu (ayahnya orang kebanyakan, ibunya keturunan raja);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "masyhur; terkenal;"
+      },
+      {
+        "type": "desc",
+        "text": "berpusing (pada gasing); mejam; ligat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megat",
+  "related": [],
+  "detailed": false
+}

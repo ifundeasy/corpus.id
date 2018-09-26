@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana siswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang disediakan atau dikumpulkan guna membiayai pelajar (mahasiswa) yang kurang mampu; beasiswa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20siswa",
+  "related": [],
+  "detailed": false
+}

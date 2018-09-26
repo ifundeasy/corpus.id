@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tumbuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk melantak dsb supaya lumat hancur (seperti antan, anak gobek);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengupas atau menghaluskan dengan antan (bukan digiling);"
+      },
+      {
+        "type": "link",
+        "text": "ketumbukan"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) persamaan frekuensi pada nada, senama antara slendro dan pelog pelengkapnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tumbuk",
+  "related": [],
+  "detailed": false
+}

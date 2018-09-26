@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam panas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit demam dengan suhu badan yang tinggi, yang dapat menyebabkan penderitanya berubah ingatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20panas",
+  "related": [],
+  "detailed": false
+}

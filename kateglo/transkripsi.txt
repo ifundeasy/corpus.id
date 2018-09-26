@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transkripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pengalihan tuturan (yang berujud bunyi) ke dalam bentuk tulisan;"
+      },
+      {
+        "type": "desc",
+        "text": "penulisan kata, kalimat, atau teks dengan menggunakan lambang-lambang bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transkripsi",
+  "related": [],
+  "detailed": false
+}

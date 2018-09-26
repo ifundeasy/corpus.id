@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bentos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme yang mendiami daerah dasar perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentos",
+  "related": [],
+  "detailed": false
+}

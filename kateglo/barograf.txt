@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) barometer yang dapat merekam sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barograf",
+  "related": [],
+  "detailed": false
+}

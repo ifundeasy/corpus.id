@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "munci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gundik;"
+      },
+      {
+        "type": "desc",
+        "text": "sundal; pelacur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=munci",
+  "related": [],
+  "detailed": false
+}

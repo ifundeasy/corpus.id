@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cangkir piring",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cangkir dan piring;"
+      },
+      {
+        "type": "desc",
+        "text": "barang tembikar (porselen);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cangkir%20piring",
+  "related": [],
+  "detailed": false
+}

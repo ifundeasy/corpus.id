@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekoci penolong motor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) sekoci penolong yang dipasangi motor penggerak yang dapat bekerja dalam keadaan cuaca buruk di laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekoci%20penolong%20motor",
+  "related": [],
+  "detailed": false
+}

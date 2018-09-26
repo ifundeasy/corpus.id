@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sedikitnya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sekurang-kurangnya; setidak-tidaknya; paling sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "meski sedikit, tetapi ...;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlahnya sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedikitnya",
+  "related": [],
+  "detailed": false
+}

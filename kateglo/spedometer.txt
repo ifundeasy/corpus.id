@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spedometer",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "spidometer"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spedometer",
+  "related": [],
+  "detailed": false
+}

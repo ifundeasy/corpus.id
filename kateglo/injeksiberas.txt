@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "injeksi beras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) penambahan persediaan beras di pasaran oleh pemerintah supaya harga beras tidak naik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=injeksi%20beras",
+  "related": [],
+  "detailed": false
+}

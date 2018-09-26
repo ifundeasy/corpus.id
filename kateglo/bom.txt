@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata yang bentuknya seperti peluru besar yang berisi bahan peledak untuk menimbulkan kerusakan besar;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu penarik pedati (dokar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kayu palang (perintang pelabuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "pelabuhan; pabean;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bom",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengawasan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawasan yang dilakukan oleh pemerintah pusat terhadap segala kegiatan pemerintah daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengawasan%20umum",
+  "related": [],
+  "detailed": false
+}

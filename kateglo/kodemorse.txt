@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kode morse",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kode atau benda berupa titik dan garis sebagai pengganti huruf, angka, dan tanda baca yang digunakan pada pengiriman dan penerimaan berita telekomunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kode%20morse",
+  "related": [],
+  "detailed": false
+}

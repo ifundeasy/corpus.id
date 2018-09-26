@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selinap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelinap"
+      },
+      {
+        "type": "link",
+        "text": "menyelinap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selinap",
+  "related": [],
+  "detailed": false
+}

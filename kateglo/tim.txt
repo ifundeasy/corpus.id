@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok; regu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengetim"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tim",
+  "related": [],
+  "detailed": false
+}

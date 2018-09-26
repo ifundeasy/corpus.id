@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ordonansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan pemerintah; surat pemerintah; peraturan kerajaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ordonansi",
+  "related": [],
+  "detailed": false
+}

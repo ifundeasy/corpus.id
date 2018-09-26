@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serpih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "batuan berasal dari endapan tanah liat (mudah pecah);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sumbing (terpotong) sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "(sobek dsb) kecil-kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "kepingan (serpihan, sobekan, dsb) kecil- kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serpih",
+  "related": [],
+  "detailed": false
+}

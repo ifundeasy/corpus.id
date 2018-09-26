@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stanplat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berhenti kendaraan umum (bus dsb); tempat yang disediakan bagi penumpang untuk menunggu kendaraan umum; terminal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stanplat",
+  "related": [],
+  "detailed": false
+}

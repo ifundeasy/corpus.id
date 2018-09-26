@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecelaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cela (cacat);"
+      },
+      {
+        "type": "desc",
+        "text": "keaiban;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal cela (cacat);"
+      },
+      {
+        "type": "desc",
+        "text": "keaiban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecelaan",
+  "related": [],
+  "detailed": false
+}

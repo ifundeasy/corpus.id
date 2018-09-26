@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reklasifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemecahan suatu transaksi dan dimasukkannya ke dalam berbagai klasifikasi sekunder, biasanya disertai dengan pemindahannya ke berbagai akun sekunder;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reklasifikasi",
+  "related": [],
+  "detailed": false
+}

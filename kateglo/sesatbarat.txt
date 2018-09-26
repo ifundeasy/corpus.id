@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sesat barat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "salah jalan sama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesat%20barat",
+  "related": [],
+  "detailed": false
+}

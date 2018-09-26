@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tujuh",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 7 (Arab) atau VII (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-7 sesudah ke-6 dan sebelum ke-8;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 6 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tujuh",
+  "related": [],
+  "detailed": false
+}

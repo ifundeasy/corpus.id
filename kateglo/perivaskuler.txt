@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perivaskuler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Dok) terletak di sekitar pembuluh darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perivaskuler",
+  "related": [],
+  "detailed": false
+}

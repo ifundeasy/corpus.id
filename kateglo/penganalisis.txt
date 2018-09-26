@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penganalisis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan analisis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penganalisis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengurus buku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencatat keluar-masuknya uang dalam perniagaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengurus%20buku",
+  "related": [],
+  "detailed": false
+}

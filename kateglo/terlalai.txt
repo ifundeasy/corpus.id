@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terlalai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kurang ingat akan (kewajiban dsb); terlupa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sadar lagi (seperti tertidur);"
+      },
+      {
+        "type": "desc",
+        "text": "terhibur (hati, sedih);"
+      },
+      {
+        "type": "desc",
+        "text": "terlambat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terpelihara baik-baik (dibiarkan saja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terlalai",
+  "related": [],
+  "detailed": false
+}

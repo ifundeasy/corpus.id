@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puskesmas induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puskesmas kecamatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puskesmas%20induk",
+  "related": [],
+  "detailed": false
+}

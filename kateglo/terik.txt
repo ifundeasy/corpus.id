@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "amat; sangat (tentang panas matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "sempit dan tegang mengikat (tentang seluar, ikatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penuh padat (tentang sesuatu yang dijejal, diasak, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terik",
+  "related": [],
+  "detailed": false
+}

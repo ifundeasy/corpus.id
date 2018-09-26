@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peronyok",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "terperonyok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peronyok",
+  "related": [],
+  "detailed": false
+}

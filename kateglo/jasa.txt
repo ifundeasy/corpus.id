@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan yang baik atau berguna dan bernilai bagi orang lain, negara, instansi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) perbuatan yang memberikan segala sesuatu yang diperlukan orang lain; layanan; servis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) aktivitas, kemudahan, manfaat, dsb yang dapat dijual kepada orang lain (konsumen) yang menggunakan atau menikmatinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa",
+  "related": [],
+  "detailed": false
+}

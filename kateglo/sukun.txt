@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sukun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bergigi (tentang gusi);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berbiji (untuk buah-buahan yang biasanya berbiji);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon seperti keluih yang buahnya tidak berbiji; Artocarpus incissus;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda hilangnya vokal dalam ejaan bahasa Arab yang diletakkan di atas konsonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sukun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membacakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membaca nyaring (melisankan tulisan) untuk orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "mengucapkan (tentang doa, mantra, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membacakan",
+  "related": [],
+  "detailed": false
+}

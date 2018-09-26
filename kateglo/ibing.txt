@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibing",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengibing"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibing",
+  "related": [],
+  "detailed": false
+}

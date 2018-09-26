@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jasa prasarana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jasa infrastruktur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa%20prasarana",
+  "related": [],
+  "detailed": false
+}

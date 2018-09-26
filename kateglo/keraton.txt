@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keraton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kediaman ratu atau raja; istana raja;"
+      },
+      {
+        "type": "desc",
+        "text": "kerajaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keraton",
+  "related": [],
+  "detailed": false
+}

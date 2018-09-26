@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuluh nadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuluh darah yang mengalirkan darah dari jantung; arteri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuluh%20nadi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "napalm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan kimia (naftena dan palmitat) untuk membuat bensin kental;"
+      },
+      {
+        "type": "desc",
+        "text": "bensin beku-kental untuk mengisi bom pembakar; bom bakar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=napalm",
+  "related": [],
+  "detailed": false
+}

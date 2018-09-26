@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mamahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dimamah;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memamah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mamahan",
+  "related": [],
+  "detailed": false
+}

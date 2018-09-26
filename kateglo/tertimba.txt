@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertimba",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah ditimba atau dapat ditimba;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja ditimba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertimba",
+  "related": [],
+  "detailed": false
+}

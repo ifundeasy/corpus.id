@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahan garapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah pertanian yang dapat digarap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahan%20garapan",
+  "related": [],
+  "detailed": false
+}

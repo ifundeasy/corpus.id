@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serangan langsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serangan yang dilakukan secara langsung dengan meluruskan tangan tanpa didahului dengan gerakan lain (dalam olahraga anggar);"
+      },
+      {
+        "type": "desc",
+        "text": "serangan yang dilakukan secara langsung dengan meluruskan tangan tanpa didahului dengan gerakan lain (dalam olahraga anggar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serangan%20langsung",
+  "related": [],
+  "detailed": false
+}

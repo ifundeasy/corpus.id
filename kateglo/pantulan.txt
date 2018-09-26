@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pantulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan berbalik (arahnya);"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipantulkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantulan",
+  "related": [],
+  "detailed": false
+}

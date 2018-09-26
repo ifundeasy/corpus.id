@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat dalam bentuk cairan kental atau bubur (biasanya dilumaskan pada kulit perut); pasta;"
+      },
+      {
+        "type": "link",
+        "text": "tapal kuda"
+      },
+      {
+        "type": "desc",
+        "text": "pancang (patok) terbuat dari kayu, semen, dsb sebagai tanda batas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapal",
+  "related": [],
+  "detailed": false
+}

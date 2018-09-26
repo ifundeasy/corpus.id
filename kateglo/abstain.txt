@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abstain",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak memberikan suara (dalam pemungutan suara); tidak menentukan sikap;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Olr) ragu-ragu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abstain",
+  "related": [],
+  "detailed": false
+}

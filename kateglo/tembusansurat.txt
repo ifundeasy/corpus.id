@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembusan surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman surat (surat dsb yang dtulis dengan kertas karbon yang diketik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembusan%20surat",
+  "related": [],
+  "detailed": false
+}

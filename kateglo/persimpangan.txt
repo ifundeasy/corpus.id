@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persimpangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal simpang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (jalan dsb) yang berbelok atau bercabang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persimpangan",
+  "related": [],
+  "detailed": false
+}

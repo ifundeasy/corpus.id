@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna afektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makna emotif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20afektif",
+  "related": [],
+  "detailed": false
+}

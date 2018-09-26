@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "erupsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "letusan gunung api;"
+      },
+      {
+        "type": "desc",
+        "text": "semburan sumber minyak dan uap panas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) kelainan pada kulit yang timbul secara cepat dan mendadak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erupsi",
+  "related": [],
+  "detailed": false
+}

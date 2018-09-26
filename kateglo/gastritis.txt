@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gastritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) peradangan selaput lendir pada lambung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gastritis",
+  "related": [],
+  "detailed": false
+}

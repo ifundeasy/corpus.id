@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hangat sekali, lawan dingin;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemarau (tentang musim);"
+      },
+      {
+        "type": "desc",
+        "text": "demam (suhu badannya lebih tinggi daripada biasa);"
+      },
+      {
+        "type": "desc",
+        "text": "terasa seperti terbakar atau terasa dekat dengan api; bersuhu relatif tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "gerah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sangat iri; sakit hati;"
+      },
+      {
+        "type": "desc",
+        "text": "genting sekali; berbahaya (mungkin pecah perang);"
+      },
+      {
+        "type": "desc",
+        "text": "berpengaruh buruk (tentang uang yang mudah memperolehnya, tetapi mudah juga menghabiskannya, uang pinjaman dengan bunga besar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panas",
+  "related": [],
+  "detailed": false
+}

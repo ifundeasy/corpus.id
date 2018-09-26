@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "musikalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kualitas atau keadaan dari sesuatu yang bersifat musik;"
+      },
+      {
+        "type": "desc",
+        "text": "kepekaan, pengetahuan, atau bakat seseorang terhadap musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musikalitas",
+  "related": [],
+  "detailed": false
+}

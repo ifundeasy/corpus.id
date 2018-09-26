@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pangsa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petak-petak dalam buah-buahan (seperti dalam buah durian); ulas;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian; jatah; jumlah banyaknya sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "garis-garis pada tapak tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "urat pada batu pualam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangsa",
+  "related": [],
+  "detailed": false
+}

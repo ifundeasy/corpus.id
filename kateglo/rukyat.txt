@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rukyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "perihal melihat bulan tanggal satu untuk menentukan hari permulaan dan penghabisan puasa Ramadan;"
+      },
+      {
+        "type": "desc",
+        "text": "penglihatan; pengamatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rukyat",
+  "related": [],
+  "detailed": false
+}

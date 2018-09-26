@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal yang dibuat khusus untuk mengangkut barang cair (seperti minyak dsb) tanpa dikemas; kapal tangki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanker",
+  "related": [],
+  "detailed": false
+}

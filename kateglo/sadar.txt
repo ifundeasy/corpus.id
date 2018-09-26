@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sadar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "insaf; merasa; tahu dan mengerti;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "ingat kembali (dari pingsan dsb); siuman;"
+      },
+      {
+        "type": "desc",
+        "text": "bangun (dari tidur);"
+      },
+      {
+        "type": "desc",
+        "text": "dada; bagian depan;"
+      },
+      {
+        "type": "desc",
+        "text": "permulaan; pendahuluan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sadar",
+  "related": [],
+  "detailed": false
+}

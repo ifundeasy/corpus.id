@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar penjual",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kondisi pasar yang menguntungkan penjual karena permintaan melebihi penawaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20penjual",
+  "related": [],
+  "detailed": false
+}

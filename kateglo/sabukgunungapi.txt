@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sabuk gunung api",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "zona atau jalur gunung api; sebarang gunung api dalam jalur, pada umumnya di tepian benua atau daerah samudra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sabuk%20gunung%20api",
+  "related": [],
+  "detailed": false
+}

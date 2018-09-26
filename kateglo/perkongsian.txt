@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkongsian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persekutuan (dagang); perseroan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal berkongsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkongsian",
+  "related": [],
+  "detailed": false
+}

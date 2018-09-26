@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "divisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan militer yang besar (jumlahnya sampai puluhan ribu) yang biasanya lengkap dengan peralatannya, dipimpin oleh perwira tinggi (biasanya mayor jenderal);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok dalam suatu organisasi (sepak bola dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari suatu perusahaan besar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) satuan taksonomi dalam klasifikasi tumbuhan, berperingkat antara kelas dan dunia, namanya berakhiran -phyta, seperti Bryophyta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=divisi",
+  "related": [],
+  "detailed": false
+}

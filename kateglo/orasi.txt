@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato;"
+      },
+      {
+        "type": "desc",
+        "text": "pidato pengukuhan (guru besar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "khotbah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orasi",
+  "related": [],
+  "detailed": false
+}

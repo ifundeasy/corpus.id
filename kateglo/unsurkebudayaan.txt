@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unsur kebudayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian suatu kebudayaan yang dapat digunakan sebagai satuan analisis tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unsur%20kebudayaan",
+  "related": [],
+  "detailed": false
+}

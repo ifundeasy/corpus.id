@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga nominal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga menurut yang tertulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20nominal",
+  "related": [],
+  "detailed": false
+}

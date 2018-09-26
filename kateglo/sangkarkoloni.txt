@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sangkar koloni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sangkar yang dapat menampung beberapa ekor unggas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangkar%20koloni",
+  "related": [],
+  "detailed": false
+}

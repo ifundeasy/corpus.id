@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bensin campur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bensin yang dicampur dengan minyak pelumas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bensin%20campur",
+  "related": [],
+  "detailed": false
+}

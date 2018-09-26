@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengairan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan yang bertalian dengan penyediaan air untuk pertanian dengan bendungan, bandar, terusan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengairi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengairan",
+  "related": [],
+  "detailed": false
+}

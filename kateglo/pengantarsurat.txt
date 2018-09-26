@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengantar surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai (pos dsb) yang pekerjaannya mengantarkan surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengantar%20surat",
+  "related": [],
+  "detailed": false
+}

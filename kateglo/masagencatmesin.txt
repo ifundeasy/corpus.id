@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa gencat mesin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu bagi mesin yang tersedia untuk produksi atau pekerjaan sampingan yang tidak dimanfaatkan karena kekurangan pekerjaan, bahan, atau karyawan, termasuk di dalamnya waktu pabrik tidak dalam keseimbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20gencat%20mesin",
+  "related": [],
+  "detailed": false
+}

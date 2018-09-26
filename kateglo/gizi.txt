@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gizi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat makanan pokok yang diperlukan bagi pertumbuhan dan kesehatan badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gizi",
+  "related": [],
+  "detailed": false
+}

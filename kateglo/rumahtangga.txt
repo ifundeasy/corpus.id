@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumah tangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang berkenaan dengan urusan kehidupan dalam rumah (seperti hal belanja rumah);"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan keluarga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20tangga",
+  "related": [],
+  "detailed": false
+}

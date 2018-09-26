@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akumulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumpulan; penimbunan; penghimpunan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) tambahan periodik suatu dana dari bunga atau tambahan lain pada tambahan laba neto pada laba yang ditahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akumulasi",
+  "related": [],
+  "detailed": false
+}

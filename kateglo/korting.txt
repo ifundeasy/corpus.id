@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) potongan harga; rabat; diskon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korting",
+  "related": [],
+  "detailed": false
+}

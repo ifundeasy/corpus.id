@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertentu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah tentu; sudah pasti (jelas, terang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dapat dipastikan atau ditentukan (terhadap sesuatu yang tidak perlu disebutkan identitasnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertentu",
+  "related": [],
+  "detailed": false
+}

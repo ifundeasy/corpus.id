@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "kendaraan bermotor beroda tiga (hampir sama dengan bemo);"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) demonstrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demo",
+  "related": [],
+  "detailed": false
+}

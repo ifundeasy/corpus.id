@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menaruh harga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengajukan penawaran harga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menaruh%20harga",
+  "related": [],
+  "detailed": false
+}

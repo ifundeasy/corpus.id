@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kering",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak basah; tidak berair; tidak lembap; tidak ada airnya lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengeluarkan susu atau tidak diperah lagi susunya (tentang sapi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sudah habis atau kosong (tentang uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sudah tidak mendapat haid lagi; sudah tidak datang bulan lagi (tentang perempuan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tersirap (tentang darah); kaget; keheranan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi bel berdering; tiruan bunyi \"kring, kring\";"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kering",
+  "related": [],
+  "detailed": false
+}

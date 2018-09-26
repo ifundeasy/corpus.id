@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tercantum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tertera, termuat (dalam acara, karangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "dicantumkan;"
+      },
+      {
+        "type": "desc",
+        "text": "terkandung dalam hati (cita-cita dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tercantum",
+  "related": [],
+  "detailed": false
+}

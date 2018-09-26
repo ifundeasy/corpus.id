@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jabal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "gunung atau bukit (terdapat dalam nama, seperti -- Kaf; -- Labnun);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menjabal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jabal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyajian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyajikan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaturan penampilan (tentang pertunjukan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cara menyampaikan pemberitaan karangan, makalah, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyajian",
+  "related": [],
+  "detailed": false
+}

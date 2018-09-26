@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persembahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadiah; pemberian (kepada orang yang terhormat);"
+      },
+      {
+        "type": "desc",
+        "text": "pemberitahuan (dengan hormat);"
+      },
+      {
+        "type": "desc",
+        "text": "yang dihidangkan atau dipertunjukkan (seperti permainan, film);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persembahan",
+  "related": [],
+  "detailed": false
+}

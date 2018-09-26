@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "likuiditas bank",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) kemampuan bank setiap waktu untuk membayar utang jangka pendeknya apabila tiba-tiba ditagih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=likuiditas%20bank",
+  "related": [],
+  "detailed": false
+}

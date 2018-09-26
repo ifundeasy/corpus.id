@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrowatt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan tenaga listrik yang besarnya sama dengan sepersejuta watt;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrowatt",
+  "related": [],
+  "detailed": false
+}

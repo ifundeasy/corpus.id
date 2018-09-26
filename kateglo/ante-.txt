@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "ante-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "sebelum;"
+      },
+      {
+        "type": "desc",
+        "text": "di depan; muka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ante-",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepadaan penjelasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "tuntutan agar gramatika yang dipaparkan sesuai dengan teori bahasa dan pemerolehan bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat kepadaan gramatika atau teori yang berhasil memberikan pilihan yang masuk akal atas beberapa gramatika yang sama-sama memiliki kepadaan deskriptif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepadaan%20penjelasan",
+  "related": [],
+  "detailed": false
+}

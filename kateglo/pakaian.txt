@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang apa yang dipakai (baju, celana, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian",
+  "related": [],
+  "detailed": false
+}

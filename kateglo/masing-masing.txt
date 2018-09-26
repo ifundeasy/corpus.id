@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masing-masing",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "seorang-seorang; sendiri-sendiri; tiap-tiap orang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "satu dari dua atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masing-masing",
+  "related": [],
+  "detailed": false
+}

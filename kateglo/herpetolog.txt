@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herpetolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli herpetologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herpetolog",
+  "related": [],
+  "detailed": false
+}

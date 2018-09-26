@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembang tengahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tembang yang kata-katanya bersumber dari bahasa Jawa Tengahan;"
+      },
+      {
+        "type": "desc",
+        "text": "tembang yang kata-katanya bersumber dari bahasa Jawa Tengahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembang%20tengahan",
+  "related": [],
+  "detailed": false
+}

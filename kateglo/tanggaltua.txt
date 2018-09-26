@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanggal tua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akhir bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggal%20tua",
+  "related": [],
+  "detailed": false
+}

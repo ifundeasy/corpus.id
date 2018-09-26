@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketinggian kondensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) ketinggian permukaan, tempat udara menjadi jenuh karena proses tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketinggian%20kondensasi",
+  "related": [],
+  "detailed": false
+}

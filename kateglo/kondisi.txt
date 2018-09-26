@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kondisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persyaratan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balik nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mengganti nama pada akta atau surat yang menyatakan hak milik (biasanya di hadapan notaris);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balik%20nama",
+  "related": [],
+  "detailed": false
+}

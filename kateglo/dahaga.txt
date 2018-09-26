@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dahaga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "haus (berasa kering pada kerongkongan dan ingin minum);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) rasa haus; rasa ingin minum (karena kerongkongan terasa kering);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlawanan (terhadap perintah); daga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dahaga",
+  "related": [],
+  "detailed": false
+}

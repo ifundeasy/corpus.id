@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjamuan resmi yang diadakan untuk menghormati tamu undangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kue, seperti tarcis yang manis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangket",
+  "related": [],
+  "detailed": false
+}

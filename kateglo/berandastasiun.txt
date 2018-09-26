@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beranda stasiun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peron; serambi stasiun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beranda%20stasiun",
+  "related": [],
+  "detailed": false
+}

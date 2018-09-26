@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "badik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang berbentuk pisau belati bermata satu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membadik"
+      },
+      {
+        "type": "desc",
+        "text": "putik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badik",
+  "related": [],
+  "detailed": false
+}

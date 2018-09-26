@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlakuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan yang dikenakan terhadap sesuatu atau orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlakuan",
+  "related": [],
+  "detailed": false
+}

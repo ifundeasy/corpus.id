@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menetapi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menepati (janji dsb); menunaikan (nazar, niat, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi (kewajiban dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menetapi",
+  "related": [],
+  "detailed": false
+}

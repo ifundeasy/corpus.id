@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "merek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang dikenakan oleh pengusaha (pabrik, produsen, dsb) pada barang yang dihasilkan sebagai tanda pengenal; cap (tanda) yang menjadi pengenal untuk menyatakan nama dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kegagahan; keunggulan; kualitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pedoman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menunjukkan arah atau mata angin (biasanya seperti jam yang berjarum besi berani); kompas;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan ketentuan dasar yang memberi arah bagaimana sesuatu harus dilakukan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal (pokok) yang menjadi dasar (pegangan, petunjuk, dsb) untuk menentukan atau melaksanakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin (yang menerangkan cara menjalankan atau mengurus perkumpulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedoman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skizofrenia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit jiwa yang ditandai oleh ketidakacuhan, halusinasi, waham untuk menghukum, dan merasa berkuasa, tetapi daya pikir tidak berkurang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skizofrenia",
+  "related": [],
+  "detailed": false
+}

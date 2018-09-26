@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "substansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "watak yang sebenarnya dari sesuatu; isi; pokok; inti;"
+      },
+      {
+        "type": "desc",
+        "text": "unsur; zat;"
+      },
+      {
+        "type": "desc",
+        "text": "kekayaan; harta;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) medium yang dipakai untuk mengungkapkan bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=substansi",
+  "related": [],
+  "detailed": false
+}

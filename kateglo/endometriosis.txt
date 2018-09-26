@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endometriosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan patologis terdapatnya jaringan selaput lendir rahim di luar rongga uterus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endometriosis",
+  "related": [],
+  "detailed": false
+}

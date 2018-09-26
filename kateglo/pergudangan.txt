@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergudangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal simpan-menyimpan barang dalam gudang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat atau daerah gudang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergudangan",
+  "related": [],
+  "detailed": false
+}

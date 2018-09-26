@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stratosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan udara di antara 10— 60 km di atas permukaan bumi; lapisan udara di atas troposfer;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah atmosfer yang terletak antara tropopause dan stratopause, di dalam daerah ini makin ke atas suhunya makin tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stratosfer",
+  "related": [],
+  "detailed": false
+}

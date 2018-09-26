@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hantaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga yang menyalurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesiapan sebuah konduktor menyalurkan arus listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "daya tahan listrik timbal balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hantaran",
+  "related": [],
+  "detailed": false
+}

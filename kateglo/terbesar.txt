@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbesar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "paling besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbesar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "status",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan atau kedudukan (orang, badan, dsb) dalam hubungan dengan masyarakat di sekelilingnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=status",
+  "related": [],
+  "detailed": false
+}

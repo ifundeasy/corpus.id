@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melihat atau mengetahui sendiri suatu peristiwa (kejadian);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dimintai hadir pada suatu peristiwa yang dianggap mengetahui kejadian tersebut agar pada suatu ketika, apabila diperlukan, dapat memberikan keterangan yang membenarkan bahwa peristiwa itu sungguh-sungguh terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memberikan keterangan di muka hakim untuk kepentingan pendakwa atau terdakwa;"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan (bukti pernyataan) yang diberikan oleh orang yang melihat atau mengetahui;"
+      },
+      {
+        "type": "desc",
+        "text": "bukti kebenaran;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dapat memberikan keterangan guna kepentingan penyidikan penuntutan dan peradilan tentang suatu perkara pidana yang didengarnya, dilihatnya, atau dialaminya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saksi",
+  "related": [],
+  "detailed": false
+}

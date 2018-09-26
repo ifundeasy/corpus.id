@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keresidenan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah residen;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor residen;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang dikepalai oleh residen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keresidenan",
+  "related": [],
+  "detailed": false
+}

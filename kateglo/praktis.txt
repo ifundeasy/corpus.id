@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "praktis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdasarkan praktik;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah dan senang memakainya (menjalankan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=praktis",
+  "related": [],
+  "detailed": false
+}

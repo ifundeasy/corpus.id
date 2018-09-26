@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkuras",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(telah) dikuras (tentang kolam dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "telah dikeluarkan atau dihabiskan benar-benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkuras",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata anggaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tertentu pada anggaran belanja (yang menunjukkan untuk apa uang tertentu kelak dibelanjakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20anggaran",
+  "related": [],
+  "detailed": false
+}

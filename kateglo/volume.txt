@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "volume",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "isi atau besarnya benda dalam ruang;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat kenyaringan atau kekuatan (tentang bunyi, suara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "banyaknya; besarnya; bobot (tentang ekspor, pekerjaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=volume",
+  "related": [],
+  "detailed": false
+}

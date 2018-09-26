@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cacak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tegak lurus (tentang barang panjang yang dipancangkan di tanah);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencacak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacak",
+  "related": [],
+  "detailed": false
+}

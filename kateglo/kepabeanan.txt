@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepabeanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal yang bertalian dengan pabean;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepabeanan",
+  "related": [],
+  "detailed": false
+}

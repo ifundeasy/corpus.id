@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "judul;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala gagang telepon;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyundul bola dengan kepala (pada permainan sepak bola dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mengeluarkan darah dengan cara menyungkupkan mangkuk yang dipanaskan (dengan meletakkan pada bagian tubuh, biasanya di kepala yang akan disedot darahnya); membekam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kop",
+  "related": [],
+  "detailed": false
+}

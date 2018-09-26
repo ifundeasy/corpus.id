@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus mode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran mode yang sedang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20mode",
+  "related": [],
+  "detailed": false
+}

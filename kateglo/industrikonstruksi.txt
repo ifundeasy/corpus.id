@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri konstruksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang berhubungan dengan rancang bangun (bangunan, gedung, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20konstruksi",
+  "related": [],
+  "detailed": false
+}

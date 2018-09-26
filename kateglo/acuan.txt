@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "acuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cetakan (kue, peluru, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rujukan; referensi;"
+      },
+      {
+        "type": "desc",
+        "text": "pola dasar penafsiran yang ditetapkan terlebih dahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acuan",
+  "related": [],
+  "detailed": false
+}

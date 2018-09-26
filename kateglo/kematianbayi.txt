@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kematian bayi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kematian bayi yang berumur kurang dari satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kematian%20bayi",
+  "related": [],
+  "detailed": false
+}

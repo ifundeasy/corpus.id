@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) bagian yang paling dalam dari lautan yang mempunyai kedalaman lebih dari 400 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abis",
+  "related": [],
+  "detailed": false
+}

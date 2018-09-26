@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat haus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat penawar dahaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20haus",
+  "related": [],
+  "detailed": false
+}

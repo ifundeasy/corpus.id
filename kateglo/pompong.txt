@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pompong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cumi-cumi kecil yang beracun;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "kepompong"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "memompong"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pompong",
+  "related": [],
+  "detailed": false
+}

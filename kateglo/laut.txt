@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "-- Laut Merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak jual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keleluasaan (hak) yang diberikan produsen kepada distributor untuk menjual produk-produknya dalam wilayah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20jual",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedai kopi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedai tempat menyediakan minuman (misal kopi, teh) dan makanan kecil (misal gorengan, kue-kue, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedai%20kopi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enam",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 6 (Arab) atau VI (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-6 sesudah ke-5 dan sebelum ke-7;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 5 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diafragma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekat antara rongga dada dan rongga perut (pada tubuh);"
+      },
+      {
+        "type": "desc",
+        "text": "dinding tipis berlubang kecil bundar, untuk mengatur masuknya cahaya (pada teropong atau kamera);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diafragma",
+  "related": [],
+  "detailed": false
+}

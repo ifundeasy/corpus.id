@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian kepandaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk ujian atau pertanyaan untuk mengukur kecakapan murid sebagai hasil proses belajar-mengajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20kepandaian",
+  "related": [],
+  "detailed": false
+}

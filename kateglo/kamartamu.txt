@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar tamu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat menerima tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20tamu",
+  "related": [],
+  "detailed": false
+}

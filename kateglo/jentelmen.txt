@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jentelmen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ing)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berpendidikan baik (sopan, berbudi bahasa baik);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) bersifat kesatria; berani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jentelmen",
+  "related": [],
+  "detailed": false
+}

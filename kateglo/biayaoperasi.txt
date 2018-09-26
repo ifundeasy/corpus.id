@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya operasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) semua pengeluaran yang langsung digunakan untuk produksi atau pembelian barang yang diperdagangkan, termasuk biaya umum, biaya penjualan, biaya administrasi, dan bunga pinjaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20operasi",
+  "related": [],
+  "detailed": false
+}

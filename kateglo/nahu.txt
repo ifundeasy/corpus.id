@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nahu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "tata bahasa (menyangkut tata kalimat dan tata bentuk); gramatika;"
+      },
+      {
+        "type": "desc",
+        "text": "sintaksis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nahu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "obituarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita kematian seseorang yang dimuat dalam surat kabar dsb, biasanya disertai riwayat hidup singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obituarium",
+  "related": [],
+  "detailed": false
+}

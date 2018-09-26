@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal sempit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang diartikulasikan dengan mulut terbuka sedikit dan dengan lidah diangkat ke depan atau belakang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20sempit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelek",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kelek-kelek"
+      },
+      {
+        "type": "link",
+        "text": "kelek-kelekan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelek",
+  "related": [],
+  "detailed": false
+}

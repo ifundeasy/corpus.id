@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umpatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mengumpat;"
+      },
+      {
+        "type": "desc",
+        "text": "makian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umpatan",
+  "related": [],
+  "detailed": false
+}

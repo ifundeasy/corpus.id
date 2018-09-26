@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "digit pada bilangan biner; digit biner;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bit",
+  "related": [],
+  "detailed": false
+}

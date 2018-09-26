@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sintaksis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pengaturan dan hubungan kata dengan kata atau dengan satuan lain yang lebih besar;"
+      },
+      {
+        "type": "desc",
+        "text": "cabang linguistik tentang susunan kalimat dan bagiannya; ilmu tata kalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "sub-sistem bahasa yang mencakup hal tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sintaksis",
+  "related": [],
+  "detailed": false
+}

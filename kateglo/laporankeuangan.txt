@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan keuangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan mengenai data keuangan yang berasal dari pembukuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20keuangan",
+  "related": [],
+  "detailed": false
+}

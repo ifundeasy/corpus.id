@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemberitaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memberitakan (melaporkan, memaklumkan);"
+      },
+      {
+        "type": "desc",
+        "text": "perkabaran; maklumat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemberitaan",
+  "related": [],
+  "detailed": false
+}

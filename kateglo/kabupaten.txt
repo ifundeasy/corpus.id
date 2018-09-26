@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabupaten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah swatantra tingkat II yang dikepalai oleh bupati, setingkat dengan kota madya, merupakan bagian langsung dari provinsi yang terdiri atas beberapa kecamatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor tempat kerja bupati;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah tempat tinggal bupati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabupaten",
+  "related": [],
+  "detailed": false
+}

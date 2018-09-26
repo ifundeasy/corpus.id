@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sudu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paruh yang lebar (seperti paruh itik, angsa);"
+      },
+      {
+        "type": "desc",
+        "text": "sendok besar (dari tempurung, kaleng, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyedot (dari daun pisang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(El) daun mekanis dari suatu roda gerak turbin yang dijalankan oleh air, uap, atau angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudu",
+  "related": [],
+  "detailed": false
+}

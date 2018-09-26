@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelakon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelaku; pemeran; pemain dalam sandiwara; tokoh dalam cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelakon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiolokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelacakan atau penentuan posisi dan jalannya benda-benda berjarak jauh dengan radar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiolokasi",
+  "related": [],
+  "detailed": false
+}

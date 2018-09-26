@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyundul",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menundukkan kepala untuk menumbuk benda yang ada di atasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "menangkis bola dengan kepala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyundul",
+  "related": [],
+  "detailed": false
+}

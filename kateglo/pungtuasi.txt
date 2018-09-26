@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pungtuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda grafis yang digunakan secara konvensional untuk memisahkan pelbagai bagian dari satuan bahasa tertulis; tanda baca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pungtuasi",
+  "related": [],
+  "detailed": false
+}

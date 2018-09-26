@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kiloton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 1.000 ton (disingkat kt);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiloton",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dinding",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penutup sisi samping (penyekat) ruang, rumah, bilik, dsb (dibuat) dari papan, anyaman bambu, tembok, dsb;"
+      },
+      {
+        "type": "link",
+        "text": "mendinding"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinding",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dalal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "perantara jual beli; makelar; pialang;"
+      },
+      {
+        "type": "desc",
+        "text": "wakil penjual; agen;"
+      },
+      {
+        "type": "desc",
+        "text": "potongan keuntungan untuk agen;"
+      },
+      {
+        "type": "desc",
+        "text": "perantara dalam penyelesaian pertikaian;"
+      },
+      {
+        "type": "desc",
+        "text": "penunjuk jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dalal",
+  "related": [],
+  "detailed": false
+}

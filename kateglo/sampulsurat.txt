@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sampul surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "amplop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampul%20surat",
+  "related": [],
+  "detailed": false
+}

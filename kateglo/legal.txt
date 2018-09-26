@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesuai dengan peraturan perundang-undangan atau hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legal",
+  "related": [],
+  "detailed": false
+}

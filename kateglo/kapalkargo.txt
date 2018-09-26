@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kapal kargo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kapal%20kargo",
+  "related": [],
+  "detailed": false
+}

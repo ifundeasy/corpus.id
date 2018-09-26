@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ditransitif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) verba yang menghendaki dua objek gramatikal, satu objek langsung dan satu objek taklangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ditransitif",
+  "related": [],
+  "detailed": false
+}

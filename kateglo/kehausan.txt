@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehausan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menderita dahaga;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki) keinginan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehausan",
+  "related": [],
+  "detailed": false
+}

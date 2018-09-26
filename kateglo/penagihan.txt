@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penagihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menagih; permintaan (peringatan dsb) supaya membayar utang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tuntutan supaya memenuhi janji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penagihan",
+  "related": [],
+  "detailed": false
+}

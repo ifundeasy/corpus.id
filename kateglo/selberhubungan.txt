@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sel berhubungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sel-sel yang saling berhubungan dengan jembatan sel, plasma, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sel%20berhubungan",
+  "related": [],
+  "detailed": false
+}

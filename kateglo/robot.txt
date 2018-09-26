@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "robot",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "link",
+        "text": "merobot"
+      },
+      {
+        "type": "desc",
+        "text": "alat berupa orang-orangan dsb yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang menurut saja perintah orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) orang yang bertindak tanpa pikiran dan perasaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=robot",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memesan buku",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "minta supaya dikirim buku (hendak membeli buku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memesan%20buku",
+  "related": [],
+  "detailed": false
+}

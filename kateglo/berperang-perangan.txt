@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berperang-perangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlatih perang;"
+      },
+      {
+        "type": "desc",
+        "text": "bermain perang-perangan;"
+      },
+      {
+        "type": "desc",
+        "text": "berlatih perang;"
+      },
+      {
+        "type": "desc",
+        "text": "bermain perang-perangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berperang-perangan",
+  "related": [],
+  "detailed": false
+}

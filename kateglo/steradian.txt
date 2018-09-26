@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "steradian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan sudut tiga dimensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=steradian",
+  "related": [],
+  "detailed": false
+}

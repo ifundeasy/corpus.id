@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unsur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian terkecil dari suatu benda; bagian benda yang tidak dapat dibagi-bagi lagi dengan proses kimia; bahan asal; zat asal; elemen;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok kecil (dari kelompok yang lebih besar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unsur",
+  "related": [],
+  "detailed": false
+}

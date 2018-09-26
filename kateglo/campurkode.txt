@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "campur kode",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "penggunaan satuan bahasa dari satu bahasa ke bahasa lain untuk memperluas gaya bahasa atau ragam bahasa, pemakaian kata, klausa, idiom, sapaan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "interferensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=campur%20kode",
+  "related": [],
+  "detailed": false
+}

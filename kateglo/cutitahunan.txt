@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuti tahunan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cuti selama 12 hari kerja yang diberikan kepada pegawai atau karyawan setiap tahun, yang dapat diambil beberapa kali, paling sedikit 3 hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuti%20tahunan",
+  "related": [],
+  "detailed": false
+}

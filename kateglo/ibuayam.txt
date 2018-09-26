@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ibu ayam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "induk ayam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu%20ayam",
+  "related": [],
+  "detailed": false
+}

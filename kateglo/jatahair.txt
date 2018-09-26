@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jatah air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya air yang diperlukan untuk memenuhi syarat pengairan lahan per satuan luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jatah%20air",
+  "related": [],
+  "detailed": false
+}

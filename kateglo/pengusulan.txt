@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengusulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengusulkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeriksaan; penyelidikan; pengusutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengusulan",
+  "related": [],
+  "detailed": false
+}

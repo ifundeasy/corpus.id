@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baharu",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "baru"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan laut, Drepane punctata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baharu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan kejuruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelatihan atau pendidikan yang memberikan keterampilan tertentu kepada siswa untuk pekerjaan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20kejuruan",
+  "related": [],
+  "detailed": false
+}

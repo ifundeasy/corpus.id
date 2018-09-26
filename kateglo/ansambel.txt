@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ansambel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pemain musik (penyanyi) yang bermain bersama secara tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ansambel",
+  "related": [],
+  "detailed": false
+}

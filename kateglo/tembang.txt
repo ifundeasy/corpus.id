@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tembang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "syair yang diberi berlagu (untuk dinyanyikan); nyanyian;"
+      },
+      {
+        "type": "desc",
+        "text": "puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "syair yang diberi berlagu (untuk dinyanyikan); nyanyian;"
+      },
+      {
+        "type": "desc",
+        "text": "puisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembang",
+  "related": [],
+  "detailed": false
+}

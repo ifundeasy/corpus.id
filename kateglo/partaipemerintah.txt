@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "partai politik yang mendukung pemerintah yang sedang berkuasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20pemerintah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nasihat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajaran atau pelajaran baik; anjuran (petunjuk, peringatan, teguran) yang baik;"
+      },
+      {
+        "type": "desc",
+        "text": "ibarat yang terkandung dalam suatu cerita dsb; moral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasihat",
+  "related": [],
+  "detailed": false
+}

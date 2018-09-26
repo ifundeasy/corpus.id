@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tidak disebutkan namanya (orang, benda, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(untuk menyebutkan) sesuatu yang namanya terlupa atau tidak diketahui;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anu",
+  "related": [],
+  "detailed": false
+}

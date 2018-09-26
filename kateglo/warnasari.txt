@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warna sari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bermacam-macam bunga;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan bermacam-macam karangan yang penting, menarik atau bagus-bagus; bunga rampai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warna%20sari",
+  "related": [],
+  "detailed": false
+}

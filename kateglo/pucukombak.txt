@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pucuk ombak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala ombak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pucuk%20ombak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi (suara) nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "kumandang; gema;"
+      },
+      {
+        "type": "desc",
+        "text": "bunyi (suara) riuh rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "luar biasa; amat elok (besar dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terang; nyata;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(kl) sebab, karena;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahana",
+  "related": [],
+  "detailed": false
+}

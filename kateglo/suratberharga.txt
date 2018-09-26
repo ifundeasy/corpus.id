@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat berharga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat bernilai uang yang dapat diperjualbelikan atau digunakan sebagai agunan saham;"
+      },
+      {
+        "type": "desc",
+        "text": "bukti penyertaan modal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20berharga",
+  "related": [],
+  "detailed": false
+}

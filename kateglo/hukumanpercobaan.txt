@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukuman percobaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukuman penjara yang tidak dijalani di lembaga pemasyarakatan, tetapi selama dalam masa percobaan itu terpidana tidak boleh melakukan hal-hal yang bertentangan dengan hukum, apabila dalam masa percobaan itu terpidana melawan hukum, hukuman yang diterimanya harus dijalani di lembaga pemasyarakatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukuman%20percobaan",
+  "related": [],
+  "detailed": false
+}

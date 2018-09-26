@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "individualitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan atau sifat khusus sebagai individu;"
+      },
+      {
+        "type": "desc",
+        "text": "ciri-ciri yang dimiliki seseorang yang membedakannya dari orang lain; watak kepribadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=individualitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peron bus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelataran pada stasiun bus, tempat penumpang menunggu dan turun naik bus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peron%20bus",
+  "related": [],
+  "detailed": false
+}

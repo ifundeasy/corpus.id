@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasak nasi (dalam periuk, dengan direbus saja tidak dikukus);"
+      },
+      {
+        "type": "desc",
+        "text": "memasak dengan merebus atau mengukus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanak",
+  "related": [],
+  "detailed": false
+}

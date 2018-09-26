@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spekulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat atau dugaan yang tidak berdasarkan kenyataan; tindakan yang bersifat untung-untungan;"
+      },
+      {
+        "type": "desc",
+        "text": "(perihal) membeli atau menjual sesuatu yang mungkin mendatangkan untung besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spekulasi",
+  "related": [],
+  "detailed": false
+}

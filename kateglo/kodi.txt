@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan jumlah 20 potong, helai, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kodi",
+  "related": [],
+  "detailed": false
+}

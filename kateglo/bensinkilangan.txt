@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bensin kilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bensin hasil pemurnian minyak bumi pada instalasi industri minyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bensin%20kilangan",
+  "related": [],
+  "detailed": false
+}

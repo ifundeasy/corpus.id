@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "pupuk buatan untuk menyuburkan tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah tempat bersama yang sifatnya sementara atau sebagai tempat menginap tamu (di kalangan militer untuk tempat tinggal perwira yang belum berkeluarga);"
+      },
+      {
+        "type": "desc",
+        "text": "lubang ayakan berbentuk bujur sangkar;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran yang menunjukkan banyaknya lubang yang terdapat pada ayakan setiap satu inci linier;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mes",
+  "related": [],
+  "detailed": false
+}

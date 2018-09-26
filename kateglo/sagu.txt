@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sagu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang hati batangnya dapat dibuat tepung (kebanyakan jenis Metroxylon);"
+      },
+      {
+        "type": "desc",
+        "text": "hati batang pohon palem (seperti enau, rumbia);"
+      },
+      {
+        "type": "desc",
+        "text": "tepung (dari pati hati batang enau, rumbia, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sagu",
+  "related": [],
+  "detailed": false
+}

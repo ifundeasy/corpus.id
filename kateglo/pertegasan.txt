@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertegasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembatasan arti; definisi;"
+      },
+      {
+        "type": "desc",
+        "text": "penentuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertegasan",
+  "related": [],
+  "detailed": false
+}

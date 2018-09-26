@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotes",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengotes"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotes",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "risalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "yang dikirimkan (surat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "surat edaran (selebaran);"
+      },
+      {
+        "type": "desc",
+        "text": "karangan ringkas mengenai suatu masalah dalam ilmu pengetahuan;"
+      },
+      {
+        "type": "desc",
+        "text": "laporan rapat; notula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=risalah",
+  "related": [],
+  "detailed": false
+}

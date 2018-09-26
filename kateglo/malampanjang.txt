@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "malam panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "malam Minggu;"
+      },
+      {
+        "type": "desc",
+        "text": "malam menjelang hari libur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malam%20panjang",
+  "related": [],
+  "detailed": false
+}

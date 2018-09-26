@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oven",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat pembakaran (pemanggangan) kue atau roti;"
+      },
+      {
+        "type": "desc",
+        "text": "tungku; dapur; perapian;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pembakaran dengan panas yang tinggi (seperti pembakaran kapur, batu bata); tanur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oven",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabernakel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "lemari kecil yang diletakkan di tengah altar untuk menyimpan hosti;"
+      },
+      {
+        "type": "desc",
+        "text": "kemah tempat penyimpanan peti perjanjian sebelum Baitullah dibangun di Yerusalem;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat ibadah orang Yahudi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabernakel",
+  "related": [],
+  "detailed": false
+}

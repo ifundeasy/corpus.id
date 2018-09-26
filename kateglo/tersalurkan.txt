@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tersalurkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat disalurkan;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dijual di pasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tersalurkan",
+  "related": [],
+  "detailed": false
+}

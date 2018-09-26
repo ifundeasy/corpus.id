@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koloid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat yang berpencar dalam zat pelarut sebagai butir yang lebih besar daripada molekul, tetapi tidak dapat dilihat dengan mata (harus dengan mikroskop);"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) zat yang lekat seperti getah atau lem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koloid",
+  "related": [],
+  "detailed": false
+}

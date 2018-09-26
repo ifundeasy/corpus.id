@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diabetes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit yang ditandai dengan sekresi dan ekskresi urine dalam jumlah yang banyak, terutama diabetes melitus; penyakit kencing manis; penyakit gula;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diabetes",
+  "related": [],
+  "detailed": false
+}

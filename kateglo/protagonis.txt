@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protagonis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "tokoh utama dalam cerita rekaan;"
+      },
+      {
+        "type": "desc",
+        "text": "penganjur suatu paham;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) otot yang dapat mengerut sehingga menyebabkan suatu gerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protagonis",
+  "related": [],
+  "detailed": false
+}

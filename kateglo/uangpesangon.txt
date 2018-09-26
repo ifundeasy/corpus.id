@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang pesangon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan kepada penghuni rumah (penyewa atau pengontrak) yang disuruh pindah;"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang diberikan kepada pegawai (buruh, karyawan) yang berhenti atau diberhentikan karena perusahaan (pabrik) tutup dsb; uang lepas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20pesangon",
+  "related": [],
+  "detailed": false
+}

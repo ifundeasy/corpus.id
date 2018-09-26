@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahi minyak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "endapan pada minyak;"
+      },
+      {
+        "type": "desc",
+        "text": "ampas dalam pembuatan minyak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahi%20minyak",
+  "related": [],
+  "detailed": false
+}

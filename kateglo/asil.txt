@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat beras;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pelarian;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah perawatan;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah sakit gila;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asil",
+  "related": [],
+  "detailed": false
+}

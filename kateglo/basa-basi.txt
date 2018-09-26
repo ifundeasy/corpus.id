@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "basa-basi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat sopan santun; tata krama pergaulan;"
+      },
+      {
+        "type": "desc",
+        "text": "ungkapan yang digunakan hanya untuk sopan santun dan tidak untuk menyampaikan informasi, misal kalimat “apa kabar?” yang diucapkan apabila kita bertemu dengan kawan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal menggunakan ungkapan semacam itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basa-basi",
+  "related": [],
+  "detailed": false
+}

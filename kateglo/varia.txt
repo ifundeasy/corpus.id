@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "varia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai jenis; -- olah raga;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serba-serbi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=varia",
+  "related": [],
+  "detailed": false
+}

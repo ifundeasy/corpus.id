@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gites",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggites"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gites",
+  "related": [],
+  "detailed": false
+}

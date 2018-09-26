@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senioritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal senior;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan lebih tinggi dalam pangkat, pengalaman, dan usia;"
+      },
+      {
+        "type": "desc",
+        "text": "prioritas status atau tingkatan yang diperoleh dari umur atau lamanya bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senioritas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beton bertulang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beton yang di dalamnya terdapat kerangka besi (baja) supaya kuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beton%20bertulang",
+  "related": [],
+  "detailed": false
+}

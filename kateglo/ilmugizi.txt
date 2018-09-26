@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu gizi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang bagaimana cara memanfaatkan makanan untuk kepentingan kesehatan tubuh manusia pada umumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20gizi",
+  "related": [],
+  "detailed": false
+}

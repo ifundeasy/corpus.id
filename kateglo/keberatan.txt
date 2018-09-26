@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal beratnya suatu benda, tugas, perasaan, penyakit, dsb;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlampau berat (beratnya melebihi dari yang biasa);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berkeberatan; tidak setuju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberatan",
+  "related": [],
+  "detailed": false
+}

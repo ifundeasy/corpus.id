@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyablon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyablon;"
+      },
+      {
+        "type": "desc",
+        "text": "alat atau bahan untuk menyablon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyablon",
+  "related": [],
+  "detailed": false
+}

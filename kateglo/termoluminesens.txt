@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termoluminesens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemancaran cahaya yang terjadi pada temperatur di bawah benda pijar biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termoluminesens",
+  "related": [],
+  "detailed": false
+}

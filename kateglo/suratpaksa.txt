@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat paksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat ancaman yang diberikan kepada wajib pajak supaya memenuhi kewajibannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20paksa",
+  "related": [],
+  "detailed": false
+}

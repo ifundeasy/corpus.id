@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemborong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memborong;"
+      },
+      {
+        "type": "desc",
+        "text": "kontraktor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemborong",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rebet",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "rembet"
+      },
+      {
+        "type": "link",
+        "text": "ribut"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rebet",
+  "related": [],
+  "detailed": false
+}

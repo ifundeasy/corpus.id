@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kokas minyak bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisa padat yang merupakan hasil akhir proses kondensasi dalam perengkahan dan terdiri atas hidrokarbon polisiklis tinggi dengan kadar hidrogen yang sangat rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "sisa (residu) yang tinggal setelah penyulingan tuntas minyak bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kokas%20minyak%20bumi",
+  "related": [],
+  "detailed": false
+}

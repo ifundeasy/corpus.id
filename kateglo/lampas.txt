@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lampas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "halus;"
+      },
+      {
+        "type": "desc",
+        "text": "mudah tersinggung; lekas marah;"
+      },
+      {
+        "type": "desc",
+        "text": "suka mengatakan sesuatu dengan tidak berpikir panjang; lepas mulut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampas",
+  "related": [],
+  "detailed": false
+}

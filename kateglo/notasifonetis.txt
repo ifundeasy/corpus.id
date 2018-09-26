@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "notasi fonetis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) sistem untuk merekam bunyi suatu bahasa yang ditandai dengan kurung siku ([...]), misal sang ditulis dengan [sa?];"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notasi%20fonetis",
+  "related": [],
+  "detailed": false
+}

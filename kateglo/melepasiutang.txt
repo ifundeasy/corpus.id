@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melepasi utang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayarkan utang orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melepasi%20utang",
+  "related": [],
+  "detailed": false
+}

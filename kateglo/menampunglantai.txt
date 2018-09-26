@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menampung lantai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengganti papan lantai yang akan rusak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menampung%20lantai",
+  "related": [],
+  "detailed": false
+}

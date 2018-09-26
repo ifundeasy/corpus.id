@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkakas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala yang dapat dipakai sebagai alat (seperti untuk makan, bekerja di dapur, perang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkakas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tona yang membedakan kata-kata yang secara segmental sama, tetapi yang secara semantis berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonem",
+  "related": [],
+  "detailed": false
+}

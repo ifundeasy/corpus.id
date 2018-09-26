@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Inggris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama bangsa yang mendiami Kepulauan Inggris;"
+      },
+      {
+        "type": "desc",
+        "text": "nama bahasa bangsa Inggris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Inggris",
+  "related": [],
+  "detailed": false
+}

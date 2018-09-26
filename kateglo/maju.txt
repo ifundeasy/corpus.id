@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maju",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan (bergerak) ke muka; tampil ke muka;"
+      },
+      {
+        "type": "desc",
+        "text": "mendesak ke depan (tentang pasukan); pergi atau keluar ke medan perang;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi lebih baik (laku, pandai, dsb); berkembang;"
+      },
+      {
+        "type": "desc",
+        "text": "lulus (dalam ujian);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "telah mencapai atau berada pada tingkat peradaban yang tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "cerdas; berkembang pikirannya; berpikir dengan baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maju",
+  "related": [],
+  "detailed": false
+}

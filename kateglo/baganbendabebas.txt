@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan benda bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) bagan sebuah benda atau bagian suatu benda beserta kakas (gaya) yang bekerja padanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20benda%20bebas",
+  "related": [],
+  "detailed": false
+}

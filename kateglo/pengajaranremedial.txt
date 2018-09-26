@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengajaran remedial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengajaran yang diberikan khusus untuk memperbaiki kesulitan belajar yang dialami murid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengajaran%20remedial",
+  "related": [],
+  "detailed": false
+}

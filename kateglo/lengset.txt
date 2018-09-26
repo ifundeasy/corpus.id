@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengset",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "belengset"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengset",
+  "related": [],
+  "detailed": false
+}

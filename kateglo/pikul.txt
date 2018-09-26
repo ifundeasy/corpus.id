@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pikul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beban yang digandar (dibawa dengan pikulan yang ditaruh di atas bahu);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat 62,5 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pikul",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku silsilah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisikan catatan asal-usul keturunan seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tern) buku yang berisikan catatan asal-usul ternak (mengenai keturunan asalnya) yang dilengkapi dengan kemampuan produksinya masing-masing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20silsilah",
+  "related": [],
+  "detailed": false
+}

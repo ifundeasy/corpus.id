@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang memiliki buku yang biasanya tidak boleh digunakan di luarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20rujukan",
+  "related": [],
+  "detailed": false
+}

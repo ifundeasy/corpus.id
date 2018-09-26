@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tilde",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda ( ~ ) yang digunakan untuk menggantikan sublema yang terdapat dalam deskripsi kamus atau dalam contoh penggunaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tilde",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alinea",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian wacana yang mengungkapkan satu pikiran yang lengkap atau satu tema yang dalam ragam tulis ditandai oleh baris pertama yang menjorok ke dalam atau jarak spasi yang lebih; paragraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alinea",
+  "related": [],
+  "detailed": false
+}

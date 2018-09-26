@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penumpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menumpang atau orang yang naik (kereta, kapal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang tinggal atau bermalam di rumah orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penumpang",
+  "related": [],
+  "detailed": false
+}

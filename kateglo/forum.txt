@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "forum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga atau badan; wadah;"
+      },
+      {
+        "type": "desc",
+        "text": "sidang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pertemuan untuk bertukar pikiran secara bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=forum",
+  "related": [],
+  "detailed": false
+}

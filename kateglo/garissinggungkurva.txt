@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis singgung kurva",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) garis yang menghubungkan sebuah titik sudut segitiga dengan titik tengah sisi di depannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20singgung%20kurva",
+  "related": [],
+  "detailed": false
+}

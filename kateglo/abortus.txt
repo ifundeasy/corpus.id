@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abortus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "fetus dengan berat kurang dari 500 g pada saat dikeluarkan dari uterus, yang tidak mempunyai kemungkinan hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "guguran (janin);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan terhentinya pertumbuhan yang normal (tentang makhluk hidup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abortus",
+  "related": [],
+  "detailed": false
+}

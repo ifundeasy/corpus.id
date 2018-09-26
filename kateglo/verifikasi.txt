@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeriksaan tentang kebenaran laporan, pernyataan, perhitungan uang, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verifikasi",
+  "related": [],
+  "detailed": false
+}

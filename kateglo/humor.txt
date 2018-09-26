@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang lucu;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan (dalam cerita dsb) yang menggelikan hati; kejenakaan; kelucuan;"
+      },
+      {
+        "type": "desc",
+        "text": "cairan atau zat setengah cair dalam tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humor",
+  "related": [],
+  "detailed": false
+}

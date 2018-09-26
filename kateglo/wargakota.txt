@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "warga kota",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penduduk kota;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warga%20kota",
+  "related": [],
+  "detailed": false
+}

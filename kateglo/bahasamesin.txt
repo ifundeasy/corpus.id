@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa mesin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "informasi dalam bentuk fisik yang dapat ditangani oleh komputer, seperti kode yang tepat berupa kartu keterangan pada pita kertas atau kartu, dalam bentuk elektrik atau magnetik pada pita magnetik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20mesin",
+  "related": [],
+  "detailed": false
+}

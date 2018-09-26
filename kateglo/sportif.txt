@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sportif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kesatria, jujur, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tegap; gagah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sportif",
+  "related": [],
+  "detailed": false
+}

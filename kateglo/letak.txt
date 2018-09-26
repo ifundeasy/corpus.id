@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "letak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat beradanya sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan; keadaan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat beradanya sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "kedudukan; keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=letak",
+  "related": [],
+  "detailed": false
+}

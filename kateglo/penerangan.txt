@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menerangkan (memberikan penjelasan);"
+      },
+      {
+        "type": "desc",
+        "text": "alat-alat untuk menerangi (seperti lampu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pekerjaan dsb yang memberi penjelasan (petunjuk dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penjelasan (petunjuk dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerangan",
+  "related": [],
+  "detailed": false
+}

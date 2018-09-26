@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tarekat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "jalan menuju kebenaran (dalam tasawuf);"
+      },
+      {
+        "type": "desc",
+        "text": "cara atau aturan hidup (dalam keagamaan atau ilmu kebatinan);"
+      },
+      {
+        "type": "desc",
+        "text": "persekutuan para penuntut ilmu tasawuf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarekat",
+  "related": [],
+  "detailed": false
+}

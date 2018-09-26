@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat penetapan pajak (berapa besar jumlah pajak yang wajib dibayar);"
+      },
+      {
+        "type": "desc",
+        "text": "surat izin (tentang pemakaian atau pemilikan senjata api dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20pajak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "usang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kering dan hampa (tentang padi); kering kersang (tentang tembakau, rambut, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah lama (tentang barang); sudah rusak; sudah aus (karena lama terpakai, tersimpan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah kuno; sudah tidak lazim lagi (tentang perkataan, adat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usang",
+  "related": [],
+  "detailed": false
+}

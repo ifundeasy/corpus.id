@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "per",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "tiap-tiap;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "demi (satu-satu);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai; sejak;"
+      },
+      {
+        "type": "desc",
+        "text": "bagi (dalam angka pecahan);"
+      },
+      {
+        "type": "desc",
+        "text": "dengan (memakai, menggunakan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=per",
+  "related": [],
+  "detailed": false
+}

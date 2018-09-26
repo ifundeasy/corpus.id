@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kreasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil daya cipta; hasil daya khayal (penyair, komponis, pelukis, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ciptaan buah pikiran atau kecerdasan akal manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kreasi",
+  "related": [],
+  "detailed": false
+}

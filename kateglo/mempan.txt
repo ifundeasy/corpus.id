@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mempan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat dikenai (oleh senjata dsb); dapat terbakar (oleh api);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat menyembuhkan penyakit (tentang obat);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dapat menerima nasihat (kritik dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mempan",
+  "related": [],
+  "detailed": false
+}

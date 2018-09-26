@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon mobil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon yang dipasang dalam mobil dengan sistem nomor khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20mobil",
+  "related": [],
+  "detailed": false
+}

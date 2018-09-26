@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kreativitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan untuk mencipta; daya cipta;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal berkreasi; kekreatifan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kreativitas",
+  "related": [],
+  "detailed": false
+}

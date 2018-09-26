@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air permukaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang mengalir di atas atau tergenang pada permukaan litosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20permukaan",
+  "related": [],
+  "detailed": false
+}

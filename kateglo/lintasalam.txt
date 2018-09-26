@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintas alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "olahraga jalan kaki, jalan cepat atau lari yang melewati pedesaan, sawah, gunung, sungai, hutan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintas%20alam",
+  "related": [],
+  "detailed": false
+}

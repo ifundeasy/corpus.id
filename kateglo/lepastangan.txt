@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lepas tangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berpegang pada kemudi atau setir (tentang bersepeda dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak campur tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau berurusan lagi; tidak mau memikirkan (sanak saudara dsb); sudah menyerahkan atau melepaskan tanggung jawab dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dengan makan atau tidak dengan tambahan apa-apa (tentang gaji, upah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lepas%20tangan",
+  "related": [],
+  "detailed": false
+}

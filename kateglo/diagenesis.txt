@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diagenesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses mengubah endapan menjadi satuan sedimen melalui tekanan dan suhu yang kecil sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagenesis",
+  "related": [],
+  "detailed": false
+}

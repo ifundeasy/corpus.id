@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intrauniversiter",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tentang kegiatan dalam per-guruan tinggi (tidak di luarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intrauniversiter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bensin murni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bensin yang tidak mengandung aditif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bensin%20murni",
+  "related": [],
+  "detailed": false
+}

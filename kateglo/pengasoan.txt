@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengasoan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mengaso; peristirahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengasoan",
+  "related": [],
+  "detailed": false
+}

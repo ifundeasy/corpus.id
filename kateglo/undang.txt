@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "undang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengundang"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "undang-undang"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) penghulu (kepala suatu daerah di Negeri Sembilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=undang",
+  "related": [],
+  "detailed": false
+}

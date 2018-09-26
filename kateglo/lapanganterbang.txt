@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapangan terbang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapangan pendaratan dan pemberangkatan pesawat terbang beserta penumpangnya; bandar udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapangan%20terbang",
+  "related": [],
+  "detailed": false
+}

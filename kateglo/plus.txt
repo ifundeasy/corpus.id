@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih; berlebih;"
+      },
+      {
+        "type": "desc",
+        "text": "tambah;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda tambah (+);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plus",
+  "related": [],
+  "detailed": false
+}

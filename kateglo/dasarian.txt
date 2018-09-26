@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dasarian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu yang lamanya sepuluh hari berturut-turut (tentang prakiraan cuaca);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dasarian",
+  "related": [],
+  "detailed": false
+}

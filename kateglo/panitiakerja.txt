@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panitia kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok orang yang bertugas melakukan penyelidikan khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panitia%20kerja",
+  "related": [],
+  "detailed": false
+}

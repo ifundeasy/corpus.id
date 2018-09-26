@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stambuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang memuat daftar nama, nomor, asal dari orang-orang yang tercatat sebagai anggota (misal buku stambuk untuk murid sekolah); buku induk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stambuk",
+  "related": [],
+  "detailed": false
+}

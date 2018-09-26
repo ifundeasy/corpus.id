@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "broker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang perantara yang menghubungkan pedagang satu dengan yang lain dalam hal jual beli atau antara penjual dan pembeli (saham dsb); cengkau; makelar; pialang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=broker",
+  "related": [],
+  "detailed": false
+}

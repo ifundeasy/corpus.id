@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "amplitudo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "simpangan yang paling jauh dari titik keseimbangan pada getaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) selisih suhu tahunan atau suhu harian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) jarak antara puncak gelombang bunyi dan titik rata-rata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=amplitudo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konversi tanaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggantian tanaman yang sudah ada dengan tanaman lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konversi%20tanaman",
+  "related": [],
+  "detailed": false
+}

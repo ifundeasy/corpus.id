@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengkredit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminjam uang, membeli barang, dsb yang dikembalikan atau dibayar secara angsuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengkredit",
+  "related": [],
+  "detailed": false
+}

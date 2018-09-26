@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian (yang menjadi tanggung jawab atau yang harus dikerjakan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "selengkap atau sepiring makanan (di rumah makan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porsi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan ideal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan yang volumenya adalah jumlah volume bagian-bagiannya, tiada terjadi panas pada percampuran dan memenuhi hukum Raoult;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20ideal",
+  "related": [],
+  "detailed": false
+}

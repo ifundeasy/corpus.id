@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksit",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar;"
+      },
+      {
+        "type": "desc",
+        "text": "berhenti dari pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksit",
+  "related": [],
+  "detailed": false
+}

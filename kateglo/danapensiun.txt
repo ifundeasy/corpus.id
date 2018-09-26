@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dana pensiun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dana yang keuangannya diperoleh dari iuran tetap para peserta ditambah penghasilan perusahaan yang disisihkan dan para peserta berhak memperoleh bagian keuntungan itu setelah pensiun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana%20pensiun",
+  "related": [],
+  "detailed": false
+}

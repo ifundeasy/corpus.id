@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermonolog",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan monolog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermonolog",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bukti diri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan yang membuktikan bahwa orang yang membawa surat tersebut benar (sah); surat pengenal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bukti%20diri",
+  "related": [],
+  "detailed": false
+}

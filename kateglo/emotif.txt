@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emotif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan (berhubungan dengan) emosi;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menimbulkan (membangkitkan) emosi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emotif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat biaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat, orang, bagian alat, atau bagian lain perusahaan yang biayanya dapat dipastikan dan yang dapat dipakai sebagai patokan pengendalian biaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20biaya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat khazanah secara lengkap, termasuk kosakata istilah dari berbagai bidang ilmu yang bersifat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20besar",
+  "related": [],
+  "detailed": false
+}

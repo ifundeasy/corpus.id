@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyerepi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyediakan diri sebagai serep;"
+      },
+      {
+        "type": "desc",
+        "text": "menggantikan (menyulih) dengan cadangan yang ada;"
+      },
+      {
+        "type": "desc",
+        "text": "membuktikan benar tidaknya (tentang berita);"
+      },
+      {
+        "type": "desc",
+        "text": "mencari duduk perkaranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyerepi",
+  "related": [],
+  "detailed": false
+}

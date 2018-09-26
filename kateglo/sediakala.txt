@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sediakala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang semula; yang sudah-sudah; (keadaan) yang dulu-dulu;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(kl) selalu (seperti yang sudah-sudah atau sebagaimana biasa);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setiap atau segenap waktu (hari dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sediakala",
+  "related": [],
+  "detailed": false
+}

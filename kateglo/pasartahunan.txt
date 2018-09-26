@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekan raya yang diadakan sekali dalam setahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20tahunan",
+  "related": [],
+  "detailed": false
+}

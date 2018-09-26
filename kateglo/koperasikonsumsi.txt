@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koperasi konsumsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "koperasi yang menyediakan keperluan sehari-hari bagi anggotanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koperasi%20konsumsi",
+  "related": [],
+  "detailed": false
+}

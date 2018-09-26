@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun kapal tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun cuaca di laut atau di tambatan kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20kapal%20tetap",
+  "related": [],
+  "detailed": false
+}

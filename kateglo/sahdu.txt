@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sahdu",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "syahda"
+      },
+      {
+        "type": "link",
+        "text": "syahdu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sahdu",
+  "related": [],
+  "detailed": false
+}

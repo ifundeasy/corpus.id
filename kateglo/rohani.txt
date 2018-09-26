@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rohani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "roh;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan roh; rohaniah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rohani",
+  "related": [],
+  "detailed": false
+}

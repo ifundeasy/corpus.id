@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "awal bulan dari tanggal 1—10;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20muda",
+  "related": [],
+  "detailed": false
+}

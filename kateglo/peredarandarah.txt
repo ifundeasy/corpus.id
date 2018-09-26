@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peredaran darah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran darah dalam tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peredaran%20darah",
+  "related": [],
+  "detailed": false
+}

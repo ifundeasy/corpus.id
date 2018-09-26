@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cecap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencecap"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung kecil yang biasa mengisap sari bunga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cecap",
+  "related": [],
+  "detailed": false
+}

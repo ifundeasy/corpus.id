@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kakao",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon cokelat, bijinya dibuat bubuk untuk minuman dsb; Theobroma cacao;"
+      },
+      {
+        "type": "desc",
+        "text": "tepung (bubuk) biji cokelat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kakao",
+  "related": [],
+  "detailed": false
+}

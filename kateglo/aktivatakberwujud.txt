@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aktiva takberwujud",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekayaan yang nilainya bergantung pada kemampuan menghasilkan laba, seperti hak paten, merek dagang, lisensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktiva%20takberwujud",
+  "related": [],
+  "detailed": false
+}

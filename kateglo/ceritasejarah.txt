@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita sejarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita rekaan yang mengandung unsur-unsur sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20sejarah",
+  "related": [],
+  "detailed": false
+}

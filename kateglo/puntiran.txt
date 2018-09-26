@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puntiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipuntir;"
+      },
+      {
+        "type": "desc",
+        "text": "cara (hasil) memuntir;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) keadaan yang terjadi jika salah satu ujung batang atau serat diputar dengan arah yang berlawanan dengan arah putaran pada ujung yang lain; tonsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puntiran",
+  "related": [],
+  "detailed": false
+}

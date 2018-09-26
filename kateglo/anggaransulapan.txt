@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran sulapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggaran yang disulap (yang mencantumkan daftar pengeluaran yang jauh lebih besar daripada pengeluaran yang sebenarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20sulapan",
+  "related": [],
+  "detailed": false
+}

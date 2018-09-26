@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "valas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(akr) valuta asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=valas",
+  "related": [],
+  "detailed": false
+}

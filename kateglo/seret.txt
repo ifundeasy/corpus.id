@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seret",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lancar; tersendat-sendat;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "hela, tarik maju (barang yang dihela bergeser di tanah atau di air);"
+      },
+      {
+        "type": "desc",
+        "text": "loreng; berjalur-jalur;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur di tepi (tentang kain, payung, dsb); pinggiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seret",
+  "related": [],
+  "detailed": false
+}

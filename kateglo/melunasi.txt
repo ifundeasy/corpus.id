@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melunasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membayar utang hingga lunas;"
+      },
+      {
+        "type": "desc",
+        "text": "menunaikan (kewajiban dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menebus (hendak memperbaiki) kesalahan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melunasi",
+  "related": [],
+  "detailed": false
+}

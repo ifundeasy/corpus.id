@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat terbelah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kalimat yang terjadi karena proses tematisasi dengan menempatkan salah satu konstituen ke sebelah kiri sehingga menjadi tema;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20terbelah",
+  "related": [],
+  "detailed": false
+}

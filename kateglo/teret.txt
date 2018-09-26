@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teret",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "deret"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teret",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transformasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan rupa (bentuk, sifat, fungsi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) perubahan struktur gramatikal menjadi struktur gramatikal lain dengan menambah, mengurangi, atau menata kembali unsur-unsurnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transformasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru tulis desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat pemerintah desa yang membantu kepala desa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20tulis%20desa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milibar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) seperseribu bar (satuan untuk tekanan atmosfer sebesar 106 dyne/cm2);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milibar",
+  "related": [],
+  "detailed": false
+}

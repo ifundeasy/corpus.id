@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orde",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bintang jasa; tanda penghargaan (karena berjasa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jemaat atau kumpulan orang yang sepaham; ordo;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem (pemerintahan dsb); peraturan (pemerintahan dsb); susunan; angkutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orde",
+  "related": [],
+  "detailed": false
+}

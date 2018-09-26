@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat pembuktian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai macam bahan yang dibutuhkan oleh hakim, baik yang diketahui sendiri oleh hakim maupun yang diajukan oleh saksi untuk membenarkan atau menggagalkan dakwaan atau gugatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20pembuktian",
+  "related": [],
+  "detailed": false
+}

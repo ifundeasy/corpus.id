@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gila-gilaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertingkah laku seperti orang gila; pura-pura gila dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat dengan sekehendak hati (seenak hati, asal-asalan saja);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang ajar (berbuat yang melanggar kesopanan); keterlaluan;"
+      },
+      {
+        "type": "desc",
+        "text": "nekat (membangkang terhadap larangan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gila-gilaan",
+  "related": [],
+  "detailed": false
+}

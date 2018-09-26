@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenaikan gaji berkala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) tambahan atau kenaikan gaji yang diberikan secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenaikan%20gaji%20berkala",
+  "related": [],
+  "detailed": false
+}

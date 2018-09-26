@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "distribusi paritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) distribusi penduduk wanita usia reproduksi berdasarkan banyaknya anak yang pernah dilahirkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distribusi%20paritas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ikhbar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) penyampaian berita; pengabaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikhbar",
+  "related": [],
+  "detailed": false
+}

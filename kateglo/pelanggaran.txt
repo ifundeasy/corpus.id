@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelanggaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan (perkara) melanggar; tindak pidana yang lebih ringan daripada kejahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelanggaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "baris tanda bunyi a (fatah), i (kasrah), u (damah), untuk menandai an, in, un (tanwin);"
+      },
+      {
+        "type": "desc",
+        "text": "(huruf -- ) huruf hidup (a, i, u);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harakat",
+  "related": [],
+  "detailed": false
+}

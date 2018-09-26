@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tarif konfidensial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarif perjalanan wisata yang terdapat di dalam buku pedoman harga yang dikeluarkan secara periodik (biasanya setahun sekali) oleh suatu operator perjalanan wisata secara standar dan tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tarif%20konfidensial",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kira-kira",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "lebih kurang;"
+      },
+      {
+        "type": "desc",
+        "text": "agaknya; barangkali; mungkin (hampir pasti);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "dugaan; sangka-sangka; agak-agak;"
+      },
+      {
+        "type": "desc",
+        "text": "hitungan; taksiran; rancangan (pengeluaran uang dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "timbang-timbang; pikir-pikir dulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kira-kira",
+  "related": [],
+  "detailed": false
+}

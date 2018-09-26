@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keorganisasian",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "perihal (tentang) organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keorganisasian",
+  "related": [],
+  "detailed": false
+}

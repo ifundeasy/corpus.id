@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan posisi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) proses atau hasil perubahan fungsi atau kelas kata tanpa penambahan apa-apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transposisi",
+  "related": [],
+  "detailed": false
+}

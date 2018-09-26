@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selia",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "teratur rapi; elok (buatannya dsb); apik;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyelia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selia",
+  "related": [],
+  "detailed": false
+}

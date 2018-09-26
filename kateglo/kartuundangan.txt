@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu undangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu yang berisi undangan (untuk menghadiri pesta dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20undangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan menengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenjang pendidikan formal setelah pendidikan dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20menengah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbudakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal budak (hamba); segala hal mengenai budak belian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) sistem segolongan manusia yang dirampas kebebasan hidupnya untuk bekerja guna kepentingan golongan manusia yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbudakan",
+  "related": [],
+  "detailed": false
+}

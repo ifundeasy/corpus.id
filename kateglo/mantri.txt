@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mantri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama pangkat atau jabatan tertentu untuk melaksanakan tugas (keahlian) khusus; juru;"
+      },
+      {
+        "type": "desc",
+        "text": "juru rawat kepala (biasanya laki-laki); pembantu dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mantri",
+  "related": [],
+  "detailed": false
+}

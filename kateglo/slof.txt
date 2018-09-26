@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "slof",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemasan rokok berisi 5, 10, atau 20 bungkus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=slof",
+  "related": [],
+  "detailed": false
+}

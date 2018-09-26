@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "junior",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih muda, khususnya antara dua orang bersaudara (kakak beradik) atau antara bapak dan anak yang mempunyai nama akhir sama;"
+      },
+      {
+        "type": "desc",
+        "text": "berpangkat atau berkedudukan lebih rendah; lebih muda keanggotaannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=junior",
+  "related": [],
+  "detailed": false
+}

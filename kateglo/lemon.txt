@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lemon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limau;"
+      },
+      {
+        "type": "desc",
+        "text": "warna kuning muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemon",
+  "related": [],
+  "detailed": false
+}

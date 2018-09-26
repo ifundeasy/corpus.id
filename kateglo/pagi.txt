@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian awal dari hari;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu setelah matahari terbit hingga menjelang siang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) awal; cepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pagi",
+  "related": [],
+  "detailed": false
+}

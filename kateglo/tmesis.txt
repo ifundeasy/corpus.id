@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tmesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pemisahan bagian kata majemuk oleh kata lain di antara kata majemuk itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tmesis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nomad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok orang yang tidak mempunyai tempat tinggal tetap, berkelana dari satu tempat ke tempat lain, biasanya pindah pada musim tertentu ke tempat tertentu sesuai dengan keperluan kelompok itu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) (hidup) berkelana, tidak menetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomad",
+  "related": [],
+  "detailed": false
+}

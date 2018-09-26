@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonprofit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang bukan untuk memperoleh keuntungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonprofit",
+  "related": [],
+  "detailed": false
+}

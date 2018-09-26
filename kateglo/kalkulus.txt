@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalkulus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "proses pengerasan yang tidak normal pada tubuh, misal adanya batu pada ginjal;"
+      },
+      {
+        "type": "desc",
+        "text": "endapan tidak normal garam-garam mineral di dalam organ tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bagian matematika yang terutama melibatkan pengertian dan penggunaan diferensial dan integral fungsi serta konsep yang berkaitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalkulus",
+  "related": [],
+  "detailed": false
+}

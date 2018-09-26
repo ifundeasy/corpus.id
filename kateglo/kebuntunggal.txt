@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebun tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebun yang hanya ditanami satu jenis tanaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebun%20tunggal",
+  "related": [],
+  "detailed": false
+}

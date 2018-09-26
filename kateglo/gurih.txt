@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gurih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "enak rasanya (seperti ikan goreng);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gurih",
+  "related": [],
+  "detailed": false
+}

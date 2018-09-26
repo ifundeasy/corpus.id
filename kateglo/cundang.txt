@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cundang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengalahkan (seperti dalam sabung ayam);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) hasutan;"
+      },
+      {
+        "type": "desc",
+        "text": "menipu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cundang",
+  "related": [],
+  "detailed": false
+}

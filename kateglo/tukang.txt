@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tukang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai kepandaian dalam suatu pekerjaan tangan (dengan alat atau bahan yang tertentu);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya membuat (menjual, memperbaiki, dsb) sesuatu yang tentu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya melakukan sesuatu secara tetap;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang biasa suka melakukan sesuatu (yang kurang baik);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ahli (untuk mencemoohkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukang",
+  "related": [],
+  "detailed": false
+}

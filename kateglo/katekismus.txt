@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katekismus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kitab pelajaran agama Kristen (dalam bentuk daftar tanya jawab);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katekismus",
+  "related": [],
+  "detailed": false
+}

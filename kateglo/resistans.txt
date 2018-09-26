@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resistans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) hambatan yang diberikan suatu benda atau zat terhadap arus listrik yang melewatinya; tahanan (listrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resistans",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pengering",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang digunakan untuk menyerap lembap, terutama dalam desikator dan menara tempat melakukan penyerapan gas lembap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pengering",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus baku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang menggambarkan khazanah ragam bahasa baku;"
+      },
+      {
+        "type": "desc",
+        "text": "kamus yang karena wibawanya menjadi acuan untuk karya yang sejenis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20baku",
+  "related": [],
+  "detailed": false
+}

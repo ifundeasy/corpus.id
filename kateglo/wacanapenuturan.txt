@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wacana penuturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) wacana yang mementingkan urutan waktu dituturkan oleh orang pertama atau ketiga dalam waktu tertentu, berorientasi pada pelaku, dan seluruh bagiannya diikat secara kronologis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wacana%20penuturan",
+  "related": [],
+  "detailed": false
+}

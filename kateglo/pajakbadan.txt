@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak badan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang dikenakan kepada badan usaha (perusahaan, bank, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20badan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "curahan frontal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) hujan atau curahan dari awan di sepanjang atau di dekat permukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=curahan%20frontal",
+  "related": [],
+  "detailed": false
+}

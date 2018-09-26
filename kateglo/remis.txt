@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "remis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerang (kepah) yang boleh dimakan; Corbicula;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Olr) tidak ada yang kalah dan tidak ada yang menang (dalam main catur); seri; sama-sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) kiriman uang (surat berharga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=remis",
+  "related": [],
+  "detailed": false
+}

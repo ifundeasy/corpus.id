@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "koefisien akar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) perbandingan berat antara bagian tumbuhan di dalam tanah dan bagian yang di atas tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien%20akar",
+  "related": [],
+  "detailed": false
+}

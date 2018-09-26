@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayaran antarpulau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayaran antara pulau yang satu dan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayaran%20antarpulau",
+  "related": [],
+  "detailed": false
+}

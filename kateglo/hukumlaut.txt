@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukum dan undang-undang yang berhubungan dengan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20laut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memompa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan pompa (untuk mengisi udara, mengambil air, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) mengisi (memberikan) banyak-banyak (tentang pelajaran atau sesuatu yang diajarkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memompa",
+  "related": [],
+  "detailed": false
+}

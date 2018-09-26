@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hotel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan berkamar banyak yang disewakan sebagai tempat untuk menginap dan tempat makan orang yang sedang dalam perjalanan; bentuk akomodasi yang dikelola secara komersial, disediakan bagi setiap orang untuk memperoleh pelayanan, penginapan, makan dan minum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel",
+  "related": [],
+  "detailed": false
+}

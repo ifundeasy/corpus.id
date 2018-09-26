@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pedalaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang letaknya jauh dari pantai;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah terpencil yang terletak jauh dari kota dan kurang berhubungan dengan dunia luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedalaman",
+  "related": [],
+  "detailed": false
+}

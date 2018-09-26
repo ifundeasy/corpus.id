@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar angka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan atau deretan angka yang disusun berderet dari atas ke bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20angka",
+  "related": [],
+  "detailed": false
+}

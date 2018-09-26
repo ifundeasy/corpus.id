@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyambung pembicaraan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melanjutkan pembicaraan (perundingan, permufakatan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyambung%20pembicaraan",
+  "related": [],
+  "detailed": false
+}

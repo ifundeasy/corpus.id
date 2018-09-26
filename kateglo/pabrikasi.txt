@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pabrikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuatan barang dengan standar tertentu secara besar-besaran (dalam pabrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pabrikasi",
+  "related": [],
+  "detailed": false
+}

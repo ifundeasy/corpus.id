@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berganggang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berdiang; memanaskan diri (dekat api);"
+      },
+      {
+        "type": "desc",
+        "text": "bercelah; merenggang;"
+      },
+      {
+        "type": "desc",
+        "text": "bercerai (laki istri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berganggang",
+  "related": [],
+  "detailed": false
+}

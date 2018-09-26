@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wawancara terpimpin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara dengan memakai pertanyaan yang sudah disiapkan sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara%20terpimpin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "daga dagi"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "haus; dahaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daga",
+  "related": [],
+  "detailed": false
+}

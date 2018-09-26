@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketiduran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (balai-balai dsb) untuk tidur;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak sengaja tidur; tertidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketiduran",
+  "related": [],
+  "detailed": false
+}

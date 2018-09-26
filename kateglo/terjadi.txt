@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terjadi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dijadikan (diadakan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah berlaku (tentang suatu peristiwa);"
+      },
+      {
+        "type": "desc",
+        "text": "terdiri atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terjadi",
+  "related": [],
+  "detailed": false
+}

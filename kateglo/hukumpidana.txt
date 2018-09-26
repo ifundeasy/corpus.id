@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukum yang menentukan peristiwa (perbuatan kriminal) yang diancam dengan pidana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20pidana",
+  "related": [],
+  "detailed": false
+}

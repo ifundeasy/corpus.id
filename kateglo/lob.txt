@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lob",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pukulan yang melambung ke atas pada permainan tenis, bulu tangkis, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lob",
+  "related": [],
+  "detailed": false
+}

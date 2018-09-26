@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarum pendek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarum penunjuk waktu (pada arloji, lonceng, dsb) yang berputar dari pukul 0.00—12.00 memakan waktu 12x60 menit = 720 menit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarum%20pendek",
+  "related": [],
+  "detailed": false
+}

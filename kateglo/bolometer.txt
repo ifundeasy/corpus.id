@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bolometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tenaga radiasi elektromagnetik dalam selang riak gelombang tertentu dengan memanfaatkan perubahan hambatan dari penghantar tipis yang terkena pengaruh pemanasan radiasi dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bolometer",
+  "related": [],
+  "detailed": false
+}

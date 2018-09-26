@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyebar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyebarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyebarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyebar",
+  "related": [],
+  "detailed": false
+}

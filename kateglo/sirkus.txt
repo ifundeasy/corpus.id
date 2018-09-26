@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirkus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan hiburan yang mempertontonkan keterampilan berbagai binatang dan kemahiran pemain akrobat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirkus",
+  "related": [],
+  "detailed": false
+}

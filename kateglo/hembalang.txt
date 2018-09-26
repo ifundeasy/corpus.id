@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hembalang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berhembalang"
+      },
+      {
+        "type": "link",
+        "text": "menghembalang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hembalang",
+  "related": [],
+  "detailed": false
+}

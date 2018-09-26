@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan tinggi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hidm) daerah dengan tekanan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20tinggi",
+  "related": [],
+  "detailed": false
+}

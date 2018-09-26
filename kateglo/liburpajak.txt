@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "libur pajak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bebas dari kewajiban membayar pajak untuk sementara yang diberikan oleh negara kepada suatu perusahaan selama jangka waktu tertentu (maksimal 5 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=libur%20pajak",
+  "related": [],
+  "detailed": false
+}

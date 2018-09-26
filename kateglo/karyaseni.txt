@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karya seni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciptaan yang dapat menimbulkan rasa indah bagi orang yang melihat, mendengar, atau merasakannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karya%20seni",
+  "related": [],
+  "detailed": false
+}

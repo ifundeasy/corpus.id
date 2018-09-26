@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "celana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian luar yang menutup pinggang sampai mata kaki, kadang-kadang hanya sampai lutut, yang membungkus batang kaki secara terpisah, terutama merupakan pakaian lelaki;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) cawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celana",
+  "related": [],
+  "detailed": false
+}

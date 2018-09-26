@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endogami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr)"
+      },
+      {
+        "type": "desc",
+        "text": "prinsip perkawinan yang mengharuskan orang untuk mencari jodoh di dalam lingkungan sosialnya sendiri, misal di lingkungan kerabat, lingkungan kelas sosial, atau lingkungan pemukiman;"
+      },
+      {
+        "type": "desc",
+        "text": "proses reproduksi secara perkawinan antarindividu yang sangat dekat kekerabatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endogami",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuantitas dari senyawa atau unsur yang mempunyai bobot dalam gram sama dengan bobot molekul; gram molekul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mol",
+  "related": [],
+  "detailed": false
+}

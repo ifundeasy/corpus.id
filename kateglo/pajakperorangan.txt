@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak perorangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang dikenakan pada orang seorang (dalam kaitan dengan pendapatannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20perorangan",
+  "related": [],
+  "detailed": false
+}

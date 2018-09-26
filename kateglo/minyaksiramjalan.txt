@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "minyak siram jalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "residu minyak atau minyak bumi yang langsung dapat disiramkan pada permukaan jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minyak%20siram%20jalan",
+  "related": [],
+  "detailed": false
+}

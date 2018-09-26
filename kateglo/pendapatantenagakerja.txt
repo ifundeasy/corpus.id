@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan tenaga kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapatan yang diperoleh seorang buruh tani dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20tenaga%20kerja",
+  "related": [],
+  "detailed": false
+}

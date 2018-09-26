@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iktidal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lurus;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Isl) berdiri tegak setelah rukuk sebelum sujud;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iktidal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melambung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyerang (memukul dsb) pada lambung;"
+      },
+      {
+        "type": "desc",
+        "text": "menyerang (daerah, sasaran) dengan cara bergerak melingkar (tidak lurus ke sasaran);"
+      },
+      {
+        "type": "desc",
+        "text": "naik (melonjak, terbang, dsb) tinggi-tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "menaikkan (melonjakkan, menerbangkan, dsb) tinggi-tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "memuji-muji; menyanjung-nyanjung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melambung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengumpulkan dana;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengumpulkan benda untuk koleksi (prangko, benda bersejarah, dsb yang sering dikaitkan dengan minat atau hobi);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengumpulkan benda koleksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) tahanan yang menjadi penyambung antara bagian yang bergerak dan bagian yang tidak bergerak dalam jaringan listrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolektor",
+  "related": [],
+  "detailed": false
+}

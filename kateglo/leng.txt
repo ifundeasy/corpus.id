@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran yang beratnya setengah cupak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leng",
+  "related": [],
+  "detailed": false
+}

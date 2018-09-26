@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polipeptida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) polimer yang terdiri atas tiga molekul asam amino atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polipeptida",
+  "related": [],
+  "detailed": false
+}

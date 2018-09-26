@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "burung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang berkaki dua, bersayap dan berbulu, dan biasanya dapat terbang; unggas;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan jenis unggas (biasanya yang dapat terbang);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kemaluan laki-laki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burung",
+  "related": [],
+  "detailed": false
+}

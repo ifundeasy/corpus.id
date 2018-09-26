@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menala",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menentukan bunyi (alat musik, gamelan, dsb) dengan tala untuk memperoleh nada yang betul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menala",
+  "related": [],
+  "detailed": false
+}

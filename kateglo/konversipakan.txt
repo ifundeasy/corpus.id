@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konversi pakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) perbandingan antara jumlah pakan ikan yang digunakan dengan produksi daging ikan yang dihasilkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konversi%20pakan",
+  "related": [],
+  "detailed": false
+}

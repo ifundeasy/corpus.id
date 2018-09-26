@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wawancara tertutup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara yang berdasarkan pertanyaan yang terbatas jawabannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara%20tertutup",
+  "related": [],
+  "detailed": false
+}

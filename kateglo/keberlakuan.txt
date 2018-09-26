@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberlakuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberlakuan",
+  "related": [],
+  "detailed": false
+}

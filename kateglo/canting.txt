@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "canting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sibur kecil (untuk mencedok minyak, sayur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pencedok air (dibuat dari bambu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pencedok lilin yang bercarat, dibuat dari tembaga (alat untuk membatik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=canting",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan barang bagasi atau barang kiriman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koli",
+  "related": [],
+  "detailed": false
+}

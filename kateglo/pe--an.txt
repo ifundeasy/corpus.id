@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "pe -- an",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "per -- an"
+      },
+      {
+        "type": "link",
+        "text": "peng -- an"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pe%20--%20an",
+  "related": [],
+  "detailed": false
+}

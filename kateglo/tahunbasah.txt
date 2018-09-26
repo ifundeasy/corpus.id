@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun dengan curah hujan atau aliran sungai yang jauh melampaui batas normal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20basah",
+  "related": [],
+  "detailed": false
+}

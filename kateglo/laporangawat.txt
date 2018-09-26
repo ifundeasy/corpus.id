@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan gawat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Hidm) laporan perubahan tiba-tiba untuk menunjukkan keadaan cuaca buruk (gawat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20gawat",
+  "related": [],
+  "detailed": false
+}

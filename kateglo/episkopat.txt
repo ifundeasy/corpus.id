@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "episkopat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "jabatan atau kedudukan uskup;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang berada di bawah bimbingan seorang uskup; keuskupan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=episkopat",
+  "related": [],
+  "detailed": false
+}

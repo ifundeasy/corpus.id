@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gastronomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni menyiapkan hidangan yang lezat-lezat; tata boga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gastronomi",
+  "related": [],
+  "detailed": false
+}

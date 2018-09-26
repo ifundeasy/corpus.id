@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembayaran, misal pajak kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "pengadaan persediaan; perbekalan; suplai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasok",
+  "related": [],
+  "detailed": false
+}

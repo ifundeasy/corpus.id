@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "afinitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketertarikan atau simpati yang ditandai oleh persamaan kepentingan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) kecenderungan suatu unsur atau senyawa untuk membentuk ikatan kimia dengan unsur atau senyawa lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afinitas",
+  "related": [],
+  "detailed": false
+}

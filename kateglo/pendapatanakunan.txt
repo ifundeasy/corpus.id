@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendapatan akunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) penerimaan yang pada penutupan buku masih berupa tagihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendapatan%20akunan",
+  "related": [],
+  "detailed": false
+}

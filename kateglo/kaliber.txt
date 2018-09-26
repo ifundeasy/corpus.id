@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaliber",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis tengah laras senapan (meriam, pistol);"
+      },
+      {
+        "type": "desc",
+        "text": "garis tengah peluru;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) ukuran (tingkatan) kecakapan atau sifat batin (pikiran, watak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaliber",
+  "related": [],
+  "detailed": false
+}

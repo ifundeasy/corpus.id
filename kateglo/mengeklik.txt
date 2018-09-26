@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "mengeklik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menekan atau melepas tombol pada tetikus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengeklik",
+  "related": [],
+  "detailed": false
+}

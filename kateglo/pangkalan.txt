@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangkalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kapal atau perahu berlabuh; tepi laut (atau tepi sungai) tempat berlabuh;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menimbun (mengumpulkan) barang-barang dagangan, hasil bumi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat (pelabuhan, lapangan terbang, dsb) yang dijadikan tumpuan untuk menyerang musuh;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat tertentu untuk berkedai, menjual material atau bahan bangunan, perhentian taksi, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tuan atau nyonya rumah (penerima tamu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkalan",
+  "related": [],
+  "detailed": false
+}

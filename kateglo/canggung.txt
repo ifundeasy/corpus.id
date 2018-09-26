@@ -1,0 +1,51 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "canggung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang mahir atau tidak terampil dalam menggunakan sesuatu (karena belum biasa mengerjakannya); kikuk; kekok;"
+      },
+      {
+        "type": "desc",
+        "text": "kurang enak dipakai; tidak mudah digunakan;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa tidak senang (tidak bebas); malu-malu (karena belum biasa bergaul, belum mengerti adat kebiasaan yang berlaku);"
+      },
+      {
+        "type": "desc",
+        "text": "kaku (dalam arti kurang mengerti basa-basi, adat sopan santun);"
+      },
+      {
+        "type": "desc",
+        "text": "kurang baik (buatannya, susunannya); agak janggal (tidak semestinya, tidak pada tempatnya);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan kekurangan (tentang kehidupan, kepandaian, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "tercanggung"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) punggur (batang kayu) yang separuh tenggelam dalam air;"
+      },
+      {
+        "type": "desc",
+        "text": "alang tempat ayam dsb bertenggek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=canggung",
+  "related": [],
+  "detailed": false
+}

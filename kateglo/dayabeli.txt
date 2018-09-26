@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan membayar untuk memperoleh barang yang dikehendaki atau diperlukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20beli",
+  "related": [],
+  "detailed": false
+}

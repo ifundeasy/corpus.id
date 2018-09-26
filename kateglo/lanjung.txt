@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lanjung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kecil tinggi (tentang batang tebu, pohon pinang, dsb); kecil panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lanjung",
+  "related": [],
+  "detailed": false
+}

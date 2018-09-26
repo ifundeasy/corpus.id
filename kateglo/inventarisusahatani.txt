@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inventaris usaha tani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar barang disertai dengan nilainya masing-masing yang dimiliki oleh usaha tani dalam waktu tertentu, baik yang sudah dibayar maupun yang belum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inventaris%20usaha%20tani",
+  "related": [],
+  "detailed": false
+}

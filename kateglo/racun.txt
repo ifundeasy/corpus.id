@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "racun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "zat (gas) yang dapat menyebabkan sakit atau mati (kalau dimakan, dihirup);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang menurunkan mutu logam atau sepuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "zat yang merusak atau menghambat aksi katalis atau enzim;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang merusak batin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=racun",
+  "related": [],
+  "detailed": false
+}

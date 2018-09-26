@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembisik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membisikkan sesuatu kepada orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bertugas membisikkan apa yang harus dikatakan oleh pemain lain dalam sandiwara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembisik",
+  "related": [],
+  "detailed": false
+}

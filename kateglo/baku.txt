@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok; utama;"
+      },
+      {
+        "type": "desc",
+        "text": "tolok ukur yang berlaku untuk kuantitas atau kualitas yang ditetapkan berdasarkan kesepakatan; standar;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "saling;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) anggota masyarakat desa yang merupakan penduduk inti yang mempunyai lahan pertanian, rumah, dan halamannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baku",
+  "related": [],
+  "detailed": false
+}

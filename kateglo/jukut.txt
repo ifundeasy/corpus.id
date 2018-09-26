@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jukut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumput (untuk ramuan obat demam atau obat sakit panas);"
+      },
+      {
+        "type": "desc",
+        "text": "ulam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jukut",
+  "related": [],
+  "detailed": false
+}

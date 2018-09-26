@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "besing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "desing;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu kenyang makan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=besing",
+  "related": [],
+  "detailed": false
+}

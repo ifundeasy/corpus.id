@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penggergajian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menggergaji;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menggergaji;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan penggergajian kayu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggergajian",
+  "related": [],
+  "detailed": false
+}

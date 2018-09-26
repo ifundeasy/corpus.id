@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang hilang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan sebagai tanda jadi suatu perjanjian sewa-menyewa dan tidak diperhitungkan dalam keseluruhan biaya sewa-menyewa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20hilang",
+  "related": [],
+  "detailed": false
+}

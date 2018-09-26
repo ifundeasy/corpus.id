@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metabolit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) setiap bentuk hasil metabolisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metabolit",
+  "related": [],
+  "detailed": false
+}

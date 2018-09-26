@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengosek",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membersihkan beras dsb dengan diremas-remas dan diputar-putar dalam bakul;"
+      },
+      {
+        "type": "desc",
+        "text": "mengasah pisau dsb dengan diputar-putar di batu asahan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "membersihkan lantai dengan sikat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengosek",
+  "related": [],
+  "detailed": false
+}

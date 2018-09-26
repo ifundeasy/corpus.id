@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gambar tanda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang menunjukkan pemakaian tertentu, misal tanda panah ( ? ) menunjukkan arah dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gambar%20tanda",
+  "related": [],
+  "detailed": false
+}

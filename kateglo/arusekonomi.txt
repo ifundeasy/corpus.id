@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus ekonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan peredaran perekonomian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20ekonomi",
+  "related": [],
+  "detailed": false
+}

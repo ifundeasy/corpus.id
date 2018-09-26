@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekuatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kuat tentang tenaga; gaya;"
+      },
+      {
+        "type": "desc",
+        "text": "keteguhan; kekukuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekuatan",
+  "related": [],
+  "detailed": false
+}

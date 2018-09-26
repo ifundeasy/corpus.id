@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabel periodik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) susunan unsur kimia berdasarkan kenaikan nomor atomnya, unsur seperiode diletakkan dalam garis mendatar dan unsur-unsur segolongan diletakkan dalam kolom tegak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabel%20periodik",
+  "related": [],
+  "detailed": false
+}

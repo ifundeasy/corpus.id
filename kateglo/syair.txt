@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "puisi lama yang tiap-tiap bait terdiri atas empat larik (baris) yang berakhir dengan bunyi yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "sajak; puisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syair",
+  "related": [],
+  "detailed": false
+}

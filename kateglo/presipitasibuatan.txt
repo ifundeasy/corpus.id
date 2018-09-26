@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "presipitasi buatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) hujan yang berasal dari berbagai jenis awan yang dipilih sebagai hasil usaha manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=presipitasi%20buatan",
+  "related": [],
+  "detailed": false
+}

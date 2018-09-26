@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penanaman baru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan menanami kembali tanah yang kosong dengan tanaman baru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penanaman%20baru",
+  "related": [],
+  "detailed": false
+}

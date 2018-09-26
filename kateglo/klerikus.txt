@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klerikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendeta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klerikus",
+  "related": [],
+  "detailed": false
+}

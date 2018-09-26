@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjawab",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi jawaban (atas pertanyaan, kritik, dsb); membalas; menyahut(i);"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi; menanggapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjawab",
+  "related": [],
+  "detailed": false
+}

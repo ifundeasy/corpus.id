@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka ganjil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka yang tidak habis dibagi dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20ganjil",
+  "related": [],
+  "detailed": false
+}

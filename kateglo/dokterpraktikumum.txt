@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dokter praktik umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter yang memiliki kemampuan mengobati berbagai penyakit dan melakukan praktik medis untuk umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dokter%20praktik%20umum",
+  "related": [],
+  "detailed": false
+}

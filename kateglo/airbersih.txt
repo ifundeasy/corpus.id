@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air bersih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air tawar yang memenuhi syarat kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20bersih",
+  "related": [],
+  "detailed": false
+}

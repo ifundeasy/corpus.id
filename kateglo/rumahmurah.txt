@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah murah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah yang dijual dengan harga yang murah agar orang yang berpenghasilan rendah mampu membelinya (dengan angsuran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20murah",
+  "related": [],
+  "detailed": false
+}

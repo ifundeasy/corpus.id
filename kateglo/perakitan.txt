@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perakitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses merakit (mobil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perakitan",
+  "related": [],
+  "detailed": false
+}

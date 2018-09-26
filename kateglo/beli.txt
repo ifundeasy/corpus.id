@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beli",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membeli"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beli",
+  "related": [],
+  "detailed": false
+}

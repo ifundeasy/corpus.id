@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lawang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pintu (gerbang);"
+      },
+      {
+        "type": "desc",
+        "text": "pohon, Cinnamomum;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan darat, Pangasius micronemus;"
+      },
+      {
+        "type": "desc",
+        "text": "kulit buah pala (yang sudah dikeringkan) yang digunakan sebagai rempah-rempah;"
+      },
+      {
+        "type": "link",
+        "text": "tapak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawang",
+  "related": [],
+  "detailed": false
+}

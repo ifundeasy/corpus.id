@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wafak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang telah ditetapkan (tentang suatu kejadian);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setuju (dengan); menurut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wafak",
+  "related": [],
+  "detailed": false
+}

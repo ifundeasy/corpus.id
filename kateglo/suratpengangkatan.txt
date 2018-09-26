@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat pengangkatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat ketetapan pengangkatan untuk memangku suatu jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20pengangkatan",
+  "related": [],
+  "detailed": false
+}

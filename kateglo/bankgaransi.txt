@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank garansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang mengeluarkan surat jaminan untuk membayar seseorang berdasarkan undang-undang tertentu yang berfungsi sebagai alat pembayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20garansi",
+  "related": [],
+  "detailed": false
+}

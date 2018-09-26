@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku rapor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisi nilai yang diperoleh oleh anak sekolah dalam setiap mata pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20rapor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah permukiman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kota wilayah besar yang khusus digunakan untuk tempat tinggal penduduk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20permukiman",
+  "related": [],
+  "detailed": false
+}

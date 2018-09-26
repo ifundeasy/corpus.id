@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan pengajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rancangan pengajaran yang penting-penting;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20pengajaran",
+  "related": [],
+  "detailed": false
+}

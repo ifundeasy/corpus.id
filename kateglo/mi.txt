@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan makanan dari tepung terigu, bentuknya seperti tali, biasanya dimasak dengan cara digoreng atau direbus, diberi daging, udang, sayuran, bumbu, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "nada yang ketiga pada urutan tangga nada musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mi",
+  "related": [],
+  "detailed": false
+}

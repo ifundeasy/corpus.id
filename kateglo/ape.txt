@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ape",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "desc",
+        "text": "kue apam kecil, dibuat dari adonan tepung terigu, gula, dan telur, rasanya manis dan gurih;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "apa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ape",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "slogan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan atau kalimat pendek yang menarik atau mencolok dan mudah diingat untuk memberitahukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "perkataan atau kalimat pendek yang menarik, mencolok, dan mudah diingat untuk menjelaskan tujuan suatu ideologi golongan, organisasi, partai politik, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=slogan",
+  "related": [],
+  "detailed": false
+}

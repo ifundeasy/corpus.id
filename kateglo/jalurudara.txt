@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalur udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur di udara yang dapat dilalui pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur%20udara",
+  "related": [],
+  "detailed": false
+}

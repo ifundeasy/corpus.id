@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reaktans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) komponen impedans dalam rangkaian arus bolak-balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaktans",
+  "related": [],
+  "detailed": false
+}

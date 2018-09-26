@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sakapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garapan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian hasil (dari tanah garapan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sakapan",
+  "related": [],
+  "detailed": false
+}

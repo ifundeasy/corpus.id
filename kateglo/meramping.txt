@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meramping",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi ramping;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menjadi sedikit (kecil, susut);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "koyak-koyak (cabik-cabik) pada tepi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meramping",
+  "related": [],
+  "detailed": false
+}

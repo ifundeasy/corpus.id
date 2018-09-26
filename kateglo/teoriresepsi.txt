@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "teori resepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teori yang mementingkan tanggapan pembaca terhadap karya sastra, misal tanggapan umum yang mungkin berubah-ubah yang bersifat penafsiran dan penilaian terhadap karya sastra yang terbit dalam rentang waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teori%20resepsi",
+  "related": [],
+  "detailed": false
+}

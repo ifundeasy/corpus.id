@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak langsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang dibebankan secara langsung kepada wajib pajak seperti pajak pendapatan, pajak kekayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20langsung",
+  "related": [],
+  "detailed": false
+}

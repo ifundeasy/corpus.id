@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ventilasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertukaran udara; perputaran udara secara bebas di dalam ruangan;"
+      },
+      {
+        "type": "desc",
+        "text": "(lubang) tempat udara dapat keluar masuk secara bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilasi",
+  "related": [],
+  "detailed": false
+}

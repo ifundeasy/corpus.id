@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selaput tipis yang dibuat dari seluloid untuk tempat gambar negatif (yang akan dibuat potret) atau untuk tempat gambar positif (yang akan dimainkan dalam bioskop);"
+      },
+      {
+        "type": "desc",
+        "text": "lakon (cerita) gambar hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=film",
+  "related": [],
+  "detailed": false
+}

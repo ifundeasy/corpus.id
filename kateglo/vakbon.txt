@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vakbon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "serikat sekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vakbon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tujuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arah; haluan (jurusan);"
+      },
+      {
+        "type": "desc",
+        "text": "yang dituju; maksud; tuntutan (yang dituntut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tujuan",
+  "related": [],
+  "detailed": false
+}

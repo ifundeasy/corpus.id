@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bercuit-cuit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuit",
+  "related": [],
+  "detailed": false
+}

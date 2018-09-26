@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mayoritas tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) jumlah suara pemilih yang mencapai 60%—90%, yang dapat dikumpulkan oleh sebuah partai dalam pemungutan suara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mayoritas%20tunggal",
+  "related": [],
+  "detailed": false
+}

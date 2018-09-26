@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "blog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Komp) catatan harian atau jurnal pribadi di internet yang dapat diakses oleh siapa saja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blog",
+  "related": [],
+  "detailed": false
+}

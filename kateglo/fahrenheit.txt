@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Fahrenheit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan suhu dalam skala termometer yang membagi suhu di antara pembekuan air dan pendidihan air dalam 180o dari 32o—212o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Fahrenheit",
+  "related": [],
+  "detailed": false
+}

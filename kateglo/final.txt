@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "final",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahap (babak) terakhir dari rangkaian pemeriksaan (pekerjaan, pertandingan);"
+      },
+      {
+        "type": "desc",
+        "text": "tahap penyelesaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=final",
+  "related": [],
+  "detailed": false
+}

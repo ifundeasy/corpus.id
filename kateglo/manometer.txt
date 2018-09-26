@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peranti untuk membandingkan tekanan atmosfer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manometer",
+  "related": [],
+  "detailed": false
+}

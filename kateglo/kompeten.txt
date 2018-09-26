@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompeten",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cakap (mengetahui);"
+      },
+      {
+        "type": "desc",
+        "text": "berkuasa (memutuskan, menentukan) sesuatu; berwewenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompeten",
+  "related": [],
+  "detailed": false
+}

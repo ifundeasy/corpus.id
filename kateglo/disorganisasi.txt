@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "disorganisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan tanpa aturan (kacau, cerai-berai, dsb) karena adanya perubahaan pada lembaga sosial tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=disorganisasi",
+  "related": [],
+  "detailed": false
+}

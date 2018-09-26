@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemicu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memicu;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memicu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemicu",
+  "related": [],
+  "detailed": false
+}

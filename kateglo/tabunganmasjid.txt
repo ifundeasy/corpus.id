@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabungan masjid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang dana untuk keperluan masjid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabungan%20masjid",
+  "related": [],
+  "detailed": false
+}

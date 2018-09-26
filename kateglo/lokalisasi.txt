@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembatasan pada suatu tempat atau lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokalisasi",
+  "related": [],
+  "detailed": false
+}

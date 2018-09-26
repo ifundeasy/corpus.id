@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kejuruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepandaian khusus (pertukangan dsb); keterampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kejuruan",
+  "related": [],
+  "detailed": false
+}

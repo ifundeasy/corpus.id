@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan tahunan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunjangan yang diberikan secara tahunan dalam ukuran kualitas atau kuantitas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20tahunan",
+  "related": [],
+  "detailed": false
+}

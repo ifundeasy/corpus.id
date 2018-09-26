@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengertian;"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat; pikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "aliran; haluan; pandangan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerti benar (akan); tahu benar (akan);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pandai dan mengerti benar (tentang suatu hal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paham",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendaduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mendaduk (meminta-minta bukan karena miskin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendaduk",
+  "related": [],
+  "detailed": false
+}

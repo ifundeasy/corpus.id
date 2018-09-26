@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kategori sintaksis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "golongan yang diperoleh suatu satuan sebagai akibat hubungan dengan kata lain dalam konstruksi sintaksis;"
+      },
+      {
+        "type": "desc",
+        "text": "kategori gramatikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategori%20sintaksis",
+  "related": [],
+  "detailed": false
+}

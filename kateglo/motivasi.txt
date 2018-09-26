@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "motivasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dorongan yang timbul pada diri seseorang secara sadar atau tidak sadar untuk melakukan suatu tindakan dengan tujuan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) usaha yang dapat menyebabkan seseorang atau kelompok orang tertentu tergerak melakukan sesuatu karena ingin mencapai tujuan yang dikehendakinya atau mendapat kepuasan dengan perbuatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=motivasi",
+  "related": [],
+  "detailed": false
+}

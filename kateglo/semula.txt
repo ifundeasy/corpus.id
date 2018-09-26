@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(seperti) yang dahulu; yang mula-mula; sediakala;"
+      },
+      {
+        "type": "desc",
+        "text": "yang mula pertama; yang pertama sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "sebelum keadaan sekarang;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(sejak, dari) mula-mula sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "diulang sekali lagi (dari mula);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semula",
+  "related": [],
+  "detailed": false
+}

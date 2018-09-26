@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mineral ringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mineral yang berbobot ringan dan berwarna cerah, misal kuarsa, kalsit, mika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineral%20ringan",
+  "related": [],
+  "detailed": false
+}

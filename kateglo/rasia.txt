@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rasia",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "rahasia"
+      },
+      {
+        "type": "link",
+        "text": "razia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasia",
+  "related": [],
+  "detailed": false
+}

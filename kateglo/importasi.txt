@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "importasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemasukan barang-barang dsb dari luar negeri; pengimporan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=importasi",
+  "related": [],
+  "detailed": false
+}

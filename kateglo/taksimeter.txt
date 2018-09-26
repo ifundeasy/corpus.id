@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taksimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menunjukkan jarak tempuh yang dinyatakan dalam kilometer per jam; meter kecepatan; spedometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taksimeter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan yang keras pada suku kata apabila berdiri sendiri, lepas dari konteks biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20kata",
+  "related": [],
+  "detailed": false
+}

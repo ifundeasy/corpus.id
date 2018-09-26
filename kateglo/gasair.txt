@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gas air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gas yang keluar (menguap) dari air (rawa dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gas%20air",
+  "related": [],
+  "detailed": false
+}

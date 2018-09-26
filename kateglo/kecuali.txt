@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecuali",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "tidak termasuk (dalam golongan, aturan, dsb yang umum); yang selain dari; yang lain daripada;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang diistimewakan dari golongan aturan dsb yang tidak menurut hukum (menyimpang dari aturan umum dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hanya; melainkan (hanya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecuali",
+  "related": [],
+  "detailed": false
+}

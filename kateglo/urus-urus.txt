@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urus-urus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat pencahar; obat pencuci perut (untuk menguras isi perut);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) membersihkan isi perut dengan minum obat pencahar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urus-urus",
+  "related": [],
+  "detailed": false
+}

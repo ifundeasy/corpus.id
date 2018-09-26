@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bacaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(buku dsb) yang dibaca;"
+      },
+      {
+        "type": "desc",
+        "text": "cara membaca;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) penafsiran makna sebuah kalimat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bacaan",
+  "related": [],
+  "detailed": false
+}

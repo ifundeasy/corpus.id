@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homoterm",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan suhu danau yang sama dari permukaan sampai ke dasarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homoterm",
+  "related": [],
+  "detailed": false
+}

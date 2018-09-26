@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opsional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat pilihan; bukan keharusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opsional",
+  "related": [],
+  "detailed": false
+}

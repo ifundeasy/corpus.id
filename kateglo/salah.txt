@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak benar; tidak betul;"
+      },
+      {
+        "type": "desc",
+        "text": "keliru; khilaf;"
+      },
+      {
+        "type": "desc",
+        "text": "menyimpang dari yang seharusnya;"
+      },
+      {
+        "type": "desc",
+        "text": "luput; tidak mengenai sasaran; gagal;"
+      },
+      {
+        "type": "desc",
+        "text": "cela; cacat;"
+      },
+      {
+        "type": "desc",
+        "text": "kekeliruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah",
+  "related": [],
+  "detailed": false
+}

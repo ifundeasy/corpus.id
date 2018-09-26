@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hutan rantau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20tanah",
+  "related": [],
+  "detailed": false
+}

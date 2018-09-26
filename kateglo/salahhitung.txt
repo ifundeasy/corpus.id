@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salah hitung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ek) kesalahan penjumlahan, pengurangan, pengalian, atau penghitungan lainnya dalam pembukuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salah%20hitung",
+  "related": [],
+  "detailed": false
+}

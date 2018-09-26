@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teritorial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai bagian wilayah (daerah hukum) suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teritorial",
+  "related": [],
+  "detailed": false
+}

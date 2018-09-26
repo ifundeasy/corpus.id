@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi terapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang penggunaan data, analisis, dan ramalan cuaca untuk suatu bidang kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20terapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menelepon",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bercakap-cakap (memanggil) melalui pesawat telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menelepon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peroksidase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "enzim yang mengatalisasi suatu oksidasi substrat dengan hidrogen peroksida sebagai akseptor elektron;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) enzim yang memacu reaksi oksidasi dalam tubuh makhluk hidup dengan jalan memindahkan atom hidrogen dari senyawa yang dioksidasi ke peroksida;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peroksidase",
+  "related": [],
+  "detailed": false
+}

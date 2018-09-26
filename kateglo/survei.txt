@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "survei",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik riset dengan memberi batas yang jelas atas data; penyelidikan; peninjauan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengukuran (tanah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=survei",
+  "related": [],
+  "detailed": false
+}

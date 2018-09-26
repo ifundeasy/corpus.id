@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penambangan terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara menggali bahan tambang yang dilakukan pada tempat terbuka, yang langsung berhubungan dengan udara luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penambangan%20terbuka",
+  "related": [],
+  "detailed": false
+}

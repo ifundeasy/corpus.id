@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lapak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berlapak"
+      },
+      {
+        "type": "desc",
+        "text": "tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) lapik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapak",
+  "related": [],
+  "detailed": false
+}

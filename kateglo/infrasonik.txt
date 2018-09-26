@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infrasonik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan frekuensi (tentang getaran suara) di bawah frekuensi suara yang dapat didengar manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infrasonik",
+  "related": [],
+  "detailed": false
+}

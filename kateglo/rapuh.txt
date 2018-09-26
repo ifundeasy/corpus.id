@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rapuh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah rusak (patah, pecah, sobek putus);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lemah, sakit-sakitan (tentang tubuh);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak teguh (tidak tetap pendirian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapuh",
+  "related": [],
+  "detailed": false
+}

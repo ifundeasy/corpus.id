@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tegangan otot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonus",
+  "related": [],
+  "detailed": false
+}

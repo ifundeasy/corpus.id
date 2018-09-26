@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kunjungan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lawatan dinas untuk menyaksikan secara langsung (kegiatan pembangunan, keadaan masyarakat, situasi keamanan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kunjungan%20kerja",
+  "related": [],
+  "detailed": false
+}

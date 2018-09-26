@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relevansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan; kaitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relevansi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kabar pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kabar yang diterbitkan atau diawasi oleh pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kabar%20pemerintah",
+  "related": [],
+  "detailed": false
+}

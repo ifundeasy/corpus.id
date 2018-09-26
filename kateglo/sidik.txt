@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sidik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "selidik (tentang jari); periksa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "benar; jujur;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "fajar sidik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi (sukat, liter, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "periuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takar",
+  "related": [],
+  "detailed": false
+}

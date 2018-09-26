@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evaporator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menguapkan cairan, misal menguapkan pelarut sehingga diperoleh larutan yang lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evaporator",
+  "related": [],
+  "detailed": false
+}

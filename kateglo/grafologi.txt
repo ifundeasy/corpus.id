@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grafologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang aksara atau sistem tulisan;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu suratan tangan; ilmu tentang hubungan antara watak dan tulisan tangan (rajah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grafologi",
+  "related": [],
+  "detailed": false
+}

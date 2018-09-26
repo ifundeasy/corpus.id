@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usia kawin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usia yang dianggap cocok secara fisik dan mental untuk kawin (kira-kira di atas 20 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usia%20kawin",
+  "related": [],
+  "detailed": false
+}

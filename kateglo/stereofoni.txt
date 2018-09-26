@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stereofoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seni perekaman secara stereofonik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stereofoni",
+  "related": [],
+  "detailed": false
+}

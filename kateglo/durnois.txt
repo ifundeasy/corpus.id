@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "durnois",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersikap (bersifat) seperti durno;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan persekongkolan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=durnois",
+  "related": [],
+  "detailed": false
+}

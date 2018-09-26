@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkarat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada karatnya; dimakan karat;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) tua; lapuk;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) jahat; buruk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkarat",
+  "related": [],
+  "detailed": false
+}

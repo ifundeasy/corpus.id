@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "novela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) kisahan prosa rekaan yang lebih panjang dan lebih kompleks daripada cerita pendek, tetapi tidak sepanjang novel, jangkauannya biasanya terbatas pada satu peristiwa, satu keadaan, dan satu titik tikaian; novelet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=novela",
+  "related": [],
+  "detailed": false
+}

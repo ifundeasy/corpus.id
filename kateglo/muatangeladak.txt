@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "muatan geladak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala muatan yang diletakkan di atas geladak kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muatan%20geladak",
+  "related": [],
+  "detailed": false
+}

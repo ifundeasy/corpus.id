@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "privat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "tersendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "partikelir; swasta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=privat",
+  "related": [],
+  "detailed": false
+}

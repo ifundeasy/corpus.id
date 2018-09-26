@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "enak sekali; nikmat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) irama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mat",
+  "related": [],
+  "detailed": false
+}

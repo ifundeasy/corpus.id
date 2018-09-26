@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "taruhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang dsb yang dipasang dalam perjudian; tagan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanggungan uang dsb; cagar;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipertaruhkan (kalau perlu dikorbankan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "yang disuruh simpan (rawat, selenggarakan, dsb); titipan; rawatan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(pakaian, cincin, permadani, dsb) yang hanya dipakai apabila ada keperluan (pesta, perayaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hadiah yang dijanjikan (kepada mereka yang dapat menangkap penjahat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bertaruh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taruhan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koefisien",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bagian suku yang berupa bilangan atau konstan, biasanya dituliskan sebelum lambang peubah, seperti angka 2 dalam 2 x atau dalam 2 (x + y);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koefisien",
+  "related": [],
+  "detailed": false
+}

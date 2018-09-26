@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persetujuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan setuju (atau pernyataan menyetujui); pembenaran (pengesahan, perkenan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata sepakat (antara kedua belah pihak); sesuatu (perjanjian dsb) yang telah disetujui oleh kedua belah pihak dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "persesuaian; kecocokan; keselarasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persetujuan",
+  "related": [],
+  "detailed": false
+}

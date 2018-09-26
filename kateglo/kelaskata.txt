@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kelas atau golongan (kategori) kata berdasarkan bentuk, fungsi, atau maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20kata",
+  "related": [],
+  "detailed": false
+}

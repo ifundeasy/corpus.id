@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis spektroskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) penelaahan susunan zat dengan menggunakan spektroskop (jumlah kecil unsur dapat didekati melalui garis spektrum khas unsur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20spektroskop",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fonetis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan bunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan fonetik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fonetis",
+  "related": [],
+  "detailed": false
+}

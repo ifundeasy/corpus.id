@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyadur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyadur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyadur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyadur",
+  "related": [],
+  "detailed": false
+}

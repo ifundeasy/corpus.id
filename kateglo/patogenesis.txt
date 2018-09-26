@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patogenesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses berjangkitnya penyakit yang dimulai dari permulaan terjadinya infeksi sampai dengan timbulnya reaksi akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patogenesis",
+  "related": [],
+  "detailed": false
+}

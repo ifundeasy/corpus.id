@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akuntan publik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) akuntan, yang sesuai dengan ketentuan undang-undang, terdaftar pada register negara dan mempunyai izin Menteri Keuangan untuk membuka kantor akuntan (swasta) yang bertugas memberikan layanan jasa akuntansi kepada masyarakat atas pembayaran tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akuntan%20publik",
+  "related": [],
+  "detailed": false
+}

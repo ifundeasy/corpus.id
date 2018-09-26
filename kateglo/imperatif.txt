@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imperatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat memerintah atau memberi komando; mempunyai hak memberi komando; bersifat mengharuskan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk perintah untuk kalimat atau verba yang menyatakan larangan atau keharusan melaksanakan perbuatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imperatif",
+  "related": [],
+  "detailed": false
+}

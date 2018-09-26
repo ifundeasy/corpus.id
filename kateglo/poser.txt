@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poser",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memposer"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poser",
+  "related": [],
+  "detailed": false
+}

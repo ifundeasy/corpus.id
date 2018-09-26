@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manjur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat menyembuhkan (tentang obat dsb); mustajab; mujarab;"
+      },
+      {
+        "type": "desc",
+        "text": "benar-benar besar dayanya (tentang doa, mantra, dsb); sakti;"
+      },
+      {
+        "type": "desc",
+        "text": "benar-benar dapat lekas mematikan (tentang bisa, racun, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manjur",
+  "related": [],
+  "detailed": false
+}

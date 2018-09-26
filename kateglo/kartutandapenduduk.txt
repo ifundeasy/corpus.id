@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu tanda penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kartu pengenal yang harus dimiliki setiap orang (warga negara) yang memuat nama, nomor, jenis kelamin, umur dan tempat lahir, pekerjaan, dan alamat yang jelas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20tanda%20penduduk",
+  "related": [],
+  "detailed": false
+}

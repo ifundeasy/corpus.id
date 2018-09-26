@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persalinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selengkap pakaian pengganti;"
+      },
+      {
+        "type": "desc",
+        "text": "hadiah yang berupa selengkap pakaian;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat bersalin;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal (berhubungan dengan) bersalin;"
+      },
+      {
+        "type": "desc",
+        "text": "pesalin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persalinan",
+  "related": [],
+  "detailed": false
+}

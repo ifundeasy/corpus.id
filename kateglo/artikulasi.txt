@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "artikulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "sendi;"
+      },
+      {
+        "type": "desc",
+        "text": "sambungan di antara dua bagian, misal tempat melekatnya daun pada ranting;"
+      },
+      {
+        "type": "desc",
+        "text": "buku pada batang;"
+      },
+      {
+        "type": "desc",
+        "text": "lafal, pengucapan kata;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan rongga dan ruang dalam saluran suara untuk menghasilkan bunyi bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artikulasi",
+  "related": [],
+  "detailed": false
+}

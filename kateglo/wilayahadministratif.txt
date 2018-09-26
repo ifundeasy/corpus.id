@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wilayah administratif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkungan kerja perangkat pemerintah pusat yang menyelenggarakan tugas pemerintahan umum di daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wilayah%20administratif",
+  "related": [],
+  "detailed": false
+}

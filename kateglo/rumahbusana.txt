@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah busana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat khusus untuk memamerkan dan menjual pakaian jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20busana",
+  "related": [],
+  "detailed": false
+}

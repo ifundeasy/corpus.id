@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satu-satunya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hanya satu, tiada yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satu-satunya",
+  "related": [],
+  "detailed": false
+}

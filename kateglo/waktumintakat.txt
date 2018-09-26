@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu mintakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) waktu menengah di suatu tempat dari zona waktu yang merupakan waktu menengah setempat dari derajat tengahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20mintakat",
+  "related": [],
+  "detailed": false
+}

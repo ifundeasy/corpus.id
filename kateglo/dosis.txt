@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "takaran obat untuk sekali pakai (dimakan, diminum, disuntikkan, dsb) dalam jangka waktu tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran pengobatan yang harus diberikan untuk jangka waktu tertentu (tentang radiasi atau penyinaran pada daerah atau bagian tubuh tertentu);"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah energi atau tenaga yang diberikan oleh zarah pengion kepada suatu satuan massa bahan yang disinari atau diradiasi pada tempat yang diselidiki atau diminati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosis",
+  "related": [],
+  "detailed": false
+}

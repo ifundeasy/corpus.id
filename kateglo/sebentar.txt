@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebentar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam waktu yang singkat; tidak lama;"
+      },
+      {
+        "type": "desc",
+        "text": "nanti;"
+      },
+      {
+        "type": "desc",
+        "text": "kadang-kadang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebentar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "satai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "irisan daging kecil-kecil yang ditusuk dan dipanggang, diberi bumbu kacang atau kecap;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempersatai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satai",
+  "related": [],
+  "detailed": false
+}

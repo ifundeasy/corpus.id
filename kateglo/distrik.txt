@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "distrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian kota atau negara yang dibagi untuk tujuan tertentu; wilayah;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah bagian dari kabupaten yang pemerintahannya dipimpin oleh pembantu bupati (sebelum tahun 1970); kewedanaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=distrik",
+  "related": [],
+  "detailed": false
+}

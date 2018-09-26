@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keartisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang berhubungan dengan artis; perihal artis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keartisan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membujur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memanjang;"
+      },
+      {
+        "type": "desc",
+        "text": "terletak memanjang;"
+      },
+      {
+        "type": "desc",
+        "text": "terbaring (tentang mayat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membujur",
+  "related": [],
+  "detailed": false
+}

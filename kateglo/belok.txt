@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berkelok; berlekuk; bengkok;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "becek; berlumpur;"
+      },
+      {
+        "type": "desc",
+        "text": "besar dan lebar (tentang mata);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah becek, tetapi agak keras sehingga melekat jika diinjak;"
+      },
+      {
+        "type": "desc",
+        "text": "kerek besar; kapi;"
+      },
+      {
+        "type": "desc",
+        "text": "pasung (kayu untuk membelenggu kaki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belok",
+  "related": [],
+  "detailed": false
+}

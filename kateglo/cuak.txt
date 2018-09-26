@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "binatang (seperti kerbau, gajah) untuk memikat (gajah, kerbau liar) supaya dapat ditangkap;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "takut; gentar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuak",
+  "related": [],
+  "detailed": false
+}

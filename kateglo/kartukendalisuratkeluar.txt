@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu kendali surat keluar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kartu kendali untuk mengelola surat keluar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20kendali%20surat%20keluar",
+  "related": [],
+  "detailed": false
+}

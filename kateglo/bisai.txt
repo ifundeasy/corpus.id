@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bisai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "bagus; elok;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesolek (suka berdandan baik-baik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bisai",
+  "related": [],
+  "detailed": false
+}

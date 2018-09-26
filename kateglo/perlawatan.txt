@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlawatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berlawat;"
+      },
+      {
+        "type": "desc",
+        "text": "lawatan; kunjungan ke negeri (negara) lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlawatan",
+  "related": [],
+  "detailed": false
+}

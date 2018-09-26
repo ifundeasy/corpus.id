@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat parkir pesawat udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apron",
+  "related": [],
+  "detailed": false
+}

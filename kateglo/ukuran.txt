@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ukuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil mengukur;"
+      },
+      {
+        "type": "desc",
+        "text": "panjang, lebar, luas, besar sesuatu; format;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan yang menunjukkan besar satuan ukuran suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) alat untuk mengukur, misal penggaris, meteran, jengkal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) norma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ukuran",
+  "related": [],
+  "detailed": false
+}

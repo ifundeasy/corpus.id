@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bujet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggaran pemasukan dan pengeluaran uang; anggaran belanja;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) rencana anggaran terperinci sebagai pedoman untuk menjalankan operasi pada masa yang akan datang dan juga digunakan sebagai dasar untuk melakukan penilaian atas pelaksanaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bujet",
+  "related": [],
+  "detailed": false
+}

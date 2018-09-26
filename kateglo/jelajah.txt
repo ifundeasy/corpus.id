@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jelajah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjelajah"
+      },
+      {
+        "type": "link",
+        "text": "menjelajahkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jelajah",
+  "related": [],
+  "detailed": false
+}

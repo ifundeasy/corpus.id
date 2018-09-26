@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ransum termakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ransum makanan yang dapat habis dimakan ternak selama satu hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ransum%20termakan",
+  "related": [],
+  "detailed": false
+}

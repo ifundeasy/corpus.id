@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga profesional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli menjalankan tugasnya dalam suatu profesi tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20profesional",
+  "related": [],
+  "detailed": false
+}

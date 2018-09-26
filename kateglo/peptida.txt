@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peptida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "amida yang berasal dari beberapa asam amino dan diperoleh dengan hidrolisis atas protein;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peptida",
+  "related": [],
+  "detailed": false
+}

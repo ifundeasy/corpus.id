@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "semata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu mata;"
+      },
+      {
+        "type": "desc",
+        "text": "semata-mata;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) satu-satunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semata",
+  "related": [],
+  "detailed": false
+}

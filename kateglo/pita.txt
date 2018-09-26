@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur (kain dsb) yang panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) lajur kertas pendek sebagai tanda sudah membayar bea dan cukai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pita",
+  "related": [],
+  "detailed": false
+}

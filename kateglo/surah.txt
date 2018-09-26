@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "surah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) bagian atau bab dalam Alquran (kitab suci Alquran mempunyai 114 surah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kobok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekelompok (orang); puak; partai; golongan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berkobok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kobok",
+  "related": [],
+  "detailed": false
+}

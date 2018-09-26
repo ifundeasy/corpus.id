@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "feminin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai (seperti, menyerupai) wanita;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat kewanitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=feminin",
+  "related": [],
+  "detailed": false
+}

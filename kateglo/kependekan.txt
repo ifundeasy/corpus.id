@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kependekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal pendek;"
+      },
+      {
+        "type": "desc",
+        "text": "singkatan; ringkasan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kependekan",
+  "related": [],
+  "detailed": false
+}

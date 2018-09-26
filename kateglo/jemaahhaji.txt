@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jemaah haji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rombongan yang menunaikan ibadah haji (ke Mekah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jemaah%20haji",
+  "related": [],
+  "detailed": false
+}

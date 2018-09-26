@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "frigorimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) alat untuk mengukur daya pendingin udara dalam daerah suhu sekitar 36,5oC;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=frigorimeter",
+  "related": [],
+  "detailed": false
+}

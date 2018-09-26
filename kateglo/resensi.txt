@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertimbangan atau pembicaraan tentang buku; ulasan buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resensi",
+  "related": [],
+  "detailed": false
+}

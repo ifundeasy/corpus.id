@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat isian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang harus diisi; formulir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20isian",
+  "related": [],
+  "detailed": false
+}

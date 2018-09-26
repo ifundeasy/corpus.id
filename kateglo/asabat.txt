@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asabat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "urat yang menyebabkan kita dapat merasa (melihat dsb); saraf;"
+      },
+      {
+        "type": "desc",
+        "text": "ahli waris yang berhubungan darah langsung dengan yang meninggal;"
+      },
+      {
+        "type": "desc",
+        "text": "ahli waris yang berhubungan dengan yang meninggal secara kerabat dari pihak bapak;"
+      },
+      {
+        "type": "desc",
+        "text": "ahli waris yang hanya mendapat sisa warisan setelah dibagikan kepada ahli waris yang mendapat bagian tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asabat",
+  "related": [],
+  "detailed": false
+}

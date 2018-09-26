@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kunjung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berkunjung"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lekas; pernah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kunjung",
+  "related": [],
+  "detailed": false
+}

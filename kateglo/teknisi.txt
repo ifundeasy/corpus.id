@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teknisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli teknik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teknisi",
+  "related": [],
+  "detailed": false
+}

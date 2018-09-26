@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengikuti arus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menurut segala perubahan zaman (tentang mode, kebiasaan, pergaulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengikuti%20arus",
+  "related": [],
+  "detailed": false
+}

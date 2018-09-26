@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "romanistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang bahasa dan kesusastraan Latin, Prancis, Spanyol, Italia, Portugis, dan Romania;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=romanistik",
+  "related": [],
+  "detailed": false
+}

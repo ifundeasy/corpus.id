@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongkalikong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jujur; tidak terang-terangan; sembunyi-sembunyi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal tahu sama tahu (dalam melakukan sesuatu yang tidak baik); sekongkol;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongkalikong",
+  "related": [],
+  "detailed": false
+}

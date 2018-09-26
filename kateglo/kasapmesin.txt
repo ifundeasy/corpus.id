@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kasap mesin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kasap bagian mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasap%20mesin",
+  "related": [],
+  "detailed": false
+}

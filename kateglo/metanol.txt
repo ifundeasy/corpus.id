@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metanol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan bakar yang berasal dari gas bumi atau dari salah satu komponen tambang minyak bumi dengan bahan baku komposisi karbon dan hidrogen; CH3OH;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metanol",
+  "related": [],
+  "detailed": false
+}

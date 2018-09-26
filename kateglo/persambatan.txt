@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persambatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persambatan",
+  "related": [],
+  "detailed": false
+}

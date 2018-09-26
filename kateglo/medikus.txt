@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medikus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medikus",
+  "related": [],
+  "detailed": false
+}

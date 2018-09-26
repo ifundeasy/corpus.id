@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karcis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kecil (carik kertas khusus) sebagai tanda telah membayar ongkos dsb (untuk naik bus, menonton bioskop, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karcis",
+  "related": [],
+  "detailed": false
+}

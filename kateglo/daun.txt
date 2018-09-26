@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tanaman yang tumbuh berhelai-helai pada ranting (biasanya hijau) sebagai alat bernapas dan mengolah zat makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian barang yang tipis lebar (seperti -- dayung; -- jendela; -- pintu);"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang berhelai-helai seperti daun (seperti kartu domino, kertas sigaret);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daun",
+  "related": [],
+  "detailed": false
+}

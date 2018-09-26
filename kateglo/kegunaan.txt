@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegunaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "faedah; manfaat;"
+      },
+      {
+        "type": "desc",
+        "text": "kepentingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegunaan",
+  "related": [],
+  "detailed": false
+}

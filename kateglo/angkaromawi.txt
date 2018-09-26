@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka Romawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka yang berasal dari Zaman Kerajaan Romawi, seperti I, II, III, IV, V, VI, VII, VIII, IX, X, L (= 50), C (= 500), M (= 1000);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20Romawi",
+  "related": [],
+  "detailed": false
+}

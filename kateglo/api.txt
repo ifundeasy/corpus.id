@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panas dan cahaya yang berasal dari sesuatu yang terbakar; nyala;"
+      },
+      {
+        "type": "desc",
+        "text": "kebakaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perasaan yang menggelora (tentang cinta, perjuangan); semangat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=api",
+  "related": [],
+  "detailed": false
+}

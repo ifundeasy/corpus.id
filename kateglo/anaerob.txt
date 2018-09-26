@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anaerob",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) organisme yang dapat hidup secara baik tanpa oksigen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anaerob",
+  "related": [],
+  "detailed": false
+}

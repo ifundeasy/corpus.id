@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "erg",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) satuan energi benda dengan massa 1 gram yang bergerak dengan kecepatan 1 cm per detik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erg",
+  "related": [],
+  "detailed": false
+}

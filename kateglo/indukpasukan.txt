@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "induk pasukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasukan inti yang menjadi pokok dalam gerakan perang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induk%20pasukan",
+  "related": [],
+  "detailed": false
+}

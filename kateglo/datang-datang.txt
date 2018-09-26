@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "datang-datang",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "baru saja datang;"
+      },
+      {
+        "type": "desc",
+        "text": "baru sekali datang;"
+      },
+      {
+        "type": "desc",
+        "text": "selalu (seringkali) datang lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=datang-datang",
+  "related": [],
+  "detailed": false
+}

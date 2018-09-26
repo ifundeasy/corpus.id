@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjagaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menjaga;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeliharaan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengawasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjagaan",
+  "related": [],
+  "detailed": false
+}

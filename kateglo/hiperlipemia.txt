@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hiperlipemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) keadaan patologis akibat kelainan metabolisme lemak darah yang ditandai oleh meningginya kadar kolesterol darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hiperlipemia",
+  "related": [],
+  "detailed": false
+}

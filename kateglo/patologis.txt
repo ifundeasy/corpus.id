@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patologis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan ilmu tentang penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan sakit; abnormal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patologis",
+  "related": [],
+  "detailed": false
+}

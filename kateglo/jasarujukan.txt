@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jasa rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyelenggaraan dan pengaturan pelayanan rujukan oleh perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jasa%20rujukan",
+  "related": [],
+  "detailed": false
+}

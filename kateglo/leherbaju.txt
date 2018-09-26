@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "leher baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian baju yang mengelilingi leher;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leher%20baju",
+  "related": [],
+  "detailed": false
+}

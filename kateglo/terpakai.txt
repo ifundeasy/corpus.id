@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpakai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dipakai tanpa sengaja;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dipakai; ada gunanya (berguna);"
+      },
+      {
+        "type": "desc",
+        "text": "masih lazim dipakai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpakai",
+  "related": [],
+  "detailed": false
+}

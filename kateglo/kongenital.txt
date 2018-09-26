@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kongenital",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Anat) terdapat (dibawa) sejak lahir (tentang kelainan atau cacat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kongenital",
+  "related": [],
+  "detailed": false
+}

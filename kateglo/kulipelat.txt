@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuli pelat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh kasar pengangkut barang dsb di stasiun yang telah terdaftar (memakai pelat nomor di lengannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuli%20pelat",
+  "related": [],
+  "detailed": false
+}

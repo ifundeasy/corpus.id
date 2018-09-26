@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak kisahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang melukiskan cerita secara terperinci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20kisahan",
+  "related": [],
+  "detailed": false
+}

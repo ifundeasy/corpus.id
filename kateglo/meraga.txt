@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meraga",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seperti raga;"
+      },
+      {
+        "type": "desc",
+        "text": "kasap; berserabut;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "beraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meraga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyikat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyikat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyikat",
+  "related": [],
+  "detailed": false
+}

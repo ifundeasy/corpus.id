@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inkubator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang dipanasi dengan aliran listrik dsb dipakai untuk mengerami dan menetaskan telur;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) perkakas untuk memanaskan bayi yang lahir sebelum waktu-nya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) kamar atau kotak yang bersuhu tetap (biasanya 37oC), tempat kultur bakteri ditumbuhkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inkubator",
+  "related": [],
+  "detailed": false
+}

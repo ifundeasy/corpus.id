@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efisiensi energi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian energi yang disalurkan menjadi proses yang berguna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efisiensi%20energi",
+  "related": [],
+  "detailed": false
+}

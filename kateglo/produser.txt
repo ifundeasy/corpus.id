@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "produser",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(orang) yang menghasilkan; produsen;"
+      },
+      {
+        "type": "desc",
+        "text": "pengusaha film, teater, siaran televisi atau radio;"
+      },
+      {
+        "type": "desc",
+        "text": "tungku pembuat gas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produser",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peptidase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "enzim yang memecah peptida menjadi asam amino;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peptidase",
+  "related": [],
+  "detailed": false
+}

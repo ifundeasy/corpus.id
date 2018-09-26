@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah sakit bersalin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah sakit yang khusus melayani pemeriksaan ibu hamil, ibu yang akan melahirkan, dan kesehatan anak di bawah usia lima tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20sakit%20bersalin",
+  "related": [],
+  "detailed": false
+}

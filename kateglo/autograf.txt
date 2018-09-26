@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "autograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Filol)"
+      },
+      {
+        "type": "desc",
+        "text": "tulisan pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "naskah asli yang ditulis tangan oleh pengarangnya sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda tangan dari seseorang yang termasyhur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=autograf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi yang luas atau umum yang memuat buku yang masalahnya tidak saling berhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "bibliografi yang merupakan catatan asli dari seluruh atau sebagian dari suatu terbitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20primer",
+  "related": [],
+  "detailed": false
+}

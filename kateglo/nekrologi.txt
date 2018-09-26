@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nekrologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar atau catatan mengenai orang yang meninggal dalam suatu waktu (periode) tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "catatan riwayat hidup orang yang baru saja meninggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nekrologi",
+  "related": [],
+  "detailed": false
+}

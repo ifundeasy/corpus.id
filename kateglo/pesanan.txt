@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permintaan hendak membeli (supaya dikirim, dibuatkan, dsb); barang yang dipesan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesanan",
+  "related": [],
+  "detailed": false
+}

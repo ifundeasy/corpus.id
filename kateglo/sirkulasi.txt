@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirkulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peredaran;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah terbitan; oplah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirkulasi",
+  "related": [],
+  "detailed": false
+}

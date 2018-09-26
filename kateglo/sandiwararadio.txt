@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sandiwara radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sandiwara yang disiarkan melalui radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandiwara%20radio",
+  "related": [],
+  "detailed": false
+}

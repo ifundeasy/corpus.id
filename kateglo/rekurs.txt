@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekurs",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengulang pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekurs",
+  "related": [],
+  "detailed": false
+}

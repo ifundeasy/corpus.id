@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seput",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "lekas; segera; cepat;"
+      },
+      {
+        "type": "desc",
+        "text": "suram; luntur (tentang warna dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kusam, tidak berkilat (tentang warna logam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seput",
+  "related": [],
+  "detailed": false
+}

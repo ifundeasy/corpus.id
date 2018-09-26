@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit menular;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampar",
+  "related": [],
+  "detailed": false
+}

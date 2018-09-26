@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seulas",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(ki) sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seulas",
+  "related": [],
+  "detailed": false
+}

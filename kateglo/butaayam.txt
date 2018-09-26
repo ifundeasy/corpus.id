@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buta ayam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabur penglihatan pada petang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu petang (sesudah senja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buta%20ayam",
+  "related": [],
+  "detailed": false
+}

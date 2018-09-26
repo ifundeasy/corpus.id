@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsonantal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) sifat sistem aksara yang silabis dan tidak menggambarkan vokal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsonantal",
+  "related": [],
+  "detailed": false
+}

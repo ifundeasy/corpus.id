@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "madah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata-kata pujian;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) kata;"
+      },
+      {
+        "type": "desc",
+        "text": "mad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=madah",
+  "related": [],
+  "detailed": false
+}

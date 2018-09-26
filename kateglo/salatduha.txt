@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat Duha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat sunah pada pagi hari (kira-kira pukul 09.00) sebanyak 2—8 rakaat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20Duha",
+  "related": [],
+  "detailed": false
+}

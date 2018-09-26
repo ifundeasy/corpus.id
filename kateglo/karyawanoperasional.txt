@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karyawan operasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang secara langsung harus mengerjakan sendiri pekerjaannya sesuai dengan perintah atasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karyawan%20operasional",
+  "related": [],
+  "detailed": false
+}

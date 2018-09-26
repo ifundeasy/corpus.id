@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panjang antaranya (tentang waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "panjangnya waktu (antara waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "kuno; sejak dahulu kala; dahulu telah ada;"
+      },
+      {
+        "type": "desc",
+        "text": "tua (tidak baru); usang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lama",
+  "related": [],
+  "detailed": false
+}

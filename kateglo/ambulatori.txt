@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ambulatori",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "selalu berpindah; berjalan dari satu tempat ke tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambulatori",
+  "related": [],
+  "detailed": false
+}

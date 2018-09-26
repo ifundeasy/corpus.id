@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "campur;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidaktentuan; keraguan; pengeliruan;"
+      },
+      {
+        "type": "desc",
+        "text": "suatu hal yang berarti banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "batang; tangkai;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pedang kebesaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baur",
+  "related": [],
+  "detailed": false
+}

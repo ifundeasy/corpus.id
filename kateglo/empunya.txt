@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empunya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "tuannya; pemiliknya;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "punya; mempunyai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empunya",
+  "related": [],
+  "detailed": false
+}

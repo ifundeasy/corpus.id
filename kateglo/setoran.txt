@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menyetorkan;"
+      },
+      {
+        "type": "desc",
+        "text": "apa-apa yang disetorkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setoran",
+  "related": [],
+  "detailed": false
+}

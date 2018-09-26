@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bakteriofag",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "tipe virus yang memerlukan suatu bakteri untuk menggandakan diri;"
+      },
+      {
+        "type": "desc",
+        "text": "virus yang biasa menyerang bakteri dan dapat menyebabkan hancurnya bakteri tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteriofag",
+  "related": [],
+  "detailed": false
+}

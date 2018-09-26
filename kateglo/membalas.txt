@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membalas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjawab (surat dsb); mengimbangi (kebaikan orang dsb); memberikan (membayar) sesuatu sebagai imbangan jasa (perbuatan dsb) yang sudah diterima;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan sesuatu untuk memulangkan kembali perbuatan yang dikenakan kepadanya;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan sesuatu untuk memuaskan sakit hati dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) memutar kembali (kemudi mobil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membalas",
+  "related": [],
+  "detailed": false
+}

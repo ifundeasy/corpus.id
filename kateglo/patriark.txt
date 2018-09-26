@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patriark",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bapak dan kepala keluarga; datuk;"
+      },
+      {
+        "type": "desc",
+        "text": "pendiri sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang tua yang sangat dihargai atau dihormati; sesepuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) ulama tertinggi gereja Kristen Ortodoks; Uskup Agung; Mahauskup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patriark",
+  "related": [],
+  "detailed": false
+}

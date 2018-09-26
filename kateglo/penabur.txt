@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penabur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menabur (benih dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menabur;"
+      },
+      {
+        "type": "desc",
+        "text": "mimis berukuran kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penabur",
+  "related": [],
+  "detailed": false
+}
