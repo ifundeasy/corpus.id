@@ -1,0 +1,22 @@
+{
+  "name": "kateglo-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "environment": "development",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "md5": "^2.2.1",
+    "moment": "^2.22.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "rimraf": "^2.6.2",
+    "uuid": "^3.2.1"
+  }
+}

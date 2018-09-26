@@ -1,0 +1,9 @@
+sebagian udah: baru sampe "Daftar tokoh Asia Tenggara di Indonesia"
+https://id.wikipedia.org/wiki/Daftar_tokoh_Indonesia
+
+belum semua
+https://id.wikipedia.org/wiki/Kategori:Daftar_tokoh_Indonesia_menurut_profesi
+
+caranya, buka konsol developer dari chrome, ketik:
+selektor = '#mw-content-text > div > ul > li > a:nth-child(1)'
+f = ''; $(selektor).map(function(e){ if ($(this).text()) f+=$(this).text() + '\n'}); console.log(f)
