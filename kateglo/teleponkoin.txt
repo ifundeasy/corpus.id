@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon koin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon umum yang dipakai dengan menggunakan koin (uang logam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20koin",
+  "related": [],
+  "detailed": false
+}

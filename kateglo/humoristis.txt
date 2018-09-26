@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humoristis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara humor (lucu, bergurau, berkelakar, menggembirakan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat humor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humoristis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pupuk garam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pupuk buatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pupuk%20garam",
+  "related": [],
+  "detailed": false
+}

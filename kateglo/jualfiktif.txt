@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual fiktif",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "jual beli saham secara fiktif (tidak nyata terjadi) yang dilakukan oleh dua orang makelar (komisioner) atau lebih dengan tujuan menciptakan catatan harga tertentu (lazimnya tindakan ini dilarang oleh undang-undang ataupun peraturan bursa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20fiktif",
+  "related": [],
+  "detailed": false
+}

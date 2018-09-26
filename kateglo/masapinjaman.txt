@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa pinjaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu yang diizinkan bagi pembaca yang meminjam buku untuk dibaca di luar perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20pinjaman",
+  "related": [],
+  "detailed": false
+}

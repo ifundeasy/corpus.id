@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuliah lapangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kuliah langsung praktik di lapangan yang sesuai dengan keahlian bidang ilmu yang dituntut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuliah%20lapangan",
+  "related": [],
+  "detailed": false
+}

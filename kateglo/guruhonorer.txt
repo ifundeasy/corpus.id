@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "guru honorer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "guru yang tidak digaji sebagai guru tetap, tetapi menerima honorarium berdasarkan jumlah jam pelajaran yang diberikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=guru%20honorer",
+  "related": [],
+  "detailed": false
+}

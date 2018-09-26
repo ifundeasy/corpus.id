@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akan",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(untuk menyatakan sesuatu yang hendak terjadi, berarti) hendak;"
+      }
+    ],
+    "pre": [
+      {
+        "type": "desc",
+        "text": "(sebagai kata perangkai untuk menghubungkan verba dsb dengan pelengkapnya yang berarti;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai; tentang; terhadap;"
+      },
+      {
+        "type": "desc",
+        "text": "untuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tulisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menulis; barang yang ditulis; cara menulis;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan (dalam majalah, surat kabar, dsb atau yang berupa cerita, dongeng, dsb); buku-buku (karya-karya tulis dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gambaran; lukisan;"
+      },
+      {
+        "type": "desc",
+        "text": "batik (yang dibatik bukan dicetak tentang kain);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) suratan (nasib, takdir); dengan ~ , dengan tertulis (tidak dengan lisan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tulisan",
+  "related": [],
+  "detailed": false
+}

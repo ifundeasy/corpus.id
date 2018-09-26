@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersilangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersilang;"
+      },
+      {
+        "type": "desc",
+        "text": "silang-menyilang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersilangan",
+  "related": [],
+  "detailed": false
+}

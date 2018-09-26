@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sila",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "silakan"
+      },
+      {
+        "type": "desc",
+        "text": "duduk dengan kaki berlipat dan bersilang;"
+      },
+      {
+        "type": "desc",
+        "text": "aturan yang melatarbelakangi perilaku seseorang atau bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "kelakuan atau perbuatan yang menurut adab (sopan santun);"
+      },
+      {
+        "type": "desc",
+        "text": "dasar; adab; akhlak; moral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sila",
+  "related": [],
+  "detailed": false
+}

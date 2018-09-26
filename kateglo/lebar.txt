@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lebar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lapang; tidak sempit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "lintang suatu bidang;"
+      },
+      {
+        "type": "desc",
+        "text": "luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar",
+  "related": [],
+  "detailed": false
+}

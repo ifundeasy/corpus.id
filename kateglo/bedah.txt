@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bedah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengobatan penyakit dengan jalan memotong (mengiris dsb) bagian tubuh yang sakit; operasi;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) sobek besar (tentang kain dsb); rusak (tentang tambak, bendungan, dsb); bobol; robek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bedah",
+  "related": [],
+  "detailed": false
+}

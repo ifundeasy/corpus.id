@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengusir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengusir;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengusir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengusir",
+  "related": [],
+  "detailed": false
+}

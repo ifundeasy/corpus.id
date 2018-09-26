@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tepung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang lumat-lumat (karena ditumbuk, digiling, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "serbuk yang lumat; bubukan; -- cat, bubukan untuk cat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepung",
+  "related": [],
+  "detailed": false
+}

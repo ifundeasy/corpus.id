@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekat api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) sekat tahan api, dalam jangka waktu satu jam dapat menahan api dengan temperatur 1500oF;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekat%20api",
+  "related": [],
+  "detailed": false
+}

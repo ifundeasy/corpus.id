@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buruk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rusak atau busuk karena sudah lama;"
+      },
+      {
+        "type": "desc",
+        "text": "(tentang kelakuan dsb) jahat; tidak menyenangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak cantik, tidak elok, jelek (tentang muka, rupa, dsb);"
+      },
+      {
+        "type": "link",
+        "text": "burukan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruk",
+  "related": [],
+  "detailed": false
+}

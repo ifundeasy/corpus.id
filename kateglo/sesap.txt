@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sesap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "isap;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "ladang (huma) yang ditinggalkan; bekas ladang (huma);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sesap",
+  "related": [],
+  "detailed": false
+}

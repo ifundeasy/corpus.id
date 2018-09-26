@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pertanian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang digunakan untuk bercocok tanam dengan atau tanpa pengairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pertanian",
+  "related": [],
+  "detailed": false
+}

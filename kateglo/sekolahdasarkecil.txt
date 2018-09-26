@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sekolah dasar kecil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga pendidikan dasar yang didirikan di daerah terpencil dan berpenduduk sedikit, jumlah murid sedikit (minimal tiga orang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah%20dasar%20kecil",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah basah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah persawahan (rawa dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20basah",
+  "related": [],
+  "detailed": false
+}

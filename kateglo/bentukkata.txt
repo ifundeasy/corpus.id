@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bentuk kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) wujud kata tentang yang mengisi fungsi tentang dalam paradigma, misal bentuk nominatif dari nomina, bentuk lampau dari verba, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bentuk%20kata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hubungan gramatikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan antarkata berdasarkan kaidah gramatikalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hubungan%20gramatikal",
+  "related": [],
+  "detailed": false
+}

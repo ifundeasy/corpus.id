@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergantian kulit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengelupasan kulit secara periodik pada hewan (serangga, ular);"
+      },
+      {
+        "type": "desc",
+        "text": "penanggalan bulu pada unggas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergantian%20kulit",
+  "related": [],
+  "detailed": false
+}

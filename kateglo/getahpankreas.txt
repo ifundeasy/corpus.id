@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "getah pankreas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "getah dari pankreas yang mengandung enzim pencernaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=getah%20pankreas",
+  "related": [],
+  "detailed": false
+}

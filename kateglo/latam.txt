@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latam",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melatam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latam",
+  "related": [],
+  "detailed": false
+}

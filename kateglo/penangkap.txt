@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penangkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menangkap;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menangkap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penangkap",
+  "related": [],
+  "detailed": false
+}

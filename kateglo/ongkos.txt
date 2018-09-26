@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ongkos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya;"
+      },
+      {
+        "type": "desc",
+        "text": "belanja;"
+      },
+      {
+        "type": "desc",
+        "text": "upah; bayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ongkos",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rapat yang dihadiri oleh segenap anggota, seksi, dan pengurus; rapat pleno;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20lengkap",
+  "related": [],
+  "detailed": false
+}

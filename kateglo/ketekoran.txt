@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketekoran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal tekor;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan tekor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketekoran",
+  "related": [],
+  "detailed": false
+}

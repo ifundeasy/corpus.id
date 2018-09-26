@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sistem perkawinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "skema yang mengatur pasangan untuk dikawinkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem%20perkawinan",
+  "related": [],
+  "detailed": false
+}

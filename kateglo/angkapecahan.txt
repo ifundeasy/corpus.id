@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka pecahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan pecahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20pecahan",
+  "related": [],
+  "detailed": false
+}

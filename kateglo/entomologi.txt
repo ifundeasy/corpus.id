@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "entomologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan tentang jenis dan kehidupan serangga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=entomologi",
+  "related": [],
+  "detailed": false
+}

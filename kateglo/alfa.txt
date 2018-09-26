@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alfa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf pertama abjad Yunani;"
+      },
+      {
+        "type": "desc",
+        "text": "yang pertama; permulaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astron) bintang utama atau yang paling terang dalam suatu gugus bintang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alfa",
+  "related": [],
+  "detailed": false
+}

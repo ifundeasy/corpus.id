@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turun dr takhta kerajaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "turun takhta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turun%20dr%20takhta%20kerajaan",
+  "related": [],
+  "detailed": false
+}

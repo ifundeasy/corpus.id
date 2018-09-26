@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola pengeboran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pola untuk tujuan peledakan yang menunjukkan jumlah lubang bor, kedalaman, dan arah lubang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20pengeboran",
+  "related": [],
+  "detailed": false
+}

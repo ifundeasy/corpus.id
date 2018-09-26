@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat sinse",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang diramu dan dikeluarkan oleh sinse (tabib Cina);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20sinse",
+  "related": [],
+  "detailed": false
+}

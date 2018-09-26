@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan tangan (khususnya tulisan indah);"
+      },
+      {
+        "type": "desc",
+        "text": "garis;"
+      },
+      {
+        "type": "desc",
+        "text": "guratan pada tangan; rajah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khat",
+  "related": [],
+  "detailed": false
+}

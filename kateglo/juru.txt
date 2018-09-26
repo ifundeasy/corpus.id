@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pandai dalam suatu pekerjaan yang memerlukan latihan, kecakapan dan kecermatan (keterampilan);"
+      },
+      {
+        "type": "link",
+        "text": "menjuru"
+      },
+      {
+        "type": "link",
+        "text": "penjuru"
+      },
+      {
+        "type": "desc",
+        "text": "pangkat struktural pegawai negeri sipil golongan I/c, satu tingkat di bawah juru tingkat satu, satu tingkat di atas juru muda tingkat satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru",
+  "related": [],
+  "detailed": false
+}

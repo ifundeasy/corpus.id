@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembeli siaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pembeli saham yang baru masuk ketika pemegang yang lama menolak memanfaatkan hak belinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembeli%20siaga",
+  "related": [],
+  "detailed": false
+}

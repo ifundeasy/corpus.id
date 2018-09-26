@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku tabungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisikan catatan mengenai banyaknya uang yang ditabung di bank atas nama penabung; buku simpanan disimpan di bank;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20tabungan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ortopedi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang penyembuhan tulang, persendian, dsb yang tidak lurus atau salah bentuk (tulang punggung, kaki dan tangan khusus pada anak-anak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ortopedi",
+  "related": [],
+  "detailed": false
+}

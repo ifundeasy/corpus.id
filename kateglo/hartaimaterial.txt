@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta imaterial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) kepentingan tidak berwujud (paten, ciptaan) yang bernilai uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20imaterial",
+  "related": [],
+  "detailed": false
+}

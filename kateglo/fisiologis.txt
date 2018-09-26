@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisiologis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat fisiologi; berkenaan dengan fisiologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisiologis",
+  "related": [],
+  "detailed": false
+}

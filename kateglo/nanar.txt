@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nanar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa pusing (karena mabuk, kena pukul, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "agak hilang akal (karena kekalahan dsb) bingung; tercengang-cengang;"
+      },
+      {
+        "type": "desc",
+        "text": "marah sekali (mata gelap); garang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nanar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gudangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan terdiri dari sayur-mayur dicampur dengan kelapa parut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gudangan",
+  "related": [],
+  "detailed": false
+}

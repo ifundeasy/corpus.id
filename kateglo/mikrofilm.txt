@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrofilm",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film yang memuat rekaman foto bahan tertulis, tercetak, dsb dalam ukuran yang sangat kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrofilm",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bakteri anaerobik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakteri yang hidup tanpa memerlukan oksigen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bakteri%20anaerobik",
+  "related": [],
+  "detailed": false
+}

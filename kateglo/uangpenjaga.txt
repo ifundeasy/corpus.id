@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang penjaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang disimpan sebagai cadangan (persediaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20penjaga",
+  "related": [],
+  "detailed": false
+}

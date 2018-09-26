@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "refrigerator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengurangi atau untuk mempertahankan suhu ruang di bawah suhu sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=refrigerator",
+  "related": [],
+  "detailed": false
+}

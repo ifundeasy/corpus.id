@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyanyi",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bernyanyi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyanyi",
+  "related": [],
+  "detailed": false
+}

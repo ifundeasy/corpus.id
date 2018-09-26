@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagian beras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) bagian yang digunakan sebagai dasar untuk menentukan ukuran beras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagian%20beras",
+  "related": [],
+  "detailed": false
+}

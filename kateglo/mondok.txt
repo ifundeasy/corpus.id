@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mondok",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pendek gemuk (tentang bentuk sesuatu);"
+      },
+      {
+        "type": "link",
+        "text": "pondok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mondok",
+  "related": [],
+  "detailed": false
+}

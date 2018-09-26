@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinder",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawas orang bekerja (di perkebunan, hutan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) penilik sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinder",
+  "related": [],
+  "detailed": false
+}

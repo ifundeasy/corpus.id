@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan yang zat terlarut dan pelarutnya bereaksi membentuk senyawa yang melarut dalam pelarut dan tidak dapat diperoleh kembali dengan penyulingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20kimia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek paduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) perbedaan antara massa yang diukur pada suatu inti dengan jumlah massa partikel dasar yang bergabung antara nomor massa (A) dengan bobot atom isotop (M) suatu unsur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20paduan",
+  "related": [],
+  "detailed": false
+}

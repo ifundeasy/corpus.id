@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "perahu yang dibuat dari batang kayu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terengah-engah; turun naik (tentang dada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempang",
+  "related": [],
+  "detailed": false
+}

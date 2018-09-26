@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengaudit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pejabat yang berwenang menguji dan mengesahkan laporan keuangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengaudit",
+  "related": [],
+  "detailed": false
+}

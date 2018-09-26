@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telur besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telur yang sangat besar dengan berat rata-rata 63,675 g per butir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telur%20besar",
+  "related": [],
+  "detailed": false
+}

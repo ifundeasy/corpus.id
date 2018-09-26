@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rabun",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang jelas; kurang awas; kabur (tentang penglihatan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "asap (dari daun-daunan, dupa yang dibakar) untuk mengasapi rumah, mengobati orang sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rabun",
+  "related": [],
+  "detailed": false
+}

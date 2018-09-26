@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "avgas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan bakar untuk pesawat terbang bukan jet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=avgas",
+  "related": [],
+  "detailed": false
+}

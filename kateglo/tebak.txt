@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tebak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menebak"
+      },
+      {
+        "type": "link",
+        "text": "menebak"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memecah batu (dalam tambang dsb); linggis; alabangka;"
+      },
+      {
+        "type": "desc",
+        "text": "penggali; sekop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pogrom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembunuhan besar-besaran terhadap orang Yahudi;"
+      },
+      {
+        "type": "desc",
+        "text": "pembunuhan besar-besaran terhadap suatu bangsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pogrom",
+  "related": [],
+  "detailed": false
+}

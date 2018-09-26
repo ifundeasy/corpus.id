@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sipil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan penduduk atau rakyat (bukan militer);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sipil",
+  "related": [],
+  "detailed": false
+}

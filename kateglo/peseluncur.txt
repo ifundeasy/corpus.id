@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peseluncur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain seluncur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peseluncur",
+  "related": [],
+  "detailed": false
+}

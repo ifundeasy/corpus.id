@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan bahasa yang dianggap satuan terkecil dan menjadi unsur dari leksikon suatu bahasa, dan umumnya diterangkan dalam kamus sebagai entri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20leksikal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cap dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda (gambar dsb) yang dipakai dalam perdagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cap%20dagang",
+  "related": [],
+  "detailed": false
+}

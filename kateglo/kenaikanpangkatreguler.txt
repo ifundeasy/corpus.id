@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kenaikan pangkat reguler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kenaikan pangkat yang diberikan kepada pegawai negeri sipil yang memenuhi syarat yang ditentukan tanpa memperhatikan jabatan yang dipangkunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenaikan%20pangkat%20reguler",
+  "related": [],
+  "detailed": false
+}

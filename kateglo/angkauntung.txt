@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka untung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) angka kemenangan setelah jus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20untung",
+  "related": [],
+  "detailed": false
+}

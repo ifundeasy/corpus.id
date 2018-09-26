@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokomotif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala kereta api (yang menarik gerbong kereta);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokomotif",
+  "related": [],
+  "detailed": false
+}

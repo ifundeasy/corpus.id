@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "panggul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkal paha;"
+      },
+      {
+        "type": "link",
+        "text": "memanggul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panggul",
+  "related": [],
+  "detailed": false
+}

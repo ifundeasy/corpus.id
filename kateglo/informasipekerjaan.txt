@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "informasi pekerjaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keterangan yang mengacu kepada jenis pekerjaan, persyaratan pendidikan, dan sifat-sifat pribadi yang dipentingkan pada pekerjaan, prospek masa depan, tempat pekerjaan, dan hal-hal lain yang berupa keuntungan yang akan diperoleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=informasi%20pekerjaan",
+  "related": [],
+  "detailed": false
+}

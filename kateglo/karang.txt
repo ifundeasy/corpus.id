@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu kapur di laut yang terjadi dari zat yang dikeluarkan oleh binatang kecil jenis anthozoa (tidak bertulang punggung); batuan organik sebagai tempat tinggal binatang karang; koral;"
+      },
+      {
+        "type": "desc",
+        "text": "pulau (gunung, batu) di laut yang terjadi dari tumpukan karang yang sudah membatu;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan laut yang menyerupai atau seperti karang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengarang"
+      },
+      {
+        "type": "link",
+        "text": "pekarangan"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kediaman; tempat berkumpul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karang",
+  "related": [],
+  "detailed": false
+}

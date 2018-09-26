@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zona pasang surut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah bagian pantai yang terletak antara batas surut terendah dan pasang tertinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zona%20pasang%20surut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beberapa",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "jumlah yang tidak tentu banyaknya (bilangan lebih dari dua, tetapi tidak banyak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beberapa",
+  "related": [],
+  "detailed": false
+}

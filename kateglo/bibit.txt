@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bibit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semaian (padi dsb yang akan ditanam);"
+      },
+      {
+        "type": "desc",
+        "text": "benih (dalam arti sesuatu yang akan dikembangkan, diternakkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "anak (orang) yang akan dididik lebih lanjut; kader;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang akan menyebabkan timbulnya (terjadinya) penyakit atau pertikaian dsb;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membibit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibit",
+  "related": [],
+  "detailed": false
+}

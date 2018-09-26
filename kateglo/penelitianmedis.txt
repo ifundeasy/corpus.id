@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penelitian medis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penelitian yang meliputi berbagai aspek penyebab penyakit, gangguan fisik, dan jiwa manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penelitian%20medis",
+  "related": [],
+  "detailed": false
+}

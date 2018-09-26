@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus bolak-balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) arus listrik yang tegangan dan arahnya berganti-ganti secara berkala, misal seratus kaki per detik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20bolak-balik",
+  "related": [],
+  "detailed": false
+}

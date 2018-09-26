@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panjatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat memanjat;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kaki berpijak ketika memanjat;"
+      },
+      {
+        "type": "desc",
+        "text": "dakian; tanjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjatan",
+  "related": [],
+  "detailed": false
+}

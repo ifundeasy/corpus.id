@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nekrosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "mati setempat pada jaringan tubuh yang disebabkan oleh pengaruh dari luar yang merusak jaringan itu (sifat bakteri atau luka bakar) dan oleh berkurangnya darah yang mengalir ke tempat itu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) kematian sel tumbuhan yang menyebabkan jaringannya menjadi berwarna gelap, umumnya merupakan gejala infeksi karena jamur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nekrosis",
+  "related": [],
+  "detailed": false
+}

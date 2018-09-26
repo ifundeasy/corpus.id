@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tapin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "taruhan (dalam sepakbola);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tapin",
+  "related": [],
+  "detailed": false
+}

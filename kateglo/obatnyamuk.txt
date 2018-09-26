@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat nyamuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat (ramuan) pembasmi (pengusir) nyamuk (berupa cairan yang disemprotkan atau benda padat pipih yang dibakar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20nyamuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,57 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jawatan yang menyelenggarakan kirim-mengirim barang, surat, uang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor tempat kirim-mengirim surat, uang, dsb; kantor pos;"
+      },
+      {
+        "type": "desc",
+        "text": "surat-surat dsb yang dikirim dengan perantaraan pos;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) kereta (kuda) pengangkut surat dsb (pada zaman dahulu); kereta pos; kuda pos;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) tempat perhentian kereta pos (pada zaman dahulu);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) perhentian (kereta api, trem dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penjagaan (tentara, polisi, pengamat gunung berapi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kedudukan (orang yang melakukan tugas dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tempat berkumpul; tempat anggota sekelompok;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah uang yang disediakan untuk suatu keperluan (jawatan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian mata anggaran belanja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pos",
+  "related": [],
+  "detailed": false
+}

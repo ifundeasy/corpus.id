@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spaning",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan; tegangan; desakan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) tegang (tentang pikiran, suasana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spaning",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegemaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesukaan; kesenangan; barang apa yang digemari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegemaran",
+  "related": [],
+  "detailed": false
+}

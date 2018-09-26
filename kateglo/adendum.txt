@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adendum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jilid tambahan (pada buku); lampiran;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentuan atau pasal tambahan, misal dalam akta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adendum",
+  "related": [],
+  "detailed": false
+}

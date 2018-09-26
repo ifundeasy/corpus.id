@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelicik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tergelicik"
+      },
+      {
+        "type": "link",
+        "text": "menggelicikkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelicik",
+  "related": [],
+  "detailed": false
+}

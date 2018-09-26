@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rubel",
+  "tags": {
+    "l": [
+      {
+        "type": "link",
+        "text": "Lampiran Mata Uang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rubel",
+  "related": [],
+  "detailed": false
+}

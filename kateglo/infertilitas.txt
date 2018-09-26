@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infertilitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidakmampuan menghasilkan keturunan; keadaan kurang (tidak) subur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infertilitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik akar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mat) mencari (mengeluarkan) bilangan yang apabila dipangkatkan dua, tiga, dsb sama dengan bilangan yang diketahui ();"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20akar",
+  "related": [],
+  "detailed": false
+}

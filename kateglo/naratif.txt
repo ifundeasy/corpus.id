@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "naratif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat narasi; bersifat menguraikan (menjelaskan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "prosa yang subjeknya merupakan suatu rangkaian kejadian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naratif",
+  "related": [],
+  "detailed": false
+}

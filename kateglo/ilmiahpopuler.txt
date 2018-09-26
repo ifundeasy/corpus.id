@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmiah populer",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat ilmu, tetapi menggunakan bahasa umum sehingga mudah dipahami oleh masyarakat awam (tentang artikel, gaya penulisan karya ilmiah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmiah%20populer",
+  "related": [],
+  "detailed": false
+}

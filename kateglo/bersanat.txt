@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersanat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai angka tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersanat",
+  "related": [],
+  "detailed": false
+}

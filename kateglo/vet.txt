@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lemak;"
+      },
+      {
+        "type": "desc",
+        "text": "tebal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vet",
+  "related": [],
+  "detailed": false
+}

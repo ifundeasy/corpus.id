@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sepangkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sama pangkatnya (derajatnya);"
+      },
+      {
+        "type": "desc",
+        "text": "sebaya; sama umurnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepangkat",
+  "related": [],
+  "detailed": false
+}

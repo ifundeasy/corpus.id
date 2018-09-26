@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ganti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang menjadi penukar yang tidak ada atau hilang, seperti sulih, pampas;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menggantikan pekerjaan, jabatan, dsb; wakil; pengganti;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) berganti; bertukar; berpindah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ganti",
+  "related": [],
+  "detailed": false
+}

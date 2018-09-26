@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkotak-kotak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terdiri atas banyak kotak;"
+      },
+      {
+        "type": "desc",
+        "text": "berpetak-petak;"
+      },
+      {
+        "type": "desc",
+        "text": "terbagi-bagi; terpecah-pecah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkotak-kotak",
+  "related": [],
+  "detailed": false
+}

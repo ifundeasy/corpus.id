@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya gesek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selisih antara daya yang tertera pada sebuah mesin dan daya abar (daya rem) mesin tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20gesek",
+  "related": [],
+  "detailed": false
+}

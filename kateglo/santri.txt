@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "santri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mendalami agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang beribadat dengan sungguh-sungguh; orang yang saleh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=santri",
+  "related": [],
+  "detailed": false
+}

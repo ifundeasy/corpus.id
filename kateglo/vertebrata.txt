@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vertebrata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) binatang yang bertulang belakang (seperti binatang menyusui dan burung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vertebrata",
+  "related": [],
+  "detailed": false
+}

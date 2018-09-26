@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banyak sedikitnya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jumlahnya; banyaknya;"
+      },
+      {
+        "type": "desc",
+        "text": "barang sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banyak%20sedikitnya",
+  "related": [],
+  "detailed": false
+}

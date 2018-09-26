@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teleng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "miring ke sebelah (tentang kepala, topi, telinga); senget (tidak tegak lurus);"
+      },
+      {
+        "type": "desc",
+        "text": "juling;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) orang-orangan mata (bulatan hitam di mata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teleng",
+  "related": [],
+  "detailed": false
+}

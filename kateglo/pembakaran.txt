@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembakaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membakar;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat membakar (bata, genting, kapur, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembakaran",
+  "related": [],
+  "detailed": false
+}

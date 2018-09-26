@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "objek efektif hukum pajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang harus dibayar oleh wajib pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=objek%20efektif%20hukum%20pajak",
+  "related": [],
+  "detailed": false
+}

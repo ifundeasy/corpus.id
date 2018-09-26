@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daftar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan sejumlah nama atau hal (tentang kata-kata, nama orang, barang, dsb) yang disusun berderet dari atas ke bawah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar",
+  "related": [],
+  "detailed": false
+}

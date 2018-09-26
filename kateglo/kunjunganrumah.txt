@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kunjungan rumah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kunjungan guru ke rumah murid untuk mempelajari latar belakang kehidupan murid yang akan mempengaruhi proses dan hasil belajar di sekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kunjungan%20rumah",
+  "related": [],
+  "detailed": false
+}

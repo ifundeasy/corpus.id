@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "individualisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham yang menganggap manusia secara pribadi perlu diperhatikan (kesanggupan dan kebu-tuhannya tidak boleh disamaratakan);"
+      },
+      {
+        "type": "desc",
+        "text": "paham yang meng-hendaki kebebasan berbuat dan menganut suatu kepercayaan bagi setiap orang; paham yang mementingkan hak per-seorangan di samping kepentingan masyarakat atau negara;"
+      },
+      {
+        "type": "desc",
+        "text": "paham yang menganggap diri sendiri (kepribadian) lebih penting daripada orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=individualisme",
+  "related": [],
+  "detailed": false
+}

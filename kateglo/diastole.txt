@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diastole",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengenduran otot jantung pada waktu pengisian kembali jantung oleh darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diastole",
+  "related": [],
+  "detailed": false
+}

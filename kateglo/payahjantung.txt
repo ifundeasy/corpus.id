@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "payah jantung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "keadaan jantung yang isinya tiap satu menit menurun dan tidak sesuai dengan kebutuhan sirkulasi umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=payah%20jantung",
+  "related": [],
+  "detailed": false
+}

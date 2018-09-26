@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu minimum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) suhu terendah yang tercatat dalam suatu jangka waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20minimum",
+  "related": [],
+  "detailed": false
+}

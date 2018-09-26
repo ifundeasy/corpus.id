@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkakas makan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang digunakan pada waktu makan (sendok, garpu, piring, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkakas%20makan",
+  "related": [],
+  "detailed": false
+}

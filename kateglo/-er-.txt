@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "-er-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "alat;"
+      },
+      {
+        "type": "desc",
+        "text": "yang memiliki, mengandung, atau bersifat;"
+      },
+      {
+        "type": "desc",
+        "text": "berulang (terus-menerus);"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung (bersifat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=-er-",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peminang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat sirih;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang meminang;"
+      },
+      {
+        "type": "desc",
+        "text": "pelamar (pekerjaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peminang",
+  "related": [],
+  "detailed": false
+}

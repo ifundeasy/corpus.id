@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suhu kardinal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suhu yang terdiri atas suhu minimum, optimum, dan maksimum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suhu%20kardinal",
+  "related": [],
+  "detailed": false
+}

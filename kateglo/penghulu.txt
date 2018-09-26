@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penghulu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "kepala; ketua;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala adat;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala urusan agama Islam di kabupaten atau kota madya;"
+      },
+      {
+        "type": "desc",
+        "text": "penasihat urusan agama Islam di pengadilan negeri; kadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penghulu",
+  "related": [],
+  "detailed": false
+}

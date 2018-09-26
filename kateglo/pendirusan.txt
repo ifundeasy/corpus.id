@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendirusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyiraman;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat mandi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendirusan",
+  "related": [],
+  "detailed": false
+}

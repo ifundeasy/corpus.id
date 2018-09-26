@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "batas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis (sisi) yang menjadi perhinggaan suatu bidang (ruang, daerah, dsb); pemisah antara dua bidang (ruang, daerah, dsb); sempadan;"
+      },
+      {
+        "type": "desc",
+        "text": "ketentuan yang tidak boleh dilampaui;"
+      },
+      {
+        "type": "desc",
+        "text": "perhinggaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tata cara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aturan (cara) menurut adat kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "adat istiadat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tata%20cara",
+  "related": [],
+  "detailed": false
+}

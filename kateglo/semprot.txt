@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semprot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat semacam pompa untuk menyemburkan air, api, cat, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) alat untuk menyuntik (memasukkan obat ke dalam tubuh);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) cercaan; celaan; dampratan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semprot",
+  "related": [],
+  "detailed": false
+}

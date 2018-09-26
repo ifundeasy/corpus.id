@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Februari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan ke-2 tahun Masehi (28 hari, kecuali pada tahun kabisat 29 hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Februari",
+  "related": [],
+  "detailed": false
+}

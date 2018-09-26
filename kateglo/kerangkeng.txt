@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerangkeng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurungan berpagar besi (tempat harimau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bilik berterali besi (tempat orang hukuman);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat untuk mengurung anak kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerangkeng",
+  "related": [],
+  "detailed": false
+}

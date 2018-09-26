@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kodok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "katak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengodok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kodok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendaftaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mendaftar (mendaftarkan); pencatatan nama, alamat, dsb dalam daftar;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal mendaftar (mendaftarkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendaftaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang bergerak di bidang perdagangan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20dagang",
+  "related": [],
+  "detailed": false
+}

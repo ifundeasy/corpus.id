@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kondominium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sos)"
+      },
+      {
+        "type": "desc",
+        "text": "kepunyaan bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) negeri (daerah) yang dikuasai bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "gedung besar, mewah, bertingkat yang disewakan; apartemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondominium",
+  "related": [],
+  "detailed": false
+}

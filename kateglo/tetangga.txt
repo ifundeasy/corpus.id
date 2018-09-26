@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (rumah) yang rumahnya berdekatan atau sebelah-menyebelah; jiran;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang tempat tinggalnya (rumahnya) berdekatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetangga",
+  "related": [],
+  "detailed": false
+}

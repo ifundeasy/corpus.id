@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelaskaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal yang berhubungan dengan laskar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelaskaran",
+  "related": [],
+  "detailed": false
+}

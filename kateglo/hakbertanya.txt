@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak bertanya",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak anggota DPR, baik perseorangan maupun bersama-sama, untuk mengajukan pertanyaan kepada presiden atau pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20bertanya",
+  "related": [],
+  "detailed": false
+}

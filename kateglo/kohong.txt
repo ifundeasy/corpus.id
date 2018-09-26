@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kohong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbau busuk (seperti bau bangkai, ikan busuk);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bau lada atau lombok yang digoreng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kohong",
+  "related": [],
+  "detailed": false
+}

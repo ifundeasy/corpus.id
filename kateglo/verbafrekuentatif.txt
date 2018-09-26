@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba frekuentatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk verba yang menyatakan kebiasaan atau perbuatan berulang dalam bahasa Rusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20frekuentatif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus ranting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang berada pada ranting organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20ranting",
+  "related": [],
+  "detailed": false
+}

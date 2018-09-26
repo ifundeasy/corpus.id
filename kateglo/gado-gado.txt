@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gado-gado",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dll diberi bumbu sambal kacang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) campur aduk tidak keruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gado-gado",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pangkal nama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama diri sendiri (bukan nama keluarga, kaum, atau nama marga);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pangkal%20nama",
+  "related": [],
+  "detailed": false
+}

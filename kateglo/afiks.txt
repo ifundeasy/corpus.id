@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "afiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk terikat yang apabila ditambahkan pada kata dasar atau bentuk dasar akan mengubah makna gramatikal (seperti prefiks, infiks, konfiks, atau sufiks); bentuk (atau morfem) terikat yang dipakai untuk menurunkan kata imbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afiks",
+  "related": [],
+  "detailed": false
+}

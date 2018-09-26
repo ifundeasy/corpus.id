@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemungutan suara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian suara oleh anggota (warga negara dsb) dalam rangka pemilihan pengurus perkumpulan (anggota DPR dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemungutan%20suara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sedikit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak seberapa; agak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sedikit",
+  "related": [],
+  "detailed": false
+}

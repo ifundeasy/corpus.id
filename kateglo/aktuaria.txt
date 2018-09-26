@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktuaria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegawai asuransi yang bertugas melaksanakan perhitungan keuangan perusahaan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan penafsiran sebelum penetapan asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktuaria",
+  "related": [],
+  "detailed": false
+}

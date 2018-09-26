@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksotermik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "terjadi dengan pemanasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) berkenaan dengan reaksi inti yang melepaskan energi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksotermik",
+  "related": [],
+  "detailed": false
+}

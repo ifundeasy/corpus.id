@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penilaian kolektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tim yang melakukan penilaian prestasi karyawan dan menetapkan kebijakan selanjutnya terhadap karyawan tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penilaian%20kolektif",
+  "related": [],
+  "detailed": false
+}

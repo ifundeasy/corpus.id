@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengamatan tindak tanduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik riset yang mengamati gejala yang tampak pada responden;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengamatan%20tindak%20tanduk",
+  "related": [],
+  "detailed": false
+}

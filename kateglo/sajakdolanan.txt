@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak dolanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak nyanyian anak-anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20dolanan",
+  "related": [],
+  "detailed": false
+}

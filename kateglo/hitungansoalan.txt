@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hitungan soalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hitungan soal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hitungan%20soalan",
+  "related": [],
+  "detailed": false
+}

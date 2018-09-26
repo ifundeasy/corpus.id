@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedai kudapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedai yang khusus digunakan untuk menjual kudapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedai%20kudapan",
+  "related": [],
+  "detailed": false
+}

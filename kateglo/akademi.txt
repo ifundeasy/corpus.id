@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akademi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga pendidikan tinggi, kurang lebih 3 tahun lamanya, yang mendidik tenaga profesional;"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan orang terkenal yang dianggap arif bijaksana untuk memajukan ilmu, kesusastraan, atau bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akademi",
+  "related": [],
+  "detailed": false
+}

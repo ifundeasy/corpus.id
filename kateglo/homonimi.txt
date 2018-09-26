@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homonimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan antara dua kata yang ditulis dan/ atau dilafalkan dengan cara sama, tetapi yang tidak mempunyai makna yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homonimi",
+  "related": [],
+  "detailed": false
+}

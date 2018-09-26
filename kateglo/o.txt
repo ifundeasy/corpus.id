@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "O",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-15 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "nama huruf o;"
+      },
+      {
+        "type": "desc",
+        "text": "lambang kimia untuk oksigen;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak) oh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=O",
+  "related": [],
+  "detailed": false
+}

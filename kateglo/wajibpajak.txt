@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wajib pajak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kewajiban membayar pajak (pendapatan, kekayaan, tanah, dsb) berdasarkan undang-undang;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mempunyai kewajiban membayar pajak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wajib%20pajak",
+  "related": [],
+  "detailed": false
+}

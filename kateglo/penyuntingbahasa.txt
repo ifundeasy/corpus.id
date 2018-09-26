@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyunting bahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyunting yang menyempurnakan naskah dari segi bahasa (ejaan, diksi, dan struktur bahasa); pengedit bahasa; editor bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyunting%20bahasa",
+  "related": [],
+  "detailed": false
+}

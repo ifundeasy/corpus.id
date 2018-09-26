@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kursemangat",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru (kata afektif) untuk menyadarkan orang pingsan, bayi baru lahir, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kata seru (kata afektif) untuk menyatakan sayang, kaget, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kursemangat",
+  "related": [],
+  "detailed": false
+}

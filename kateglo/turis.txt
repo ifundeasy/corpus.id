@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "turis",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menuris"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelancong; wisatawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turis",
+  "related": [],
+  "detailed": false
+}

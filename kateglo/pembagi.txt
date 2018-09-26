@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang membagi;"
+      },
+      {
+        "type": "desc",
+        "text": "yang membagikan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang digunakan untuk membagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembagi",
+  "related": [],
+  "detailed": false
+}

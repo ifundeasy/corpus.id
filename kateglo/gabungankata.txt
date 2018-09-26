@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gabungan kata",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kata majemuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gabungan%20kata",
+  "related": [],
+  "detailed": false
+}

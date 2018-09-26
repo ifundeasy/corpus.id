@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "produksi susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah air susu yang dihasilkan oleh (perusahaan) ternak perah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi%20susu",
+  "related": [],
+  "detailed": false
+}

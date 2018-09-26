@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengklaim",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meminta atau menuntut pengakuan atas suatu fakta bahwa seseorang (suatu organisasi, perkumpulan, negara, dsb) berhak memiliki atau mempunyai hak atas sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "menyatakan suatu fakta atau kebenaran sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengklaim",
+  "related": [],
+  "detailed": false
+}

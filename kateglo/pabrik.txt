@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pabrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan dengan perlengkapan mesin tempat membuat atau memproduksi barang tertentu dalam jumlah besar untuk diperdagangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pabrik",
+  "related": [],
+  "detailed": false
+}

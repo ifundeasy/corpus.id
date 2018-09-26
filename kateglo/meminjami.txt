@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meminjami",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi pinjam;"
+      },
+      {
+        "type": "desc",
+        "text": "meminjam bersama-sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meminjami",
+  "related": [],
+  "detailed": false
+}

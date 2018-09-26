@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polemik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdebatan mengenai suatu masalah yang dikemukakan secara terbuka dalam media massa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polemik",
+  "related": [],
+  "detailed": false
+}

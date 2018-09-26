@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ramah tamah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "amat ramah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan kekeluargaan (untuk perkenalan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ramah%20tamah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pentranskripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melakukan transkripsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pentranskripsi",
+  "related": [],
+  "detailed": false
+}

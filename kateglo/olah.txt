@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "olah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laku; ulah; cara (melakukan sesuatu); akal (daya upaya, tipu daya);"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkah; canda;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengolah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=olah",
+  "related": [],
+  "detailed": false
+}

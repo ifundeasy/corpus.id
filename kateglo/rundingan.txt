@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rundingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicaraan; isi pembicaraan;"
+      },
+      {
+        "type": "desc",
+        "text": "nasihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rundingan",
+  "related": [],
+  "detailed": false
+}

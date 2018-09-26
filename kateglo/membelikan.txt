@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membelikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membeli untuk;"
+      },
+      {
+        "type": "desc",
+        "text": "membayarkan uang untuk membeli; membelanjakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membelikan",
+  "related": [],
+  "detailed": false
+}

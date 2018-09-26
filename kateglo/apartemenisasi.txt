@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apartemenisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengapartemenan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apartemenisasi",
+  "related": [],
+  "detailed": false
+}

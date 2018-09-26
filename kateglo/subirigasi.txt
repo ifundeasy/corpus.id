@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subirigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "sistem saluran pengairan di bawah tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari suatu sistem saluran pengairan yang lebih besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subirigasi",
+  "related": [],
+  "detailed": false
+}

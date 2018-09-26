@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korespondensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal surat menyurat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) perihal hubungan antara bunyi yang satu dan yang lain dalam sajak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) hubungan antara bentuk dan isi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korespondensi",
+  "related": [],
+  "detailed": false
+}

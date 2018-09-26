@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konjungsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kata atau ungkapan penghubung antarkata, antarfrasa, antarklausa, dan antarkalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astron) pertemuan atau papasan semu antara dua benda angkasa atau lebih dalam derajat rasi yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konjungsi",
+  "related": [],
+  "detailed": false
+}

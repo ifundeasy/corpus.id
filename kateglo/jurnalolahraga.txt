@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jurnal olahraga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan mengenai olahraga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurnal%20olahraga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "luas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lapang; lebar;"
+      },
+      {
+        "type": "desc",
+        "text": "umum (tentang masyarakat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "merata (terjangkau oleh orang banyak);"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran panjang-lebarnya bidang (lapangan, ruangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) banyak dan beragam (tentang pengetahuan); tidak picik;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat melihat bebas dan lepas; banglas (tentang pemandangan);"
+      },
+      {
+        "type": "desc",
+        "text": "besar atau banyak (tentang usaha, pekerjaan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=luas",
+  "related": [],
+  "detailed": false
+}

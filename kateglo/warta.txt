@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita; kabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warta",
+  "related": [],
+  "detailed": false
+}

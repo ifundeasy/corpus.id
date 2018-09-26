@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bongak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sombong; congkak; angkuh;"
+      },
+      {
+        "type": "desc",
+        "text": "bohong; dusta;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) bodoh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bongak",
+  "related": [],
+  "detailed": false
+}

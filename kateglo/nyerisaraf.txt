@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nyeri saraf",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa sakit yang timbul sepanjang jalan saraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyeri%20saraf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengursuskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukan ke lembaga kursus;"
+      },
+      {
+        "type": "desc",
+        "text": "mengirimkan ke lembaga kursus;"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh kursus; memberikan biaya kursus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengursuskan",
+  "related": [],
+  "detailed": false
+}

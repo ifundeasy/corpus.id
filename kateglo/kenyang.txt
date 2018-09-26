@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kenyang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah puas makan; sudah penuh perutnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) (sudah) berisi (bermuatan) hingga penuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sudah banyak merasai (mengalami); puas sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenyang",
+  "related": [],
+  "detailed": false
+}

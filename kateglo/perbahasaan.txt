@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbahasaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peribahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "cara berbicara;"
+      },
+      {
+        "type": "desc",
+        "text": "sopan santun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbahasaan",
+  "related": [],
+  "detailed": false
+}

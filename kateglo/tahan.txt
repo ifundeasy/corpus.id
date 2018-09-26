@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tetap keadaannya (kedudukannya dsb) meskipun mengalami berbagai-bagai hal; tidak lekas rusak (berubah, kalah, luntur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kuat atau sanggup menderita (menanggung) sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat menyabarkan (menguasai) diri; betah;"
+      },
+      {
+        "type": "desc",
+        "text": "sanggup dan tidak lekas merasa jijik (kasihan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cukup (sampai atau hingga);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menahankan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahan",
+  "related": [],
+  "detailed": false
+}

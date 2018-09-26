@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "serupa (halnya, keadaannya, dsb), tidak berbeda; tidak berlainan;"
+      },
+      {
+        "type": "desc",
+        "text": "berbarengan; bertepatan;"
+      },
+      {
+        "type": "desc",
+        "text": "sepadan; seimbang; sebanding; setara;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "oleh;"
+      },
+      {
+        "type": "desc",
+        "text": "pada (untuk menyatakan pelakunya banyak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "induktans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "sifat untai elektrik yang menyatakan besar-nya tenaga gerak elektrik (tge) yang akan terimbas sendiri atau-pun di dalam untai lain yang berdekatan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil bagi tge yang terimbas di dalam sebuah untai elektrik dan laju perubahan arus elektrik terhadap waktu yang membangkitkan tge tersebut;"
+      },
+      {
+        "type": "desc",
+        "text": "(El) besaran yang mencerminkan pengimbasan arus listrik lewat perubahan medan magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=induktans",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orkes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pemain musik yang bermain bersama pada seperangkat alat musiknya;"
+      },
+      {
+        "type": "desc",
+        "text": "musik yang dimainkan secara bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orkes",
+  "related": [],
+  "detailed": false
+}

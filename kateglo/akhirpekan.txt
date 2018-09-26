@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akhir pekan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akhir minggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akhir%20pekan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palatal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan (berkaitan) dengan langit-langit keras;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi yang dihasilkan dengan menempatkan bagian depan lidah di dekat atau pada langit-langit keras (bunyi [c], [j]);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palatal",
+  "related": [],
+  "detailed": false
+}

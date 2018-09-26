@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vonis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) putusan hakim (pada sidang pengadilan) yang berkaitan dengan persengketaan di antara pihak yang maju ke pengadilan; hukuman (pada perkara pidana);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vonis",
+  "related": [],
+  "detailed": false
+}

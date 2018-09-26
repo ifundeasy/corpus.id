@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inversi suhu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapisan di dalam atmosfer ketika suhu meningkat dengan cepat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inversi%20suhu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "skala gaya angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) skala yang menyatakan tingkatan gaya angin yang ditandai dengan makin besar nilai skalanya makin besar pula gaya anginnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala%20gaya%20angin",
+  "related": [],
+  "detailed": false
+}

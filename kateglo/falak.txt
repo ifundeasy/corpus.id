@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "falak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lengkung langit; lingkaran langit; cakrawala;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan mengenai keadaan (peredaran, perhitungan, dsb) bintang-bintang; ilmu perbintangan; astronomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=falak",
+  "related": [],
+  "detailed": false
+}

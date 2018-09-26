@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "presentil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai yang menandai batas interval dari sebaran frekuensi yang berderet dalam seratus bagian sebaran yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=presentil",
+  "related": [],
+  "detailed": false
+}

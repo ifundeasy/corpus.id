@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kendaraan bermotor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan yang memakai mesin (motor) untuk menjalankannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kendaraan%20bermotor",
+  "related": [],
+  "detailed": false
+}

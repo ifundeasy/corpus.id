@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurikulum kegiatan luar sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemisahan atau sebagian ruang lingkup pelajaran yang diberikan di perguruan tinggi atau pendidikan menengah dan tidak merupakan bagian integral dari mata pelajaran yang sudah ditetapkan dalam kurikulum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurikulum%20kegiatan%20luar%20sekolah",
+  "related": [],
+  "detailed": false
+}

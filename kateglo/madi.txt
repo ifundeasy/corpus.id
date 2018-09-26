@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "madi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat kebendaan; mengenai benda;"
+      },
+      {
+        "type": "link",
+        "text": "mazi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=madi",
+  "related": [],
+  "detailed": false
+}

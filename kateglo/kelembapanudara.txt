@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelembapan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "banyaknya uap air yang dikandung oleh udara, dapat diukur dengan higrometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelembapan%20udara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemegang buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengurusi buku dagang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemegang%20buku",
+  "related": [],
+  "detailed": false
+}

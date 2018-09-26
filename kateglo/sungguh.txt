@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sungguh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "benar (cocok dengan keadaan yang sebenarnya, tidak bohong, tidak lancung); betul;"
+      },
+      {
+        "type": "desc",
+        "text": "sungguh-sungguh;"
+      },
+      {
+        "type": "desc",
+        "text": "amat; sangat;"
+      },
+      {
+        "type": "desc",
+        "text": "memang; sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sungguh",
+  "related": [],
+  "detailed": false
+}

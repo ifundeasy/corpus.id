@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cepengan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata uang setengah sen;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pelacuran kelas rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cepengan",
+  "related": [],
+  "detailed": false
+}

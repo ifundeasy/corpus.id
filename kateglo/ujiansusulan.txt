@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian susulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang disusulkan sesudah masa ujian berakhir (biasanya bagi calon yang sakit atau yang memperoleh izin khusus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20susulan",
+  "related": [],
+  "detailed": false
+}

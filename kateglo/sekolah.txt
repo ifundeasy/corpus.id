@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekolah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan atau lembaga untuk belajar dan mengajar serta tempat menerima dan memberi pelajaran (menurut tingkatannya, ada) -- dasar, -- lanjutan, -- tinggi; (menurut jurusannya, ada) -- dagang, -- guru, -- teknik, -- pertanian, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu atau pertemuan ketika murid diberi pelajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha menuntut kepandaian (ilmu pengetahuan); pelajaran; pengajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) belajar di sekolah; pergi ke sekolah; bersekolah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekolah",
+  "related": [],
+  "detailed": false
+}

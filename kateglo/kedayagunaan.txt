@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedayagunaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal daya guna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedayagunaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evapotranspirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penguapan air melalui evaporasi langsung dan transpirasi melalui daun tumbuh-tumbuhan secara bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "konversi air menjadi uap melalui permukaan tanah dan tanaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evapotranspirasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perkakas rumah tangga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkakas yang diperlukan di rumah tangga (meja, kursi, lemari, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkakas%20rumah%20tangga",
+  "related": [],
+  "detailed": false
+}

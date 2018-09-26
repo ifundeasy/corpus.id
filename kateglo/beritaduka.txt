@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita duka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20duka",
+  "related": [],
+  "detailed": false
+}

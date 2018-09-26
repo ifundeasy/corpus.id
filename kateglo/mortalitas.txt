@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mortalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kodrat bahwa setiap manusia pada akhirnya harus meninggal dunia;"
+      },
+      {
+        "type": "desc",
+        "text": "angka rata-rata kematian penduduk di suatu daerah atau wilayah;"
+      },
+      {
+        "type": "desc",
+        "text": "proporsi kematian akibat penyakit tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mortalitas",
+  "related": [],
+  "detailed": false
+}

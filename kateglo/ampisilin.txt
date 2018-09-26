@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampisilin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far) salah satu obat antibiotik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampisilin",
+  "related": [],
+  "detailed": false
+}

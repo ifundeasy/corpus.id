@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lawe",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "lawai"
+      },
+      {
+        "type": "link",
+        "text": "penglawe"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lawe",
+  "related": [],
+  "detailed": false
+}

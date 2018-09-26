@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ultramikroskopiks",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu kecil untuk dilihat dengan mikroskop;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan mikroskop yang sangat kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ultramikroskopiks",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jago",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayam jantan (yang berumur lebih dari 12 bulan);"
+      },
+      {
+        "type": "desc",
+        "text": "calon utama (dalam suatu pemilihan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang terkemuka; pemuka; penganjur;"
+      },
+      {
+        "type": "desc",
+        "text": "juara; kampiun;"
+      },
+      {
+        "type": "desc",
+        "text": "yang diharapkan jadi pemenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jago",
+  "related": [],
+  "detailed": false
+}

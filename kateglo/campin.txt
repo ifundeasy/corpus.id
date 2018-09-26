@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "campin",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cekatan; gapah; tangkas;"
+      },
+      {
+        "type": "desc",
+        "text": "cakap; pandai; mahir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=campin",
+  "related": [],
+  "detailed": false
+}

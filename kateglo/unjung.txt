@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "unjung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "kunjung"
+      },
+      {
+        "type": "link",
+        "text": "mengunjungkan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unjung",
+  "related": [],
+  "detailed": false
+}

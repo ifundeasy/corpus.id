@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "audit pemasaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penilaian strategi pemasaran, jasa, fungsi, dan hasilnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audit%20pemasaran",
+  "related": [],
+  "detailed": false
+}

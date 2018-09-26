@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotok",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "jawer"
+      },
+      {
+        "type": "desc",
+        "text": "tahi ayam;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kotong;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) rabun senja; buta ayam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotok",
+  "related": [],
+  "detailed": false
+}

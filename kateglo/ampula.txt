@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ampula",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Zool)"
+      },
+      {
+        "type": "desc",
+        "text": "pembesaran berbentuk pundi-pundi pada sebuah saluran;"
+      },
+      {
+        "type": "desc",
+        "text": "kantong membran berbentuk bola lampu atau perluasan suatu tabung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) gelembung udara kecil pada beberapa tanaman air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ampula",
+  "related": [],
+  "detailed": false
+}

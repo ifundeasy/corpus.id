@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "germinal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan sel reproduktif;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan tingkat permulaan perkembangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=germinal",
+  "related": [],
+  "detailed": false
+}

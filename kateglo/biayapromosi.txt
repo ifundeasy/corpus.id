@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya promosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya untuk pendirian atau pengembangan perusahaan atau aktivitas baru;"
+      },
+      {
+        "type": "desc",
+        "text": "biaya yang dikeluarkan untuk usaha meningkatkan penjualan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20promosi",
+  "related": [],
+  "detailed": false
+}

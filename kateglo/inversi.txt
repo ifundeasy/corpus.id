@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembalikan posisi, arah, susunan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) pembalikan susunan bagian kalimat yang berbeda dari susunan yang lazim (misal ia makan roti menjadi makan roti ia);"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) keterbalikan posisi dsb (yang mestinya ada di dalam menjadi di luar, yang mestinya di atas ada di bawah); sung-sang;"
+      },
+      {
+        "type": "desc",
+        "text": "nafsu berahi terhadap kelamin sejenis; homoseksualisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inversi",
+  "related": [],
+  "detailed": false
+}

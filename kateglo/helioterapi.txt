@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "helioterapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengobatan dengan berjemur di bawah panas atau sinar matahari (mandi sinar matahari untuk menyembuhkan penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=helioterapi",
+  "related": [],
+  "detailed": false
+}

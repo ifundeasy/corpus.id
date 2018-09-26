@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wayang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "boneka tiruan orang yang terbuat dari pahatan kulit atau kayu dsb yang dapat dimanfaatkan untuk memerankan tokoh dalam pertunjukan drama tradisional (Bali, Jawa, Sunda, dsb), biasanya dimainkan oleh seseorang yang disebut dalang;"
+      },
+      {
+        "type": "desc",
+        "text": "pertunjukan wayang (selengkapnya);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pelaku (yang hanya sebagai pelaku, bukan sebagai perencana); orang suruhan yang harus bertindak sesuai dengan perintah orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "bayang-bayang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wayang",
+  "related": [],
+  "detailed": false
+}

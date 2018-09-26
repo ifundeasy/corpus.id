@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inkaso",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "penagihan kepada pihak yang wajib membayar (tertagih) berdasarkan warkat (cek, wesel, surat utang, dsb) untuk kepentingan dan atas risiko pihak yang mempunyai tagihan;"
+      },
+      {
+        "type": "desc",
+        "text": "upah bagi pemungut uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inkaso",
+  "related": [],
+  "detailed": false
+}

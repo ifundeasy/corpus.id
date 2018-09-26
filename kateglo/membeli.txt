@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membeli",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memperoleh sesuatu melalui penukaran (pembayaran) dengan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "memperoleh sesuatu dengan pengorbanan (usaha dsb) yang berat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membeli",
+  "related": [],
+  "detailed": false
+}

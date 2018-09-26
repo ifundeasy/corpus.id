@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstrakardial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "di luar jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstrakardial",
+  "related": [],
+  "detailed": false
+}

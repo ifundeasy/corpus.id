@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membusur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melengkung sebagai busur yang sedang dipakai untuk melepaskan anak panah;"
+      },
+      {
+        "type": "desc",
+        "text": "melepaskan panah dengan busur;"
+      },
+      {
+        "type": "desc",
+        "text": "membersihkan kapas dengan busur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membusur",
+  "related": [],
+  "detailed": false
+}

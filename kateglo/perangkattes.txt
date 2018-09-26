@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perangkat tes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) sekelompok soal tes untuk menguji beberapa keterampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perangkat%20tes",
+  "related": [],
+  "detailed": false
+}

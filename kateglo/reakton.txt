@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reakton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan yang bekerja dalam suatu reaksi kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reakton",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "preferensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(hak untuk) didahulukan dan diutamakan daripada yang lain; prioritas;"
+      },
+      {
+        "type": "desc",
+        "text": "pilihan; kecenderungan; kesukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=preferensi",
+  "related": [],
+  "detailed": false
+}

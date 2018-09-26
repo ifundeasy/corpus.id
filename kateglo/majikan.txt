@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "majikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau organisasi yang menyediakan pekerjaan untuk orang lain berdasarkan ikatan kontrak;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi atasan (yang kuasa memerintah bawahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majikan",
+  "related": [],
+  "detailed": false
+}

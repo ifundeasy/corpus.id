@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "cara pemeriksaan dengan ketukan jari; ketukan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik pukul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkusi",
+  "related": [],
+  "detailed": false
+}

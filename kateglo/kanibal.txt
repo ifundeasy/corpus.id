@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanibal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang suka makan daging manusia; pemakan daging sejenis;"
+      },
+      {
+        "type": "desc",
+        "text": "binatang yang suka membunuh dan memakan daging binatang lain yang sejenis;"
+      },
+      {
+        "type": "desc",
+        "text": "ternak yang suka menggigit atau mematuki temannya sampai luka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanibal",
+  "related": [],
+  "detailed": false
+}

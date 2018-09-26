@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konfiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "afiks tunggal yang terjadi dari dua unsur yang terpisah (misal ke-...-an dalam kemerdekaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konfiks",
+  "related": [],
+  "detailed": false
+}

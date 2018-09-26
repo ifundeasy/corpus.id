@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan statistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan berupa data tentang fakta dalam bentuk angka, dilengkapi dengan waktu, analisis, evaluasi, tafsiran, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20statistik",
+  "related": [],
+  "detailed": false
+}

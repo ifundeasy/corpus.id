@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi alfa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pancaran partikel alfa dari suatu inti atom atau dari unsur radioaktif alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20alfa",
+  "related": [],
+  "detailed": false
+}

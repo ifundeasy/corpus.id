@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "variasi morfofonemis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan wujud fonemis dari morfem, misal morfem [ber-] berwujud sebagai [be-] di depan dasar yang diawali /r/, (bel-) di depan morfem ajar dan [ber-] dalam posisi lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=variasi%20morfofonemis",
+  "related": [],
+  "detailed": false
+}

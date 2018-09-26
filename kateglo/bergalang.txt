@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergalang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memakai galang (bertumpu pada galang, berganjal, berbantal, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sedang berada di galangan (tentang perahu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergalang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jajan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kue; penganan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) membeli makanan (nasi, kue, dsb) di warung; berjajan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bermain perempuan; pergi ke tempat wanita lacur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jajan",
+  "related": [],
+  "detailed": false
+}

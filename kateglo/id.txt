@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "id",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari raya; perayaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) idem;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=id",
+  "related": [],
+  "detailed": false
+}

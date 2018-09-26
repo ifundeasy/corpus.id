@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "naik turun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "turun naik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=naik%20turun",
+  "related": [],
+  "detailed": false
+}

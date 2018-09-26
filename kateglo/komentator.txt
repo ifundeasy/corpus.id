@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komentator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang (pekerjaannya) mengomentari atau mengulas suatu berita dsb; juru ulas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komentator",
+  "related": [],
+  "detailed": false
+}

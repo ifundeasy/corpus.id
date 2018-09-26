@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "heterosiklis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung lingkar yang terdiri atas atom-atom dua unsur atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=heterosiklis",
+  "related": [],
+  "detailed": false
+}

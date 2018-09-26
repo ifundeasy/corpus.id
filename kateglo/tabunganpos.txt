@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tabungan pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpan-menyimpan uang yang diurus oleh pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabungan%20pos",
+  "related": [],
+  "detailed": false
+}

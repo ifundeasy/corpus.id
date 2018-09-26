@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi profesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi yang anggotanya adalah orang-orang yang mempunyai profesi yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20profesi",
+  "related": [],
+  "detailed": false
+}

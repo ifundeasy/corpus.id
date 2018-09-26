@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan atau kalimat dari Alquran atau hadis yang dipakai sebagai alasan atau dasar untuk memutuskan suatu masalah (sebagai pegangan dalam hukum syarak);"
+      },
+      {
+        "type": "desc",
+        "text": "teks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nas",
+  "related": [],
+  "detailed": false
+}

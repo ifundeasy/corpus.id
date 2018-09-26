@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kecil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang besar (keadaannya dsb) daripada yang biasa; tidak besar;"
+      },
+      {
+        "type": "desc",
+        "text": "muda;"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit;"
+      },
+      {
+        "type": "desc",
+        "text": "sempit (tidak luas, tidak lebar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak penting (tidak berharga dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecil",
+  "related": [],
+  "detailed": false
+}

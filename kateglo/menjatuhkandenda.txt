@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjatuhkan denda",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengenakan denda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjatuhkan%20denda",
+  "related": [],
+  "detailed": false
+}

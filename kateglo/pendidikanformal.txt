@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendidikan formal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segenap bentuk pendidikan atau pelatihan yang diberikan secara terorganisasi dan berjenjang, baik yang bersifat umum maupun yang bersifat khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendidikan%20formal",
+  "related": [],
+  "detailed": false
+}

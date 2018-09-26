@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "giliran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu (saat) atau kesempatan untuk mengerjakan (menjalankan) atau menerima sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "pertukaran (pergantian) dengan teratur (tentang sesuatu yang beredar atau yang berlaku berganti-ganti);"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menggilir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=giliran",
+  "related": [],
+  "detailed": false
+}

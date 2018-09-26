@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang yang berlangsung dengan mendadak;"
+      },
+      {
+        "type": "desc",
+        "text": "sidang yang berlangsung dalam waktu singkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20kilat",
+  "related": [],
+  "detailed": false
+}

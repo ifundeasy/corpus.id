@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mereka",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "dia dengan yang lain; orang-orang yang dibicarakan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyusun (mengatur, mengarang) baik-baik;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari akal (ikhtiar, daya upaya);"
+      },
+      {
+        "type": "desc",
+        "text": "memikirkan (sesuatu); merancang; merencanakan;"
+      },
+      {
+        "type": "desc",
+        "text": "membayangkan (dalam angan-angan); mencita-citakan;"
+      },
+      {
+        "type": "desc",
+        "text": "menduga; mengira-ngirakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mereka",
+  "related": [],
+  "detailed": false
+}

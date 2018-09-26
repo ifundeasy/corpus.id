@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebegitu; sebanyak itu (ini);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "makin bertambah;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "sana; situ;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kian",
+  "related": [],
+  "detailed": false
+}

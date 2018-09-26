@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketinggian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan dsb) tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "(tempat dsb) yang lebih tinggi letaknya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "tinggi suatu titik di atas bidang acuan yang biasanya digunakan tinggi rata-rata dari permukaan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketinggian",
+  "related": [],
+  "detailed": false
+}

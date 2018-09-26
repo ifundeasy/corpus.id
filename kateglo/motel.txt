@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "motel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penginapan yang ditujukan, terutama untuk pelancong bermobil, kamar-kamarnya mudah dicapai dari tempat parkir yang tersedia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=motel",
+  "related": [],
+  "detailed": false
+}

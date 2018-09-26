@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rela",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersedia dengan ikhlas hati;"
+      },
+      {
+        "type": "desc",
+        "text": "izin (persetujuan); perkenan;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat diterima dengan senang hati;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengharap imbalan, dengan kehendak atau kemauan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rela",
+  "related": [],
+  "detailed": false
+}

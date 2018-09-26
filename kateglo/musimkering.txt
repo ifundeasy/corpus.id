@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musim kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "periode dalam tahun yang ditandai dengan jumlah curah hujan yang kecil sekali atau kadang-kadang sama sekali tidak ada hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim%20kering",
+  "related": [],
+  "detailed": false
+}

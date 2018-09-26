@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pawukon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) perhitungan (hari baik, hari buruk, watak, dsb) berdasarkan tanggal dan wuku kelahiran seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pawukon",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resistor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menimbulkan resistans (tahanan listrik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resistor",
+  "related": [],
+  "detailed": false
+}

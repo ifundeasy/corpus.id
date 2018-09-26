@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "situs",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah temuan benda-benda purbakala;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang tersedia untuk lambang suatu inskripsi;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pada suatu papan yang dapat atau tidak dapat dilubangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=situs",
+  "related": [],
+  "detailed": false
+}

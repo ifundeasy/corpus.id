@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fatihah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "pembukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "surah Fatihah (dengan huruf pertamanya kapital);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fatihah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokter spesialis penyakit saluran kemih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urolog",
+  "related": [],
+  "detailed": false
+}

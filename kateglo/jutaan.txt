@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jutaan",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "berjuta-juta;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan yang besarnya 1.000.000;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jutaan",
+  "related": [],
+  "detailed": false
+}

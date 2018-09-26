@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wreda",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lanjut usia; tua;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah banyak pengalaman tugas dsb; senior;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat terakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wreda",
+  "related": [],
+  "detailed": false
+}

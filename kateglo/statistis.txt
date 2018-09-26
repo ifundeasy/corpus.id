@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "statistis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan statistik;"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dengan statistika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=statistis",
+  "related": [],
+  "detailed": false
+}

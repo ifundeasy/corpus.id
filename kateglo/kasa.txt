@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kain putih yang halus; kain putih yang tenunannya jarang;"
+      },
+      {
+        "type": "desc",
+        "text": "kawat halus yang dianyam (biasanya untuk penghalang nyamuk dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "loket tempat membayar dan menerima uang;"
+      },
+      {
+        "type": "desc",
+        "text": "kotak atau peti mesin yang mencatat dan menerima uang;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) angkasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasa",
+  "related": [],
+  "detailed": false
+}

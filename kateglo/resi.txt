@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "petapa; orang suci;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda terima secara tertulis (tentang surat, paket, uang kiriman); resu;"
+      },
+      {
+        "type": "desc",
+        "text": "bau-bauan yang harum;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "harum; wangi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resi",
+  "related": [],
+  "detailed": false
+}

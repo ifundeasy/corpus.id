@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "gerak memutar ke arah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "kondisi (tentang kaki) yang cenderung terputar atau terarah ke luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eversi",
+  "related": [],
+  "detailed": false
+}

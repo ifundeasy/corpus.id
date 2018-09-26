@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "netral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berpihak (tidak ikut atau tidak membantu salah satu pihak);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berwarna (dapat dipakai untuk segala warna);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) tidak dalam kelompok jantan atau betina (tentang kata-kata);"
+      },
+      {
+        "type": "desc",
+        "text": "menunjukkan sifat yang secara kimia tidak asam dan tidak basa;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) bebas; tidak terikat (oleh pekerjaan, perkawinan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=netral",
+  "related": [],
+  "detailed": false
+}

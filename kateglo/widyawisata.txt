@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "widyawisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan ke luar (daerah, kampus, dsb) dalam rangka kunjungan studi (biasanya berombongan); kunjungan dalam rangka menambah ilmu pengetahuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=widyawisata",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaminan; tanggungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garansi",
+  "related": [],
+  "detailed": false
+}

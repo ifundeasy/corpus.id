@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "veem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "perseroan pemelihara gudang beserta barang-barang yang tersimpan di dalamnya;"
+      },
+      {
+        "type": "desc",
+        "text": "gudang besar untuk menyimpan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=veem",
+  "related": [],
+  "detailed": false
+}

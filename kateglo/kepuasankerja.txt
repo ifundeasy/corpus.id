@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepuasan kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan psikis yang menyenangkan yang dirasakan oleh pekerja dalam suatu lingkungan pekerjaan karena terpenuhinya semua kebutuhan secara memadai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepuasan%20kerja",
+  "related": [],
+  "detailed": false
+}

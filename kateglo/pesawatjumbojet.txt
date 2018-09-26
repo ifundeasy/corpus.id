@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat jumbo jet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pesawat terbang jet yang berukuran sangat besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20jumbo%20jet",
+  "related": [],
+  "detailed": false
+}

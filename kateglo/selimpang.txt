@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selimpang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "selempang"
+      },
+      {
+        "type": "link",
+        "text": "menyelimpang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selimpang",
+  "related": [],
+  "detailed": false
+}

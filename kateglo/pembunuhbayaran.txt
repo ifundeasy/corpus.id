@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembunuh bayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembunuh yang melakukan kegiatannya karena mendapat bayaran atau upah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembunuh%20bayaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelaluan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah lalu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) maksud; tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelaluan",
+  "related": [],
+  "detailed": false
+}

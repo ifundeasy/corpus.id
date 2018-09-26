@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermobil",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai mobil;"
+      },
+      {
+        "type": "desc",
+        "text": "naik (mengendarai) mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermobil",
+  "related": [],
+  "detailed": false
+}

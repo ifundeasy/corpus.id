@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berdesingan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berdesing;"
+      },
+      {
+        "type": "desc",
+        "text": "saling berdesing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berdesingan",
+  "related": [],
+  "detailed": false
+}

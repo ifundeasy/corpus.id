@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan bolak-balik (tentang kendaraan umum seperti bus, bemo) dalam satu trayek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rit",
+  "related": [],
+  "detailed": false
+}

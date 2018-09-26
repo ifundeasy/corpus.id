@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akustik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai atau berhubungan dengan organ pendengar, suara, atau ilmu bunyi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) rancangan dan sifat khusus ruang rekaman, pentas, auditorium, dsb.;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat rekaman atau reproduksi suara dilaksanakan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan ruang yang dapat mempengaruhi mutu bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akustik",
+  "related": [],
+  "detailed": false
+}

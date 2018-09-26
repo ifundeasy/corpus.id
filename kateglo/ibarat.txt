@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ibarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkataan atau cerita yang dipakai sebagai perumpamaan (perbandingan, lambang, kiasan);"
+      },
+      {
+        "type": "desc",
+        "text": "isi (maksud, ajaran) yang terkandung dalam suatu perumpamaan (cerita dsb);"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "seumpama;"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan antara orang atau benda dan hal-hal yang lain dengan menggunakan kata-kata bagai, seperti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibarat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jago karate",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pandai bermain karate;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jago%20karate",
+  "related": [],
+  "detailed": false
+}

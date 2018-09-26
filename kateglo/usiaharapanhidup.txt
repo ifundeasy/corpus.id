@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "usia harapan hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usia seseorang yang diharapkan hidup berdasarkan perhitungan statistik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=usia%20harapan%20hidup",
+  "related": [],
+  "detailed": false
+}

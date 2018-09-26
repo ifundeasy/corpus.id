@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh pabrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang bekerja di pabrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20pabrik",
+  "related": [],
+  "detailed": false
+}

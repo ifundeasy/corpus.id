@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengecualian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan mengecualikan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyimpangan dari kaidah (tidak mengikuti kaidah), tetapi dibenarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) pernyataan dalam laporan atau sertifikat pengaudit (auditor) mengenai pembatasan penting dalam pemeriksaannya atau mengenai keraguan atau ketidaksetujuannya terhadap unsur yang dilaporkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) penyimpangan dengan landasan atau dasar (bila penerapan kaidahnya akan menimbulkan ketidakadilan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengecualian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajer proyek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "manajer yang bertanggung jawab atas penyelesaian proyek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajer%20proyek",
+  "related": [],
+  "detailed": false
+}

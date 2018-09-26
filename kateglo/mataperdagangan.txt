@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata perdagangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mata dagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20perdagangan",
+  "related": [],
+  "detailed": false
+}

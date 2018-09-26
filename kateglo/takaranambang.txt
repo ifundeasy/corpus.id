@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "takaran ambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "takaran minimum yang menimbulkan gangguan; dosis ambang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takaran%20ambang",
+  "related": [],
+  "detailed": false
+}

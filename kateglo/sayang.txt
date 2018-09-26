@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sayang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kasih sayang (kepada); cinta (kepada); kasih (kepada);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sayang akan (kepada); amat suka akan (kepada); mengasihi; mencintai;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) kekasih; jantung hatiku;"
+      },
+      {
+        "type": "desc",
+        "text": "kasihan;"
+      },
+      {
+        "type": "desc",
+        "text": "(terasa) menyesal;"
+      },
+      {
+        "type": "desc",
+        "text": "terasa rugi (tidak rela dsb) kalau ...;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak rela (akan); tidak ikhlas (akan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayang",
+  "related": [],
+  "detailed": false
+}

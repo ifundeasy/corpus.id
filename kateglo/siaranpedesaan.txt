@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran pedesaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran radio yang ditujukan kepada masyarakat pedesaan dengan maksud untuk membantu perkembangan kehidupan di pedesaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20pedesaan",
+  "related": [],
+  "detailed": false
+}

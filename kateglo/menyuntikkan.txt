@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyuntikkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan cairan obat dsb dengan jarum;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) memberikan petunjuk (hasutan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menambah sesuatu (dana dsb) sebagai bantuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyuntikkan",
+  "related": [],
+  "detailed": false
+}

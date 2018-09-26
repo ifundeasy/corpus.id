@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musik pop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik dengan irama yang sederhana sehingga mudah dikenal dan disukai orang banyak (umum);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musik%20pop",
+  "related": [],
+  "detailed": false
+}

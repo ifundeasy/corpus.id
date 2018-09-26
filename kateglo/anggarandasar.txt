@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anggaran dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peraturan penting yang menjadi dasar peraturan yang lain-lain (bagi perusahaan, perkumpulan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anggaran%20dasar",
+  "related": [],
+  "detailed": false
+}

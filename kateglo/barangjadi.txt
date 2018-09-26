@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang jadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang sudah selesai diproses dan siap dijual atau digunakan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang (terutama baju atau celana) yang sudah jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20jadi",
+  "related": [],
+  "detailed": false
+}

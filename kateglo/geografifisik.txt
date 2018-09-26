@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geografi fisik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) cabang ilmu geografi tentang ciri-ciri dan sifat-sifat permukaan bumi, atmosfer, iklim, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geografi%20fisik",
+  "related": [],
+  "detailed": false
+}

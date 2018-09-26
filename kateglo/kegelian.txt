@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kegelian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal geli (hati); rasa geli hati; rasa hendak tertawa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) sangat geli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kegelian",
+  "related": [],
+  "detailed": false
+}

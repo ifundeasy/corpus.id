@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ladang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang diusahakan dan ditanami (ubi, jagung, dsb) dengan tidak diairi; tegal;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah atau tempat yang luas yang diusahakan karena mengandung sumber daya alam, seperti minyak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sumber ilham, pendapatan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ladang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polisemi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk bahasa (kata, frasa, dsb) yang mempunyai makna lebih dari satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polisemi",
+  "related": [],
+  "detailed": false
+}

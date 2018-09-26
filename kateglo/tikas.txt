@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tikas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deret sarap yang terjadi dari lumut, sampah, dsb yang tertinggal di pantai bekas air pasang;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas tekanan; kesan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menikas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tikas",
+  "related": [],
+  "detailed": false
+}

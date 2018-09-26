@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dompak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berdompak"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "berdompak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dompak",
+  "related": [],
+  "detailed": false
+}

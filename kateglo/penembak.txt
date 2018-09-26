@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penembak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menembak;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menembak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penembak",
+  "related": [],
+  "detailed": false
+}

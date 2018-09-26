@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis permainan dengan keping-keping bulat dan papan bertapak catur;"
+      },
+      {
+        "type": "desc",
+        "text": "corak tapak catur (tentang corak kain dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pengempang air terbuat dari beton; bendungan; tanggul;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) denda karena melanggar salah satu ketentuan yang berkenaan dengan ibadah haji atau umrah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dam",
+  "related": [],
+  "detailed": false
+}

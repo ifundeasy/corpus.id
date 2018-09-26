@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kencar",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "terkencar-kencar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kencar",
+  "related": [],
+  "detailed": false
+}

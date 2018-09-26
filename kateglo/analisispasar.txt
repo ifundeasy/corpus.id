@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "analisis pasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) telaah tentang potensi, lokasi, sifat, dan ciri pasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analisis%20pasar",
+  "related": [],
+  "detailed": false
+}

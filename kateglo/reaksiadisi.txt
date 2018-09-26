@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "reaksi adisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "reaksi dua molekul atau lebih yang membentuk molekul lebih kompleks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reaksi%20adisi",
+  "related": [],
+  "detailed": false
+}

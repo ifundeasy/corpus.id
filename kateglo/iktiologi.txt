@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iktiologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengkajian mengenai ikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iktiologi",
+  "related": [],
+  "detailed": false
+}

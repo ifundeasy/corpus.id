@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terulang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(sudah) diulang(i); terjadi lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terulang",
+  "related": [],
+  "detailed": false
+}

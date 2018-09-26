@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "derajat kebebasan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Fis) jumlah koordinat independen yang perlu untuk menentukan letak setiap zarah dalam suatu sistem dinamis secara unit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=derajat%20kebebasan",
+  "related": [],
+  "detailed": false
+}

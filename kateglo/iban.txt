@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "remis (kerang) besar; kijing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iban",
+  "related": [],
+  "detailed": false
+}

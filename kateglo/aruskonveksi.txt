@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus konveksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arus yang timbul akibat perbedaan temperatur atau akibat perbedaan kadar garam dalam laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20konveksi",
+  "related": [],
+  "detailed": false
+}

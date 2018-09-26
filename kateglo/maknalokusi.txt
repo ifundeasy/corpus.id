@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna lokusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna yang dimaksudkan penutur dalam perbuatan berbahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20lokusi",
+  "related": [],
+  "detailed": false
+}

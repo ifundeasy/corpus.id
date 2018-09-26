@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "di",
+  "tags": {
+    "pre": [
+      {
+        "type": "desc",
+        "text": "kata depan untuk menandai tempat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kata depan untuk menandai waktu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) akan, kepada;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) dari;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) adi, misal dipati adipati; diraja adiraja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=di",
+  "related": [],
+  "detailed": false
+}

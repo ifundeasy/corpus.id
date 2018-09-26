@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "surat kabar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaran-lembaran kertas bertuliskan berita dsb; koran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kabar",
+  "related": [],
+  "detailed": false
+}

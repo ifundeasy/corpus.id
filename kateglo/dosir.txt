@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dosir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "memberi kuliah;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua dokumen atau berkas mengenai sesuatu perkara atau urusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosir",
+  "related": [],
+  "detailed": false
+}

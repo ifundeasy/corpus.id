@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sains",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan pada umumnya;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan sistematis tentang alam dan dunia fisik, termasuk di dalamnya, botani, fisika, kimia, geologi, zoologi, dsb; ilmu pengetahuan alam;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan sistematis yang diperoleh dari sesuatu observasi, penelitian, dan uji coba yang mengarah pada penentuan sifat dasar atau prinsip sesuatu yang sedang diselidiki, dipelajari, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sains",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruangan di perpustakaan yang terletak dekat koleksi rujukan yang disediakan khusus untuk studi perseorangan atau kelompok, dapat dipakai untuk menyimpan buku dan catatan yang sewaktu-waktu dapat dikunci di saat ruangan tersebut tidak digunakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karel",
+  "related": [],
+  "detailed": false
+}

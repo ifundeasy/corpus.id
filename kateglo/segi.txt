@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "segi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sisi (garis pada tepi bidang);"
+      },
+      {
+        "type": "desc",
+        "text": "sanding (garis penjuru pada kubus, limas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lajur atau pias pada kertas dsb (seperti pada blangko wesel pos);"
+      },
+      {
+        "type": "desc",
+        "text": "faset (bidang kecil-kecil pada permukaan intan, berlian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "aspek;"
+      },
+      {
+        "type": "desc",
+        "text": "-- empat;"
+      },
+      {
+        "type": "desc",
+        "text": "lima;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=segi",
+  "related": [],
+  "detailed": false
+}

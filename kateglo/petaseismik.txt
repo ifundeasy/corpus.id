@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta seismik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peta gempa bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20seismik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penulis tajuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota redaksi yang ditugaskan menulis tajuk rencana pada surat kabar atau majalah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penulis%20tajuk",
+  "related": [],
+  "detailed": false
+}

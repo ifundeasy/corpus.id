@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ofisial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang bukan pemain yang terlibat secara langsung dalam suatu pertandingan seperti wasit, manajer tim, pelatih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ofisial",
+  "related": [],
+  "detailed": false
+}

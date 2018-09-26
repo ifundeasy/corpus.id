@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung air atau barang cair;"
+      },
+      {
+        "type": "desc",
+        "text": "belum dikeringkan; masih baru;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) banyak mendatangkan keuntungan (uang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basah",
+  "related": [],
+  "detailed": false
+}

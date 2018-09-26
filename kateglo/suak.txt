@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "suak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teluk kecil (di sungai atau laut);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "urung; batal;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyuak"
+      },
+      {
+        "type": "link",
+        "text": "bulu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suak",
+  "related": [],
+  "detailed": false
+}

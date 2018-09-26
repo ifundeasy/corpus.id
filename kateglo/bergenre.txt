@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergenre",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai genre; termasuk genre;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergenre",
+  "related": [],
+  "detailed": false
+}

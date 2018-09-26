@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "satu gugus kromosom yang selaras dengan segugus sel dari suatu jenis;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat kromosom yang terdapat dalam setiap inti sel satu jenis tumbuhan atau hewan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genom",
+  "related": [],
+  "detailed": false
+}

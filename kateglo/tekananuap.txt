@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan uap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan gas suatu zat yang berada dalam kesetimbangan dengan fase cair atau fase pada zat itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20uap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerawitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lagu (gending) permulaan pertunjukan wayang;"
+      },
+      {
+        "type": "desc",
+        "text": "seni suara (gamelan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerawitan",
+  "related": [],
+  "detailed": false
+}

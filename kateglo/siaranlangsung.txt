@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran langsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran acara radio atau televisi di tempat penyelenggaraan atau di tempat terjadinya peristiwa (di da-lam atau luar studio);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20langsung",
+  "related": [],
+  "detailed": false
+}

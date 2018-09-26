@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat keterangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang berisi penjelasan (tentang keadaan seseorang atau sesuatu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20keterangan",
+  "related": [],
+  "detailed": false
+}

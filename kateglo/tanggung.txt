@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanggung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "beres tidak perlu khawatir; pasti beres (selesai, rapi, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebih dari sedang, tetapi belum cukup (lebarnya, panjangnya, ukurannya, usianya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggung",
+  "related": [],
+  "detailed": false
+}

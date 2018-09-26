@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya tarik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan lokomotif menarik batang rangkaian kereta atau lori;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20tarik",
+  "related": [],
+  "detailed": false
+}

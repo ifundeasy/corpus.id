@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang (kamar) yang diatur dan dihias dengan baik (untuk menerima tamu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pengeras suara (pada radio dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salon",
+  "related": [],
+  "detailed": false
+}

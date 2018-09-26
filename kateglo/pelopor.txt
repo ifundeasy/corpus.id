@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pelopor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang berjalan terdahulu; yang berjalan di depan tentang perarakan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perintis jalan; pembuka jalan; pionir;"
+      },
+      {
+        "type": "desc",
+        "text": "pasukan perintis (yang terdepan) gerak pembaharuan (tanpa memperhitungkan risiko yang mungkin dialami);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelopor",
+  "related": [],
+  "detailed": false
+}

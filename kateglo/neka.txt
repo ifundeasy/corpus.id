@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neka",
+  "tags": {
+    "num": [
+      {
+        "type": "link",
+        "text": "aneka"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neka",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rangkuman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "pelukan;"
+      },
+      {
+        "type": "desc",
+        "text": "ringkasan; ikhtisar (dari uraian) dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rangkuman",
+  "related": [],
+  "detailed": false
+}

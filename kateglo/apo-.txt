@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "apo-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "dari; bagian dari; dibentuk dari;"
+      },
+      {
+        "type": "desc",
+        "text": "jauh dari; jauh;"
+      },
+      {
+        "type": "desc",
+        "text": "terlepas; terpisah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apo-",
+  "related": [],
+  "detailed": false
+}

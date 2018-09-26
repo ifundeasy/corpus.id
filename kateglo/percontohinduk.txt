@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percontoh induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) percontoh yang diambil dari populasi untuk digunakan pada sejumlah peristiwa yang akan datang agar terhindar dari penarikan contoh sewaktu-waktu pada setiap peristiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percontoh%20induk",
+  "related": [],
+  "detailed": false
+}

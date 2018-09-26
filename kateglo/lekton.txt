@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lekton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makna suatu rumus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lekton",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktivisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan (para) aktivis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) doktrin yang menekankan perlunya tindakan kekerasan untuk mencapai tujuan politik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) aliran ekspresionisme yang berpandangan bahwa drama harus dapat mencari pemecahan realistis mengenai masalah sosial;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktivisme",
+  "related": [],
+  "detailed": false
+}

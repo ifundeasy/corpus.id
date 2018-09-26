@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kipas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengibas-ngibas (supaya mendapat angin sejuk dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "baling-baling pada pesawat (kapal, mobil, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kipas",
+  "related": [],
+  "detailed": false
+}

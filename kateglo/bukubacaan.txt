@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku bacaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku untuk pelajaran membaca (bagi anak sekolah);"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang dibaca sebagai pengisi waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20bacaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "histerektomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) operasi pengangkatan rahim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=histerektomi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkas tersendiri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) berkas yang mempunyai judul tertentu guna menyimpan surat yang mengandung nama atau pokok yang tercakup di bawah judul berkas itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkas%20tersendiri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyirep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membaca sirep; orang yang menyirep;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyirep",
+  "related": [],
+  "detailed": false
+}

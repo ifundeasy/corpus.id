@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "legataris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) penerima hibah waris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=legataris",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kutang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian dalam wanita untuk menutupi payudara;"
+      },
+      {
+        "type": "desc",
+        "text": "baju tanpa lengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kutang",
+  "related": [],
+  "detailed": false
+}

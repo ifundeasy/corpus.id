@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdaftar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah tercatat (tercantum, dimasukkan) dalam daftar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdaftar",
+  "related": [],
+  "detailed": false
+}

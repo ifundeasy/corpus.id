@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terang tanah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pagi-pagi pada waktu tanah mulai kelihatan (kira-kira pukul 05.00— 5.30);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terang%20tanah",
+  "related": [],
+  "detailed": false
+}

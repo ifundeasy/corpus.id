@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah perusahaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terbitan yang dikeluarkan secara teratur oleh suatu perusahaan, berisi berita kepegawaian, karyawan, kebijakan, dan produksi perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20perusahaan",
+  "related": [],
+  "detailed": false
+}

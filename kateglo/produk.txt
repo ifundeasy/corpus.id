@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "produk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang atau jasa yang dibuat dan ditambah gunanya atau nilainya dalam proses produksi dan menjadi hasil akhir dari proses produksi itu;"
+      },
+      {
+        "type": "desc",
+        "text": "benda atau yang bersifat kebendaan seperti barang, bahan, atau bangunan yang merupakan hasil konstruksi;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil; hasil kerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produk",
+  "related": [],
+  "detailed": false
+}

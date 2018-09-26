@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjual",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberikan sesuatu kepada orang lain untuk memperoleh uang pembayaran atau menerima uang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menggunakan cara-cara jahat untuk kepentingan pribadi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mengkhianati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjual",
+  "related": [],
+  "detailed": false
+}

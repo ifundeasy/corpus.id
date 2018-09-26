@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "migrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpindahan penduduk dari satu tempat (negara dsb) ke tempat (negara dsb) lain untuk menetap;"
+      },
+      {
+        "type": "desc",
+        "text": "perpin-dahan dari satu tempat ke tempat lain bagi burung dsb karena pergantian musim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=migrasi",
+  "related": [],
+  "detailed": false
+}

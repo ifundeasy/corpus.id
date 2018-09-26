@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyertai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengiringi; membarengi;"
+      },
+      {
+        "type": "desc",
+        "text": "menemani; mengawani; mendampingi;"
+      },
+      {
+        "type": "desc",
+        "text": "ikut serta atau menemani untuk membantu atau menolong;"
+      },
+      {
+        "type": "desc",
+        "text": "ikut serta dalam; ikut mengambil bagian dalam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyertai",
+  "related": [],
+  "detailed": false
+}

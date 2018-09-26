@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peta politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambaran tentang situasi politik (kekuatan partai, perkembangan organisasi politik, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta%20politik",
+  "related": [],
+  "detailed": false
+}

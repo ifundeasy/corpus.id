@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akun laba rugi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikhtisar penerimaan dan pengeluaran dalam masa tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun%20laba%20rugi",
+  "related": [],
+  "detailed": false
+}

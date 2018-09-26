@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepatutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(per)timbangan; pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "kepantasan; kelayakan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesesuaian; kecocokan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepatutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barometer baku",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "mutlak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometer%20baku",
+  "related": [],
+  "detailed": false
+}

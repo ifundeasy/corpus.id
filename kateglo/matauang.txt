@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mata uang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang dari logam;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan harga uang;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan uang suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mata%20uang",
+  "related": [],
+  "detailed": false
+}

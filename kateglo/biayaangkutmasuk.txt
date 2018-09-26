@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya angkut masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya pengiriman barang masuk yang dibebankan kepada perusahaan yang dikirimi;"
+      },
+      {
+        "type": "desc",
+        "text": "pos yang mencatat biaya pengiriman barang masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20angkut%20masuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "polesan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang sudah dipoles;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil memoles;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polesan",
+  "related": [],
+  "detailed": false
+}

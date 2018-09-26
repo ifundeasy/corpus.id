@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenggang waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas waktu (tentang perjanjian, ancaman, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenggang%20waktu",
+  "related": [],
+  "detailed": false
+}

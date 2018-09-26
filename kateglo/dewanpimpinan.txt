@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dewan pimpinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang bertugas memimpin suatu organisasi (perkumpulan, partai, perseroan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan%20pimpinan",
+  "related": [],
+  "detailed": false
+}

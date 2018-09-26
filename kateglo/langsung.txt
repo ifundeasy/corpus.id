@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langsung",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "terus (tidak dengan perantaraan, tidak berhenti, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlanjut (hingga beberapa lamanya, hingga jauh, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lewat dari tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "jadi (tidak urung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langsung",
+  "related": [],
+  "detailed": false
+}

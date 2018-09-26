@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "celung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cekung (tentang pipi, mata);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi angklung dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kandang gajah atau kerbau yang sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celung",
+  "related": [],
+  "detailed": false
+}

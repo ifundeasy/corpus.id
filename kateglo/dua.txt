@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dua",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 2 (Arab) atau II (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-2 sesudah pertama dan sebelum ke-3;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 1 ditambah 1;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendua"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dua",
+  "related": [],
+  "detailed": false
+}

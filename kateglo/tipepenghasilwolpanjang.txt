@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tipe penghasil wol panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis domba yang mempunyai bulu panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tipe%20penghasil%20wol%20panjang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akson",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "tonjolan serat saraf yang dimulai pada sel saraf;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) taji sel saraf yang secara normal membawa rangsangan dari badan sel saraf lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akson",
+  "related": [],
+  "detailed": false
+}

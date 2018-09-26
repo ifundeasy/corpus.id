@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tablo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertunjukan lakon tanpa gerak atau tanpa dialog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tablo",
+  "related": [],
+  "detailed": false
+}

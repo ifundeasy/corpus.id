@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menulikan telinga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyebabkan telinga (seperti) tuli (karena keras bunyinya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pura-pura tuli (tidak mau mendengarkan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menulikan%20telinga",
+  "related": [],
+  "detailed": false
+}

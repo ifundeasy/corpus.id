@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reagensia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "reagen zat kimia yang gunanya untuk menimbulkan reaksi kimiawi yang telah ditentukan, biasa dipakai untuk mengetes darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reagensia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bestelan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang (makanan dsb) yang dibestel; pesanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bestelan",
+  "related": [],
+  "detailed": false
+}

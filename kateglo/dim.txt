@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran panjang 1/12 kaki; 2,54 ml; inci;"
+      },
+      {
+        "type": "desc",
+        "text": "lampu besar di bagian depan mobil yang dapat dimatikan atau dihidupkan untuk memberi isyarat kepada kendaraan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dim",
+  "related": [],
+  "detailed": false
+}

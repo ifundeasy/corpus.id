@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pondok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan untuk tempat sementara (seperti yang didirikan di ladang, di hutan, dsb); teratak;"
+      },
+      {
+        "type": "desc",
+        "text": "rumah (sebutan untuk merendahkan diri);"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan tempat tinggal yang berpetak-petak yang berdinding bilik dan beratap rumbia (untuk tempat tinggal beberapa keluarga);"
+      },
+      {
+        "type": "desc",
+        "text": "madrasah dan asrama (tempat mengaji, belajar agama Islam); di daerah itu terdapat beberapa -- yang dikelola secara modern;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pondok",
+  "related": [],
+  "detailed": false
+}

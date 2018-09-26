@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekaristi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat)"
+      },
+      {
+        "type": "desc",
+        "text": "perayaan ibadat mengucapkan pujian dan syukur kepada Allah, biasanya disebut Misa Kudus;"
+      },
+      {
+        "type": "desc",
+        "text": "tubuh dan darah Kristus dalam rupa roti dan anggur dalam perayaan Misa Kudus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekaristi",
+  "related": [],
+  "detailed": false
+}

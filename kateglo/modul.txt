@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "standar atau satuan pengukur;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan standar yang bersama-sama dengan yang lain digunakan secara bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan bebas yang merupakan bagian dari struktur keseluruhan;"
+      },
+      {
+        "type": "desc",
+        "text": "komponen dari suatu sistem yang berdiri sendiri, tetapi menunjang program dari sistem itu;"
+      },
+      {
+        "type": "desc",
+        "text": "unit kecil dari satu pelajaran yang dapat beroperasi sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dik) kegiatan program belajar-mengajar yang dapat dipelajari oleh murid dengan bantuan yang minimal dari guru pembimbing, meliputi perencanaan tujuan yang akan dicapai secara jelas, penyediaan materi pelajaran, alat yang dibutuhkan, serta alat untuk penilai, mengukur keberhasilan murid dalam penyelesaian pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modul",
+  "related": [],
+  "detailed": false
+}

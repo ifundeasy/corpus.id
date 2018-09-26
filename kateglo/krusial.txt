@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "krusial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gawat; genting;"
+      },
+      {
+        "type": "desc",
+        "text": "menentukan;"
+      },
+      {
+        "type": "desc",
+        "text": "rumit, sulit sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan kehancuran perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=krusial",
+  "related": [],
+  "detailed": false
+}

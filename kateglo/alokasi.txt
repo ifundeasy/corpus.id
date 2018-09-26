@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "penentuan banyaknya barang yang disediakan untuk suatu tempat (pembeli dsb); penjatahan;"
+      },
+      {
+        "type": "desc",
+        "text": "penentuan banyaknya uang (biaya) yang disediakan untuk suatu keperluan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sos) pembagian pengeluaran dan pendapatan (di suatu departemen, instansi, atau cabang perusahaan), baik dalam perencanaan maupun pelaksanaannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) penentuan penggunaan sumber daya secara matematis (misal tentang tenaga kerja, mesin, dan perlengkapan) demi pencapaian hasil yang optimal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alokasi",
+  "related": [],
+  "detailed": false
+}

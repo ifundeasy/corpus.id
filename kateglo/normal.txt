@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "normal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menurut aturan atau menurut pola yang umum; sesuai dan tidak menyimpang dari suatu norma atau kaidah; sesuai dengan keadaan yang biasa; tanpa cacat; tidak ada kelainan;"
+      },
+      {
+        "type": "desc",
+        "text": "bebas dari gangguan jiwa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=normal",
+  "related": [],
+  "detailed": false
+}

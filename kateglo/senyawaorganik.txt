@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senyawa organik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "senyawa yang bersangkut paut dengan zat yang berasal dari makhluk hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senyawa%20organik",
+  "related": [],
+  "detailed": false
+}

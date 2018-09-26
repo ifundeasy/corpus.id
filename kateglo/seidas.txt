@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seidas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu idas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seidas",
+  "related": [],
+  "detailed": false
+}

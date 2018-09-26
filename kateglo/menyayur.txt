@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyayur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasak sayur (sup dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyayur",
+  "related": [],
+  "detailed": false
+}

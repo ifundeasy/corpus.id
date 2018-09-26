@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mitologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang bentuk sastra yang mengandung konsepsi dan dongeng suci mengenai kehidupan dewa dan makhluk halus dalam suatu kebudayaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mitologi",
+  "related": [],
+  "detailed": false
+}

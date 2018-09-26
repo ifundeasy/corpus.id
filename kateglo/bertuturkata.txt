@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertutur kata",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bercakap-cakap; berbincang-bincang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertutur%20kata",
+  "related": [],
+  "detailed": false
+}

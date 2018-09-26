@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta pendapatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta dari pihak perempuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20pendapatan",
+  "related": [],
+  "detailed": false
+}

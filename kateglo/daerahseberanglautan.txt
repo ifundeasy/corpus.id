@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah seberang lautan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang harus dicapai dengan menyeberangi lautan;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah jajahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20seberang%20lautan",
+  "related": [],
+  "detailed": false
+}

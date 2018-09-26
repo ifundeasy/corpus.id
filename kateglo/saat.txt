@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu (yang pendek sekali); ketika;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) waktu yang bertalian dengan baik buruk (untung malang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saat",
+  "related": [],
+  "detailed": false
+}

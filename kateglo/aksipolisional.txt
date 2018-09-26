@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aksi polisional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aksi militer setempat yang dilakukan oleh tentara pemerintah tanpa pernyataan perang yang resmi terhadap orang yang dianggap melanggar keamanan dan ketertiban internasional;"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan yang bermaksud memulihkan keamanan (istilah yang digunakan Belanda ketika memerangi Indonesia untuk mendapatkan kembali jajahannya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aksi%20polisional",
+  "related": [],
+  "detailed": false
+}

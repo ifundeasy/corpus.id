@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bemo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "becak bermotor;"
+      },
+      {
+        "type": "desc",
+        "text": "kendaraan penumpang umum bermotor, beroda tiga dengan pengemudi di depan, antara pengemudi dan penumpang di belakang ada sekat, penumpang duduk menyamping berhadapan;"
+      },
+      {
+        "type": "desc",
+        "text": "kendaraan bermotor angkutan penumpang umum dalam kota, yang bukan bus, beroda empat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bemo",
+  "related": [],
+  "detailed": false
+}

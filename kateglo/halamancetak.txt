@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "halaman cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) bagian halaman dengan ukuran tertentu yang memuat cetakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=halaman%20cetak",
+  "related": [],
+  "detailed": false
+}

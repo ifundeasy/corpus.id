@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interval",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa antara dua kejadian yang bertalian (dalam drama, pertunjukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) perbedaan ketinggian antara dua nada; jangka nada;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mat) jarak yang terletak antara dua nilai yang diketahui;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) jangka waktu untuk istirahat antara dua latihan yang berkaitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interval",
+  "related": [],
+  "detailed": false
+}

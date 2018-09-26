@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langgam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gaya; model; cara;"
+      },
+      {
+        "type": "desc",
+        "text": "adat atau kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk irama lagu (nyanyian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langgam",
+  "related": [],
+  "detailed": false
+}

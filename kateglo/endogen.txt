@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "endogen",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "berasal dari dalam; bersumber dari kekuatan di dalam bumi, seperti pembentukan gunung api;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) berasal atau terbentuk di dalam organisme atau salah satu bagiannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=endogen",
+  "related": [],
+  "detailed": false
+}

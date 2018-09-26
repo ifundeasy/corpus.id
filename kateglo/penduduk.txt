@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penduduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau orang-orang yang mendiami suatu tempat (kampung, negeri, pulau, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penduduk",
+  "related": [],
+  "detailed": false
+}

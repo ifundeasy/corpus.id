@@ -1,0 +1,53 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "induk (tentang binatang, tumbuhan);"
+      },
+      {
+        "type": "desc",
+        "text": "kepala; pimpinan;"
+      },
+      {
+        "type": "desc",
+        "text": "sari atau pati (yang dapat dijadikan banyak dengan menambahkan air dsb kepadanya);"
+      },
+      {
+        "type": "desc",
+        "text": "jenis yang tulen; jenis belum bercampur dengan jenis yang lain; ras;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pokok pangkal; asal mula;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hampir tembuk (tembus);"
+      },
+      {
+        "type": "desc",
+        "text": "lubang-lubang kecil (pada sela-sela dinding atau atap yang sudah bocor);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "geliang-geliut; incang-incut; berkelok-kelok;"
+      },
+      {
+        "type": "link",
+        "text": "biang-biang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biang",
+  "related": [],
+  "detailed": false
+}

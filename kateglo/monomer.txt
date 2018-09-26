@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monomer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok kecil molekul yang dapat dirangkaikan dan disebut polimer;"
+      },
+      {
+        "type": "desc",
+        "text": "senyawa kimia yang dapat dipolimerisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monomer",
+  "related": [],
+  "detailed": false
+}

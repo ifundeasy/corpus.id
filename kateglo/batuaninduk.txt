@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batuan induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batuan tempat asal terbentuknya minyak dan gas bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batuan%20induk",
+  "related": [],
+  "detailed": false
+}

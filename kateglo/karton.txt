@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas tebal (untuk kulit buku, gambar, dsb) dengan berat dasar antara 150—600 g;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karton",
+  "related": [],
+  "detailed": false
+}

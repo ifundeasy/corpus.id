@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "morfofonemis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat morfofonem, yakni berubahnya fonem sebagai akibat proses morfologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfofonemis",
+  "related": [],
+  "detailed": false
+}

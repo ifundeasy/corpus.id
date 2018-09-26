@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga elektromotif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) selisih potensial antara kutub-kutub sebuah elemen sebelum kedua kutubnya dihubungkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20elektromotif",
+  "related": [],
+  "detailed": false
+}

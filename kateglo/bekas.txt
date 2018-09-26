@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bekas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda yang tertinggal atau tersisa (sesudah dipegang, diinjak, dilalui, dsb); kesan;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang tertinggal sebagai sisa (yang telah rusak, terbakar, tidak dipakai lagi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pernah menjabat atau menjadi ..., tetapi sekarang tidak lagi; mantan;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah pernah dipakai;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menaruh sesuatu; wadah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bekas",
+  "related": [],
+  "detailed": false
+}

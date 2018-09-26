@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisme termofilik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme yang tumbuh di atas suhu 45oC;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisme%20termofilik",
+  "related": [],
+  "detailed": false
+}

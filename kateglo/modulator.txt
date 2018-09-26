@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "modulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengubah-ubah amplitudo, frekuensi, fase isyarat atau fase gelombang pembawa dalam telefoni, telegrafi, radio, atau televisi;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyesuaikan atau membetulkan kunci nada, nada, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modulator",
+  "related": [],
+  "detailed": false
+}

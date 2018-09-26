@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terdengar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat didengar (tentang suara, bunyi);"
+      },
+      {
+        "type": "desc",
+        "text": "diketahui atau tersiar (tentang kabar, berita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terdengar",
+  "related": [],
+  "detailed": false
+}

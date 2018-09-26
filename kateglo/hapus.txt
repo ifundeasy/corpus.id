@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hapus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak terdapat atau tidak terlihat lagi; hilang;"
+      },
+      {
+        "type": "desc",
+        "text": "musnah; lenyap;"
+      },
+      {
+        "type": "desc",
+        "text": "diampuni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hapus",
+  "related": [],
+  "detailed": false
+}

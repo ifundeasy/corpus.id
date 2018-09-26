@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "traktus digestivus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saluran pencernaan makanan, mulai dari mulut sampai ke anus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=traktus%20digestivus",
+  "related": [],
+  "detailed": false
+}

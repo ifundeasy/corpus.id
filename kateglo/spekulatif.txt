@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spekulatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dengan pemikiran dalam-dalam secara teori;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat spekulasi (untung-untungan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spekulatif",
+  "related": [],
+  "detailed": false
+}

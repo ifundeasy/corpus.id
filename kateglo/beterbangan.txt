@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beterbangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terbang ke mana-mana (banyak yang terbang);"
+      },
+      {
+        "type": "desc",
+        "text": "berhamburan atau melayang-layang di udara (tentang debu, kapuk, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beterbangan",
+  "related": [],
+  "detailed": false
+}

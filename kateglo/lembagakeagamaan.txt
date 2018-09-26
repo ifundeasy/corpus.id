@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaga keagamaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi yang bertujuan mengembangkan dan membina kehidupan beragama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga%20keagamaan",
+  "related": [],
+  "detailed": false
+}

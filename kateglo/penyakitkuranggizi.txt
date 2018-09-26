@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyakit kurang gizi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang disebabkan oleh kekurangan gizi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyakit%20kurang%20gizi",
+  "related": [],
+  "detailed": false
+}

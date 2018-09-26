@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neurolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) dokter ahli urat saraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neurolog",
+  "related": [],
+  "detailed": false
+}

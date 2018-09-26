@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agraris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai pertanian atau tanah pertanian;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai pertanian atau cara hidup petani;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agraris",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hospital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) rumah sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hospital",
+  "related": [],
+  "detailed": false
+}

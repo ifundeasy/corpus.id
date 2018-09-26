@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "triode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) katup dengan tiga elektrode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=triode",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "girostat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "giroskop yang dipasang pada kotak yang tegar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=girostat",
+  "related": [],
+  "detailed": false
+}

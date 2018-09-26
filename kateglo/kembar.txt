@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kembar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sama rupanya (keadaannya);"
+      },
+      {
+        "type": "desc",
+        "text": "dilahirkan bersama-sama dari satu ibu (tentang anak);"
+      },
+      {
+        "type": "desc",
+        "text": "rangkap; dobel (tentang nomor kendaraan, majalah, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kembar",
+  "related": [],
+  "detailed": false
+}

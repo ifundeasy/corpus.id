@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "randai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "merandai"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tarian yang dibawakan oleh sekelompok orang yang berkeliling membentuk lingkaran sambil bernyanyi dan bertepuk tangan, merupakan medium cerita \"kaba\";"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=randai",
+  "related": [],
+  "detailed": false
+}

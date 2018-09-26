@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku untuk (belajar) menggambar;"
+      },
+      {
+        "type": "desc",
+        "text": "buku berisi gambar cetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20gambar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "propulsi jet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) dorongan sembur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=propulsi%20jet",
+  "related": [],
+  "detailed": false
+}

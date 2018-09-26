@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cita setengah sutra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paris",
+  "related": [],
+  "detailed": false
+}

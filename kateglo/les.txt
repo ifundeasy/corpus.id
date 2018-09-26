@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "les",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "pelajaran atau pelajaran tambahan di luar jam sekolah;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "belajar kepada seseorang di luar jam sekolah;"
+      },
+      {
+        "type": "link",
+        "text": "lis"
+      },
+      {
+        "type": "desc",
+        "text": "tali kekang; tali kendali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=les",
+  "related": [],
+  "detailed": false
+}

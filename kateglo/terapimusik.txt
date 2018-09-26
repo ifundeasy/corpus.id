@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terapi musik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "teknik penyembuhan penyakit melalui musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terapi%20musik",
+  "related": [],
+  "detailed": false
+}

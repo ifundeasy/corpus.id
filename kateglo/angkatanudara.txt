@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkatan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angkatan bersenjata dengan alat perlengkapannya yang bertugas di bidang pertahanan dan keamanan, terutama di udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkatan%20udara",
+  "related": [],
+  "detailed": false
+}

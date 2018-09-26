@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyumpah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menyumpah (para rohaniwan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang biasa atau suka mengeluarkan kata- kata kutukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyumpah",
+  "related": [],
+  "detailed": false
+}

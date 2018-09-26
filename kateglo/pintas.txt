@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pintas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memintas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintas",
+  "related": [],
+  "detailed": false
+}

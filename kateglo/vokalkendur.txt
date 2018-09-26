@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "vokal kendur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "vokal yang diartikulasikan dengan otot agak kendur, misal /i/ pada saling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokal%20kendur",
+  "related": [],
+  "detailed": false
+}

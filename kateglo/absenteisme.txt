@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absenteisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketidakhadiran yang terus-menerus (dalam perusahaan, sekolah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) pemilikan atau perwalian tanah oleh orang-orang yang tidak hidup di tanah tersebut dan tidak mengolah tanah itu sendiri, tetapi mengambil hasilnya melalui penggarapnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absenteisme",
+  "related": [],
+  "detailed": false
+}

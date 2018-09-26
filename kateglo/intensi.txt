@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat atribut atau ciri yang menjelaskan sesuatu yang dapat diacu dengan kata tertentu (di-bedakan dengan ekstensi);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kat) keinginan atau permohonan khusus yang diajukan umat dalam upacara misa;"
+      },
+      {
+        "type": "desc",
+        "text": "maksud; tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intensi",
+  "related": [],
+  "detailed": false
+}

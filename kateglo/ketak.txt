@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bunyi \"tak, tak\" (bunyi ketukan pada papan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelipatan (kerut) pada kulit leher dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "leksikolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli leksikologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=leksikolog",
+  "related": [],
+  "detailed": false
+}

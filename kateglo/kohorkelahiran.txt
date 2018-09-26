@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kohor kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) banyaknya kelahiran hidup yang terjadi dalam periode atau waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kohor%20kelahiran",
+  "related": [],
+  "detailed": false
+}

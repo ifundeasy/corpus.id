@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menunggak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyisakan pangkal kayu yang ditebang;"
+      },
+      {
+        "type": "desc",
+        "text": "membiarkan sebagai tunggak (pancang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) membiarkan, menyisakan pembayaran atau belum membayar (angsuran, iuran pajak, dsb) yang seharusnya sudah dibayar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menyisakan pekerjaan (ada sebagian pekerjaan yang belum diselesaikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menunggak",
+  "related": [],
+  "detailed": false
+}

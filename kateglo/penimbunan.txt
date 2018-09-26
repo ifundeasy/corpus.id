@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penimbunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menimbun; pengumpulan (barang-barang);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menimbun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penimbunan",
+  "related": [],
+  "detailed": false
+}

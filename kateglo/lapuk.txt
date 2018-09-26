@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lapuk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bercendawan karena sudah lama;"
+      },
+      {
+        "type": "desc",
+        "text": "rusak; busuk (karena sudah tua);"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan penghancuran bahan yang berasal dari tumbuhan dan binatang oleh aktivitas jamur dan jasad renik lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) ketinggalan zaman; usang; kolot;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berlapuk-lapuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapuk",
+  "related": [],
+  "detailed": false
+}

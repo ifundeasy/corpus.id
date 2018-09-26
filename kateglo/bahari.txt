@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bahari",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "dahulu kala; kuno;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertuah;"
+      },
+      {
+        "type": "desc",
+        "text": "indah; elok sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) mengenai laut; bahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahari",
+  "related": [],
+  "detailed": false
+}

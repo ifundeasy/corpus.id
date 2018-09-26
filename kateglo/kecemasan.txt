@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecemasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cemas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlampau cemas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecemasan",
+  "related": [],
+  "detailed": false
+}

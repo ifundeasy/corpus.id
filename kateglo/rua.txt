@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rua",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "banyak makan tempat; tidak ringkas; lebar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rua",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepengurusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk-beluk yang berhubungan dengan tugas pengurus;"
+      },
+      {
+        "type": "desc",
+        "text": "hal-hal yang bersangkut-paut dengan cara mengurus sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepengurusan",
+  "related": [],
+  "detailed": false
+}

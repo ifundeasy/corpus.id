@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sajak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gubahan sastra yang berbentuk puisi;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat;"
+      },
+      {
+        "type": "desc",
+        "text": "gubahan karya sastra yang sangat mementingkan keselarasan bunyi bahasa, baik kesepadanan bunyi, kekontrasan, maupun kesamaan;"
+      },
+      {
+        "type": "desc",
+        "text": "patut; kena; cocok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak",
+  "related": [],
+  "detailed": false
+}

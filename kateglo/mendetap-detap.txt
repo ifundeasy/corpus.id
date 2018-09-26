@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendetap-detap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menimbulkan bunyi detap terus-menerus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendetap-detap",
+  "related": [],
+  "detailed": false
+}

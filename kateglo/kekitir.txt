@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kekitir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda pemilikan tanah dan besarnya pajak (tanah) yang harus dibayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekitir",
+  "related": [],
+  "detailed": false
+}

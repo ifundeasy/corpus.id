@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Virgo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron)"
+      },
+      {
+        "type": "desc",
+        "text": "nama gugus bintang yang terletak di antara Leo dan Libra pada deklinasi 00;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astrol) zodiak ke-6 yang digambarkan dengan wanita kembar sebagai lambang bagi orang lahir antara tanggal 23 Agustus—22 September; Kanya; Mayang; Sunbulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Virgo",
+  "related": [],
+  "detailed": false
+}

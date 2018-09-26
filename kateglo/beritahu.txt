@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beri tahu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memberi tahu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beri%20tahu",
+  "related": [],
+  "detailed": false
+}

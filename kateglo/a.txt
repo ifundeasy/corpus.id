@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "A",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf pertama abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "nama huruf a;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda pertama dalam urutan (mutu, nilai, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=A",
+  "related": [],
+  "detailed": false
+}

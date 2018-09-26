@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) kriteria kualifikasi kapal menurut ketentuan biro klasifikasi yang didasarkan atas konstruksi kapal ditinjau dari aspek keselamatan, dan dijadikan patokan nilai premi asuransi dan nilai asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20kapal",
+  "related": [],
+  "detailed": false
+}

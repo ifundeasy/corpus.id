@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlampuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal yang berhubungan dengan penerangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlampuan",
+  "related": [],
+  "detailed": false
+}

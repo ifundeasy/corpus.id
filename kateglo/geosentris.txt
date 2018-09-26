@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geosentris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan pendirian bahwa bumi dianggap sebagai pusat alam semesta;"
+      },
+      {
+        "type": "desc",
+        "text": "mengenai titik tengah bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geosentris",
+  "related": [],
+  "detailed": false
+}

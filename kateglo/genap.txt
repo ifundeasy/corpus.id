@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "genap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penuh; utuh (tidak kurang); lengkap;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ganjil (tidak gasal) sehingga habis dibagi dua (tentang bilangan);"
+      },
+      {
+        "type": "desc",
+        "text": "cocok; pantas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=genap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menangkis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menolak atau menahan (pukulan atau serangan dengan senjata dsb) dengan menggunakan tangan, perisai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menghadapi, melawan, dan menggagalkan (serangan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menahan dan memukul kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "menjawab; menanggapi (kecaman, tuduhan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menangkis",
+  "related": [],
+  "detailed": false
+}

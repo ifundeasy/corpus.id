@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba personal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "verba yang dipakai dalam ketiga persona;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20personal",
+  "related": [],
+  "detailed": false
+}

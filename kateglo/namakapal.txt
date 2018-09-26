@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama setiap kapal niaga yang terdaftar, terpajang pada kedua sisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20kapal",
+  "related": [],
+  "detailed": false
+}

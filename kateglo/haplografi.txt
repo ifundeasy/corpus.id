@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "haplografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) penghilangan satu atau dua huruf yang bersamaan dan berurutan dalam tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=haplografi",
+  "related": [],
+  "detailed": false
+}

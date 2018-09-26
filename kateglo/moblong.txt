@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "moblong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbuka lebar (tentang pintu);"
+      },
+      {
+        "type": "desc",
+        "text": "jelas; nyata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=moblong",
+  "related": [],
+  "detailed": false
+}

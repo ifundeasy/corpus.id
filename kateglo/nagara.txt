@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nagara",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "nagara bukit"
+      },
+      {
+        "type": "link",
+        "text": "nakara"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nagara",
+  "related": [],
+  "detailed": false
+}

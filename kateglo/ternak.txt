@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ternak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang yang dipiara (lembu, kuda, kambing, dsb) untuk dibiakkan dengan tujuan produksi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) yang berasal dari; yang diperanakkan di;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ternak",
+  "related": [],
+  "detailed": false
+}

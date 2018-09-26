@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "centang",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "centang-perenang"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda koreksi, bentuknya seperti huruf v atau tanda cawang;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mencentang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=centang",
+  "related": [],
+  "detailed": false
+}

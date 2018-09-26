@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang menjadi alamat atau yang menyatakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "gejala;"
+      },
+      {
+        "type": "desc",
+        "text": "bukti;"
+      },
+      {
+        "type": "desc",
+        "text": "pengenal; lambang;"
+      },
+      {
+        "type": "desc",
+        "text": "petunjuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanda",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keranjang sampah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keranjang untuk tempat sampah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keranjang%20sampah",
+  "related": [],
+  "detailed": false
+}

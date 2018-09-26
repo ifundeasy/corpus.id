@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlatih",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "belajar dan membiasakan diri agar mampu (dapat) melakukan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat agar menjadi biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlatih",
+  "related": [],
+  "detailed": false
+}

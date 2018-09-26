@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat (yang memakai gelombang radio) untuk mendeteksi jarak, kecepatan, dan arah benda yang bergerak atau benda yang diam (biasanya dipakai dalam penerbangan dan pelayaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radar",
+  "related": [],
+  "detailed": false
+}

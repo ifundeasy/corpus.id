@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem segmental",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang terjadi dari fonem segmental;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20segmental",
+  "related": [],
+  "detailed": false
+}

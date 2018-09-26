@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf pertama dari kalimat pertama pada halaman baru, dan disusun dengan huruf kapital yang bagus, biasanya terdapat pada buku-buku bacaan yang bermutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20awal",
+  "related": [],
+  "detailed": false
+}

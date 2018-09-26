@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "politeknik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal-hal yang bersangkutan dengan pengajaran keterampilan dan ilmu-ilmu terapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=politeknik",
+  "related": [],
+  "detailed": false
+}

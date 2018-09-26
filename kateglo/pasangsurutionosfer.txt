@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang surut ionosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak naik turun ionosfer yang disebabkan oleh gaya tarik bulan dan matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20surut%20ionosfer",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magnitudo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Astron) ukuran derajat kecemerlangan bintang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magnitudo",
+  "related": [],
+  "detailed": false
+}

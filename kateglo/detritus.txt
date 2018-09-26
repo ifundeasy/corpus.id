@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detritus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sampah, termasuk bangkai, yang meluruh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) pecahan bahan yang lepas dari permukaan batuan karena meluruh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) jaringan rusak yang terlepas dari tempat asalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detritus",
+  "related": [],
+  "detailed": false
+}

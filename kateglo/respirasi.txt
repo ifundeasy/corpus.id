@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "respirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan memasukkan dan mengeluarkan udara ke dalam dan dari paru-paru; pernapasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) pengikatan oksigen oleh butir-butir darah untuk penyediaan bahan bagi seluruh tubuh melalui permukaan alat pernapasan (paru-paru, insang) pada binatang sekaligus mengeluarkan karbon dioksida;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=respirasi",
+  "related": [],
+  "detailed": false
+}

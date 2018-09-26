@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan arus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagan yang terdiri atas garis dan panah yang menggambarkan jalannya suatu proses;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20arus",
+  "related": [],
+  "detailed": false
+}

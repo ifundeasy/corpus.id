@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wabah hewani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wabah penyakit hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wabah%20hewani",
+  "related": [],
+  "detailed": false
+}

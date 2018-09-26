@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembar kegiatan siswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) bagian pokok dari modul yang berisi tujuan umum topik yang dibahas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembar%20kegiatan%20siswa",
+  "related": [],
+  "detailed": false
+}

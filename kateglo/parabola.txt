@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parabola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "garis lengkung datar yang terbentuk jika suatu bidang memotong kerucut sejajar dengan garis titik sudut puncak dengan salah satu titik pada keliling alas;"
+      },
+      {
+        "type": "desc",
+        "text": "antena televisi berbentuk bundar seperti piring cekung yang dapat menangkap siaran jarak jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parabola",
+  "related": [],
+  "detailed": false
+}

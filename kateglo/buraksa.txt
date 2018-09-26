@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buraksa",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "pohon"
+      },
+      {
+        "type": "link",
+        "text": "kuda"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buraksa",
+  "related": [],
+  "detailed": false
+}

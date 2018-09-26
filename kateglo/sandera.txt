@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sandera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ditawan untuk dijadikan jaminan (tanggungan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang tergadai (bekerja di tempat orang untuk tanggungan utang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sandera",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "museologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang pengelolaan museum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=museologi",
+  "related": [],
+  "detailed": false
+}

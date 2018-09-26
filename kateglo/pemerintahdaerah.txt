@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemerintah daerah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penguasa yang memerintah di daerah, seperti gubernur, bupati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemerintah%20daerah",
+  "related": [],
+  "detailed": false
+}

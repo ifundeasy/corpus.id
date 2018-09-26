@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konferensi pers",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan pers yang diadakan oleh seorang tokoh untuk memberitahukan hal yang penting di hadapan wartawan dan utusan kantor berita untuk disebarluaskan melalui media massa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konferensi%20pers",
+  "related": [],
+  "detailed": false
+}

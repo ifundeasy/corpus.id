@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli Taurat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "penganut ajaran kitab Taurat pada zaman Nabi Musa a.s.;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) pengajar dan penafsir Kitab Perjanjian Lama, khususnya kelima kitab Musa (Taurat atau Pentateukh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20Taurat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telefoto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengambilan gambar dengan kamera dari jarak yang sangat jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telefoto",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan nasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang dibiayai oleh negara untuk mengumpulkan, menyiapkan, melestarikan buku, majalah, surat kabar, naskah kuno, mikrofilm, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20nasional",
+  "related": [],
+  "detailed": false
+}

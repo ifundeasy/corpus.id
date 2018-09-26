@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit menular; wabah; epidemi;"
+      },
+      {
+        "type": "desc",
+        "text": "musim penyakit menular;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taun",
+  "related": [],
+  "detailed": false
+}

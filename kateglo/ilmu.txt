@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilmu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengetahuan tentang suatu bidang yang disusun secara bersistem menurut metode tertentu, yang dapat digunakan untuk menerangkan gejala tertentu di bidang (pengetahuan) itu;"
+      },
+      {
+        "type": "desc",
+        "text": "pengetahuan atau kepandaian (tentang soal duniawi, akhirat, lahir, batin, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu",
+  "related": [],
+  "detailed": false
+}

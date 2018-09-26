@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pentatonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) not musik yang terdiri atas lima nada (seperti pada gamelan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pentatonik",
+  "related": [],
+  "detailed": false
+}

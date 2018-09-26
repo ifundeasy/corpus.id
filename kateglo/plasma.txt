@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plasma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "barang cair tidak berwarna yang menjadi bagian darah, dalam keadaan normal volumenya kira-kira 5% dari berat badan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) gas yang terionisasi sempurna, sering disebut keadaan materi yang keempat (di samping keadaan padat, cair, dan gas);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) petani (pekebun) yang menjadi bagian dari sistem usaha pertanian (perkebunan) yang bertugas melakukan proses produksi dan memasok hasil produksinya kepada pabrik (yang bertindak inti), sedang biaya produksi dan fasilitasnya disediakan oleh pabrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plasma",
+  "related": [],
+  "detailed": false
+}

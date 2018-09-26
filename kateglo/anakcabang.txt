@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak cabang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dsb yang lebih kecil dari cabang; ranting;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dsb yang berada di bawah cabang (tentang susunan organisasi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20cabang",
+  "related": [],
+  "detailed": false
+}

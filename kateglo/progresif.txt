@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "progresif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ke arah kemajuan;"
+      },
+      {
+        "type": "desc",
+        "text": "berhaluan ke arah perbaikan keadaan sekarang (tentang politk);"
+      },
+      {
+        "type": "desc",
+        "text": "bertingkat-tingkat naik (tentang aturan pemungutan pajak dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=progresif",
+  "related": [],
+  "detailed": false
+}

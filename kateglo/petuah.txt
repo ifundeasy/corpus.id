@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petuah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan atau pendapat mufti (tentang masalah agama Islam); fatwa;"
+      },
+      {
+        "type": "desc",
+        "text": "nasihat orang alim; pelajaran (nasihat) yang baik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petuah",
+  "related": [],
+  "detailed": false
+}

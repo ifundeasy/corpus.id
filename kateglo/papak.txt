@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "papak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "papar; tidak lancip; rata; tidak merunjung (tentang atap dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berpapakan"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman keras; tuak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papak",
+  "related": [],
+  "detailed": false
+}

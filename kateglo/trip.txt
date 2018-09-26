@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan jauh;"
+      },
+      {
+        "type": "desc",
+        "text": "rombongan (yang bepergian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trip",
+  "related": [],
+  "detailed": false
+}

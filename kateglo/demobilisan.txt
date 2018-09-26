@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demobilisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota tentara (yang dikerahkan dalam masa perang) yang telah dibebaskan dari tugas militer setelah perang selesai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demobilisan",
+  "related": [],
+  "detailed": false
+}

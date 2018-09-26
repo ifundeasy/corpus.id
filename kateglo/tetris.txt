@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tetris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permainan menyusun balok tiga dimensi yang berasal dari Rusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetris",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debitor",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "debitur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debitor",
+  "related": [],
+  "detailed": false
+}

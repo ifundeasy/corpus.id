@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sendi naik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) sendi akhir yang terjadi apabila nada suara naik sebelum jeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sendi%20naik",
+  "related": [],
+  "detailed": false
+}

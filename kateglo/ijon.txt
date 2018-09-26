@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ijon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembelian padi dsb sebelum masak dan diambil oleh pembeli sesudah masak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) kredit yang diberikan kepada petani, nelayan, atau pengusaha kecil, yang pembayarannya dilakukan dengan hasil panen atau produksi berdasarkan harga jual yang rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ijon",
+  "related": [],
+  "detailed": false
+}

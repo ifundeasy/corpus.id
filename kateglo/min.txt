@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "min",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kp) minus; kurang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=min",
+  "related": [],
+  "detailed": false
+}

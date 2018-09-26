@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terpijak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak sengaja dipijak;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dipijak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terpijak",
+  "related": [],
+  "detailed": false
+}

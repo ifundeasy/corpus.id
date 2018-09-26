@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat kecil berisi keterangan pengambilan barang, peminjaman uang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gabungan perkumpulan olahraga; perserikatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bon",
+  "related": [],
+  "detailed": false
+}

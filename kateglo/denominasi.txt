@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "denominasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) harga surat berharga (sertifikat bank dsb) yang tercantum di dalam surat itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=denominasi",
+  "related": [],
+  "detailed": false
+}

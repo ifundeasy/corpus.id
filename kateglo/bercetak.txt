@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bercetak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dicetak (dicap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bercetak",
+  "related": [],
+  "detailed": false
+}

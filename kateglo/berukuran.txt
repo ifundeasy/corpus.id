@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berukuran",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai ukuran; mempunyai format (panjangnya, luasnya, lebarnya, besarnya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berukuran",
+  "related": [],
+  "detailed": false
+}

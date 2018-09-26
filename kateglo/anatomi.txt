@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anatomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu yang melukiskan letak dan hubungan bagian-bagian tubuh manusia, binatang, atau tumbuh-tumbuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "uraian yang mendalam tentang sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anatomi",
+  "related": [],
+  "detailed": false
+}

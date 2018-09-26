@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "geleng kepala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak kepala ke kiri dan ke kanan sebagai tanda menolak (tidak setuju, tidak tahu, tidak mau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geleng%20kepala",
+  "related": [],
+  "detailed": false
+}

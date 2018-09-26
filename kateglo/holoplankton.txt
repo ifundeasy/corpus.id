@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "holoplankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisme yang seluruh masa hidupnya berlangsung planktonis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=holoplankton",
+  "related": [],
+  "detailed": false
+}

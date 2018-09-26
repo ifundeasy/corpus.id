@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teritik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama pohon, Parinarium corymbosum;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berteritik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teritik",
+  "related": [],
+  "detailed": false
+}

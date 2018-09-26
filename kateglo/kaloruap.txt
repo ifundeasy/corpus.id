@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalor uap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang menunjukkan jumlah kalori yang dibutuhkan untuk menguapkan 1 g zat pada titik uapnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalor%20uap",
+  "related": [],
+  "detailed": false
+}

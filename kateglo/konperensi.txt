@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konperensi",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "konferensi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konperensi",
+  "related": [],
+  "detailed": false
+}

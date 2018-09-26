@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matematikawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli matematika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matematikawan",
+  "related": [],
+  "detailed": false
+}

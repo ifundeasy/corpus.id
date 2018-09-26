@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vokabuler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua kata yang terdapat dalam suatu bahasa; perbendaharaan kata; kosakata;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar kata yang diurutkan per abjad, biasanya disertai makna atau terjemahannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vokabuler",
+  "related": [],
+  "detailed": false
+}

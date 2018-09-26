@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berinisial",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bernama;"
+      },
+      {
+        "type": "desc",
+        "text": "berciri (dalam huruf);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berinisial",
+  "related": [],
+  "detailed": false
+}

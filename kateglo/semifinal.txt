@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semifinal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Olr) menjelang final (tentang babak dalam turnamen, kompetisi, kejuaraan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semifinal",
+  "related": [],
+  "detailed": false
+}

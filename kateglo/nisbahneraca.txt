@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nisbah neraca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) perbandingan angka yang diambil dari neraca untuk mengukur keadaan keuangan perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nisbah%20neraca",
+  "related": [],
+  "detailed": false
+}

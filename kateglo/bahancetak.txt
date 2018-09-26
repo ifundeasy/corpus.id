@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan cetak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "karya tulis yang dicetak, kata-katanya tersusun dalam bentuk yang mudah dimengerti dan dalam bentuk yang penuh gaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20cetak",
+  "related": [],
+  "detailed": false
+}

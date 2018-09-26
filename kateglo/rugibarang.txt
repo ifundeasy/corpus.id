@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rugi barang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rugi yang berupa barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rugi%20barang",
+  "related": [],
+  "detailed": false
+}

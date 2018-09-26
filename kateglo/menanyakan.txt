@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menanyakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bertanya sesuatu kepada; meminta keterangan tentang sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "meminang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menanyakan",
+  "related": [],
+  "detailed": false
+}

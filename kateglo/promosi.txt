@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "promosi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kenaikan pangkat (tingkat); naik pangkat (tingkat);"
+      },
+      {
+        "type": "desc",
+        "text": "hal memperoleh gelar doktor;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian gelar doktor yang dilakukan dengan upacara khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "perkenalan (dalam rangka memajukan usaha, dagang, dsb); reklame;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=promosi",
+  "related": [],
+  "detailed": false
+}

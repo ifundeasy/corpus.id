@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "margin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tepi; batas;"
+      },
+      {
+        "type": "desc",
+        "text": "laba bruto;"
+      },
+      {
+        "type": "desc",
+        "text": "tingkat selisih antara biaya produksi dan harga jual di pasar;"
+      },
+      {
+        "type": "desc",
+        "text": "deposit atau uang muka oleh investor dengan atau tanpa makelar yang merupakan pembayaran sebagian atau harga beli saham atau komoditas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=margin",
+  "related": [],
+  "detailed": false
+}

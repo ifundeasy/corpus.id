@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemegang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memegang;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memegang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemegang",
+  "related": [],
+  "detailed": false
+}

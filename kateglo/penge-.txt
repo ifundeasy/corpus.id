@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "penge-",
+  "tags": {
+    "bt": [
+      {
+        "type": "link",
+        "text": "peng-"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penge-",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menuai",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memotong padi (dengan ani-ani); mengetam padi;"
+      },
+      {
+        "type": "desc",
+        "text": "menjalankan panen; memanen; memetik hasil;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) menanggung akibat perbuatan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menuai",
+  "related": [],
+  "detailed": false
+}

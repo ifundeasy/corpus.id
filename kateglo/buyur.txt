@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buyur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jk) →"
+      },
+      {
+        "type": "link",
+        "text": "membuyur"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buyur",
+  "related": [],
+  "detailed": false
+}

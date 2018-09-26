@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi kinetik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) energi yang disebabkan oleh gerak suatu massa; tenaga gerak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20kinetik",
+  "related": [],
+  "detailed": false
+}

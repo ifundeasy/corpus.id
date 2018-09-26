@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikhtisar penunjuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan ringkas yang merupakan intisari suatu karangan asli yang hanya menyebutkan pokok utama karangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikhtisar%20penunjuk",
+  "related": [],
+  "detailed": false
+}

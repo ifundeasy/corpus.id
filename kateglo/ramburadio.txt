@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rambu radio",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pemancar radio yang memancarkan isyarat khusus secara terus-menerus untuk membantu kapal atau pesawat terbang dalam menentukan posisinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rambu%20radio",
+  "related": [],
+  "detailed": false
+}

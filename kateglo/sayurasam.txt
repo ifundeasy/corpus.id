@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sayur asam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayur yang diberi asam, terdiri atas bermacam-macam sayuran (seperti kacang panjang, nangka muda, buah belinjo serta daunnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sayur%20asam",
+  "related": [],
+  "detailed": false
+}

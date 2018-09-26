@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tukar barang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sistem perdagangan dengan menggunakan barang atau benda sebagai alat tukar untuk barang atau benda yang dibeli atau dijual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tukar%20barang",
+  "related": [],
+  "detailed": false
+}

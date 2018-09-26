@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poler",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan kutub bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan kutub magnet;"
+      },
+      {
+        "type": "desc",
+        "text": "berkutub dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poler",
+  "related": [],
+  "detailed": false
+}

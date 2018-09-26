@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bidang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "permukaan (yang) rata dan tentu batasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran panjang (5 hasta) untuk mengukur panjang (tikar, layar, kulit, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lapangan (dalam arti lingkungan pekerjaan, pengetahuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "segi pandangan; aspek;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata penggolong bagi barang-barang yang luas seperti tanah, sawah, ladang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lebar;"
+      },
+      {
+        "type": "desc",
+        "text": "kolom yang terdapat pada kartu berlubang untuk menuliskan informasi khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian tertentu dalam rekaman komputer, misal dalam rekaman bibliografi, pengarang, atau tanggal publikasi dokumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bidang",
+  "related": [],
+  "detailed": false
+}

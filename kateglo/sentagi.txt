@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentagi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tali;"
+      },
+      {
+        "type": "desc",
+        "text": "setagen;"
+      },
+      {
+        "type": "link",
+        "text": "akar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentagi",
+  "related": [],
+  "detailed": false
+}

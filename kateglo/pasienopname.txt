@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasien opname",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasien yang memperoleh pelayanan kesehatan menginap dan dirawat di rumah sakit; pasien rawat inap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien%20opname",
+  "related": [],
+  "detailed": false
+}

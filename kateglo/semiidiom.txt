@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semiidiom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) konstruksi yang salah satu anggotanya memiliki makna biasa, anggota yang lain memiliki makna khusus dalam konstruksi yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semiidiom",
+  "related": [],
+  "detailed": false
+}

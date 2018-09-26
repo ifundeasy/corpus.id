@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "watermark",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ing) tanda dalam kertas (misal pada manuskrip, uang kertas) yang hanya tampak samar-samar jika kena sinar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=watermark",
+  "related": [],
+  "detailed": false
+}

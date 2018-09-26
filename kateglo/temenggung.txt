@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "temenggung",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "tumenggung"
+      },
+      {
+        "type": "link",
+        "text": "ikan"
+      },
+      {
+        "type": "link",
+        "text": "semut"
+      },
+      {
+        "type": "link",
+        "text": "temenggung melata"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temenggung",
+  "related": [],
+  "detailed": false
+}

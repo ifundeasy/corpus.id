@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cencala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung yang menyerupai murai; Rhipidura javanica;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) lancang mulut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cencala",
+  "related": [],
+  "detailed": false
+}

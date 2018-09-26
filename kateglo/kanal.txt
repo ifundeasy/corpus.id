@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terusan; saluran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanal",
+  "related": [],
+  "detailed": false
+}

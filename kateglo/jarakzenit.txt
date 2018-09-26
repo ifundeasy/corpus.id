@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak zenit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut atau busur meridian langit antara benda langit dan zenit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20zenit",
+  "related": [],
+  "detailed": false
+}

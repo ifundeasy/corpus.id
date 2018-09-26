@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenaga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daya yang dapat menggerakkan sesuatu; kekuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan bekerja (berusaha dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang bekerja atau mengerjakan sesuatu; pekerja; pegawai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga",
+  "related": [],
+  "detailed": false
+}

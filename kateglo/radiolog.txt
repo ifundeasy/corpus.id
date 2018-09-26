@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radiolog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli radiologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiolog",
+  "related": [],
+  "detailed": false
+}

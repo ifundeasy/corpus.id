@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengkara",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "mustahil; tidak boleh jadi; tidak mungkin ada;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tabuh; beduk (gendang besar); nekara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkara",
+  "related": [],
+  "detailed": false
+}

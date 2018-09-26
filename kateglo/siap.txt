@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "siap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah disediakan (tinggal memakai atau menggunakan saja); sudah sedia;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah selesai (dibuat atau dikerjakan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah bersedia (untuk);"
+      },
+      {
+        "type": "desc",
+        "text": "(dalam aba-aba berarti) berdiri tegak dan mengambil sikap pada waktu berbaris;"
+      },
+      {
+        "type": "desc",
+        "text": "jaga baik-baik;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) aba-aba atau seruan kepada para pelari dsb bahwa pemberangkatan akan segera dimulai (dalam perlombaan lari atau jalan kaki);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siap",
+  "related": [],
+  "detailed": false
+}

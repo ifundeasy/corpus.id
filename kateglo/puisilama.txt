@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puisi lama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "puisi yang belum dipengaruhi oleh puisi Barat, seperti pantun, gurindam, syair, mantra, dan bidal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puisi%20lama",
+  "related": [],
+  "detailed": false
+}

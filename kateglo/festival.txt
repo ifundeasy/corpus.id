@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "festival",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari atau pekan gembira dalam rangka peringatan peristiwa penting dan bersejarah; pesta rakyat;"
+      },
+      {
+        "type": "desc",
+        "text": "perlombaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=festival",
+  "related": [],
+  "detailed": false
+}

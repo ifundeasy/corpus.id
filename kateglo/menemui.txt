@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menemui",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjumpai; bertemu dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapatkan; pergi hendak bertemu dengan; mengunjungi;"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat; mendapati;"
+      },
+      {
+        "type": "desc",
+        "text": "mengalami; menderita (kegagalan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memenuhi (panggilan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menemui",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan (hasil) kekuatan menekan;"
+      },
+      {
+        "type": "desc",
+        "text": "desakan yang kuat; paksaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) keras lembutnya pengucapan bagian ujaran; aksen;"
+      },
+      {
+        "type": "desc",
+        "text": "yang dipentingkan (sangat diutamakan); titik berat;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak menyenangkan yang umumnya merupakan beban batin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan",
+  "related": [],
+  "detailed": false
+}

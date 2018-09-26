@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verbalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelasan (pengungkapan) sesuatu dengan kata-kata;"
+      },
+      {
+        "type": "desc",
+        "text": "pengubahan kata atau frasa menjadi verba dengan derivasi yang sesuai, misal dengan menambahkan prefiks meng- dalam mengajak, mengekor, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pengungkapan dengan bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verbalisasi",
+  "related": [],
+  "detailed": false
+}

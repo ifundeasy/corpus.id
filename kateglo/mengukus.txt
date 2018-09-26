@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengukus",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasak (menanak dsb) dengan uap air yang mendidih;"
+      },
+      {
+        "type": "desc",
+        "text": "memanaskan barang cair (seperti air tapai) hingga menguap dan uapnya didinginkan sehingga menjadi cair kembali; menyuling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengukus",
+  "related": [],
+  "detailed": false
+}

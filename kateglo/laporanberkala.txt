@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "laporan berkala",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan rutin yang diberikan secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laporan%20berkala",
+  "related": [],
+  "detailed": false
+}

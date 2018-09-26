@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jerjak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kisi-kisi (terali) pada jendela dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "bilah-bilah yang dipasang tegak (pada bakul, keranjang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tiang kecil-kecil (untuk memasang dinding rumah);"
+      },
+      {
+        "type": "desc",
+        "text": "rusuk (tentang tulang);"
+      },
+      {
+        "type": "desc",
+        "text": "tiang-tiang besi dsb yang dipasang berjajar agak renggang sebagai pagar (jembatan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jerjak",
+  "related": [],
+  "detailed": false
+}

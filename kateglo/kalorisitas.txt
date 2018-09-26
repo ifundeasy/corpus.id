@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalorisitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kemampuan mengeluarkan dan menjaga kehangatan tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalorisitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atletik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang olahraga (terutama yang dilakukan di luar dan memerlukan kekuatan, ketangkasan, dan kecepatan), terdiri atas nomor-nomor lari, jalan, lompat, dan lempar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atletik",
+  "related": [],
+  "detailed": false
+}

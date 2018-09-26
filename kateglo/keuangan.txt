@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keuangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seluk-beluk uang; urusan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keuangan",
+  "related": [],
+  "detailed": false
+}

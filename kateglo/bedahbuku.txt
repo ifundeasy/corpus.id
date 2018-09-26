@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bedah buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicaraan dan diskusi mengenai isi buku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bedah%20buku",
+  "related": [],
+  "detailed": false
+}

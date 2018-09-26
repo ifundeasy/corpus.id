@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinggi mata",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Lay) ketinggian mata orang yang sedang mengamati benda, misal benda di darat atau di angkasa, biasanya untuk membaringkan atau menentukan posisi kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggi%20mata",
+  "related": [],
+  "detailed": false
+}

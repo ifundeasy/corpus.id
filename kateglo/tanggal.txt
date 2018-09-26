@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tanggal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terlepas (kelupas, lulus, lucut) lalu jatuh; luruh (tentang daun, kulit, ular, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan yang menyatakan hari yang ke berapa dalam bulan; hari bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan hari bulan; tarikh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanggal",
+  "related": [],
+  "detailed": false
+}

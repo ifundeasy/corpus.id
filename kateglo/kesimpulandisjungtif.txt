@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesimpulan disjungtif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan berdasarkan beberapa kemungkinan kebenaran pernyataan, tetapi hanya salah satu pernyataan yang benar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesimpulan%20disjungtif",
+  "related": [],
+  "detailed": false
+}

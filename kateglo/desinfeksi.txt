@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desinfeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembasmian hama penyakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desinfeksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergempa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berguncang; bergerak menggelegar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergempa",
+  "related": [],
+  "detailed": false
+}

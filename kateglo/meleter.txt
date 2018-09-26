@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meleter",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menandai dengan huruf;"
+      },
+      {
+        "type": "desc",
+        "text": "beleter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meleter",
+  "related": [],
+  "detailed": false
+}

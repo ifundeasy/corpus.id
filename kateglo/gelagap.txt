@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gelagap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan sulit bernapas; mengap-mengap;"
+      },
+      {
+        "type": "desc",
+        "text": "kebingungan (tidak tahu apa yang harus dibuat);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berkata terhenti-henti (karena gugup dsb); tergegap-gegap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelagap",
+  "related": [],
+  "detailed": false
+}

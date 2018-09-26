@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "C",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf ke-3 abjad Indonesia;"
+      },
+      {
+        "type": "desc",
+        "text": "penanda ke-3 dalam urutan (mutu, nilai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ditulis dengan huruf kapital) lambang bilangan 100 angka Romawi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ditulis dengan huruf kapital bergaris atas) lambang bilangan 100.000 angka Romawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=C",
+  "related": [],
+  "detailed": false
+}

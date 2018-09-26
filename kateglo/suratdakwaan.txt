@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat dakwaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberitahuan atau akta yang memuat rumusan tindak pidana yang didakwakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20dakwaan",
+  "related": [],
+  "detailed": false
+}

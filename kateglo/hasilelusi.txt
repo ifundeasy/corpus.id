@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil elusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) larutan yang telah melewati kolom dalam teknik kromolografi kolom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20elusi",
+  "related": [],
+  "detailed": false
+}

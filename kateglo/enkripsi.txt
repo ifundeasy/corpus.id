@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enkripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tulisan dalam kode; sandi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enkripsi",
+  "related": [],
+  "detailed": false
+}

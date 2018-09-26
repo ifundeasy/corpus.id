@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tawaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menawarkan; sesuatu yang ditawarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "harga yang diminta oleh pembeli (penyewa dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawaran",
+  "related": [],
+  "detailed": false
+}

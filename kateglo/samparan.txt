@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "samparan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak nada bilah gamelan antara sebuah nada dan nada terdekatnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=samparan",
+  "related": [],
+  "detailed": false
+}

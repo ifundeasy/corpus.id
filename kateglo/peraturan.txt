@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peraturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tataan (petunjuk, kaidah, ketentuan) yang dibuat untuk mengatur;"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan keluarga (kepada);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peraturan",
+  "related": [],
+  "detailed": false
+}

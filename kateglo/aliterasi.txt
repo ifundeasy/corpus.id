@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aliterasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "sajak awal (untuk mendapatkan efek kesedapan bunyi);"
+      },
+      {
+        "type": "desc",
+        "text": "pengulangan bunyi konsonan dari kata-kata yang berurutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliterasi",
+  "related": [],
+  "detailed": false
+}

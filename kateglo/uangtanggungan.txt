@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tanggungan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang tanda jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tanggungan",
+  "related": [],
+  "detailed": false
+}

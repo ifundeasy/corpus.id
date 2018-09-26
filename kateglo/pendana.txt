@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pendana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau badan yang menyediakan dana;"
+      },
+      {
+        "type": "desc",
+        "text": "penyumbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pendana",
+  "related": [],
+  "detailed": false
+}

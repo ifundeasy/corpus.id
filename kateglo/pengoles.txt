@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengoles",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengoles;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengoles;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengoles",
+  "related": [],
+  "detailed": false
+}

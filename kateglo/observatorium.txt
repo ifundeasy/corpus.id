@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "observatorium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung yang dilengkapi alat-alat (teleskop, teropong bintang, dsb) untuk keperluan pengamatan dan penelitian ilmiah tentang bintang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=observatorium",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sisir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk merapikan atau mengatur rambut, terbuat dari tanduk, plastik, atau logam, bergerigi tipis dan rapat;"
+      },
+      {
+        "type": "desc",
+        "text": "penggaruk tanah dsb; garu;"
+      },
+      {
+        "type": "desc",
+        "text": "gugus pisang (bagian dari tandan);"
+      },
+      {
+        "type": "desc",
+        "text": "suri pada alat tenun;"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) tempat dadung atau tros kapal lewat sewaktu ditarik atau diukur, dimaksudkan untuk mengurangi gesekan yang terjadi; gelendong pada pagar kapal, cok, rol;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyisir"
+      },
+      {
+        "type": "link",
+        "text": "kesisiran"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sisir",
+  "related": [],
+  "detailed": false
+}

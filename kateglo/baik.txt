@@ -1,0 +1,59 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "elok; patut; teratur (apik, rapi, tidak ada celanya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mujur; beruntung (tentang nasib); menguntungkan (tentang kedudukan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berguna; manjur (tentang obat dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jahat (tentang kelakuan, budi pekerti, keturunan, dsb); jujur;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "sembuh; pulih (tentang luka, barang yang rusak, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "selamat (tidak kurang suatu apa);"
+      },
+      {
+        "type": "desc",
+        "text": "selayaknya; sepatutnya;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(untuk menyatakan) entah ... entah ...;"
+      },
+      {
+        "type": "desc",
+        "text": "ya (untuk menyatakan setuju);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebaikan; kebajikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baik",
+  "related": [],
+  "detailed": false
+}

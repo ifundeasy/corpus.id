@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ejaan fonetis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ejaan yang menggambarkan tiap varian fonem atau bunyi dengan satu lambang, misal ejaan Melayu sistem Wilkinson;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ejaan%20fonetis",
+  "related": [],
+  "detailed": false
+}

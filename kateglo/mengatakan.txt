@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengatakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyebutkan; menuturkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menceritakan; memberitahukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengatakan",
+  "related": [],
+  "detailed": false
+}

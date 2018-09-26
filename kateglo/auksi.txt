@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "auksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Keu) tata cara perdagangan sekuritas atas dasar diskonto untuk menentukan harga jadi tawaran tertinggi sampai terendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=auksi",
+  "related": [],
+  "detailed": false
+}

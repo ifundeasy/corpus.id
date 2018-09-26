@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garnisun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mil)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian angkatan bersenjata yang mempunyai kedudukan atau tempat pertahanan yang tetap (dalam sebuah benteng pertahanan atau sebuah kota);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat kedudukan tentara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garnisun",
+  "related": [],
+  "detailed": false
+}

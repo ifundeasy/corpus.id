@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lereng benua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) bagian benua di bawah permukaan laut yang berbentuk lereng, mulai dari ujung landaian benua sampai dataran abisal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lereng%20benua",
+  "related": [],
+  "detailed": false
+}

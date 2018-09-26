@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "komposisi; tata letak;"
+      },
+      {
+        "type": "desc",
+        "text": "tata letak huruf yang akan dicetak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) mobil beroda tiga (seperti bemo);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "retas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah putus benang jahitannya; terbuka jahitannya (kelimnya dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) tubuh batuan beku yang menerobos dengan memotong batuan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=retas",
+  "related": [],
+  "detailed": false
+}

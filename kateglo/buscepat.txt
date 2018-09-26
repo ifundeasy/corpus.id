@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus cepat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang melayani secara cepat angkutan penumpang antara satu tempat (kota) dan tempat (kota) lain, tanpa berhenti dan tidak menaikkan penumpang di tengah jalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20cepat",
+  "related": [],
+  "detailed": false
+}

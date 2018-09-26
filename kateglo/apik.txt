@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rapi; bersih dan bagus;"
+      },
+      {
+        "type": "desc",
+        "text": "baik-baik (tentang perawatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apik",
+  "related": [],
+  "detailed": false
+}

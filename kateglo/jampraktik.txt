@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam praktik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang disediakan oleh dokter (pengacara dsb) untuk menerima tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20praktik",
+  "related": [],
+  "detailed": false
+}

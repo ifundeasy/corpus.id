@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepakat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "setuju; semufakat; sependapat;"
+      },
+      {
+        "type": "desc",
+        "text": "seia sekata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepakat",
+  "related": [],
+  "detailed": false
+}

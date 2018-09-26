@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dinas jaga meteorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dinas meteorologi yang bertugas mengamati secara terus-menerus keadaan meteorologi suatu daerah dan memberikan informasi serta peringatan meteorologi mengenai daerah itu (khusus untuk meteorologi aeronautika);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinas%20jaga%20meteorologi",
+  "related": [],
+  "detailed": false
+}

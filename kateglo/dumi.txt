@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) benda tiruan yang dipakai sebagai contoh majalah atau buku yang akan diterbitkan (sampul buku dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dumi",
+  "related": [],
+  "detailed": false
+}

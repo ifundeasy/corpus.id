@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit konsumtif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit untuk pembelian barang yang langsung memenuhi keperluan hidup kita, misal rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20konsumtif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asisten apoteker",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang ahli dalam pembuatan obat-obatan, setingkat di bawah apoteker;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asisten%20apoteker",
+  "related": [],
+  "detailed": false
+}

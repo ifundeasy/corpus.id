@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluarga yang tidak hanya terdiri atas suami, istri, dan anak, tetapi juga mencakup adik, kakak ipar, keponakan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20besar",
+  "related": [],
+  "detailed": false
+}

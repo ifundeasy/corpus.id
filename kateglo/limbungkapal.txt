@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbung kapal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "galangan kapal; dok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbung%20kapal",
+  "related": [],
+  "detailed": false
+}

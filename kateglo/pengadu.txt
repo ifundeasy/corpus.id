@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang suka mengadu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengadukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) orang yang membuat pengaduan dengan mengajukan permohonan untuk penuntutan atas diri seseorang melalui prosedur hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadu",
+  "related": [],
+  "detailed": false
+}

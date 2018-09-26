@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sendam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) →"
+      },
+      {
+        "type": "link",
+        "text": "tersendam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sendam",
+  "related": [],
+  "detailed": false
+}

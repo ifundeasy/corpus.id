@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jepret",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menjepret"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jepret",
+  "related": [],
+  "detailed": false
+}

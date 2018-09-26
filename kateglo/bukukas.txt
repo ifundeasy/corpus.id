@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku kas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisi catatan mengenai keluar masuknya uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20kas",
+  "related": [],
+  "detailed": false
+}

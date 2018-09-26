@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyuap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan dengan tangan (tidak dengan sendok dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memberi makan dengan memasukkan makanan ke dalam mulut yang disuapi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) memberi uang sogok; menyogok; menyuapi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyuap",
+  "related": [],
+  "detailed": false
+}

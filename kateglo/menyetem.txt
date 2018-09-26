@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyetem",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "menala (melaraskan musik);"
+      },
+      {
+        "type": "desc",
+        "text": "mengundi (menentukan dengan pemungutan suara);"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan suara (dalam pemilihan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyetem",
+  "related": [],
+  "detailed": false
+}

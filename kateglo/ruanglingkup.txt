@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang lingkup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "luasnya subjek yang tercakup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Keu) jumlah uang dan luasnya risiko yang akan ditanggung oleh perusahaan asuransi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20lingkup",
+  "related": [],
+  "detailed": false
+}

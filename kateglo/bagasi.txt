@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang muatan (kereta api dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gerbong kereta api tempat memuat barang;"
+      },
+      {
+        "type": "desc",
+        "text": "para-para besi tempat menaruh barang (di sepeda dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat khusus untuk barang (di mobil);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagasi",
+  "related": [],
+  "detailed": false
+}

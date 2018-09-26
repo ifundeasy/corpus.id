@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diagonal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungannya dua titik sudut yang tidak bersebelahan dalam suatu segi empat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis diagonal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diagonal",
+  "related": [],
+  "detailed": false
+}

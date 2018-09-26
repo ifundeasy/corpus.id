@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "raut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meraut"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tampang; potongan; bentuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makmur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "banyak hasil;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak penduduk dan sejahtera;"
+      },
+      {
+        "type": "desc",
+        "text": "serba kecukupan; tidak kekurangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makmur",
+  "related": [],
+  "detailed": false
+}

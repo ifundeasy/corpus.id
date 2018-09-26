@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengharapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengharapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "likuran",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "berlikur-likur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=likuran",
+  "related": [],
+  "detailed": false
+}

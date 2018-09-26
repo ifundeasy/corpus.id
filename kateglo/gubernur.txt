@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gubernur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala pemerintah tingkat provinsi; kepala pemerintahan daerah tingkat I;"
+      },
+      {
+        "type": "desc",
+        "text": "kepala bank sentral atau bank internasional dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "pemimpin lembaga pendidikan militer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gubernur",
+  "related": [],
+  "detailed": false
+}

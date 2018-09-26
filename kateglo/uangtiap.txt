@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang tiap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang kunci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20tiap",
+  "related": [],
+  "detailed": false
+}

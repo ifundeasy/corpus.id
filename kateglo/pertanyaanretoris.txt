@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanyaan retoris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pertanyaan yang tidak memerlukan jawaban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanyaan%20retoris",
+  "related": [],
+  "detailed": false
+}

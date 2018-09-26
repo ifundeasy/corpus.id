@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infertil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak (kurang) subur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infertil",
+  "related": [],
+  "detailed": false
+}

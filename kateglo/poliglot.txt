@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poliglot",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat mengetahui, menggunakan, dan menulis dalam banyak bahasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pandai dalam berbagai bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poliglot",
+  "related": [],
+  "detailed": false
+}

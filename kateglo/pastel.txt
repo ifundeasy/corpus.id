@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pastel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganan yang dibuat dari tepung terigu, bentuknya seperti kerang atau bulat panjang, di dalamnya diisi dengan daging dsb (biasanya digoreng atau dipanggang);"
+      },
+      {
+        "type": "desc",
+        "text": "kapur berwarna untuk menggambar;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar atau sketsa yang dibuat dengan kapur berwarna;"
+      },
+      {
+        "type": "desc",
+        "text": "warna lembut polos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pastel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sesak napas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit sesak napas, asthma bronchiale;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengek",
+  "related": [],
+  "detailed": false
+}

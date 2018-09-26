@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nonindustri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang bukan industri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nonindustri",
+  "related": [],
+  "detailed": false
+}

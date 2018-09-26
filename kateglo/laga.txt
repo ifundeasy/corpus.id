@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perkelahian (tentang binatang);"
+      },
+      {
+        "type": "link",
+        "text": "belaga"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laga",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perasaan sayang (cinta, suka kepada);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) beri, memberi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasih",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jidar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis (sekeliling surat atau halaman buku);"
+      },
+      {
+        "type": "desc",
+        "text": "penggaris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jidar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "folio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran kertas lebih kurang 21,5 x 32,5 cm;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran selembar plano berukuran baku yang dilipat satu kali, ditulis dengan tanda 2o;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran kertas A-4 menurut ukuran satuan sistem A;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=folio",
+  "related": [],
+  "detailed": false
+}

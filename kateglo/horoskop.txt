@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "horoskop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengamatan posisi bintang-bintang pada waktu tertentu, seperti pada hari lahir seseorang, dengan tujuan meramalkan masa depannya;"
+      },
+      {
+        "type": "desc",
+        "text": "peta bintang kelahiran seseorang, yang memperlihatkan posisi bintang-bintang tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=horoskop",
+  "related": [],
+  "detailed": false
+}

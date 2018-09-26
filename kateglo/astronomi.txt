@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "astronomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang matahari, bulan, bintang, dan planet-planet lainnya; ilmu falak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=astronomi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelajaran (agama dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penyelidikan (tentang sesuatu);"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Plectorynchus spp;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaji",
+  "related": [],
+  "detailed": false
+}

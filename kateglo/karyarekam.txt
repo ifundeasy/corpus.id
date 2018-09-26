@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "karya rekam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil pekerjaan merekam suara (misal musik), tuturan, cerita, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karya%20rekam",
+  "related": [],
+  "detailed": false
+}

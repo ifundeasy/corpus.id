@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang khusus dikenakan pada waktu tidur (piama, kimono, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20tidur",
+  "related": [],
+  "detailed": false
+}

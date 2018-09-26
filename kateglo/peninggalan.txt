@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peninggalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang ditinggalkan;"
+      },
+      {
+        "type": "desc",
+        "text": "pusaka; warisan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang sisa (bekas, reruntuhan, dsb) dari zaman dahulu (candi dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peninggalan",
+  "related": [],
+  "detailed": false
+}

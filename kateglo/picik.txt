@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "picik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak luas (tentang pandangan, pengetahuan, pikiran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "hemat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak lebar (luas); sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=picik",
+  "related": [],
+  "detailed": false
+}

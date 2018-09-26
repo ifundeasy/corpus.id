@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desiliter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi 0,1 liter (disingkat dalam);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desiliter",
+  "related": [],
+  "detailed": false
+}

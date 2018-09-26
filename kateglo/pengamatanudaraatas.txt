@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengamatan udara atas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) pengamatan meteorologi yang dilakukan di atmosfer bebas secara langsung dengan pesawat terbang roket dsb atau secara tidak langsung dengan melepaskan alat ke dalamnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengamatan%20udara%20atas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyudikan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan sudi (mau, suka, dsb); menggerakkan hati supaya sudi (mau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memancing (menarik supaya mau, berani, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meminta supaya ...; mempersilakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyudikan",
+  "related": [],
+  "detailed": false
+}

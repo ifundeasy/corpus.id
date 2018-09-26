@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuorum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah minimum anggota yang harus hadir dalam rapat, majelis, dsb (biasanya lebih dari separuh jumlah anggota) agar dapat mengesahkan suatu putusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuorum",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "overproduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penghasilan barang yang melebihi yang dibutuhkan sehingga harga pasaran menjadi rendah; produksi berlebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=overproduksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran yang menjadi skala prioritas;"
+      },
+      {
+        "type": "desc",
+        "text": "sasaran yang menjadi skala prioritas dalam suatu kegiatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20utama",
+  "related": [],
+  "detailed": false
+}

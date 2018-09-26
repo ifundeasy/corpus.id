@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tom",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "tali kekang;"
+      },
+      {
+        "type": "link",
+        "text": "tarum"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tom",
+  "related": [],
+  "detailed": false
+}

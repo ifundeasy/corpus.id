@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "navigator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (awak kapal atau awak pesawat) yang bertugas mengamati cuaca untuk mengatur haluan kapal atau arah pesawat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=navigator",
+  "related": [],
+  "detailed": false
+}

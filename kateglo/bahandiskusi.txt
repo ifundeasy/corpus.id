@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan diskusi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan pembicaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20diskusi",
+  "related": [],
+  "detailed": false
+}

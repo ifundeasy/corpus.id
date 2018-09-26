@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kondensator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengubah uap menjadi benda cair atau embun;"
+      },
+      {
+        "type": "desc",
+        "text": "peranti penghimpun tenaga listrik; kapasitor;"
+      },
+      {
+        "type": "desc",
+        "text": "lensa pada pesawat optik untuk menghimpun cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondensator",
+  "related": [],
+  "detailed": false
+}

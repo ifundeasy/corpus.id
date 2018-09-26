@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis gaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) garis dari suatu medan magnet yang setiap titiknya menunjukkan arah dan besarnya gaya magnet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20gaya",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kondisi kesehatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal kebugaran dan kebaikan keadaan badan seseorang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kondisi%20kesehatan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tenjet",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "bertenjet"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenjet",
+  "related": [],
+  "detailed": false
+}

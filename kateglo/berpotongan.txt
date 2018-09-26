@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berpotongan",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "mempunyai potongan; berbentuk; bermodel (ada bentuk atau modelnya);"
+      },
+      {
+        "type": "desc",
+        "text": "ada pengurangan (tentang harga barang);"
+      },
+      {
+        "type": "desc",
+        "text": "tampak sepotong-potong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berpotongan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antipati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "penolakan atau perasaan tidak suka yang kuat;"
+      },
+      {
+        "type": "desc",
+        "text": "perasaan menentang objek tertentu yang bersifat persona dan abstrak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antipati",
+  "related": [],
+  "detailed": false
+}

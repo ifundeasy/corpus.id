@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterampilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecakapan untuk menyelesaikan tugas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterampilan",
+  "related": [],
+  "detailed": false
+}

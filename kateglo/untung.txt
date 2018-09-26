@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "untung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu (keadaan) yang telah digariskan oleh Tuhan Yang Mahakuasa bagi perjalanan hidup seseorang; nasib;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mujur; bahagia;"
+      },
+      {
+        "type": "desc",
+        "text": "laba yang diperoleh dalam berdagang dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "guna; manfaat; faedah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=untung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlengkapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat, perkakas (barang dsb) yang ada pada suatu mesin (perusahaan, pekerjaan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat-alat yang digunakan untuk mengangkut barang-barang kepada para langganan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlengkapan",
+  "related": [],
+  "detailed": false
+}

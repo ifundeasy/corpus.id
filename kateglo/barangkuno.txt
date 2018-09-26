@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang kuno",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang berasal dari zaman purba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20kuno",
+  "related": [],
+  "detailed": false
+}

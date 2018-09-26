@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "potret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar yang dibuat dengan kamera; foto;"
+      },
+      {
+        "type": "desc",
+        "text": "gambaran, lukisan (dalam bentuk paparan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=potret",
+  "related": [],
+  "detailed": false
+}

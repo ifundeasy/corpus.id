@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "takik (pada batang pohon yang hendak ditebang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sayatan yang tidak dalam (pada ikan yang hendak digarami, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alur-alur (ringgit-ringgit) pada tanduk;"
+      },
+      {
+        "type": "desc",
+        "text": "gelang-gelang pada jalan napas, pada tubuh lipan, kumbang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gelang-gelang dari rotan dsb tempat mengikatkan tali dsb;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) selesai; siap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelar",
+  "related": [],
+  "detailed": false
+}

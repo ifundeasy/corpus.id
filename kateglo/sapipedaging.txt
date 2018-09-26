@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sapi pedaging",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sapi yang khusus dipiara untuk menghasilkan daging;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sapi%20pedaging",
+  "related": [],
+  "detailed": false
+}

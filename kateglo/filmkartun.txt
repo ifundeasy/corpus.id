@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "film kartun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film hiburan dalam bentuk gambar lucu yang mengisahkan tentang binatang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=film%20kartun",
+  "related": [],
+  "detailed": false
+}

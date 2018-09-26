@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecakapan (dalam melakukan sesuatu); kemampuan; kepandaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemahiran",
+  "related": [],
+  "detailed": false
+}

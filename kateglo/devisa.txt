@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "devisa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pembayaran luar negeri yang dapat ditukarkan dengan uang luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=devisa",
+  "related": [],
+  "detailed": false
+}

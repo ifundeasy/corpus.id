@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hafal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "telah masuk dalam ingatan (tentang pelajaran);"
+      },
+      {
+        "type": "desc",
+        "text": "dapat mengucapkan di luar kepala (tanpa melihat buku atau catatan lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hafal",
+  "related": [],
+  "detailed": false
+}

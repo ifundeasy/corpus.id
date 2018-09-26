@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isopal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis yang menghubungkan kenaikan atau penurunan air tanah yang sama dalam satu periode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isopal",
+  "related": [],
+  "detailed": false
+}

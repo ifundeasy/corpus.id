@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mabuk kepayang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mabuk karena makan buah kepayang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tergila-gila karena cinta;"
+      },
+      {
+        "type": "desc",
+        "text": "agak mabuk sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mabuk%20kepayang",
+  "related": [],
+  "detailed": false
+}

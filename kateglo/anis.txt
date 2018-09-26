@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman yang banyak tumbuh di kawasan Laut Tengah, buahnya kecil-kecil dan berbau harum, dipakai sebagai obat atau rempah-rempah;"
+      },
+      {
+        "type": "desc",
+        "text": "minuman keras dibuat dari biji anis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anis",
+  "related": [],
+  "detailed": false
+}

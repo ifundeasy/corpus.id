@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompilasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan yang tersusun secara teratur (tentang daftar informasi, karangan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompilasi",
+  "related": [],
+  "detailed": false
+}

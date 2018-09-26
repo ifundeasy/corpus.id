@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "listeria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakteri yang berpotensi mematikan yang ditemukan pada daging unggas atau bahan makanan yang berasal dari unggas, sayuran, susu yang tidak melalui pasteur, daging ternak, dan produk olahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=listeria",
+  "related": [],
+  "detailed": false
+}

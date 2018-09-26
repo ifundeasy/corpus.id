@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perwira",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota tentara yang berpangkat di atas bintara (yaitu dari letnan ke atas); opsir (dalam ketentaraan);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl) gagah; berani;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pahlawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perwira",
+  "related": [],
+  "detailed": false
+}

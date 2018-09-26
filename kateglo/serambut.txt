@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serambut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebesar rambut;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) sangat kecil seperti rambut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serambut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bangkang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "link",
+        "text": "terbangkang"
+      },
+      {
+        "type": "link",
+        "text": "membangkang"
+      },
+      {
+        "type": "desc",
+        "text": "terbuka atau berjarak lebar (tentang tanduk, sepit kala, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "gadis yang telah kehilangan keperawanannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangkang",
+  "related": [],
+  "detailed": false
+}

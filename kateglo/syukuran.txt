@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "syukuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan syukur;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengadakan selamatan untuk bersyukur kepada Tuhan (karena terhindar dari maut, sembuh dari penyakit, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syukuran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama alternatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua nama untuk takson dan tingkat yang sama diterbitkan serentak oleh pengarang nama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20alternatif",
+  "related": [],
+  "detailed": false
+}

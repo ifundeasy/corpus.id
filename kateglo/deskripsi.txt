@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deskripsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemaparan atau penggambaran dengan kata-kata secara jelas dan terperinci; uraian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deskripsi",
+  "related": [],
+  "detailed": false
+}

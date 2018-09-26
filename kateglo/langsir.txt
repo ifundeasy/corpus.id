@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langsir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melangsir"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) serdadu (pasukan) bertombak;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) kurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langsir",
+  "related": [],
+  "detailed": false
+}

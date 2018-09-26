@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "superkomputer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis komputer berukuran besar yang mempunyai kecepatan olah yang sangat tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=superkomputer",
+  "related": [],
+  "detailed": false
+}

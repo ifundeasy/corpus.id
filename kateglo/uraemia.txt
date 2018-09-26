@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uraemia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) uremia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uraemia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "honorifik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) berkenaan dengan penggunaan ungkapan penghormatan dalam bahasa untuk menyapa orang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=honorifik",
+  "related": [],
+  "detailed": false
+}

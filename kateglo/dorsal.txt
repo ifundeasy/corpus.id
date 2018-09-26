@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dorsal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan punggung; termasuk bagian dsb tentang punggung;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bunyi yang terjadi karena penyempitan punggung lidah dan langit-langit keras atau langit-langit lembut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dorsal",
+  "related": [],
+  "detailed": false
+}

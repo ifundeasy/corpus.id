@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemilihan langsung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilihan (anggota DPR) langsung oleh rakyat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemilihan%20langsung",
+  "related": [],
+  "detailed": false
+}

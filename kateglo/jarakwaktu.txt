@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lamanya waktu antara dua peristiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang diperlukan oleh tiap kendaraan atau perseorangan untuk berjalan di antara dua titik tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20waktu",
+  "related": [],
+  "detailed": false
+}

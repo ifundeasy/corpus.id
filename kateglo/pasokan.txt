@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasokan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipasokkan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pasok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasokan",
+  "related": [],
+  "detailed": false
+}

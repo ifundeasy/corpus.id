@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "silabis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan silabe;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat berdiri sendiri sebagai suku kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=silabis",
+  "related": [],
+  "detailed": false
+}

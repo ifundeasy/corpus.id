@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air gula agak kental, terkadang diberi esens dan diwarnai; setrup;"
+      },
+      {
+        "type": "desc",
+        "text": "obat berbentuk cairan berasa manis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirop",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "harkat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat (kemuliaan dsb); taraf; mutu; nilai; harga;"
+      },
+      {
+        "type": "desc",
+        "text": "tenaga; kekuatan; gerak(an);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harkat",
+  "related": [],
+  "detailed": false
+}

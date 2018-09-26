@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "penggal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "potong; kerat; tebas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari buku (kutipan cerita dsb); jilid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penggal",
+  "related": [],
+  "detailed": false
+}

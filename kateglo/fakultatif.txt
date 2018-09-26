@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fakultatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak diwajibkan (tentang pelajaran, hari libur, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat pilihan, boleh memilih salah satu bidang ilmu yang sesuai dengan bakat atau yang disukai (tentang jurusan bidang ilmu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fakultatif",
+  "related": [],
+  "detailed": false
+}

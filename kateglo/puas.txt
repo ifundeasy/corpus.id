@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa senang (lega, gembira, kenyang, dsb karena sudah terpenuhi hasrat hatinya);"
+      },
+      {
+        "type": "desc",
+        "text": "lebih dari cukup; jemu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "navigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang cara menjalankan kapal laut atau kapal terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "tindakan menempatkan haluan kapal atau arah terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "pelayaran; penerbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=navigasi",
+  "related": [],
+  "detailed": false
+}

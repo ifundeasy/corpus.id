@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat) tahun tertentu, misal 1990, yang ditetapkan sebagai wakil angka 100%, apabila tahun 1991 terjadi 10% lebih besar daripada tahun 1990, hasilnya menjadi 110%;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20dasar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "anak tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anak yang hanya satu-satunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anak%20tunggal",
+  "related": [],
+  "detailed": false
+}

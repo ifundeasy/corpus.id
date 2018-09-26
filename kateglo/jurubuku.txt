@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "juru buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemegang buku dagang (buku perusahaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juru%20buku",
+  "related": [],
+  "detailed": false
+}

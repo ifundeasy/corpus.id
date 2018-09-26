@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "air susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "air yang keluar dari susu;"
+      },
+      {
+        "type": "desc",
+        "text": "campuran susu sapi tepung (bubuk) dengan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=air%20susu",
+  "related": [],
+  "detailed": false
+}

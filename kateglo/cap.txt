@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk membuat rekaman tanda (gambar, tanda tangan) dengan menekankannya pada kertas (surat dsb); stempel; tera;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman (tanda gambar, tanda tangan yang dibuat dengan cap);"
+      },
+      {
+        "type": "desc",
+        "text": "cetak; cetakan (pada buku, kain, dsb); bukan tulisan tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "merek dagang; etiket;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda atau gambar pengenal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sifat (keadaan dsb) yang khusus; ciri;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan (karena sifat yang menjadi ciri pengenalnya);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) ukuran sebesar tangan memegang (ujung jari bertemu dengan ibu jari);"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kecap (sewaktu orang makan atau mengecap makanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cap",
+  "related": [],
+  "detailed": false
+}

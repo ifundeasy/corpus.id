@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terputuskan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dapat diputuskan;"
+      },
+      {
+        "type": "desc",
+        "text": "telah diputuskan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terputuskan",
+  "related": [],
+  "detailed": false
+}

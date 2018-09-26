@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sensur",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sensor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sensur",
+  "related": [],
+  "detailed": false
+}

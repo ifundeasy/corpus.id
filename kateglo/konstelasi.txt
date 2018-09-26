@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konstelasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan orang, sifat, atau benda yang berhubungan;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan, tatanan;"
+      },
+      {
+        "type": "desc",
+        "text": "bangun; bentuk; susunan; kaitan;"
+      },
+      {
+        "type": "desc",
+        "text": "gambaran; keadaan yang dibayangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstelasi",
+  "related": [],
+  "detailed": false
+}

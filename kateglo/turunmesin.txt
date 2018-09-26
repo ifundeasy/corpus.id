@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "turun mesin",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "memperbaiki mesin mobil (sepeda motor dsb) secara keseluruhan dengan cara melepaskan dan menurunkan mesin tersebut dari kedudukannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) melahirkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=turun%20mesin",
+  "related": [],
+  "detailed": false
+}

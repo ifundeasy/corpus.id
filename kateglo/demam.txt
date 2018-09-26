@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "demam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "panas badannya (suhu badan lebih tinggi daripada biasanya, umumnya karena sakit);"
+      },
+      {
+        "type": "desc",
+        "text": "sakit yang menyebabkan suhu badan menjadi lebih tinggi daripada biasanya;"
+      },
+      {
+        "type": "desc",
+        "text": "tergila-gila;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam",
+  "related": [],
+  "detailed": false
+}

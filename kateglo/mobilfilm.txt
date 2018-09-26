@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil film",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil yang mengangkut segala peralatan pemutaran film di luar gedung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20film",
+  "related": [],
+  "detailed": false
+}

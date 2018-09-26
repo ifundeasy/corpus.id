@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masuk kerja",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "datang atau hadir bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masuk%20kerja",
+  "related": [],
+  "detailed": false
+}

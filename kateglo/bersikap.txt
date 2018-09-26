@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersikap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berdiri tegak (bersiap);"
+      },
+      {
+        "type": "desc",
+        "text": "mengambil sikap (pendirian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersikap",
+  "related": [],
+  "detailed": false
+}

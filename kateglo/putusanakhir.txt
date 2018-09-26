@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "putusan akhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) putusan pada akhir pemeriksaan perkara dalam sidang pengadilan yang berisi pertimbangan menurut kenyataan, pertimbangan hukum, dan putusan pokok perkara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=putusan%20akhir",
+  "related": [],
+  "detailed": false
+}

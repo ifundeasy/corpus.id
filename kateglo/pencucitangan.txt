@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencuci tangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk membasuh tangan;"
+      },
+      {
+        "type": "desc",
+        "text": "obat untuk mencuci tangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencuci%20tangan",
+  "related": [],
+  "detailed": false
+}

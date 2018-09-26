@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cemplang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "kurang berasa (kurang asin, kurang sedap tentang makanan); hambar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kurang menarik; kurang dapat dinikmati karena menyimpang dari kebiasaan dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cemplang",
+  "related": [],
+  "detailed": false
+}

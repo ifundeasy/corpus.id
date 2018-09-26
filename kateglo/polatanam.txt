@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pola tanam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara, usaha, sistem menanam padi, dsb dalam satu tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pola%20tanam",
+  "related": [],
+  "detailed": false
+}

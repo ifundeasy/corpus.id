@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lembaga pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan pemerintahan dalam lingkungan eksekutif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lembaga%20pemerintah",
+  "related": [],
+  "detailed": false
+}

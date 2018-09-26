@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memadu pakaian",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyesuaikan pakaian (dengan badan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memadu%20pakaian",
+  "related": [],
+  "detailed": false
+}

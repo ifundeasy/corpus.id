@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar atau lukisan pada kertas dsb yang menunjukkan letak tanah, laut, sungai, gunung, dsb; representasi melalui gambar dari suatu daerah yang menyatakan sifat, seperti batas daerah, sifat permukaan; denah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) gerak-gerik (tangan dsb) untuk isyarat dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peta",
+  "related": [],
+  "detailed": false
+}

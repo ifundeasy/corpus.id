@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lendir luar sel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cairan lendir antarsel yang menghubungkan sel dengan sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lendir%20luar%20sel",
+  "related": [],
+  "detailed": false
+}

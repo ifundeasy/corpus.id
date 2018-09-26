@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antisiklonal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan antisiklon; mirip dengan antisiklon;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah siklon daerah yang bertekanan lebih tinggi daripada daerah sekitarnya pada ketinggian yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antisiklonal",
+  "related": [],
+  "detailed": false
+}

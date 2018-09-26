@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan nadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "denyutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20nadi",
+  "related": [],
+  "detailed": false
+}

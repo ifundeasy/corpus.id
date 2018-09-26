@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kernet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembantu sopir;"
+      },
+      {
+        "type": "desc",
+        "text": "pembantu tukang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kernet",
+  "related": [],
+  "detailed": false
+}

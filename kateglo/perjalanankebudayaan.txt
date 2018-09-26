@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjalanan kebudayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan yang diadakan dengan tujuan mempelajari atau memperdalam seni budaya;"
+      },
+      {
+        "type": "desc",
+        "text": "perjalanan yang bertujuan melihat atau menyaksikan hal-hal yang berhubungan dengan kebudayaan, misal benda kuno, peninggalan sejarah, atau perikehidupan masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjalanan%20kebudayaan",
+  "related": [],
+  "detailed": false
+}

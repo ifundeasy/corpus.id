@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran (pengiriman) suara atau bunyi melalui udara;"
+      },
+      {
+        "type": "desc",
+        "text": "pemancar radio;"
+      },
+      {
+        "type": "desc",
+        "text": "pesawat radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radio",
+  "related": [],
+  "detailed": false
+}

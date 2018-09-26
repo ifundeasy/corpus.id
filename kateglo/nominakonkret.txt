@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomina konkret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) nomina yang menunjukkan benda berwujud;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomina%20konkret",
+  "related": [],
+  "detailed": false
+}

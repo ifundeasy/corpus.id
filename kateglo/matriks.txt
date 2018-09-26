@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matriks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kerangka, bagan;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman induk (tentang piringan hitam);"
+      },
+      {
+        "type": "desc",
+        "text": "matris;"
+      },
+      {
+        "type": "desc",
+        "text": "pola acuan untuk ragam hias relief atau patung;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) tabel yang disusun dalam lajur dan jajaran sehingga butir-butir uraian yang diisikan dapat dibaca dari atas ke bawah dan dari kiri ke kanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) substansi antarselular pada suatu jaringan, seperti pada tulang atau jaringan tempat berkembangnya struktur, seperti pada rambut dan kuku;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) pita logam untuk membuat bentuk yang tepat pada restorasi gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matriks",
+  "related": [],
+  "detailed": false
+}

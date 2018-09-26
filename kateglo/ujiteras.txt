@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uji teras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengujian penyusutan wol yang dinyatakan dalam persentase susut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uji%20teras",
+  "related": [],
+  "detailed": false
+}

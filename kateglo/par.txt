@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "par",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah pukulan dan gol yang dinilai terbaik dalam permainan golf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=par",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tekanan nada",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penonjolan salah satu bagian ujaran yang timbul oleh perbedaan nada dari sekelilingnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tekanan%20nada",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keaktifan; kegiatan;"
+      },
+      {
+        "type": "desc",
+        "text": "kerja atau salah satu kegiatan kerja yang dilaksanakan dalam tiap bagian di dalam perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktivitas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regulator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat pengatur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat dalam jam yang mengatur kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regulator",
+  "related": [],
+  "detailed": false
+}

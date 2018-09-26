@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun cuaca laut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun cuaca di kapal laut yang tetap di suatu tempat di laut dan melakukan pengamatan serta tukar-menukar data pengamatan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20cuaca%20laut",
+  "related": [],
+  "detailed": false
+}

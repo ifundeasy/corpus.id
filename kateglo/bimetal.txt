@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bimetal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) lapisan dua metal tidak sejenis yang mempunyai koefisien muai termalnya berbeda, dan kedua lapisan ini direkatkan menjadi satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bimetal",
+  "related": [],
+  "detailed": false
+}

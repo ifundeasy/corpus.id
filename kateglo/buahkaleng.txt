@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah kaleng",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah yang diawetkan dalam kaleng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20kaleng",
+  "related": [],
+  "detailed": false
+}

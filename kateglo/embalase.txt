@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "embalase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengemasan atau pengepakan barang (untuk dikirim);"
+      },
+      {
+        "type": "desc",
+        "text": "bahan dsb yang digunakan untuk pengemasan atau pengepakan barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embalase",
+  "related": [],
+  "detailed": false
+}

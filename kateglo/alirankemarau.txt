@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "aliran kemarau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) aliran air sebuah sungai pada musim kemarau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aliran%20kemarau",
+  "related": [],
+  "detailed": false
+}

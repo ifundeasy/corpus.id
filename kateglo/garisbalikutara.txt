@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis balik utara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "garis 23,5o lintang utara yang merupakan batas paling utara lintasan semu matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20balik%20utara",
+  "related": [],
+  "detailed": false
+}

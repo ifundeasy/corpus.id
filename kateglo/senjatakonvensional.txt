@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "senjata konvensional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senjata yang lazim (umum, biasa) digunakan (tidak termasuk senjata atom, nuklir, kuman, dan senjata-senjata inkonvensional lainnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senjata%20konvensional",
+  "related": [],
+  "detailed": false
+}

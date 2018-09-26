@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "proposisi eksklusif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proposisi yang di dalamnya terdapat kata-kata hanya, sendiri, tak lain, tak satu pun, kecuali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proposisi%20eksklusif",
+  "related": [],
+  "detailed": false
+}

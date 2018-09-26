@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filibuster",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol)"
+      },
+      {
+        "type": "desc",
+        "text": "taktik menguasai sidang melalui pidato-pidato yang berkepanjangan dan tidak habis-habisnya dengan tujuan menggagalkan penetapan suatu undang-undang oleh lembaga legislatif atau juga untuk memaksa diterimanya suatu pandangan tertentu dari si pembicara;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan serangan atau pemberontakan di luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filibuster",
+  "related": [],
+  "detailed": false
+}

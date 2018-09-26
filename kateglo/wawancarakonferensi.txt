@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wawancara konferensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara antara seorang pewawancara dan sejumlah responden atau wawancara antara sejumlah pewawancara dan seorang responden;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara%20konferensi",
+  "related": [],
+  "detailed": false
+}

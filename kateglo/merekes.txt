@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "merekes",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memasukkan surat permohonan, melamar pekerjaan, membuat surat permohonan (lamaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=merekes",
+  "related": [],
+  "detailed": false
+}

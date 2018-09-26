@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makna pusat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) makna kata yang umumnya dapat dimengerti walaupun kata itu diberikan tanpa konteks;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna%20pusat",
+  "related": [],
+  "detailed": false
+}

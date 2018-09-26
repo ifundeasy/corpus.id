@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "casciscus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "banyak cakap (omong);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak mempergunakan kata asing dalam percakapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=casciscus",
+  "related": [],
+  "detailed": false
+}

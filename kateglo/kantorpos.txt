@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor pos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor yang mengurus pengiriman surat, paket, dsb dengan pos;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20pos",
+  "related": [],
+  "detailed": false
+}

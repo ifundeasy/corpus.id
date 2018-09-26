@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "maulid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari lahir (terutama hari lahir Nabi Muhammad saw.);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat lahir;"
+      },
+      {
+        "type": "desc",
+        "text": "(peringatan) hari lahir Nabi Muhammad saw.;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maulid",
+  "related": [],
+  "detailed": false
+}

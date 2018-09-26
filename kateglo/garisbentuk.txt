@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis bentuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "garis tipis yang terbentuk pada sistem cetak langsung karena tekanan berat dan tinta encer (pada cetak tinggi) yang mengikuti gambar huruf;"
+      },
+      {
+        "type": "desc",
+        "text": "garis yang menentukan batas atau membatasi bentuk gambar; kontur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20bentuk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "larau",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melarau"
+      },
+      {
+        "type": "desc",
+        "text": "menangis keras-keras dengan suara serak;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus) tanda tempo lebih lambat dari largo ketika sebuah lagu akan dinyanyikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larau",
+  "related": [],
+  "detailed": false
+}

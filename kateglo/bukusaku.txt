@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku saku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku berukuran kecil yang dapat dimasukkan ke dalam saku dan mudah dibawa ke mana-mana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20saku",
+  "related": [],
+  "detailed": false
+}

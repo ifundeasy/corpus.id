@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "viola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biola besar;"
+      },
+      {
+        "type": "desc",
+        "text": "tanaman perdu berbunga ungu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=viola",
+  "related": [],
+  "detailed": false
+}

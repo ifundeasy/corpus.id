@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaya bahasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pemanfaatan atas kekayaan bahasa oleh seseorang dalam bertutur atau menulis;"
+      },
+      {
+        "type": "desc",
+        "text": "pemakaian ragam tertentu untuk memperoleh efek-efek tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "keseluruhan ciri-ciri bahasa sekelompok penulis sastra;"
+      },
+      {
+        "type": "desc",
+        "text": "cara khas dalam menyatakan pikiran dan perasaan dalam bentuk tulis atau lisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaya%20bahasa",
+  "related": [],
+  "detailed": false
+}

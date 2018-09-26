@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ribu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan bilangan kelipatan seribu yang dilambangkan dengan tiga nol (000) di belakang angka 1—999;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ribu",
+  "related": [],
+  "detailed": false
+}

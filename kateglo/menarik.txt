@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghela (supaya dekat, maju, ke atas, ke luar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membawa (mengambil dsb) ke luar; mengeluarkan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "menyenangkan (menggirangkan, menyukakan hati karena indahnya, cantiknya, bagusnya dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membangkitkan rasa kasih (sayang, suka, ingin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mempengaruhi atau membangkitkan hasrat untuk memperhatikan (mengindahkan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik",
+  "related": [],
+  "detailed": false
+}

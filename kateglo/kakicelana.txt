@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kaki celana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian celana (panjang) yang menutupi kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaki%20celana",
+  "related": [],
+  "detailed": false
+}

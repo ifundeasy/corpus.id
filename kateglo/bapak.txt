@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bapak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang tua laki-laki; ayah;"
+      },
+      {
+        "type": "desc",
+        "text": "orang laki-laki yang dalam pertalian kekeluargaan boleh dianggap sama dengan ayah (seperti saudara laki-laki ibu atau saudara laki-laki bapak);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dipandang sebagai orang tua atau orang yang dihormati (seperti guru, kepala kampung);"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan kepada orang laki-laki yang lebih tua dari yang memanggil;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi pelindung (pemimpin, perintis jalan, dsb yang banyak penganutnya);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pejabat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bapak",
+  "related": [],
+  "detailed": false
+}

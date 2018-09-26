@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengolah data",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengolah data;"
+      },
+      {
+        "type": "desc",
+        "text": "alat (mesin, komputer) yang mengolah data;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengolah%20data",
+  "related": [],
+  "detailed": false
+}

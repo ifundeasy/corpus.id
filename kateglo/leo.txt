@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Leo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "singa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astron) nama bintang di belahan langit sebelah utara khatulistiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astrol) lambang ke-5 zodiak yang digambarkan dengan singa sebagai lambang bagi orang yang dilahirkan antara tanggal 23 Juli—22 Agustus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Leo",
+  "related": [],
+  "detailed": false
+}

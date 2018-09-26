@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sirene tanda bahaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sirene yang dibunyikan untuk memperingatkan penduduk supaya siap siaga menghadapi bahaya yang mengancam (serangan udara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirene%20tanda%20bahaya",
+  "related": [],
+  "detailed": false
+}

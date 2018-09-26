@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang tua perempuan; ibu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) kelenjar susu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mama",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puasa sunah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "puasa yang tidak diwajibkan, tetapi dianjurkan (misal puasa Syawal, yaitu puasa enam hari dalam bulan Syawal puasa pada hari Senin dan Kamis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puasa%20sunah",
+  "related": [],
+  "detailed": false
+}

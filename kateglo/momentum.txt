@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "momentum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saat yang tepat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) besaran yang berkaitan dengan benda yang besarnya sama dengan hasil kali (darab) massa benda yang bergerak itu dan kecepatan geraknya; kuan-titas gerak;"
+      },
+      {
+        "type": "desc",
+        "text": "kesempatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=momentum",
+  "related": [],
+  "detailed": false
+}

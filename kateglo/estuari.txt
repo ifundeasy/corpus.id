@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "estuari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "perairan pantai setengah tertutup tempat air laut bertemu dengan air tawar;"
+      },
+      {
+        "type": "desc",
+        "text": "muara sungai berbentuk corong yang melebar ke arah laut karena pengaruh pasang;"
+      },
+      {
+        "type": "desc",
+        "text": "perairan terlindung yang kemasinannya berbeda dengan jelas apabila dibandingkan dengan kemasinan air laut, beberapa di antaranya mempunyai kemasinan tinggi (estuari negatif), yang ditandai dengan fluktuasi kemasinan dibandingkan dengan air payau atau danau asin yang mempunyai kadar garam tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=estuari",
+  "related": [],
+  "detailed": false
+}

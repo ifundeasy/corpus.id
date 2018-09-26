@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kalorimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang digunakan untuk mengukur jumlah kalor yang dibutuhkan atau dikeluarkan dalam suatu proses atau benda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalorimeter",
+  "related": [],
+  "detailed": false
+}

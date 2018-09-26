@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "homo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keluarga manusia, termasuk famili Hominidae, selain meliputi makhluk manusia yang ada sekarang, juga meliputi makhluk manusia purba, seperti manusia Neanderthal dan Pithecantropus;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) homoseksual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=homo",
+  "related": [],
+  "detailed": false
+}

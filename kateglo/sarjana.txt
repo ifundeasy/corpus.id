@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sarjana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang pandai (ahli ilmu pengetahuan);"
+      },
+      {
+        "type": "desc",
+        "text": "gelar strata satu yang dicapai oleh seseorang yang telah menamatkan pendidikan tingkat terakhir di perguruan tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarjana",
+  "related": [],
+  "detailed": false
+}

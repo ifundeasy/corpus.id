@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "burung cabai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung kecil yang kepalanya merah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=burung%20cabai",
+  "related": [],
+  "detailed": false
+}

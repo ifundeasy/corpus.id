@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang ukurannya lebih kecil daripada buku tulis, untuk mencatat hal yang dianggap penting (biasanya lembarannya dapat atau mudah dilepaskan); buku catatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notes",
+  "related": [],
+  "detailed": false
+}

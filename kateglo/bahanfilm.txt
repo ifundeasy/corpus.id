@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan film",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan dari plastik atau bahan sejenis yang dilapisi dengan emulsi fotografi dan dapat digunakan untuk proses pemotretan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20film",
+  "related": [],
+  "detailed": false
+}

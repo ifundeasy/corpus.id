@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) desakan atau aliran darah dalam (tubuh); tekanan darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tensi",
+  "related": [],
+  "detailed": false
+}

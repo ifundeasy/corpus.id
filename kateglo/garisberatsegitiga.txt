@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garis berat segitiga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) garis yang menghubungkan sebuah titik sudut segitiga dengan titik tengah sisi di depannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garis%20berat%20segitiga",
+  "related": [],
+  "detailed": false
+}

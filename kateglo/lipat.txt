@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lipat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "patah dua sehingga bidangnya menjadi seperdua (tentang kertas, kain, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rangkap;"
+      },
+      {
+        "type": "desc",
+        "text": "ganda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lipat",
+  "related": [],
+  "detailed": false
+}

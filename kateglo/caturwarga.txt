@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "caturwarga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "empat warga;"
+      },
+      {
+        "type": "desc",
+        "text": "keluarga yang terdiri atas empat anggota keluarga, yaitu ayah, ibu, dan dua anak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=caturwarga",
+  "related": [],
+  "detailed": false
+}

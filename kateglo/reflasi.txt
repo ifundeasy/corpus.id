@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reflasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Keu) usaha untuk mengembalikan nilai uang kepada nilai sebelum inflasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reflasi",
+  "related": [],
+  "detailed": false
+}

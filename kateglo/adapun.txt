@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adapun",
+  "tags": {
+    "pre": [
+      {
+        "type": "desc",
+        "text": "tentang hal; mengenai;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "walaupun ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adapun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "produktivitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan untuk menghasilkan sesuatu; daya produksi; keproduktifan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produktivitas",
+  "related": [],
+  "detailed": false
+}

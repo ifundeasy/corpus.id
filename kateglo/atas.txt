@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian (tempat) yang lebih tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "sehubungan dengan; akan;"
+      },
+      {
+        "type": "desc",
+        "text": "berdasarkan; menurut; sesuai dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "dari;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan;"
+      },
+      {
+        "type": "desc",
+        "text": "karena; disebabkan oleh;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "tentang; terhadap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atas",
+  "related": [],
+  "detailed": false
+}

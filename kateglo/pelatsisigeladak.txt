@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelat sisi geladak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap)"
+      },
+      {
+        "type": "desc",
+        "text": "jalur pelat geladak yang terletak di sepanjang tepi luar geladak;"
+      },
+      {
+        "type": "desc",
+        "text": "jalur pelat geladak yang terletak di sepanjang tepi luar geladak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelat%20sisi%20geladak",
+  "related": [],
+  "detailed": false
+}

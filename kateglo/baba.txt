@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sapaan untuk orang Cina (laki-laki);"
+      },
+      {
+        "type": "desc",
+        "text": "(Lay) tikus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baba",
+  "related": [],
+  "detailed": false
+}

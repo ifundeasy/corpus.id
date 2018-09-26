@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengurup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "menukar uang dengan uang (misal uang besar dengan uang kecil);"
+      },
+      {
+        "type": "desc",
+        "text": "menukar barang dengan barang; barter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengurup",
+  "related": [],
+  "detailed": false
+}

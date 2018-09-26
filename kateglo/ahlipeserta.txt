@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli peserta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemegang saham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20peserta",
+  "related": [],
+  "detailed": false
+}

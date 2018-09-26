@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu nyata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu sebenarnya pada saat sesuatu terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20nyata",
+  "related": [],
+  "detailed": false
+}

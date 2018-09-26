@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hulu hilir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hulu dan hilir;"
+      },
+      {
+        "type": "desc",
+        "text": "ujung pangkal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hulu%20hilir",
+  "related": [],
+  "detailed": false
+}

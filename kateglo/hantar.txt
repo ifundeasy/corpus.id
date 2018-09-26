@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hantar",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berhantaran"
+      },
+      {
+        "type": "link",
+        "text": "berhantar"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hantar",
+  "related": [],
+  "detailed": false
+}

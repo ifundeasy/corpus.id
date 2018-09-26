@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah pikiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20pikiran",
+  "related": [],
+  "detailed": false
+}

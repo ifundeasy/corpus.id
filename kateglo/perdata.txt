@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perdata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "sipil (sebagai) lawan kriminal atau pidana;"
+      },
+      {
+        "type": "desc",
+        "text": "hati-hati; ingat-ingat; teliti;"
+      },
+      {
+        "type": "desc",
+        "text": "memperhatikan; memedulikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perdata",
+  "related": [],
+  "detailed": false
+}

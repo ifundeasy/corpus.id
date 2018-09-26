@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relai",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merelai"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "siput mutiara;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rusak berpisah-pisah (tentang kayu) karena lapuk dan busuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pankreas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kelenjar ludah perut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pankreas",
+  "related": [],
+  "detailed": false
+}

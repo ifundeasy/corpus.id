@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pantun berkait",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian pantun yang sambung-menyambung, misal larik kedua dan keempat bait pertama muncul lagi sebagai larik pertama dan ketiga bait berikutnya; pantun rantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pantun%20berkait",
+  "related": [],
+  "detailed": false
+}

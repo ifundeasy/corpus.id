@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pintu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat untuk masuk dan keluar;"
+      },
+      {
+        "type": "desc",
+        "text": "(papan dsb) penutup (pintu);"
+      },
+      {
+        "type": "desc",
+        "text": "penggolong benda bagi rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "palang (pada) jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) jalan (ke ...); yang menjadi lantaran (untuk mendapat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintu",
+  "related": [],
+  "detailed": false
+}

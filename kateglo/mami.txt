@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan untuk ibu;"
+      },
+      {
+        "type": "desc",
+        "text": "muncikari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mami",
+  "related": [],
+  "detailed": false
+}

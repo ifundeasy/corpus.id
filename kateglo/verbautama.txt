@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "verba utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk verba yang mengungkapkan makna 'perbuatan' (dipertentangkan dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verba%20utama",
+  "related": [],
+  "detailed": false
+}

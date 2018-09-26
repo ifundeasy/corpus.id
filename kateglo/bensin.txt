@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bensin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minyak bumi yang mudah menguap dan mudah terbakar (dipakai sebagai bahan bakar mobil dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bensin",
+  "related": [],
+  "detailed": false
+}

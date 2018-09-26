@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mahkamah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan tempat memutuskan hukum atas suatu perkara atau pelanggaran; pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahkamah",
+  "related": [],
+  "detailed": false
+}

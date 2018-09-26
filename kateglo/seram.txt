@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berdiri bulu roma (karena ketakutan dsb); meremang;"
+      },
+      {
+        "type": "desc",
+        "text": "berasa berkerut dan senyar (tentang kulit tubuh karena ketakutan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyebabkan ngeri (takut dsb); dahsyat; menakutkan;"
+      },
+      {
+        "type": "desc",
+        "text": "kelihatan bengis (kejam, membahayakan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seram",
+  "related": [],
+  "detailed": false
+}

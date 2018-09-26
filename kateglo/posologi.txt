@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "posologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kajian tentang dosis obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posologi",
+  "related": [],
+  "detailed": false
+}

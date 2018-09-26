@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghitungi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung berkali-kali;"
+      },
+      {
+        "type": "desc",
+        "text": "menghitung sesuatu yang besar jumlahnya (dan dalam waktu yang lama);"
+      },
+      {
+        "type": "desc",
+        "text": "menghitung sesuatu yang dilakukan bersama oleh beberapa orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghitungi",
+  "related": [],
+  "detailed": false
+}

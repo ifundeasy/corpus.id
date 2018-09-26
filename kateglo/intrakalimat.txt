@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intrakalimat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "di dalam kalimat (tentang kata atau ungkapan peng-hubung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intrakalimat",
+  "related": [],
+  "detailed": false
+}

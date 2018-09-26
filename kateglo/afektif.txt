@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "afektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan perasaan (seperti takut, cinta);"
+      },
+      {
+        "type": "desc",
+        "text": "mempengaruhi keadaan perasaan dan emosi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) mempunyai gaya atau makna yang menunjukkan perasaan (tentang gaya bahasa atau makna);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=afektif",
+  "related": [],
+  "detailed": false
+}

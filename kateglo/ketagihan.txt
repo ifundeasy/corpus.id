@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketagihan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terus-menerus meminta (ingin);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa sangat ingin akan sesuatu (merokok, minum kopi, dsb) karena sudah menjadi kebiasaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketagihan",
+  "related": [],
+  "detailed": false
+}

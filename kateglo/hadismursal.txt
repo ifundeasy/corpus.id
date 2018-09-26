@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hadis mursal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hadis yang diriwayatkan oleh tabiin dari Nabi Muhammad saw.;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadis%20mursal",
+  "related": [],
+  "detailed": false
+}

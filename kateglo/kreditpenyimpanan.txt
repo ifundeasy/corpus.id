@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit penyimpanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit yang digunakan untuk keperluan penyimpanan hasil pertanian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20penyimpanan",
+  "related": [],
+  "detailed": false
+}

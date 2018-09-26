@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolegial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat seperti teman sejawat (sepekerjaan) atau akrab seperti teman sejawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolegial",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adopsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengangkatan anak orang lain sebagai anak sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) penerimaan suatu usul atau laporan (misal dalam proses legislatif);"
+      },
+      {
+        "type": "desc",
+        "text": "pemungutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adopsi",
+  "related": [],
+  "detailed": false
+}

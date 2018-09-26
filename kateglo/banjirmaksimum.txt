@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "banjir maksimum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "banjir tertinggi di antara banjir yang dicatat pada bagian sungai selama periode tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=banjir%20maksimum",
+  "related": [],
+  "detailed": false
+}

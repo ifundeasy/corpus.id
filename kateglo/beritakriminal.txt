@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita kriminal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita atau laporan tentang kejahatan yang diperoleh dari polisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20kriminal",
+  "related": [],
+  "detailed": false
+}

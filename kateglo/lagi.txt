@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lagi",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sedang (dalam keadaan melakukan dsb); masih;"
+      },
+      {
+        "type": "desc",
+        "text": "tambah sekian (atau sedemikian) pula;"
+      },
+      {
+        "type": "desc",
+        "text": "kembali (berbuat dsb) seperti semula; berulang seperti semula; pula;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "dan; serta; juga;"
+      },
+      {
+        "type": "desc",
+        "text": "partikel yang dipakai untuk menekankan kata atau kalimat yang mendahuluinya (mengandung makna; sama sekali, betul-betul, amat sangat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagi",
+  "related": [],
+  "detailed": false
+}

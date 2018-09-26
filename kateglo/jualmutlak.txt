@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jual mutlak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual sesuatu dengan tidak ada janji apa pun (tidak boleh ditebus lagi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20mutlak",
+  "related": [],
+  "detailed": false
+}

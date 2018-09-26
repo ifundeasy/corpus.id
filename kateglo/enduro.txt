@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enduro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan jarak jauh (misal mobil atau motor) yang lebih mengutamakan ketahanan daripada kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enduro",
+  "related": [],
+  "detailed": false
+}

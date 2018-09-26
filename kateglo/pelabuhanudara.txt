@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelabuhan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat di daratan yang dipersiapkan untuk penempatan, pendaratan, dan pemberangkatan pesawat terbang beserta penumpangnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelabuhan%20udara",
+  "related": [],
+  "detailed": false
+}

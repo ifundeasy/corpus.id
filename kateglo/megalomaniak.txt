@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "megalomaniak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "cenderung mempunyai keinginan menjadi (orang) besar;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai kecenderungan untuk melebih-lebihkan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penderita megalomania;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=megalomaniak",
+  "related": [],
+  "detailed": false
+}

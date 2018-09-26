@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "resistansi biologis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) daya tahan alami tubuh terhadap pengaruh buruk, seperti racun dan kuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resistansi%20biologis",
+  "related": [],
+  "detailed": false
+}

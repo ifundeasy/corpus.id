@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "berandang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tampak dengan jelas; mudah terlihat (karena tidak ada yang menutupi atau melindungi);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "lumbung padi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berandang",
+  "related": [],
+  "detailed": false
+}

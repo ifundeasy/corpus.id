@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "platform",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rencana kerja; program;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan sekelompok orang atau partai tentang prinsip atau kebijakan;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang tinggi; panggung; pentas; mimbar;"
+      },
+      {
+        "type": "desc",
+        "text": "beranda stasiun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=platform",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga gerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) energi kinetik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20gerak",
+  "related": [],
+  "detailed": false
+}

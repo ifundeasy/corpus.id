@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "purnajual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pelayanan penjualan lebih lanjut setelah transaksi, termasuk pemberian garansi; pascajual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=purnajual",
+  "related": [],
+  "detailed": false
+}

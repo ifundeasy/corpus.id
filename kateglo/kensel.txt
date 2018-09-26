@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kensel",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) →"
+      },
+      {
+        "type": "link",
+        "text": "mengensel"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kensel",
+  "related": [],
+  "detailed": false
+}

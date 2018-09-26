@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "instrumen navigasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) instrumen yang digunakan untuk menentukan posisi kapal di laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=instrumen%20navigasi",
+  "related": [],
+  "detailed": false
+}

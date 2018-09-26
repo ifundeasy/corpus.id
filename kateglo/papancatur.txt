@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan catur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan untuk bermain catur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20catur",
+  "related": [],
+  "detailed": false
+}

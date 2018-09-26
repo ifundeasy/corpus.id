@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "termasuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah masuk;"
+      },
+      {
+        "type": "desc",
+        "text": "terhitung; tergolong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termasuk",
+  "related": [],
+  "detailed": false
+}

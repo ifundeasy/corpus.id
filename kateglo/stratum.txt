@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stratum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan batuan atau tanah yang setiap lapisannya dapat dibedakan satu dari yang lain karena proses pembentukannya, umurnya, susunannya;"
+      },
+      {
+        "type": "desc",
+        "text": "lapisan batuan sedimen yang dapat dibedakan dengan jelas dari lapisan di atas dan di bawahnya melalui ciri-cirinya yang khas (komposisi, fosil) dalam keadaan aslinya, dan yang selalu bersifat horizontal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stratum",
+  "related": [],
+  "detailed": false
+}

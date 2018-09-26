@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "papan iklan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "papan yang berukuran besar yang ditempatkan di luar ruang (ruang terbuka) dan berfungsi untuk menempatkan iklan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=papan%20iklan",
+  "related": [],
+  "detailed": false
+}

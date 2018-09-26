@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "catur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "permainan oleh dua orang, dilengkapi dengan buah catur sebanyak 16 buah berwarna hitam dan 16 buah lagi berwarna putih, masing-masing terdiri atas 8 bidak (pion), 2 benteng, 2 gajah (menteri), 2 kuda, 1 permaisuri atau wazir, dan 1 raja;"
+      },
+      {
+        "type": "desc",
+        "text": "sekak dan papan catur yang berpetak-petak (64 petak) hitam putih atau kuning putih;"
+      },
+      {
+        "type": "link",
+        "text": "percaturan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catur",
+  "related": [],
+  "detailed": false
+}

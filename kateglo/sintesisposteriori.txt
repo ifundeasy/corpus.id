@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sintesis posteriori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sintesis yang pernyataannya bergantung pada suatu pengalaman tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sintesis%20posteriori",
+  "related": [],
+  "detailed": false
+}

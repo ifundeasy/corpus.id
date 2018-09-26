@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pinjaman angsuran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinjaman yang dilunasi secara diangsur dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pinjaman%20angsuran",
+  "related": [],
+  "detailed": false
+}

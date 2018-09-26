@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "longmars",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerak jalan jarak jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=longmars",
+  "related": [],
+  "detailed": false
+}

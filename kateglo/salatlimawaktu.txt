@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "salat lima waktu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "salat wajib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salat%20lima%20waktu",
+  "related": [],
+  "detailed": false
+}

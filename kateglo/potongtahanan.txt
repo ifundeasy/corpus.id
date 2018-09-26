@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "potong tahanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mendapat pengurangan waktu hukuman penjara bagi tersangka yang menjalani masa penahanan selama proses pengadilan berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=potong%20tahanan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertaruh",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(bermain dsb) dengan taruhan; memasang taruh (seperti dalam perjudian);"
+      },
+      {
+        "type": "desc",
+        "text": "mengatakan sesuatu dengan memberi taruh (bahwa yang dikatakan itu benar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertaruh",
+  "related": [],
+  "detailed": false
+}

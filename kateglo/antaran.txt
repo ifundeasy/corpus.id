@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "antaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang diantarkan (dikirimkan);"
+      },
+      {
+        "type": "desc",
+        "text": "uang dsb pemberian dari pihak laki-laki kepada calon mertua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antaran",
+  "related": [],
+  "detailed": false
+}

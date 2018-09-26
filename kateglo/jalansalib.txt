@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan salib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rangkaian lukisan (masing- masing disertai salib) berjumlah 14, yang diatur secara berurutan di dinding gereja untuk memperingati 14 tahap perjalanan Jesus ke tiang penyaliban;"
+      },
+      {
+        "type": "desc",
+        "text": "kebaktian yang terdiri atas 14 doa yang berhubungan dengan setiap tahap perjalanan Jesus ke tiang penyaliban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20salib",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "polusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengotoran (tentang air, udara, dsb); pencemaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=polusi",
+  "related": [],
+  "detailed": false
+}

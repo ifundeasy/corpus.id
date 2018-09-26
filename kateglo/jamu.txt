@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jamu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang dibuat dari akar-akaran, daun-daunan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang datang berkunjung (bertandang, melawat, dsb); (te)tamu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jamu",
+  "related": [],
+  "detailed": false
+}

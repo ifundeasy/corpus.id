@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ambulans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan (mobil dsb) yang dilengkapi peralatan medis untuk mengangkut orang sakit atau korban kecelakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ambulans",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mutakalim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "pembicara;"
+      },
+      {
+        "type": "desc",
+        "text": "ahli ilmu kalam (teologi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mutakalim",
+  "related": [],
+  "detailed": false
+}

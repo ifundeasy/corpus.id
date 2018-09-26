@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perakunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyusunan laporan semua transaksi menurut pedoman tertentu, termasuk penciptaan, penggunaan, dan pengujian suatu sistem untuk mencatat semua transaksi dan menerangkan akibatnya;"
+      },
+      {
+        "type": "desc",
+        "text": "laporan resmi dari penanggung jawab mengenai harta atau hasil transaksi perusahaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perakunan",
+  "related": [],
+  "detailed": false
+}

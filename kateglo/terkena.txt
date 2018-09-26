@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkena",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dikenakan (dipasang, dilekatkan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah kena sesuatu (dalam berbagai arti seperti tertipu, teperdaya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkena",
+  "related": [],
+  "detailed": false
+}

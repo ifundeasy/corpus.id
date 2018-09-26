@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persahabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal bersahabat; perhubungan selaku sahabat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persahabatan",
+  "related": [],
+  "detailed": false
+}

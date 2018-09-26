@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelapor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melapor(kan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelapor",
+  "related": [],
+  "detailed": false
+}

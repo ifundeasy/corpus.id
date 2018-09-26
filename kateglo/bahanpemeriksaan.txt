@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan pemeriksaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bahan yang dapat dipakai untuk membantu dalam melakukan pemeriksaan (seperti barang-barang bukti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20pemeriksaan",
+  "related": [],
+  "detailed": false
+}

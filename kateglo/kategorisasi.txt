@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kategorisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyusunan berdasarkan kategori; penggolongan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses dan hasil pengelompokan unsur bahasa dan bagian pengalaman manusia yang digambarkan ke dalam kategori;"
+      },
+      {
+        "type": "desc",
+        "text": "cara untuk mengungkapkan makna dengan pelbagai potensi yang ada dalam bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kategorisasi",
+  "related": [],
+  "detailed": false
+}

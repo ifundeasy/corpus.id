@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tawanan jaminan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sandera (tawanan yang diperlakukan sebagai barang jaminan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tawanan%20jaminan",
+  "related": [],
+  "detailed": false
+}

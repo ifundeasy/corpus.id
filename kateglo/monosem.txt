@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monosem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata atau frasa yang hanya mempunyai satu makna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monosem",
+  "related": [],
+  "detailed": false
+}

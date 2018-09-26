@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rangkaian berita",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kumpulan aneka berita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rangkaian%20berita",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "elipsis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) tanda berupa tiga titik yang diapit spasi (...), menggambarkan kalimat yang terputus-putus atau menunjukkan bahwa dalam suatu petikan ada bagian yang dihilangkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=elipsis",
+  "related": [],
+  "detailed": false
+}

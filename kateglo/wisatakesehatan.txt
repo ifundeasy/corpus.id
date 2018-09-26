@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata kesehatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "gerak atau kegiatan wisata yang dirangsang oleh adanya objek atau fasilitas yang diperlukan untuk mengembalikan kesehatan di daerah tujuan wisata, misal tempat sejuk yang lengkap dengan tempat peristirahatan dan terdapat sumber air panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20kesehatan",
+  "related": [],
+  "detailed": false
+}

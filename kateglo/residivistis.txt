@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "residivistis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat mengulangi lagi tindak kejahatan yang serupa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) bersifat kambuh lagi dari sakit setelah dinyatakan sembuh atau tampak sembuh untuk jangka tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=residivistis",
+  "related": [],
+  "detailed": false
+}

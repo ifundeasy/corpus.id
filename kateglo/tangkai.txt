@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tangkai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gagang pada buah (daun, bunga);"
+      },
+      {
+        "type": "desc",
+        "text": "batang tumbuhan yang kecil-kecil (seperti kecambah, padi);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong untuk bunga;"
+      },
+      {
+        "type": "desc",
+        "text": "gagang atau pegangan suatu alat; batang (tombak, dayung, dsb); hulu (pisau dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyimpan padi; rengkang; lumbung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tangkai",
+  "related": [],
+  "detailed": false
+}

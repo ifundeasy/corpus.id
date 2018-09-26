@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lupa-lupaan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pura-pura lupa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sering lupa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lupa-lupaan",
+  "related": [],
+  "detailed": false
+}

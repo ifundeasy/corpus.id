@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "linguistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang bahasa;"
+      },
+      {
+        "type": "desc",
+        "text": "telaah bahasa secara ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=linguistik",
+  "related": [],
+  "detailed": false
+}

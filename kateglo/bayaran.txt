@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang dibayarkan; biaya; ongkos;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dibayar;"
+      },
+      {
+        "type": "desc",
+        "text": "upah; gaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bayaran",
+  "related": [],
+  "detailed": false
+}

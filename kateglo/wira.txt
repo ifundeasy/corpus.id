@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wira",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pahlawan; laki-laki;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat jantan (berani); perwira;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wira",
+  "related": [],
+  "detailed": false
+}

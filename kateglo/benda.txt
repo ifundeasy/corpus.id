@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "benda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala yang ada dalam alam yang berwujud atau berjasad (bukan roh); zat (misal air, minyak);"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang berharga (sebagai kekayaan); harta;"
+      },
+      {
+        "type": "desc",
+        "text": "barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benda",
+  "related": [],
+  "detailed": false
+}

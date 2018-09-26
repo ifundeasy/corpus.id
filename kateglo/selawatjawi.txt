@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "selawat jawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selawat yang memakai teks bahasa Jawa dengan iringan rebana dan beberapa alat musik setempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selawat%20jawi",
+  "related": [],
+  "detailed": false
+}

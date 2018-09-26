@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barometer air raksa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur tekanan udara yang menggunakan tinggi air raksa di dalam kolom pipa sebagai ukuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barometer%20air%20raksa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkeliling",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak mengitari;"
+      },
+      {
+        "type": "desc",
+        "text": "berjalan (naik mobil dsb) berputar-putar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkeliling",
+  "related": [],
+  "detailed": false
+}

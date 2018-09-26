@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musim peralihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "periode dalam tahun selama proses berpindah dari satu keadaan ke keadaan yang lain (seperti dari musim hujan ke musim kemarau);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musim%20peralihan",
+  "related": [],
+  "detailed": false
+}

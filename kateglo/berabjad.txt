@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berabjad",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menurut susunan abjad;"
+      },
+      {
+        "type": "desc",
+        "text": "mempunyai abjad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berabjad",
+  "related": [],
+  "detailed": false
+}

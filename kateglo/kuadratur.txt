@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuadratur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat)"
+      },
+      {
+        "type": "desc",
+        "text": "pengungkapan luas, misal lingkaran bujur sangkar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Astron) posisi relatif dua benda langit yang tegak lurus satu sama lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuadratur",
+  "related": [],
+  "detailed": false
+}

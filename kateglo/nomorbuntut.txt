@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor buntut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor atau angka akhir (satu sampai dengan empat angka) dari deretan angka undian resmi yang diperjudikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20buntut",
+  "related": [],
+  "detailed": false
+}

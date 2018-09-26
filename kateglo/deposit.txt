@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deposit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) batu, tanah, atau bahan padat lain yang dibawa air sungai, air laut atau gletser dari satu tempat ke tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deposit",
+  "related": [],
+  "detailed": false
+}

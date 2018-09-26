@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "umur es",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu dari pembekuan sampai ke pelelehan es;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=umur%20es",
+  "related": [],
+  "detailed": false
+}

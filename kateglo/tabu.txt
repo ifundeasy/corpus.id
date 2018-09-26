@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dianggap suci (tidak boleh disentuh, diucapkan, dsb); pantangan; larangan;"
+      },
+      {
+        "type": "link",
+        "text": "tabu kayu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabu",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panjang umur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lanjut umurnya; lama hidupnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjang%20umur",
+  "related": [],
+  "detailed": false
+}

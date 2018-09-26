@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilik jantung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) rongga (petak) dalam jantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilik%20jantung",
+  "related": [],
+  "detailed": false
+}

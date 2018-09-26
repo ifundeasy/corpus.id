@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "braille",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem tulisan dan cetakan (berdasarkan abjad Latin) untuk para tunanetra berupa kode yang terjadi dari 6 titik dalam pelbagai kombinasi yang ditonjolkan pada kertas sehingga dapat diraba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=braille",
+  "related": [],
+  "detailed": false
+}

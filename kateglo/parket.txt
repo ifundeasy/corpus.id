@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat duduk hakim dan pengacara di ruang pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang agak ditinggikan dalam aula;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang terbatas; ruang tertutup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parket",
+  "related": [],
+  "detailed": false
+}

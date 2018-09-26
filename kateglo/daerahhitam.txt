@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah hitam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkungan tempat orang melakukan kejahatan;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan pelacuran dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20hitam",
+  "related": [],
+  "detailed": false
+}

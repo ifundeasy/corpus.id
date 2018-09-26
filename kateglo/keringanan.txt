@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keringanan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pengurangan beban (tanggungan, tugas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sangat ringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keringanan",
+  "related": [],
+  "detailed": false
+}

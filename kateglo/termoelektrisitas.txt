@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termoelektrisitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) arus listrik yang dihasilkan jika hubungan antara dua logam yang berbeda dipanaskan; termolistrik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termoelektrisitas",
+  "related": [],
+  "detailed": false
+}

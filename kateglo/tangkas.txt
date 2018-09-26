@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tangkas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cepat (tentang gerakan); cekatan;"
+      },
+      {
+        "type": "desc",
+        "text": "sigap; gesit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tangkas",
+  "related": [],
+  "detailed": false
+}

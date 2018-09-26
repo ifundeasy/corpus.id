@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isi perut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian tubuh yang ada di dalam perut (seperti usus, perut besar);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) makan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) perasaan hati, apa yang terpikirkan di dalam hati;"
+      },
+      {
+        "type": "desc",
+        "text": "makanan; rezeki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isi%20perut",
+  "related": [],
+  "detailed": false
+}

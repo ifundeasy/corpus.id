@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermaksud",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai maksud (tujuan, kehendak);"
+      },
+      {
+        "type": "desc",
+        "text": "berniat (hendak);"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung arti (makna);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermaksud",
+  "related": [],
+  "detailed": false
+}

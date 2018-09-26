@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertekstur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai tekstur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertekstur",
+  "related": [],
+  "detailed": false
+}

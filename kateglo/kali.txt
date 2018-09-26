@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kali",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan kekerapan tindakan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan kelipatan atau perbandingan (ukuran, harga, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan salah satu waktu terjadinya peristiwa yang merupakan bagian dari rangkaian peristiwa yang pernah dan masih akan terus terjadi;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan perbanyakan atau pergandaan;"
+      },
+      {
+        "type": "desc",
+        "text": "sungai;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(cak) barangkali;"
+      },
+      {
+        "type": "desc",
+        "text": "pejabat tinggi di Sulawesi Selatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kali",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mercu banjir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ketinggian paras air tertinggi pada waktu banjir di suatu alur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mercu%20banjir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harapan hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemungkinan tetap hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "kemungkinan dapat hidup lebih lama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harapan%20hidup",
+  "related": [],
+  "detailed": false
+}

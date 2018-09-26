@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun kapal tambahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun kapal yang bergerak, biasanya tanpa alat-alat meteorologi, yang atas permintaan dapat menyiarkan laporan cuaca daerah tertentu dengan sandi atau dengan bahasa biasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20kapal%20tambahan",
+  "related": [],
+  "detailed": false
+}

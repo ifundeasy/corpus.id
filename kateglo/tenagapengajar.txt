@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga pengajar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga pendidik yang tugas utamanya mengajar peserta didik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20pengajar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendongeng",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menceritakan dongeng;"
+      },
+      {
+        "type": "desc",
+        "text": "mengatakan yang tidak benar; berdusta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendongeng",
+  "related": [],
+  "detailed": false
+}

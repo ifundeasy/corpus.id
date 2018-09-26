@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cepat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam waktu singkat dapat menempuh jarak cukup jauh (perjalanan, gerakan, kejadian, dsb); laju; deras;"
+      },
+      {
+        "type": "desc",
+        "text": "cekatan; tangkas;"
+      },
+      {
+        "type": "desc",
+        "text": "terdahulu (tentang arloji, jam) maju; mendahului;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam waktu singkat; lekas; segera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cepat",
+  "related": [],
+  "detailed": false
+}

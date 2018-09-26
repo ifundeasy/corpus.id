@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kesal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mendongkol; sebal;"
+      },
+      {
+        "type": "desc",
+        "text": "kecewa (menyesal) bercampur jengkel;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak suka lagi; jemu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi bahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi tentang interaksi antara lautan dan atmosfer;"
+      },
+      {
+        "type": "desc",
+        "text": "meteorologi yang menyediakan layanan khusus untuk kegiatan pelayaran dan kelautan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20bahari",
+  "related": [],
+  "detailed": false
+}

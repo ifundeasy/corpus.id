@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membongkar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengangkat ke atas;"
+      },
+      {
+        "type": "desc",
+        "text": "menurunkan muatan dari kapal (kereta api);"
+      },
+      {
+        "type": "desc",
+        "text": "merusak; merobohkan;"
+      },
+      {
+        "type": "desc",
+        "text": "menceraikan bagian-bagian mesin;"
+      },
+      {
+        "type": "desc",
+        "text": "membuka dengan paksa;"
+      },
+      {
+        "type": "desc",
+        "text": "mencuri dengan merusak pintu (jendela dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membuka rahasia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membongkar",
+  "related": [],
+  "detailed": false
+}

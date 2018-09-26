@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batu gamping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) →"
+      },
+      {
+        "type": "link",
+        "text": "gamping"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batu%20gamping",
+  "related": [],
+  "detailed": false
+}

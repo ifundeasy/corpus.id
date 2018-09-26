@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pisang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman jenis Musa, buahnya berdaging dan dapat dimakan, ada bermacam-macam;"
+      },
+      {
+        "type": "desc",
+        "text": "nama ikan laut, Albula vulpes;"
+      },
+      {
+        "type": "desc",
+        "text": "gading-gading (bagian dari rangka perahu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pisang",
+  "related": [],
+  "detailed": false
+}

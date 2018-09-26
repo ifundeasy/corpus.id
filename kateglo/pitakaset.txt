@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pita kaset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pita rekaman pada kaset;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pita%20kaset",
+  "related": [],
+  "detailed": false
+}

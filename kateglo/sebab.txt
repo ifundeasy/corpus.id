@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sebab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang menjadikan timbulnya sesuatu; lantaran; karena; (asal) mula;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "oleh karena; terjadi karena; sebagai akibat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebab",
+  "related": [],
+  "detailed": false
+}

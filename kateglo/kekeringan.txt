@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekeringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal, keadaan (bersifat) kering;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah menjadi kering (tidak berair lagi, tidak basah lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "peristiwa alam berupa penyimpangan iklim yang sifatnya sewaktu-waktu yang terjadi apabila curah hujan berada di bawah normal;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kehabisan uang dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekeringan",
+  "related": [],
+  "detailed": false
+}

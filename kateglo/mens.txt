@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mens",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) →"
+      },
+      {
+        "type": "link",
+        "text": "menstruasi"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mens",
+  "related": [],
+  "detailed": false
+}

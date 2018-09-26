@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "publikasi primer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jurnal dan publikasi berseri yang merupakan kumpulan makalah dengan subjek yang sama atau publikasi yang disajikan pada konferensi atau pertemuan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=publikasi%20primer",
+  "related": [],
+  "detailed": false
+}

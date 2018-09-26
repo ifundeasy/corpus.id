@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perbaikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembetulan; hal (hasil, perbuatan, usaha, dsb) memperbaiki;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan menjadi baik;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal berbaik kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "perubahan yang mengakibatkan penggunaan alat dapat lebih lama, tambahan produksi lebih besar dari normal, dan penekanan biaya produksi;"
+      },
+      {
+        "type": "desc",
+        "text": "ganti rugi dalam bentuk uang atau barang yang dibayar oleh negara yang kalah perang akibat kerusakan yang diderita pemenang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perbaikan",
+  "related": [],
+  "detailed": false
+}

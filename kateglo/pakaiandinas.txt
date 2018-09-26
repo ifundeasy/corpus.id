@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian dinas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian khusus bagi pegawai, karyawan, dipakai dalam kedinasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20dinas",
+  "related": [],
+  "detailed": false
+}

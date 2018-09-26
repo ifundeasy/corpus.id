@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "titi",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meniti"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) cermat; teliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titi",
+  "related": [],
+  "detailed": false
+}

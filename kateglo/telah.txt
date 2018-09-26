@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telah",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "sudah (untuk menyatakan perbuatan, keadaan dsb yang sempurna, lampau, atau selesai);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menelah"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telah",
+  "related": [],
+  "detailed": false
+}

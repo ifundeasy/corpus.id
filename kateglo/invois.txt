@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "invois",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) daftar barang kiriman yang dilengkapi dengan nama, jumlah, dan harga yang harus dibayar oleh pembeli (pemesan); faktur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=invois",
+  "related": [],
+  "detailed": false
+}

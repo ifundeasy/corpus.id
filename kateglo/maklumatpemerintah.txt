@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "maklumat pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Pol) pengumuman yang dikeluarkan oleh pemerintah, misal maklumat tanggal 14 November 1945 tentang perubahan pertanggungjawaban menteri, yakni tidak lagi kepada presiden, tetapi kepada Badan Pekerja Komite Nasional Indonesia Pusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=maklumat%20pemerintah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lebur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "luluh atau hancur mencair (tentang logam yang dipanaskan);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) rusak binasa; punah sama sekali;"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "keleburan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebur",
+  "related": [],
+  "detailed": false
+}

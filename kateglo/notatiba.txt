@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nota tiba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) nota pemberitahuan kedatangan kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nota%20tiba",
+  "related": [],
+  "detailed": false
+}

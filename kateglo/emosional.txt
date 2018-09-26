@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emosional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menyentuh perasaan; mengharukan;"
+      },
+      {
+        "type": "desc",
+        "text": "dengan emosi; beremosi; penuh emosi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emosional",
+  "related": [],
+  "detailed": false
+}

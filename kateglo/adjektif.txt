@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adjektif",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "adjektiva"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adjektif",
+  "related": [],
+  "detailed": false
+}

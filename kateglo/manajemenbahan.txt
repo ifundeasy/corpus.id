@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajemen bahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan atau penelaahan yang mencakup perencanaan, pengorganisasian, dan pengendalian arus bahan di tiap tahap yang dilaluinya mulai dari penyuplai sampai ke tempat penyimpanannya dalam bentuk barang jadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajemen%20bahan",
+  "related": [],
+  "detailed": false
+}

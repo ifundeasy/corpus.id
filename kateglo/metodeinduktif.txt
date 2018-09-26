@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "metode induktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "metode yang digunakan untuk menarik kesimpulan dari hal-hal yang khusus untuk menuju kesimpulan yang bersifat umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metode%20induktif",
+  "related": [],
+  "detailed": false
+}

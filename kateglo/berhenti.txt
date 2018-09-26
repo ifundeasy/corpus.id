@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berhenti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak bergerak (berjalan, bekerja, dsb) lagi; tidak meneruskan lagi; mandek;"
+      },
+      {
+        "type": "desc",
+        "text": "berakhir; selesai; tamat;"
+      },
+      {
+        "type": "desc",
+        "text": "mengaso; beristirahat; berjeda;"
+      },
+      {
+        "type": "desc",
+        "text": "meletakkan jabatan (pekerjaan dsb) lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berhenti",
+  "related": [],
+  "detailed": false
+}

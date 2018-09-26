@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersejarah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengusut (tanya-menanyakan) asal-usul;"
+      },
+      {
+        "type": "desc",
+        "text": "mengandung sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersejarah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar nilai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan angka pada rapor (ijazah dsb) siswa sebagai hasil ulangan (ujian) yang diperolehnya sesuai dengan kecakapan atau prestasinya (berkisar antara 1 dan 10 atau 10 dan 100);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20nilai",
+  "related": [],
+  "detailed": false
+}

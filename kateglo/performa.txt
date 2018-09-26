@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "performa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal melakukan; hal menyelenggarakan;"
+      },
+      {
+        "type": "desc",
+        "text": "hal memainkan (dalam seni drama, musik, dan seni tari);"
+      },
+      {
+        "type": "desc",
+        "text": "penampilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=performa",
+  "related": [],
+  "detailed": false
+}

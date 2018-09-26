@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gratis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cuma-cuma (tidak dipungut bayaran);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gratis",
+  "related": [],
+  "detailed": false
+}

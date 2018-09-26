@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbalik",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak sengaja membalik; sudah membalik;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan atau berkedudukan berlawanan dari yang biasa (yang di bawah menjadi di atas, yang di belakang menjadi di depan, yang di dalam menjadi di luar, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbalik",
+  "related": [],
+  "detailed": false
+}

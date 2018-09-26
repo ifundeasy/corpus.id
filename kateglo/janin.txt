@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "janin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakal bayi (masih dalam kandungan);"
+      },
+      {
+        "type": "desc",
+        "text": "embrio setelah melebihi umur dua bulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=janin",
+  "related": [],
+  "detailed": false
+}

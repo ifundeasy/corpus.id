@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tahajud",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidur sambil berjaga agar siap melakukan salat tengah malam atau membaca Alquran;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl) (huruf awal ditulis dengan kapital) salat sunah pada tengah malam, seusai tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahajud",
+  "related": [],
+  "detailed": false
+}

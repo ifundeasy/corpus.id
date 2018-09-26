@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dadah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai obat yang tersedia (sudah terkemas, siap pakai);"
+      },
+      {
+        "type": "desc",
+        "text": "bahan narkotik (seperti ganja, heroin) yang membius, meracuni, dan membinasakan orang yang menggunakannya secara berlebihan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak) mengatakan dah (untuk memberi salam pertemuan atau perpisahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dadah",
+  "related": [],
+  "detailed": false
+}

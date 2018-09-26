@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benda konsumsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang langsung digunakan untuk memenuhi kebutuhan manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benda%20konsumsi",
+  "related": [],
+  "detailed": false
+}

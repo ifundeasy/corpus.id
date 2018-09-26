@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dualis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "kategori gramatikal jumlah kata untuk menunjukkan dua hal atau benda yang dipertentangkan dengan singularis dan pluralis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fil) orang yang menganut paham dualisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dualis",
+  "related": [],
+  "detailed": false
+}

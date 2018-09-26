@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "budi daya tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeliharaan ikan dengan menggunakan satu jenis ikan saja dalam satu kolam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=budi%20daya%20tunggal",
+  "related": [],
+  "detailed": false
+}

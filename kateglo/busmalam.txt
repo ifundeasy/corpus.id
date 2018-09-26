@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bus malam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bus yang melayani angkutan penumpang pada malam hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bus%20malam",
+  "related": [],
+  "detailed": false
+}

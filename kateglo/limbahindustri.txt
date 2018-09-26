@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limbah industri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limbah yang berasal dari buangan kegiatan industri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limbah%20industri",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stori",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "dongeng; kisah; cerita;"
+      },
+      {
+        "type": "desc",
+        "text": "kabar angin; desas-desus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stori",
+  "related": [],
+  "detailed": false
+}

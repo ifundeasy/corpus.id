@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komisariat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan atau kantor komisaris;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor kepala polisi di suatu daerah (zaman dulu; sekarang disebut wilayah kepolisian);"
+      },
+      {
+        "type": "desc",
+        "text": "kantor anak cabang suatu organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komisariat",
+  "related": [],
+  "detailed": false
+}

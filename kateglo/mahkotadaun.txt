@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mahkota daun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian daun sebelah luar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) bagian daun sebelah luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mahkota%20daun",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "boya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay)"
+      },
+      {
+        "type": "desc",
+        "text": "bui di laut;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cerai-berai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=boya",
+  "related": [],
+  "detailed": false
+}

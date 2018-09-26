@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hadron",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) zarah elementer yang mempunyai interaksi kuat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadron",
+  "related": [],
+  "detailed": false
+}

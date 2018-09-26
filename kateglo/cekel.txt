@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cekel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembing yang kecil;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kikir; bakhil; pelit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) cantrik (murid pendeta);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cekel",
+  "related": [],
+  "detailed": false
+}

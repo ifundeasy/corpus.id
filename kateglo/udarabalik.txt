@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "udara balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "udara yang telah digunakan dalam jaringan ventilasi tambang bawah tanah dan yang akan dikeluarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=udara%20balik",
+  "related": [],
+  "detailed": false
+}

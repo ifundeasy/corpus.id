@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelarangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal melarang;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan melarang;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) barang yang tidak diperbolehkan (diperkenankan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelarangan",
+  "related": [],
+  "detailed": false
+}

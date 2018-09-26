@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monorel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kereta api yang berjalan di atas rel tunggal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monorel",
+  "related": [],
+  "detailed": false
+}

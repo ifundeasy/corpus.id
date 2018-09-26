@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tingkat perbandingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) klasifikasi atas adjektiva dan adverbia yang menandai tingkat dalam proses, sifat, ukuran, hubungan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tingkat%20perbandingan",
+  "related": [],
+  "detailed": false
+}

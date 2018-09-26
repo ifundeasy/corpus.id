@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujung mata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut mata bagian luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujung%20mata",
+  "related": [],
+  "detailed": false
+}

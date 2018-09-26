@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengkil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bengkak;"
+      },
+      {
+        "type": "link",
+        "text": "terbengkil-bengkil"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengkil",
+  "related": [],
+  "detailed": false
+}

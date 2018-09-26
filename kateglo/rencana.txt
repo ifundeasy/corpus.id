@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "cerita;"
+      },
+      {
+        "type": "desc",
+        "text": "rancangan; buram (rangka sesuatu yang akan dikerjakan);"
+      },
+      {
+        "type": "desc",
+        "text": "konsep; naskah (surat dsb); buram (surat);"
+      },
+      {
+        "type": "desc",
+        "text": "laporan pemberitaan; catatan mengenai pembicaraan dalam rapat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "acara (pembicaraan); program;"
+      },
+      {
+        "type": "desc",
+        "text": "artikel; makalah; kertas kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) maksud; niat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rencana",
+  "related": [],
+  "detailed": false
+}

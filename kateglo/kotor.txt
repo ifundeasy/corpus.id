@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotor",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak bersih; kena noda;"
+      },
+      {
+        "type": "desc",
+        "text": "banyak sampahnya (barang bekas, barang busuk, dsb); jorok; menjijikkan;"
+      },
+      {
+        "type": "desc",
+        "text": "melanggar kesusilaan; tidak patut; keji;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mengikuti aturan; tidak jujur;"
+      },
+      {
+        "type": "desc",
+        "text": "(berat, isi, gaji, dsb) sebelum dikurangi wadah (pajak, dsb); bruto;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotor",
+  "related": [],
+  "detailed": false
+}

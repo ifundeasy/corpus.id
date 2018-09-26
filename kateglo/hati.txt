@@ -1,0 +1,51 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat)"
+      },
+      {
+        "type": "desc",
+        "text": "organ badan yang berwarna kemerah-merahan di bagian kanan atas rongga perut, gunanya untuk mengambil sari-sari makanan di dalam darah dan menghasilkan empedu;"
+      },
+      {
+        "type": "desc",
+        "text": "daging dari hati sebagai bahan makanan (terutama hati dari binatang sembelihan);"
+      },
+      {
+        "type": "desc",
+        "text": "jantung;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang ada di dalam tubuh manusia yang dianggap sebagai tempat segala perasaan batin dan tempat menyimpan pengertian (perasaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang terasa dalam batin;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat (tabiat) batin manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian yang di dalam sekali (tentang buah, batang, tumbuhan, dsb);"
+      }
+    ],
+    "adv": [
+      {
+        "type": "link",
+        "text": "hati-hati"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hati",
+  "related": [],
+  "detailed": false
+}

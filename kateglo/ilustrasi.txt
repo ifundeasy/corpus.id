@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ilustrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "gambar (foto, lukisan) untuk membantu memperjelas isi buku, karangan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "gambar, desain, atau diagram untuk penghias (halaman sampul dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(pen-jelasan) tambahan berupa contoh, bandingan, dsb untuk lebih memperjelas paparan (tulisan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilustrasi",
+  "related": [],
+  "detailed": false
+}

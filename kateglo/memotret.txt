@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memotret",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat (mengambil) gambar dengan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memotret",
+  "related": [],
+  "detailed": false
+}

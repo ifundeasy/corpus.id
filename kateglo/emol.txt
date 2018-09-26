@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emol",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengemol"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emol",
+  "related": [],
+  "detailed": false
+}

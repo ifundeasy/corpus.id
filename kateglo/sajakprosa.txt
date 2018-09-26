@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sajak prosa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sajak yang digubah dalam bentuk prosa, tetapi tetap dicirikan oleh unsur-unsur puisi, seperti irama yang teratur, majas, rima (dalam), asonansi, konsonansi, dan citraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sajak%20prosa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tebakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang ditebak; teka-teki;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil menebak; terkaan; dugaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tebakan",
+  "related": [],
+  "detailed": false
+}

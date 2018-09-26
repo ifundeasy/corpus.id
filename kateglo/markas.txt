@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "markas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kedudukan pemimpin tentara (pandu, badan perjuangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=markas",
+  "related": [],
+  "detailed": false
+}

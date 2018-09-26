@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal bertanam;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menanam tumbuh-tumbuhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanaman",
+  "related": [],
+  "detailed": false
+}

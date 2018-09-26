@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor urut;"
+      },
+      {
+        "type": "desc",
+        "text": "deretan; rentetan; hal berurut;"
+      },
+      {
+        "type": "desc",
+        "text": "susunan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kumpulan unsur-unsur bahasa berstruktur yang secara teoretis terletak berderetan dalam suatu hubungan formal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan",
+  "related": [],
+  "detailed": false
+}

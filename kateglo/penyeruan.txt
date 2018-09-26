@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyeruan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyeru(kan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyeruan",
+  "related": [],
+  "detailed": false
+}

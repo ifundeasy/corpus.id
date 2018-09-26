@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antawacana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sen)"
+      },
+      {
+        "type": "desc",
+        "text": "suara dalang dalam pewayangan (wayang kulit) yang disesuaikan dengan tokoh sebenarnya, misal suara Arjuna lemah lembut, suara Burisrawa keras dan gagah;"
+      },
+      {
+        "type": "desc",
+        "text": "dialog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antawacana",
+  "related": [],
+  "detailed": false
+}

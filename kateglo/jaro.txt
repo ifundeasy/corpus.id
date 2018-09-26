@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jaro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilah bambu untuk pagar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jaro",
+  "related": [],
+  "detailed": false
+}

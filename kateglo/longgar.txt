@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "longgar",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sempit (tentang lubang, ruangan, dsb); tidak sesak; lapang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tepat benar; besar (tentang baju dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sendat; tidak ketat (tentang paku, sekrup, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak akrab (tentang persahabatan dsb); tidak erat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terlalu mengikat (tentang aturan, undang-undang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak terlalu terbatas (tentang pemakaian uang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "senggang; tidak sibuk;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ketat (mudah diterobos dsb tentang penjagaan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=longgar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat menerima saja; tidak giat; tidak aktif;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) kurang atau lebih kecil daripada pengeluaran (tentang penerimaan, pemasukan uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) (jenis kalimat) yang menunjukkan bahwa subjek adalah tujuan dari perbuatan, misal ia dipukul;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat memahami bacaan, pembicaraan, dsb, tetapi tidak dapat mengemukakan kembali, baik lisan maupun tulis (tentang penguasaan bahasa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasif",
+  "related": [],
+  "detailed": false
+}

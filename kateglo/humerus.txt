@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humerus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) tulang lengan atas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humerus",
+  "related": [],
+  "detailed": false
+}

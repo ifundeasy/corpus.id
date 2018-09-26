@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seman",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak jadi atau gagal (tentang adonan apam, tapai, nira yang dijadikan tuak, atau penyakit cacar);"
+      },
+      {
+        "type": "desc",
+        "text": "hilang (tentang ingatan);"
+      },
+      {
+        "type": "desc",
+        "text": "merugi; terbengkalai; pailit (tentang perusahaan);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sempurna (tentang janin dalam kandungan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seman",
+  "related": [],
+  "detailed": false
+}

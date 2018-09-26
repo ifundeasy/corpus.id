@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya muat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan memuat (tentang kendaraan dsb) atau menampung isi (tentang tangkai tumbuhan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20muat",
+  "related": [],
+  "detailed": false
+}

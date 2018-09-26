@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kabut;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kabur; tidak nyata kelihatan (seakan-akan tertutup kabut karena jauh dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak jernih (tentang mata, kaca, dsb seakan-akan berkabut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabus",
+  "related": [],
+  "detailed": false
+}

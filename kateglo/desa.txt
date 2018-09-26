@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "desa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesatuan wilayah yang dihuni oleh sejumlah keluarga yang mempunyai sistem pemerintahan sendiri (dikepalai oleh seorang kepala desa);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok rumah di luar kota yang merupakan kesatuan;"
+      },
+      {
+        "type": "desc",
+        "text": "udik atau dusun (dalam arti daerah pedalaman sebagai lawan kota);"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) tanah; tempat; daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=desa",
+  "related": [],
+  "detailed": false
+}

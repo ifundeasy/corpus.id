@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "utik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengutik-utik"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama ikan laut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utik",
+  "related": [],
+  "detailed": false
+}

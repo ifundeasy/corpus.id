@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teleku",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "berteleku"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teleku",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "narkolepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kronis yang ditandai dengan serangan kantuk dan ingin tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=narkolepsi",
+  "related": [],
+  "detailed": false
+}

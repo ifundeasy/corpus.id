@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saksi pemberat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saksi yang memberikan kesaksian yang memberatkan terdakwa pada sidang pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saksi%20pemberat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedalaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak dari permukaan sampai ke dasar; dalamnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kemampuan penguasaan (tentang ilmu);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlalu dalam; lebih dalam daripada yang seharusnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedalaman",
+  "related": [],
+  "detailed": false
+}

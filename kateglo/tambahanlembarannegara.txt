@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tambahan lembaran negara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaran resmi yang dikeluarkan oleh negara, memuat penjelasan peraturan perundang-undangan yang diundangkan dalam lembaran negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambahan%20lembaran%20negara",
+  "related": [],
+  "detailed": false
+}

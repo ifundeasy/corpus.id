@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "natalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) laju kelahiran yang memperlihatkan jumlah keturunan yang dihasilkan oleh setiap betina dalam suatu populasi per satuan waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=natalitas",
+  "related": [],
+  "detailed": false
+}

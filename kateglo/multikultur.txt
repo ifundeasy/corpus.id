@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "multikultur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai jenis kultur (tanaman); tumbuhan aneka tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "(Tan) pola pertanaman yang dalam suatu urutan musim pada tanah yang sama ditanami beberapa jenis tanaman (misal pada musim kemarau ditanami palawija dan pada musim hujan ditanami padi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=multikultur",
+  "related": [],
+  "detailed": false
+}

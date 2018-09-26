@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jujur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lurus hati; tidak berbohong (misal dengan berkata apa adanya);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak curang (misal dalam permainan, dengan mengikuti aturan yang berlaku);"
+      },
+      {
+        "type": "desc",
+        "text": "tulus; ikhlas;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang diberikan oleh pengantin laki-laki kepada calon mertuanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jujur",
+  "related": [],
+  "detailed": false
+}

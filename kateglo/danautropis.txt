@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "danau tropis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "danau di daerah tropis yang suhu permukaan airnya selalu di atas 4oC;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=danau%20tropis",
+  "related": [],
+  "detailed": false
+}

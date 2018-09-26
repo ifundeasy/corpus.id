@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senarai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senarai",
+  "related": [],
+  "detailed": false
+}

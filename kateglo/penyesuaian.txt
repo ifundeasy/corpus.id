@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyesuaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyesuaikan;"
+      },
+      {
+        "type": "desc",
+        "text": "tiap perubahan dalam rekening/perkiraan yang disebabkan oleh pos penyesuaian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyesuaian",
+  "related": [],
+  "detailed": false
+}

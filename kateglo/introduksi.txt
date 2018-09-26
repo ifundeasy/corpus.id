@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "introduksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbuatan memperkenalkan atau melancar-kan untuk pertama kali;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian karangan yang menyatakan pendahuluan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) bagian awal sajian musik sebelum penyanyi mulai menyanyikan lagu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=introduksi",
+  "related": [],
+  "detailed": false
+}

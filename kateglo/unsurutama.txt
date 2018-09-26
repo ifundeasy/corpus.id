@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unsur utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata atau frasa yang dimodifikasikan oleh aposisi, misal adikku dalam adikku Hasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unsur%20utama",
+  "related": [],
+  "detailed": false
+}

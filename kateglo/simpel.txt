@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "mudah dikerjakan atau dimengerti (tidak berbelit-belit); sederhana;"
+      },
+      {
+        "type": "desc",
+        "text": "tunggal (tentang kalimat yang terdiri atas satu subjek, predikat, dan atau tanpa objek);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpel",
+  "related": [],
+  "detailed": false
+}

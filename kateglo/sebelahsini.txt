@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sebelah sini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebelah yang dekat dari pembicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebelah%20sini",
+  "related": [],
+  "detailed": false
+}

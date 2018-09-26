@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fauna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keseluruhan kehidupan hewan suatu habitat, daerah, atau strata geologi tertentu; dunia hewan;"
+      },
+      {
+        "type": "desc",
+        "text": "karya atau penerbitan yang memuat daftar dan penelaahan jenis hewan suatu habitat, daerah, atau strata tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fauna",
+  "related": [],
+  "detailed": false
+}

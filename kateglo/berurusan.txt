@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berurusan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada urusan (dengan); berhubungan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "tersangkut dalam suatu hal (perkara kepolisian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berurusan",
+  "related": [],
+  "detailed": false
+}

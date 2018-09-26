@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan melalui laut;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang menyangkut perihal berlayar (seperti ilmu ~ , sekolah ~ );"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayaran",
+  "related": [],
+  "detailed": false
+}

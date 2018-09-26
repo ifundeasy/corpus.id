@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angka fertilitas kumulatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dem) rata-rata banyaknya anak yang dilahirkan oleh seorang wanita sejak mereka mulai memasuki usia melahirkan sampai mereka mencapai umur tertentu (misal umur 20—24, 30—34, atau 45—49 tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angka%20fertilitas%20kumulatif",
+  "related": [],
+  "detailed": false
+}

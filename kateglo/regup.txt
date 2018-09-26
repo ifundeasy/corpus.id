@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "regup",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meregup"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=regup",
+  "related": [],
+  "detailed": false
+}

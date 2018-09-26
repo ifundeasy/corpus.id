@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah terbuka; tanah garapan;"
+      },
+      {
+        "type": "desc",
+        "text": "lagu (yang baik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahan",
+  "related": [],
+  "detailed": false
+}

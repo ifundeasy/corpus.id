@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat paten",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang menggunakan merek atau nama dagang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20paten",
+  "related": [],
+  "detailed": false
+}

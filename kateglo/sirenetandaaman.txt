@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sirene tanda aman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sirene yang dibunyikan untuk memberitahukan kepada penduduk bahwa keadaan sudah aman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirene%20tanda%20aman",
+  "related": [],
+  "detailed": false
+}

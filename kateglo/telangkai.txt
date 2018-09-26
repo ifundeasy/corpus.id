@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telangkai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perantara dalam perkawinan (juga dalam perundingan);"
+      },
+      {
+        "type": "desc",
+        "text": "perantara (wakil);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menelangkai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telangkai",
+  "related": [],
+  "detailed": false
+}

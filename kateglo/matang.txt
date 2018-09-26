@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sudah tua dan sudah sampai waktunya untuk dipetik, dimakan, dsb (tentang buah-buahan); masak;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah empuk (kering dsb) dan sudah sampai waktunya untuk diambil, diangkat, dsb (tentang makanan); masak;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui bersama); sudah sempurna atau sudah pada tingkatan yang terbaik (terakhir);"
+      },
+      {
+        "type": "desc",
+        "text": "mulai dewasa (tentang perkembangan manusia secara fisik dan psikologis);"
+      },
+      {
+        "type": "desc",
+        "text": "ki sudah selesai dikerjakan (dididik, disiapkan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matang",
+  "related": [],
+  "detailed": false
+}

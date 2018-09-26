@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sarang burung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat burung bertelur dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "sarang burung walet (yang dapat dijadikan bahan sup dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sarang%20burung",
+  "related": [],
+  "detailed": false
+}

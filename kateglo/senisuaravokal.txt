@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seni suara vokal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seni suara yang diperdengarkan dengan perantaraan suara manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seni%20suara%20vokal",
+  "related": [],
+  "detailed": false
+}

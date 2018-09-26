@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa sidang Dewan Perwakilan Rakyat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa kegiatan Dewan Perwakilan Rakyat (DPR), yang terutama dilakukan dalam gedung DPR;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20sidang%20Dewan%20Perwakilan%20Rakyat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "agregasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengumpulan sejumlah benda yang terpisah-pisah menjadi satu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) sejumlah tumbuhan atau binatang yang merupakan suatu kesatuan dalam kelompok yang lebih besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agregasi",
+  "related": [],
+  "detailed": false
+}

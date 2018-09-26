@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan batin dan watak manusia, yang bukan bersifat badan atau tenaga;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "batin dan watak;"
+      },
+      {
+        "type": "desc",
+        "text": "terpelanting; terpental;"
+      },
+      {
+        "type": "desc",
+        "text": "terlempar kembali; berbalik arah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sd) ada gunanya, ada pengaruhnya (tentang obat, nasihat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mental",
+  "related": [],
+  "detailed": false
+}

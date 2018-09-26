@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cek mundur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cek yang penguangannya berlaku mundur (surut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cek%20mundur",
+  "related": [],
+  "detailed": false
+}

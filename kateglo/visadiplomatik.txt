@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "visa diplomatik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "visa yang diberikan kepada pegawai diplomatik dan konsuler negara asing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=visa%20diplomatik",
+  "related": [],
+  "detailed": false
+}

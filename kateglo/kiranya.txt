@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kiranya",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "agaknya; rupanya;"
+      },
+      {
+        "type": "desc",
+        "text": "semoga; mudah-mudahan (untuk menyatakan harapan);"
+      },
+      {
+        "type": "desc",
+        "text": "sekiranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kiranya",
+  "related": [],
+  "detailed": false
+}

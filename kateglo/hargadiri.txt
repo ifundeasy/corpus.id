@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga diri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesadaran akan berapa besar nilai yang diberikan kepada diri sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20diri",
+  "related": [],
+  "detailed": false
+}

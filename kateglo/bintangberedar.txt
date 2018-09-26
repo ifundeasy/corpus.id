@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bintang beredar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "planet yang beredar mengelilingi matahari seperti Zohrah (Venus), Marikh (Mars), Mustari (Yupiter);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bintang%20beredar",
+  "related": [],
+  "detailed": false
+}

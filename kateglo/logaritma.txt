@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "logaritma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) eksponen pangkat yang diperlukan untuk memangkatkan bilangan dasar supaya beroleh bilangan tertentu (jika bilangan dasarnya 10, maka log 100 = 2, artinya 10 pangkat 2 = 100); kebalikan dari hitungan pangkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logaritma",
+  "related": [],
+  "detailed": false
+}

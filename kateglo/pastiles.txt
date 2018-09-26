@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pastiles",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis gula-gula, biasanya berbentuk butiran kecil, mengandung obat untuk melegakan pernapasan, menyegarkan mulut, menyembuhkan sakit kerongkongan, batuk, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pastiles",
+  "related": [],
+  "detailed": false
+}

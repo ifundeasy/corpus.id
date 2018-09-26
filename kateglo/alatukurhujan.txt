@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat ukur hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) alat untuk mengukur banyaknya hujan yang jatuh di suatu tempat pada waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20ukur%20hujan",
+  "related": [],
+  "detailed": false
+}

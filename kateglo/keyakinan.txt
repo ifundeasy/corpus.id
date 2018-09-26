@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keyakinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepercayaan dsb yang sungguh-sungguh; kepastian; ketentuan;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian agama atau religi yang berwujud konsep yang menjadi keyakinan (kepercayaan) para penganutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keyakinan",
+  "related": [],
+  "detailed": false
+}

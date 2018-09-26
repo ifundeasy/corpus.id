@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "periode",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurun waktu; lingkaran waktu (masa);"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok bilangan yang selalu berulang dalam pecahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) baris mendatar dari unsur-unsur dalam tabel periodik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=periode",
+  "related": [],
+  "detailed": false
+}

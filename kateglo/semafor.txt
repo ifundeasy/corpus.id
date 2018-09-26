@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semafor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat atau sistem penyampaian isyarat secara visual (dengan lampu, bendera, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semafor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertemuan (perjamuan) resmi yang diadakan untuk menerima tamu (pada pesta perkawinan, pelantikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resepsi",
+  "related": [],
+  "detailed": false
+}

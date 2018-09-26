@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf biasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang lazim dipakai dalam dunia pers, biasanya berukuran 8, 9, atau 10 titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20biasa",
+  "related": [],
+  "detailed": false
+}

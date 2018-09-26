@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang keras, biasanya bening dan mudah pecah (untuk jendela, botol, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cermin; kaca muka;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) contoh; teladan;"
+      },
+      {
+        "type": "desc",
+        "text": "muka (halaman buku);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaca",
+  "related": [],
+  "detailed": false
+}

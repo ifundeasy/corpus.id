@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilihan (untuk mendapatkan yang terbaik); penyaringan;"
+      },
+      {
+        "type": "desc",
+        "text": "metode dan prosedur yang dipakai oleh bagian personalia (kantor pemerintah, perusahaan, dsb) waktu memilih orang untuk mengisi lowongan pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seleksi",
+  "related": [],
+  "detailed": false
+}

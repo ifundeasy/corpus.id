@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "terap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pohon sukun hutan, daunnya lebar-lebar, kayunya sangat cocok untuk bahan rumah karena tahan rayap; Artocarpus blumei;"
+      },
+      {
+        "type": "desc",
+        "text": "kayu terap;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "berterap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terap",
+  "related": [],
+  "detailed": false
+}

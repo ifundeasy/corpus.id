@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kaliper",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf)"
+      },
+      {
+        "type": "desc",
+        "text": "ketebalan selembar kertas yang diukur pada kondisi yang sudah dispesifikasikan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pengukur ketebalan kertas semacam mikrometer;"
+      },
+      {
+        "type": "desc",
+        "text": "alat berbentuk lengkung atau lurus, biasanya dipakai untuk mengukur lebar dada, lebar pinggul, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kaliper",
+  "related": [],
+  "detailed": false
+}

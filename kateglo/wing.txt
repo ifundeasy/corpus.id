@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sayap;"
+      },
+      {
+        "type": "desc",
+        "text": "lencana (tanda) penerbangan dalam bentuk sayap;"
+      },
+      {
+        "type": "desc",
+        "text": "lencana (tanda) lulus pendidikan dan pelatihan, seperti terjun payung, terbang layang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wing",
+  "related": [],
+  "detailed": false
+}

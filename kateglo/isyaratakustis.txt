@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "isyarat akustis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) isyarat yang dapat ditangkap untuk mem-bedakan segmen bunyi, misal saat awal bunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isyarat%20akustis",
+  "related": [],
+  "detailed": false
+}

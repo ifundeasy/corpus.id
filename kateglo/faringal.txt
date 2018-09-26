@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "faringal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan terjadinya pembentukan rongga mulut karena penyempitan dinding faring dan akar lidah;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan bunyi faring;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=faringal",
+  "related": [],
+  "detailed": false
+}

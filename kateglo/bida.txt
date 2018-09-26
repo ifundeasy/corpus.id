@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp)"
+      },
+      {
+        "type": "desc",
+        "text": "bidadari;"
+      },
+      {
+        "type": "desc",
+        "text": "dayang (pengasuh) dalam istana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bida",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pokah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "rusak, binasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pokah",
+  "related": [],
+  "detailed": false
+}

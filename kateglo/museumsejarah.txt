@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "museum sejarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "museum tempat memamerkan benda-benda bersejarah (menggambarkan peristiwa sejarah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=museum%20sejarah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemencaran aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemencaran makhluk dari satu tempat ke tempat lain karena hasil proses fisiologi (berjalan, berenang, terbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemencaran%20aktif",
+  "related": [],
+  "detailed": false
+}

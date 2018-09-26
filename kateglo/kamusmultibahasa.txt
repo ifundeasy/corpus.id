@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamus multibahasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamus yang memuat kosakata suatu bahasa dengan penjelasan makna dan contoh pemakaiannya dalam dua bahasa lain atau lebih sebagai bahasa sasaran; kamus yang terdiri atas tiga bahasa atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus%20multibahasa",
+  "related": [],
+  "detailed": false
+}

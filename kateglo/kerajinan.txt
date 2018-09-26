@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerajinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal rajin; kegiatan; kegetolan;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang dihasilkan melalui keterampilan tangan (seperti tikar, anyaman, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan (kecil) yang membuat; barang-barang sederhana, biasa mengandung unsur seni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerajinan",
+  "related": [],
+  "detailed": false
+}

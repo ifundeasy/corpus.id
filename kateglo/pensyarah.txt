@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pensyarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicara (dalam ceramah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang mengajar di perguruan tinggi; dosen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pensyarah",
+  "related": [],
+  "detailed": false
+}

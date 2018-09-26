@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah induk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah besar (utama), paviliun, biasanya ditempati oleh keluarga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20induk",
+  "related": [],
+  "detailed": false
+}

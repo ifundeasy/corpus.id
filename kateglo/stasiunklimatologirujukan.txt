@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "stasiun klimatologi rujukan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "stasiun klimatologi yang mempunyai pengamatan yang homogen paling sedikit selama tiga tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stasiun%20klimatologi%20rujukan",
+  "related": [],
+  "detailed": false
+}

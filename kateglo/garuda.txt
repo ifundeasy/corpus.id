@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garuda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung besar pemakan daging yang menyerupai elang dan mempunyai kekuatan terbang yang luar biasa (yang sudah punah, dan sekarang hanya dalam dongeng);"
+      },
+      {
+        "type": "desc",
+        "text": "lambang negara Indonesia (berupa gambar burung garuda dengan bulu sayap berjumlah 17, bulu ekor 8, bulu leher 45, cakar mencengkeram pita bertuliskan Bhinneka Tunggal Ika, dan berperisai lambang Pancasila di dadanya);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) nama perusahaan penerbangan negara Indonesia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garuda",
+  "related": [],
+  "detailed": false
+}

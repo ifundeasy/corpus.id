@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesatu",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "pertama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesatu",
+  "related": [],
+  "detailed": false
+}

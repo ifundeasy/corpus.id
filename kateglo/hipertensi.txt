@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipertensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tekanan darah atau denyut jantung yang lebih tinggi daripada normal karena penyempitan pembuluh darah atau gangguan lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipertensi",
+  "related": [],
+  "detailed": false
+}

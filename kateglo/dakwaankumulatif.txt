@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dakwaan kumulatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) dakwaan lebih dari satu dan semuanya harus dibuktikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dakwaan%20kumulatif",
+  "related": [],
+  "detailed": false
+}

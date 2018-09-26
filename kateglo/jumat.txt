@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "Jumat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari ke-6 dalam seminggu;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) salat Jumat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Jumat",
+  "related": [],
+  "detailed": false
+}

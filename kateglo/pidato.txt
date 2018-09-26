@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pidato",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengungkapan pikiran dalam bentuk kata-kata yang ditujukan kepada orang banyak;"
+      },
+      {
+        "type": "desc",
+        "text": "wacana yang disiapkan untuk diucapkan di depan khalayak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidato",
+  "related": [],
+  "detailed": false
+}

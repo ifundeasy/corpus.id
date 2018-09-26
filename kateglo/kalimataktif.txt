@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang subjeknya melakukan perbuatan dalam predikat verbalnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20aktif",
+  "related": [],
+  "detailed": false
+}

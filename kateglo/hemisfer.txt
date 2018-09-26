@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemisfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "belahan bumi (bagian utara dan selatan) menurut garis khatulistiwa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) belahan otak besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemisfer",
+  "related": [],
+  "detailed": false
+}

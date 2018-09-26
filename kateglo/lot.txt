@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "undian; lotre;"
+      },
+      {
+        "type": "desc",
+        "text": "(Idt) kelompok satuan hasil produksi yang dibuat dengan kondisi yang sama dan berasal dari bahan yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lot",
+  "related": [],
+  "detailed": false
+}

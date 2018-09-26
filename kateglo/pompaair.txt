@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pompa air",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pompa untuk mengisap atau menyemprotkan air;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pompa%20air",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sangkutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gantungan; kaitan;"
+      },
+      {
+        "type": "desc",
+        "text": "halangan; rintangan; hambatan; ganjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "utang;"
+      },
+      {
+        "type": "desc",
+        "text": "pertalian; hubungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sangkutan",
+  "related": [],
+  "detailed": false
+}

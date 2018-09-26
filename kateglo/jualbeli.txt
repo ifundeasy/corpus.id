@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jual beli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persetujuan saling mengikat antara penjual, yakni pihak yang menyerahkan barang, dan pembeli sebagai pihak yang membayar harga barang yang dijual;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual dan membeli;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jual%20beli",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh musiman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang bekerja hanya pada musim-musim tertentu (misal buruh tebang tebu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20musiman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nefroblastoma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumor ginjal yang sangat ganas, biasanya menimpa anak-anak di bawah enam tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nefroblastoma",
+  "related": [],
+  "detailed": false
+}

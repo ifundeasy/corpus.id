@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebakaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peristiwa terbakarnya sesuatu (rumah, hutan, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) terbakar; menderita karena terbakar;"
+      },
+      {
+        "type": "desc",
+        "text": "bahaya api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebakaran",
+  "related": [],
+  "detailed": false
+}

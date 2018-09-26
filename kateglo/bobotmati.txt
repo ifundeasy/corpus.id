@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bobot mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berat keseluruhan, termasuk berat kargo, penumpang, dsb (tentang kapal);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bobot%20mati",
+  "related": [],
+  "detailed": false
+}

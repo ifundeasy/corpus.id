@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simbah",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "bersimbah"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bersimbah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) embah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simbah",
+  "related": [],
+  "detailed": false
+}

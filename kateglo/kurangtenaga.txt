@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurang tenaga",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak bertenaga; tidak kuat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak cukup orang yang bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurang%20tenaga",
+  "related": [],
+  "detailed": false
+}

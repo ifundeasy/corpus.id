@@ -1,0 +1,73 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "cahaya; semarak;"
+      },
+      {
+        "type": "desc",
+        "text": "kemuliaan; keindahan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "cantik; bagus;"
+      },
+      {
+        "type": "desc",
+        "text": "cahaya; semarak;"
+      },
+      {
+        "type": "desc",
+        "text": "kemuliaan; keindahan;"
+      },
+      {
+        "type": "desc",
+        "text": "cantik; bagus;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) yang mulia; sri;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) yang mulia; sri;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyeri"
+      },
+      {
+        "type": "desc",
+        "text": "seimbang; tidak ada yang menang dan tidak ada yang kalah;"
+      },
+      {
+        "type": "desc",
+        "text": "tukar-menukar barang dengan tidak memakai tambahan; tukar guling;"
+      },
+      {
+        "type": "desc",
+        "text": "kedua belah pihak sama-sama mau;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pulang (kembali) pokok (tidak beruntung dan tidak rugi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seri",
+  "related": [],
+  "detailed": false
+}

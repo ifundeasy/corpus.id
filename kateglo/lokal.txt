@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang yang luas;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terjadi (berlaku, ada, dsb) di satu tempat, tidak merata; setempat;"
+      },
+      {
+        "type": "desc",
+        "text": "di suatu tempat (tentang pembuatan, produksi, tumbuh, hidup, dsb); setempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokal",
+  "related": [],
+  "detailed": false
+}

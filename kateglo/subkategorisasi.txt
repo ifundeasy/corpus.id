@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subkategorisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) perincian jenis unsur bahasa yang dapat mewakili sebuah kategori dalam lingkungan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subkategorisasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rekaman grafik dari gambar suatu objek yang dibentuk oleh mikroskop;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menghasilkan salinan, tulisan, cetakan, atau ukiran yang sangat kecil;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membuat tulisan atau rekaman yang sangat kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrograf",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "embun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik-titik air yang jatuh dari udara (terutama pada malam hari);"
+      },
+      {
+        "type": "desc",
+        "text": "uap yang menjadi titik-titik air;"
+      },
+      {
+        "type": "desc",
+        "text": "(Met) endapan tetes air yang terdapat pada benda dekat atau di permukaan tanah yang terbentuk akibat pengembunan uap air dari udara di sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embun",
+  "related": [],
+  "detailed": false
+}

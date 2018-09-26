@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "suka tak suka",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "segan-segan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak peduli; tidak acuh;"
+      },
+      {
+        "type": "desc",
+        "text": "apa boleh buat; mau tidak mau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=suka%20tak%20suka",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekuatan fisik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan yang dimiliki berdasarkan jasmaninya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekuatan%20fisik",
+  "related": [],
+  "detailed": false
+}

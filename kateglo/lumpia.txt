@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lumpia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penganan berupa dadar yang diisi daging, rebung, dsb, lalu digulung dan biasanya digoreng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lumpia",
+  "related": [],
+  "detailed": false
+}

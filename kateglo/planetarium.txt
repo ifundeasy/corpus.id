@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "planetarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan berkubah setengah lingkaran, digunakan untuk memperlihatkan susunan bintang-bintang di langit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=planetarium",
+  "related": [],
+  "detailed": false
+}

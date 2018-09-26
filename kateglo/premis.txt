@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "premis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang dianggap benar sebagai landasan kesimpulan kemudian; dasar pemikiran; alasan;"
+      },
+      {
+        "type": "desc",
+        "text": "asumsi;"
+      },
+      {
+        "type": "desc",
+        "text": "kalimat atau proposisi yang dijadikan dasar penarikan kesimpulan di dalam logika;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=premis",
+  "related": [],
+  "detailed": false
+}

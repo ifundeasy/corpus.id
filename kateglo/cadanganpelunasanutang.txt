@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cadangan pelunasan utang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sejumlah uang yg disisihkan secara teratur untuk melunasi utang jangka panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cadangan%20pelunasan%20utang",
+  "related": [],
+  "detailed": false
+}

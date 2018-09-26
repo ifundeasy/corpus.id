@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan pohon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagan berupa pohon yang mengilustrasikan proses yang memusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20pohon",
+  "related": [],
+  "detailed": false
+}

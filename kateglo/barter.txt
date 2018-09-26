@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdagangan dengan saling bertukar barang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barter",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat lengkap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang mempunyai segala unsur yang paling sering dipakai dalam suatu bahasa, seperti kalimat yang mengandung subjek dan predikat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20lengkap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nanaplankton",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanaman mikroorganisme;"
+      },
+      {
+        "type": "desc",
+        "text": "organisme kecil yang tidak terjaring dengan jala yang tertinggal dalam perairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nanaplankton",
+  "related": [],
+  "detailed": false
+}

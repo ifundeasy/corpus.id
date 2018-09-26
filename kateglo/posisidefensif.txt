@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi defensif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "posisi tempur;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang diduduki pasukan siap tempur atau tempat pertahanan atau perkubuan taktis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20defensif",
+  "related": [],
+  "detailed": false
+}

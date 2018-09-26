@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penduduk asli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang-orang yang turun-temurun tinggal di suatu daerah (kampung dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penduduk%20asli",
+  "related": [],
+  "detailed": false
+}

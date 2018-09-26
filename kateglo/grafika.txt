@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "grafika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang cetak-mencetak (pada kertas atau logam);"
+      },
+      {
+        "type": "desc",
+        "text": "segala cara pengungkapan dan perwujudan dalam bentuk huruf, tanda, dan gambar yang diperbanyak melalui proses percetakan guna disampaikan kepada khalayak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=grafika",
+  "related": [],
+  "detailed": false
+}

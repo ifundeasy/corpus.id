@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berfluktuasi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "turun-naik;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada kemantapan; labil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berfluktuasi",
+  "related": [],
+  "detailed": false
+}

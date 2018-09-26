@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kilowatt",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran tenaga listrik 1.000 watt (disingkat kw);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kilowatt",
+  "related": [],
+  "detailed": false
+}

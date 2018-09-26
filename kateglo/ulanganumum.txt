@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ulangan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ulangan untuk semua mata pelajaran; tes hasil belajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ulangan%20umum",
+  "related": [],
+  "detailed": false
+}

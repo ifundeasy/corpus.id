@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kehadiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal hadir; adanya (seseorang, sekumpulan orang) pada suatu tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kehadiran",
+  "related": [],
+  "detailed": false
+}

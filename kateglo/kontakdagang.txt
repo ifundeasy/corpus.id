@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kontak dagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan dagang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontak%20dagang",
+  "related": [],
+  "detailed": false
+}

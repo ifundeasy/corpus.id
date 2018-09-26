@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "iman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepercayaan (yang berkenaan dengan agama); keyakinan dan kepercayaan kepada Allah, nabi, kitab, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "ketetapan hati; keteguhan batin; keseimbangan batin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iman",
+  "related": [],
+  "detailed": false
+}

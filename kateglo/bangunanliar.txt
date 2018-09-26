@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bangunan liar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan yang didirikan secara tidak sah (tanpa memperoleh izin membangun atau yang didirikan di atas tanah bukan milik sendiri);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangunan%20liar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "erosi awal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkat permulaan erosi, terutama mengenai pembentukan lembah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=erosi%20awal",
+  "related": [],
+  "detailed": false
+}

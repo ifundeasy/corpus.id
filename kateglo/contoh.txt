@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "contoh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang atau sebagian dari barang yang rupa, macam, dan keadaannya sama dengan semua barang yang ada; barang yang dapat mewakili barang yang lain karena sama sifat-sifatnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang akan atau yang disediakan untuk ditiru atau diikuti;"
+      },
+      {
+        "type": "desc",
+        "text": "pola (untuk membatik, membuat pakaian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "model (rumah, pesawat terbang, dsb dalam bentuk kecil untuk memperlihatkan bagaimana rupa rumah, pesawat terbang, dsb sesungguhnya atau yang akan dibuat);"
+      },
+      {
+        "type": "desc",
+        "text": "teladan (tentang kelakuan, perbuatan, dsb); hal (seperti peristiwa) yang menjadi teladan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=contoh",
+  "related": [],
+  "detailed": false
+}

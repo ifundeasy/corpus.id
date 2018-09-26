@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barkas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal api kecil;"
+      },
+      {
+        "type": "link",
+        "text": "berkas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barkas",
+  "related": [],
+  "detailed": false
+}

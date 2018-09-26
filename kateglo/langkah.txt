@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan kaki (ke depan, ke belakang, ke kiri, ke kanan) waktu berjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "jarak antara kedua kaki waktu melangkah ke muka (waktu berjalan);"
+      },
+      {
+        "type": "desc",
+        "text": "sikap; tindak-tanduk; perbuatan;"
+      },
+      {
+        "type": "desc",
+        "text": "tahap; bagian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkah",
+  "related": [],
+  "detailed": false
+}

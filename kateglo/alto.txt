@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alto",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "nada yang mencakup suara terendah wanita dan nada suara tertinggi pria (antara sopran dan tenor);"
+      },
+      {
+        "type": "desc",
+        "text": "orang (penyanyi) bersuara antara sopran dan tenor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alto",
+  "related": [],
+  "detailed": false
+}

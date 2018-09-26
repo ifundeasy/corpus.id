@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "datang (pergi) ke dalam (ruangan, kamar, lingkungan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "datang (pergi) ke tempat bekerja (sekolah dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tergolong; terhitung; terbilang; tercantum;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi (anggota perkumpulan, prajurit, penganut agama, warga negara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "turut serta, mengikuti; turut campur;"
+      },
+      {
+        "type": "desc",
+        "text": "diterima; didapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masuk",
+  "related": [],
+  "detailed": false
+}

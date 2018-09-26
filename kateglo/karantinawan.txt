@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karantinawan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja di karantina;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang dikarantinakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karantinawan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang melambangkan konsonan, seperti m, p, t; huruf konsonan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20mati",
+  "related": [],
+  "detailed": false
+}

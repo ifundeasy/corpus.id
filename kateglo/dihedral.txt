@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dihedral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan dua permukaan datar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dihedral",
+  "related": [],
+  "detailed": false
+}

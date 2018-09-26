@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detenidos",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) orang yang ditahan karena melanggar hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detenidos",
+  "related": [],
+  "detailed": false
+}

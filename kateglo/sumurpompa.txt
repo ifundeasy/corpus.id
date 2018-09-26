@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumur pompa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumur yang memakai pompa (air) untuk menaikkan airnya melalui pipa saluran;"
+      },
+      {
+        "type": "desc",
+        "text": "sumur yang menggunakan perangkat pompa dan batang saluran isap untuk menaikkan minyak dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumur%20pompa",
+  "related": [],
+  "detailed": false
+}

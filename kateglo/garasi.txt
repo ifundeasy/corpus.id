@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah-rumahan atau bagian rumah tempat menyimpan (menaruh) mobil dsb; kandang mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garasi",
+  "related": [],
+  "detailed": false
+}

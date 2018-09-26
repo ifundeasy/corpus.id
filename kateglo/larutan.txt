@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "luluhan (barang cair); enceran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) campuran homogen dari zat terlarut dan zat cair pelarut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan",
+  "related": [],
+  "detailed": false
+}

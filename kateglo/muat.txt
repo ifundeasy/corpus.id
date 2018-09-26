@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada ruang untuk diisi, ditempati, dimasuki, dipakai, dsb; dapat berisi;"
+      },
+      {
+        "type": "desc",
+        "text": "ada di dalamnya, berisi, mengandung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muat",
+  "related": [],
+  "detailed": false
+}

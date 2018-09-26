@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koleksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan (gambar, benda bersejarah, lukisan, dsb) yang sering dikaitkan dengan minat atau hobi objek (yang lengkap);"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan yang berhubungan dengan studi penelitian;"
+      },
+      {
+        "type": "desc",
+        "text": "cara dsb mengumpulkan gambar, benda bersejarah, lukisan, objek penelitian, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koleksi",
+  "related": [],
+  "detailed": false
+}

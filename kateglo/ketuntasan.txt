@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketuntasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal (keadaan) tuntas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) prinsip dalam analisis bahasa yang tujuannya ialah memerinci sampai habis kontras-kontras dalam suatu perangkat data, dan pada akhirnya semua kontras dalam bahasa secara keseluruhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketuntasan",
+  "related": [],
+  "detailed": false
+}

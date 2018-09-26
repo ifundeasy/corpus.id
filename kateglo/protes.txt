@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "protes",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan tidak menyetujui, menentang, menyangkal, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=protes",
+  "related": [],
+  "detailed": false
+}

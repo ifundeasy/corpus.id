@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neuritis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) radang urat saraf yang menyebabkan rasa sakit, kehilangan refleksi, dan penciutan otot;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neuritis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "identifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda kenal diri; bukti diri;"
+      },
+      {
+        "type": "desc",
+        "text": "penentu atau penetapan identitas seseorang, benda, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) proses psikologi yang terjadi pada diri seseorang karena secara tidak sadar dia membayangkan dirinya seperti orang lain yang dikaguminya, lalu dia meniru tingkah laku orang yang dikaguminya itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=identifikasi",
+  "related": [],
+  "detailed": false
+}

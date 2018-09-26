@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gaji pokok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komponen dasar penghasilan seseorang yang digunakan sebagai patokan untuk menghitung komponen lainnya, seperti tunjangan keluarga, tunjangan perumahan, dan insentif; upah dasar (yang belum ditambah dengan tunjangan lain);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gaji%20pokok",
+  "related": [],
+  "detailed": false
+}

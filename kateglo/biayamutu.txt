@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya mutu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang harus dikeluarkan karena tidak langsung melakukan sesuatu dengan benar sejak awal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20mutu",
+  "related": [],
+  "detailed": false
+}

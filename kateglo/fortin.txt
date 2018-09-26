@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fortin",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "barometer"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fortin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun matahari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun syamsiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20matahari",
+  "related": [],
+  "detailed": false
+}

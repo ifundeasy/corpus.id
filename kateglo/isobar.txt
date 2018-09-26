@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isobar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met)"
+      },
+      {
+        "type": "desc",
+        "text": "garis pada peta yang menghubungkan tempat yang sama tekanan udaranya pada waktu tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) garis yang menghubungkan titik bertekanan sama pada grafik variabel termodinamik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isobar",
+  "related": [],
+  "detailed": false
+}

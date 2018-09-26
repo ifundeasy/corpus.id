@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelagat masa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelagat zaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelagat%20masa",
+  "related": [],
+  "detailed": false
+}

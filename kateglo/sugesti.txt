@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sugesti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pendapat yang dikemukakan (untuk dipertimbangkan); anjuran; saran;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaruh dsb yang dapat menggerakkan hati orang dsb; dorongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sugesti",
+  "related": [],
+  "detailed": false
+}

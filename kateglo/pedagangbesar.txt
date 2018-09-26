@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pedagang besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pedagang yang berjualan secara besar-besaran (dengan modal besar); pedagang yang melakukan penyerahan barang kena pajak, bukan sebagai pedagang eceran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pedagang%20besar",
+  "related": [],
+  "detailed": false
+}

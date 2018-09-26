@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emitans",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) daya yang dipancarkan per satuan luas dari suatu permukaan pemancar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emitans",
+  "related": [],
+  "detailed": false
+}

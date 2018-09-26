@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa sesak dalam perut atau dada (karena terlalu kenyang, masuk angin, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sedih; susah (tentang perasaan atau pikiran);"
+      },
+      {
+        "type": "desc",
+        "text": "tergenang dan menjadi penuh (air) karena tidak dapat mengalir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senak",
+  "related": [],
+  "detailed": false
+}

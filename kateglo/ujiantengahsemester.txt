@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian tengah semester",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang diberikan di perguruan tinggi pada waktu pertengahan perkuliahan dalam setiap semester;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20tengah%20semester",
+  "related": [],
+  "detailed": false
+}

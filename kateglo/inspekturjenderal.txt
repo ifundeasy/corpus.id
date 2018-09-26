@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inspektur jenderal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pejabat pemerintah yang memimpin inspektorat jenderal;"
+      },
+      {
+        "type": "desc",
+        "text": "nama pangkat dalam kepolisian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspektur%20jenderal",
+  "related": [],
+  "detailed": false
+}

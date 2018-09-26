@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percetakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (perusahaan) cetak-mencetak (buku dsb); kantor cetak;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal cetak-mencetak; segala sesuatu yang berhubungan dengan cetak-mencetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percetakan",
+  "related": [],
+  "detailed": false
+}

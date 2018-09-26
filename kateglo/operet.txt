@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "operet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "opera ringan (nyanyian dan dialog disuguhkan secara bergantian) dengan unsur roman dan satir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=operet",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terkait",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dikait; tidak sengaja mengait;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dikaitkan;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkut paut (dengan); berhubungan (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "ada kaitannya; ada hubungannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terkait",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bila",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata tanya untuk menanyakan waktu; kapan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak) kalau; jika; apabila;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan tindakan balas dendam (di Aceh);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bila",
+  "related": [],
+  "detailed": false
+}

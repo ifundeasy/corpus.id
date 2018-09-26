@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembuktian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan membuktikan;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha menunjukkan benar atau salahnya si terdakwa dalam sidang pengadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembuktian",
+  "related": [],
+  "detailed": false
+}

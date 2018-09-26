@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bunyi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang terdengar (didengar) atau ditangkap oleh telinga;"
+      },
+      {
+        "type": "desc",
+        "text": "nada; laras (pada alat musik atau nyanyian dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kesan pada pusat saraf sebagai akibat getaran gendangan telinga yang bereaksi karena perubahan-perubahan dalam tekanan udara;"
+      },
+      {
+        "type": "desc",
+        "text": "ucapan apa yang tertulis (surat, huruf, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) sembunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bunyi",
+  "related": [],
+  "detailed": false
+}

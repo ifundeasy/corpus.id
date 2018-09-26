@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kata tugas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kata yang terutama menyatakan hubungan gramatikal yang tidak dapat bergabung dengan afiks, dan tidak mengandung makna leksikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kata%20tugas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baud",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) satuan kecepatan penyaluran data atau informasi melalui saluran telekomunikasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baud",
+  "related": [],
+  "detailed": false
+}

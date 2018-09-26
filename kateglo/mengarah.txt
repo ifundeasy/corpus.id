@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengarah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menuju;"
+      },
+      {
+        "type": "desc",
+        "text": "menghadapi;"
+      },
+      {
+        "type": "desc",
+        "text": "condong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengarah",
+  "related": [],
+  "detailed": false
+}

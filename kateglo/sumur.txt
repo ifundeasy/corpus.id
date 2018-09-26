@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sumur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sumber air buatan, dengan cara menggali tanah; perigi;"
+      },
+      {
+        "type": "desc",
+        "text": "lubang yang sengaja dibuat menembus lapisan tanah untuk memperoleh air, minyak, atau gas;"
+      },
+      {
+        "type": "desc",
+        "text": "lubang hasil pengeboran, baik dalam tahap eksplorasi maupun eksploitasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) bangunan hidraulis berupa lubang yang digali ke dalam bumi yang memungkinkan penyadapan air secara ekonomis dari akuifer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berat hidup",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berat badan ternak pada waktu masih hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berat%20hidup",
+  "related": [],
+  "detailed": false
+}

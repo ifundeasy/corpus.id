@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "blok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gulungan (cita dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "deretan beberapa buah rumah yang tidak terpisah-pisah;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari kampung yang besar yang dibatasi oleh jalan;"
+      },
+      {
+        "type": "desc",
+        "text": "persatuan beberapa negara (partai politik dsb) untuk memperkuat kedudukannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) pemukulan bola sebelum bola memantul ke tanah (dalam olahraga tenis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=blok",
+  "related": [],
+  "detailed": false
+}

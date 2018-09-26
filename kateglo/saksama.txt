@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "saksama",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "teliti; cermat;"
+      },
+      {
+        "type": "desc",
+        "text": "tepat benar; jitu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saksama",
+  "related": [],
+  "detailed": false
+}

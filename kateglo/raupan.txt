@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "raupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil meraup;"
+      },
+      {
+        "type": "desc",
+        "text": "barang apa yang diraup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=raupan",
+  "related": [],
+  "detailed": false
+}

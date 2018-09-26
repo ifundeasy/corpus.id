@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hidroterapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengobatan luar dengan menggunakan air (panas atau dingin);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hidroterapi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pianola",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "piano yang dapat main sendiri (di dalamnya terdapat mekanik khusus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pianola",
+  "related": [],
+  "detailed": false
+}

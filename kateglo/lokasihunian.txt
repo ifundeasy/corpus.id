@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lokasi hunian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lokasi perumahan atau tempat tinggal (bukan per;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokasi%20hunian",
+  "related": [],
+  "detailed": false
+}

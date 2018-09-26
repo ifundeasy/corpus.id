@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lemak hewani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lemak yang berasal dari hewan ternak, ikan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lemak%20hewani",
+  "related": [],
+  "detailed": false
+}

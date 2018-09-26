@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilik tempat tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20tidur",
+  "related": [],
+  "detailed": false
+}

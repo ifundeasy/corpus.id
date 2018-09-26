@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cuti",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meninggalkan pekerjaan beberapa waktu secara resmi untuk beristirahat dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "libur; vakansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuti",
+  "related": [],
+  "detailed": false
+}

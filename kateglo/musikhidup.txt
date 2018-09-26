@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musik hidup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik dengan instrumen yang dimainkan (bukan rekaman); mereka menari dengan iringan -- hidup;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musik%20hidup",
+  "related": [],
+  "detailed": false
+}

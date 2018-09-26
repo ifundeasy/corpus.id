@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "redaktur malam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota redaksi yang ditugasi mengepalai atau bertanggung jawab pada malam hari dan ditugasi mempersiapkan naskah akhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=redaktur%20malam",
+  "related": [],
+  "detailed": false
+}

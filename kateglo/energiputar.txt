@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi putar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga yang ditimbulkan dengan pemutaran sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20putar",
+  "related": [],
+  "detailed": false
+}

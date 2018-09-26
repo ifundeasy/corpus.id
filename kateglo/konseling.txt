@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konseling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemberian bimbingan oleh yang ahli kepada seseorang dengan menggunakan metode psikologis dsb; pengarahan;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian bantuan oleh konselor kepada konseli sedemikian rupa sehingga pemahaman terhadap kemampuan diri sendiri meningkat dalam memecahkan berbagai masalah; penyuluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konseling",
+  "related": [],
+  "detailed": false
+}

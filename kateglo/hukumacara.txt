@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukum yang menentukan proses pengadilan dalam penyelesaian sengketa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20acara",
+  "related": [],
+  "detailed": false
+}

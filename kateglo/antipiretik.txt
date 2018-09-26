@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antipiretik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat penurun demam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antipiretik",
+  "related": [],
+  "detailed": false
+}

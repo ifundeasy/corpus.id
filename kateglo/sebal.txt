@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sebal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kesal (hati); mendongkol (karena kecewa, tidak senang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sial; tidak mujur;"
+      },
+      {
+        "type": "link",
+        "text": "menyebal"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sebal",
+  "related": [],
+  "detailed": false
+}

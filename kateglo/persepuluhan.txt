@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persepuluhan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perhitungan (ukuran dsb) yang berdasar sepuluh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kris) perpuluhan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persepuluhan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pleidoi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato pembelaan terhadap terdakwa yang dibacakan oleh advokat (pembela) atau terdakwa sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pleidoi",
+  "related": [],
+  "detailed": false
+}

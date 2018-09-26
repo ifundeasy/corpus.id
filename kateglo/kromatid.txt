@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kromatid",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "dua benang halus yang membentuk kromosom yang mudah diwarnai;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian nukleus sel berwarna lebih gelap yang membentuk anyaman halus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kromatid",
+  "related": [],
+  "detailed": false
+}

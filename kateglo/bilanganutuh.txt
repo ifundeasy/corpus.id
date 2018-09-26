@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan utuh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang menyatakan jumlah satuan secara penuh; bilangan bulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20utuh",
+  "related": [],
+  "detailed": false
+}

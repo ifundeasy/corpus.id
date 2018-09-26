@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stepa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah datar yang luas dan kering yang di sana-sini hanya dapat ditumbuhi belukar;"
+      },
+      {
+        "type": "desc",
+        "text": "padang rumput yang luas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stepa",
+  "related": [],
+  "detailed": false
+}

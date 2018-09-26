@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kempunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal sangat ingin (akan); keadaan selalu ingat karena sangat ingin (akan);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam kesukaran (kebingungan, kebimbangan, serba salah, merugi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan merasa sangat celaka (karena kecewa sekali dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kempunan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batas cair",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tan) kandungan air maksimum dalam tanah tempat tanah mulai bersifat, seperti cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batas%20cair",
+  "related": [],
+  "detailed": false
+}

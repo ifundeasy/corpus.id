@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makanan tunagiri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "makanan yang berkalori tinggi, tetapi kandungan gizinya rendah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makanan%20tunagiri",
+  "related": [],
+  "detailed": false
+}

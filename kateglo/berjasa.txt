@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbuat jasa; telah berbuat kebaikan kepada negara dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berguna; berfaedah;"
+      },
+      {
+        "type": "desc",
+        "text": "merasa senang (karena ...);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjasa",
+  "related": [],
+  "detailed": false
+}

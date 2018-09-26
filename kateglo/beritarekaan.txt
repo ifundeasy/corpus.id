@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berita rekaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang dibuat-buat untuk tujuan tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berita%20rekaan",
+  "related": [],
+  "detailed": false
+}

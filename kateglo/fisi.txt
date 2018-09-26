@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembelahan sel, misal pembelahan organisme bersel tunggal menjadi dua sel yang sama;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) pembelahan inti atom menjadi inti-inti atom baru yang lebih ringan sambil melepaskan energi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisi",
+  "related": [],
+  "detailed": false
+}

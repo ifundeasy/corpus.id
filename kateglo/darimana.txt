@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dari mana",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "kata untuk menanyakan arah ke pembicara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dari%20mana",
+  "related": [],
+  "detailed": false
+}

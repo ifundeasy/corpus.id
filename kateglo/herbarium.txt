@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "herbarium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekumpulan contoh tumbuhan yang dikeringkan (diawetkan), diberi nama, disimpan, dan diatur berdasarkan sistem klasifikasi, digunakan dalam penelitian botani;"
+      },
+      {
+        "type": "desc",
+        "text": "kotak, kamar, atau gedung untuk menyimpan kumpulan contoh tumbuhan yang dikeringkan (diawetkan), disimpan dan diklasifikasikan, digunakan dalam penelitian botani;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=herbarium",
+  "related": [],
+  "detailed": false
+}

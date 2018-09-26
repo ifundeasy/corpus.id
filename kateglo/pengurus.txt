@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang(-orang) yang mengurus;"
+      },
+      {
+        "type": "desc",
+        "text": "sekelompok orang yang mengurus dan memimpin perkumpulan (partai dsb); pemimpin; direksi;"
+      },
+      {
+        "type": "desc",
+        "text": "penyelenggara (pertemuan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelajuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal laju; kecepatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelajuan",
+  "related": [],
+  "detailed": false
+}

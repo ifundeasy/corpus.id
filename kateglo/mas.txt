@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "emas;"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan untuk saudara tua laki-laki atau laki-laki yang dianggap lebih tua;"
+      },
+      {
+        "type": "desc",
+        "text": "kata sapaan hormat untuk laki-laki, tanpa memandang usia;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan karib istri kepada suami; bang; kak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mas",
+  "related": [],
+  "detailed": false
+}

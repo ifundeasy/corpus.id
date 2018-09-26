@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "opsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tindakan memilih;"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan atau hak memilih; kebebasan memilih;"
+      },
+      {
+        "type": "desc",
+        "text": "pilihan dari sejumlah alternatif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=opsi",
+  "related": [],
+  "detailed": false
+}

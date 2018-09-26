@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perilaku tanpa arah dan apatis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) keadaan masyarakat yang ditandai oleh pandangan sinis (negatif) terhadap sistem norma, hilangnya kewibawaan hukum, dan disorganisasi hubungan antara manusia;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) gejala ketidakseimbangan psikologis yang dapat melahirkan perilaku menyimpang dalam berbagai manifestasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anomi",
+  "related": [],
+  "detailed": false
+}

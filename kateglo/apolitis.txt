@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apolitis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berminat pada politik;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bersifat politis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apolitis",
+  "related": [],
+  "detailed": false
+}

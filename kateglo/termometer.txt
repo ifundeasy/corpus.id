@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ukur suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termometer",
+  "related": [],
+  "detailed": false
+}

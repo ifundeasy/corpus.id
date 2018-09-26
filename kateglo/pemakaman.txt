@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemakaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mengubur; pekuburan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memakamkan; penguburan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemakaman",
+  "related": [],
+  "detailed": false
+}

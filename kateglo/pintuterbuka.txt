@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pintu terbuka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "resepsi informal di sebuah rumah dengan tamu yang bebas datang dan pergi;"
+      },
+      {
+        "type": "desc",
+        "text": "waktu yang disediakan secara terbuka untuk kunjungan ke sekolah, lembaga, dsb untuk kegiatan seperti inspeksi dan observasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintu%20terbuka",
+  "related": [],
+  "detailed": false
+}

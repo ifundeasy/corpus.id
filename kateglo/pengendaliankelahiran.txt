@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengendalian kelahiran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengaturan jumlah anak yang dilahirkan dengan metode tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengendalian%20kelahiran",
+  "related": [],
+  "detailed": false
+}

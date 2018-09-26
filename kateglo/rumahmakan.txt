@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah makan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedai tempat makan (menjual makanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20makan",
+  "related": [],
+  "detailed": false
+}

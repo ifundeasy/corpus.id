@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah kesenian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil kesenian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20kesenian",
+  "related": [],
+  "detailed": false
+}

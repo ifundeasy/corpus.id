@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manila",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "itik"
+      },
+      {
+        "type": "link",
+        "text": "bunga"
+      },
+      {
+        "type": "desc",
+        "text": "pohon yang buahnya enak dimakan sehingga banyak ditanam;"
+      },
+      {
+        "type": "desc",
+        "text": "kertas tebal untuk kulit (sampul) buku dsb;"
+      },
+      {
+        "type": "link",
+        "text": "serat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manila",
+  "related": [],
+  "detailed": false
+}

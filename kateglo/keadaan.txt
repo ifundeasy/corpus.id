@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keadaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat; perihal (suatu benda);"
+      },
+      {
+        "type": "desc",
+        "text": "suasana; situasi yang sedang berlaku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keadaan",
+  "related": [],
+  "detailed": false
+}

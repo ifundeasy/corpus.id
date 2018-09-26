@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lab",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kp) →"
+      },
+      {
+        "type": "link",
+        "text": "laboratorium"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lab",
+  "related": [],
+  "detailed": false
+}

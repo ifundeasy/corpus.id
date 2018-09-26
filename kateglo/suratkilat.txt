@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat kilat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat yang harus disampaikan dengan segera;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20kilat",
+  "related": [],
+  "detailed": false
+}

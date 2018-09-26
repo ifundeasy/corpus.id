@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rinai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "gerimis; rintik-rintik; tetes-tetes (tentang hujan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "merinai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rinai",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintas udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(diangkut) melalui udara;"
+      },
+      {
+        "type": "desc",
+        "text": "jalur lalu lintas penerbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintas%20udara",
+  "related": [],
+  "detailed": false
+}

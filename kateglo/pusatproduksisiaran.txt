@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat produksi siaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) tempat pembuatan siaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20produksi%20siaran",
+  "related": [],
+  "detailed": false
+}

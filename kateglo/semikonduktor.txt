@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "semikonduktor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang bekerja seperti tabung elektron;"
+      },
+      {
+        "type": "desc",
+        "text": "materi yang mempunyai daya hantar listrik antara konduktor dan isolator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=semikonduktor",
+  "related": [],
+  "detailed": false
+}

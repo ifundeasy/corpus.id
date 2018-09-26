@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masuk sekolah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi ke sekolah (untuk belajar);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi murid (di sekolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masuk%20sekolah",
+  "related": [],
+  "detailed": false
+}

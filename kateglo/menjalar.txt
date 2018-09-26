@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjalar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berjalan melata (tentang binatang yang panjang seperti ular);"
+      },
+      {
+        "type": "desc",
+        "text": "merambat (tentang tumbuhan yang berpokok panjang seperti rotan);"
+      },
+      {
+        "type": "desc",
+        "text": "menular (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "merembet (tentang api);"
+      },
+      {
+        "type": "desc",
+        "text": "meluas; merata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjalar",
+  "related": [],
+  "detailed": false
+}

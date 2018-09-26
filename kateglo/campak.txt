@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "campak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "lempar;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit menular yang disebabkan oleh virus yang mengakibatkan suhu badan naik, menimbulkan bintik-bintik merah pada kulit; penyakit tampek; morbilli; rubeola; rubella;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=campak",
+  "related": [],
+  "detailed": false
+}

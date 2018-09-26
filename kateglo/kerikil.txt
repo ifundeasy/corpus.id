@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerikil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "butiran batu lebih besar daripada pasir dan lebih kecil daripada kerakal (kira-kira sebesar biji kacang tanah atau biji nangka);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) endapan batuan yang komponennya bulat, biasanya bercampur dengan tanah liat dan pasir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerikil",
+  "related": [],
+  "detailed": false
+}

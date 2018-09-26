@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berjalan darat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bepergian melalui darat (tidak naik kapal laut atau kapal terbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berjalan%20darat",
+  "related": [],
+  "detailed": false
+}

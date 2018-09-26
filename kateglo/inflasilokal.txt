@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inflasi lokal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "inflasi yang melanda suatu daerah tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inflasi%20lokal",
+  "related": [],
+  "detailed": false
+}

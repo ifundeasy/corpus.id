@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "telah rapat sempurna (tentang anyaman);"
+      },
+      {
+        "type": "desc",
+        "text": "telah mendapat kata sepakat (tentang perundingan);"
+      },
+      {
+        "type": "desc",
+        "text": "telah menjadi satu (bulat, utuh);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis pukulan dalam tinju, lurus dan pendek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jap",
+  "related": [],
+  "detailed": false
+}

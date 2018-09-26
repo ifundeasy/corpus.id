@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terbitan saku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "edisi, biasanya edisi ulang yang bentuk fisiknya seperti buku saku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terbitan%20saku",
+  "related": [],
+  "detailed": false
+}

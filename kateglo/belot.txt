@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belot",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "membelot"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belot",
+  "related": [],
+  "detailed": false
+}

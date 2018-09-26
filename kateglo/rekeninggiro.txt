@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rekening giro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) rekening bank yang menatausahakan dana yang sewaktu-waktu dapat ditarik atau disetor oleh nasabah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekening%20giro",
+  "related": [],
+  "detailed": false
+}

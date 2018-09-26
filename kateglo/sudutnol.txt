@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sudut nol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) sudut yang dibentuk oleh dua sinar yang berasal dari titik yang sama dan dalam arah yang sama sehingga keduanya berimpit; sudut yang besarnya 0o;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sudut%20nol",
+  "related": [],
+  "detailed": false
+}

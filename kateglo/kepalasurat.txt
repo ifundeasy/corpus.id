@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepala surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama, alamat, dan keterangan lain dari pengirim (biasanya dari suatu lembaga atau kantor) yang tertera (tercetak) pada bagian atas kertas surat; kop surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepala%20surat",
+  "related": [],
+  "detailed": false
+}

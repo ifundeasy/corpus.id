@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imperfek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak sempurna;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imperfek",
+  "related": [],
+  "detailed": false
+}

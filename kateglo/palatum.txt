@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palatum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "bangun tulang cekung yang membentuk atap mulut di belakang alveolus;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) tulang yang terdapat pada langit-langit mulut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palatum",
+  "related": [],
+  "detailed": false
+}

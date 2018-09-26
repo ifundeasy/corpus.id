@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepekaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal peka; perihal mudah bergerak (tentang neraca, timbangan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) kesanggupan bereaksi terhadap suatu keadaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepekaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aglutinin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "substansi yang dapat menyebabkan penggumpalan bakteri atau sel darah merah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) sekumpulan senyawa yang terbentuk dalam darah akibat inokulasi atau infeksi bakteri yang dapat menyebabkan penggumpalan bersama bakteri itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aglutinin",
+  "related": [],
+  "detailed": false
+}

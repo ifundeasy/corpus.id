@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bantu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tolong;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penolong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantu",
+  "related": [],
+  "detailed": false
+}

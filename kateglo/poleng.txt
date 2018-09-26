@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "poleng",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "bercorak kotak-kotak, seperti papan catur;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sd) garis-garis hiasan (misal pada kain, tikar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=poleng",
+  "related": [],
+  "detailed": false
+}

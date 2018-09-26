@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "embung",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(Sd)"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) anak laki-laki yang sulung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embung",
+  "related": [],
+  "detailed": false
+}

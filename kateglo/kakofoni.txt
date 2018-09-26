@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kakofoni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "suara (musik) yang sumbang atau kasar sehingga menyakitkan pendengaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) rangkaian bunyi yang tidak harmonis yang sengaja digunakan dalam puisi untuk mendapatkan efek artistik atau menggoda perhatian pembaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kakofoni",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "taut",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "bertaut"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tali yang diberi berkail (untuk menangkap ikan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=taut",
+  "related": [],
+  "detailed": false
+}

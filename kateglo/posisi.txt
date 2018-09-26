@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "posisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "letak;"
+      },
+      {
+        "type": "desc",
+        "text": "jabatan; pangkat (dalam jabatan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi",
+  "related": [],
+  "detailed": false
+}

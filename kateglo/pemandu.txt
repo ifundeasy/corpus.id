@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penunjuk jalan (di hutan);"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang memandu sesuatu (dalam diskusi dsb); moderator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandu",
+  "related": [],
+  "detailed": false
+}

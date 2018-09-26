@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "telegram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berita yang dikirim dengan telegraf; kabar kawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telegram",
+  "related": [],
+  "detailed": false
+}

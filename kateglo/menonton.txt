@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menonton",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat (pertunjukan, gambar hidup, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menonton",
+  "related": [],
+  "detailed": false
+}

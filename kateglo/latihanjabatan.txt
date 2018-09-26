@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "latihan jabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) latihan untuk meningkatkan mutu, keahlian, kemampuan, dan keterampilan (dilakukan setelah dan selama menduduki jabatan atau pekerjaan tertentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latihan%20jabatan",
+  "related": [],
+  "detailed": false
+}

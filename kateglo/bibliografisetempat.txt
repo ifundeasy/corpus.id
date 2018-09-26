@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi setempat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi buku atau bentuk lainnya yang berhubungan dengan daerah geografi yang lebih kecil dari suatu wilayah (kabupaten);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20setempat",
+  "related": [],
+  "detailed": false
+}

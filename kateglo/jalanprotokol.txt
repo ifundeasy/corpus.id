@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jalan protokol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan utama di kota-kota besar; jalan yang menjadi pusat keramaian lalu lintas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalan%20protokol",
+  "related": [],
+  "detailed": false
+}

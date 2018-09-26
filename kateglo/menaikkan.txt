@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menaikkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan naik (meningkat, bertambah banyak, bertambah besar, dsb); meninggikan;"
+      },
+      {
+        "type": "desc",
+        "text": "mengibarkan (tentang bendera);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan (harga, pajak, pangkat, gaji, dsb) bertambah tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "menjadikan (penumpang, barang) naik (masuk ke) kendaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menaikkan",
+  "related": [],
+  "detailed": false
+}

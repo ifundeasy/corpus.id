@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung; rumah (umum); kantor;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) rumah (dalam lingkungan istana);"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) pekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai",
+  "related": [],
+  "detailed": false
+}

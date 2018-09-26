@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berada di tengah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medial",
+  "related": [],
+  "detailed": false
+}

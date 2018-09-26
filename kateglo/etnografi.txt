@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "etnografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deskripsi tentang kebudayaan suku-suku bangsa yang hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang pelukisan kebudayaan suku-suku bangsa yang hidup tersebar di muka bumi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=etnografi",
+  "related": [],
+  "detailed": false
+}

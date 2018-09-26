@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bengal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pekak atau tuli sementara (karena ditampar, menelan pil kinine, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak mau mengindahkan nasihat dsb; keras kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) nakal; suka mengganggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bengal",
+  "related": [],
+  "detailed": false
+}

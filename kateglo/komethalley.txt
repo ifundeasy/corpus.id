@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "komet Halley",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komet berekor yang ditemukan oleh Halley;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komet%20Halley",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prefiks",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) imbuhan yang ditambahkan pada bagian awal sebuah kata dasar atau bentuk dasar; awalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prefiks",
+  "related": [],
+  "detailed": false
+}

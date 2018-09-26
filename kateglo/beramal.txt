@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beramal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berbuat kebajikan; memberi sumbangan atau bantuan kepada orang miskin, organisasi sosial, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan sesuatu yang baik, seperti memberi nasihat, bekerja untuk kepentingan masyarakat, mengajarkan ilmu, mengaji;"
+      },
+      {
+        "type": "desc",
+        "text": "berdoa, memohon kepada Tuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "berbuat amal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beramal",
+  "related": [],
+  "detailed": false
+}

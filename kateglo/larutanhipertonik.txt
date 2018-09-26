@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "larutan hipertonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "larutan dengan tekanan osmotik yang lebih tinggi daripada tekanan osmotik cairan tubuh, darah, atau larutan pembanding;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larutan%20hipertonik",
+  "related": [],
+  "detailed": false
+}

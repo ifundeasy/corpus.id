@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reseptif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mau (dapat) menerima;"
+      },
+      {
+        "type": "desc",
+        "text": "terbuka dan tanggap terhadap pendapat, saran, dan anjuran orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat menerima;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reseptif",
+  "related": [],
+  "detailed": false
+}

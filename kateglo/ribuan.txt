@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ribuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan ribu;"
+      },
+      {
+        "type": "desc",
+        "text": "beribu-ribu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ribuan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kucing siam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kucing anggora;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kucing%20siam",
+  "related": [],
+  "detailed": false
+}

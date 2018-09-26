@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jk)"
+      },
+      {
+        "type": "desc",
+        "text": "benang emas;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) sudah tercapai nilai yang ditentukan dalam permainan (menyatakan permainan selesai karena nilai yang ditentukan telah tercapai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gim",
+  "related": [],
+  "detailed": false
+}

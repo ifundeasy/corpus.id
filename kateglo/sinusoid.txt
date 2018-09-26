@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinusoid",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Anat) ruangan berisi darah dalam limpa, pankreas, dan hepar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinusoid",
+  "related": [],
+  "detailed": false
+}

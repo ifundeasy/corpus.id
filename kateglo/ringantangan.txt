@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ringan tangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "suka menolong (membantu); lekas berbuat sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "suka memukul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ringan%20tangan",
+  "related": [],
+  "detailed": false
+}

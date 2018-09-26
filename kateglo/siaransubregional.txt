@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran subregional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran yang ditujukan kepada suatu daerah terbatas yang menyiarkan keterangan meteorologi terpilih di bagian daerah dan daerah yang berdekatan dengan daerah itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20subregional",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alih wilayah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "perpindahan wilayah (kerja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alih%20wilayah",
+  "related": [],
+  "detailed": false
+}

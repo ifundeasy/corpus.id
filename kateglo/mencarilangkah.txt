@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mencari langkah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mencari saat yang baik untuk berangkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mencari%20langkah",
+  "related": [],
+  "detailed": false
+}

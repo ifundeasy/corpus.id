@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "desc",
+        "text": "panas badan (karena berkeringat); gerah;"
+      },
+      {
+        "type": "desc",
+        "text": "panas hati; marah; merasa benci; kesal;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat berani; nekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palak",
+  "related": [],
+  "detailed": false
+}

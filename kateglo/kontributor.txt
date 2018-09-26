@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontributor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyumbang (karangan kepada majalah);"
+      },
+      {
+        "type": "desc",
+        "text": "penderma; penyokong (uang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontributor",
+  "related": [],
+  "detailed": false
+}

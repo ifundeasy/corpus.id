@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gagang telepon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian pesawat telepon yang diangkat ketika hendak menelepon atau menerima panggilan telepon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagang%20telepon",
+  "related": [],
+  "detailed": false
+}

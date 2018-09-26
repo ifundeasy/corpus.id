@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cuci darah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Dok) proses membersihkan darah dengan teknik tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cuci%20darah",
+  "related": [],
+  "detailed": false
+}

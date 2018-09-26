@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inhibisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "hambatan bagi otot-otot dalam bekerja;"
+      },
+      {
+        "type": "desc",
+        "text": "larangan; pencegahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inhibisi",
+  "related": [],
+  "detailed": false
+}

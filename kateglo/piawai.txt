@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "piawai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pandai; cakap; mampu;"
+      },
+      {
+        "type": "desc",
+        "text": "betul (tentang anak timbangan); bungkal yang -- , anak timbangan yang betul;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) adil (tentang pertimbangan, putusan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=piawai",
+  "related": [],
+  "detailed": false
+}

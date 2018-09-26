@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tambangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perahu tambang;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat menyeberangkan orang dengan perahu tambang;"
+      },
+      {
+        "type": "desc",
+        "text": "ongkos tambang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambangan",
+  "related": [],
+  "detailed": false
+}

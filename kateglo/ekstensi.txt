@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstensi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpanjangan waktu, seperti masa berlakunya visa;"
+      },
+      {
+        "type": "desc",
+        "text": "perluasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hal-hal yang ditunjukkan oleh ungkapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstensi",
+  "related": [],
+  "detailed": false
+}

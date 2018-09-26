@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "indeks daur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) variasi indeks peredaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=indeks%20daur",
+  "related": [],
+  "detailed": false
+}

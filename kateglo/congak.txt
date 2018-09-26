@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "congak",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "mencongak"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "taksiran yang dibuat dalam kepala saja, tidak ditulis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=congak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "macam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jenis; rupa;"
+      },
+      {
+        "type": "desc",
+        "text": "cara;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(se)bagai; seperti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=macam",
+  "related": [],
+  "detailed": false
+}

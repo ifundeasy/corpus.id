@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinonimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan antara bentuk bahasa yang mirip atau sama maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinonimi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menjepit (mencabut, memotong) paku dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kaleng dipukul;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak) tentang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tang",
+  "related": [],
+  "detailed": false
+}

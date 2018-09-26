@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prolegomena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata pengantar yang memberikan uraian mengenai tulisan atau karangan ilmiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prolegomena",
+  "related": [],
+  "detailed": false
+}

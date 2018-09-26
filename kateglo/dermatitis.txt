@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dermatitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "radang kulit (disebabkan oleh bakteri, jamur, alergi, dsb) yang disertai rasa gatal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dermatitis",
+  "related": [],
+  "detailed": false
+}

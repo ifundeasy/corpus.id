@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "energi geotermal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) panas yang terdapat di dalam bumi yang digunakan sebagai pembangkit tenaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=energi%20geotermal",
+  "related": [],
+  "detailed": false
+}

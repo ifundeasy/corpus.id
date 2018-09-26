@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pening pikat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "agak pening;"
+      },
+      {
+        "type": "desc",
+        "text": "agak pening;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pening%20pikat",
+  "related": [],
+  "detailed": false
+}

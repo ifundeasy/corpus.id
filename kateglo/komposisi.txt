@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan;"
+      },
+      {
+        "type": "desc",
+        "text": "tata susun;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) gubahan, baik instrumental maupun vokal;"
+      },
+      {
+        "type": "desc",
+        "text": "teknik menyusun karangan agar diperoleh cerita yang indah dan selaras;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) integrasi warna, garis, dan bidang untuk mencapai kesatuan yang harmonis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komposisi",
+  "related": [],
+  "detailed": false
+}

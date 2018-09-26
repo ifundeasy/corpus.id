@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lokalis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang gaya bicara dan gaya perilakunya memperlihatkan kekhasan daerah tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang ruang lingkup pengetahuannya hanya seluas daerahnya sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lokalis",
+  "related": [],
+  "detailed": false
+}

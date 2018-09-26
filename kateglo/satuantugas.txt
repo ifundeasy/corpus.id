@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "satuan tugas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sekelompok orang yang mempunyai kegiatan atau tugas yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=satuan%20tugas",
+  "related": [],
+  "detailed": false
+}

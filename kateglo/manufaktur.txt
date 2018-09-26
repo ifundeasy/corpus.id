@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "manufaktur",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat atau menghasilkan dengan tangan atau mesin;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses mengubah bahan mentah menjadi barang untuk dapat digunakan atau dikonsumsi oleh manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manufaktur",
+  "related": [],
+  "detailed": false
+}

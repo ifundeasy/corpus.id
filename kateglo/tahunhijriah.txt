@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun Hijriah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tahun (kalender) yang perhitungannya dimulai sejak Nabi Muhammad saw. hijrah dari kota Mekah ke kota Medinah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20Hijriah",
+  "related": [],
+  "detailed": false
+}

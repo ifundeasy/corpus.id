@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pandialektal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) tentang ciri bahasa, kaidah linguistik, dsb yang dapat diberlakukan pada semua dialek dari suatu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pandialektal",
+  "related": [],
+  "detailed": false
+}

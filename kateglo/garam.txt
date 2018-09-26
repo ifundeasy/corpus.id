@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "garam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "senyawa kristalin NaCl yang merupakan klorida dan sodium, dapat larut dalam air, dan asin rasanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) hasil reaksi asam dengan basa, yaitu satu atau lebih atom hidrogen pada asam diganti oleh satu atau lebih kation suatu basa;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pupuk (obat dsb) yang rupanya seperti garam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garam",
+  "related": [],
+  "detailed": false
+}

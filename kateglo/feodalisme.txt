@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "feodalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem sosial atau politik yang memberikan kekuasaan yang besar kepada golongan bangsawan;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem sosial yang mengagung-agungkan jabatan atau pangkat dan bukan mengagung-agungkan prestasi kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem sosial di Eropa pada Abad Pertengahan yang ditandai oleh kekuasaan yang besar di tangan tuan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=feodalisme",
+  "related": [],
+  "detailed": false
+}

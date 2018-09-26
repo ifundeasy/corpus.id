@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memeriksa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melihat dengan teliti untuk mengetahui keadaan (baik tidaknya, salah benarnya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyelidiki untuk mengetahui sesuatu (untuk mempelajari, mencari pengetahuan, dsb); menelaah (suatu hal, peristiwa, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menanyai orang untuk mengetahui salah tidaknya dsb; mengusut (perkara); mempertimbangkan dan mengadili (perkara);"
+      },
+      {
+        "type": "desc",
+        "text": "mengontrol; mengawasi; mengamati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memeriksa",
+  "related": [],
+  "detailed": false
+}

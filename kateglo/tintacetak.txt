@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinta cetak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tinta untuk mencetak (buku dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinta%20cetak",
+  "related": [],
+  "detailed": false
+}

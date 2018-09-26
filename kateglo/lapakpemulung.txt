@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lapak pemulung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tempat para pemulung mengumpulkan barang bekas (seperti barang plastik, kaleng, besi, kardus);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lapak%20pemulung",
+  "related": [],
+  "detailed": false
+}

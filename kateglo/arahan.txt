@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petunjuk untuk melaksanakan sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "perintah resmi seorang pemimpin perusahaan kepada bawahannya yang berupa petunjuk untuk melaksanakan sesuatu dan jika tidak dilaksanakan akan mendapat sanksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prestasi belajar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penguasaan pengetahuan atau keterampilan yang dikembangkan melalui mata pelajaran, lazimnya ditunjukkan dengan nilai tes atau angka nilai yang diberikan oleh guru;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prestasi%20belajar",
+  "related": [],
+  "detailed": false
+}

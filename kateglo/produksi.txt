@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "produksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses mengeluarkan hasil; penghasilan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil;"
+      },
+      {
+        "type": "desc",
+        "text": "pembuatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=produksi",
+  "related": [],
+  "detailed": false
+}

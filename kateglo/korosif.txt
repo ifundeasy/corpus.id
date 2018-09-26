@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korosif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Far)"
+      },
+      {
+        "type": "desc",
+        "text": "obat yang mengikis jaringan organ secara kimia atau secara peradangan;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan yang menyebabkan pengikisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korosif",
+  "related": [],
+  "detailed": false
+}

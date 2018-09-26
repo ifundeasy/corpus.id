@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) kapal Siam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sum",
+  "related": [],
+  "detailed": false
+}

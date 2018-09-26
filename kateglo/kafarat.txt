@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kafarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "denda yang harus dibayar karena melanggar larangan Allah atau melanggar janji;"
+      },
+      {
+        "type": "desc",
+        "text": "persembahan kepada Allah sebagai tanda mohon pengampunan (karena telah melanggar hukum-Nya);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak percaya kepada Allah dan rasul-Nya; keparat; kafir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kafarat",
+  "related": [],
+  "detailed": false
+}

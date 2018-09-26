@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekering",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sekring"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekering",
+  "related": [],
+  "detailed": false
+}

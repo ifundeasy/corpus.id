@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perpustakaan filial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perpustakaan yang merupakan bagian sebuah sistem perpustakaan, tetapi mempunyai dewan manajemen sendiri dan tidak dikelola sebagai sistem tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perpustakaan%20filial",
+  "related": [],
+  "detailed": false
+}

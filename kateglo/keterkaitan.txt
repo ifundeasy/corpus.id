@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterkaitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (perbuatan) terkait;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan (seseorang, badan, dsb) yang belum dapat mandiri, ketergantungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterkaitan",
+  "related": [],
+  "detailed": false
+}

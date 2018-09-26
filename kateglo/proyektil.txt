@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "proyektil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda yang ditembakkan dengan meriam dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=proyektil",
+  "related": [],
+  "detailed": false
+}

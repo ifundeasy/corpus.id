@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "celana pendek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "celana yang pendek (hanya sampai ke atas lutut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=celana%20pendek",
+  "related": [],
+  "detailed": false
+}

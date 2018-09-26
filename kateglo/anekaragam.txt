@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aneka ragam",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berbagai ragam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aneka%20ragam",
+  "related": [],
+  "detailed": false
+}

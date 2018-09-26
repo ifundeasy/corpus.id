@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akhir minggu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari Sabtu petang (sore) sampai dengan hari Ahad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akhir%20minggu",
+  "related": [],
+  "detailed": false
+}

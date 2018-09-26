@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "judul bawah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "judul serta yang dibubuhkan di bawah ilustrasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=judul%20bawah",
+  "related": [],
+  "detailed": false
+}

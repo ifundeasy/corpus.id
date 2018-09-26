@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stipendium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kat) sumbangan umat berupa uang kepada gereja apabila umat minta intensi misa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stipendium",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,47 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "timbul",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "naik dan keluar ke atas (dari dalam air, tanah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyembul sedikit dari permukaan yang rata;"
+      },
+      {
+        "type": "desc",
+        "text": "terbit (bulan, matahari, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "terbit (tentang penyakit, pertikaian, perasaan, pikiran, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tampak; muncul; keluar (dari semak-semak, hutan, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "penimbul"
+      },
+      {
+        "type": "desc",
+        "text": "pohon keluih, buahnya dapat disayur; Artocarpus communis;"
+      },
+      {
+        "type": "desc",
+        "text": "buah keluih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=timbul",
+  "related": [],
+  "detailed": false
+}

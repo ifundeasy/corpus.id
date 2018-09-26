@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "edukatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat mendidik;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan pendidikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edukatif",
+  "related": [],
+  "detailed": false
+}

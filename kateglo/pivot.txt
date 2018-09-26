@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pivot",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "putaran;"
+      },
+      {
+        "type": "desc",
+        "text": "poros; inti;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berputar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pivot",
+  "related": [],
+  "detailed": false
+}

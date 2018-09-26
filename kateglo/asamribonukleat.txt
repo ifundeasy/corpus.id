@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asam ribonukleat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asam nukleat yang terdiri atas adenin, sitosin, dan urasil yang terdapat pada inti sel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asam%20ribonukleat",
+  "related": [],
+  "detailed": false
+}

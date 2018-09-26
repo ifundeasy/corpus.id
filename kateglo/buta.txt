@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "buta",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak dapat melihat karena rusak matanya; tunanetra;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak tahu (mengerti) sedikit pun tentang sesuatu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw) raksasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buta",
+  "related": [],
+  "detailed": false
+}

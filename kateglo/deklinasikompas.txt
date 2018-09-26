@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "deklinasi kompas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sudut yang diapit oleh jarum magnet dan meridian geografis tempat tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklinasi%20kompas",
+  "related": [],
+  "detailed": false
+}

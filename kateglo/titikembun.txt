@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik embun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) derajat suhu tempat suatu campuran gas (udara) menjadi jenuh dan mengembunkan cairan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20embun",
+  "related": [],
+  "detailed": false
+}

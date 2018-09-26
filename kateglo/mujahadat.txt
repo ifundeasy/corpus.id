@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mujahadat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perang membela agama Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha menahan hawa nafsu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mujahadat",
+  "related": [],
+  "detailed": false
+}

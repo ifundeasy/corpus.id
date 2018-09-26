@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sponsor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang atau perusahaan yang mengusahakan (memelopori, memprakarsai, mengusulkan, menyelenggarakan) suatu kegiatan (siaran, pertunjukan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penanggung jawab (wali);"
+      },
+      {
+        "type": "desc",
+        "text": "pendukung; pendorong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sponsor",
+  "related": [],
+  "detailed": false
+}

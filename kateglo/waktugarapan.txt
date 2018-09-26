@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "waktu garapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah waktu yang diperlukan untuk menyelesaikan produk tertentu yang dihitung sejak proses produksi dimulai sampai proses produksi berakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=waktu%20garapan",
+  "related": [],
+  "detailed": false
+}

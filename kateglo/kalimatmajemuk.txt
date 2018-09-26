@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalimat majemuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kalimat yang terjadi dari dua klausa atau lebih yang dipadukan menjadi satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalimat%20majemuk",
+  "related": [],
+  "detailed": false
+}

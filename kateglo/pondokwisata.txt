@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pondok wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha perseorangan yang menggunakan sebagian rumah tinggalnya untuk menginap wisatawan dengan perhitungan pembayaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pondok%20wisata",
+  "related": [],
+  "detailed": false
+}

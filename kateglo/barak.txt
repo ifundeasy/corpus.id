@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "barak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebuah atau sekumpulan gedung tempat tinggal tentara; asrama (tentara) polisi;"
+      },
+      {
+        "type": "desc",
+        "text": "bangsal khusus tempat merawat orang sakit (menular);"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan yang bersifat sementara bagi pekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ceduk",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "cekung; caung (tentang pipi, mata);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk) timbul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ceduk",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antonim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata yang berlawanan makna dengan kata lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) leksem yang berpasangan secara antonimi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antonim",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batu alam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu yang terdapat di alam (bukan buatan tangan manusia) yang dipakai sebagai bahan bangunan (hanya memerlukan sedikit pengolahan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batu%20alam",
+  "related": [],
+  "detailed": false
+}

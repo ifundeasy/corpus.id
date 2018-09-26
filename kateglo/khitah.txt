@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "khitah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cita-cita;"
+      },
+      {
+        "type": "desc",
+        "text": "langkah; rencana;"
+      },
+      {
+        "type": "desc",
+        "text": "tujuan dasar; garis haluan; landasan perjuangan; kebijakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=khitah",
+  "related": [],
+  "detailed": false
+}

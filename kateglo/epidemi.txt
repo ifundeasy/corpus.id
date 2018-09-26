@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "epidemi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penyakit menular yang berjangkit dengan cepat di daerah yang luas dan menimbulkan banyak korban, misal penyakit yang tidak secara tetap berjangkit di daerah itu; wabah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=epidemi",
+  "related": [],
+  "detailed": false
+}

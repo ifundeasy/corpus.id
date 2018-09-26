@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gigahertz",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan frekuensi sama dengan satu biliun gelombang hertz;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gigahertz",
+  "related": [],
+  "detailed": false
+}

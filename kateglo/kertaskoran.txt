@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas koran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas khusus untuk surat kabar, bahan bakunya sebagian besar terdiri atas pulp kayu mekanik, sebagian kecil terdiri atas pulp kimia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20koran",
+  "related": [],
+  "detailed": false
+}

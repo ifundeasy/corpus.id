@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deklinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan ke arah yang lebih kecil, lemah, atau rendah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) sudut yang dibentuk oleh jarum magnet (pada kompas) dengan arah utara;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) sistem fleksi mengenai bentuk (nomina, adjektiva, pronomina, dsb) untuk menyatakan perbedaan kategori (genus atau kasus);"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) jarak sudut pada bola langit antara benda langit dan ekuator langit, diukur pada meridian yang melalui benda langit itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deklinasi",
+  "related": [],
+  "detailed": false
+}

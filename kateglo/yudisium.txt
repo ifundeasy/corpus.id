@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yudisium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penentuan nilai (lulus) suatu ujian sarjana lengkap (di perguruan tinggi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yudisium",
+  "related": [],
+  "detailed": false
+}

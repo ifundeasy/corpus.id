@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panjang usus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) sabar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjang%20usus",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dondon",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna atau corak (kain dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendondon"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dondon",
+  "related": [],
+  "detailed": false
+}

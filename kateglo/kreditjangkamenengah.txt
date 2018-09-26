@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit jangka menengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit yang berjangka (waktu) satu tahun sampai tiga tahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20jangka%20menengah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membuang tembakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melepaskan tembakan tidak dengan sasaran yang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membuang%20tembakan",
+  "related": [],
+  "detailed": false
+}

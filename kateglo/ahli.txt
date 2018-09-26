@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ahli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mahir, paham sekali dalam suatu ilmu (kepandaian);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mahir benar;"
+      },
+      {
+        "type": "desc",
+        "text": "anggota; orang(-orang) yang termasuk dalam suatu golongan; keluarga atau kaum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli",
+  "related": [],
+  "detailed": false
+}

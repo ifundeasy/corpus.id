@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paliatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara, ikhtiar yang melunakkan, meringankan, mengurangi penderitaan;"
+      },
+      {
+        "type": "desc",
+        "text": "obat yang dapat meredakan rasa sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paliatif",
+  "related": [],
+  "detailed": false
+}

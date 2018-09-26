@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekstrak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kentalan; pati; sari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) sediaan yang diperoleh dari jaringan hewan atau tumbuhan dengan menarik sari aktifnya dengan pelarut yang sesuai, kemudian memekatkannya hingga tahap tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) salinan; petikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekstrak",
+  "related": [],
+  "detailed": false
+}

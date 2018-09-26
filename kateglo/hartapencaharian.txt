@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta pencaharian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta yang didapat dari pencaharian nafkah sehari-hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20pencaharian",
+  "related": [],
+  "detailed": false
+}

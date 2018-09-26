@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "geleser",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggeleser"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=geleser",
+  "related": [],
+  "detailed": false
+}

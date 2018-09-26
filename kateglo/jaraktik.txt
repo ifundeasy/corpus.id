@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jarak tik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jarak antarbaris dalam tulisan yang diketik; spasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jarak%20tik",
+  "related": [],
+  "detailed": false
+}

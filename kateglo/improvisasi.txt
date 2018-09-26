@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "improvisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembuatan (penyediaan) sesuatu ber-dasarkan bahan yang ada (seadanya);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sen) penciptaan atau pertunjukan sesuatu (pembawaan puisi, musik, dsb) tanpa persiapan lebih dahulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=improvisasi",
+  "related": [],
+  "detailed": false
+}

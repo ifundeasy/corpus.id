@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyampuk",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melanggar; menabrak; menumbuk; membentur;"
+      },
+      {
+        "type": "desc",
+        "text": "menyambut (pukulan dsb); menangkis;"
+      },
+      {
+        "type": "desc",
+        "text": "menepis tangan (yang sedang memegang senjata dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "memotong (pembicaraan orang); menyelang;"
+      },
+      {
+        "type": "desc",
+        "text": "mencampuri (urusan orang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyampuk",
+  "related": [],
+  "detailed": false
+}

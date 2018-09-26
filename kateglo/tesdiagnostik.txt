@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tes diagnostik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tes untuk mengetahui kelemahan khusus yang dimiliki oleh peserta didik yang tidak berhasil, juga untuk mengetahui kesulitan (kelemahan) dan kekuatan peserta didik itu dalam suatu mata pelajaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tes%20diagnostik",
+  "related": [],
+  "detailed": false
+}

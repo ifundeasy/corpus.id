@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buku petunjuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku yang berisikan keterangan dan petunjuk praktis untuk melakukan (melaksanakan, menjalankan) sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buku%20petunjuk",
+  "related": [],
+  "detailed": false
+}

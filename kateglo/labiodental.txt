@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "labiodental",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling) berkaitan dengan bunyi ujar yang terjadi karena penyempitan jarak antara bibir bawah dan gigi atas (misal bunyi pertama pada kata fajar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=labiodental",
+  "related": [],
+  "detailed": false
+}

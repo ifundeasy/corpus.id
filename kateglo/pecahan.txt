@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pecahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang sudah pecah (dipecahkan, dicerai-beraikan, dsb); serpihan;"
+      },
+      {
+        "type": "desc",
+        "text": "bilangan yang bukan bilangan bulat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kurikulum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat mata pelajaran yang diajarkan pada lembaga pendidikan;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkat mata kuliah mengenai bidang keahlian khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurikulum",
+  "related": [],
+  "detailed": false
+}

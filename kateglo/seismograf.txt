@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "seismograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mencatat gempa bumi, yang menunjukkan kekuatan, lama, arah, dan jaraknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seismograf",
+  "related": [],
+  "detailed": false
+}

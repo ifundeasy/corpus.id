@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "evapotranspirasi efektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah uap air yang dihasilkan oleh penguapan dari tanah dan dari tumbuh-tumbuhan pada waktu tanah berkandungan air yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evapotranspirasi%20efektif",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ban angkut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalur yang bergerak untuk meneruskan pengangkutan kertas dari meja tumpukan ke silinder tekan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ban%20angkut",
+  "related": [],
+  "detailed": false
+}

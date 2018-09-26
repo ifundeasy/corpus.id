@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "master",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memimpin orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "yang utama, yang paling tinggi (pandai, cakap, dsb) di antara yang lain; juara (olahraga catur);"
+      },
+      {
+        "type": "desc",
+        "text": "acuan untuk pencetakan lebih lanjut; disket yang menjadi dasar untuk memperbanyak rekaman;"
+      },
+      {
+        "type": "desc",
+        "text": "magister;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=master",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kasus penderita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) kasus yang menggambarkan yang dialami oleh perbuatan atau keadaan psikologis yang diungkapkan oleh verba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasus%20penderita",
+  "related": [],
+  "detailed": false
+}

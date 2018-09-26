@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perokok aktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang merokok secara aktif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perokok%20aktif",
+  "related": [],
+  "detailed": false
+}

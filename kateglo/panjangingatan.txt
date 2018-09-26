@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "panjang ingatan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) kuat ingatan; dapat lama mengingat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=panjang%20ingatan",
+  "related": [],
+  "detailed": false
+}

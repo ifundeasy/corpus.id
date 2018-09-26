@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pancingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipakai untuk memancing (memikat, menarik hati, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gerakan (tembakan dsb) untuk memancing musuh;"
+      },
+      {
+        "type": "desc",
+        "text": "kata-kata (perbuatan dsb) untuk mencari sebab perkelahian;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "berasa sakit pada tenggorok (ketika menelan);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) teknik penyajian awal cerita rekaan untuk memancing minat pembaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pancingan",
+  "related": [],
+  "detailed": false
+}

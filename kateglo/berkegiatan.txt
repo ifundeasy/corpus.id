@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkegiatan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mempunyai kegiatan (aktivitas, keaktifan); mempunyai usaha (pekerjaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkegiatan",
+  "related": [],
+  "detailed": false
+}

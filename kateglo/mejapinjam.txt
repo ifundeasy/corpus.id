@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meja pinjam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meja yang dipakai untuk melaksanakan transaksi peminjaman koleksi perpustakaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meja%20pinjam",
+  "related": [],
+  "detailed": false
+}

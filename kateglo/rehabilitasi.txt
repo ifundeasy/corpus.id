@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rehabilitasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemulihan kepada kedudukan (keadaan, nama baik) yang dahulu (semula);"
+      },
+      {
+        "type": "desc",
+        "text": "perbaikan anggota tubuh yang cacat dsb atas individu (misal pasien rumah sakit, korban bencana) supaya menjadi manusia yang berguna dan memiliki tempat dalam masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rehabilitasi",
+  "related": [],
+  "detailed": false
+}

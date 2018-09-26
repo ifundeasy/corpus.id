@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekretariat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian organisasi yang menangani pekerjaan dan urusan yang menjadi tugas sekretaris; kepaniteraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekretariat",
+  "related": [],
+  "detailed": false
+}

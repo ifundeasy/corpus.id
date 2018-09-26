@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kenal",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tahu dan teringat kembali;"
+      },
+      {
+        "type": "desc",
+        "text": "tahu; mempunyai rasa;"
+      },
+      {
+        "type": "desc",
+        "text": "pernah tahu (bersahabat);"
+      },
+      {
+        "type": "desc",
+        "text": "mengerti; mempunyai pengetahuan tentang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenal",
+  "related": [],
+  "detailed": false
+}

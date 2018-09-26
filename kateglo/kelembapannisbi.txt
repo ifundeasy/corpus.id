@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelembapan nisbi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) parameter untuk menyatakan banyaknya uap air di dalam udara berupa nisbah antara tekanan uap yang ada saat itu dan tekanan uap maksimum yang mungkin dicapai pada suhu dan tekanan udara saat itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelembapan%20nisbi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "trilogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seri karya sastra yang terdiri atas tiga satuan yang saling berhubungan dan mengembangkan satu tema;"
+      },
+      {
+        "type": "desc",
+        "text": "tiga hal yang saling bertaut dan saling bergantung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=trilogi",
+  "related": [],
+  "detailed": false
+}

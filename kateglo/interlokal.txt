@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interlokal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kom) komunikasi antara dua kota atau lebih (tentang hubungan telepon);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interlokal",
+  "related": [],
+  "detailed": false
+}

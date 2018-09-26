@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hipotiroidisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) gejala aktivitas sekresi yang kurang dari kelenjar gondok;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotiroidisme",
+  "related": [],
+  "detailed": false
+}

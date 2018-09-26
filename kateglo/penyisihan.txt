@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyisihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyisihkan;"
+      },
+      {
+        "type": "desc",
+        "text": "babak dalam pertandingan yang dimaksudkan untuk menentukan regu yang boleh mengikuti pertandingan babak selanjutnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyisihan",
+  "related": [],
+  "detailed": false
+}

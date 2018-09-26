@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menggandakan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melipatkan beberapa kali; memperbanyak;"
+      },
+      {
+        "type": "desc",
+        "text": "mengalikan (tentang hitungan perkalian);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menggandakan",
+  "related": [],
+  "detailed": false
+}

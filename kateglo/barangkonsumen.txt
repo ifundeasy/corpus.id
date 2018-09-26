@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang konsumen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dibeli untuk digunakan konsumen atau pembeli terakhir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20konsumen",
+  "related": [],
+  "detailed": false
+}

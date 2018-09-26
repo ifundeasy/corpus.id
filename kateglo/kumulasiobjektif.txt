@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kumulasi objektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) seorang penggugat mengajukan lebih dari satu gugatan terhadap tergugat yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumulasi%20objektif",
+  "related": [],
+  "detailed": false
+}

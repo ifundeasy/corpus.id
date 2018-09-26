@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menguraikan janji",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membatalkan janji; tidak meneruskan janji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menguraikan%20janji",
+  "related": [],
+  "detailed": false
+}

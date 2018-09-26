@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bandar udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelabuhan udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bandar%20udara",
+  "related": [],
+  "detailed": false
+}

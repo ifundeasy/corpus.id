@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bendung bebas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bendung yang tidak terendam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendung%20bebas",
+  "related": [],
+  "detailed": false
+}

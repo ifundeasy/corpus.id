@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kantor pusat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor besar yang menjadi induk kantor cabang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantor%20pusat",
+  "related": [],
+  "detailed": false
+}

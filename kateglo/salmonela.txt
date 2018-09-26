@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salmonela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bakteri yang berkenaan dengan peracunan makanan, penyakit perut, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salmonela",
+  "related": [],
+  "detailed": false
+}

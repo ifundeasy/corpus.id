@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesosialan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat-sifat kemasyarakatan (sifat suka memperhatikan umum, suka menolong, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesosialan",
+  "related": [],
+  "detailed": false
+}

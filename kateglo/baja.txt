@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "logam yang keras;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang keras dan kuat (tentang semangat, kemauan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pupuk;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan penghitam gigi (dibuat dari minyak dicampur dengan arang tempurung kelapa);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baja",
+  "related": [],
+  "detailed": false
+}

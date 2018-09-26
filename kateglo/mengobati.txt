@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengobati",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi obat (kepada); menyembuhkan dengan obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengobati",
+  "related": [],
+  "detailed": false
+}

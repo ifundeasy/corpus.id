@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit sementara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) satuan beban perkuliahan dalam satu semester yang diberikan pada mata kuliah tertentu untuk dosen dan untuk mahasiswa yang mengambil mata kuliah tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20sementara",
+  "related": [],
+  "detailed": false
+}

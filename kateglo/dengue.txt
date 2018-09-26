@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dengue",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit yang datangnya mendadak dan cepat menular, disebabkan oleh virus yang ditularkan oleh gigitan nyamuk Aedes, dengan gejala demam, nyeri pada otot dan tulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dengue",
+  "related": [],
+  "detailed": false
+}

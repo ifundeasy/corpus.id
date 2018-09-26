@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumah duka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah tempat orang yang berduka cita karena ada yang meninggal;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan tempat jenazah disemayamkan sebelum dikubur karena jenazah itu tidak dibawa pulang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah%20duka",
+  "related": [],
+  "detailed": false
+}

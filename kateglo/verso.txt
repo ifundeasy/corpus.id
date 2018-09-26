@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "verso",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "halaman sebelah kiri buku atau naskah yang terbuka, biasanya bernomor halaman genap;"
+      },
+      {
+        "type": "desc",
+        "text": "bagian belakang atau bagian kedua lembaran kertas yang akan dicetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=verso",
+  "related": [],
+  "detailed": false
+}

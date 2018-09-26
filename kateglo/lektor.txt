@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengajar di perguruan tinggi, berpangkat pembina atau golongan IV/a;"
+      },
+      {
+        "type": "desc",
+        "text": "asisten profesor; pangkat sebelum atau di bawah profesor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lektor",
+  "related": [],
+  "detailed": false
+}

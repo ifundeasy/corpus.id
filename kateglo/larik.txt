@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "larik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melarik"
+      },
+      {
+        "type": "desc",
+        "text": "baris; leret; deret;"
+      },
+      {
+        "type": "desc",
+        "text": "bait; baris (dalam sajak);"
+      },
+      {
+        "type": "desc",
+        "text": "variasi motif batik yang berupa titik-titik yang berderet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=larik",
+  "related": [],
+  "detailed": false
+}

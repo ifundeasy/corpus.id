@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "administrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "usaha dan kegiatan yang meliputi penetapan tujuan serta penetapan cara-cara penyelenggaraan pembinaan organisasi;"
+      },
+      {
+        "type": "desc",
+        "text": "usaha dan kegiatan yang berkaitan dengan penyelenggaraan kebijakan untuk mencapai tujuan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan yang berkaitan dengan penyelenggaraan pemerintahan;"
+      },
+      {
+        "type": "desc",
+        "text": "kegiatan kantor dan tata usaha;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=administrasi",
+  "related": [],
+  "detailed": false
+}

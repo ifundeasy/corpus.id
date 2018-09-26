@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "spiral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lilitan; pilin; sulur batang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(dalam bentuk) keluk atau putaran mengelilingi titik pusat;"
+      },
+      {
+        "type": "desc",
+        "text": "alat kontrasepsi yang dipasang pada rahim wanita berbentuk sulur batang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=spiral",
+  "related": [],
+  "detailed": false
+}

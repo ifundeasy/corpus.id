@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ladang tinggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ladang yang tidak diusahakan lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ladang%20tinggal",
+  "related": [],
+  "detailed": false
+}

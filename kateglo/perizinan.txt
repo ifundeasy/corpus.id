@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perizinan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal pemberian izin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perizinan",
+  "related": [],
+  "detailed": false
+}

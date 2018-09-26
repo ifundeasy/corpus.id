@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teduh",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "reda (tentang angin ribut, ombak); berhenti (tentang hujan);"
+      },
+      {
+        "type": "desc",
+        "text": "terlindung atau tidak kena panas matahari; lindap;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak turun hujan (tentang hari); redup atau tidak memancarkan sinar yang terik (tentang matahari);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tenang; aman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teduh",
+  "related": [],
+  "detailed": false
+}

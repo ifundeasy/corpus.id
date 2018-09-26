@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri jasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri dalam bidang jasa (seperti perhotelan, perjalanan wisata, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20jasa",
+  "related": [],
+  "detailed": false
+}

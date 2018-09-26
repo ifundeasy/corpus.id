@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "departementalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembagian menjadi beberapa departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=departementalisasi",
+  "related": [],
+  "detailed": false
+}

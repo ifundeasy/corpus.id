@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluarga berencana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan untuk membentuk keluarga yang sehat dan sejahtera dengan membatasi kelahiran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluarga%20berencana",
+  "related": [],
+  "detailed": false
+}

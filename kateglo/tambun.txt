@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tambun",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "gemuk (tentang manusia dan binatang); berisi (tentang tubuh);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk) timbun; longgok; tumpuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tambun",
+  "related": [],
+  "detailed": false
+}

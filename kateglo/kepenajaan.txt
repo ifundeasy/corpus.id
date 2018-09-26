@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepenajaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan penaja atau sponsor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepenajaan",
+  "related": [],
+  "detailed": false
+}

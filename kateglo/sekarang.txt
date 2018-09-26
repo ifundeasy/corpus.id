@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekarang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu (masa, saat) ini; kini;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekarang",
+  "related": [],
+  "detailed": false
+}

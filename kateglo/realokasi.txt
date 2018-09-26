@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "realokasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengalokasian kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=realokasi",
+  "related": [],
+  "detailed": false
+}

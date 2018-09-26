@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "imtihan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian; seleksi;"
+      },
+      {
+        "type": "desc",
+        "text": "upacara saat pengumuman kenaikan kelas atau pengumuman ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=imtihan",
+  "related": [],
+  "detailed": false
+}

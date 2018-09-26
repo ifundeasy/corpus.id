@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "radiasi gelombang panjang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) radiasi dengan panjang gelombang lebih panjang dari empat mikron;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radiasi%20gelombang%20panjang",
+  "related": [],
+  "detailed": false
+}

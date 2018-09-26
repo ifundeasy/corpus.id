@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "patah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "putus tentang barang yang keras atau kaku (biasanya tidak sampai bercerai atau lepas sama sekali);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terhenti, tidak dapat berlanjut lagi;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penggolong bilangan kata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=patah",
+  "related": [],
+  "detailed": false
+}

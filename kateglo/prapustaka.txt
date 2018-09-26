@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "prapustaka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebudayaan yang belum mengenal tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prapustaka",
+  "related": [],
+  "detailed": false
+}

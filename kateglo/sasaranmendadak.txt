@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sasaran mendadak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sasaran yang muncul dengan tiba-tiba di medan pertempuran sehingga tembakan terhadap sasaran tersebut tidak dapat dipersiapkan sebelumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sasaran%20mendadak",
+  "related": [],
+  "detailed": false
+}

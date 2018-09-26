@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "serangan balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr)"
+      },
+      {
+        "type": "desc",
+        "text": "serangan yang dilakukan oleh pemain terhadap lawannya sebelum lawannya menyelesaikan serangannya;"
+      },
+      {
+        "type": "desc",
+        "text": "serangan yang dilakukan oleh pemain terhadap lawannya sebelum lawannya menyelesaikan serangannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serangan%20balik",
+  "related": [],
+  "detailed": false
+}

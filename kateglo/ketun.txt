@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang ringgit;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) uang emas yang nilainya Rp5,80; dukat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketun",
+  "related": [],
+  "detailed": false
+}

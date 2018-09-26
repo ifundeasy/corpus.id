@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "argometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ukur banyaknya uang yang harus dibayar penumpang taksi berdasarkan jarak tempuh dan waktu penggunaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=argometer",
+  "related": [],
+  "detailed": false
+}

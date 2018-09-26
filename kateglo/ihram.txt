@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ihram",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "suci; dalam keadaan bersuci diri (pada waktu melakukan ibadah haji dan umrah di Mekah);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "meniatkan dan melakukan pekerjaan ihram untuk tujuan ibadah haji dan/atau umrah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ihram",
+  "related": [],
+  "detailed": false
+}

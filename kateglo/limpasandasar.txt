@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limpasan dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limpasan air tanah beserta komponen yang lambat dari limpasan bawah permukaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limpasan%20dasar",
+  "related": [],
+  "detailed": false
+}

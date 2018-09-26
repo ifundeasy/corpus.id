@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biru",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "warna dasar yang serupa dengan warna langit yang terang (tidak berawan dsb) serta merupakan warna asli (bukan hasil campuran beberapa warna);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengandung atau memperlihatkan warna yang serupa warna langit yang terang;"
+      },
+      {
+        "type": "desc",
+        "text": "lipatan-lipatan pada tepi baju, kain, dsb sebagai hiasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biru",
+  "related": [],
+  "detailed": false
+}

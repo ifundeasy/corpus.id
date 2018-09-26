@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melarat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlarat-larat; menjalar ke mana-mana (tentang api);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ki) miskin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melarat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tidak lain dan tidak bukan",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "tidak lain dari ...;"
+      },
+      {
+        "type": "desc",
+        "text": "hanya; melainkan ... jua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tidak%20lain%20dan%20tidak%20bukan",
+  "related": [],
+  "detailed": false
+}

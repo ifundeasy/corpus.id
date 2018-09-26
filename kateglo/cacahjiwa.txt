@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cacah jiwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Stat)"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan banyaknya penduduk (jiwa) di suatu daerah;"
+      },
+      {
+        "type": "desc",
+        "text": "pencatatan atau pendaftaran untuk mengetahui banyaknya penduduk; sensus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacah%20jiwa",
+  "related": [],
+  "detailed": false
+}

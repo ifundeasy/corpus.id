@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terentang atau terulurkan lurus (tentang tangan dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengedang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedang",
+  "related": [],
+  "detailed": false
+}

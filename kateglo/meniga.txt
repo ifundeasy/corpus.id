@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meniga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadi tiga (tentang istri, anak, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menjadi yang ke-3;"
+      },
+      {
+        "type": "desc",
+        "text": "hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meniga",
+  "related": [],
+  "detailed": false
+}

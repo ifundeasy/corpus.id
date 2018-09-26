@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "intonasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "lagu kalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mus) ketepatan penyajian tinggi rendah nada (dari seorang penyanyi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=intonasi",
+  "related": [],
+  "detailed": false
+}

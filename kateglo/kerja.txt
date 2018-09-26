@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan melakukan sesuatu; yang dilakukan (diperbuat);"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dilakukan untuk mencari nafkah; mata pencaharian;"
+      },
+      {
+        "type": "desc",
+        "text": "perayaan yang berhubungan dengan perkawinan, khitanan, dsb; pesta perjamuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) pekerjaan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerja",
+  "related": [],
+  "detailed": false
+}

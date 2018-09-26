@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anamnesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi)"
+      },
+      {
+        "type": "desc",
+        "text": "keterangan tentang kehidupan seseorang (klien) yang diperoleh melalui wawancara dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) riwayat orang sakit dan penyakitnya pada masa lampau;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anamnesis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "anulir",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menganulir"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=anulir",
+  "related": [],
+  "detailed": false
+}

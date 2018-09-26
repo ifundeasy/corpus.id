@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "manajemen konsultatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sistem manajemen yang menganut kebiasaan meminta pertimbangan kepada bawahan sebelum mengambil putusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=manajemen%20konsultatif",
+  "related": [],
+  "detailed": false
+}

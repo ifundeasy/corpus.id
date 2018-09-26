@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benih sehat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tern) benih yang berpotensi hidup maksimal, berdaya kecambah, dan berkekuatan tumbuh yang tinggi, serta tidak mengandung penyakit yang membahayakan dan tidak mengalami kerusakan fisik, terutama pada bagian embrionya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benih%20sehat",
+  "related": [],
+  "detailed": false
+}

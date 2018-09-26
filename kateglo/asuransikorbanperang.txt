@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi korban perang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asuransi yang mengatur jaminan hidup orang-orang yang menderita akibat peperangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20korban%20perang",
+  "related": [],
+  "detailed": false
+}

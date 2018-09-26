@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "garapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan (apa yang dikerjakan); hasil menggarap;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah (yang diolah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=garapan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "insulin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) hormon yang dibentuk dalam pankreas yang mengen-dalikan kadar gula dalam darah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=insulin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "metro",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaringan jalan kereta api di bawah tanah;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) metropolitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=metro",
+  "related": [],
+  "detailed": false
+}

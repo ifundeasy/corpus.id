@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abiotik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak memiliki ciri hidup; tidak hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan atau dicirikan oleh tidak adanya organisme hidup;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda tidak hidup, misal batu-batuan dan bangunan rumah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abiotik",
+  "related": [],
+  "detailed": false
+}

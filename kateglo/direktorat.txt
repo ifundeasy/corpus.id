@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "direktorat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian dari departemen yang tugasnya mengurus suatu bidang tertentu, dikepalai oleh seorang direktur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=direktorat",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berat (tentang luka);"
+      },
+      {
+        "type": "desc",
+        "text": "payah (tentang penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan kesulitan yang sangat;"
+      },
+      {
+        "type": "desc",
+        "text": "sukar diatasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parah",
+  "related": [],
+  "detailed": false
+}

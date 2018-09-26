@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aglomerasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek)"
+      },
+      {
+        "type": "desc",
+        "text": "pengumpulan atau pemusatan dalam lokasi atau kawasan tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) pengumpulan, dan/atau penumpukan partikel atau zat menjadi satu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aglomerasi",
+  "related": [],
+  "detailed": false
+}

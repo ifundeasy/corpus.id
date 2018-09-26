@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahanan rumah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penahanan di dalam rumah sendiri (yang ditahan tidak boleh meninggalkan rumah);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahanan%20rumah",
+  "related": [],
+  "detailed": false
+}

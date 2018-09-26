@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jurusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arah; tuju(an);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian (pengkajian ilmu);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian dari suatu fakultas atau sekolah tinggi yang bertanggung jawab untuk mengelola dan mengembangkan suatu bidang studi, misal jurusan akuntansi, jurusan manajemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jurusan",
+  "related": [],
+  "detailed": false
+}

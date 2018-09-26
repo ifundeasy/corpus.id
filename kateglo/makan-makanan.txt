@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan-makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "berbagai macam makanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan-makanan",
+  "related": [],
+  "detailed": false
+}

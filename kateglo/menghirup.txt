@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menghirup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengisap;"
+      },
+      {
+        "type": "desc",
+        "text": "meminum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menghirup",
+  "related": [],
+  "detailed": false
+}

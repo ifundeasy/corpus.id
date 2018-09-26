@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menjumlah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghitung (berapa banyaknya);"
+      },
+      {
+        "type": "desc",
+        "text": "menambah (dalam berhitung atau matematika);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menjumlah",
+  "related": [],
+  "detailed": false
+}

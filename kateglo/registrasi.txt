@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "registrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencatatan; pendaftaran (dalam register);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=registrasi",
+  "related": [],
+  "detailed": false
+}

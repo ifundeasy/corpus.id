@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atenuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) penurunan tingkat (aras) suatu besaran, misal intensitas gelombang cahaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atenuasi",
+  "related": [],
+  "detailed": false
+}

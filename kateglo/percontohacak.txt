@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percontoh acak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man)"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah percontoh dalam populasi yang tiap unsurnya tanpa alasan tertentu mendapat kesempatan yang sama untuk dipilih sebagai misal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Stat) percontoh yang telah dipilih dengan menggunakan metode pemilihan acak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percontoh%20acak",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batang kayu yang telah dirimbas, tetapi belum dijadikan papan dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tanda pangkat ketentaraan yang dipasang di pundak;"
+      },
+      {
+        "type": "desc",
+        "text": "barang yang menyerupai bentuk balok;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) papan tumpuan (terutama untuk lompat jauh, lompat jangkit);"
+      },
+      {
+        "type": "desc",
+        "text": "bagian samping (lambung) perahu yang terlebar;"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran berat candu 1.030 kg;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balok",
+  "related": [],
+  "detailed": false
+}

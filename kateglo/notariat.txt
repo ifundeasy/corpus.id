@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "notariat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jabatan notaris;"
+      },
+      {
+        "type": "desc",
+        "text": "kantor notaris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=notariat",
+  "related": [],
+  "detailed": false
+}

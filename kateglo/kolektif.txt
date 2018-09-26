@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kolektif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara bersama; secara gabungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kolektif",
+  "related": [],
+  "detailed": false
+}

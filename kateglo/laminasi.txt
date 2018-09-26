@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laminasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelapisan bahan tipis dengan lempeng pada kedua sisinya;"
+      },
+      {
+        "type": "desc",
+        "text": "bahan pelapis bahan tipis pada kedua sisinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laminasi",
+  "related": [],
+  "detailed": false
+}

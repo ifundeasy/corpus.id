@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "darat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian permukaan bumi yang padat; tanah yang tidak digenangi air (sebagai lawan dari laut atau air);"
+      },
+      {
+        "type": "desc",
+        "text": "tanah atau bumi (sebagai lawan dari angkasa);"
+      },
+      {
+        "type": "desc",
+        "text": "tanah yang tinggi (sebagai lawan dari tanah yang rendah di pantai, biasanya berpaya-paya atau sebagai lawan tanah persawahan dan rawa-rawa);"
+      },
+      {
+        "type": "desc",
+        "text": "daerah pedalaman (sebagai lawan dari daerah pantai);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=darat",
+  "related": [],
+  "detailed": false
+}

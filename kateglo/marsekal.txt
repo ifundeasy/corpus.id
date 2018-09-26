@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "marsekal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok pangkat perwira tinggi dalam angkatan udara, meliputi marsekal besar TNI, marsekal TNI, marsekal madya TNI, marsekal muda TNI, dan marsekal pertama TNI;"
+      },
+      {
+        "type": "desc",
+        "text": "pangkat kedua dari golongan perwira tinggi dalam angkatan udara, sepadan dengan jenderal TNI dalam angkatan darat atau laksamana TNI dalam angkatan laut (tanda pangkatnya empat bintang emas yang ditempatkan di bahu baju);"
+      },
+      {
+        "type": "desc",
+        "text": "pangkat tertinggi dalam angkatan bersenjata beberapa negara dengan tanda empat bintang emas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=marsekal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "folklor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "adat-istiadat tradisional dan cerita rakyat yang diwariskan secara turun-temurun, tetapi tidak dibukukan;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu adat-istiadat tradisional dan cerita rakyat yang tidak dibukukan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=folklor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat cepat (tentang aliran, gerakan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lebat (tentang hujan);"
+      },
+      {
+        "type": "link",
+        "text": "daras"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi sampah atau pasir dituang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deras",
+  "related": [],
+  "detailed": false
+}

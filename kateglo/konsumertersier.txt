@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konsumer tersier",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karnivor yang memakan karnivor lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsumer%20tersier",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang pengarang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segenap anggota pengarang (redaksi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20pengarang",
+  "related": [],
+  "detailed": false
+}

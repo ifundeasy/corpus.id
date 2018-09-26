@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kata sapaan untuk orang tua perempuan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kp) ibu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bu",
+  "related": [],
+  "detailed": false
+}

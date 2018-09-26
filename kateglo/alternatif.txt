@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alternatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pilihan di antara dua atau beberapa kemungkinan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alternatif",
+  "related": [],
+  "detailed": false
+}

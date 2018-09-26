@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kekencangan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu kencang (tegang);"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu cepat (laju);"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu erat (kuat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kekencangan",
+  "related": [],
+  "detailed": false
+}

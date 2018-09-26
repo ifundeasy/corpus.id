@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wayang gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar hidup; bioskop;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wayang%20gambar",
+  "related": [],
+  "detailed": false
+}

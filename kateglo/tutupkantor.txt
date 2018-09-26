@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tutup kantor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akhir jam kerja di kantor;"
+      },
+      {
+        "type": "desc",
+        "text": "bukan hari kerja kantor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutup%20kantor",
+  "related": [],
+  "detailed": false
+}

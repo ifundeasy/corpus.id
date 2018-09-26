@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rodok",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "merodok"
+      },
+      {
+        "type": "link",
+        "text": "merodok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rodok",
+  "related": [],
+  "detailed": false
+}

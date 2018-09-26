@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pramupintu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas yang melayani tamu yang akan masuk dan keluar hotel, misal membukakan pintu mobil tamu, mengeluarkan barang-barang tamu dari mobil, dan memayungi tamu jika hujan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pramupintu",
+  "related": [],
+  "detailed": false
+}

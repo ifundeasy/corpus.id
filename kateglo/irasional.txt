@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "irasional",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak berdasarkan akal (penalaran) yang sehat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tidak masuk akal; tidak terhitung lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=irasional",
+  "related": [],
+  "detailed": false
+}

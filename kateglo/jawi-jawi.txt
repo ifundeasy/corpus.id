@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jawi-jawi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jawi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jawi-jawi",
+  "related": [],
+  "detailed": false
+}

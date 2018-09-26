@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dapur umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyediakan makanan untuk cuma-cuma orang banyak (dalam keadaan darurat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dapur%20umum",
+  "related": [],
+  "detailed": false
+}

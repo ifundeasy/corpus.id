@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nasabah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang biasa berhubungan dengan atau menjadi pelanggan bank (dalam hal keuangan); pelanggan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menjadi tanggungan asuransi;"
+      },
+      {
+        "type": "desc",
+        "text": "perbandingan; pertalian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasabah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "percakapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembicaraan; perundingan;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bercakap-cakap (dipertentangkan dengan apa yang ditulis);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) satuan interaksi bahasa antara dua pembicara atau lebih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=percakapan",
+  "related": [],
+  "detailed": false
+}

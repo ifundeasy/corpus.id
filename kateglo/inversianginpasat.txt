@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "inversi angin pasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) inversi suhu yang terjadi di daerah angin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inversi%20angin%20pasat",
+  "related": [],
+  "detailed": false
+}

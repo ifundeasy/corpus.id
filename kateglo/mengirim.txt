@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengirim",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyampaikan (mengantarkan dsb) dengan perantaraan (pos, telegram, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "menyuruh pergi ke suatu tempat; menugasi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk) menitipkan barang (untuk dijual, disimpan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengirim",
+  "related": [],
+  "detailed": false
+}

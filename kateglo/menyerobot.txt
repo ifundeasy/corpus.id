@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyerobot",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengambil hak atau harta dengan sewenang-wenang atau dengan tidak mengindahkan hukum dan aturan (seperti mencuri, merampas, menempati tanah atau rumah orang lain yang bukan haknya, menculik);"
+      },
+      {
+        "type": "desc",
+        "text": "menyerang (melanggar, menubruk) secara nekat atau dengan diam-diam;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan perbuatan (seperti masuk ke rumah orang, menyela perkataan orang, dsb) dengan cara yang nekat atau menyimpang dari aturan;"
+      },
+      {
+        "type": "desc",
+        "text": "menggunakan jalan semau-maunya tanpa mengindahkan aturan (tentang kendaraan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyerobot",
+  "related": [],
+  "detailed": false
+}

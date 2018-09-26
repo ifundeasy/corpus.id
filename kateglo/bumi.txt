@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bumi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "planet tempat manusia hidup; dunia; jagat;"
+      },
+      {
+        "type": "desc",
+        "text": "planet ke-3 dari matahari;"
+      },
+      {
+        "type": "desc",
+        "text": "permukaan dunia; tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bumi",
+  "related": [],
+  "detailed": false
+}

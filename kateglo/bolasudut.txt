@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bola sudut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bola yang harus ditendang dari pojok lapangan dalam olahraga sepak bola;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bola%20sudut",
+  "related": [],
+  "detailed": false
+}

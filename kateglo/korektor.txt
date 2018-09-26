@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korektor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang (pekerjaannya) membetulkan kesalahan (pada cetak coba, naskah, dsb); orang yang bertugas membetulkan hasil susunan untuk disesuaikan dengan contohnya;"
+      },
+      {
+        "type": "desc",
+        "text": "pemeriksa hasil ujian tulis; pengoreksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korektor",
+  "related": [],
+  "detailed": false
+}

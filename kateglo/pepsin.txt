@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pepsin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) enzim dalam getah lambung untuk menguraikan protein dalam suasana asam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pepsin",
+  "related": [],
+  "detailed": false
+}

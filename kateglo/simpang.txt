@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "simpang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang memisah (membelok, bercabang, melencong, dsb) dari yang lurus (induknya);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berbelok atau bercabang dari yang lurus (tentang jalan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=simpang",
+  "related": [],
+  "detailed": false
+}

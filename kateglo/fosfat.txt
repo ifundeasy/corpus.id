@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fosfat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "bahan asam fosfor yang dipakai untuk pupuk;"
+      },
+      {
+        "type": "desc",
+        "text": "mineral senyawaan antara fosfor, oksigen, dan unsur lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fosfat",
+  "related": [],
+  "detailed": false
+}

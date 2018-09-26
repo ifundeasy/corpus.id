@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lahar hujan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lahar dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lahar%20hujan",
+  "related": [],
+  "detailed": false
+}

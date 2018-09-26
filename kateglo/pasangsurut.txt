@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang surut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "turun (tentang air laut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20surut",
+  "related": [],
+  "detailed": false
+}

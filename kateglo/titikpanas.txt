@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik panas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) derajat suhu tempat logam dsb mulai lebur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20panas",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "fluktuasi musiman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perubahan turun-naik, seperti gelombang yang datang pada musim tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fluktuasi%20musiman",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "biasa",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lazim; umum;"
+      },
+      {
+        "type": "desc",
+        "text": "seperti sediakala (sebagai yang sudah-sudah);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah merupakan hal yang tidak terpisahkan dari kehidupan sehari-hari; sudah menjadi adat;"
+      },
+      {
+        "type": "desc",
+        "text": "sudah seringkali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biasa",
+  "related": [],
+  "detailed": false
+}

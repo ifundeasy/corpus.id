@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mafia peradilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelompok advokat yang menguasai proses peradilan sehingga mereka dapat membebaskan terdakwa apabila terdakwa dapat menyediakan uang sesuai dengan jumlah yang diminta mereka;"
+      },
+      {
+        "type": "desc",
+        "text": "persekongkolan di antara para penegak hukum dengan pencari keadilan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mafia%20peradilan",
+  "related": [],
+  "detailed": false
+}

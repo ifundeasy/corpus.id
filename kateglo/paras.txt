@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paras",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rupa muka; wajah;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sejajar dengan permukaan; sama rata; rata;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) batu atau lapisan tanah keras yang berupa pasir padat; batu paras;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paras",
+  "related": [],
+  "detailed": false
+}

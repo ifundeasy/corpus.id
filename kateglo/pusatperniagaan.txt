@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat perniagaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (kota dsb) yang terutama untuk melakukan perdagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20perniagaan",
+  "related": [],
+  "detailed": false
+}

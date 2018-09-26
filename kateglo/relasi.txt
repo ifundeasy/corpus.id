@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan; perhubungan; pertalian;"
+      },
+      {
+        "type": "desc",
+        "text": "kenalan;"
+      },
+      {
+        "type": "desc",
+        "text": "pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relasi",
+  "related": [],
+  "detailed": false
+}

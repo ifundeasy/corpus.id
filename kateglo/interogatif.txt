@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "interogatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menunjukkan atau mengandung pertanya-an;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bentuk verba atau tipe kalimat yang digunakan untuk mengungkapkan pertanyaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=interogatif",
+  "related": [],
+  "detailed": false
+}

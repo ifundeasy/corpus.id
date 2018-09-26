@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh terampil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang mempunyai keterampilan di bidang tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20terampil",
+  "related": [],
+  "detailed": false
+}

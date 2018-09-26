@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paramedis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bekerja di lingkungan kesehatan sebagai pembantu dokter (seperti perawat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paramedis",
+  "related": [],
+  "detailed": false
+}

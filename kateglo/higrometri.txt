@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "higrometri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cabang fisika yang berkenaan dengan penentuan atau pengukuran banyaknya air dalam udara; ilmu ukur lengas;"
+      },
+      {
+        "type": "desc",
+        "text": "higrometer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higrometri",
+  "related": [],
+  "detailed": false
+}

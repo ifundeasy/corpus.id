@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pajak candu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hak untuk menjual candu (dengan membayar pajak kepada negara);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat penjualan candu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pajak%20candu",
+  "related": [],
+  "detailed": false
+}

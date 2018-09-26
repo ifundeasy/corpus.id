@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kantin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang tempat menjual minuman dan makanan (di sekolah, di kantor, di asrama, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kantin",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selera",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nafsu makan;"
+      },
+      {
+        "type": "desc",
+        "text": "nafsu (kemauan untuk berbuat sesuatu); keinginan;"
+      },
+      {
+        "type": "desc",
+        "text": "kesukaan; kegemaran;"
+      },
+      {
+        "type": "link",
+        "text": "selira"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selera",
+  "related": [],
+  "detailed": false
+}

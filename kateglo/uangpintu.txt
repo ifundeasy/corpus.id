@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "uang pintu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang harus dibayar oleh pengunjung rumah makan, kelab malam, dsb di luar makanan dan minuman; uang masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uang%20pintu",
+  "related": [],
+  "detailed": false
+}

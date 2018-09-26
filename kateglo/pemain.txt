@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang bermain (bola, biola, drama, film, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemain",
+  "related": [],
+  "detailed": false
+}

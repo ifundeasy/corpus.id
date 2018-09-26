@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "porta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Anat) pintu masuk, terutama tempat masuk pembuluh yang membawa dan mengangkut darah dari suatu organ;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) soket eksternal dalam unit pengolah utama komputer;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) kegiatan mengubah perangkat lunak agar dapat bekerja pada sistem operasi yang berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=porta",
+  "related": [],
+  "detailed": false
+}

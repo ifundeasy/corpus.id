@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hemostasis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) penghentian pendarahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hemostasis",
+  "related": [],
+  "detailed": false
+}

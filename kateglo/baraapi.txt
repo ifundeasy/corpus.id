@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bara api",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bara%20api",
+  "related": [],
+  "detailed": false
+}

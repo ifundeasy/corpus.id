@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan tanda setuju (terima) dari pihak yang menerima dalam suatu akad perjanjian atau kontrak;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "diluluskan (tentang permintaan dsb); diperkenankan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabul",
+  "related": [],
+  "detailed": false
+}

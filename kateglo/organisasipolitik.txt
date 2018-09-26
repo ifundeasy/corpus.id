@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "institusi atau seperangkat tatanan yang dipakai masyarakat umum untuk mengatur berbagai masalah bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20politik",
+  "related": [],
+  "detailed": false
+}

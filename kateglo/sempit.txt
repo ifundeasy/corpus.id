@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sempit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "kurang dari ukuran luas (besar) yang diperlukan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) picik (tentang buah pikiran, pandangan, pengetahuan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "penuh sesak (tentang kampung dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) serba sedikit atau hampir kurang (tentang uang, pendapatan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lekas marah; tidak sabar (tentang sifat seseorang);"
+      },
+      {
+        "type": "desc",
+        "text": "mepet (tentang waktu);"
+      },
+      {
+        "type": "desc",
+        "text": "susah (tentang hidup);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sempit",
+  "related": [],
+  "detailed": false
+}

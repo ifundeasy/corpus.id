@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa efek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) pusat perdagangan surat-surat berharga dari perusahaan umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20efek",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perekrutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan merekrut;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) pemilihan dan pengangkatan orang untuk mengisi peran tertentu dalam sistem sosial berdasarkan sifat dan status seperti suku, kelahiran, kedudukan sosial, dan prestasi atau kombinasi dari kesemuanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perekrutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asuransi deposito",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "asuransi atas nasabah bank yang depositonya bernilai sangat besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asuransi%20deposito",
+  "related": [],
+  "detailed": false
+}

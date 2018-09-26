@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah seberang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah di luar Pulau Jawa;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah Malaka (dilihat dari Sumatra);"
+      },
+      {
+        "type": "desc",
+        "text": "luar negeri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20seberang",
+  "related": [],
+  "detailed": false
+}

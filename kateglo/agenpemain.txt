@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen pemain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang (ba-dan) yang bertugas mencari pemain untuk bermain drama dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20pemain",
+  "related": [],
+  "detailed": false
+}

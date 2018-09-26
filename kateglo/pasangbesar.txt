@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "naik (tentang air laut) ketika bulan muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20besar",
+  "related": [],
+  "detailed": false
+}

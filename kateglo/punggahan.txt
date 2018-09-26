@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "punggahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat membongkar muatan;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil membongkar muatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=punggahan",
+  "related": [],
+  "detailed": false
+}

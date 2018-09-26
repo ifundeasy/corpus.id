@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil kepala padi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak yang dikenakan terhadap orang yang mendapatkan izin untuk mengerjakan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20kepala%20padi",
+  "related": [],
+  "detailed": false
+}

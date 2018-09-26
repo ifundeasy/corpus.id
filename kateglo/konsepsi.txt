@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengertian; pendapat (paham);"
+      },
+      {
+        "type": "desc",
+        "text": "rancangan (cita-cita dsb) yang telah ada dalam pikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) percampuran antara inti sel jantan dan inti sel betina; pembuahan benih;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsepsi",
+  "related": [],
+  "detailed": false
+}

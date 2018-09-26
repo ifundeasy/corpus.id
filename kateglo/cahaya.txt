@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cahaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sinar atau terang (dari sesuatu yang bersinar seperti matahari, bulan, lampu) yang memungkinkan mata menangkap bayangan benda-benda di sekitarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "kilau gemerlap (dari emas, berlian);"
+      },
+      {
+        "type": "desc",
+        "text": "kejernihan yang terpancar dari air muka;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) bentuk gelombang elektromagnetik dalam kurun frekuensi getar tertentu yang dapat ditangkap dengan mata manusia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cahaya",
+  "related": [],
+  "detailed": false
+}

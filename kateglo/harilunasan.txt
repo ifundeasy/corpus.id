@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hari lunasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) waktu yang ditentukan sebagai batas yang terakhir bagi pelunasan utang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hari%20lunasan",
+  "related": [],
+  "detailed": false
+}

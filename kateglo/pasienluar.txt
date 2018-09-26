@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasien luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasien yang hanya memperoleh layanan kesehatan tertentu, tidak menginap pada unit pelayanan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien%20luar",
+  "related": [],
+  "detailed": false
+}

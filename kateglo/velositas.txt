@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "velositas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecepatan yang diukur dalam satuan jarak persatuan waktu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=velositas",
+  "related": [],
+  "detailed": false
+}

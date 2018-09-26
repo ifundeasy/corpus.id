@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sisa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "apa yang tertinggal (sesudah dimakan, diambil, dsb); lebihan; saldo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sisa",
+  "related": [],
+  "detailed": false
+}

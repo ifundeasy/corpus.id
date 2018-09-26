@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pecah belah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "cerai-berai; pisah-pisah (tidak bersatu lagi);"
+      },
+      {
+        "type": "desc",
+        "text": "kocar-kacir; morat-marit;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang tembikar (seperti cangkir, piring, mangkuk);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecah%20belah",
+  "related": [],
+  "detailed": false
+}

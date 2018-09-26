@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keberangkatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berangkat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keberangkatan",
+  "related": [],
+  "detailed": false
+}

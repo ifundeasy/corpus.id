@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "danau kutub",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "danau di daerah kutub yang suhu permukaan airnya tidak pernah melebihi 4oC;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=danau%20kutub",
+  "related": [],
+  "detailed": false
+}

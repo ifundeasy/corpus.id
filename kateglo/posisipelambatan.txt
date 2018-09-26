@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "posisi pelambatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kedudukan untuk memperlambat kemajuan musuh tanpa melibatkan diri dalam pertempuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=posisi%20pelambatan",
+  "related": [],
+  "detailed": false
+}

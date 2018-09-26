@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bendul pintu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balok yang dipasang melintang pada bagian bawah pintu; ambang pintu;"
+      },
+      {
+        "type": "desc",
+        "text": "balok yang dipasang sebelah atas atau bawah pintu untuk penguat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendul%20pintu",
+  "related": [],
+  "detailed": false
+}

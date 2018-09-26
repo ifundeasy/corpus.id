@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kimono",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju panjang berlengan lebar dengan selempang besar di pinggang, khas tradisional Jepang, dipakai oleh perempuan;"
+      },
+      {
+        "type": "desc",
+        "text": "baju panjang berlengan lebar, dipakai untuk tidur, sebelum dan sesudah mandi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kimono",
+  "related": [],
+  "detailed": false
+}

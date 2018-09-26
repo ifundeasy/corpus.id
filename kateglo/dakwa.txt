@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dakwa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tuduhan;"
+      },
+      {
+        "type": "desc",
+        "text": "pengaduan atau tuntutan yang diajukan kepada hakim;"
+      },
+      {
+        "type": "desc",
+        "text": "tuntutan atau gugatan yang diajukan oleh seseorang terhadap orang lain karena haknya telah dilanggar, dirugikan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dakwa",
+  "related": [],
+  "detailed": false
+}

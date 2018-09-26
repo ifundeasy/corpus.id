@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filsuf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli filsafat; ahli pikir;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berfilsafat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filsuf",
+  "related": [],
+  "detailed": false
+}

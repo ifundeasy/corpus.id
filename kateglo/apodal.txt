@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "apodal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat tanpa kaki;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat tanpa sirip pinggul seperti pada belut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=apodal",
+  "related": [],
+  "detailed": false
+}

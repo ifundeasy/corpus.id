@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pejalan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang suka atau biasa berjalan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang berjalan kaki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pejalan",
+  "related": [],
+  "detailed": false
+}

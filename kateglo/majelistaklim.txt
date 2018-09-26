@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majelis taklim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lembaga (organisasi) sebagai wadah pengajian;"
+      },
+      {
+        "type": "desc",
+        "text": "sidang pengajian;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat pengajian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majelis%20taklim",
+  "related": [],
+  "detailed": false
+}

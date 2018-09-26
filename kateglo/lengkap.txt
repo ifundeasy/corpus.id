@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lengkap",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada kurangnya; genap;"
+      },
+      {
+        "type": "desc",
+        "text": "sedia segala-galanya; sempurna dengan alat senjata dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "berikut pasangannya (paduannya dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkap",
+  "related": [],
+  "detailed": false
+}

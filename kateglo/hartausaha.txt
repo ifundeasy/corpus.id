@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sediaan bahan baku, barang olahan dan barang jadi, piutang, dan uang tunai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20usaha",
+  "related": [],
+  "detailed": false
+}

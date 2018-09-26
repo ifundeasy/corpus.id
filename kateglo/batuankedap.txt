@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batuan kedap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batuan yang tidak berpori dan tidak memungkinkan air meresap ke dalam (misal batuan granit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batuan%20kedap",
+  "related": [],
+  "detailed": false
+}

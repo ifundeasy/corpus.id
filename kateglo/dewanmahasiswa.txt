@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dewan mahasiswa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan yang anggotanya mewakili para mahasiswa suatu universitas atau perguruan tinggi yang bertugas sebagai lembaga eksekutif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dewan%20mahasiswa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "optik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan penglihatan (cahaya, lensa mata, dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko peralatan optik (kacamata dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=optik",
+  "related": [],
+  "detailed": false
+}

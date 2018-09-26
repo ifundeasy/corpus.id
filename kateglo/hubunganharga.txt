@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hubungan harga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perbandingan harga di antara berbagai komoditas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hubungan%20harga",
+  "related": [],
+  "detailed": false
+}

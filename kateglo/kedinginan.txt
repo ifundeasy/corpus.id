@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedinginan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terkena dingin; menderita dingin; kesejukan;"
+      },
+      {
+        "type": "desc",
+        "text": "terlampau dingin;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat (keadaan) dingin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedinginan",
+  "related": [],
+  "detailed": false
+}

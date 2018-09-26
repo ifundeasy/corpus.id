@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepekatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan pekat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepekatan",
+  "related": [],
+  "detailed": false
+}

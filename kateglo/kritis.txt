@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kritis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan krisis, gawat; genting (tentang suatu keadaan);"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan yang paling menentukan berhasil atau gagalnya suatu usaha;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat tidak lekas percaya;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat selalu berusaha menemukan kesalahan atau kekeliruan;"
+      },
+      {
+        "type": "desc",
+        "text": "tajam dalam penganalisisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kritis",
+  "related": [],
+  "detailed": false
+}

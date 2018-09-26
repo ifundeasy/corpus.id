@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peristiwa sejarah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kejadian atau fakta yang terjadi atau berlangsung di dalam masyarakat dan menjadi sumber data sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peristiwa%20sejarah",
+  "related": [],
+  "detailed": false
+}

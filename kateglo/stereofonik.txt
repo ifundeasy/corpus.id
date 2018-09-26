@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "stereofonik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan cara perekaman lewat kelompok mikrofon yang berlainan dan dimainkan lewat pengeras suara yang berlainan sehingga memberi kesan perubahan arah suara yang sesuai kenyataan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=stereofonik",
+  "related": [],
+  "detailed": false
+}

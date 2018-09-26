@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "edit",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengedit"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=edit",
+  "related": [],
+  "detailed": false
+}

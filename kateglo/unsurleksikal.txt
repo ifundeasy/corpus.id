@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "unsur leksikal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) satuan dari kosakata bahasa seperti kata atau frasa yang didaftarkan dalam kamus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=unsur%20leksikal",
+  "related": [],
+  "detailed": false
+}

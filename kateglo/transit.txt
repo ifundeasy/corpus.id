@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat singgah;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) lintasan barang dagangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transit",
+  "related": [],
+  "detailed": false
+}

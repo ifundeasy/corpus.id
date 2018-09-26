@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mesosfer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) daerah atmosfer yang terletak antara stratopause dan mesopause, pada umumnya di daerah ini makin ke atas, suhunya makin naik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesosfer",
+  "related": [],
+  "detailed": false
+}

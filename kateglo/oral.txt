@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oral",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "melalui saluran pencernaan makanan (tentang pemberian obat);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) berkaitan dengan bunyi bahasa yang dihasilkan oleh udara yang seluruhnya melewati mulut;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan wicara lisan yang dipertentangkan dengan tulisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oral",
+  "related": [],
+  "detailed": false
+}

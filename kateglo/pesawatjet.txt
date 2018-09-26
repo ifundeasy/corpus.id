@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesawat jet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kapal terbang yang digerakkan oleh semburan gas yang dibakar, tidak dengan baling-baling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesawat%20jet",
+  "related": [],
+  "detailed": false
+}

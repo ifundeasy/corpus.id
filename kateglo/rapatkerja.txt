@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rapat kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang untuk membahas masalah yang berkenaan dengan bidang pekerjaan yang dihadapi;"
+      },
+      {
+        "type": "desc",
+        "text": "pertemuan staf untuk membahas hal-hal yang berhubungan dengan pelaksanaan tugas suatu instansi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapat%20kerja",
+  "related": [],
+  "detailed": false
+}

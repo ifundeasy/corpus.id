@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dinas meteorologi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan kegiatan atau badan pemerintah yang bersifat nasional, regional, atau internasional dengan tugas dan kegiatan dalam bidang meteorologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dinas%20meteorologi",
+  "related": [],
+  "detailed": false
+}

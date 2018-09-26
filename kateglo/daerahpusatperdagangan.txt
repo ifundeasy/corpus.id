@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pusat perdagangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah di dalam kota yang merupakan pusat kegiatan dagang dengan toko dan lembaga perdagangan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pusat%20perdagangan",
+  "related": [],
+  "detailed": false
+}

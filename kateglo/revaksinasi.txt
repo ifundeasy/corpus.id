@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "revaksinasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "vaksinasi ulang (setelah jangka waktu tertentu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=revaksinasi",
+  "related": [],
+  "detailed": false
+}

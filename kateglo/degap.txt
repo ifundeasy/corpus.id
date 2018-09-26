@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "degap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi papan dipukul;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi debaran jantung;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark) tegap; gagah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=degap",
+  "related": [],
+  "detailed": false
+}

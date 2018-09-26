@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sumber infeksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "pusat penyebaran kuman penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan atau hewan yang menderita penyakit dan dapat menjadi sumber kuman penyakit yang sewaktu-waktu dapat menyebar ke tempat lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sumber%20infeksi",
+  "related": [],
+  "detailed": false
+}

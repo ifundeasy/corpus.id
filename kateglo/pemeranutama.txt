@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeran utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemeran (dalam film dsb) yang menjadi tokoh utama dalam cerita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeran%20utama",
+  "related": [],
+  "detailed": false
+}

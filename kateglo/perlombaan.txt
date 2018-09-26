@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perlombaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan mengadu kecepatan (keterampilan, ketangkasan, kepandaian, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berlomba;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perlombaan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelempar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang melempar;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk melempar;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk melemparkan;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang ikut dalam olahraga lempar-melempar (seperti melempar lembing, melempar cakram);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelempar",
+  "related": [],
+  "detailed": false
+}

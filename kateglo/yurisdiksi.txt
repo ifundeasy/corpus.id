@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yurisdiksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "kekuasaan mengadili; lingkup kuasa kehakiman; peradilan;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan hak dan kewajiban, serta tanggung jawab dalam suatu wilayah atau lingkungan kerja tertentu; kekuasaan hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yurisdiksi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksekutif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan pengurusan (pengelolaan, pemerintahan) atau penyelenggaraan sesuatu;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) kekuasaan menjalankan undang-undang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) pejabat tingkat tinggi yang bertanggung jawab kepada direktur utama atau pemimpin tertinggi dalam perusahaan atau organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksekutif",
+  "related": [],
+  "detailed": false
+}

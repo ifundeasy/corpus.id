@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jenius",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "genius"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jenius",
+  "related": [],
+  "detailed": false
+}

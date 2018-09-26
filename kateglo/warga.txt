@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "warga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "anggota (keluarga, perkumpulan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) tingkatan dalam masyarakat; kasta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=warga",
+  "related": [],
+  "detailed": false
+}

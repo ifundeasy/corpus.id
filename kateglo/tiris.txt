@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tiris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bocor (terutama tentang atap, genteng, dan perahu);"
+      },
+      {
+        "type": "desc",
+        "text": "merembes dan bertitik-titik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tiris",
+  "related": [],
+  "detailed": false
+}

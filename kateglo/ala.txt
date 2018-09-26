@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ala",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "atas; pada; kepada; akan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) secara;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) tanah yang tidak dikerjakan lagi, tetapi pemilik atau keturunannya masih mempunyai hak utama atas tanah itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ala",
+  "related": [],
+  "detailed": false
+}

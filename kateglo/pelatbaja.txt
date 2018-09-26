@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelat baja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baja yang dicetak pipih panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "baja yang dicetak pipih panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelat%20baja",
+  "related": [],
+  "detailed": false
+}

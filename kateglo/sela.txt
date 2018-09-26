@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sela",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat (ruang) di antara dua benda (barang);"
+      },
+      {
+        "type": "desc",
+        "text": "celah;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang tersisip (terletak) di antara benda-benda dsb; selang;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pelana;"
+      },
+      {
+        "type": "desc",
+        "text": "batu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk) juling (tentang mata);"
+      },
+      {
+        "type": "link",
+        "text": "sila"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sela",
+  "related": [],
+  "detailed": false
+}

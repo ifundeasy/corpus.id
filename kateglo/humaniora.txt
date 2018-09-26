@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humaniora",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu pengetahuan yang meliputi filsafat, hukum, sejarah, bahasa, sastra, seni, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "makna intrinsik nilai-nilai humanisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humaniora",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasien dalam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pasien yang memperoleh pelayanan tinggal atau dirawat pada suatu unit pelayanan kesehatan tertentu; pasien yang dirawat di rumah sakit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien%20dalam",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "a-",
+  "tags": {
+    "bt": [
+      {
+        "type": "desc",
+        "text": "kekurangan;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak atau bukan;"
+      },
+      {
+        "type": "desc",
+        "text": "tanpa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=a-",
+  "related": [],
+  "detailed": false
+}

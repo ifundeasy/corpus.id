@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orbit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang dilalui oleh benda langit dalam peredarannya mengelilingi benda langit lain yang lebih besar gaya gravitasinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orbit",
+  "related": [],
+  "detailed": false
+}

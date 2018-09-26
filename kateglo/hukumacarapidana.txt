@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum acara pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hukum pidana formal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20acara%20pidana",
+  "related": [],
+  "detailed": false
+}

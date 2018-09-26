@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "diskonto kas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) pengurangan harga yang diberikan kepada pembeli karena pembayaran tunai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskonto%20kas",
+  "related": [],
+  "detailed": false
+}

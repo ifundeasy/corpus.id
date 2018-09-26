@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pakaian kebesaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pakaian yang khusus dikenakan pada upacara resmi (kenegaraan, adat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakaian%20kebesaran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nudis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang gemar melakukan praktik nudisme;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang berkaitan dengan nudisme;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nudis",
+  "related": [],
+  "detailed": false
+}

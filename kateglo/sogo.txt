@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sogo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan dagang raksasa Jepang;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan dagang raksasa yang penjualannya secara eceran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sogo",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemegang saham",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilik surat bukti kesertaan dalam modal perusahaan; peserta persekutuan dagang; pesero;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemegang%20saham",
+  "related": [],
+  "detailed": false
+}

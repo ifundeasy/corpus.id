@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sekuritas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag)"
+      },
+      {
+        "type": "desc",
+        "text": "bukti utang atau bukti pernyataan modal, misal saham, obligasi, wesel, sertifikat, dan deposito;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) surat berharga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sekuritas",
+  "related": [],
+  "detailed": false
+}

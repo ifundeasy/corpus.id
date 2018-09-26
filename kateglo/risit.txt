@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "risit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat tanda penerimaan (seperti kuitansi, resi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=risit",
+  "related": [],
+  "detailed": false
+}

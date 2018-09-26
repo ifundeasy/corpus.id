@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "paket udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paket yang dikirimkan melalui pos udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paket%20udara",
+  "related": [],
+  "detailed": false
+}

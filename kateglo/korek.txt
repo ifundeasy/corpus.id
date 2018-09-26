@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "korek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cungkil;"
+      },
+      {
+        "type": "desc",
+        "text": "gerek;"
+      },
+      {
+        "type": "desc",
+        "text": "alat pemantik api; geretan;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hati-hati (sesuai dengan segala sesuatu yang benar); teliti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=korek",
+  "related": [],
+  "detailed": false
+}

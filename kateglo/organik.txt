@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "berkaitan dg zat yang berasal dari makhluk hidup (hewan atau tumbuhan, seperti minyak dan batu bara);"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan organisme hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "bersangkutan dengan pegawai tetap dalam struktur suatu instansi, bukan pegawai honorer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organik",
+  "related": [],
+  "detailed": false
+}

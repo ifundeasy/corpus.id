@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "makna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "arti;"
+      },
+      {
+        "type": "desc",
+        "text": "maksud pembicara atau penulis; pengertian yang diberikan kepada suatu bentuk kebahasaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makna",
+  "related": [],
+  "detailed": false
+}

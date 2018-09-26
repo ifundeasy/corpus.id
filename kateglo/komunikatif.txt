@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komunikatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dalam keadaan saling dapat berhubungan (mudah dihubungi);"
+      },
+      {
+        "type": "desc",
+        "text": "mudah dipahami (dimengerti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komunikatif",
+  "related": [],
+  "detailed": false
+}

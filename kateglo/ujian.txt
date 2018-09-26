@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil menguji; hasil memeriksa;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipakai untuk menguji mutu sesuatu (kepandaian, kemampuan, hasil belajar, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "cobaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian",
+  "related": [],
+  "detailed": false
+}

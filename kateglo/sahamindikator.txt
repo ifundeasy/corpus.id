@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saham indikator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "saham yang sangat berpengaruh terhadap perubahan saham lain dalam bursa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saham%20indikator",
+  "related": [],
+  "detailed": false
+}

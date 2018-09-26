@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pidato televisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pidato yang diucapkan atau ditayangkan melalui televisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pidato%20televisi",
+  "related": [],
+  "detailed": false
+}

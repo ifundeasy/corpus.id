@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akseptor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang menerima serta mengikuti (pelaksanaan) program keluarga berencana;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) orang yang membayar jumlah wesel;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menerima gagasan baru dan melaksanakannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang dapat bereaksi dengan zat lain dengan cara menerima partikel dari zat lain itu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) unsur takmurnian yang menaikkan jumlah lubang pada hablur semipenghantar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akseptor",
+  "related": [],
+  "detailed": false
+}

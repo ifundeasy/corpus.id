@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nilai nominal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nilai yang dicantumkan pada saham atau surat berharga lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nilai%20nominal",
+  "related": [],
+  "detailed": false
+}

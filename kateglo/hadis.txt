@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hadis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Isl)"
+      },
+      {
+        "type": "desc",
+        "text": "sabda, perbuatan, takrir (ketetapan) Nabi Muhammad saw. yang diriwayatkan atau diceritakan oleh sahabat untuk menjelaskan dan menentukan hukum Islam;"
+      },
+      {
+        "type": "desc",
+        "text": "sumber ajaran Islam yang kedua setelah Alquran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hadis",
+  "related": [],
+  "detailed": false
+}

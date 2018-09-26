@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkop surat",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bagian atas surat yang berisi keterangan tentang nama, alamat, dan nomor telepon suatu kantor, lembaga resmi pemerintah, badan usaha, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkop%20surat",
+  "related": [],
+  "detailed": false
+}

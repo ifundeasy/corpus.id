@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kamar baca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ruang (bilik) tempat membaca;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamar%20baca",
+  "related": [],
+  "detailed": false
+}

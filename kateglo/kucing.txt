@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kucing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "binatang yang rupanya seperti harimau kecil, biasa dipiara orang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kucing",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengarah berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "petugas yang memimpin acara pemberitaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengarah%20berita",
+  "related": [],
+  "detailed": false
+}

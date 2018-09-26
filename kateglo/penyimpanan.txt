@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyimpanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan (mengumpulkan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menyimpan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ek) kegiatan pemasaran yang bersangkutan dengan menahan dan menyimpan produk sejak dihasilkan sampai waktu dijual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyimpanan",
+  "related": [],
+  "detailed": false
+}

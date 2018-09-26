@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peredaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gerakan (perjalanan dsb) berkeliling (berputar); keadaan beredar;"
+      },
+      {
+        "type": "desc",
+        "text": "peralihan (pergantian) dari keadaan yang satu ke keadaan yang lain yang berulang- ulang seakan-akan merupakan suatu lingkaran;"
+      },
+      {
+        "type": "desc",
+        "text": "perputaran (uang) dalam masyarakat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peredaran",
+  "related": [],
+  "detailed": false
+}

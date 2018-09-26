@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hubungan logis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan di antara dua peristiwa yang ditemukan dengan sebab, bukan dengan observasi langsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hubungan%20logis",
+  "related": [],
+  "detailed": false
+}

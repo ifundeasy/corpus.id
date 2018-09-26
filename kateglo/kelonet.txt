@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelonet",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "sekelonet"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelonet",
+  "related": [],
+  "detailed": false
+}

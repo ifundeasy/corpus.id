@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buruh tani",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buruh yang menerima upah dengan bekerja di kebun atau di sawah orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buruh%20tani",
+  "related": [],
+  "detailed": false
+}

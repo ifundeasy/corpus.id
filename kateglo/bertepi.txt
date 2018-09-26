@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertepi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada tepinya;"
+      },
+      {
+        "type": "desc",
+        "text": "diberi pinggiran (birai, pelisir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertepi",
+  "related": [],
+  "detailed": false
+}

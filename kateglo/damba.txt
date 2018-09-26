@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "damba",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sangat ingin; rindu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mendamba"
+      },
+      {
+        "type": "desc",
+        "text": "diam, tidak bercakap-cakap karena kurang senang hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=damba",
+  "related": [],
+  "detailed": false
+}

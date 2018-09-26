@@ -1,0 +1,49 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bersih",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bebas dari kotoran;"
+      },
+      {
+        "type": "desc",
+        "text": "bening tidak keruh (tentang air), tidak berawan (tentang langit);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tercemar (terkena kotoran);"
+      },
+      {
+        "type": "desc",
+        "text": "tulus; ikhlas;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak bernoda; suci;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dicampur dengan unsur atau zat lain; asli;"
+      },
+      {
+        "type": "desc",
+        "text": "jelas dan rapi;"
+      },
+      {
+        "type": "desc",
+        "text": "neto (pendapatan, berat, isi, dsb sesudah diambil biaya-biaya, pembungkus, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) habis sama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersih",
+  "related": [],
+  "detailed": false
+}

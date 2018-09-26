@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lampu pengaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Min) lampu khusus untuk tambang batu bara bawah tanah untuk penentuan adanya gas tertentu dalam tambang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lampu%20pengaman",
+  "related": [],
+  "detailed": false
+}

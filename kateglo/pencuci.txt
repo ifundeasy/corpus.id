@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencuci",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat, benda, dsb untuk mencuci;"
+      },
+      {
+        "type": "desc",
+        "text": "tukang cuci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencuci",
+  "related": [],
+  "detailed": false
+}

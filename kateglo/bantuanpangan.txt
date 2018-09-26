@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bantuan pangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bantuan bahan makanan yang diberikan dengan prioritas tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bantuan%20pangan",
+  "related": [],
+  "detailed": false
+}

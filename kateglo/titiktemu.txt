@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik temu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik tempat dua buah garis atau lebih dsb bertemu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20temu",
+  "related": [],
+  "detailed": false
+}

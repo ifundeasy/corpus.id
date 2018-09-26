@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obralan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dijual secara obral;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obralan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biro perlengkapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "unit kerja di suatu instansi yang mengurusi masalah perlengkapan instansi tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biro%20perlengkapan",
+  "related": [],
+  "detailed": false
+}

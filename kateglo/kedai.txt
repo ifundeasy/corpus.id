@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kedai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan tempat berjualan (makanan dsb); warung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedai",
+  "related": [],
+  "detailed": false
+}

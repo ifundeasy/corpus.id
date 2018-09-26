@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "los",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rumah besar panjang (pasar dsb); bangsal;"
+      },
+      {
+        "type": "desc",
+        "text": "kapal mualim (penunjuk jalan di pelabuhan); kapal pandu;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) lepas; bebas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=los",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "singulum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pinggang;"
+      },
+      {
+        "type": "desc",
+        "text": "struktur berbentuk seperti sabut;"
+      },
+      {
+        "type": "desc",
+        "text": "tepi email di sekitar gigi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=singulum",
+  "related": [],
+  "detailed": false
+}

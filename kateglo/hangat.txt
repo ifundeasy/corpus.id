@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hangat",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "agak panas;"
+      },
+      {
+        "type": "desc",
+        "text": "sedikit lebih daripada timbangan (bobot) yang sebenarnya;"
+      },
+      {
+        "type": "desc",
+        "text": "gembira;"
+      },
+      {
+        "type": "desc",
+        "text": "genting; tegang;"
+      },
+      {
+        "type": "desc",
+        "text": "baru saja terjadi; masih baru (tentang peristiwa, kabar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hangat",
+  "related": [],
+  "detailed": false
+}

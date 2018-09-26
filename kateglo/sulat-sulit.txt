@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sulat-sulit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak teratur (tentang gizi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sulat-sulit",
+  "related": [],
+  "detailed": false
+}

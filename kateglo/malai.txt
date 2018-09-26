@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "untaian (bunga, butir padi, gandum, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian bunga, intan, dsb yang dipakai sebagai hiasan kepala, tombak, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perbungaan yang bercabang-cabang, setiap cabang memiliki bunga yang bertangkai, yang mekarnya bergantian dari arah bawah ke atas;"
+      },
+      {
+        "type": "link",
+        "text": "malai-malai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malai",
+  "related": [],
+  "detailed": false
+}

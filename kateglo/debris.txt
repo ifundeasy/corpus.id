@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "debris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) tumpukan pecahan batu atau reruntuhan akibat erosi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=debris",
+  "related": [],
+  "detailed": false
+}

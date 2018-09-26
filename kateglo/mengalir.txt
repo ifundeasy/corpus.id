@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengalir",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergerak maju (tentang air, barang cair, udara, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "meleleh (tentang air mata, peluh, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) berpindah tempat secara beramai-ramai;"
+      },
+      {
+        "type": "desc",
+        "text": "menangkap buaya dengan tali alir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengalir",
+  "related": [],
+  "detailed": false
+}

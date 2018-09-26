@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wawancara kelompok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wawancara yang dilakukan terhadap sekelompok orang dalam waktu yang bersamaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wawancara%20kelompok",
+  "related": [],
+  "detailed": false
+}

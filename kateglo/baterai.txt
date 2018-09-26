@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "baterai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk menghimpun dan membangkitkan aliran listrik;"
+      },
+      {
+        "type": "desc",
+        "text": "lampu senter;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) kesatuan yang terdiri atas beberapa meriam besar (di darat atau di kapal besar) dan orang-orang yang melayaninya;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem kandang ayam yang setiap kandangnya dihuni oleh seekor ayam, biasanya ayam petelur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=baterai",
+  "related": [],
+  "detailed": false
+}

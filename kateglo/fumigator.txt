@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fumigator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat fumigasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fumigator",
+  "related": [],
+  "detailed": false
+}

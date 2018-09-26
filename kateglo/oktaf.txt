@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oktaf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mus)"
+      },
+      {
+        "type": "desc",
+        "text": "nada yang ke-8 dalam deretan tangga nada diatonik yang mempunyai getaran sebanyak dua kali lipat;"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan delapan nada berturut-turut;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) sajak yang terdiri atas delapan larik dalam satu bait;"
+      },
+      {
+        "type": "desc",
+        "text": "(Fis) selang antara dua bunyi yang rasio frekuensi dasarnya sama dengan dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oktaf",
+  "related": [],
+  "detailed": false
+}

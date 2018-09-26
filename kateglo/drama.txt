@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "drama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "komposisi syair atau prosa yang diharapkan dapat menggambarkan kehidupan dan watak melalui tingkah laku (akting) atau dialog yang dipentaskan;"
+      },
+      {
+        "type": "desc",
+        "text": "cerita atau kisah, terutama yang melibatkan konflik atau emosi, yang khusus disusun untuk pertunjukan teater;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) kejadian yang menyedihkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=drama",
+  "related": [],
+  "detailed": false
+}

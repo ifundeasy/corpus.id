@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tengah tiga ribu rupiah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dua ribu lima ratus rupiah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tengah%20tiga%20ribu%20rupiah",
+  "related": [],
+  "detailed": false
+}

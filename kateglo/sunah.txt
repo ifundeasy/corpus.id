@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sunah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan yang biasa ditempuh; kebiasaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Isl) aturan agama yang didasarkan atas segala apa yang dinukilkan dari Nabi Muhammad saw., baik perbuatan, perkataan, sikap, maupun kebiasaan yang tidak pernah ditinggalkannya; hadis;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan yang apabila dilakukan mendapat pahala dan apabila tidak dikerjakan tidak berdosa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sunah",
+  "related": [],
+  "detailed": false
+}

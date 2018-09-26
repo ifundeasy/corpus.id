@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "testing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengujian (percobaan) untuk mengetahui tingkat kemampuan (pengetahuan, keterampilan seseorang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "percobaan (pengujian) sesuatu untuk mengetahui mutunya (nilainya, kekuatannya, susunannya, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=testing",
+  "related": [],
+  "detailed": false
+}

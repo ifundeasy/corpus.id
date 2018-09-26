@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neto",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersih (tentang gaji, pendapatan, timbangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neto",
+  "related": [],
+  "detailed": false
+}

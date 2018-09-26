@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kalangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "galangan (kapal, perahu, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran; gelanggang;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kalangan",
+  "related": [],
+  "detailed": false
+}

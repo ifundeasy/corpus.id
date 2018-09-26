@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persuasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ajakan kepada seseorang dengan cara memberikan alasan dan prospek baik yang meyakinkannya; bujukan halus;"
+      },
+      {
+        "type": "desc",
+        "text": "karangan yang bertujuan membuktikan pendapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persuasi",
+  "related": [],
+  "detailed": false
+}

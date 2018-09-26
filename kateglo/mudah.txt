@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mudah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak memerlukan banyak tenaga atau pikiran dalam mengerjakan; tidak sukar; tidak berat; gampang;"
+      },
+      {
+        "type": "desc",
+        "text": "lekas sekali (menjadi, menderita, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) tidak teguh imannya (gampang terbujuk atau gampang diajak berzina dsb);"
+      },
+      {
+        "type": "link",
+        "text": "mudah-mudahan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mudah",
+  "related": [],
+  "detailed": false
+}

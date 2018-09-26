@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bunyi seperti kaleng berisi batu yang diguncangkan;"
+      },
+      {
+        "type": "link",
+        "text": "kerong-kerong"
+      },
+      {
+        "type": "desc",
+        "text": "nama ikan laut, Plectorhyucus cuvieri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerong",
+  "related": [],
+  "detailed": false
+}

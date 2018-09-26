@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilmu cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu iklim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilmu%20cuaca",
+  "related": [],
+  "detailed": false
+}

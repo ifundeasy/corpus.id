@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "rumus kimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan lambang kimia untuk menyatakan susunan molekul, senyawa, atau campuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumus%20kimia",
+  "related": [],
+  "detailed": false
+}

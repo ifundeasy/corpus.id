@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "persepsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggapan (penerimaan) langsung dari sesuatu; serapan;"
+      },
+      {
+        "type": "desc",
+        "text": "proses seseorang mengetahui beberapa hal melalui pancaindranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persepsi",
+  "related": [],
+  "detailed": false
+}

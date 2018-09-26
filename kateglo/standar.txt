@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "standar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panji-panji; bendera (sebagai lambang);"
+      },
+      {
+        "type": "desc",
+        "text": "alat penopang yang berkaki (untuk menaruh bendera, menyangga sepeda, penopang alat potret, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran tertentu yang dipakai sebagai patokan;"
+      },
+      {
+        "type": "desc",
+        "text": "ukuran atau tingkat biaya hidup;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dag) sesuatu yang dianggap tetap nilainya sehingga dapat dipakai sebagai ukuran nilai (harga);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "baku;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=standar",
+  "related": [],
+  "detailed": false
+}

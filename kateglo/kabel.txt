@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kawat (penghantar arus listrik) berbungkus karet, plastik, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kawat besar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabel",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "melelangkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjual dengan jalan lelang;"
+      },
+      {
+        "type": "desc",
+        "text": "memberikan barang untuk dijual dengan jalan lelang;"
+      },
+      {
+        "type": "desc",
+        "text": "memborongkan pekerjaan (ransum makanan orang penjara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=melelangkan",
+  "related": [],
+  "detailed": false
+}

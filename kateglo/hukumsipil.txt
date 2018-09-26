@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hukum sipil",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) hukum perdata;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hukum%20sipil",
+  "related": [],
+  "detailed": false
+}

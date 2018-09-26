@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siap cetak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tidak perlu ditulis ulang lagi, langsung dapat dicetak (tentang bahan berita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siap%20cetak",
+  "related": [],
+  "detailed": false
+}

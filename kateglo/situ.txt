@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "situ",
+  "tags": {
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(petunjuk) tempat yang tidak jauh dari pembicara;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) engkau; kamu (dalam situasi akrab dan tidak resmi);"
+      },
+      {
+        "type": "desc",
+        "text": "(Sd) danau; telaga;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=situ",
+  "related": [],
+  "detailed": false
+}

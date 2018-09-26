@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oferte",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag) penawaran tertulis dan terperinci dari pihak pengusaha (tentang harga barang, tarif ongkos cetak, tarif sewa kendaraan, dsb) yang diajukan kepada pihak pemesan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oferte",
+  "related": [],
+  "detailed": false
+}

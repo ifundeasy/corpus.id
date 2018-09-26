@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "asian",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bernasib baik; beroleh untung; mujur dalam berdagang;"
+      },
+      {
+        "type": "desc",
+        "text": "manjur (tentang obat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asian",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "masalah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang harus diselesaikan (dipecahkan); soal; persoalan;"
+      }
+    ],
+    "l": [
+      {
+        "type": "desc",
+        "text": "(cak) masya Allah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masalah",
+  "related": [],
+  "detailed": false
+}

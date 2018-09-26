@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "angkutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang-barang (orang-orang dsb) yang diangkut;"
+      },
+      {
+        "type": "desc",
+        "text": "cara mengangkut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkutan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "keping",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang berbentuk pipih tipis (tentang papan, uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kata penggolong bilangan (untuk barang yang pipih seperti papan atau uang logam);"
+      },
+      {
+        "type": "desc",
+        "text": "pecahan; sobekan; tembereng; bagian kecil-kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keping",
+  "related": [],
+  "detailed": false
+}

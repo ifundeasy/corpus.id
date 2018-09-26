@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kedai susu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko tempat menjual air susu; segar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kedai%20susu",
+  "related": [],
+  "detailed": false
+}

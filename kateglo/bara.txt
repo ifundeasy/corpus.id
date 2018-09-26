@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang sesuatu (arang) yang terbakar dan masih berapi;"
+      },
+      {
+        "type": "link",
+        "text": "sara"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bara",
+  "related": [],
+  "detailed": false
+}

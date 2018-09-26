@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kerbat",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengerbat"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl) pundi-pundi dari kulit (tempat air); kirbat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerbat",
+  "related": [],
+  "detailed": false
+}

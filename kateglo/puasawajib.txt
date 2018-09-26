@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puasa wajib",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "puasa yang diwajibkan (misal dalam bulan Ramadan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puasa%20wajib",
+  "related": [],
+  "detailed": false
+}

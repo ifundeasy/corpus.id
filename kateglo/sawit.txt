@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sawit",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "kelapa"
+      },
+      {
+        "type": "link",
+        "text": "sawitan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sawit",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mesin jahit",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mesin untuk menjahit (pakaian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesin%20jahit",
+  "related": [],
+  "detailed": false
+}

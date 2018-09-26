@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bulan kesiangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bulan yang tampak pada siang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) pucat sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bulan%20kesiangan",
+  "related": [],
+  "detailed": false
+}

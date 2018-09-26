@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sorong",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bergeser maju;"
+      },
+      {
+        "type": "desc",
+        "text": "tolak; dorong;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "sogok (uang suap);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sorong",
+  "related": [],
+  "detailed": false
+}

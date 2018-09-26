@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemuat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memuatkan;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk memuatkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemuat",
+  "related": [],
+  "detailed": false
+}

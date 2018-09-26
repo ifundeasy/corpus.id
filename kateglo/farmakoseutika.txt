@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "farmakoseutika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal yang berhubungan dengan farmasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=farmakoseutika",
+  "related": [],
+  "detailed": false
+}

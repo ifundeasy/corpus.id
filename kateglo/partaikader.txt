@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "partai kader",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "struktur kepartaian yang dimonopoli oleh sekelompok anggota partai yang terkemuka;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=partai%20kader",
+  "related": [],
+  "detailed": false
+}

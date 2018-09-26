@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penerbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan menerbangkan;"
+      },
+      {
+        "type": "desc",
+        "text": "perjalanan dengan pesawat terbang; lalu lintas dengan pesawat terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "segala sesuatu yang bertalian dengan lalu lintas udara;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal terbang dengan pesawat terbang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penerbangan",
+  "related": [],
+  "detailed": false
+}

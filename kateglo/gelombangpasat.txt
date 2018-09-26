@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang pasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang yang berpindah-pindah yang merupakan gangguan pada angin timur tropis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20pasat",
+  "related": [],
+  "detailed": false
+}

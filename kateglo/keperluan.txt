@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keperluan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keharusan; kemestian; hal yang perlu;"
+      },
+      {
+        "type": "desc",
+        "text": "kepentingan;"
+      },
+      {
+        "type": "desc",
+        "text": "kebutuhan (barang yang diperlukan);"
+      },
+      {
+        "type": "desc",
+        "text": "maksud; tujuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keperluan",
+  "related": [],
+  "detailed": false
+}

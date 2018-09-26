@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata puri",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Bl) wisata yang objeknya adalah puri (istana) dengan segala isi dan kegiatannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20puri",
+  "related": [],
+  "detailed": false
+}

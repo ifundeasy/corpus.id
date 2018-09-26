@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seperinduk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "semua keturunan yang berasal dari satu induk (sekeluarga, sekaum, sekerabat, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seperinduk",
+  "related": [],
+  "detailed": false
+}

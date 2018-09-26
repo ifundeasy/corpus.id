@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persenjataan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "segala alat dan perlengkapan senjata;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bersenjata; perihal mempersenjatai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persenjataan",
+  "related": [],
+  "detailed": false
+}

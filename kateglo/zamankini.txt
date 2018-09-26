@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "zaman kini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa sekarang ini;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=zaman%20kini",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam terakhir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom) menit-menit terakhir untuk menerima berita sebelum surat kabar mulai dicetak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20terakhir",
+  "related": [],
+  "detailed": false
+}

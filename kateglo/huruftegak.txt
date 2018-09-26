@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "huruf tegak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf yang posisinya tegak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=huruf%20tegak",
+  "related": [],
+  "detailed": false
+}

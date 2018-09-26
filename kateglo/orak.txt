@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orak",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengorak"
+      },
+      {
+        "type": "link",
+        "text": "mengorak"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orak",
+  "related": [],
+  "detailed": false
+}

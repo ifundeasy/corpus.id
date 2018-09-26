@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "termograf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat rekam suhu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=termograf",
+  "related": [],
+  "detailed": false
+}

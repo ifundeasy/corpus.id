@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bening",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersih, putih, dan tidak bercampur tanah dsb (tentang air); jernih;"
+      },
+      {
+        "type": "desc",
+        "text": "bersih dan berkilau (tentang mata, kaca, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "membening"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bening",
+  "related": [],
+  "detailed": false
+}

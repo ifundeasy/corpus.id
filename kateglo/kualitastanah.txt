@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kualitas tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hubungan (interaksi) antara sifat tanah dan keadaan sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kualitas%20tanah",
+  "related": [],
+  "detailed": false
+}

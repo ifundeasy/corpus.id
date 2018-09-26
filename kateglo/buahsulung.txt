@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "buah sulung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buah permulaan (pertama-tama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=buah%20sulung",
+  "related": [],
+  "detailed": false
+}

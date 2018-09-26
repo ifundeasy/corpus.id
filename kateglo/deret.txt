@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "deret",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "susunan (dalam bentuk garis lurus) teratur yang sama arah, jarak, tinggi, dan tingkatan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Stat) kumpulan zat, bilangan, atau kuantitas lain pada kumpulan yang sama yang disusun secara beraturan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) hubungan antara unsur bahasa secara linear, misal deret fonem dalam kata; realisasi dari urutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=deret",
+  "related": [],
+  "detailed": false
+}

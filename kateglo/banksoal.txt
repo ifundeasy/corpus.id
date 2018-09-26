@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank soal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) satuan kerja pada lembaga pendidikan yang mengurus penyimpanan dan penyediaan soal-soal ujian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20soal",
+  "related": [],
+  "detailed": false
+}

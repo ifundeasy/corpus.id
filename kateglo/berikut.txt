@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berikut",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "beserta; beriring dengan;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang tersebut di bawah ini; yang datang sesudah ini; yang menjadi lanjutannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berikut",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "muntah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "keluar kembali makanan (minuman dsb) yang telah masuk ke dalam mulut atau perut;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang dimuntahkan; muntahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) luntur (tentang warna);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) lepas dari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=muntah",
+  "related": [],
+  "detailed": false
+}

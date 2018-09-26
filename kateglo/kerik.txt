@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kerik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi \"rik\", \"rik\" (tentang bunyi gesekan sayap jangkrik, barang yang dikerik, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengerik"
+      },
+      {
+        "type": "link",
+        "text": "kerik api"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kerik",
+  "related": [],
+  "detailed": false
+}

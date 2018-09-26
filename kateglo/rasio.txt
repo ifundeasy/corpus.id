@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rasio",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemikiran menurut akal sehat; akal budi; nalar;"
+      },
+      {
+        "type": "desc",
+        "text": "hubungan taraf atau bilangan antara dua hal yang mirip; perbandingan antara berbagai gejala yang dapat dinyatakan dengan angka; nisbah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasio",
+  "related": [],
+  "detailed": false
+}

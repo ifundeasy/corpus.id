@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "higiene",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang kesehatan dan berbagai usaha untuk mempertahankan atau memperbaiki kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=higiene",
+  "related": [],
+  "detailed": false
+}

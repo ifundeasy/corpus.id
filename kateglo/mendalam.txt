@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mendalam",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "meresap (masuk) ke dalam (seperti lebih paham, lebih mengerti);"
+      },
+      {
+        "type": "desc",
+        "text": "makin sangat; bertambah parah (tentang kemiskinan, penyakit);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) akrab (intim, mesra) sekali;"
+      },
+      {
+        "type": "desc",
+        "text": "luas (sampai hal yang sekecil-kecilnya);"
+      },
+      {
+        "type": "desc",
+        "text": "berurat berakar (tentang kebencian, dendam);"
+      },
+      {
+        "type": "desc",
+        "text": "sungguh-sungguh; benar-benar;"
+      },
+      {
+        "type": "desc",
+        "text": "intensif;"
+      },
+      {
+        "type": "desc",
+        "text": "terperinci; matang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mendalam",
+  "related": [],
+  "detailed": false
+}

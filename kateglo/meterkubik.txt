@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meter kubik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi, panjang, lebar, dan tinggi masing-masing 1 m;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meter%20kubik",
+  "related": [],
+  "detailed": false
+}

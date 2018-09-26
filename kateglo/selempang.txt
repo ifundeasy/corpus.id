@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "selempang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu (seperti pita lebar tanda pangkat dsb) yang disandangkan di bahu, menyerong di dada ke arah pinggang kanan atau kiri;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jk) khawatir (cemas); gelisah (takut, bimbang);"
+      },
+      {
+        "type": "link",
+        "text": "terselempang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=selempang",
+  "related": [],
+  "detailed": false
+}

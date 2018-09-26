@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absente",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seseorang yang tidak hadir;"
+      },
+      {
+        "type": "desc",
+        "text": "ketidakhadiran seseorang;"
+      },
+      {
+        "type": "desc",
+        "text": "perkebunan, tanah, perusahaan, dsb yang jauh dari pemiliknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absente",
+  "related": [],
+  "detailed": false
+}

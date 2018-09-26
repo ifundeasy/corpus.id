@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "miliampere",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "seperseribu ampere;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=miliampere",
+  "related": [],
+  "detailed": false
+}

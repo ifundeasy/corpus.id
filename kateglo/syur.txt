@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "syur",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat menarik hati;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat tertarik hatinya; sangat suka (akan);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "saran; nasihat; anjuran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=syur",
+  "related": [],
+  "detailed": false
+}

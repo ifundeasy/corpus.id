@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "otak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda putih yang lunak terdapat di dalam rongga tengkorak yang menjadi pusat saraf; benak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) alat berpikir; pikiran; benak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) biang keladi; tokoh; gembong;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jk) suka berbuat yang bukan-bukan (supaya disebut pemberani dsb); ugal-ugalan; gila-gilaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=otak",
+  "related": [],
+  "detailed": false
+}

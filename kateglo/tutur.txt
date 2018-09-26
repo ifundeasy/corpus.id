@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tutur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ucapan; kata; perkataan;"
+      },
+      {
+        "type": "link",
+        "text": "tuturan"
+      },
+      {
+        "type": "link",
+        "text": "penuturan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tutur",
+  "related": [],
+  "detailed": false
+}

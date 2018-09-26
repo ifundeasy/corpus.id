@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tendinitis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "peradangan urat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tendinitis",
+  "related": [],
+  "detailed": false
+}

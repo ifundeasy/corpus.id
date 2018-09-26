@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bermain",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melakukan sesuatu untuk bersenang-senang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) melakukan sesuatu yang berbahaya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bermain cinta; bermain serong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bermain",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penumpang gelap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penumpang yang tidak membayar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penumpang%20gelap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batas; sempadan; perhinggaan;"
+      },
+      {
+        "type": "desc",
+        "text": "penjelasan (ketentuan) arti; definisi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batasan",
+  "related": [],
+  "detailed": false
+}

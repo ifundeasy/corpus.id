@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "wisata tirta",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "kegiatan wisata yang berhubungan langsung dengan air atau dilakukan di perairan pantai, danau, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wisata%20tirta",
+  "related": [],
+  "detailed": false
+}

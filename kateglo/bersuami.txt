@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bersuami",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah kawin (tentang wanita); mempunyai suami;"
+      },
+      {
+        "type": "desc",
+        "text": "kawin dengan (tentang wanita);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bersuami",
+  "related": [],
+  "detailed": false
+}

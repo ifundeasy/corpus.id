@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "aliran;"
+      },
+      {
+        "type": "desc",
+        "text": "talang (pipa dsb untuk mengalirkan air);"
+      },
+      {
+        "type": "desc",
+        "text": "pita frekuensi (radio dan televisi);"
+      },
+      {
+        "type": "desc",
+        "text": "prosedur;"
+      },
+      {
+        "type": "desc",
+        "text": "perantara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah pesisir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah di sekitar pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20pesisir",
+  "related": [],
+  "detailed": false
+}

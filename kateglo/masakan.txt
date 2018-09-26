@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masakan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil memasak;"
+      },
+      {
+        "type": "desc",
+        "text": "penganan, lauk-pauk yang dimasak;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bukan sebenarnya; buatan;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "masak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masakan",
+  "related": [],
+  "detailed": false
+}

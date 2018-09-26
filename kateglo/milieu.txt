@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "milieu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lingkungan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=milieu",
+  "related": [],
+  "detailed": false
+}

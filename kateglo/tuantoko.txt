@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tuan toko",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang empunya toko;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tuan%20toko",
+  "related": [],
+  "detailed": false
+}

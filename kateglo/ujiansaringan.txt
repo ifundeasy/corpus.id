@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ujian saringan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ujian yang diselenggarakan untuk menyaring calon (siswa, pegawai, dsb) yang memenuhi syarat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ujian%20saringan",
+  "related": [],
+  "detailed": false
+}

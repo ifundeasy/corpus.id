@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuitansi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat bukti penerimaan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuitansi",
+  "related": [],
+  "detailed": false
+}

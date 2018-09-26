@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertandingan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlombaan dalam olahraga yang menghadapkan dua pemain (atau regu) untuk bertanding;"
+      },
+      {
+        "type": "desc",
+        "text": "persaingan; perbandingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertandingan",
+  "related": [],
+  "detailed": false
+}

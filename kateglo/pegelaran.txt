@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pegelaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat mempergelarkan (drama dsb) yang tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pegelaran",
+  "related": [],
+  "detailed": false
+}

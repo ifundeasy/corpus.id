@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "densitometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kepekatan warna hitam atau nilai nuansa warna (sebagai ganti penilaian dengan mata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=densitometer",
+  "related": [],
+  "detailed": false
+}

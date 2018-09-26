@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dalem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "rumah; istana;"
+      }
+    ],
+    "pron": [
+      {
+        "type": "desc",
+        "text": "(Jw, hor) saya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dalem",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "depresi pusat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) depresi yang luas yang dikelilingi oleh depresi yang lebih kecil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depresi%20pusat",
+  "related": [],
+  "detailed": false
+}

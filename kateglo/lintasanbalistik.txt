@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lintasan balistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lintasan yang dilalui oleh titik berat peluru, jika peluru itu tidak mengalami daya dorong karena mengabaikan keadaan nyata cuaca serta lingkungan bumi, maka lintasan itu akan berbentuk parabola, sedangkan peluru yang ditembakkan dengan sudut 45o akan mencatat jarak lintasan terbesar dari tanah ke tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lintasan%20balistik",
+  "related": [],
+  "detailed": false
+}

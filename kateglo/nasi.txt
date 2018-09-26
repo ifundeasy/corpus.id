@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "beras yang sudah dimasak (dengan cara ditanak atau dikukus);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) rezeki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nasi",
+  "related": [],
+  "detailed": false
+}

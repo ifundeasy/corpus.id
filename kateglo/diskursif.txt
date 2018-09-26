@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diskursif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan nalar;"
+      },
+      {
+        "type": "desc",
+        "text": "disimpulkan secara logis;"
+      },
+      {
+        "type": "desc",
+        "text": "bertebaran, tersebar dsb pada semua benda, hal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diskursif",
+  "related": [],
+  "detailed": false
+}

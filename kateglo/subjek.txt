@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "subjek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok pembicaraan; pokok bahasan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bagian klausa yang menandai apa yang dikatakan oleh pembicara; pokok kalimat;"
+      },
+      {
+        "type": "desc",
+        "text": "pelaku;"
+      },
+      {
+        "type": "desc",
+        "text": "mata pelajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "orang, tempat, atau benda yang diamati dalam rangka pembuntutan sebagai sasaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=subjek",
+  "related": [],
+  "detailed": false
+}

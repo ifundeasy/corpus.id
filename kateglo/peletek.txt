@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peletek",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) →"
+      },
+      {
+        "type": "link",
+        "text": "memeletek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peletek",
+  "related": [],
+  "detailed": false
+}

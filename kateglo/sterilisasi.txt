@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sterilisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "perlakuan untuk menjadikan suatu bahan atau benda bebas dari mikroorganisme dengan cara pemanasan, penyinaran, atau dengan zat kimia untuk mematikan mikroorganisme hidup maupun sporanya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) perlakuan untuk meniadakan kesanggupan berkembang biak pada hewan atau manusia dengan menghilangkan alat kelamin atau menghambat fungsinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sterilisasi",
+  "related": [],
+  "detailed": false
+}

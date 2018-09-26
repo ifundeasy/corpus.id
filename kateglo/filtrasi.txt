@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "filtrasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses penyaringan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=filtrasi",
+  "related": [],
+  "detailed": false
+}

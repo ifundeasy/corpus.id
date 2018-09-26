@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjudian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal berjudi;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat berjudi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjudian",
+  "related": [],
+  "detailed": false
+}

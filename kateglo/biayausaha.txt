@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "biaya usaha",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "biaya yang dikeluarkan untuk menghasilkan dan memasarkan barang serta biaya administrasi umum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=biaya%20usaha",
+  "related": [],
+  "detailed": false
+}

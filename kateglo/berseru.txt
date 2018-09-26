@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berseru",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memanggil atau menarik perhatian dengan suara nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "berkata atau bersuara nyaring;"
+      },
+      {
+        "type": "desc",
+        "text": "mengajak atau menganjurkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berseru",
+  "related": [],
+  "detailed": false
+}

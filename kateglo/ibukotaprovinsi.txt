@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ibu kota provinsi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat kedudukan pusat pemerintahan Daerah Tingkat I atau provinsi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu%20kota%20provinsi",
+  "related": [],
+  "detailed": false
+}

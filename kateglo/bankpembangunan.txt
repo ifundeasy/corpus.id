@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bank pembangunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bank yang dalam pengumpulan dananya menerima simpanan dalam bentuk deposito dan/atau mengeluarkan kertas berharga jangka menengah dan panjang, serta memberikan kredit jangka menengah dan panjang di bidang pembangunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bank%20pembangunan",
+  "related": [],
+  "detailed": false
+}

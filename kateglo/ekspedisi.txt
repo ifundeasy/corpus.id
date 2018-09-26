@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ekspedisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengiriman surat, barang, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "perusahaan pengangkutan barang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) salinan yang sama bunyinya (tentang vonis atau akta);"
+      },
+      {
+        "type": "desc",
+        "text": "perjalanan penyelidikan ilmiah di suatu daerah yang kurang dikenal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) pengiriman tentara untuk memerangi (menyerang, menaklukkan) musuh di suatu daerah yang jauh letaknya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ekspedisi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kumulasi subjektif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk)"
+      },
+      {
+        "type": "desc",
+        "text": "beberapa penggugat yang menghadapi seorang tergugat atau lebih;"
+      },
+      {
+        "type": "desc",
+        "text": "seorang penggugat yang menghadapi lebih dari seorang tergugat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumulasi%20subjektif",
+  "related": [],
+  "detailed": false
+}

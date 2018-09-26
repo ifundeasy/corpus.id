@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lebar dada",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Tern) jarak terpendek antara benjolan bahu kiri dan benjolan bahu kanan hewan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lebar%20dada",
+  "related": [],
+  "detailed": false
+}

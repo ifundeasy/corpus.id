@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nanti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang tidak lama dari sekarang; waktu kemudian; kelak;"
+      }
+    ],
+    "adv": [
+      {
+        "type": "desc",
+        "text": "kalau tidak begitu; kalau tidak;"
+      },
+      {
+        "type": "desc",
+        "text": "akan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "tunggu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nanti",
+  "related": [],
+  "detailed": false
+}

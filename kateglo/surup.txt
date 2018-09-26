@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "surup",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "patut; pantas; layak; sepadan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "kesurupan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surup",
+  "related": [],
+  "detailed": false
+}

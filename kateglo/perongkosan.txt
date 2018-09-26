@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perongkosan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal yang berhubungan dengan ongkos (biaya, belanja);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perongkosan",
+  "related": [],
+  "detailed": false
+}

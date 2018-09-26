@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga mesin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan yang ditimbulkan oleh mesin;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20mesin",
+  "related": [],
+  "detailed": false
+}

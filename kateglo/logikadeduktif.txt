@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "logika deduktif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alur berpikir dengan menarik kesimpulan mulai dari yang umum menuju kepada yang empiris atau hal yang khusus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=logika%20deduktif",
+  "related": [],
+  "detailed": false
+}

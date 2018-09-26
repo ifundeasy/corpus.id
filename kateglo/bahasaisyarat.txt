@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa isyarat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Antr)"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang tidak menggunakan bunyi ucapan manusia atau tulisan dalam sistem perlambangannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) bahasa yang menggunakan isyarat (gerakan tangan, kepala, badan dsb), khusus diciptakan untuk tunarungu, tunawicara, tunanetra, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20isyarat",
+  "related": [],
+  "detailed": false
+}

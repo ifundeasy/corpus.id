@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cat bakar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cat yang disemprotkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cat%20bakar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hakim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengadili perkara (dalam pengadilan atau mahkamah);"
+      },
+      {
+        "type": "desc",
+        "text": "pengadilan;"
+      },
+      {
+        "type": "desc",
+        "text": "juri; penilai (dalam perlombaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "orang pandai-pandai, budiman, dan ahli; orang yang bijak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hakim",
+  "related": [],
+  "detailed": false
+}

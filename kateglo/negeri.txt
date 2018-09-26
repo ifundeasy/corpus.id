@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah tempat tinggal suatu bangsa;"
+      },
+      {
+        "type": "desc",
+        "text": "kampung halaman; tempat kelahiran;"
+      },
+      {
+        "type": "desc",
+        "text": "negara; pemerintah (lawan kata swasta);"
+      },
+      {
+        "type": "desc",
+        "text": "nagari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=negeri",
+  "related": [],
+  "detailed": false
+}

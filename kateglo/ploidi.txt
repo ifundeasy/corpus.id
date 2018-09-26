@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ploidi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) jumlah himpunan kromosom dalam suatu sel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ploidi",
+  "related": [],
+  "detailed": false
+}

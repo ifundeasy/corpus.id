@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sendiri",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "seorang diri; tidak dengan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dibantu (dipengaruhi) orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak dibantu alat lain; otomatis;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepunyaan dari yang disebut (yang bersangkutan), bukan kepunyaan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "diri dari yang bersangkutan (bukan wakil atau pengganti); orang yang sesungguhnya (berkepentingan);"
+      },
+      {
+        "type": "desc",
+        "text": "terpisah dari yang lain; terasing; sendiri-sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "yang paling;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sendiri",
+  "related": [],
+  "detailed": false
+}

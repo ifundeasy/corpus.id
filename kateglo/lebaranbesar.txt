@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "Lebaran Besar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "Lebaran Haji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Lebaran%20Besar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "akun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man)"
+      },
+      {
+        "type": "desc",
+        "text": "kumpulan catatan transaksi keuangan; buku;"
+      },
+      {
+        "type": "desc",
+        "text": "daftar transaksi keuangan yang tersusun dalam buku besar dan yang bertalian dengan jenis harta dan kewajiban tertentu yang dimiliki atau ditanggung gugat oleh orang atau perusahaan; perkiraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akun",
+  "related": [],
+  "detailed": false
+}

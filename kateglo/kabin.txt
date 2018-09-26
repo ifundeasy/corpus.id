@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kabin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kamar di dalam kapal;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang di dalam pesawat terbang tempat para penumpang;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang penumpang dalam mobil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kabin",
+  "related": [],
+  "detailed": false
+}

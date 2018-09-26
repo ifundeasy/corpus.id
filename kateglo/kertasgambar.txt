@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas khusus dan tidak bergaris untuk membuat gambar atau untuk digambari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20gambar",
+  "related": [],
+  "detailed": false
+}

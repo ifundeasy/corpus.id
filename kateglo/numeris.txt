@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "numeris",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "numerik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=numeris",
+  "related": [],
+  "detailed": false
+}

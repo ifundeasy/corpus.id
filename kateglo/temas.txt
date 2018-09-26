@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "temas",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "temas-temas"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=temas",
+  "related": [],
+  "detailed": false
+}

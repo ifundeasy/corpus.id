@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jabatan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan (tugas) dalam pemerintahan atau organisasi;"
+      },
+      {
+        "type": "desc",
+        "text": "fungsi;"
+      },
+      {
+        "type": "desc",
+        "text": "dinas; jawatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jabatan",
+  "related": [],
+  "detailed": false
+}

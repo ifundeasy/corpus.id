@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunggul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pangkal pohon yang masih tinggal tertanam di dalam tanah sehabis ditebang;"
+      },
+      {
+        "type": "desc",
+        "text": "pokok batang yang masih tertinggal sehabis dituai, disabit, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "tonggak (untuk menambatkan perahu dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bendera; panji-panji;"
+      },
+      {
+        "type": "link",
+        "text": "menunggul"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunggul",
+  "related": [],
+  "detailed": false
+}

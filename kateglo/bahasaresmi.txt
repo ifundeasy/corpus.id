@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa resmi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa yang digunakan dalam komunikasi resmi, seperti dalam perundang-undangan dan surat-menyurat dinas;"
+      },
+      {
+        "type": "desc",
+        "text": "bahasa yang diakui sebagai sarana interaksi yang berhubungan dengan pelaksanaan fungsi suatu jabatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20resmi",
+  "related": [],
+  "detailed": false
+}

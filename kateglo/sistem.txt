@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sistem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangkat unsur yang secara teratur saling berkaitan sehingga membentuk suatu totalitas;"
+      },
+      {
+        "type": "desc",
+        "text": "susunan yang teratur dari pandangan, teori, asas, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "metode;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sistem",
+  "related": [],
+  "detailed": false
+}

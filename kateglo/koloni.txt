@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koloni",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah penempatan penduduk;"
+      },
+      {
+        "type": "desc",
+        "text": "(tanah) jajahan;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah pengasingan tempat penyembuhan orang sakit;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) kelompok orang yang bermukim di daerah baru yang merupakan daerah asing, sering jauh dari tanah air dan tetap mempertahankan ikatan dengan tanah air atau negara asal;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) kawanan binatang yang tinggal di suatu daerah, hidup sangat berdekatan dan saling berhubungan satu dengan yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koloni",
+  "related": [],
+  "detailed": false
+}

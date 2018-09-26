@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kebudayaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil kegiatan dan penciptaan batin (akal budi) manusia seperti kepercayaan, kesenian, dan adat istiadat;"
+      },
+      {
+        "type": "desc",
+        "text": "(Antr) keseluruhan pengetahuan manusia sebagai makhluk sosial yang digunakan untuk memahami lingkungan serta pengalamannya dan yang menjadi pedoman tingkah lakunya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kebudayaan",
+  "related": [],
+  "detailed": false
+}

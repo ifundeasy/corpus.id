@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasar amal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berjual beli yang diadakan oleh perkumpulan dsb dengan maksud mencari dana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasar%20amal",
+  "related": [],
+  "detailed": false
+}

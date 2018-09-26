@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "damai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tidak ada perang; tidak ada kerusuhan; aman;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tenteram; tenang;"
+      },
+      {
+        "type": "desc",
+        "text": "keadaan tidak bermusuhan; rukun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=damai",
+  "related": [],
+  "detailed": false
+}

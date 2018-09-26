@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelompat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "atlet dalam cabang olahraga lompat jauh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelompat",
+  "related": [],
+  "detailed": false
+}

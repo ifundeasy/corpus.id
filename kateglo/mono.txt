@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mono",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El) isyarat yang disalurkan melalui saluran tunggal, biasa digunakan dalam sistem pemancar radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mono",
+  "related": [],
+  "detailed": false
+}

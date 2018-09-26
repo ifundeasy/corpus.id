@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ikan olahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikan yang telah diolah, misal ikan asin, pindang, atau ikan kaleng;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ikan%20olahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katedral",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gereja besar tempat kedudukan resmi uskup; gereja keuskupan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katedral",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antihistamin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang digunakan untuk mengurangi atau mencegah reaksi histamin (misal alergi);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antihistamin",
+  "related": [],
+  "detailed": false
+}

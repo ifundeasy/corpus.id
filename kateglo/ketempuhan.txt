@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ketempuhan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terpaksa atau wajib mengganti kerugian (karena merusakkan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat celaan (cercaan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mendapat malu (cela dsb) karena kesalahan orang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketempuhan",
+  "related": [],
+  "detailed": false
+}

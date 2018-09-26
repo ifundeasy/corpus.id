@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keterangan gambar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelasan yang menyertai gambar, ilustrasi, atau sketsa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keterangan%20gambar",
+  "related": [],
+  "detailed": false
+}

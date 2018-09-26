@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cah",
+  "tags": {
+    "i": [
+      {
+        "type": "desc",
+        "text": "kata seru untuk menyatakan perasaan tidak suka, menghina, terkejut, dsb;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Cn) masakan sayur (sawi, jamur, udang, hati ayam, dsb) yang berkuah sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cah",
+  "related": [],
+  "detailed": false
+}

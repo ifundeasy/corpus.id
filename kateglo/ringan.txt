@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ringan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "dapat diangkat dengan mudah; sedikit bobotnya; enteng;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) tidak membahayakan; tidak parah;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) mudah dikerjakan;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sedikit (tidak besar) jumlahnya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sebentar (tidak lama);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ringan",
+  "related": [],
+  "detailed": false
+}

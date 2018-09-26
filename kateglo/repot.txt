@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "repot",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sibuk; ribut; banyak kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "sukar; berabe; dalam kesukaran; kalut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=repot",
+  "related": [],
+  "detailed": false
+}

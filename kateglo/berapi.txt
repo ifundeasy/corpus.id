@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berapi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berisi (mengandung) api; mengeluarkan api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berapi",
+  "related": [],
+  "detailed": false
+}

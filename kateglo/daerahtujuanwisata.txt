@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daerah tujuan wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah yang memiliki objek wisata yang ditunjang oleh masyarakat dan prasarana pariwisata;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang menjadi sasaran kunjungan wisata;"
+      },
+      {
+        "type": "desc",
+        "text": "daerah yang berdasarkan kesiapan prasarana dan sarana dinyatakan siap menerima kunjungan wisatawan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daerah%20tujuan%20wisata",
+  "related": [],
+  "detailed": false
+}

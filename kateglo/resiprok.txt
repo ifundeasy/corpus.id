@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resiprok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) kebalikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resiprok",
+  "related": [],
+  "detailed": false
+}

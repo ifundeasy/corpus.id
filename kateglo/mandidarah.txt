@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mandi darah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berlumuran darah;"
+      },
+      {
+        "type": "desc",
+        "text": "pertumpahan darah (dalam perkelahian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandi%20darah",
+  "related": [],
+  "detailed": false
+}

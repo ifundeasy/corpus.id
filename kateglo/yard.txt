@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "yard",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ukuran panjang (3 kaki atau 0,914 m);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=yard",
+  "related": [],
+  "detailed": false
+}

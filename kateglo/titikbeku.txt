@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik beku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat suhu yang menunjukkan suatu barang cair membeku (menjadi padat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20beku",
+  "related": [],
+  "detailed": false
+}

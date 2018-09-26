@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penjatuhan pidana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Huk) hal yang berhubungan dengan pernyataan hakim dalam memutuskan perkara dan menjatuhkan hukuman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penjatuhan%20pidana",
+  "related": [],
+  "detailed": false
+}

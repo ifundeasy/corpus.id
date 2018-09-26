@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "teruna",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemuda; muda;"
+      },
+      {
+        "type": "desc",
+        "text": "pelajar (siswa) sekolah calon perwira; kadet;"
+      },
+      {
+        "type": "desc",
+        "text": "pria remaja yang masih bujangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=teruna",
+  "related": [],
+  "detailed": false
+}

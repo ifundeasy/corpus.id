@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fantastis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat fantasi; tidak nyata;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak masuk akal;"
+      },
+      {
+        "type": "desc",
+        "text": "sangat luar biasa; sangat hebat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fantastis",
+  "related": [],
+  "detailed": false
+}

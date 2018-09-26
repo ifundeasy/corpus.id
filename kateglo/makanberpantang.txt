@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan berpantang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan dengan aturan tertentu (tidak boleh makan sembarangan); diet;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20berpantang",
+  "related": [],
+  "detailed": false
+}

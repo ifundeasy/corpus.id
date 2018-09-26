@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penanggahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian rumah antara dapur dan tengah rumah;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) dapur (tempat memasak);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penanggahan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "oktroi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag)"
+      },
+      {
+        "type": "desc",
+        "text": "izin yang diberikan kepada pengusaha untuk memproduksi atau memperdagangkan jenis barang-barang tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "hak istimewa yang diberikan pemerintah kepada orang atau badan yang menghasilkan suatu penemuan baru untuk melindunginya dari peniruan oleh pihak lain; hak paten;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oktroi",
+  "related": [],
+  "detailed": false
+}

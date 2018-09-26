@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "transfer",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pindah atau beralih tempat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Olr) pengalihan pemain ke perkumpulan lain dengan imbalan uang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=transfer",
+  "related": [],
+  "detailed": false
+}

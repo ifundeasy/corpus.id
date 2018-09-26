@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minibus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kendaraan bus yang ukurannya lebih kecil dari bus pada umumnya sehingga jumlah penumpang yang dapat diangkutnya juga lebih sedikit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minibus",
+  "related": [],
+  "detailed": false
+}

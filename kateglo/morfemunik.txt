@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "morfem unik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "morfem yang hanya mampu berkombinasi dengan satu satuan tertentu (misal morfem gulita, petas, dan siur pada kombinasi gelap gulita, beras petas, dan simpang siur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=morfem%20unik",
+  "related": [],
+  "detailed": false
+}

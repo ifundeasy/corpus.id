@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ketul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sebanyak isi tangan terkepal (tentang nasi, tanah, dsb); gumpal; kepal;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkerut tegang (tentang otot-otot, urat);"
+      },
+      {
+        "type": "desc",
+        "text": "tumpul;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bodoh; kurang cerdas;"
+      },
+      {
+        "type": "desc",
+        "text": "tulang muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ketul",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelajaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang dipelajari atau diajarkan;"
+      },
+      {
+        "type": "desc",
+        "text": "latihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelajaran",
+  "related": [],
+  "detailed": false
+}

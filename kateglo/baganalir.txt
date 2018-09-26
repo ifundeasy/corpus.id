@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bagan alir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Man) bagan arus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagan%20alir",
+  "related": [],
+  "detailed": false
+}

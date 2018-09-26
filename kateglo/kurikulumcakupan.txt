@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kurikulum cakupan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kurikulum yang berisikan uraian bidang studi yang terdiri atas beberapa macam mata pelajaran yang disajikan secara kait-berkait;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kurikulum%20cakupan",
+  "related": [],
+  "detailed": false
+}

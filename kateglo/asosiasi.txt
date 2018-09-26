@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "asosiasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persatuan antara rekan usaha; persekutuan dagang;"
+      },
+      {
+        "type": "desc",
+        "text": "perkumpulan orang yang mempunyai kepentingan bersama;"
+      },
+      {
+        "type": "desc",
+        "text": "tautan dalam ingatan pada orang atau barang lain; pembentukan hubungan atau pertalian antara gagasan, ingatan, atau kegiatan pancaindra;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=asosiasi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "radikalisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "paham atau aliran yang radikal dalam politik;"
+      },
+      {
+        "type": "desc",
+        "text": "paham atau aliran yang menginginkan perubahan atau pembaharuan sosial dan politik dengan cara kekerasan atau drastis;"
+      },
+      {
+        "type": "desc",
+        "text": "sikap ekstrem dalam aliran politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=radikalisme",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lila",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "meriam kecil terbuat dari tembaga atau gangsa;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rela;"
+      },
+      {
+        "type": "desc",
+        "text": "warna ungu muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lila",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perkoler",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses penyaringan melalui pori halus;"
+      },
+      {
+        "type": "desc",
+        "text": "penyaringan bahan nabati dengan melewatkan pelarut secara lambat;"
+      },
+      {
+        "type": "desc",
+        "text": "peresapan air melalui tanah yang berpori;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perkoler",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lubuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang dalam di sungai (laut, danau, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berlekuk dalam; jeluk;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Hid) daerah hidrosfer yang kedalamannya dapat mencapai 6.000 kaki atau lebih di lautan dan 1.000 kaki atau lebih di danau dan yang tidak tertembus oleh cahaya matahari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lubuk",
+  "related": [],
+  "detailed": false
+}

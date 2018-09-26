@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "puncak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang di atas sekali (tentang gunung, menara, pohon, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "titik sudut segitiga yang berhadapan dengan garis dasar;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) yang tertinggi; teratas; tingkatan (harta, keadaan, dsb) yang tertinggi atau tersangat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puncak",
+  "related": [],
+  "detailed": false
+}

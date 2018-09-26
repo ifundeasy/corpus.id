@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "surat talak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat cerai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=surat%20talak",
+  "related": [],
+  "detailed": false
+}

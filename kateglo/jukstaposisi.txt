@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jukstaposisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penempatan dua objek secara berdampingan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jukstaposisi",
+  "related": [],
+  "detailed": false
+}

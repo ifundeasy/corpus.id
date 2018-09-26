@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "Senin Kamis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ki)"
+      },
+      {
+        "type": "desc",
+        "text": "sangat susah (tentang hidup);"
+      },
+      {
+        "type": "desc",
+        "text": "sesak; tersengal-sengal (tentang napas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=Senin%20Kamis",
+  "related": [],
+  "detailed": false
+}

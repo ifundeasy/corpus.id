@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "majalah berita",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majalah berkala (mingguan) yang menyajikan berita dengan suatu gaya tulisan yang khas dilengkapi dengan foto dan gambar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=majalah%20berita",
+  "related": [],
+  "detailed": false
+}

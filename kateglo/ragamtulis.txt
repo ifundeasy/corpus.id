@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ragam tulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ragam bahasa yang digunakan melalui media tulis, tidak terikat ruang dan waktu sehingga diperlukan kelengkapan struktur sampai pada sasaran secara visual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragam%20tulis",
+  "related": [],
+  "detailed": false
+}

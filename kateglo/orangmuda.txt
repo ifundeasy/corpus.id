@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang muda",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang masih muda;"
+      },
+      {
+        "type": "desc",
+        "text": "pemuda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mk) tukang salung (tari dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20muda",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "wesel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat pos untuk mengirimkan uang;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pembayaran yang dapat diuangkan ke bank oleh pemegangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "konstruksi batang-batang rel kereta api yang bercabang (bersimpangan) tempat memindahkan arah jalan kereta api;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=wesel",
+  "related": [],
+  "detailed": false
+}

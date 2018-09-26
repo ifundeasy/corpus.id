@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "orang tua",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ayah ibu kandung;"
+      },
+      {
+        "type": "desc",
+        "text": "(orang tua) orang yang dianggap tua (cerdik pandai, ahli, dsb); orang-orang yang dihormati (disegani) di kampung; tetua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orang%20tua",
+  "related": [],
+  "detailed": false
+}

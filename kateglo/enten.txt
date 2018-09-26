@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "enten",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "enten-enten"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "mengenten"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=enten",
+  "related": [],
+  "detailed": false
+}

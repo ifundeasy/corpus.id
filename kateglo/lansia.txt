@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lansia",
+  "tags": {
+    "adv": [
+      {
+        "type": "desc",
+        "text": "(akr) →"
+      },
+      {
+        "type": "link",
+        "text": "lanjut usia"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lansia",
+  "related": [],
+  "detailed": false
+}

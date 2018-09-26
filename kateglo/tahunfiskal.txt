@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun fiskal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jangka waktu selama dua belas bulan yang digunakan oleh dunia usaha atau pemerintah untuk pembukuan dan masa dsb tidak perlu sama dengan tahun takwim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20fiskal",
+  "related": [],
+  "detailed": false
+}

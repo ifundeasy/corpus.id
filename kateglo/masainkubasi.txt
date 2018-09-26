@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "masa inkubasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "masa mulai saat penyebab penyakit masuk ke dalam tubuh (saat penularan) sampai saat timbulnya penyakit; masa tunas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=masa%20inkubasi",
+  "related": [],
+  "detailed": false
+}

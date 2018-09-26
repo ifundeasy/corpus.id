@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langgai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "belat penangkap ikan;"
+      },
+      {
+        "type": "desc",
+        "text": "kulit buah kacang-kacangan;"
+      },
+      {
+        "type": "desc",
+        "text": "ikan laut, Trichiuridae;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langgai",
+  "related": [],
+  "detailed": false
+}

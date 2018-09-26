@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "jam bicara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu yang ditentukan untuk menerima tamu (tentang dokter, kepala kantor, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jam%20bicara",
+  "related": [],
+  "detailed": false
+}

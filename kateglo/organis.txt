@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkenaan dengan organ (alat-alat);"
+      },
+      {
+        "type": "desc",
+        "text": "dilengkapi dengan organ (alat-alat);"
+      },
+      {
+        "type": "desc",
+        "text": "organik;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain alat musik organ;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organis",
+  "related": [],
+  "detailed": false
+}

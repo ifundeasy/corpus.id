@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "modal utama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "modal dasar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=modal%20utama",
+  "related": [],
+  "detailed": false
+}

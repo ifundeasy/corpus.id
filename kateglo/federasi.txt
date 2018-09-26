@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "federasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gabungan beberapa perhimpunan yang bekerja sama dan seakan-akan merupakan satu badan, tetapi tetap berdiri sendiri;"
+      },
+      {
+        "type": "desc",
+        "text": "(Pol) gabungan beberapa negara bagian yang dikoordinasi oleh pemerintah pusat yang mengurus hal-hal mengenai kepentingan nasional seluruhnya (seperti keuangan, urusan luar negeri, dan pertahanan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=federasi",
+  "related": [],
+  "detailed": false
+}

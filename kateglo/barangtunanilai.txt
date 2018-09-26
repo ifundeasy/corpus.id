@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barang tunanilai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang konsumsi yang jumlah pembelian dan pemakaiannya berkurang akibat bertambahnya pendapatan konsumen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barang%20tunanilai",
+  "related": [],
+  "detailed": false
+}

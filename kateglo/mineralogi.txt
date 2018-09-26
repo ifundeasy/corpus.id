@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mineralogi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu tentang mineral (barang tambang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mineralogi",
+  "related": [],
+  "detailed": false
+}

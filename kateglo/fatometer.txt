@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fatometer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur kedalaman laut dengan cara mengukur waktu yang dicapai oleh gelombang suara untuk mencapai dasar laut dan kembali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fatometer",
+  "related": [],
+  "detailed": false
+}

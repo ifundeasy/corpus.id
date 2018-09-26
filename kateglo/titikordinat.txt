@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik ordinat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "letak titik perpotongan pada garis horizontal dengan garis vertikal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20ordinat",
+  "related": [],
+  "detailed": false
+}

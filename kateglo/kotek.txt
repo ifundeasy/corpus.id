@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kotek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi kokok ayam betina (biasanya setelah selesai bertelur);"
+      },
+      {
+        "type": "desc",
+        "text": "ekor yang berbulu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kotek",
+  "related": [],
+  "detailed": false
+}

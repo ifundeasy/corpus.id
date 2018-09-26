@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "detail",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian yang kecil-kecil (yang sangat terperinci); segala hal-ihwal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=detail",
+  "related": [],
+  "detailed": false
+}

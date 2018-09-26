@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkunjung",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pergi (datang) untuk menengok (menjumpai dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bepergian;"
+      },
+      {
+        "type": "desc",
+        "text": "melawat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkunjung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rapor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "laporan resmi (kepada yang wajib menerimanya); lapor;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah, berfungsi sebagai laporan guru kepada orang tua atau wali murid;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapor",
+  "related": [],
+  "detailed": false
+}

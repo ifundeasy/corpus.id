@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hutan komunal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hutan yang pemilikan serta pengelolaannya dilakukan bersama-sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hutan%20komunal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perusahaan swasta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perusahaan yang modalnya berasal dari orang-orang atau badan-badan nonpemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perusahaan%20swasta",
+  "related": [],
+  "detailed": false
+}

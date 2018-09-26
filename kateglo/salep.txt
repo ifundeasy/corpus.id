@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "salep",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat luar yang terbuat dari campuran obat dengan zat yang berkonsistensi, seperti mentega, untuk dioleskan pada kulit (untuk kudis, luka, borok, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "minyak kental atau vaselin untuk campuran bahan obat luar, pomade, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=salep",
+  "related": [],
+  "detailed": false
+}

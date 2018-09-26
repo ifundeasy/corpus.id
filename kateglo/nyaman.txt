@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nyaman",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "segar; sehat;"
+      },
+      {
+        "type": "desc",
+        "text": "sedap; sejuk; enak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nyaman",
+  "related": [],
+  "detailed": false
+}

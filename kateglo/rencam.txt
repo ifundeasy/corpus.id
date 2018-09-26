@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rencam",
+  "tags": {
+    "adj": [
+      {
+        "type": "link",
+        "text": "merencam"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rencam",
+  "related": [],
+  "detailed": false
+}

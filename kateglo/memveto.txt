@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memveto",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggunakan hak veto terhadap; membatalkan (menolak) keputusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memveto",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "makan siang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "makan pada waktu siang hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=makan%20siang",
+  "related": [],
+  "detailed": false
+}

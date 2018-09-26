@@ -1,0 +1,39 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rahasia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sesuatu yang sengaja disembunyikan supaya tidak diketahui orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang belum dapat atau sukar diketahui dan dipahami orang;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang tersembunyi;"
+      },
+      {
+        "type": "desc",
+        "text": "cara yang setepat-tepatnya (biasanya tersembunyi atau sukar diketahui); kiat;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang dipercayakan kepada seseorang agar tidak diceritakan kepada orang lain yang tidak berwenang mengetahuinya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "secara diam (sembunyi-sembunyi); tidak secara terangterangan (tentang perkumpulan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rahasia",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monopoli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "situasi yang pengadaan barang dagangannya tertentu (di pasar lokal atau nasional) sekurang-kurangnya sepertiganya dikuasai oleh satu orang atau satu kelompok, sehingga harganya dapat dikendalikan;"
+      },
+      {
+        "type": "desc",
+        "text": "hak tunggal untuk berusaha (membuat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monopoli",
+  "related": [],
+  "detailed": false
+}

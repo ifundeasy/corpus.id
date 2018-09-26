@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batuan lapis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batuan yang terdiri atas beberapa lapisan batuan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batuan%20lapis",
+  "related": [],
+  "detailed": false
+}

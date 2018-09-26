@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "isomorf",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "isoglos pada peta bahasa yang digambarkan melingkari satu unsur morfologis tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) organisme yang mempunyai struktur yang serupa, tetapi berbeda keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=isomorf",
+  "related": [],
+  "detailed": false
+}

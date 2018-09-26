@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katalog",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "carik kartu, daftar, atau buku yang memuat nama benda atau informasi tertentu yang ingin disampaikan, disusun secara berurutan, teratur, dan alfabetis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) daftar barang yang dilengkapi dengan nama, harga, mutu, dan cara pemesanannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katalog",
+  "related": [],
+  "detailed": false
+}

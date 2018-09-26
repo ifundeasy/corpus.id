@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinekdoke",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "majas pertautan yang menyebutkan nama bagian sebagai pengganti nama keseluruhannya;"
+      },
+      {
+        "type": "desc",
+        "text": "majas pertautan yang menyebutkan nama keseluruhan sebagai pengganti nama bagiannya;"
+      },
+      {
+        "type": "desc",
+        "text": "majas pertautan yang menyebutkan nama bahan sebagai pengganti nama barang yang terbuat dari bahan itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinekdoke",
+  "related": [],
+  "detailed": false
+}

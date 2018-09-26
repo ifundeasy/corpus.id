@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "penyebut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "angka dalam pecahan yang menunjukkan pembagiannya, misal dalam 6/7 pembilangnya 6 dan penyebutnya 7;"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang menyebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=penyebut",
+  "related": [],
+  "detailed": false
+}

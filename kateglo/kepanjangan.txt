@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kepanjangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panjangnya;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak) terlalu panjang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) kelanjutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepanjangan",
+  "related": [],
+  "detailed": false
+}

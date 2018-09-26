@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fantasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar (bayangan) dalam angan-angan; khayalan;"
+      },
+      {
+        "type": "desc",
+        "text": "daya untuk menciptakan sesuatu dalam angan-angan;"
+      },
+      {
+        "type": "desc",
+        "text": "hiasan tiruan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fantasi",
+  "related": [],
+  "detailed": false
+}

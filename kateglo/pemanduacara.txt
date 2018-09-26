@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemandu acara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memandu atau memimpin acara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemandu%20acara",
+  "related": [],
+  "detailed": false
+}

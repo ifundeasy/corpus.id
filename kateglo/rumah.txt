@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rumah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan untuk tempat tinggal;"
+      },
+      {
+        "type": "desc",
+        "text": "bangunan pada umumnya (seperti gedung);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rumah",
+  "related": [],
+  "detailed": false
+}

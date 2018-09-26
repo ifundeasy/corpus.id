@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kecendekiaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal cendekia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kecendekiaan",
+  "related": [],
+  "detailed": false
+}

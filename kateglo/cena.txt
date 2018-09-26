@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cena",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ciri; tanda; bukti;"
+      },
+      {
+        "type": "desc",
+        "text": "bekas luka yang sudah baik kembali (bagi ayam sabungan yang menandakan tidak dapat dikalahkan);"
+      },
+      {
+        "type": "desc",
+        "text": "sudah sembuh (tentang ayam sabungan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cena",
+  "related": [],
+  "detailed": false
+}

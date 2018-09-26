@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "benda padat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "benda (barang) yang wujudnya padat dan mempunyai bentuk tertentu (seperti batu, besi, dan kayu);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=benda%20padat",
+  "related": [],
+  "detailed": false
+}

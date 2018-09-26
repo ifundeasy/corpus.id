@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "payu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Jw) laku (tentang barang-barang yang dijual);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=payu",
+  "related": [],
+  "detailed": false
+}

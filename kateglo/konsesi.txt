@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konsesi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "izin untuk membuka tambang, menebang hutan, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "kerelaan (mengurangi tuntutan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konsesi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menarik langkah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melangkah;"
+      },
+      {
+        "type": "desc",
+        "text": "surut ke belakang; mundur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menarik%20langkah",
+  "related": [],
+  "detailed": false
+}

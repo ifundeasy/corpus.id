@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hasil ikutan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hasil tambahan, yang diperoleh di luar hasil pokok (seperti yang terdapat pada pabrik gas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hasil%20ikutan",
+  "related": [],
+  "detailed": false
+}

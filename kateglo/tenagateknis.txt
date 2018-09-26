@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tenaga teknis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "karyawan yang bertugas membantu pimpinan dalam bidang keteknisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tenaga%20teknis",
+  "related": [],
+  "detailed": false
+}

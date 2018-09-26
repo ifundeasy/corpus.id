@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aspirin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat sakit kepala (pilek, demam), berupa puyer atau tablet berwarna putih; asam asetilsalisilat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aspirin",
+  "related": [],
+  "detailed": false
+}

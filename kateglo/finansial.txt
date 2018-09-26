@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "finansial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai (urusan) keuangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=finansial",
+  "related": [],
+  "detailed": false
+}

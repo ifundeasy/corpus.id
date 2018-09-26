@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sidang umum tahunan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sidang umum (MPR) yang diadakan setahun sekali untuk membahas laporan presiden dan masalah lain yang timbul dalam tahun yang telah berjalan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sidang%20umum%20tahunan",
+  "related": [],
+  "detailed": false
+}

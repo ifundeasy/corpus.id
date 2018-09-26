@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "antagonisme",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertentangan antara dua paham (orang dsb) yang berlawanan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bio) gangguan atau penghambatan pertumbuhan makhluk hidup oleh makhluk lainnya dengan jalan menciptakan keadaan lingkungan yang tidak cocok, misal dengan mengeluarkan antibiotika;"
+      },
+      {
+        "type": "desc",
+        "text": "(Dok) sifat bertentangan antara benda serupa misal otot, obat, mikroorganisme, penghambatan perkembangan bakteri oleh bakteri lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=antagonisme",
+  "related": [],
+  "detailed": false
+}

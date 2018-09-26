@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "picis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "uang yang bernilai sepuluh sen; ketip;"
+      },
+      {
+        "type": "link",
+        "text": "picisan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=picis",
+  "related": [],
+  "detailed": false
+}

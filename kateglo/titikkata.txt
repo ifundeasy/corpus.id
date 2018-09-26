@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik kata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keputusan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20kata",
+  "related": [],
+  "detailed": false
+}

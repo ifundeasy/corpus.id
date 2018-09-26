@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengas bebas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Min) kandungan air pada batu bara, yang akan hilang apabila dibiarkan pada udara bebas selama 24 jam atau dipanaskan di atas temperatur ruang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengas%20bebas",
+  "related": [],
+  "detailed": false
+}

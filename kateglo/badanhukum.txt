@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan hukum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan (perkumpulan dsb) yang dalam hukum diakui sebagai subjek hukum (perseroan, yayasan, lembaga, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20hukum",
+  "related": [],
+  "detailed": false
+}

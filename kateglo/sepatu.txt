@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepatu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lapik atau pembungkus kaki yang biasanya dibuat dari kulit (karet dsb), bagian telapak dan tumitnya tebal dan keras;"
+      },
+      {
+        "type": "desc",
+        "text": "sesuatu yang menyerupai sepatu;"
+      },
+      {
+        "type": "link",
+        "text": "kembang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepatu",
+  "related": [],
+  "detailed": false
+}

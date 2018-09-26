@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mediasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses pengikutsertaan pihak ketiga dalam penyelesaian suatu perselisihan sebagai penasihat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mediasi",
+  "related": [],
+  "detailed": false
+}

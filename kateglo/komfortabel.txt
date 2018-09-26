@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komfortabel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ing) nyaman;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komfortabel",
+  "related": [],
+  "detailed": false
+}

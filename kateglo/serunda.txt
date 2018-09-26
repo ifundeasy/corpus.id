@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "serunda",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menyerunda"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "berserunda"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=serunda",
+  "related": [],
+  "detailed": false
+}

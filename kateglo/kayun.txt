@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kayun",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "putar"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "laku; laris;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kayun",
+  "related": [],
+  "detailed": false
+}

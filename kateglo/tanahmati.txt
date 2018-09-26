@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tanah mati",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanah yang tidak diusahakan lagi;"
+      },
+      {
+        "type": "desc",
+        "text": "tanah kuburan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tanah%20mati",
+  "related": [],
+  "detailed": false
+}

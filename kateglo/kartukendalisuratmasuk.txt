@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu kendali surat masuk",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Adm) kartu kendali untuk mengelola surat masuk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20kendali%20surat%20masuk",
+  "related": [],
+  "detailed": false
+}

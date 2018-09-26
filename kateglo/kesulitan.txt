@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesulitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan yang sulit; sesuatu yang sulit;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "kesukaran; kesusahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesulitan",
+  "related": [],
+  "detailed": false
+}

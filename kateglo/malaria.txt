@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "malaria",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit infeksi yang banyak dijumpai di daerah tropis, disertai gejala demam fluktuasi suhu secara teratur, ditularkan oleh nyamuk anofeles;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=malaria",
+  "related": [],
+  "detailed": false
+}

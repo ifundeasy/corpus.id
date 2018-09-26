@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rapsodi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pernyataan kegembiraan (sanjungan) yang berlebihan (dalam puisi, pembicaraan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "lagu yang merupakan jalinan lagu-lagu (musik) yang telah ada;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rapsodi",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "prakiraan cuaca",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "prakiraan keadaan cuaca yang mungkin terjadi di suatu daerah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=prakiraan%20cuaca",
+  "related": [],
+  "detailed": false
+}

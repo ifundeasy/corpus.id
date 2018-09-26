@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "betak-betak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "koyak-koyak; compang-camping (tentang pakaian);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyakit kulit; betik-betik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=betak-betak",
+  "related": [],
+  "detailed": false
+}

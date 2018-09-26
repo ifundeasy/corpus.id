@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alih profesi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "pengalihan atau pengubahan pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alih%20profesi",
+  "related": [],
+  "detailed": false
+}

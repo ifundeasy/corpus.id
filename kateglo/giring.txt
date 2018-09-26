@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "giring",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menggiring"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tumbuhan yang boleh dipakai untuk pupuk hijau; Crotalaria;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "jinak dan dapat pulang masuk kandang sendiri (tentang merpati);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=giring",
+  "related": [],
+  "detailed": false
+}

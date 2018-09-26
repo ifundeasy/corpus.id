@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat raja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perlengkapan raja (seperti ketur, kendi, kipas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20raja",
+  "related": [],
+  "detailed": false
+}

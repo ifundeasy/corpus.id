@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "laba",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "selisih lebih antara harga penjualan yang lebih besar dan harga pembelian atau biaya produksi; keuntungan (yang diperoleh dengan menjual barang lebih tinggi daripada pembeliannya, membungakan uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "faedah; guna; manfaat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=laba",
+  "related": [],
+  "detailed": false
+}

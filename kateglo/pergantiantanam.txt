@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pergantian tanam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penanaman bibit berikutnya yang dilakukan sebelum tanaman pertama dipanen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pergantian%20tanam",
+  "related": [],
+  "detailed": false
+}

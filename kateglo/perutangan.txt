@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perutangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal utang-berutang;"
+      },
+      {
+        "type": "desc",
+        "text": "yang memberi utang; yang menagih utang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perutangan",
+  "related": [],
+  "detailed": false
+}

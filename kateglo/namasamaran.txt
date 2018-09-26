@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama samaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama untuk menggantikan nama yang sebenarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20samaran",
+  "related": [],
+  "detailed": false
+}

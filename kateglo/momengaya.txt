@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "momen gaya",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kecenderungan berputar suatu pengungkit yang besarnya sama dengan hasil kali gaya dengan jarak tegak lurus dari titik tumpu terhadap gaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=momen%20gaya",
+  "related": [],
+  "detailed": false
+}

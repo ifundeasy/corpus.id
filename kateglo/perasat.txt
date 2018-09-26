@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "perasat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pegangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kepandaian memegang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perasat",
+  "related": [],
+  "detailed": false
+}

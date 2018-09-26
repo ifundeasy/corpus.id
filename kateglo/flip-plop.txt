@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "flip-plop",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(El)"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian multivibrator yang stabil;"
+      },
+      {
+        "type": "desc",
+        "text": "rangkaian elektronika yang menjadi pembentuk register dan pencacah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=flip-plop",
+  "related": [],
+  "detailed": false
+}

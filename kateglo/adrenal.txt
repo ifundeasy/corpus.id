@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adrenal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) kelenjar endokrin di atas ginjal yang menghasilkan hormon;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adrenal",
+  "related": [],
+  "detailed": false
+}

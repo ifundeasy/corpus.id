@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kertas sampul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kertas yang mempunyai kemantapan ukuran, mutu lipat, dan keuletan dengan permukaan yang khusus untuk sampul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kertas%20sampul",
+  "related": [],
+  "detailed": false
+}

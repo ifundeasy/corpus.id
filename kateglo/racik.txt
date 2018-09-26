@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "racik",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meracik"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "jerat (dari ijuk, rambut kuda) untuk menangkap burung;"
+      },
+      {
+        "type": "link",
+        "text": "meracik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=racik",
+  "related": [],
+  "detailed": false
+}

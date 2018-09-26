@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rawin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) peralatan untuk mengobservasi arah dan kecepatan angin di atmosfer dengan mengikuti balon yang membawa alat pemancar radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rawin",
+  "related": [],
+  "detailed": false
+}

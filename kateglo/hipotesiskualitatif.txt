@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hipotesis kualitatif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hipotesis yang menunjukkan hubungan sebab akibat dari sudut sifat hubungan sebab akibat tersebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hipotesis%20kualitatif",
+  "related": [],
+  "detailed": false
+}

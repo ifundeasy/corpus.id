@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "seorang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satu orang;"
+      },
+      {
+        "type": "desc",
+        "text": "sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=seorang",
+  "related": [],
+  "detailed": false
+}

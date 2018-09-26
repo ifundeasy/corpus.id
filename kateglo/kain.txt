@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kain",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang yang ditenun dari benang kapas;"
+      },
+      {
+        "type": "desc",
+        "text": "barang tenunan untuk pakaian atau untuk maksud lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kain",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "basung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akar kayu yang ringan;"
+      },
+      {
+        "type": "desc",
+        "text": "daun yang digulung meruncing atau bulat panjang untuk pembungkus sagu;"
+      }
+    ],
+    "num": [
+      {
+        "type": "desc",
+        "text": "ukuran banyak yang jumlahnya dua puluh empat atau dua lusin;"
+      },
+      {
+        "type": "link",
+        "text": "membasung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=basung",
+  "related": [],
+  "detailed": false
+}

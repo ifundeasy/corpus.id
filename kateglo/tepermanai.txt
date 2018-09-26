@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "affix",
+  "value": "a",
+  "text": "tepermanai",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terbilang;"
+      },
+      {
+        "type": "desc",
+        "text": "ternilai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tepermanai",
+  "related": [],
+  "detailed": false
+}

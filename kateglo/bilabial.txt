@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bilabial",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan kedua bibir;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) dihasilkan dengan menyempitkan kedua bibir;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) bunyi atau fonem yang terjadi karena penyempitan kedua bibir (misal [p], [b], dan [m]);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilabial",
+  "related": [],
+  "detailed": false
+}

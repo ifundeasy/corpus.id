@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "layah",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "melayah"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "tudung penutup muka; berguk;"
+      },
+      {
+        "type": "link",
+        "text": "melayah"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ceper (tentang piring, talam, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=layah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "petrokimia",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahan kimia yang diambil atau didapat dari petroleum atau gas alam;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=petrokimia",
+  "related": [],
+  "detailed": false
+}

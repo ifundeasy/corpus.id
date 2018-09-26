@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keausan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal aus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keausan",
+  "related": [],
+  "detailed": false
+}

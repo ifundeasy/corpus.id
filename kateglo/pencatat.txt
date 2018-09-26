@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pencatat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mencatat;"
+      },
+      {
+        "type": "desc",
+        "text": "penulis notula rapat; notulis;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mencatat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pencatat",
+  "related": [],
+  "detailed": false
+}

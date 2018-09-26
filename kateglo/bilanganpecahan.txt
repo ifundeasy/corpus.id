@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan pecahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bilangan yang jumlahnya kurang atau lebih dari bilangan utuh (¼, b, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20pecahan",
+  "related": [],
+  "detailed": false
+}

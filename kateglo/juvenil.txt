@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "juvenil",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "muda, masuk golongan pemuda; terjadinya semasa masih muda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Psi) berkaitan dengan orang muda, biasanya di bawah umur yang masih dalam wajib belajar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=juvenil",
+  "related": [],
+  "detailed": false
+}

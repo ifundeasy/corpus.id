@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sepi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sunyi; lengang;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak ada orang (kendaraan dsb); tidak banyak tamu (pembeli dsb); tidak ada kegiatan; tidak ada apa-apa; tidak ramai;"
+      },
+      {
+        "type": "desc",
+        "text": "dianggap tidak ada apa-apa; tidak dihiraukan sama sekali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sepi",
+  "related": [],
+  "detailed": false
+}

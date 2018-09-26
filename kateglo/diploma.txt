@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "diploma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "surat keterangan resmi yang menyatakan telah tamat sekolah (lulus ujian dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=diploma",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran teratur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran yang dilakukan pada setiap saat yang telah ditetapkan dengan selang waktu yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20teratur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nominalisasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "proses membentuk nomina dari kelas kata yang lain dengan menggunakan afiks tertentu;"
+      },
+      {
+        "type": "desc",
+        "text": "proses atau hasil membentuk satuan berkelas nominal dari kata, frasa, klausa, atau kalimat berkelas lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nominalisasi",
+  "related": [],
+  "detailed": false
+}

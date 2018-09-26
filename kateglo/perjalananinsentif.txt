@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "perjalanan insentif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perjalanan wisata yang ditawarkan oleh suatu perusahaan kepada pegawai perusahaan sebagai imbalan atas suatu usaha yang berhasil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=perjalanan%20insentif",
+  "related": [],
+  "detailed": false
+}

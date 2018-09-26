@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pekerti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perangai; tabiat; akhlak; watak;"
+      },
+      {
+        "type": "desc",
+        "text": "perbuatan (kurang baik);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pekerti",
+  "related": [],
+  "detailed": false
+}

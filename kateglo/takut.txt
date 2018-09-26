@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "takut",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "merasa gentar (ngeri) menghadapi sesuatu yang dianggap akan mendatangkan bencana;"
+      },
+      {
+        "type": "desc",
+        "text": "takwa; segan dan hormat;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak berani (berbuat, menempuh, menderita, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gelisah; khawatir (kalau ...);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=takut",
+  "related": [],
+  "detailed": false
+}

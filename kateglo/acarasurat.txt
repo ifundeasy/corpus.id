@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "acara surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pokok isi surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=acara%20surat",
+  "related": [],
+  "detailed": false
+}

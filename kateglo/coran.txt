@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "coran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek)"
+      },
+      {
+        "type": "desc",
+        "text": "hasil pengecoran;"
+      },
+      {
+        "type": "desc",
+        "text": "adukan semen dan batu kerikil;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=coran",
+  "related": [],
+  "detailed": false
+}

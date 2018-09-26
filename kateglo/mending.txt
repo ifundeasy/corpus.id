@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mending",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(cak)"
+      },
+      {
+        "type": "desc",
+        "text": "lebih baik (daripada yang lain); agak baik; lumayan;"
+      },
+      {
+        "type": "desc",
+        "text": "lebih baik kalau ...;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mending",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengukur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang mengukur;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengukur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "markas tentara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "markas yang menjadi pusat ketentaraan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=markas%20tentara",
+  "related": [],
+  "detailed": false
+}

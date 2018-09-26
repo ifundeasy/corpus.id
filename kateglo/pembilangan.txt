@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembilangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cara, proses, perbuatan membilang;"
+      },
+      {
+        "type": "desc",
+        "text": "perhitungan untuk mengetahui untung malang, baik buruk hari, dsb; bilangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembilangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ledek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "penari dan penyanyi kesenian tradisional (keliling); ronggeng keliling;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "meledek"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ledek",
+  "related": [],
+  "detailed": false
+}

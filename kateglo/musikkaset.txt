@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "musik kaset",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik yang direkam dalam kaset;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=musik%20kaset",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "urutan pengumpanan balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) dua kaidah, A dan B berurutan sehingga A akan mengumpani B bila urutannya dibalik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urutan%20pengumpanan%20balik",
+  "related": [],
+  "detailed": false
+}

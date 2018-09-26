@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "embargo",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyitaan sementara terhadap kapal-kapal asing, misal pada waktu perang, dengan maksud agar kapal-kapal itu tidak meninggalkan pelabuhan;"
+      },
+      {
+        "type": "desc",
+        "text": "larangan lalu lintas barang (antarnegara);"
+      },
+      {
+        "type": "desc",
+        "text": "larangan menyiarkan berita sebelum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=embargo",
+  "related": [],
+  "detailed": false
+}

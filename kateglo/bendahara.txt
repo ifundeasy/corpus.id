@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bendahara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penanggung jawab (pemegang) atau pengurus keuangan (yayasan, perkumpulan, dsb); bendahari;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pemegang harta benda (kekayaan) negara atau raja;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) perdana menteri; wazir;"
+      },
+      {
+        "type": "desc",
+        "text": "menteri (dalam permainan catur);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bendahara",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lekuk memanjang (di tanah, kayu, sungai, bagian tubuh, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "jalan (aturan, adat) yang benar;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) rangkaian peristiwa yang direka dan dijalin dengan saksama dan menggerakkan jalan cerita melalui kerumitan ke arah klimaks dan penyelesaian;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) jalinan peristiwa dalam karya sastra untuk mencapai efek tertentu (pautannya dapat diwujudkan oleh hubungan temporal atau waktu dan oleh hubungan kausal atau sebab-akibat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alur",
+  "related": [],
+  "detailed": false
+}

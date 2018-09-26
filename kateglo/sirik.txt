@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sirik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "iri hati; dengki;"
+      },
+      {
+        "type": "link",
+        "text": "syirik"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "menyirik"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sirik",
+  "related": [],
+  "detailed": false
+}

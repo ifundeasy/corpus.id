@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bursa kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat yang menjadi tempat penawaran pekerjaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bursa%20kerja",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "orbital",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis) bagian ruang dengan peluang tinggi untuk menjumpai elektron tertentu dalam sebuah atom;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=orbital",
+  "related": [],
+  "detailed": false
+}

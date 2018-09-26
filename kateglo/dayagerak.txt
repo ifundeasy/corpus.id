@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya gerak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekuatan menggerakkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20gerak",
+  "related": [],
+  "detailed": false
+}

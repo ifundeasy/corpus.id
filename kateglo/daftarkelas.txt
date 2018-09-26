@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar kelas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar yang memuat catatan tentang hal ihwal murid, seperti identitas orang tua, kesehatan, daftar hadir, daftar nilai tiap caturwulan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20kelas",
+  "related": [],
+  "detailed": false
+}

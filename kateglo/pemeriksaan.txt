@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemeriksaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "proses, cara, perbuatan memeriksa;"
+      },
+      {
+        "type": "desc",
+        "text": "hasil (pendapatan) memeriksa; periksaan;"
+      },
+      {
+        "type": "desc",
+        "text": "penyelidikan; pengusutan (perkara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemeriksaan",
+  "related": [],
+  "detailed": false
+}

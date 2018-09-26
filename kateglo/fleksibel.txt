@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fleksibel",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lentur; mudah dibengkokkan;"
+      },
+      {
+        "type": "desc",
+        "text": "luwes; mudah dan cepat menyesuaikan diri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fleksibel",
+  "related": [],
+  "detailed": false
+}

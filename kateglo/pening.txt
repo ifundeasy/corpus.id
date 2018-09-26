@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pening",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pusing kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "bingung (tidak tahu akal dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "pusing kepala;"
+      },
+      {
+        "type": "desc",
+        "text": "bingung (tidak tahu akal dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pening",
+  "related": [],
+  "detailed": false
+}

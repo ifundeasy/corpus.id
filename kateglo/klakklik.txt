@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klakklik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suara 'klik' berkali-kali, seperti suara kamera yang ditekan berkali-kali;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klakklik",
+  "related": [],
+  "detailed": false
+}

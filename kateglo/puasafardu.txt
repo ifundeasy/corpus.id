@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "puasa fardu",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "puasa wajib;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=puasa%20fardu",
+  "related": [],
+  "detailed": false
+}

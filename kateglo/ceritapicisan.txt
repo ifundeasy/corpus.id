@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cerita picisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "cerita yang terbit dalam majalah picisan;"
+      },
+      {
+        "type": "desc",
+        "text": "cerita yang bersifat picisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cerita%20picisan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tajuk surat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kepala surat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tajuk%20surat",
+  "related": [],
+  "detailed": false
+}

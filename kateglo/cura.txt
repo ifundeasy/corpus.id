@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cura",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelakar; olok-olok;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lucu;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bercura-cura"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cura",
+  "related": [],
+  "detailed": false
+}

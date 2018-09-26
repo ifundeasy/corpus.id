@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lenda",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(ark) →"
+      },
+      {
+        "type": "link",
+        "text": "melenda"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lenda",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "puas dan lega, tanpa rasa susah dan kecewa, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "betah;"
+      },
+      {
+        "type": "desc",
+        "text": "berbahagia (tidak ada sesuatu yang menyusahkan, tidak kurang suatu apa dalam hidupnya);"
+      },
+      {
+        "type": "desc",
+        "text": "suka; gembira;"
+      },
+      {
+        "type": "desc",
+        "text": "sayang;"
+      },
+      {
+        "type": "desc",
+        "text": "dalam keadaan baik (tentang kesehatan, kenyamanan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "mudah; serba mudah; praktis;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senang",
+  "related": [],
+  "detailed": false
+}

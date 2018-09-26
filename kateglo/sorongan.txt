@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sorongan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "yang disorong(kan);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk menyorong;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian; hadiah; suapan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sorongan",
+  "related": [],
+  "detailed": false
+}

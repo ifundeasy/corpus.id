@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "depot logistik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gudang yang menyimpan logistik (barang sediaan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=depot%20logistik",
+  "related": [],
+  "detailed": false
+}

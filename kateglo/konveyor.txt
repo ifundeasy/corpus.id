@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konveyor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat mekanis untuk membawa (mengangkut dsb) barang dari suatu tempat ke tempat lain (dengan ban atau rantai berjalan);"
+      },
+      {
+        "type": "desc",
+        "text": "pembawa; pengantar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konveyor",
+  "related": [],
+  "detailed": false
+}

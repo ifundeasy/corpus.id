@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "efek pemanasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Psi) efek terhadap prestasi penyelesaian suatu tugas yang didahului oleh pemanasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=efek%20pemanasan",
+  "related": [],
+  "detailed": false
+}

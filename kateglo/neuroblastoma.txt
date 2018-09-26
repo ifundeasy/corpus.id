@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "neuroblastoma",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) neoplasma ganas pada sistem saraf (terutama pada bayi dan anak di bawah umur sepuluh tahun);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=neuroblastoma",
+  "related": [],
+  "detailed": false
+}

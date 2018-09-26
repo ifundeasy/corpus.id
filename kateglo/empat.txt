@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "empat",
+  "tags": {
+    "num": [
+      {
+        "type": "desc",
+        "text": "bilangan yang dilambangkan dengan angka 4 (Arab) atau IV (Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "urutan ke-4 sesudah ke-3 dan sebelum ke-5;"
+      },
+      {
+        "type": "desc",
+        "text": "jumlah bilangan 3 ditambah 1;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=empat",
+  "related": [],
+  "detailed": false
+}

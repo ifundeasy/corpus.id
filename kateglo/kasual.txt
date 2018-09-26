@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kasual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sederhana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kasual",
+  "related": [],
+  "detailed": false
+}

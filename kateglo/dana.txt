@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dana",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "uang yang disediakan untuk suatu keperluan; biaya;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberian; hadiah; derma;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dana",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angiogenesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jaringan yang dalam keadaan normal berperan dalam pertumbuhan dan penyembuhan jaringan, tetapi dalam keadaan abnormal tumbuh tidak terkendali menjadi sel tumor;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angiogenesis",
+  "related": [],
+  "detailed": false
+}

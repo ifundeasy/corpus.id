@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuadripartit",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terdiri atau terbagi atas empat bagian;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "melibatkan empat peserta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuadripartit",
+  "related": [],
+  "detailed": false
+}

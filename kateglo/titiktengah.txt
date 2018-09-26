@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik tengah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "titik pusat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20tengah",
+  "related": [],
+  "detailed": false
+}

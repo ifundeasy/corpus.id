@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "konklusi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "simpulan (pendapat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konklusi",
+  "related": [],
+  "detailed": false
+}

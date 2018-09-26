@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "cetak balikan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Graf) cetakan pada bagian belakang lembaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cetak%20balikan",
+  "related": [],
+  "detailed": false
+}

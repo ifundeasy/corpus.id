@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "atrium",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rongga dada;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang tengah yang terbuka, biasanya beratap kaca, di dalam sebuah gedung, seperti pusat perbelanjaan dan hotel; beranda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Anat) bagian jantung yang menerima darah dari pembuluh darah balik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=atrium",
+  "related": [],
+  "detailed": false
+}

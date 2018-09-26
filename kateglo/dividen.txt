@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dividen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dag)"
+      },
+      {
+        "type": "desc",
+        "text": "bagian laba atau pendapatan perusahaan yang besarnya ditetapkan oleh direksi serta disahkan oleh rapat pemegang saham untuk dibagikan kepada para pemegang saham;"
+      },
+      {
+        "type": "desc",
+        "text": "sejumlah uang yang berasal dari hasil keuntungan yang dibayarkan kepada pemegang saham sebuah perseroan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dividen",
+  "related": [],
+  "detailed": false
+}

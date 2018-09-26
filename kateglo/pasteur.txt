@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasteur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengawetan dengan pemanasan (susu) pada suhu 80oC;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasteur",
+  "related": [],
+  "detailed": false
+}

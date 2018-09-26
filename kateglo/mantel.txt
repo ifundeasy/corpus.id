@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mantel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "baju panjang (biasanya dari bahan kain tebal), berlengan atau tidak berlengan untuk menyelubungi tubuh;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) lipatan kulit yang menyelubungi badan pada moluska, cangkang pada individu bercangkang, dan dinding tubuh pada cumi-cumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) bagian terbesar dari lapisan kulit bumi yang terdapat di bawah kerak bumi;"
+      },
+      {
+        "type": "desc",
+        "text": "(Geo) lapisan batuan lepas pada permukaan bumi yang merupakan bahan dasar bagi pembentukan tanah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mantel",
+  "related": [],
+  "detailed": false
+}

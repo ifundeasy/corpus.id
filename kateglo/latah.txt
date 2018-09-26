@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "latah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "menderita sakit saraf dengan suka meniru-niru perbuatan atau ucapan orang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "berlaku seperti orang gila (misal karena kematian orang yang dikasihi);"
+      },
+      {
+        "type": "desc",
+        "text": "meniru-niru sikap, perbuatan, atau kebiasaan orang atau bangsa lain;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark) sampah (daun-daun dsb yang telah membusuk) di bawah pohon-pohonan (di hutan dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=latah",
+  "related": [],
+  "detailed": false
+}

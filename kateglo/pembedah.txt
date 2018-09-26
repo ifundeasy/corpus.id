@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pembedah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang membedah;"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membedah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pembedah",
+  "related": [],
+  "detailed": false
+}

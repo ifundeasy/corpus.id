@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hak pengarang",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hak yang diberikan kepada pengarang berdasarkan undang-undang hak cipta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hak%20pengarang",
+  "related": [],
+  "detailed": false
+}

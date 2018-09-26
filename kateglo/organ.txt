@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "organ",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio)"
+      },
+      {
+        "type": "desc",
+        "text": "alat yang mempunyai tugas tertentu di dalam tubuh manusia (binatang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "majalah atau surat kabar milik perkumpulan (partai dsb) sebagai sarana untuk mengemukakan pendapatnya (suara perkumpulannya);"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik besar seperti piano yang menghasilkan nada dari udara yang diembuskan ke dalam pipa yang berbeda bentuk dan ukuran; orgel; harmonium;"
+      },
+      {
+        "type": "desc",
+        "text": "alat musik yang nadanya dihasilkan melalui dawai elektronik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organ",
+  "related": [],
+  "detailed": false
+}

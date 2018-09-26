@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dialog pemancing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) kata-kata pemancing yang diucapkan oleh seorang pemain kepada pemain lain yang lupa akan percakapan lanjutannya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dialog%20pemancing",
+  "related": [],
+  "detailed": false
+}

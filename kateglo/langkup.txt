@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "langkup",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "terlangkup"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "langkupan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=langkup",
+  "related": [],
+  "detailed": false
+}

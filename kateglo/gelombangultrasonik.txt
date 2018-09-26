@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang ultrasonik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang getar dengan frekuensi 27.000 hertz yang dihasilkan oleh generator;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20ultrasonik",
+  "related": [],
+  "detailed": false
+}

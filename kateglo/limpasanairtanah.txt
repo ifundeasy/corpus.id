@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "limpasan air tanah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "limpasan yang telah menjadi air tanah yang kemudian mengalir ke sungai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limpasan%20air%20tanah",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontras",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "memperlihatkan perbedaan yang nyata apabila diperbandingkan;"
+      },
+      {
+        "type": "desc",
+        "text": "memperlihatkan perbedaan nyata (dalam hal warna, rupa, ukuran, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontras",
+  "related": [],
+  "detailed": false
+}

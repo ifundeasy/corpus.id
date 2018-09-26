@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "triwulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiga bulan; satu kuartal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=triwulan",
+  "related": [],
+  "detailed": false
+}

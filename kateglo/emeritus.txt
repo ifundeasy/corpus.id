@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emeritus",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhenti dari dinas aktif, biasanya karena usia, tetapi tetap memegang jabatan atau titelnya, misal profesor emeritus;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "seseorang yang berstatus emeritus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emeritus",
+  "related": [],
+  "detailed": false
+}

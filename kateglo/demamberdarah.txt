@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam berdarah",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "penyakit demam yang disebabkan oleh gigitan nyamuk jenis tertentu yang menyebabkan bintik-bintik merah pada kulit serta perdarahan yang keluar dari lubang hidung, lubang telinga, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20berdarah",
+  "related": [],
+  "detailed": false
+}

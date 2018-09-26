@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pecahan seharga",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan yang mempunyai nilai yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecahan%20seharga",
+  "related": [],
+  "detailed": false
+}

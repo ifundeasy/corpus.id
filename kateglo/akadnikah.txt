@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "akad nikah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelaksanaan nikah dengan ijab dan kabul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=akad%20nikah",
+  "related": [],
+  "detailed": false
+}

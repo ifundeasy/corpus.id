@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tembusan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jalan (sungai dsb) yang tembus;"
+      },
+      {
+        "type": "desc",
+        "text": "terusan; terowongan;"
+      },
+      {
+        "type": "desc",
+        "text": "rekaman surat (surat dsb yang ditulis dengan kertas karbon yang diketik); tindasan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tembusan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konversi makanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah pakan yang dibutuhkan per satuan produksi ternak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konversi%20makanan",
+  "related": [],
+  "detailed": false
+}

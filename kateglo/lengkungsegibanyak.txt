@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lengkung segi banyak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mat) segi banyak yang semua sisinya menyinggung suatu lengkung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lengkung%20segi%20banyak",
+  "related": [],
+  "detailed": false
+}

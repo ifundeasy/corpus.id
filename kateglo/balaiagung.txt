@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai agung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "balai kota;"
+      },
+      {
+        "type": "desc",
+        "text": "balai besar;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang digunakan oleh aparat pemerintah untuk mengadakan rapat atau kegiatan kemasyarakatan lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20agung",
+  "related": [],
+  "detailed": false
+}

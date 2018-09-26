@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "graha",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "gerha"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menangkap;"
+      },
+      {
+        "type": "desc",
+        "text": "buaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=graha",
+  "related": [],
+  "detailed": false
+}

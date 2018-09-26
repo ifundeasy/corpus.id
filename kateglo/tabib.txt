@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tabib",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang pekerjaannya mengobati orang sakit secara tradisional, seperti dukun;"
+      },
+      {
+        "type": "desc",
+        "text": "dokter;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tabib",
+  "related": [],
+  "detailed": false
+}

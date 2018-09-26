@@ -1,0 +1,37 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanggapan indra terhadap rangsangan saraf, seperti manis, pahit, masam terhadap indra pengecap, atau panas, dingin, nyeri terhadap indra perasa);"
+      },
+      {
+        "type": "desc",
+        "text": "apa yang dialami oleh badan;"
+      },
+      {
+        "type": "desc",
+        "text": "sifat rasa suatu benda;"
+      },
+      {
+        "type": "desc",
+        "text": "tanggapan hati terhadap sesuatu (indra);"
+      },
+      {
+        "type": "desc",
+        "text": "pendapat (pertimbangan) mengenai baik atau buruk, salah atau benar;"
+      },
+      {
+        "type": "link",
+        "text": "air rasa"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasa",
+  "related": [],
+  "detailed": false
+}

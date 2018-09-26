@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "urun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menyumbang; menyokong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=urun",
+  "related": [],
+  "detailed": false
+}

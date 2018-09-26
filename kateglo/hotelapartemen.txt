@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "hotel apartemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan bercorak hotel yang terdiri atas beberapa apartemen, yang tidak menyediakan jasa katering;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hotel%20apartemen",
+  "related": [],
+  "detailed": false
+}

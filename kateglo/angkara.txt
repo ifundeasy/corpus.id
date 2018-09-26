@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "angkara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kebengisan;"
+      },
+      {
+        "type": "desc",
+        "text": "kekurangajaran (terhadap perempuan dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "loba; tamak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=angkara",
+  "related": [],
+  "detailed": false
+}

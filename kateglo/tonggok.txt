@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tonggok",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "longgok; tumpuk;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bertonggok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tonggok",
+  "related": [],
+  "detailed": false
+}

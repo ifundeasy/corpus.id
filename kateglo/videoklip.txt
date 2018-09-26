@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "videoklip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan guntingan gambar hidup (iklan, musik, dsb) untuk ditayangkan lewat pesawat televisi atau layar bioskop; rekaman pendek adegan video biasa yang diambil dari rekaman video atau film yang lebih panjang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=videoklip",
+  "related": [],
+  "detailed": false
+}

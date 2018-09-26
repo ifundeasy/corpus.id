@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "infus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemasukan obat dsb (berupa cairan) tanpa tekanan istimewa melalui pembuluh darah atau rongga badan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=infus",
+  "related": [],
+  "detailed": false
+}

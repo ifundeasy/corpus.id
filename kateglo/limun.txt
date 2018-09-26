@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "limun",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "minuman manis dengan rasa sari buah-buahan (dikemas dalam botol);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "limunan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=limun",
+  "related": [],
+  "detailed": false
+}

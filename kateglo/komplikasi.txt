@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komplikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "penyakit yang baru timbul kemudian sebagai tambahan pada penyakit yang sudah ada;"
+      },
+      {
+        "type": "desc",
+        "text": "percampuran yang kusut (dari berbagai hal); kerumitan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komplikasi",
+  "related": [],
+  "detailed": false
+}

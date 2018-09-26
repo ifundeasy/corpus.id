@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pertanian kering",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pertanian tanpa irigasi di daerah yang curah hujannya terbatas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pertanian%20kering",
+  "related": [],
+  "detailed": false
+}

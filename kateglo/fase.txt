@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fase",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tingkatan masa (perubahan, perkembangan, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fase",
+  "related": [],
+  "detailed": false
+}

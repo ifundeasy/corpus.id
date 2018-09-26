@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengambil panjang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menjadikan urusan yang panjang (seperti mengadukan kepada polisi dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak memaafkan kesalahan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengambil%20panjang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nini",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nenek;"
+      },
+      {
+        "type": "desc",
+        "text": "panggilan untuk perempuan tua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nini",
+  "related": [],
+  "detailed": false
+}

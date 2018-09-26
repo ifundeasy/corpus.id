@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bangunan semipermanen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan yang dibuat dari beton, batu, bata, dan bahan-bahan yang mudah rusak (papan, bambu, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangunan%20semipermanen",
+  "related": [],
+  "detailed": false
+}

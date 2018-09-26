@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tangan baju",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lengan baju;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tangan%20baju",
+  "related": [],
+  "detailed": false
+}

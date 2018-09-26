@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hagiografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku atau tulisan yang memuat riwayat hidup dan legenda orang-orang suci;"
+      },
+      {
+        "type": "desc",
+        "text": "riwayat hidup orang-orang suci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hagiografi",
+  "related": [],
+  "detailed": false
+}

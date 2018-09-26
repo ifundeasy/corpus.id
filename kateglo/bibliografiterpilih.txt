@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bibliografi terpilih",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bibliografi yang menyajikan literatur terpilih mengenai subjek tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bibliografi%20terpilih",
+  "related": [],
+  "detailed": false
+}

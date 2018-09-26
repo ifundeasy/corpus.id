@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kemasygulan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kesusahan (kesedihan) hati;"
+      },
+      {
+        "type": "desc",
+        "text": "kekesalan hati;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menderita masygul;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemasygulan",
+  "related": [],
+  "detailed": false
+}

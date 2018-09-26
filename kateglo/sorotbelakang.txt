@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "sorot belakang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pencahayaan secara langsung ataupun tidak langsung dari belakang sebuah objek yang dibidik ke arah kamera guna memperjelas keberadaan objek dan menempatkan objek tersebut terpisah dari luar;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sorot%20belakang",
+  "related": [],
+  "detailed": false
+}

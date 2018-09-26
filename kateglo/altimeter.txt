@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "altimeter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat untuk mengukur ketinggian atau tinggi suatu tempat dari permukaan bumi berdasarkan tekanan udara (biasa digunakan dalam pesawat terbang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=altimeter",
+  "related": [],
+  "detailed": false
+}

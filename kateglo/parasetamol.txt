@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parasetamol",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang bersifat menghilangkan rasa nyeri dan menurunkan panas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parasetamol",
+  "related": [],
+  "detailed": false
+}

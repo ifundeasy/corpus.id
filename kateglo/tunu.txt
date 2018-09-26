@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tunu",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "menunu"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunu",
+  "related": [],
+  "detailed": false
+}

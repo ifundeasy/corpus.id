@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arteriosklerosis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelainan dinding nadi yang ditandai oleh penebalan dan penghilangan elastisitas; pengerasan pembuluh nadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arteriosklerosis",
+  "related": [],
+  "detailed": false
+}

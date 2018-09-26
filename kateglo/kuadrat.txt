@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuadrat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelipatan atau pengalian sebesar jumlah yang dilipatkan atau dikalikan (misal 8 x 8 = 82; a x a = a2); pangkat dua;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuadrat",
+  "related": [],
+  "detailed": false
+}

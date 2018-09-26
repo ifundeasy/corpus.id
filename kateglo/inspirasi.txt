@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inspirasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilham;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inspirasi",
+  "related": [],
+  "detailed": false
+}

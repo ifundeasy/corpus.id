@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahan balok",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Stat) penggambaran secara grafik frekuensi dengan menggunakan balok segi empat yang sebanding dengan frekuensi itu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahan%20balok",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sanggup",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "bersedia; mau;"
+      },
+      {
+        "type": "desc",
+        "text": "mampu; dapat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sanggup",
+  "related": [],
+  "detailed": false
+}

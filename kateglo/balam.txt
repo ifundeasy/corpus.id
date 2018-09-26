@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "burung tekukur (di Jawa disebut drekuku);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "link",
+        "text": "balam-balam"
+      },
+      {
+        "type": "desc",
+        "text": "tumbuhan (pokok) kecil yang dapat diambil getahnya, banyak macamnya seperti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balam",
+  "related": [],
+  "detailed": false
+}

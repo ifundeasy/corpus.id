@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "memasak",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membuat (mengolah) penganan, makanan, gulai, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memasak",
+  "related": [],
+  "detailed": false
+}

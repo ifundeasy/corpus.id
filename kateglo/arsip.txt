@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arsip",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dokumen tertulis (surat, akta, dsb), lisan (pidato, ceramah, dsb), atau bergambar (foto, film, dsb) dari waktu yang lampau, disimpan dalam media tulis (kertas), elektronik (pita kaset, pita video, disket komputer, dsb), biasanya dikeluarkan oleh instansi resmi, disimpan dan dipelihara di tempat khusus untuk referensi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arsip",
+  "related": [],
+  "detailed": false
+}

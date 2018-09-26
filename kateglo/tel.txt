@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) bilangan (yang disebutkan berturut-turut);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tel",
+  "related": [],
+  "detailed": false
+}

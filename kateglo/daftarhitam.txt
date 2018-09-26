@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "daftar hitam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar nama orang atau organisasi yang dianggap membahayakan keamanan atau daftar nama orang yang pernah dihukum karena melakukan kejahatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20hitam",
+  "related": [],
+  "detailed": false
+}

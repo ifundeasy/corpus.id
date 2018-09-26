@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "utopis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berupa khayal; bersifat khayal;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang memimpikan suatu tata masyarakat dan tata politik yang hanya bagus dalam gambaran, tetapi sulit untuk diwujudkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=utopis",
+  "related": [],
+  "detailed": false
+}

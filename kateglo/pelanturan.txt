@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelanturan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lanturan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelanturan",
+  "related": [],
+  "detailed": false
+}

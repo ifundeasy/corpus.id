@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor lambung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor kapal, tertulis pada bagian lambung (sisi) kapal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20lambung",
+  "related": [],
+  "detailed": false
+}

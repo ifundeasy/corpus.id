@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "padanan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "keadaan seimbang (sebanding, senilai, seharga, sederajat, sepadan, searti);"
+      },
+      {
+        "type": "desc",
+        "text": "(Ling) kata atau frasa dalam sebuah bahasa yang memiliki kesejajaran makna dengan kata atau frasa dalam bahasa lain, misal maison dalam bahasa Prancis padanannya rumah dalam bahasa Indonesia; ekuivalen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=padanan",
+  "related": [],
+  "detailed": false
+}

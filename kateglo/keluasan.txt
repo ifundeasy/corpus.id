@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "keluasan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "luasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "kelapangan; kelonggaran; kesempatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=keluasan",
+  "related": [],
+  "detailed": false
+}

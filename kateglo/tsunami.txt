@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tsunami",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang laut dahsyat (gelombang pasang) yang terjadi karena gempa bumi atau letusan gunung api di dasar laut (biasanya terjadi di Jepang dan sekitarnya);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tsunami",
+  "related": [],
+  "detailed": false
+}

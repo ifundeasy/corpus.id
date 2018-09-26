@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bangunan permanen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bangunan yang dibuat dari bahan bangunan yang kuat dan tahan lama (seperti dari baja dan batu bata);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bangunan%20permanen",
+  "related": [],
+  "detailed": false
+}

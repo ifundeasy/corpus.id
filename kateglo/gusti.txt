@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gusti",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Jw)"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan bangsawan;"
+      },
+      {
+        "type": "desc",
+        "text": "sebutan untuk Tuhan (atau yang dianggap Tuhan);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "bergusti"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gusti",
+  "related": [],
+  "detailed": false
+}

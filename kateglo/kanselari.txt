@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kanselari",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kantor staf dari kedutaan (konsulat);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kanselari",
+  "related": [],
+  "detailed": false
+}

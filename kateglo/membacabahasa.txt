@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "membaca bahasa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(jenis mata pelajaran) membaca sambil mempelajari makna kata dari bahan bacaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=membaca%20bahasa",
+  "related": [],
+  "detailed": false
+}

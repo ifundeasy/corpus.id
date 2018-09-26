@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "tautonimi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama taksonomi yang penunjuk atau nama jenisnya sama dengan nama marganya, misal Chanos chanos (bandeng), Gecko gecko (tokek), dalam tata nama botani pemakaiannya tidak diizinkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tautonimi",
+  "related": [],
+  "detailed": false
+}

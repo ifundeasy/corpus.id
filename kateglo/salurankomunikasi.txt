@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "saluran komunikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berlalunya pesan dari sumber kepada penerima;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=saluran%20komunikasi",
+  "related": [],
+  "detailed": false
+}

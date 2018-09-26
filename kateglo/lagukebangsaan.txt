@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "lagu kebangsaan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "lagu resmi negara tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lagu%20kebangsaan",
+  "related": [],
+  "detailed": false
+}

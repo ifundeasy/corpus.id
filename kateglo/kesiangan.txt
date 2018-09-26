@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesiangan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dikenai siang;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu siang;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) terlambat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesiangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "magang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "calon pegawai (yang belum diangkat secara tetap serta belum menerima gaji atau upah karena dianggap masih dalam taraf belajar);"
+      },
+      {
+        "type": "desc",
+        "text": "calon ahli;"
+      },
+      {
+        "type": "desc",
+        "text": "terlalu masak (tentang buah-buahan); ranum;"
+      },
+      {
+        "type": "desc",
+        "text": "hampir masam (tentang nira);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=magang",
+  "related": [],
+  "detailed": false
+}

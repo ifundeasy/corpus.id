@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gemap",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "tergemap"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gemap",
+  "related": [],
+  "detailed": false
+}

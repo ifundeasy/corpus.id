@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "beban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "barang (yang berat) yang dibawa (dipikul, dijunjung, dsb); muatan (yang ditaruhkan di punggung kuda, keledai, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) sesuatu yang berat (sukar) yang harus dilakukan (ditanggung); kewajiban; tanggungan; tanggung jawab;"
+      },
+      {
+        "type": "desc",
+        "text": "jarak terdekat antara lubang tembak dan bidang bebas pada suatu kegiatan peledakan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beban",
+  "related": [],
+  "detailed": false
+}

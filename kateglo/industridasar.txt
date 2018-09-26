@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "industri dasar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "industri yang mengolah barang-barang modal seperti mesin, bahan kimia, yang akan digunakan dalam industri lainnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=industri%20dasar",
+  "related": [],
+  "detailed": false
+}

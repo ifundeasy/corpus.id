@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "alat listrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Tek) perlengkapan pemasangan (instalasi) listrik (seperti kabel, sakelar, stopkontak, sekring, transformator);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alat%20listrik",
+  "related": [],
+  "detailed": false
+}

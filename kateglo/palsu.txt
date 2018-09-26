@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "palsu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak tulen; tidak sah; lancung (tentang ijazah, surat keterangan, uang, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan (tentang gigi, kunci, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "gadungan (tentang polisi, tentara, wartawan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "curang; tidak jujur (tentang permainan dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "sumbang (tentang suara dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=palsu",
+  "related": [],
+  "detailed": false
+}

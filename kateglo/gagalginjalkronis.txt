@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gagal ginjal kronis",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "penyakit ginjal dengan penurunan fungsi ginjal yang menahun;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gagal%20ginjal%20kronis",
+  "related": [],
+  "detailed": false
+}

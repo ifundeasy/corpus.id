@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jalal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar)"
+      },
+      {
+        "type": "desc",
+        "text": "kemuliaan; keluhuran; kebesaran;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mahamulia;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalal",
+  "related": [],
+  "detailed": false
+}

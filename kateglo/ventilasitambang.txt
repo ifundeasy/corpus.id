@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ventilasi tambang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pekerjaan pengaturan peredaran udara pada jaringan jalan dalam tambang bawah tanah yang berhubungan dengan, baik persoalan kuantitas maupun kualitas udaranya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ventilasi%20tambang",
+  "related": [],
+  "detailed": false
+}

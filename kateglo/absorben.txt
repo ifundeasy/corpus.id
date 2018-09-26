@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "absorben",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Fis)"
+      },
+      {
+        "type": "desc",
+        "text": "zat yang menyerap materi atau tenaga;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) zat yang dapat menyerap atau menarik gas lembapan atau cairan ke dalam pori-porinya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=absorben",
+  "related": [],
+  "detailed": false
+}

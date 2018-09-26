@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengompreng",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "memberi ransum makanan;"
+      },
+      {
+        "type": "desc",
+        "text": "mencari penghasilan tambahan dengan menambangkan mobil (bus);"
+      },
+      {
+        "type": "desc",
+        "text": "menumpang kendaraan yang diomprengkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengompreng",
+  "related": [],
+  "detailed": false
+}

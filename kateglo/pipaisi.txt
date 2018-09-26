@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pipa isi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pipa untuk mengisikan cairan ke dalam suatu tangki;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pipa%20isi",
+  "related": [],
+  "detailed": false
+}

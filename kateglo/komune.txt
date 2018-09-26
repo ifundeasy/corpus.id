@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "komune",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "wilayah administrasi terkecil yang ditandai oleh pemilikan dan pemakaian hak secara kolektif;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok orang yang hidup bersama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=komune",
+  "related": [],
+  "detailed": false
+}

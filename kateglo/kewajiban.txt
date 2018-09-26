@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kewajiban",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(sesuatu) yang diwajibkan; sesuatu yang harus dilaksanakan; keharusan;"
+      },
+      {
+        "type": "desc",
+        "text": "pekerjaan; tugas;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) tugas menurut hukum;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kewajiban",
+  "related": [],
+  "detailed": false
+}

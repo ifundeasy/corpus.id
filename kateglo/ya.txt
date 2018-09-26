@@ -1,0 +1,43 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ya",
+  "tags": {
+    "l": [
+      {
+        "type": "desc",
+        "text": "kata untuk menyatakan setuju (membenarkan dsb); ia;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk memastikan, menegaskan dalam bertanya (... bukan);"
+      },
+      {
+        "type": "desc",
+        "text": "tah; gerangan;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk memberi tekanan pada suatu pernyataan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kata seru seperti) hai; o;"
+      },
+      {
+        "type": "desc",
+        "text": "kata untuk menyahut panggilan; saya;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama huruf ke-29 abjad Arab;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ya",
+  "related": [],
+  "detailed": false
+}

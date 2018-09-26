@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengurus sementara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengurus yang ditunjuk untuk sementara sampai ada pengurus tetap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengurus%20sementara",
+  "related": [],
+  "detailed": false
+}

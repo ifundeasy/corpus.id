@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklim politik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "suasana politik; keadaan percaturan politik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklim%20politik",
+  "related": [],
+  "detailed": false
+}

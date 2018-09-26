@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuat tekan",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Tek) batas kekuatan suatu material untuk menerima tekanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuat%20tekan",
+  "related": [],
+  "detailed": false
+}

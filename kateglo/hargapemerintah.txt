@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga pemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harga yang ditetapkan oleh pemerintah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20pemerintah",
+  "related": [],
+  "detailed": false
+}

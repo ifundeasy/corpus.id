@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tetesan darah",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "titik darah;"
+      },
+      {
+        "type": "desc",
+        "text": "keturunan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tetesan%20darah",
+  "related": [],
+  "detailed": false
+}

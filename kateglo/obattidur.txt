@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat tidur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat yang menyebabkan dapat tidur bagi orang yang susah tidur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20tidur",
+  "related": [],
+  "detailed": false
+}

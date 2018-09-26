@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fatalitas",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kematian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fatalitas",
+  "related": [],
+  "detailed": false
+}

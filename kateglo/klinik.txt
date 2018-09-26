@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klinik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok)"
+      },
+      {
+        "type": "desc",
+        "text": "(bagian) rumah sakit atau lembaga kesehatan tempat orang berobat dan memperoleh advis medis serta tempat mahasiswa kedokteran melakukan pengamatan terhadap kasus penyakit yang diderita para pasien;"
+      },
+      {
+        "type": "desc",
+        "text": "balai pengobatan khusus;"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi kesehatan yang bergerak dalam penyediaan pelayanan kesehatan kuratif (diagnosis dan pengobatan), biasanya terhadap satu macam gangguan kesehatan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klinik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pragmatika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "cabang semiotika tentang asal-usul, pemakaian, dan akibat lambang dan tanda;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang pertuturan, konteks, dan maknanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pragmatika",
+  "related": [],
+  "detailed": false
+}

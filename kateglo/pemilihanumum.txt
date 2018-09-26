@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pemilihan umum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemilihan yang dilakukan serentak oleh seluruh rakyat suatu negara (untuk memilih wakil rakyat dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pemilihan%20umum",
+  "related": [],
+  "detailed": false
+}

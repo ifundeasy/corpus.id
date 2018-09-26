@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ojek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda atau sepeda motor yang ditambangkan dengan cara memboncengkan penumpang atau penyewanya;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "ojok"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ojek",
+  "related": [],
+  "detailed": false
+}

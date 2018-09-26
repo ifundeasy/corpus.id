@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "belasting",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld) pajak; bea; cukai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=belasting",
+  "related": [],
+  "detailed": false
+}

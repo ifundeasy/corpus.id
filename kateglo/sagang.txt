@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sagang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyangga tombak (senjata dsb); sandaran;"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menyagang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sagang",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kontroversi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perdebatan;"
+      },
+      {
+        "type": "desc",
+        "text": "persengketaan; pertentangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kontroversi",
+  "related": [],
+  "detailed": false
+}

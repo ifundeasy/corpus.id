@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "aktual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "betul-betul ada (terjadi); sesungguhnya;"
+      },
+      {
+        "type": "desc",
+        "text": "sedang menjadi pembicaraan orang banyak (tentang peristiwa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "baru saja terjadi; masih baru (tentang peristiwa dsb); hangat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=aktual",
+  "related": [],
+  "detailed": false
+}

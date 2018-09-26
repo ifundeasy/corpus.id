@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berbeli-beli",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "saling membeli;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berbelanja banyak (di pasar, di toko, dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berbeli-beli",
+  "related": [],
+  "detailed": false
+}

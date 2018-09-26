@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kartu pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dik) kumpulan catatan tentang data pribadi murid yang melengkapi laporan pendidikan murid yang bersangkutan, diisi secara berkala;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartu%20pribadi",
+  "related": [],
+  "detailed": false
+}

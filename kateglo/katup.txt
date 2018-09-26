@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "katup",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penutup (biasanya hanya dpt terbuka ke satu arah saja) yang dibuat (diciptakan) pas dengan lubangnya sehingga tidak bocor; klep (pada pompa dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "alat untuk membuka atau menutup saluran sehingga fluida yang mengalir di dalamnya dapat diteruskan atau dihentikan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=katup",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kuat ledak",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "ukuran kekuatan ledak suatu bahan peledak yang dinyatakan dalam persen terhadap kekuatan peledakan suatu bahan peledak nitrogliserin murni;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuat%20ledak",
+  "related": [],
+  "detailed": false
+}

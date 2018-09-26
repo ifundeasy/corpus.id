@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "obat dalam",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "obat untuk diminum atau ditelan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=obat%20dalam",
+  "related": [],
+  "detailed": false
+}

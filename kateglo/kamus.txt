@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kamus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "buku acuan yang memuat kata dan ungkapan, biasanya disusun menurut abjad berikut keterangan tentang makna, pemakaian, atau terjemahannya;"
+      },
+      {
+        "type": "desc",
+        "text": "buku yang memuat kumpulan istilah atau nama yang disusun menurut abjad beserta penjelasan tentang makna dan pemakaiannya;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) diri, pikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Jw) kulit yang sudah dimasak; samak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kamus",
+  "related": [],
+  "detailed": false
+}

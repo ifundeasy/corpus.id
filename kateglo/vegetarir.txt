@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "vegetarir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "vegetarian;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=vegetarir",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "skala Richter",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo) skala yang digunakan untuk memperlihatkan besarnya kekuatan gempa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skala%20Richter",
+  "related": [],
+  "detailed": false
+}

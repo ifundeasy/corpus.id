@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "terjual",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah dijual;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=terjual",
+  "related": [],
+  "detailed": false
+}

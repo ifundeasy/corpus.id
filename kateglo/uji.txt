@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "uji",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "percobaan untuk mengetahui mutu sesuatu (ketulenan, kecakapan ketahanan, dsb);"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "keujian"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=uji",
+  "related": [],
+  "detailed": false
+}

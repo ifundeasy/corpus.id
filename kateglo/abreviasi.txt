@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abreviasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pemendekan bentuk sebagai pengganti bentuk yang lengkap;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk singkatan tertulis sebagai pengganti kata atau frasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abreviasi",
+  "related": [],
+  "detailed": false
+}

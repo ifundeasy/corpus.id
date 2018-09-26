@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ruang pompa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kap) ruang di kapal tangki yang dilengkapi dengan instalasi pompa untuk bongkar-muat muatan cair;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ruang%20pompa",
+  "related": [],
+  "detailed": false
+}

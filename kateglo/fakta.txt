@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fakta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal (keadaan, peristiwa) yang merupakan kenyataan; sesuatu yang benar-benar ada atau terjadi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fakta",
+  "related": [],
+  "detailed": false
+}

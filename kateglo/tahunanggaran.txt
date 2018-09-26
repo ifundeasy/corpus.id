@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tahun anggaran",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "waktu selama dua belas bulan yang dijadikan perhitungan anggaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tahun%20anggaran",
+  "related": [],
+  "detailed": false
+}

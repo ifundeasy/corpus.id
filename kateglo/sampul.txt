@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sampul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembungkus (buku, surat, dsb dari kertas, plastik, kain, dsb); sarung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sampul",
+  "related": [],
+  "detailed": false
+}

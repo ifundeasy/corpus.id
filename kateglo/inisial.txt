@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "inisial",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "huruf pertama kata atau nama orang;"
+      },
+      {
+        "type": "desc",
+        "text": "paraf;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=inisial",
+  "related": [],
+  "detailed": false
+}

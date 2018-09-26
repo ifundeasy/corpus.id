@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kereta angin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kereta%20angin",
+  "related": [],
+  "detailed": false
+}

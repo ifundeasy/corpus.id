@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengusahaan buta",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengusahaan yang dilakukan sebelum tanaman tumbuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengusahaan%20buta",
+  "related": [],
+  "detailed": false
+}

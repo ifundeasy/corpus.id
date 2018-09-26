@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kemoterapi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) pencegahan dan penyembuhan terhadap suatu penyakit dengan memasukkan bahan kimia ke dalam tubuh;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kemoterapi",
+  "related": [],
+  "detailed": false
+}

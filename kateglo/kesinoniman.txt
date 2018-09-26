@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kesinoniman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal sinonim; hubungan antara sinonim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kesinoniman",
+  "related": [],
+  "detailed": false
+}

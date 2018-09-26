@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "monolingual",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "hanya mengenal atau mampu berbicara dalam satu bahasa;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang yang hanya mampu berbicara dalam satu bahasa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=monolingual",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "dosen tamu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tenaga pengajar dari perguruan tinggi lain yang diundang oleh suatu perguruan tinggi untuk mengajar dalam jangka waktu tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dosen%20tamu",
+  "related": [],
+  "detailed": false
+}

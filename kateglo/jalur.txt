@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "jalur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kolom yang lurus; garis lebar; setrip lebar;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang di antara dua garis pada permukaan yang luas;"
+      },
+      {
+        "type": "desc",
+        "text": "ruang memanjang di antara dua deret tanaman;"
+      },
+      {
+        "type": "desc",
+        "text": "rel;"
+      },
+      {
+        "type": "desc",
+        "text": "(Olr) ruang memanjang antara dua garis batas lurus; ruang antara garis permainan tunggal dan garis permainan ganda;"
+      },
+      {
+        "type": "desc",
+        "text": "(Kim) suatu tahapan atau deret tahapan suatu proses metabolisme;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) sampan kecil yang dibuat dari sebatang pohon; perahu belongkang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=jalur",
+  "related": [],
+  "detailed": false
+}

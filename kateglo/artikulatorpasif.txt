@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "artikulator pasif",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat ucap yang tidak dapat bergerak, tetapi disentuh atau didekati oleh artikulator aktif dalam menghasilkan bunyi bahasa (misal gigi atas dan langit-langit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=artikulator%20pasif",
+  "related": [],
+  "detailed": false
+}

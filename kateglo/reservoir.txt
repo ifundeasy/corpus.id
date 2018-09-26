@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "reservoir",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyimpan barang-barang cadangan (seperti air, bahan bakar gas);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=reservoir",
+  "related": [],
+  "detailed": false
+}

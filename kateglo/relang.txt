@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "relang",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kilap; gilap;"
+      },
+      {
+        "type": "desc",
+        "text": "lingkaran (selang-selang) pada rotan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=relang",
+  "related": [],
+  "detailed": false
+}

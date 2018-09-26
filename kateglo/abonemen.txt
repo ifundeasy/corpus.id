@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "abonemen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld)"
+      },
+      {
+        "type": "desc",
+        "text": "hal berlangganan;"
+      },
+      {
+        "type": "desc",
+        "text": "uang untuk berlangganan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=abonemen",
+  "related": [],
+  "detailed": false
+}

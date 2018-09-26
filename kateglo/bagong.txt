@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bagong",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "besar dan berat;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sd) babi hutan; celeng;"
+      },
+      {
+        "type": "link",
+        "text": "bagongan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bagong",
+  "related": [],
+  "detailed": false
+}

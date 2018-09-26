@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kumulasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyatuan; timbunan;"
+      },
+      {
+        "type": "desc",
+        "text": "perangkapan jabatan (oleh seseorang) dalam pemerintahan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Huk) penggabungan beberapa gugatan (dalam satu surat gugatan di muka hakim);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kumulasi",
+  "related": [],
+  "detailed": false
+}

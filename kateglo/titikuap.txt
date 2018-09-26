@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "titik uap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "derajat suhu yang menunjukkan benda cair mulai menguap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=titik%20uap",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tertangkap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(sudah) ditangkap (terpegang dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tertangkap",
+  "related": [],
+  "detailed": false
+}

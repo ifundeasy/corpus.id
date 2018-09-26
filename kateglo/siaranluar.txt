@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "siaran luar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "siaran yang dilakukan oleh stasiun radio atau televisi di luar studio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=siaran%20luar",
+  "related": [],
+  "detailed": false
+}

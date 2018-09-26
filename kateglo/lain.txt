@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "lain",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "asing, beda, tidak sama (halnya, rupanya, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "kecuali; tidak termasuk (dalam hitungan, golongan, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berselisih; berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=lain",
+  "related": [],
+  "detailed": false
+}

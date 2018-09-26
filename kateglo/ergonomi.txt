@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ergonomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penyerasian antara pekerja, jenis pekerjaan, dan lingkungan; tata kerja;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu tentang hubungan di antara manusia, mesin yang digunakan, dan lingkungan kerjanya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ergonomi",
+  "related": [],
+  "detailed": false
+}

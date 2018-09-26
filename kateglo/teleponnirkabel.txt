@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "telepon nirkabel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "telepon yang disambungkan ke jaringan telepon dengan menambahkan perangkat radio di rumah pelanggan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=telepon%20nirkabel",
+  "related": [],
+  "detailed": false
+}

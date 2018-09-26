@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "koreksi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pembetulan; perbaikan; pemeriksaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Graf) pembacaan dan pembetulan cetak coba dengan tanda-tanda tertentu untuk menjamin kecocokan cetak coba dengan naskahnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=koreksi",
+  "related": [],
+  "detailed": false
+}

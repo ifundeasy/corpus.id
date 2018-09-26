@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daya kerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kemampuan bekerja;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daya%20kerja",
+  "related": [],
+  "detailed": false
+}

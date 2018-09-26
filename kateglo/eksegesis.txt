@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "eksegesis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penjelasan atau penafsiran teks, misal kitab suci agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=eksegesis",
+  "related": [],
+  "detailed": false
+}

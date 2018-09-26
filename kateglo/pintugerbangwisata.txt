@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pintu gerbang wisata",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "terminal keluar terakhir bagi wisatawan yang akan berangkat ke suatu negara atau terminal pertama bagi wisatawan dari suatu negara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pintu%20gerbang%20wisata",
+  "related": [],
+  "detailed": false
+}

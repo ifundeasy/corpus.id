@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kampus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah lingkungan bangunan utama perguruan tinggi (universitas, akademi) tempat semua kegiatan belajar-mengajar dan administrasi berlangsung;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kampus",
+  "related": [],
+  "detailed": false
+}

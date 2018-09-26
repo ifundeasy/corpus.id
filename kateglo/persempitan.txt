@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persempitan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "perihal mempersempit;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat yang sempit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persempitan",
+  "related": [],
+  "detailed": false
+}

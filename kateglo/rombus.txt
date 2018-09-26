@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rombus",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "belah ketupat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rombus",
+  "related": [],
+  "detailed": false
+}

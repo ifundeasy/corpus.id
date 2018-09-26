@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menilap",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "melipat;"
+      },
+      {
+        "type": "desc",
+        "text": "menggelapkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menilap",
+  "related": [],
+  "detailed": false
+}

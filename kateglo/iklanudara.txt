@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "iklan udara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kom)"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk atau berpromosi melalui penyebaran pamflet dari udara;"
+      },
+      {
+        "type": "desc",
+        "text": "iklan dengan cara menarik kain rentang ukuran besar dengan pesawat terbang;"
+      },
+      {
+        "type": "desc",
+        "text": "iklan dengan cara menulis merek dengan asap yang dikeluarkan pesawat udara;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=iklan%20udara",
+  "related": [],
+  "detailed": false
+}

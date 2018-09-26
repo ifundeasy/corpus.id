@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "gabai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "gabai-gabai"
+      }
+    ],
+    "v": [
+      {
+        "type": "link",
+        "text": "menggabai"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gabai",
+  "related": [],
+  "detailed": false
+}

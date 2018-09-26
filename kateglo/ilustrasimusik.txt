@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ilustrasi musik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "musik yang mengiringi pertunjukan sandiwara di pentas atau melatari film;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ilustrasi%20musik",
+  "related": [],
+  "detailed": false
+}

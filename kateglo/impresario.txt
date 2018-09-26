@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "impresario",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengusaha (sponsor, pemimpin) hiburan, seperti perfilman, sandiwara, atau pertunjukan musik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=impresario",
+  "related": [],
+  "detailed": false
+}

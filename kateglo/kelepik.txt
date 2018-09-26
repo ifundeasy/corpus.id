@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kelepik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tiruan bunyi benda kecil jatuh;"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi bendera berkibar-kibar jika ditiup angin kencang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelepik",
+  "related": [],
+  "detailed": false
+}

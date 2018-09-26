@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kadim",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "terdahulu dari tiap-tiap permulaan; awal dari segala permulaan yang tidak terbatas oleh masa;"
+      },
+      {
+        "type": "desc",
+        "text": "pasti, tentu (tentang perkara atau janji);"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ar) waktu yang akan datang; kemudian hari; kelak;"
+      },
+      {
+        "type": "desc",
+        "text": "(Ar) saudara dekat; kerabat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kadim",
+  "related": [],
+  "detailed": false
+}

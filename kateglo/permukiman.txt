@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "permukiman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daerah tempat bermukim;"
+      },
+      {
+        "type": "desc",
+        "text": "perihal bermukim;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=permukiman",
+  "related": [],
+  "detailed": false
+}

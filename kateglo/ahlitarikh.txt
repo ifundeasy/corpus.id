@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ahli tarikh",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ahli sejarah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ahli%20tarikh",
+  "related": [],
+  "detailed": false
+}

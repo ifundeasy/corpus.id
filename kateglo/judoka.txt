@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "judoka",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pemain judo;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=judoka",
+  "related": [],
+  "detailed": false
+}

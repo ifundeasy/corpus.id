@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "skedul",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) daftar perincian waktu yang direncanakan; jadwal;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=skedul",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tunjangan kemahalan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "tambahan gaji sebagai bantuan untuk kemahalan (kenaikan harga keperluan sehari-hari);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tunjangan%20kemahalan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dambin",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(ark)"
+      },
+      {
+        "type": "desc",
+        "text": "tiruan bunyi benda berat jatuh; debuk; degum;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "terlalu gemuk (besar) sehingga serba lamban;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dambin",
+  "related": [],
+  "detailed": false
+}

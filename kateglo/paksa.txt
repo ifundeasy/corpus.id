@@ -1,0 +1,35 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "paksa",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "mengerjakan sesuatu yang diharuskan walaupun tidak mau;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "kekerasan; perkosaan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) waktu (saat, kesempatan) yang baik;"
+      },
+      {
+        "type": "desc",
+        "text": "(ark) sayap; pihak; sisi;"
+      },
+      {
+        "type": "desc",
+        "text": "sistem penanggalan Jawa Kuno yang mencakupi waktu 15 hari (dalam satu bulan ada dua paksa, yaitu suklapaksa 'paruh terang' dan kranapaksa 'paruh gelap');"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=paksa",
+  "related": [],
+  "detailed": false
+}

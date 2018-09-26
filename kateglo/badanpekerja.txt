@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "badan pekerja",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "panitia yang mengurus pelaksanaan tugas sehari-hari pada suatu organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=badan%20pekerja",
+  "related": [],
+  "detailed": false
+}

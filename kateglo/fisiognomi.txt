@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fisiognomi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ilmu wajah (penggambaran kualitas watak dan sikap seseorang);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fisiognomi",
+  "related": [],
+  "detailed": false
+}

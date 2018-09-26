@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "arus balik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Geo)"
+      },
+      {
+        "type": "desc",
+        "text": "arus di bawah permukaan laut yang mengalir berlawanan arah dengan arus di permukaan;"
+      },
+      {
+        "type": "desc",
+        "text": "arus permukaan laut yang berlawanan arahnya dengan arus permukaan tempat sekitarnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arus%20balik",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nikah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ikatan (akad) perkawinan yang dilakukan sesuai dengan ketentuan hukum dan ajaran agama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nikah",
+  "related": [],
+  "detailed": false
+}

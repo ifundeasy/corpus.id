@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "onomastika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) penyelidikan tentang asal-usul, bentuk, dan makna nama diri, terutama nama orang dan tempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=onomastika",
+  "related": [],
+  "detailed": false
+}

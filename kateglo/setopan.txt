@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "setopan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat berhenti (bus dsb); penghentian (kendaraan);"
+      },
+      {
+        "type": "desc",
+        "text": "lampu lalu-lintas (merah, hijau, kuning) yang dapat menandai kendaraan yang lewat harus berhenti atau berjalan lagi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=setopan",
+  "related": [],
+  "detailed": false
+}

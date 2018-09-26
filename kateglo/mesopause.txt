@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mesopause",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Met) puncak mesosfer yang tingginya antara 50—85 km;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mesopause",
+  "related": [],
+  "detailed": false
+}

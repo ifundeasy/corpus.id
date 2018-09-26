@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "beban tetap",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ek) biaya umum (tidak langsung) yang tidak dapat dihindarkan seperti biaya bunga, penyusutan, dan potongan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=beban%20tetap",
+  "related": [],
+  "detailed": false
+}

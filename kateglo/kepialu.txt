@@ -1,0 +1,23 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kepialu",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "pening; sakit kepala;"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "galing-galing;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kepialu",
+  "related": [],
+  "detailed": false
+}

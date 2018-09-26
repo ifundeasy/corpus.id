@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "optika",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(secara sempit) ilmu tentang cahaya dan penglihatan;"
+      },
+      {
+        "type": "desc",
+        "text": "(secara luas) studi tentang gejala yang berhubungan dengan pembangkitan, transmisi, dan deteksi radiasi elektromagnetik dalam jangkau spektra dari batas gelombang panjang daerah sinar X sampai ke batas gelombang pendek daerah gelombang radio;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=optika",
+  "related": [],
+  "detailed": false
+}

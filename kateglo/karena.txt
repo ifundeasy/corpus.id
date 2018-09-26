@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karena",
+  "tags": {
+    "k": [
+      {
+        "type": "desc",
+        "text": "kata penghubung untuk menandai sebab atau alasan;"
+      },
+      {
+        "type": "desc",
+        "text": "disebabkan oleh; lantaran;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karena",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nektar",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "minuman para dewa (Yunani dan Romawi);"
+      },
+      {
+        "type": "desc",
+        "text": "minuman yang dapat memberikan kenikmatan;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) cairan manis yang terdapat pada bunga yang biasa diserap lebah, merupakan bahan utama untuk madu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nektar",
+  "related": [],
+  "detailed": false
+}

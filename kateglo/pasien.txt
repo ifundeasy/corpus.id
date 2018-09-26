@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pasien",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "orang sakit (yang dirawat dokter); penderita (sakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasien",
+  "related": [],
+  "detailed": false
+}

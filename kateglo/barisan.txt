@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "barisan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "deretan; banjaran; jajaran;"
+      },
+      {
+        "type": "desc",
+        "text": "(Mil) kesatuan pasukan (prajurit); kesatuan tentara yang telah disiapkan (untuk bertempur dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=barisan",
+  "related": [],
+  "detailed": false
+}

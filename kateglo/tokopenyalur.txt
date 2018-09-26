@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "toko penyalur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "toko, agen, dsb yang menyalurkan atau memasarkan produk;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=toko%20penyalur",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nuklida",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) jenis atom yang dibedakan dari jenis atom lain oleh susunan intinya, mempunyai jumlah proton dan neutron yang sama;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nuklida",
+  "related": [],
+  "detailed": false
+}

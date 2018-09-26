@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gajian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hari pembayaran gaji;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "(cak) menerima gaji;"
+      },
+      {
+        "type": "desc",
+        "text": "yang digaji;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gajian",
+  "related": [],
+  "detailed": false
+}

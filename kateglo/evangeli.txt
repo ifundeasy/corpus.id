@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "evangeli",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kris)"
+      },
+      {
+        "type": "desc",
+        "text": "ajaran Yesus Kristus; keempat Kitab Perjanjian Baru;"
+      },
+      {
+        "type": "desc",
+        "text": "masing-masing dari keempat Kitab Perjanjian Baru;"
+      },
+      {
+        "type": "desc",
+        "text": "kutipan dari Injil yang dibaca dalam misa;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=evangeli",
+  "related": [],
+  "detailed": false
+}

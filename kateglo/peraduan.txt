@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "peraduan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hal beradu;"
+      },
+      {
+        "type": "desc",
+        "text": "tempat beradu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peraduan",
+  "related": [],
+  "detailed": false
+}

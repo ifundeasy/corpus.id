@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "adjektival",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "berfungsi sebagai adjektiva, tetapi tidak dapat berinfleksi seperti adjektiva biasa;"
+      },
+      {
+        "type": "desc",
+        "text": "bersifat atau berfungsi sebagai adjektiva, misal frasa --;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=adjektival",
+  "related": [],
+  "detailed": false
+}

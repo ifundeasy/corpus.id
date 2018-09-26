@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bertarung",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "~ dng"
+      },
+      {
+        "type": "desc",
+        "text": "berlaga; berkelahi; bertempur (berperang dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "bertanding (berlomba dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "berbantah; berdebat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bertarung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "novokaina",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) obat pemati rasa setempat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=novokaina",
+  "related": [],
+  "detailed": false
+}

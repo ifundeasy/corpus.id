@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "oksigen terlarut",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "jumlah elemen oksigen yang ada dalam larutan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=oksigen%20terlarut",
+  "related": [],
+  "detailed": false
+}

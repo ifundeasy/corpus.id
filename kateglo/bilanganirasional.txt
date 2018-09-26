@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bilangan irasional",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Mat) bilangan yang tidak dapat dinyatakan dengan bilangan pecahan atau bilangan yang bukan bilangan rasional (seperti 2, 3, 5, 7);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bilangan%20irasional",
+  "related": [],
+  "detailed": false
+}

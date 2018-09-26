@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "agen polisi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "polisi penjaga keamanan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=agen%20polisi",
+  "related": [],
+  "detailed": false
+}

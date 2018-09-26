@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berkeluarga",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berumah tangga; mempunyai keluarga;"
+      },
+      {
+        "type": "desc",
+        "text": "bersanak saudara (dengan); berkerabat (dengan);"
+      },
+      {
+        "type": "desc",
+        "text": "menikah; mempunyai istri (suami);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berkeluarga",
+  "related": [],
+  "detailed": false
+}

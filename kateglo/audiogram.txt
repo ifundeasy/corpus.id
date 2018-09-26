@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "audiogram",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "catatan mengenai ketajaman pendengaran terhadap berbagai nada (dinyatakan dalam bentuk grafik garis);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=audiogram",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sederhana",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersahaja; tidak berlebih-lebihan;"
+      },
+      {
+        "type": "desc",
+        "text": "sedang (dalam arti pertengahan, tidak tinggi, tidak rendah, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak banyak seluk-beluknya (kesulitan dsb); tidak banyak pernik; lugas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sederhana",
+  "related": [],
+  "detailed": false
+}

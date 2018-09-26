@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pumpun",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "berpumpun"
+      }
+    ],
+    "n": [
+      {
+        "type": "desc",
+        "text": "lipan laut (dipakai untuk umpan pancing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pumpun",
+  "related": [],
+  "detailed": false
+}

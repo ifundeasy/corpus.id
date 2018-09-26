@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meterai efek",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pajak meterai yang dipungut dari efek;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meterai%20efek",
+  "related": [],
+  "detailed": false
+}

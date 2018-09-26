@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sinonim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk bahasa yang maknanya mirip atau sama dengan bentuk bahasa lain; muradif;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sinonim",
+  "related": [],
+  "detailed": false
+}

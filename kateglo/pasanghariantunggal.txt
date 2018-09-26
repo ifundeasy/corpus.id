@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasang harian tunggal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Lay) pasang yang terjadi satu kali dalam sehari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasang%20harian%20tunggal",
+  "related": [],
+  "detailed": false
+}

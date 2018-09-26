@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "medisinal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat menyembuhkan;"
+      },
+      {
+        "type": "desc",
+        "text": "sebagai obat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=medisinal",
+  "related": [],
+  "detailed": false
+}

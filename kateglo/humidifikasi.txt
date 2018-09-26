@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "humidifikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim) penambahan kelembapan suatu ruangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=humidifikasi",
+  "related": [],
+  "detailed": false
+}

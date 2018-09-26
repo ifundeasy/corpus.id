@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "analog",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersangkutan dg analogi; sama; serupa;"
+      },
+      {
+        "type": "desc",
+        "text": "(Komp) bersangkut paut atau berhubungan dengan sistem atau peranti komputer yang menyajikan data yang bermacam-macam berdasarkan kualitas fisik yang terukur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=analog",
+  "related": [],
+  "detailed": false
+}

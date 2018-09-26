@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "menyebar",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "menghamburkan; menyiarkan (kabar dsb); menabur (benih dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "membagi-bagikan; mengirimkan;"
+      },
+      {
+        "type": "desc",
+        "text": "membagi-bagikan surat kepada alamat;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=menyebar",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kopling",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bagian mesin kendaraan yang dipakai untuk mengatur perpindahan gigi persneling yang mengatur kecepatan maju dan mundur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kopling",
+  "related": [],
+  "detailed": false
+}

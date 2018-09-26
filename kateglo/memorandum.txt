@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "memorandum",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nota atau surat peringatan tidak resmi;"
+      },
+      {
+        "type": "desc",
+        "text": "surat pernyataan dalam hubungan diplomasi;"
+      },
+      {
+        "type": "desc",
+        "text": "bentuk komunikasi yang berisi saran, arahan, atau penerangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=memorandum",
+  "related": [],
+  "detailed": false
+}

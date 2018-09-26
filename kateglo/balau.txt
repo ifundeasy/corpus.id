@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "balau",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama pohon (ada bermacam-macam), seperti;"
+      },
+      {
+        "type": "link",
+        "text": "kacau"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balau",
+  "related": [],
+  "detailed": false
+}

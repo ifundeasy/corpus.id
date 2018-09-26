@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "minikomputer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komputer berukuran sedang (lebih besar dari mikrokomputer), biasanya memiliki banyak terminal tem-pat pemakai komputer berhubungan dengan komputer;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=minikomputer",
+  "related": [],
+  "detailed": false
+}

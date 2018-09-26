@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pakat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sepakat; setuju; sependapat; mufakat;"
+      },
+      {
+        "type": "link",
+        "text": "pekat"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pakat",
+  "related": [],
+  "detailed": false
+}

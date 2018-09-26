@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "daftar buku",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "daftar judul buku beserta nama pengarang, penerbit, tahun terbit, dsb; katalog;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=daftar%20buku",
+  "related": [],
+  "detailed": false
+}

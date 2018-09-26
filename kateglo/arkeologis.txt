@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "arkeologis",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "bersifat arkeologi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=arkeologis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kenang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mengenang"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kenang",
+  "related": [],
+  "detailed": false
+}

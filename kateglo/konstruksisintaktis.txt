@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "konstruksi sintaktis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) pengelompokan satuan yang sesuai dengan kaidah sintaktis suatu bahasa, misal rumah makan (dan bukan makan rumah); sepeda ini (dan bukan ini sepeda);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=konstruksi%20sintaktis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "plaket",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tanda peringatan yang dibuat dari logam, porselen, dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "lencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=plaket",
+  "related": [],
+  "detailed": false
+}

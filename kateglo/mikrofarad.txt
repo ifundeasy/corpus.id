@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mikrofarad",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "satuan kapasitas dari sebuah kondensator yang besarnya seperjuta farad;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mikrofarad",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "ragang",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "meragang"
+      },
+      {
+        "type": "desc",
+        "text": "menyerang dan menyerbu (kota dsb);"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "ragangan"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ragang",
+  "related": [],
+  "detailed": false
+}

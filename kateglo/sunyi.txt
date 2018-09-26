@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sunyi",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "tidak ada bunyi atau suara apa pun; hening; senyap;"
+      },
+      {
+        "type": "desc",
+        "text": "kosong (tentang rumah dsb); tidak ada orang; lengang; sepi;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak banyak transaksi (persetujuan jual beli); tidak banyak pembeli (dalam perdagangan);"
+      },
+      {
+        "type": "desc",
+        "text": "bebas (lepas, lekang, terhindar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sunyi",
+  "related": [],
+  "detailed": false
+}

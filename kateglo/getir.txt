@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "getir",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "rasa pahit agak pedas (seperti rasa kulit jeruk);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) susah dan sengsara (tentang kehidupan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=getir",
+  "related": [],
+  "detailed": false
+}

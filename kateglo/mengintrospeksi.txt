@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mengintrospeksi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "berintrospeksi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mengintrospeksi",
+  "related": [],
+  "detailed": false
+}

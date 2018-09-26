@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bahasa kawat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bahasa singkatan yang digunakan untuk pengiriman berita kawat menghemat biaya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bahasa%20kawat",
+  "related": [],
+  "detailed": false
+}

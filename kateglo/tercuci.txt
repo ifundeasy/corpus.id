@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tercuci",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "sudah bersih (dicuci) dari kotoran dsb;"
+      },
+      {
+        "type": "desc",
+        "text": "dapat dicuci;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak sengaja dicuci;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tercuci",
+  "related": [],
+  "detailed": false
+}

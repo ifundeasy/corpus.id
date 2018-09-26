@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "persuasif manipulatif",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "teks persuasif yang menggunakan alasan-alasan implisit;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=persuasif%20manipulatif",
+  "related": [],
+  "detailed": false
+}

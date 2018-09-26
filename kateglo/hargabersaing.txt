@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harga bersaing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(cak) harga dijamin lebih murah daripada yang lain;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harga%20bersaing",
+  "related": [],
+  "detailed": false
+}

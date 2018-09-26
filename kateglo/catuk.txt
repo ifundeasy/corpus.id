@@ -1,0 +1,41 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "catuk",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "mencatuk"
+      },
+      {
+        "type": "desc",
+        "text": "tukul besi besar;"
+      },
+      {
+        "type": "desc",
+        "text": "tukul besi besar yang berparuh (untuk memecahkan batu, cadas, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "takaran sebanyak isi sendok makan;"
+      },
+      {
+        "type": "desc",
+        "text": "takaran sebanyak isi tempurung (batok);"
+      },
+      {
+        "type": "desc",
+        "text": "satuan ukuran isi atau takaran (beras) c cupak;"
+      },
+      {
+        "type": "link",
+        "text": "tercatuk"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=catuk",
+  "related": [],
+  "detailed": false
+}

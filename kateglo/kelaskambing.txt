@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelas kambing",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kelas (di bioskop dsb) paling murah harga karcisnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelas%20kambing",
+  "related": [],
+  "detailed": false
+}

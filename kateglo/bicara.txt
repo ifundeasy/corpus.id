@@ -1,0 +1,45 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "bicara",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "akal budi; pikiran;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) perundingan;"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "beperkara; berurusan;"
+      },
+      {
+        "type": "desc",
+        "text": "(kl) pertimbangan pikiran; pendapat;"
+      },
+      {
+        "type": "desc",
+        "text": "(cak) berbahasa; berkata;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "sedang dipakai untuk bercakap (dalam telepon);"
+      },
+      {
+        "type": "desc",
+        "text": "(Jk, cak) tanggung, tentu (pasti);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bicara",
+  "related": [],
+  "detailed": false
+}

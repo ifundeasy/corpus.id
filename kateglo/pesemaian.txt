@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pesemaian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tempat menyemai(kan) bibit pohon (biji-biji);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pesemaian",
+  "related": [],
+  "detailed": false
+}

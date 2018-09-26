@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "candra",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(kl, Sas)"
+      },
+      {
+        "type": "desc",
+        "text": "bulan;"
+      },
+      {
+        "type": "desc",
+        "text": "sebangsa dewa (setengah dewa);"
+      }
+    ],
+    "v": [
+      {
+        "type": "desc",
+        "text": "menggambarkan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=candra",
+  "related": [],
+  "detailed": false
+}

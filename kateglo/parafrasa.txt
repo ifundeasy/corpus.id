@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "parafrasa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling)"
+      },
+      {
+        "type": "desc",
+        "text": "pengungkapan kembali suatu tuturan dari sebuah tingkatan atau macam bahasa menjadi yang lain tanpa mengubah pengertian;"
+      },
+      {
+        "type": "desc",
+        "text": "penguraian kembali suatu teks (karangan) dalam bentuk (susunan kata-kata) yang lain, dengan maksud untuk dapat menjelaskan makna yang tersembunyi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=parafrasa",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sentung",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Mk)"
+      },
+      {
+        "type": "link",
+        "text": "santung"
+      }
+    ],
+    "n": [
+      {
+        "type": "link",
+        "text": "santung"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sentung",
+  "related": [],
+  "detailed": false
+}

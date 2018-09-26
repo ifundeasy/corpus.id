@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "film murahan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "film yang diproduksi dengan biaya murah;"
+      },
+      {
+        "type": "desc",
+        "text": "film yang tidak bermutu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=film%20murahan",
+  "related": [],
+  "detailed": false
+}

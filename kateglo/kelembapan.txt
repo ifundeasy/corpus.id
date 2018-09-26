@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kelembapan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sifat lembap; keadaan (hawa) yang lembap;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kelembapan",
+  "related": [],
+  "detailed": false
+}

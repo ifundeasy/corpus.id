@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "fruktosa",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kim)"
+      },
+      {
+        "type": "desc",
+        "text": "karbohidrat;"
+      },
+      {
+        "type": "desc",
+        "text": "senyawa karbohidrat yang termasuk golongan monosakarida, terdapat dalam buah-buahan manis dan madu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=fruktosa",
+  "related": [],
+  "detailed": false
+}

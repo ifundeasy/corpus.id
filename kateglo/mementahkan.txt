@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mementahkan",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "(kl)"
+      },
+      {
+        "type": "desc",
+        "text": "mengembalikan pada keadaan tidak sempurna;"
+      },
+      {
+        "type": "desc",
+        "text": "membatalkan hasil yang sudah pasti; menjadikan mentah;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mementahkan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "pamong",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pengasuh;"
+      },
+      {
+        "type": "desc",
+        "text": "pendidik (guru);"
+      },
+      {
+        "type": "desc",
+        "text": "pengurus;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pamong",
+  "related": [],
+  "detailed": false
+}

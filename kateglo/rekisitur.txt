@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rekisitur",
+  "tags": {
+    "n": [
+      {
+        "type": "link",
+        "text": "rekuisitor"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rekisitur",
+  "related": [],
+  "detailed": false
+}

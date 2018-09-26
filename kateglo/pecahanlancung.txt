@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pecahan lancung",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pecahan yang tidak sejati; pecahan yang pembilangnya lebih besar daripada penyebut;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pecahan%20lancung",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "demam malaria",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "demam karena penyakit malaria;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=demam%20malaria",
+  "related": [],
+  "detailed": false
+}

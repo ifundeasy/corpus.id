@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "bergenang",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "terhenti mengalir (tentang air);"
+      },
+      {
+        "type": "desc",
+        "text": "berlinang-linang di mata (tentang air mata);"
+      },
+      {
+        "type": "desc",
+        "text": "tertutup atau terendam air (yang tidak mengalir);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=bergenang",
+  "related": [],
+  "detailed": false
+}

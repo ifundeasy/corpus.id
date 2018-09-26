@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rimas",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berasa tidak senang atau nyaman (karena panas);"
+      },
+      {
+        "type": "desc",
+        "text": "tidak senang hati;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rimas",
+  "related": [],
+  "detailed": false
+}

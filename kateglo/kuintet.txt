@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kuintet",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "komposisi musik yang terdiri atas lima instrumen atau lima suara;"
+      },
+      {
+        "type": "desc",
+        "text": "kelompok atau regu (tentang olahraga, musik, dsb) yang terdiri atas lima orang;"
+      },
+      {
+        "type": "desc",
+        "text": "(Sas) puisi (sajak) yang setiap baitnya terdiri atas lima larik;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kuintet",
+  "related": [],
+  "detailed": false
+}

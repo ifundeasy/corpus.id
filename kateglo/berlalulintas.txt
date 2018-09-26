@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "berlalu lintas",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "ada lalu lintasnya;"
+      },
+      {
+        "type": "desc",
+        "text": "berkenaan dengan lalu lintas;"
+      },
+      {
+        "type": "desc",
+        "text": "melakukan tindak lalu lintas (dengan kendaraan);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=berlalu%20lintas",
+  "related": [],
+  "detailed": false
+}

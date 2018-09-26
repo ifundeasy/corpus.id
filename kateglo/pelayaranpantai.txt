@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pelayaran pantai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pelayaran yang menyusur pantai;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pelayaran%20pantai",
+  "related": [],
+  "detailed": false
+}

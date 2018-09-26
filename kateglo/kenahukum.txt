@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kena hukum",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "dijatuhi hukuman (yang diputuskan oleh hakim);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kena%20hukum",
+  "related": [],
+  "detailed": false
+}

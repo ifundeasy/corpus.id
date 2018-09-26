@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "psikosomatik",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berkaitan dengan jiwa dan raga;"
+      },
+      {
+        "type": "desc",
+        "text": "berhubungan dengan gangguan emosi atau mental (tentang penyakit);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=psikosomatik",
+  "related": [],
+  "detailed": false
+}

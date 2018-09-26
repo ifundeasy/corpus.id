@@ -1,0 +1,33 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "cacau",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "lincah; selalu berpindah-pindah;"
+      },
+      {
+        "type": "desc",
+        "text": "tidak tetap (tentang pikiran, pendapat);"
+      },
+      {
+        "type": "desc",
+        "text": "gugup (kebingungan);"
+      },
+      {
+        "type": "desc",
+        "text": "sebentar-sebentar kawin (tentang laki-laki);"
+      },
+      {
+        "type": "desc",
+        "text": "banyak bicara, cerewet (tentang orang); banyak, senang, atau sering berkicau (tentang burung dsb);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=cacau",
+  "related": [],
+  "detailed": false
+}

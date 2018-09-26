@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "respirator",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "alat yang ditutupkan ke hidung atau mulut untuk membantu pernapasan; topeng gas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=respirator",
+  "related": [],
+  "detailed": false
+}

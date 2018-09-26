@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kartel",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "organisasi perusahaan besar (negara dsb) yang memproduksi barang yang sejenis;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) persetujuan sekelompok perusahaan dengan maksud mengendalikan harga komoditas tertentu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartel",
+  "related": [],
+  "detailed": false
+}

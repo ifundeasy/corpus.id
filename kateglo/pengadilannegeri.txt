@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengadilan negeri",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "badan peradilan pada tingkat pertama yang berkuasa mengadili semua perkara penyelewengan hukum dalam daerah hukumnya;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengadilan%20negeri",
+  "related": [],
+  "detailed": false
+}

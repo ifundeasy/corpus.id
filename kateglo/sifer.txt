@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "sifer",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nol; angka nol;"
+      },
+      {
+        "type": "desc",
+        "text": "kosong;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=sifer",
+  "related": [],
+  "detailed": false
+}

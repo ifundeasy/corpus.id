@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "furnitur",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mebel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=furnitur",
+  "related": [],
+  "detailed": false
+}

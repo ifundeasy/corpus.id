@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "peting",
+  "tags": {
+    "v": [
+      {
+        "type": "link",
+        "text": "memeting"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=peting",
+  "related": [],
+  "detailed": false
+}

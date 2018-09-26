@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "mobil pribadi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "mobil milik perseorangan dan dipakai untuk keperluan sendiri;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mobil%20pribadi",
+  "related": [],
+  "detailed": false
+}

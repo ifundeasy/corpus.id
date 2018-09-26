@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "karnivor",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bio) hewan pemakan daging (seperti anjing, kucing);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=karnivor",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kompensasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "ganti rugi;"
+      },
+      {
+        "type": "desc",
+        "text": "pemberesan piutang dengan memberikan barang-barang yang seharga dengan utangnya;"
+      },
+      {
+        "type": "desc",
+        "text": "pencarian kepuasan dalam suatu bidang untuk memperoleh keseimbangan dari kekecewaan dalam bidang lain;"
+      },
+      {
+        "type": "desc",
+        "text": "(Man) imbalan berupa uang atau bukan uang (natura), yang diberikan kepada karyawan dalam perusahaan atau organisasi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kompensasi",
+  "related": [],
+  "detailed": false
+}

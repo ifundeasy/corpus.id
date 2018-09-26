@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "organisasi nonpemerintah",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "persekutuan antarlembaga internasional swasta yang mengabdikan diri dalam bidang agama, ilmu pengetahuan, kebudayaan, kemanusiaan, dsb, baik yang berorientasi teknik maupun yang berorientasi ekonomi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=organisasi%20nonpemerintah",
+  "related": [],
+  "detailed": false
+}

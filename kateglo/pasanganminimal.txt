@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pasangan minimal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Ling) dua ujaran yang salah satu unsurnya berbeda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pasangan%20minimal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nomor penerbangan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nomor untuk membedakan berbagai penerbangan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nomor%20penerbangan",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pengolahan tanaman",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kegiatan atau proses yang terdiri atas proses panen, pengeringan, pembersihan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pengolahan%20tanaman",
+  "related": [],
+  "detailed": false
+}

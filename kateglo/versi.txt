@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "versi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "bentuk terjemahan cerita, buku, dsb dalam bahasa lain;"
+      },
+      {
+        "type": "desc",
+        "text": "model; menurut cara;"
+      },
+      {
+        "type": "desc",
+        "text": "anggapan (pelukisan, penggambaran, dsb) tentang sesuatu dari seseorang atau suatu sudut pandang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=versi",
+  "related": [],
+  "detailed": false
+}

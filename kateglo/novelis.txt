@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "novelis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Sas) pengarang novel;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=novelis",
+  "related": [],
+  "detailed": false
+}

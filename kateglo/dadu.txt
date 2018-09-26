@@ -1,0 +1,27 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "dadu",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kubus kecil bersisi enam (biasanya terbuat dari kayu, tulang, gading, atau plastik), pada keenam sisinya diberi bermata satu sampai enam yang diatur sedemikian rupa sehingga dua sisi yang saling berhadapan selalu berjumlah tujuh (digunakan dalam permainan, berjudi, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "benda berbentuk persegi empat yang mempunyai enam permukaan; kubus;"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(warna) merah muda;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=dadu",
+  "related": [],
+  "detailed": false
+}

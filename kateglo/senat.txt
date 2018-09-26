@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "senat",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "dewan perwakilan rakyat yang tertinggi (seperti di Amerika Serikat, Prancis);"
+      },
+      {
+        "type": "desc",
+        "text": "dewan pengajar di perguruan tinggi;"
+      },
+      {
+        "type": "desc",
+        "text": "organisasi mahasiswa tingkat fakultas;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=senat",
+  "related": [],
+  "detailed": false
+}

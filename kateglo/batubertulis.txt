@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "batu bertulis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "batu yang berisi tulisan kuno; prasasti;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=batu%20bertulis",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "emblem",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "rancangan atau lukisan yang mengandung makna tertentu; lambang; simbol;"
+      },
+      {
+        "type": "desc",
+        "text": "tanda pengenal (berupa pita silang, lukisan pada kain, logam, dsb) yang dipakai orang di dada untuk menunjukkan keanggotaan suatu perkumpulan, kesatuan, angkatan, kontingen, dsb; lencana;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=emblem",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "kartografi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gambar peta (tabel dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "seni atau keahlian membuat peta;"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu mengenai peta;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kartografi",
+  "related": [],
+  "detailed": false
+}

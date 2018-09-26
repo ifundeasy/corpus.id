@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "resipien",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "penerima darah dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=resipien",
+  "related": [],
+  "detailed": false
+}

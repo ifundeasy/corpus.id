@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "referendaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Bld) pegawai tinggi yang menduduki jabatan di departemen;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=referendaris",
+  "related": [],
+  "detailed": false
+}

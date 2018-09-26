@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "tinggi hari",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "matahari telah tinggi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=tinggi%20hari",
+  "related": [],
+  "detailed": false
+}

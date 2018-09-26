@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "rasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kumpulan bintang dalam zodiak (mintakulburuj), terbagi lagi atas dua belas kumpulan dan masing-masing diberi nama (Aries, Taurus, Gemini, Kanser, Leo, Virgo, Libra, Skorpio, Sagitarius, Kaprikornus, Akuarius, Pises);"
+      },
+      {
+        "type": "desc",
+        "text": "ilmu perbintangan (ilmu nujum) yang menganggap bahwa nasib manusia erat hubungannya dengan letak zodiaknya pada waktu ia lahir;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=rasi",
+  "related": [],
+  "detailed": false
+}

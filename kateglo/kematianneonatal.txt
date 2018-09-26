@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kematian neonatal",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kematian bayi sebelum berumur 1 bulan atau 28 hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kematian%20neonatal",
+  "related": [],
+  "detailed": false
+}

@@ -1,0 +1,21 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "klaim",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "tuntutan pengakuan atas suatu fakta bahwa seseorang berhak (memiliki atau mempunyai) atas sesuatu;"
+      },
+      {
+        "type": "desc",
+        "text": "pernyataan tentang suatu fakta atau kebenaran sesuatu;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=klaim",
+  "related": [],
+  "detailed": false
+}

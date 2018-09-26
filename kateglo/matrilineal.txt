@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "matrilineal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "mengenai hubungan keturunan melalui garis kerabat wanita;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=matrilineal",
+  "related": [],
+  "detailed": false
+}

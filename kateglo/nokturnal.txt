@@ -1,0 +1,29 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "nokturnal",
+  "tags": {
+    "adj": [
+      {
+        "type": "desc",
+        "text": "berhubungan dengan malam hari;"
+      },
+      {
+        "type": "desc",
+        "text": "beraktivitas hidup (tentang hewan) pada malam hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Bot) keadaan bunga yang mekar pada malam hari dan menutup pada siang hari;"
+      },
+      {
+        "type": "desc",
+        "text": "(Zool) keadaan hewan yang sifatnya atau kebiasaannya aktif terutama pada malam hari;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nokturnal",
+  "related": [],
+  "detailed": false
+}

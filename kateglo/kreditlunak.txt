@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "kredit lunak",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "kredit dengan bunga rendah dan waktu pengembaliannya tidak mengikat (longgar);"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=kredit%20lunak",
+  "related": [],
+  "detailed": false
+}

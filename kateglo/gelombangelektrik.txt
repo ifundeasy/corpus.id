@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "gelombang elektrik",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gelombang yang disebabkan oleh proses interaksi antara medan elektrik dan medan magnet yang merambat melalui medium;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=gelombang%20elektrik",
+  "related": [],
+  "detailed": false
+}

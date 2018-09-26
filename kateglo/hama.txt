@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "hama",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "hewan yang mengganggu produksi pertanian seperti babi hutan, tupai, tikus, dan terutama serangga;"
+      },
+      {
+        "type": "desc",
+        "text": "benih penyakit;"
+      },
+      {
+        "type": "desc",
+        "text": "biang keladi kerusakan; perusak;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=hama",
+  "related": [],
+  "detailed": false
+}

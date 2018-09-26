@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "balai pertemuan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "gedung tempat berapat, mengadakan resepsi pernikahan, dsb;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=balai%20pertemuan",
+  "related": [],
+  "detailed": false
+}

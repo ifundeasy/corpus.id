@@ -1,0 +1,25 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "misionaris",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Kris)"
+      },
+      {
+        "type": "desc",
+        "text": "orang yang melakukan penyebaran warta Injil kepada orang lain yang belum mengenal Kristus;"
+      },
+      {
+        "type": "desc",
+        "text": "imam Kristen (Katolik) yang melakukan kegiatan misi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=misionaris",
+  "related": [],
+  "detailed": false
+}

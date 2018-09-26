@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "ibu sungai",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "sungai yang besar dan bercabang-cabang;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=ibu%20sungai",
+  "related": [],
+  "detailed": false
+}

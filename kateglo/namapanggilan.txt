@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "nama panggilan",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "nama yang digunakan dalam penyapaan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=nama%20panggilan",
+  "related": [],
+  "detailed": false
+}

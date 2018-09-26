@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "harta carian",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "harta yang diperoleh suami istri selama hidup bersama; gana-gini;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=harta%20carian",
+  "related": [],
+  "detailed": false
+}

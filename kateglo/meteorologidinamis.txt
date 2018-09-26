@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "meteorologi dinamis",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "meteorologi yang khusus tentang gejala atmosfer dari segi kedinamisan;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=meteorologi%20dinamis",
+  "related": [],
+  "detailed": false
+}

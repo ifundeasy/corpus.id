@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "derivative",
+  "value": "d",
+  "text": "pusat komunikasi",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "pusat informasi meteorologi yang mengumpulkan data untuk disebarkan secara internasional;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=pusat%20komunikasi",
+  "related": [],
+  "detailed": false
+}

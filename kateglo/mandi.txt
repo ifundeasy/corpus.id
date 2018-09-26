@@ -1,0 +1,31 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "mandi",
+  "tags": {
+    "v": [
+      {
+        "type": "desc",
+        "text": "membersihkan tubuh dengan air dan sabun (dengan cara menyiramkan, merendamkan diri dalam air, dsb);"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) bermandi;"
+      },
+      {
+        "type": "desc",
+        "text": "(ki) dipenuhi oleh (cahaya, uang, dsb);"
+      }
+    ],
+    "adj": [
+      {
+        "type": "desc",
+        "text": "(Jw) mujarab; manjur;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=mandi",
+  "related": [],
+  "detailed": false
+}

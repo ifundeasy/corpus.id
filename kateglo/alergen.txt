@@ -1,0 +1,17 @@
+{
+  "param": "type",
+  "desc": "root",
+  "value": "r",
+  "text": "alergen",
+  "tags": {
+    "n": [
+      {
+        "type": "desc",
+        "text": "(Dok) substansi yang dapat menyebabkan alergi atau hipersensitivitas spesifisik substansi, baik protein maupun memprotein yang dapat menyebabkan alergi;"
+      }
+    ]
+  },
+  "url": "http://kateglo.com/api.php?format=json&phrase=alergen",
+  "related": [],
+  "detailed": false
+}
